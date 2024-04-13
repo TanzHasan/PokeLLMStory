@@ -26,7 +26,8 @@ It's not very effective...
 The opposing Iron Moth was frozen solid!'''
 payload = {
     "game_string": story_string,
-    "query": "You are commentating a pokemon battle between two trainers. Describe the battle succinctly but in an engaging way. Say no more than 50 words.",
+    #"query": "You are commentating a pokemon battle between two trainers. Describe the battle succinctly but in an engaging way. Say no more than 50 words.",
+    "query": "You are commentating a pokemon battle between two trainers. Describe the battle step by step but in an engaging way. Use dialogue to enhance game state and trash-talk. Make sure to align it with the battle state.",
     "data": {
         "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
         "abilities": ["Quark Drive", "Intimidate"],
