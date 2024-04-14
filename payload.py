@@ -40,7 +40,7 @@ class BattleHistory:
         }
         #returns a yes or no, to the quesiton "Does the move make sense?"
         response = requests.post(self.hallucination_check_url, data=json.dumps(payload), headers=headers)
-        print(response.json())
+        # print(response.json())
     
         expl = response.json()["result"]
 
@@ -114,12 +114,15 @@ def commentator_generator_test():
 
         battle_logs.append(current_round)
     # print(battle_logs)
-    prompt = '''pretend you are commentating a pokemon battle between two trainers. 
-Describe the battle step by step but in an engaging way. 
-Use dialogue to enhance game state and trash-talk. 
-Make sure to align it with the battle state.
-Make each prompt 50 words or less.'''
-    with open('generated_stories/gen1ou/gen1ou-2093289585.txt', 'w') as f:
+#     prompt = '''pretend you are commentating a pokemon battle between two trainers. 
+# Describe the battle step by step but in an engaging way. 
+# Use dialogue to enhance game state and trash-talk. 
+# Make sure to align it with the battle state.
+# Make each prompt 50 words or less.'''
+    prompt = '''Pretend you are player 2 (p2) in a pokemon battle between two trainers. 
+Create dialogue to react to player 1 (p1) in an engaging way with trash-talk.
+Make sure to align it with the battle state.'''
+    with open('generated_stories/gen1ou/player2-gen1ou-2093289585.txt', 'w') as f:
         battle_logs;
         battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALUCINATION)
         for i, battle_line in enumerate(battle_logs):
@@ -174,4 +177,4 @@ if __name__ == "__main__":
 
     
 
-    print(response.json())
+    # print(response.json())
