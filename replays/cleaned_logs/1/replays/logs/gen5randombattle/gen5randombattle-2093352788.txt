@@ -1,0 +1,129 @@
+p1: Switched to Manaphy
+p2: Switched to Alomomola
+Turn 1:
+p1: Manaphy used Tail Glow on Manaphy
+p2: Alomomola used Toxic on Manaphy
+Turn 2:
+p2: Switched to Thundurus-Therian
+p1: Manaphy used Tail Glow on Manaphy
+Turn 3:
+p1: Switched to Pachirisu
+p2: Thundurus-Therian used Thunderbolt on Pachirisu
+Turn 4:
+p2: Switched to Krookodile
+p1: Pachirisu used Toxic on Krookodile
+Turn 5:
+p1: Pachirisu used U-turn on Krookodile
+p1: Switched to Carnivine
+p2: Krookodile used Stealth Rock on Carnivine
+Turn 6:
+p2: Switched to Thundurus-Therian
+p1: Carnivine used Sleep Powder on Thundurus-Therian
+Turn 7:
+p1: Switched to Tropius
+p2: Thundurus-Therian can't move
+Turn 8:
+p2: Thundurus-Therian can't move
+p1: Tropius used Substitute on Tropius
+Turn 9:
+p2: Thundurus-Therian can't move
+p1: Tropius used Leech Seed on Thundurus-Therian
+Turn 10:
+p1: Tropius used Protect on Tropius
+p2: Thundurus-Therian used Hidden Power on Tropius
+Turn 11:
+p2: Thundurus-Therian used Hidden Power on Tropius
+p1: Tropius used Substitute on Tropius
+Turn 12:
+p2: Switched to Alomomola
+p1: Tropius failed to use Protect
+Turn 13:
+p2: Alomomola used Wish on Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 14:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 15:
+p2: Thundurus-Therian used Hidden Power on Tropius
+p1: Tropius used Leech Seed on Thundurus-Therian
+Turn 16:
+p2: Switched to Alomomola
+p1: Tropius failed to use Protect
+Turn 17:
+p1: Switched to Pachirisu
+p2: Alomomola used Wish on Alomomola
+Turn 18:
+p2: Switched to Dragonair
+p1: Pachirisu used Toxic on Dragonair
+Turn 19:
+p1: Pachirisu used U-turn on Dragonair
+p1: Switched to Arceus-Dragon
+p2: Dragonair used Dragon Dance on Dragonair
+Turn 20:
+p2: Dragonair used Dragon Dance on Dragonair
+p1: Arceus-Dragon used Outrage on Dragonair
+Turn 21:
+p2: Dragonair used Outrage on Arceus-Dragon
+p1: Arceus-Dragon fainted
+p1: Switched to Tropius
+Turn 22:
+p1: Tropius used Protect on Tropius
+p2: Dragonair used Outrage on Tropius
+Turn 23:
+p2: Switched to Alomomola
+p1: Tropius used Substitute on Tropius
+Turn 24:
+p2: Alomomola used Wish on Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 25:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 26:
+p2: Switched to Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 27:
+p2: Alomomola used Wish on Alomomola
+p1: Tropius used Air Slash on Alomomola
+Turn 28:
+p2: Switched to Krookodile
+p1: Tropius used Air Slash on Krookodile
+Turn 29:
+p2: Switched to Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 30:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 31:
+p2: Switched to Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 32:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 33:
+p2: Switched to Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 34:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Leech Seed on Thundurus-Therian
+Turn 35:
+p2: Switched to Alomomola
+p1: Tropius used Air Slash on Alomomola
+Turn 36:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Leech Seed on Thundurus-Therian
+Turn 37:
+p2: Switched to Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 38:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 39:
+p2: Switched to Alomomola
+p1: Tropius used Air Slash on Alomomola
+Turn 40:
+p2: Alomomola used Wish on Alomomola
+p1: Tropius used Leech Seed on Alomomola
+Turn 41:
+p2: Switched to Thundurus-Therian
+p1: Tropius used Air Slash on Thundurus-Therian
+Turn 42:

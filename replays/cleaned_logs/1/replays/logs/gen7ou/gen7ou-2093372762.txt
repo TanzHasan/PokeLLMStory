@@ -1,0 +1,66 @@
+p1: Switched to Gliscor
+p2: Switched to Aggron
+Turn 1:
+p1: Gliscor used Stealth Rock on Aggron
+p2: Aggron used Avalanche on Gliscor
+Turn 2:
+p1: Gliscor used Earthquake on Aggron
+p2: Aggron used Avalanche on Gliscor
+p1: Gliscor fainted
+p1: Switched to Volcarona
+Turn 3:
+p1: Volcarona used Flamethrower on Aggron
+p2: Aggron fainted
+p2: Switched to Empoleon
+Turn 4:
+p1: Switched to Haxorus
+p2: Empoleon used Swords Dance on Empoleon
+Turn 5:
+p1: Haxorus used Dragon Dance on Haxorus
+p2: Empoleon used Steel Wing on Haxorus
+Turn 6:
+p2: Empoleon used Aqua Jet on Haxorus
+p1: Haxorus fainted
+p1: Switched to Bisharp
+Turn 7:
+p1: Bisharp used Swords Dance on Bisharp
+p2: Empoleon used Liquidation on Bisharp
+Turn 8:
+p1: Bisharp used Sucker Punch on Empoleon
+p2: Empoleon used Aqua Jet on Bisharp
+p1: Bisharp fainted
+p1: Switched to Mimikyu
+Turn 9:
+p2: Empoleon used Aqua Jet on Mimikyu
+p1: Mimikyu used Swords Dance on Mimikyu
+Turn 10:
+p1: Mimikyu used Wood Hammer on Empoleon
+p2: Empoleon fainted
+p2: Switched to Goodra
+Turn 11:
+p1: Mimikyu used Play Rough on Goodra
+p2: Goodra fainted
+p2: Switched to Dusknoir
+Turn 12:
+p1: Mimikyu used Shadow Sneak on Dusknoir
+p2: Dusknoir used Shadow Sneak on Mimikyu
+p1: Mimikyu fainted
+p1: Switched to Scizor
+Turn 13:
+p1: Scizor used Bullet Punch on Dusknoir
+p2: Dusknoir fainted
+p2: Switched to Alakazam
+Turn 14:
+p2: Alakazam used Hidden Power on Scizor
+p1: Scizor fainted
+p1: Switched to Volcarona
+Turn 15:
+p2: Alakazam used Focus Blast on Volcarona
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 16:
+p1: Volcarona used Flamethrower on Alakazam
+p2: Alakazam fainted
+p2: Switched to Primeape
+Turn 17:
+p1: Volcarona used Flamethrower on Primeape
+p2: Primeape fainted

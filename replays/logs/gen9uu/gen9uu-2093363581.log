@@ -1,0 +1,273 @@
+|j|☆KBR-13
+|j|☆xdcvhgbhn
+|t:|1711944888
+|gametype|singles
+|player|p1|KBR-13|lance|1175
+|player|p2|xdcvhgbhn|266|1103
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Excadrill, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Quaquaval, M|
+|poke|p1|Latios, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Skeledirge, M|
+|poke|p2|Slowking, F|
+|poke|p2|Latios, M|
+|poke|p2|Ogerpon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KBR-13)
+|inactive|xdcvhgbhn has 120 seconds left.
+|c|☆KBR-13|Compromise i mooove
+|c|☆KBR-13|Moutain for you fukkk that
+|c|☆KBR-13|Social climbing lean in to me
+|inactive|xdcvhgbhn has 90 seconds left.
+|c|☆KBR-13|Drake make my mood
+|inactive|xdcvhgbhn has 60 seconds left.
+|
+|t:|1711944983
+|start
+|switch|p1a: Adam|Deoxys-Speed, shiny|100/100
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|-ability|p1a: Adam|Pressure
+|turn|1
+|
+|t:|1711944992
+|move|p1a: Adam|Ice Beam|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|51/100
+|-damage|p1a: Adam|91/100|[from] item: Life Orb
+|move|p2a: Mandibuzz|Knock Off|p1a: Adam
+|-supereffective|p1a: Adam
+|-damage|p1a: Adam|16/100
+|-enditem|p1a: Adam|Life Orb|[from] move: Knock Off|[of] p2a: Mandibuzz
+|
+|upkeep
+|turn|2
+|
+|t:|1711945011
+|switch|p1a: Tempête Pourpre|Tyranitar, F, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tempête Pourpre
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711945022
+|move|p2a: Mandibuzz|Toxic|p1a: Tempête Pourpre
+|-status|p1a: Tempête Pourpre|tox
+|move|p1a: Tempête Pourpre|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: xdcvhgbhn|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tempête Pourpre|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711945030
+|move|p2a: Mandibuzz|Defog|p1a: Tempête Pourpre
+|-unboost|p1a: Tempête Pourpre|evasion|1
+|-sideend|p2: xdcvhgbhn|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|move|p1a: Tempête Pourpre|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|89/100
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tempête Pourpre
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tempête Pourpre|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711945040
+|move|p2a: Mandibuzz|Knock Off|p1a: Tempête Pourpre
+|-resisted|p1a: Tempête Pourpre
+|-damage|p1a: Tempête Pourpre|74/100 tox
+|-enditem|p1a: Tempête Pourpre|Smooth Rock|[from] move: Knock Off|[of] p2a: Mandibuzz
+|move|p1a: Tempête Pourpre|Thunder Wave|p2a: Mandibuzz
+|-status|p2a: Mandibuzz|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tempête Pourpre|55/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711945050
+|move|p1a: Tempête Pourpre|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: xdcvhgbhn|move: Stealth Rock
+|move|p2a: Mandibuzz|Knock Off|p1a: Tempête Pourpre
+|-resisted|p1a: Tempête Pourpre
+|-damage|p1a: Tempête Pourpre|50/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tempête Pourpre|25/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711945063
+|switch|p1a: Carnage Pourpre|Excadrill, F, shiny|100/100
+|move|p2a: Mandibuzz|Defog|p1a: Carnage Pourpre
+|-unboost|p1a: Carnage Pourpre|evasion|1
+|-sideend|p2: xdcvhgbhn|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711945070
+|move|p1a: Carnage Pourpre|Swords Dance|p1a: Carnage Pourpre
+|-boost|p1a: Carnage Pourpre|atk|2
+|move|p2a: Mandibuzz|Knock Off|p1a: Carnage Pourpre
+|-damage|p1a: Carnage Pourpre|70/100
+|-enditem|p1a: Carnage Pourpre|Life Orb|[from] move: Knock Off|[of] p2a: Mandibuzz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1711945094
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|move|p1a: Carnage Pourpre|Rock Slide|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|66/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1711945105
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|move|p1a: Carnage Pourpre|Earthquake|p2a: Ogerpon
+|-resisted|p2a: Ogerpon
+|-damage|p2a: Ogerpon|29/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711945113
+|switch|p1a: Beauté Macabre|Mandibuzz, F, shiny|100/100
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Beauté Macabre
+|-resisted|p1a: Beauté Macabre
+|-damage|p1a: Beauté Macabre|79/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711945125
+|switch|p2a: Mandibuzz|Mandibuzz, F|89/100 par
+|move|p1a: Beauté Macabre|Foul Play|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|82/100 par
+|
+|upkeep
+|turn|13
+|
+|t:|1711945136
+|switch|p1a: Carnage Pourpre|Excadrill, F, shiny|70/100
+|cant|p2a: Mandibuzz|par
+|
+|upkeep
+|turn|14
+|
+|t:|1711945147
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Carnage Pourpre|Iron Head|p2a: Hippowdon
+|-damage|p2a: Hippowdon|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|81/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711945157
+|-terastallize|p1a: Carnage Pourpre|Flying
+|move|p1a: Carnage Pourpre|Swords Dance|p1a: Carnage Pourpre
+|-boost|p1a: Carnage Pourpre|atk|2
+|move|p2a: Hippowdon|Stealth Rock|p1a: Carnage Pourpre
+|-sidestart|p1: KBR-13|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|87/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711945166
+|move|p1a: Carnage Pourpre|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|18/100
+|move|p2a: Hippowdon|Whirlwind|p1a: Carnage Pourpre
+|drag|p1a: Beauté Macabre|Mandibuzz, F, shiny|79/100
+|-damage|p1a: Beauté Macabre|54/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|25/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711945178
+|move|p1a: Beauté Macabre|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p1: KBR-13|Stealth Rock|[from] move: Defog|[of] p1a: Beauté Macabre
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|81/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711945197
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Latios
+|-sidestart|p1: KBR-13|move: Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Hippowdon|87/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711945212
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Latios|Surf|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|91/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711945219
+|move|p1a: Latios|Draco Meteor|p2a: Slowking
+|-damage|p2a: Slowking|36/100
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snow
+|
+|t:|1711945241
+|switch|p2a: Mandibuzz|Mandibuzz, F|82/100 par|[from] Chilly Reception
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|21
+|-message|KBR-13 forfeited.
+|
+|win|xdcvhgbhn
+|raw|KBR-13's rating: 1175 &rarr; <strong>1145</strong><br />(-30 for losing)
+|raw|xdcvhgbhn's rating: 1103 &rarr; <strong>1133</strong><br />(+30 for winning)
+|l|☆KBR-13
+|player|p1|

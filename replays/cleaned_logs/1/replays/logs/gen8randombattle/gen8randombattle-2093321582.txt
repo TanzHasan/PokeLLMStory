@@ -1,0 +1,34 @@
+p1: Switched to Walrein
+p2: Switched to Rhydon
+Turn 1:
+p2: Switched to Jynx
+p1: Walrein used Max Geyser on Jynx
+Turn 2:
+p2: Jynx used Focus Blast on Walrein
+p1: Walrein used Max Hailstorm on Jynx
+Turn 3:
+p2: Jynx used Focus Blast on Walrein
+p1: Walrein used Max Hailstorm on Jynx
+Turn 4:
+p2: Jynx used Focus Blast on Walrein
+p1: Walrein fainted
+p1: Switched to Braviary
+Turn 5:
+p2: Switched to Emolga
+p1: Braviary used Close Combat on Emolga
+Turn 6:
+p1: Switched to Jolteon
+p2: Emolga used Toxic on Jolteon
+Turn 7:
+p1: Jolteon used Hyper Voice on Emolga
+p2: Emolga used Roost on Emolga
+Turn 8:
+p1: Jolteon used Hyper Voice on Emolga
+p2: Emolga used Roost on Emolga
+Turn 9:
+p1: Jolteon used Hyper Voice on Emolga
+p2: Emolga used Roost on Emolga
+Turn 10:
+p1: Jolteon used Hyper Voice on Emolga
+p2: Emolga used Roost on Emolga
+Turn 11:

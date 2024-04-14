@@ -1,0 +1,120 @@
+p1: Switched to Misdreavus
+p2: Switched to Slowking
+Turn 1:
+p1: Misdreavus used Thunderbolt on Slowking
+p2: Slowking used Amnesia on Slowking
+Turn 2:
+p1: Misdreavus used Thunderbolt on Slowking
+p2: Slowking used Surf on Misdreavus
+Turn 3:
+p1: Misdreavus used Mean Look on Slowking
+p2: Slowking used Rest on Slowking
+Turn 4:
+p1: Misdreavus used Perish Song on Misdreavus
+p2: Slowking used Psychic on Misdreavus
+Turn 5:
+p1: Misdreavus used Perish Song on Misdreavus
+p2: Slowking used Psychic on Misdreavus
+Turn 6:
+p1: Misdreavus used Pain Split on Slowking
+p2: Slowking used Psychic on Misdreavus
+Turn 7:
+p1: Switched to Feraligatr
+p2: Slowking used Surf on Feraligatr
+p2: Slowking fainted
+p2: Switched to Hitmonlee
+Turn 8:
+p1: Switched to Scyther
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 9:
+p1: Scyther used Agility on Scyther
+p2: Hitmonlee used Body Slam on Scyther
+Turn 10:
+p1: Scyther used Baton Pass on Scyther
+p1: Switched to Misdreavus
+p2: Hitmonlee used Body Slam on Misdreavus
+Turn 11:
+p2: Switched to Steelix
+p1: Misdreavus used Pain Split on Steelix
+Turn 12:
+p1: Misdreavus used Mean Look on Steelix
+p2: Steelix used Roar on Misdreavus
+Turn 13:
+p1: p1a: Machamp used Cross Chop on Steelix
+p2: Steelix used Explosion on p1a: Machamp
+p2: Steelix fainted
+p1: p1a: Machamp fainted
+p1: Switched to Scyther
+p2: Switched to Starmie
+Turn 14:
+p1: Switched to Feraligatr
+p2: Starmie used Thunderbolt on Feraligatr
+Turn 15:
+p1: Switched to Dugtrio
+p2: Starmie used Thunderbolt on Dugtrio
+Turn 16:
+p1: Dugtrio used Substitute on Dugtrio
+p2: Starmie used Surf on Dugtrio
+Turn 17:
+p1: Dugtrio used Hidden Power on Starmie
+p2: Starmie used Surf on Dugtrio
+p1: Dugtrio fainted
+p1: Switched to Misdreavus
+Turn 18:
+p2: Switched to Hitmonlee
+p1: Misdreavus used Thunderbolt on Hitmonlee
+Turn 19:
+p2: Hitmonlee used Rest on Hitmonlee
+p1: Misdreavus used Mean Look on Hitmonlee
+Turn 20:
+p2: Hitmonlee used Curse on Hitmonlee
+p1: Misdreavus used Perish Song on Misdreavus
+Turn 21:
+p1: Misdreavus used Thunderbolt on Hitmonlee
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 22:
+p1: Misdreavus used Thunderbolt on Hitmonlee
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 23:
+p1: Switched to Feraligatr
+p2: Hitmonlee used Body Slam on Feraligatr
+p2: Hitmonlee fainted
+p2: Switched to Starmie
+Turn 24:
+p2: Starmie used Thunderbolt on Feraligatr
+p1: Feraligatr fainted
+p1: Switched to Misdreavus
+Turn 25:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Mean Look on Starmie
+Turn 26:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Pain Split on Starmie
+Turn 27:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Thunderbolt on Starmie
+Turn 28:
+p1: Switched to Scyther
+p2: Starmie used Surf on Scyther
+Turn 29:
+p2: Starmie used Thunderbolt on Scyther
+p1: Scyther fainted
+p1: Switched to Pikachu
+Turn 30:
+p2: Starmie used Surf on Pikachu
+p1: Pikachu used Thunderbolt on Starmie
+p2: Starmie fainted
+p2: Switched to Aerodactyl
+Turn 31:
+p2: Aerodactyl used Earthquake on Pikachu
+p1: Pikachu fainted
+p1: Switched to Misdreavus
+Turn 32:
+p2: Aerodactyl used Substitute on Aerodactyl
+p1: Misdreavus used Pain Split on Aerodactyl
+Turn 33:
+p2: Aerodactyl used Earthquake on Misdreavus
+p1: Misdreavus used Thunderbolt on Aerodactyl
+Turn 34:
+p2: Aerodactyl used Earthquake on Misdreavus
+p1: Misdreavus fainted

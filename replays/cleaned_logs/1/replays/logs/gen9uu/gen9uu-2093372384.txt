@@ -1,0 +1,85 @@
+p1: Switched to Tyranitar
+p2: Switched to Lokix
+Turn 1:
+p2: Lokix used First Impression on Tyranitar
+p1: Tyranitar fainted
+p1: Switched to Excadrill
+Turn 2:
+p2: Switched to Rotom-Wash
+p1: Excadrill used Swords Dance on Excadrill
+Turn 3:
+p1: Excadrill used Iron Head on Rotom-Wash
+p2: Rotom-Wash can't move
+Turn 4:
+p1: Switched to Latios
+p2: Rotom-Wash used Will-O-Wisp on Latios
+Turn 5:
+p1: Latios used Draco Meteor on Rotom-Wash
+p2: Rotom-Wash used Pain Split on Latios
+Turn 6:
+p1: Switched to Hydrapple
+p2: Rotom-Wash used Thunder Wave on Hydrapple
+Turn 7:
+p2: Rotom-Wash used Pain Split on Hydrapple
+p1: Hydrapple used Infestation on Rotom-Wash
+Turn 8:
+p2: Rotom-Wash used Volt Switch on Hydrapple
+p2: Switched to Skeledirge
+p1: Hydrapple used Fickle Beam on Skeledirge
+Turn 9:
+p1: Switched to Slowking
+p2: Skeledirge used Torch Song on Slowking
+Turn 10:
+p2: Skeledirge used Shadow Ball on Slowking
+p1: Slowking used Thunder Wave on Skeledirge
+Turn 11:
+p1: Switched to Hydrapple
+p2: Switched to Sinistcha
+Turn 12:
+p2: Sinistcha used Strength Sap on Hydrapple
+p1: Hydrapple can't move
+Turn 13:
+p2: Sinistcha used Curse on Hydrapple
+p1: Hydrapple can't move
+Turn 14:
+p2: Sinistcha used Strength Sap on Hydrapple
+p1: Hydrapple can't move
+Turn 15:
+p1: Switched to Latios
+p2: Sinistcha used Strength Sap on Latios
+Turn 16:
+p1: Latios used Tera Blast on Sinistcha
+p2: Sinistcha used Curse on Latios
+Turn 17:
+p2: Switched to Toxapex
+p1: Latios used Tera Blast on Toxapex
+Turn 18:
+p1: Switched to Hydrapple
+p2: Toxapex used Recover on Toxapex
+Turn 19:
+p2: Switched to Sinistcha
+p1: Hydrapple used Earth Power on Sinistcha
+p2: Sinistcha fainted
+p2: Switched to Lokix
+Turn 20:
+p1: Switched to Excadrill
+p2: Lokix used First Impression on Excadrill
+Turn 21:
+p2: Switched to Rotom-Wash
+p1: Excadrill used Iron Head on Rotom-Wash
+Turn 22:
+p1: Excadrill used Iron Head on Rotom-Wash
+p2: Rotom-Wash used Will-O-Wisp on Excadrill
+Turn 23:
+p1: Excadrill used Iron Head on Rotom-Wash
+p2: Rotom-Wash used Will-O-Wisp on Excadrill
+p1: Excadrill fainted
+p1: Switched to Mamoswine
+Turn 24:
+p1: Mamoswine used Trailblaze on Rotom-Wash
+p2: Rotom-Wash fainted
+p2: Switched to Lokix
+Turn 25:
+p1: Mamoswine used Icicle Spear on Lokix
+p2: Lokix used Low Kick on Mamoswine
+p1: Mamoswine fainted

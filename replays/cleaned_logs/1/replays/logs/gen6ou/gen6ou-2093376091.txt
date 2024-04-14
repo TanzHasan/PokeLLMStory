@@ -1,0 +1,52 @@
+p1: Switched to Weavile
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Landorus-Therian used U-turn on Weavile
+p2: Switched to Bisharp
+p1: Weavile used Icicle Crash on Bisharp
+Turn 2:
+p2: Bisharp used Sucker Punch on Weavile
+p1: Weavile fainted
+p1: Switched to Aerodactyl
+Turn 3:
+p1: Aerodactyl used Stealth Rock on Bisharp
+p2: Bisharp used Swords Dance on Bisharp
+Turn 4:
+p2: Bisharp failed to use Sucker Punch
+p1: Aerodactyl used Taunt on Bisharp
+Turn 5:
+p2: Bisharp used Sucker Punch on Aerodactyl
+p1: Aerodactyl fainted
+p1: Switched to Scizor
+Turn 6:
+p2: Bisharp used Sucker Punch on Scizor
+p1: Scizor used Bug Bite on Bisharp
+p2: Bisharp fainted
+p2: Switched to Landorus-Therian
+Turn 7:
+p2: Landorus-Therian used Stealth Rock on Scizor
+p1: Scizor used Knock Off on Landorus-Therian
+Turn 8:
+p1: Scizor used Bullet Punch on Landorus-Therian
+p2: Landorus-Therian used U-turn on Scizor
+p1: Scizor fainted
+p2: Switched to Serperior
+p1: Switched to Thundurus-Therian
+Turn 9:
+p2: Serperior used Taunt on Thundurus-Therian
+p1: Thundurus-Therian can't move
+Turn 10:
+p2: Serperior used Light Screen on Serperior
+p1: Thundurus-Therian used Hidden Power on Serperior
+Turn 11:
+p2: Serperior used Leaf Storm on Thundurus-Therian
+p1: Thundurus-Therian used Hidden Power on Serperior
+Turn 12:
+p2: Serperior used Leaf Storm on Thundurus-Therian
+p1: Thundurus-Therian used Hidden Power on Serperior
+Turn 13:
+p2: Serperior used Leaf Storm on Thundurus-Therian
+p1: Thundurus-Therian used Nasty Plot on Thundurus-Therian
+Turn 14:
+p2: Serperior used Leaf Storm on Thundurus-Therian
+p1: Thundurus-Therian fainted

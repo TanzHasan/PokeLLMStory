@@ -1,0 +1,176 @@
+p1: Switched to Starmie
+p2: Switched to Starmie
+Turn 1:
+p1: Switched to Chansey
+p2: Starmie used Ice Beam on Chansey
+Turn 2:
+p2: Starmie used Ice Beam on Chansey
+p1: Chansey used Thunderbolt on Starmie
+Turn 3:
+p2: Switched to Exeggutor
+p1: Chansey used Thunderbolt on Exeggutor
+Turn 4:
+p1: Switched to Gengar
+p2: Exeggutor used Sleep Powder on Gengar
+Turn 5:
+p1: Switched to Exeggutor
+p2: Exeggutor used Stun Spore on Exeggutor
+Turn 6:
+p1: Exeggutor used Sleep Powder on Exeggutor
+p2: Exeggutor can't move
+Turn 7:
+p1: Switched to Starmie
+p2: Switched to Starmie
+Turn 8:
+p2: Switched to Chansey
+p1: Switched to Chansey
+Turn 9:
+p1: Switched to Snorlax
+p2: Chansey used Thunder Wave on Snorlax
+Turn 10:
+p2: Chansey used Ice Beam on Snorlax
+p1: Snorlax used Body Slam on Chansey
+Turn 11:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 12:
+p2: Switched to Snorlax
+p1: Snorlax used Body Slam on Snorlax
+Turn 13:
+p1: Switched to Gengar
+p2: Snorlax used Body Slam on Gengar
+Turn 14:
+p1: Switched to Exeggutor
+p2: Snorlax used Body Slam on Exeggutor
+Turn 15:
+p2: Snorlax used Body Slam on Exeggutor
+p1: Exeggutor used Stun Spore on Snorlax
+Turn 16:
+p2: Switched to Exeggutor
+p1: Exeggutor used Explosion on Exeggutor
+p1: Exeggutor fainted
+p1: Switched to Gengar
+Turn 17:
+p2: Switched to Rhydon
+p1: Gengar can't move
+Turn 18:
+p1: Switched to Starmie
+p2: Rhydon used Earthquake on Starmie
+Turn 19:
+p2: Switched to Chansey
+p1: Starmie used Hydro Pump on Chansey
+Turn 20:
+p1: Starmie used Hydro Pump on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 21:
+p1: Switched to Snorlax
+p2: Chansey used Thunder Wave on Snorlax
+Turn 22:
+p2: Switched to Snorlax
+p1: Snorlax used Surf on Snorlax
+Turn 23:
+p1: Switched to Gengar
+p2: Snorlax used Body Slam on Gengar
+Turn 24:
+p2: Switched to Starmie
+p1: Gengar can't move
+Turn 25:
+p1: Switched to Chansey
+p2: Starmie used Recover on Starmie
+Turn 26:
+p2: Switched to Chansey
+p1: Chansey used Ice Beam on Chansey
+Turn 27:
+p1: Switched to Snorlax
+p2: Chansey used Thunder Wave on Snorlax
+Turn 28:
+p2: Switched to Snorlax
+p1: Snorlax used Body Slam on Snorlax
+Turn 29:
+p1: Switched to Gengar
+p2: Switched to Rhydon
+Turn 30:
+p1: Switched to Starmie
+p2: Rhydon used Earthquake on Starmie
+Turn 31:
+p2: Switched to Chansey
+p1: Starmie used Recover on Starmie
+Turn 32:
+p1: Starmie used Hydro Pump on Chansey
+p2: Chansey used Thunderbolt on Starmie
+Turn 33:
+p1: Switched to Snorlax
+p2: Chansey used Soft-Boiled on Chansey
+Turn 34:
+p2: Switched to Exeggutor
+p1: Snorlax used Body Slam on Exeggutor
+p2: Exeggutor fainted
+p2: Switched to Starmie
+Turn 35:
+p1: Switched to Chansey
+p2: Starmie used Psychic on Chansey
+Turn 36:
+p2: Starmie used Thunder Wave on Chansey
+p1: Chansey can't move
+Turn 37:
+p2: Switched to Snorlax
+p1: Chansey used Ice Beam on Snorlax
+Turn 38:
+p1: Switched to Gengar
+p2: Snorlax used Rest on Snorlax
+Turn 39:
+p1: Switched to Snorlax
+p2: Switched to Rhydon
+Turn 40:
+p2: Rhydon used Earthquake on Snorlax
+p1: Snorlax used Surf on Rhydon
+Turn 41:
+p2: Rhydon used Earthquake on Snorlax
+p1: Snorlax used Surf on Rhydon
+p2: Rhydon fainted
+p2: Switched to Tauros
+Turn 42:
+p2: Tauros used Body Slam on Snorlax
+p1: Snorlax fainted
+p1: Switched to Tauros
+Turn 43:
+p1: Tauros used Body Slam on Tauros
+p2: Tauros used Body Slam on Tauros
+Turn 44:
+p1: Tauros used Body Slam on Tauros
+p2: Tauros used Body Slam on Tauros
+Turn 45:
+p2: Switched to Chansey
+p1: Tauros used Hyper Beam on Chansey
+Turn 46:
+p1: Tauros can't move
+p2: Chansey used Thunder Wave on Tauros
+Turn 47:
+p2: Switched to Snorlax
+p1: Switched to Chansey
+Turn 48:
+p2: Snorlax can't move
+p1: Chansey can't move
+Turn 49:
+p1: Switched to Starmie
+Turn 50:
+p1: Switched to Gengar
+p2: Snorlax used Body Slam on Gengar
+Turn 51:
+p2: Switched to Tauros
+p1: Gengar can't move
+Turn 52:
+p2: Tauros used Earthquake on Gengar
+p1: Gengar fainted
+p1: Switched to Tauros
+Turn 53:
+p2: Tauros used Hyper Beam on Tauros
+p1: Tauros fainted
+p1: Switched to Starmie
+Turn 54:
+p2: Tauros used Body Slam on Starmie
+p1: Starmie fainted
+p1: Switched to Chansey
+Turn 55:
+p2: Tauros used Hyper Beam on Chansey
+p1: Chansey fainted

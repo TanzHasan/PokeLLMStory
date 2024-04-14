@@ -1,0 +1,301 @@
+|j|☆Best Unkle Dan
+|j|☆slumbererer
+|t:|1711944344
+|gametype|singles
+|player|p1|Best Unkle Dan|169|1167
+|player|p2|slumbererer|101|1164
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Metagross|
+|poke|p1|Latios, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Scizor, M|
+|poke|p1|Iron Moth|
+|poke|p1|Mamoswine, M|
+|poke|p2|Hydrapple, M|
+|poke|p2|Cyclizar, M|
+|poke|p2|Mienshao, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Toxapex, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by slumbererer)
+|
+|t:|1711944369
+|start
+|switch|p1a: Metagross|Metagross, shiny|100/100
+|switch|p2a: SHAO|Mienshao, M, shiny|100/100
+|turn|1
+|inactive|slumbererer has 120 seconds left.
+|
+|t:|1711944401
+|move|p2a: SHAO|U-turn|p1a: Metagross
+|-damage|p1a: Metagross|75/100
+|-damage|p2a: SHAO|91/100|[from] item: Life Orb
+|
+|t:|1711944404
+|switch|p2a: BRO|Slowbro, M, shiny|100/100|[from] U-turn
+|move|p1a: Metagross|Heavy Slam|p2a: BRO
+|-resisted|p2a: BRO
+|-damage|p2a: BRO|80/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711944431
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: BRO|Scald|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|85/100
+|-status|p1a: Rotom|brn
+|
+|-heal|p1a: Rotom|91/100 brn|[from] item: Leftovers
+|-damage|p1a: Rotom|85/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|slumbererer has 120 seconds left.
+|
+|t:|1711944455
+|switch|p2a: APPLE|Hydrapple, M|100/100
+|move|p1a: Rotom|Thunderbolt|p2a: APPLE
+|-resisted|p2a: APPLE
+|-damage|p2a: APPLE|93/100
+|
+|-heal|p1a: Rotom|91/100 brn|[from] item: Leftovers
+|-heal|p2a: APPLE|99/100|[from] item: Leftovers
+|-damage|p1a: Rotom|85/100 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|Best Unkle Dan has 120 seconds left.
+|
+|t:|1711944485
+|move|p1a: Rotom|Thunderbolt|p2a: APPLE
+|-resisted|p2a: APPLE
+|-crit|p2a: APPLE
+|-damage|p2a: APPLE|88/100
+|move|p2a: APPLE|Nasty Plot|p2a: APPLE
+|-boost|p2a: APPLE|spa|2
+|
+|-heal|p1a: Rotom|91/100 brn|[from] item: Leftovers
+|-heal|p2a: APPLE|94/100|[from] item: Leftovers
+|-damage|p1a: Rotom|85/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|Best Unkle Dan has 120 seconds left.
+|
+|t:|1711944519
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: APPLE|Giga Drain|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|76/100
+|-heal|p2a: APPLE|100/100|[from] drain|[of] p1a: Scizor
+|
+|upkeep
+|turn|6
+|
+|t:|1711944533
+|move|p1a: Scizor|Bug Bite|p2a: APPLE
+|-supereffective|p2a: APPLE
+|-damage|p2a: APPLE|5/100
+|-damage|p1a: Scizor|66/100|[from] item: Life Orb
+|move|p2a: APPLE|Earth Power|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: APPLE|11/100|[from] item: Leftovers
+|upkeep
+|inactive|Best Unkle Dan has 90 seconds left.
+|
+|t:|1711944555
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|7
+|
+|t:|1711944567
+|switch|p2a: BRO|Slowbro, M, shiny|100/100
+|move|p1a: Mamoswine|Knock Off|p2a: BRO
+|-supereffective|p2a: BRO
+|-damage|p2a: BRO|49/100
+|-enditem|p2a: BRO|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Mamoswine
+|
+|upkeep
+|turn|8
+|inactive|Best Unkle Dan has 90 seconds left.
+|
+|t:|1711944590
+|switch|p1a: Rotom|Rotom-Wash|85/100 brn
+|move|p2a: BRO|Slack Off|p2a: BRO
+|-heal|p2a: BRO|99/100
+|
+|-heal|p1a: Rotom|91/100 brn|[from] item: Leftovers
+|-damage|p1a: Rotom|85/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711944594
+|switch|p2a: APPLE|Hydrapple, M|44/100
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|-heal|p1a: Rotom|91/100 brn|[from] item: Leftovers
+|-heal|p2a: APPLE|50/100|[from] item: Leftovers
+|-damage|p1a: Rotom|85/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711944609
+|move|p1a: Rotom|Thunderbolt|p2a: APPLE
+|-resisted|p2a: APPLE
+|-damage|p2a: APPLE|34/100
+|move|p2a: APPLE|Giga Drain|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|4/100 brn
+|-heal|p2a: APPLE|64/100|[from] drain|[of] p1a: Rotom
+|
+|-heal|p1a: Rotom|10/100 brn|[from] item: Leftovers
+|-heal|p2a: APPLE|70/100|[from] item: Leftovers
+|-damage|p1a: Rotom|4/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711944617
+|move|p1a: Rotom|Thunderbolt|p2a: APPLE
+|-resisted|p2a: APPLE
+|-damage|p2a: APPLE|53/100
+|move|p2a: APPLE|Earth Power|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|-heal|p1a: Rotom|10/100 brn|[from] item: Leftovers
+|-heal|p2a: APPLE|59/100|[from] item: Leftovers
+|-damage|p1a: Rotom|4/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711944624
+|move|p1a: Rotom|Hydro Pump|p2a: APPLE
+|-resisted|p2a: APPLE
+|-damage|p2a: APPLE|41/100
+|move|p2a: APPLE|Giga Drain|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|-heal|p2a: APPLE|42/100|[from] drain|[of] p1a: Rotom
+|faint|p1a: Rotom
+|
+|-heal|p2a: APPLE|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711944627
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|13
+|
+|t:|1711944631
+|switch|p2a: BRO|Slowbro, M, shiny|100/100
+|move|p1a: Mamoswine|Icicle Crash|p2a: BRO
+|-resisted|p2a: BRO
+|-damage|p2a: BRO|81/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711944641
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: BRO|Scald|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|87/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711944645
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: BRO|Foul Play|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|42/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711944651
+|move|p1a: Latios|Dragon Pulse|p2a: BRO
+|-damage|p2a: BRO|9/100
+|move|p2a: BRO|Foul Play|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1711944655
+|switch|p1a: Metagross|Metagross, shiny|75/100
+|turn|17
+|
+|t:|1711944658
+|switch|p2a: PEX|Toxapex, M, shiny|100/100
+|move|p1a: Metagross|Heavy Slam|p2a: PEX
+|-resisted|p2a: PEX
+|-damage|p2a: PEX|82/100
+|-damage|p1a: Metagross|59/100|[from] item: Rocky Helmet|[of] p2a: PEX
+|
+|upkeep
+|turn|18
+|
+|t:|1711944668
+|move|p1a: Metagross|Psychic Fangs|p2a: PEX
+|-supereffective|p2a: PEX
+|-damage|p2a: PEX|26/100
+|-damage|p1a: Metagross|42/100|[from] item: Rocky Helmet|[of] p2a: PEX
+|move|p2a: PEX|Liquidation|p1a: Metagross
+|-damage|p1a: Metagross|28/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711944687
+|switch|p2a: TORN|Tornadus-Therian, M|100/100
+|move|p1a: Metagross|Psychic Fangs|p2a: TORN
+|-damage|p2a: TORN|49/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711944699
+|move|p2a: TORN|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|-enditem|p1a: Metagross|Custap Berry|[from] move: Knock Off|[of] p2a: TORN
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1711944702
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|21
+|
+|t:|1711944709
+|switch|p2a: BRO|Slowbro, M, shiny|42/100
+|move|p1a: Mamoswine|Icicle Crash|p2a: BRO|[miss]
+|-miss|p1a: Mamoswine|p2a: BRO
+|
+|upkeep
+|turn|22
+|-message|Best Unkle Dan forfeited.
+|
+|win|slumbererer
+|raw|Best Unkle Dan's rating: 1167 &rarr; <strong>1142</strong><br />(-25 for losing)
+|raw|slumbererer's rating: 1164 &rarr; <strong>1189</strong><br />(+25 for winning)
+|l|☆Best Unkle Dan
+|player|p1|
+|l|☆slumbererer
+|player|p2|

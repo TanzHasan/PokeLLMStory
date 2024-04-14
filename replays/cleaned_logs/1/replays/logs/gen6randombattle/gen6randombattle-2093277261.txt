@@ -1,0 +1,138 @@
+p1: Switched to Alakazam
+p2: Switched to Sylveon
+Turn 1:
+p1: Alakazam used Psychic on Sylveon
+p2: Sylveon used Calm Mind on Sylveon
+Turn 2:
+p1: Alakazam used Focus Blast on Sylveon
+p2: Sylveon used Calm Mind on Sylveon
+Turn 3:
+p1: Alakazam used Focus Blast on Sylveon
+p2: Sylveon used Calm Mind on Sylveon
+Turn 4:
+p2: Sylveon used Calm Mind on Sylveon
+p1: Alakazam failed to use Counter
+Turn 5:
+p1: Switched to Corsola
+p2: Sylveon used Calm Mind on Sylveon
+Turn 6:
+p2: Sylveon used Calm Mind on Sylveon
+p1: Corsola used Toxic on Sylveon
+Turn 7:
+p2: Sylveon used Hyper Voice on Corsola
+p1: Corsola fainted
+p1: Switched to Alakazam
+Turn 8:
+p1: Alakazam used Psychic on Sylveon
+p2: Sylveon used Hyper Voice on Alakazam
+Turn 9:
+p2: Sylveon used Hyper Voice on Alakazam
+p1: Alakazam fainted
+p1: Switched to Heliolisk
+Turn 10:
+p1: Heliolisk used Thunder on Sylveon
+p2: Sylveon used Hyper Voice on Heliolisk
+p1: Heliolisk fainted
+p1: Switched to Stoutland
+Turn 11:
+p1: Stoutland used Wild Charge on Sylveon
+p2: Sylveon fainted
+p2: Switched to Cobalion
+Turn 12:
+p1: Stoutland used Wild Charge on Cobalion
+p2: Cobalion used Swords Dance on Cobalion
+Turn 13:
+p1: Stoutland used Wild Charge on Cobalion
+p2: Cobalion used Close Combat on Stoutland
+p1: Stoutland fainted
+p1: Switched to Garchomp
+Turn 14:
+p2: Cobalion used Close Combat on Garchomp
+p1: Garchomp used Earthquake on Cobalion
+p2: Cobalion fainted
+p2: Switched to Magmortar
+Turn 15:
+p2: Magmortar used Focus Blast on Garchomp
+p1: Garchomp fainted
+p1: Switched to Aromatisse
+Turn 16:
+p2: Magmortar used Fire Blast on Aromatisse
+p1: Aromatisse used Toxic on Magmortar
+Turn 17:
+p2: Magmortar used Fire Blast on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 18:
+p1: Aromatisse used Protect on Aromatisse
+p2: Magmortar used Fire Blast on Aromatisse
+Turn 19:
+p2: Switched to Gigalith
+p1: Aromatisse used Wish on Aromatisse
+Turn 20:
+p1: Aromatisse used Toxic on Gigalith
+p2: Gigalith used Stealth Rock on Aromatisse
+Turn 21:
+p1: Aromatisse used Wish on Aromatisse
+p2: Gigalith used Stone Edge on Aromatisse
+Turn 22:
+p1: Aromatisse used Moonblast on Gigalith
+p2: Gigalith used Stone Edge on Aromatisse
+Turn 23:
+p1: Aromatisse used Moonblast on Gigalith
+p2: Gigalith fainted
+p2: Switched to Crawdaunt
+Turn 24:
+p2: Crawdaunt used Crabhammer on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 25:
+p1: Aromatisse used Protect on Aromatisse
+p2: Crawdaunt used Aqua Jet on Aromatisse
+Turn 26:
+p2: Crawdaunt used Crabhammer on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 27:
+p2: Crawdaunt used Dragon Dance on Crawdaunt
+p1: Aromatisse used Toxic on Crawdaunt
+Turn 28:
+p2: Crawdaunt used Crabhammer on Aromatisse
+p1: Aromatisse used Toxic on Crawdaunt
+Turn 29:
+p2: Crawdaunt used Crabhammer on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 30:
+p2: Crawdaunt used Dragon Dance on Crawdaunt
+p1: Aromatisse used Moonblast on Crawdaunt
+p2: Crawdaunt fainted
+p2: Switched to Magmortar
+Turn 31:
+p2: Magmortar used Fire Blast on Aromatisse
+p1: Aromatisse used Moonblast on Magmortar
+Turn 32:
+p1: Aromatisse used Protect on Aromatisse
+p2: Magmortar used Fire Blast on Aromatisse
+Turn 33:
+p2: Magmortar used Fire Blast on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 34:
+p1: Aromatisse used Protect on Aromatisse
+p2: Magmortar used Fire Blast on Aromatisse
+p2: Magmortar fainted
+p2: Switched to Vaporeon
+Turn 35:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Toxic on Vaporeon
+Turn 36:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Toxic on Vaporeon
+Turn 37:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 38:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Moonblast on Vaporeon
+Turn 39:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Wish on Aromatisse
+Turn 40:
+p2: Vaporeon used Ice Beam on Aromatisse
+p1: Aromatisse used Moonblast on Vaporeon
+p2: Vaporeon fainted

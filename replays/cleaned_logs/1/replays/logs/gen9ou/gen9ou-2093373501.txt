@@ -1,0 +1,93 @@
+p1: Switched to Darkrai
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Switched to Iron Moth
+p1: Darkrai used Ice Beam on Iron Moth
+Turn 2:
+p1: Darkrai used Dark Pulse on Iron Moth
+p2: Iron Moth can't move
+Turn 3:
+p1: Darkrai used Dark Pulse on Iron Moth
+p2: Iron Moth fainted
+p2: Switched to Iron Valiant
+Turn 4:
+p2: Iron Valiant used Moonblast on Darkrai
+p1: Darkrai used Sludge Bomb on Iron Valiant
+p2: Iron Valiant fainted
+p2: Switched to Iron Treads
+Turn 5:
+p1: Darkrai used Ice Beam on Iron Treads
+p2: Iron Treads used Rapid Spin on Darkrai
+p1: Darkrai fainted
+p1: Switched to Rillaboom
+Turn 6:
+p1: Rillaboom used Grassy Glide on Iron Treads
+p2: Iron Treads used Ice Spinner on Rillaboom
+Turn 7:
+p1: Switched to Gholdengo
+p2: Iron Treads used Ice Spinner on Gholdengo
+Turn 8:
+p1: Switched to Rillaboom
+p2: Iron Treads used Earthquake on Rillaboom
+Turn 9:
+p1: Rillaboom used Grassy Glide on Iron Treads
+p2: Iron Treads fainted
+p2: Switched to Roaring Moon
+Turn 10:
+p1: Switched to Hawlucha
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 11:
+p1: Hawlucha used Encore on Roaring Moon
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 12:
+p2: Switched to Landorus-Therian
+p1: Hawlucha used Acrobatics on Landorus-Therian
+Turn 13:
+p1: Hawlucha used Swords Dance on Hawlucha
+p2: Landorus-Therian used Psychic on Hawlucha
+p1: Hawlucha fainted
+p1: Switched to Gouging Fire
+Turn 14:
+p2: Landorus-Therian used Earth Power on Gouging Fire
+p1: Gouging Fire used Dragon Dance on Gouging Fire
+Turn 15:
+p1: Gouging Fire used Breaking Swipe on Landorus-Therian
+p2: Landorus-Therian used Earth Power on Gouging Fire
+p1: Gouging Fire fainted
+p2: Landorus-Therian fainted
+p2: Switched to Heatran
+p1: Switched to Gholdengo
+Turn 16:
+p2: Heatran used Flamethrower on Gholdengo
+p1: Gholdengo fainted
+p1: Switched to Rillaboom
+Turn 17:
+p1: Rillaboom used Drain Punch on Heatran
+p2: Heatran used Flamethrower on Rillaboom
+p1: Rillaboom fainted
+p1: Switched to Kingambit
+Turn 18:
+p1: Kingambit used Sucker Punch on Heatran
+p2: Heatran fainted
+p2: Switched to Roaring Moon
+Turn 19:
+p2: Roaring Moon used Earthquake on Kingambit
+p1: Kingambit used Swords Dance on Kingambit
+Turn 20:
+p1: Kingambit used Sucker Punch on Roaring Moon
+p2: Roaring Moon used Acrobatics on Kingambit
+Turn 21:
+p1: Kingambit failed to use Sucker Punch
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 22:
+p1: Kingambit failed to use Sucker Punch
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 23:
+p1: Kingambit failed to use Sucker Punch
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 24:
+p1: Kingambit failed to use Sucker Punch
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 25:
+p1: Kingambit used Sucker Punch on Roaring Moon
+p2: Roaring Moon fainted

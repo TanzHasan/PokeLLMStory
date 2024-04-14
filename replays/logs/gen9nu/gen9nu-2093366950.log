@@ -1,0 +1,372 @@
+|j|☆Deagz
+|j|☆Stainedglasswitch
+|t:|1711945434
+|gametype|singles
+|player|p1|Deagz|li|1118
+|player|p2|Stainedglasswitch|266|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Venusaur, F|
+|poke|p1|Typhlosion-Hisui, M|
+|poke|p1|Brute Bonnet|
+|poke|p1|Espeon, F|
+|poke|p1|Infernape, F|
+|poke|p2|Quagsire, F|
+|poke|p2|Dragalge, F|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Lapras, F|
+|poke|p2|Kingdra, M|
+|poke|p2|Overqwil, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Deagz)
+|inactive|Stainedglasswitch has 120 seconds left.
+|
+|t:|1711945476
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Overqwil|Overqwil, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1711945490
+|move|p1a: Ninetales|Will-O-Wisp|p2a: Overqwil
+|-status|p2a: Overqwil|brn
+|move|p2a: Overqwil|Barb Barrage|p1a: Ninetales
+|-damage|p1a: Ninetales|72/100
+|-status|p1a: Ninetales|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ninetales|60/100 psn|[from] psn
+|-damage|p2a: Overqwil|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1711945512
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711945531
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|Stainedglasswitch has 120 seconds left.
+|
+|t:|1711945552
+|move|p2a: Slowbro|Shell Side Arm|p1a: Venusaur|[anim] Shell Side Arm Physical
+|-crit|p1a: Venusaur
+|-damage|p1a: Venusaur|35/100
+|-hint|Physical Shell Side Arm
+|move|p1a: Venusaur|Earth Power|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|-damage|p1a: Venusaur|25/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|Stainedglasswitch has 120 seconds left.
+|
+|t:|1711945565
+|switch|p2a: Dragalge|Dragalge, F|100/100
+|turn|5
+|inactive|Stainedglasswitch has 120 seconds left.
+|
+|t:|1711945583
+|move|p2a: Dragalge|Draco Meteor|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-unboost|p2a: Dragalge|spa|2
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711945598
+|switch|p1a: Brute Bonnet|Brute Bonnet|100/100
+|-activate|p1a: Brute Bonnet|ability: Protosynthesis
+|-start|p1a: Brute Bonnet|protosynthesisatk
+|turn|6
+|inactive|Stainedglasswitch has 120 seconds left.
+|
+|t:|1711945631
+|move|p2a: Dragalge|Draco Meteor|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|67/100
+|-unboost|p2a: Dragalge|spa|2
+|move|p1a: Brute Bonnet|Crunch|p2a: Dragalge
+|-damage|p2a: Dragalge|28/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711945644
+|switch|p2a: Quagsire|Quagsire, F, shiny|100/100
+|move|p1a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p1a: Brute Bonnet
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|8
+|
+|t:|1711945655
+|move|p1a: Brute Bonnet|Crunch|p2a: Quagsire
+|-damage|p2a: Quagsire|53/100
+|-damage|p1a: Brute Bonnet|50/100|[from] item: Rocky Helmet|[of] p2a: Quagsire
+|move|p2a: Quagsire|Toxic Spikes|p1a: Brute Bonnet
+|-sidestart|p1: Deagz|move: Toxic Spikes
+|
+|-weather|none
+|-end|p1a: Brute Bonnet|Protosynthesis
+|upkeep
+|turn|9
+|
+|t:|1711945672
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|switch|p1a: Ninetales|Ninetales, F|60/100 psn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Quagsire|Toxic Spikes|p1a: Ninetales
+|-sidestart|p1: Deagz|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ninetales|48/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711945687
+|move|p1a: Ninetales|Encore|p2a: Quagsire
+|-start|p2a: Quagsire|Encore
+|move|p2a: Quagsire|Toxic Spikes||[still]
+|-fail|p2a: Quagsire
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ninetales|36/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711945704
+|switch|p1a: Typhlosion|Typhlosion-Hisui, M|100/100
+|-item|p2a: Quagsire|Rocky Helmet|[from] ability: Frisk|[of] p1a: Typhlosion|[identify]
+|switch|p2a: Lapras|Lapras, F, shiny|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1711945720
+|move|p1a: Typhlosion|Eruption|p2a: Lapras
+|-damage|p2a: Lapras|33/100
+|move|p2a: Lapras|Rain Dance|p2a: Lapras
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1711945731
+|move|p1a: Typhlosion|Focus Blast|p2a: Lapras|[miss]
+|-miss|p1a: Typhlosion|p2a: Lapras
+|move|p2a: Lapras|Rest|p2a: Lapras
+|-status|p2a: Lapras|slp|[from] move: Rest
+|-heal|p2a: Lapras|100/100 slp|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-activate|p2a: Lapras|ability: Hydration
+|-curestatus|p2a: Lapras|slp|[msg]
+|upkeep
+|turn|14
+|
+|t:|1711945742
+|switch|p1a: Ninetales|Ninetales, F|36/100 psn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|move|p2a: Lapras|Brine|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711945749
+|switch|p1a: Typhlosion|Typhlosion-Hisui, M|100/100
+|-item|p2a: Lapras|Damp Rock|[from] ability: Frisk|[of] p1a: Typhlosion|[identify]
+|turn|15
+|
+|t:|1711945754
+|-terastallize|p1a: Typhlosion|Fighting
+|move|p1a: Typhlosion|Focus Blast|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-damage|p2a: Lapras|31/100
+|move|p2a: Lapras|Rain Dance|p2a: Lapras
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1711945776
+|switch|p2a: Overqwil|Overqwil, M|95/100 brn
+|move|p1a: Typhlosion|Eruption|p2a: Overqwil
+|-damage|p2a: Overqwil|39/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Overqwil|33/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711945789
+|-terastallize|p2a: Overqwil|Water
+|move|p2a: Overqwil|Liquidation|p1a: Typhlosion
+|-damage|p1a: Typhlosion|25/100
+|move|p1a: Typhlosion|Eruption|p2a: Overqwil
+|-resisted|p2a: Overqwil
+|-damage|p2a: Overqwil|27/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Overqwil|21/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1711945798
+|move|p2a: Overqwil|Liquidation|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Overqwil|15/100 brn|[from] brn
+|upkeep
+|
+|t:|1711945806
+|switch|p1a: Brute Bonnet|Brute Bonnet|50/100
+|-status|p1a: Brute Bonnet|tox
+|turn|19
+|
+|t:|1711945810
+|switch|p2a: Dragalge|Dragalge, F|28/100
+|move|p1a: Brute Bonnet|Sucker Punch||[still]
+|-fail|p1a: Brute Bonnet
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Brute Bonnet|44/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711945822
+|switch|p2a: Quagsire|Quagsire, F, shiny|53/100
+|move|p1a: Brute Bonnet|Crunch|p2a: Quagsire
+|-damage|p2a: Quagsire|18/100
+|-unboost|p2a: Quagsire|def|1
+|-damage|p1a: Brute Bonnet|28/100 tox|[from] item: Rocky Helmet|[of] p2a: Quagsire
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Brute Bonnet|15/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1711945837
+|move|p1a: Brute Bonnet|Crunch|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|-damage|p1a: Brute Bonnet|0 fnt|[from] item: Rocky Helmet|[of] p2a: Quagsire
+|faint|p2a: Quagsire
+|faint|p1a: Brute Bonnet
+|-end|p1a: Brute Bonnet|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711945844
+|switch|p1a: Espeon|Espeon, F|100/100
+|switch|p2a: Overqwil|Overqwil, M, tera:Water|15/100 brn
+|-status|p1a: Espeon|tox
+|turn|22
+|
+|t:|1711945850
+|move|p2a: Overqwil|Barb Barrage|p1a: Espeon
+|-damage|p1a: Espeon|34/100 tox
+|-enditem|p1a: Espeon|Eject Button
+|
+|t:|1711945853
+|switch|p1a: Infernape|Infernape, F|100/100
+|-status|p1a: Infernape|tox
+|
+|-weather|none
+|-damage|p1a: Infernape|94/100 tox|[from] psn
+|-damage|p2a: Overqwil|9/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1711945861
+|move|p1a: Infernape|Close Combat|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|-unboost|p1a: Infernape|def|1
+|-unboost|p1a: Infernape|spd|1
+|faint|p2a: Overqwil
+|
+|-damage|p1a: Infernape|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1711945870
+|switch|p2a: Kingdra|Kingdra, M, shiny|100/100
+|turn|24
+|
+|t:|1711945880
+|move|p1a: Infernape|Close Combat|p2a: Kingdra
+|-damage|p2a: Kingdra|41/100
+|-unboost|p1a: Infernape|def|1
+|-unboost|p1a: Infernape|spd|1
+|move|p2a: Kingdra|Agility|p2a: Kingdra
+|-boost|p2a: Kingdra|spe|2
+|
+|-damage|p1a: Infernape|64/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1711945893
+|switch|p1a: Espeon|Espeon, F|34/100 tox
+|move|p2a: Kingdra|Surf|p1a: Espeon
+|-crit|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|t:|1711945895
+|switch|p1a: Infernape|Infernape, F|64/100 tox
+|turn|26
+|
+|t:|1711945901
+|move|p1a: Infernape|Mach Punch|p2a: Kingdra
+|-damage|p2a: Kingdra|15/100
+|move|p2a: Kingdra|Surf|p1a: Infernape
+|-supereffective|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|faint|p1a: Infernape
+|
+|win|Stainedglasswitch
+|raw|Deagz's rating: 1118 &rarr; <strong>1092</strong><br />(-26 for losing)
+|raw|Stainedglasswitch's rating: 1108 &rarr; <strong>1134</strong><br />(+26 for winning)
+|l|☆Deagz
+|player|p1|
+|l|☆Stainedglasswitch
+|player|p2|

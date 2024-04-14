@@ -1,0 +1,238 @@
+|j|☆VeganViking
+|j|☆TinklingKoala
+|t:|1711941441
+|gametype|doubles
+|player|p1|VeganViking|biker|1536
+|player|p2|TinklingKoala|1|1576
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711941441
+|start
+|switch|p1a: Swalot|Swalot, L90, F|326/326
+|switch|p1b: Flareon|Flareon, L89, M|259/259
+|switch|p2a: Hydreigon|Hydreigon, L82, M|285/285
+|switch|p2b: Alomomola|Alomomola, L95, M|467/467
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by VeganViking)
+|
+|t:|1711941455
+|move|p1b: Flareon|Protect|p1b: Flareon
+|-singleturn|p1b: Flareon|Protect
+|move|p2a: Hydreigon|Dark Pulse|p1a: Swalot
+|-damage|p1a: Swalot|205/326
+|-damage|p2a: Hydreigon|257/285|[from] item: Life Orb
+|move|p2b: Alomomola|Scald|p1a: Swalot
+|-damage|p1a: Swalot|144/326
+|-enditem|p1a: Swalot|Wiki Berry|[eat]
+|-heal|p1a: Swalot|252/326|[from] item: Wiki Berry
+|move|p1a: Swalot|Poison Gas|p2b: Alomomola|[spread] p2a,p2b
+|-status|p2a: Hydreigon|psn
+|-status|p2b: Alomomola|psn
+|
+|-damage|p2a: Hydreigon|222/285 psn|[from] psn
+|-damage|p2b: Alomomola|409/467 psn|[from] psn
+|-status|p1b: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1711941480
+|switch|p1b: Sceptile|Sceptile, L88, F|266/266
+|move|p2a: Hydreigon|Draco Meteor|p1b: Sceptile
+|-damage|p1b: Sceptile|59/266
+|-unboost|p2a: Hydreigon|spa|2
+|-enditem|p1b: Sceptile|Sitrus Berry|[eat]
+|-heal|p1b: Sceptile|125/266|[from] item: Sitrus Berry
+|-damage|p2a: Hydreigon|194/285 psn|[from] item: Life Orb
+|move|p2b: Alomomola|Scald|p1b: Sceptile
+|-resisted|p1b: Sceptile
+|-damage|p1b: Sceptile|95/266
+|move|p1a: Swalot|Gunk Shot|p2b: Alomomola
+|-damage|p2b: Alomomola|286/467 psn
+|
+|-damage|p2a: Hydreigon|159/285 psn|[from] psn
+|-damage|p2b: Alomomola|228/467 psn|[from] psn
+|upkeep
+|-enditem|p2b: Alomomola|Sitrus Berry|[eat]
+|-heal|p2b: Alomomola|344/467 psn|[from] item: Sitrus Berry
+|turn|3
+|
+|t:|1711941503
+|switch|p2a: Vileplume|Vileplume, L88, F|275/275
+|move|p1b: Sceptile|Leaf Storm|p2b: Alomomola
+|-supereffective|p2b: Alomomola
+|-damage|p2b: Alomomola|0 fnt
+|-unboost|p1b: Sceptile|spa|2
+|faint|p2b: Alomomola
+|move|p1a: Swalot|Knock Off|p2a: Vileplume
+|-damage|p2a: Vileplume|213/275
+|-enditem|p2a: Vileplume|Sitrus Berry|[from] move: Knock Off|[of] p1a: Swalot
+|
+|upkeep
+|inactive|TinklingKoala has 120 seconds left.
+|
+|t:|1711941524
+|switch|p2b: Spectrier|Spectrier, L78|284/284
+|turn|4
+|
+|t:|1711941536
+|switch|p1b: Flareon|Flareon, L89, M|259/259 tox
+|move|p2b: Spectrier|Shadow Ball|p1b: Flareon
+|-damage|p1b: Flareon|160/259 tox
+|-damage|p2b: Spectrier|256/284|[from] item: Life Orb
+|move|p1a: Swalot|Knock Off|p2b: Spectrier
+|-supereffective|p2b: Spectrier
+|-damage|p2b: Spectrier|60/284
+|-enditem|p2b: Spectrier|Life Orb|[from] move: Knock Off|[of] p1a: Swalot
+|move|p2a: Vileplume|Stun Spore|p1a: Swalot|[miss]
+|-miss|p2a: Vileplume|p1a: Swalot
+|
+|-damage|p1b: Flareon|144/259 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711941554
+|move|p2b: Spectrier|Protect|p2b: Spectrier
+|-singleturn|p2b: Spectrier|Protect
+|move|p1b: Flareon|Flare Blitz|p2a: Vileplume
+|-supereffective|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|-damage|p1b: Flareon|74/259 tox|[from] Recoil
+|move|p1a: Swalot|Knock Off|p2b: Spectrier
+|-activate|p2b: Spectrier|move: Protect
+|
+|-damage|p1b: Flareon|42/259 tox|[from] psn
+|upkeep
+|
+|t:|1711941569
+|switch|p2a: Hydreigon|Hydreigon, L82, M|159/285 psn
+|turn|6
+|
+|t:|1711941579
+|move|p1b: Flareon|Quick Attack|p2a: Hydreigon
+|-damage|p2a: Hydreigon|103/285 psn
+|move|p2b: Spectrier|Shadow Ball|p1a: Swalot
+|-damage|p1a: Swalot|159/326
+|move|p2a: Hydreigon|Dark Pulse|p1b: Flareon
+|-damage|p1b: Flareon|0 fnt
+|faint|p1b: Flareon
+|-damage|p2a: Hydreigon|75/285 psn|[from] item: Life Orb
+|move|p1a: Swalot|Knock Off|p2b: Spectrier
+|-supereffective|p2b: Spectrier
+|-damage|p2b: Spectrier|0 fnt
+|faint|p2b: Spectrier
+|
+|-damage|p2a: Hydreigon|40/285 psn|[from] psn
+|upkeep
+|
+|t:|1711941596
+|switch|p2b: Iron Boulder|Iron Boulder, L78|268/268
+|switch|p1b: Weavile|Weavile, L82, F|249/249
+|-enditem|p2b: Iron Boulder|Booster Energy
+|-activate|p2b: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2b: Iron Boulder|quarkdrivespe
+|turn|7
+|
+|t:|1711941612
+|-terastallize|p2b: Iron Boulder|Fighting
+|-terastallize|p1a: Swalot|Dark
+|move|p2b: Iron Boulder|Mighty Cleave|p1b: Weavile
+|-supereffective|p1b: Weavile
+|-damage|p1b: Weavile|0 fnt
+|faint|p1b: Weavile
+|move|p2a: Hydreigon|Dark Pulse|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|101/326
+|-damage|p2a: Hydreigon|12/285 psn|[from] item: Life Orb
+|move|p1a: Swalot|Knock Off|p2b: Iron Boulder
+|-resisted|p2b: Iron Boulder
+|-damage|p2b: Iron Boulder|234/268
+|
+|-damage|p2a: Hydreigon|0 fnt|[from] psn
+|faint|p2a: Hydreigon
+|upkeep
+|
+|t:|1711941628
+|switch|p1b: Sceptile|Sceptile, L88, F|95/266
+|switch|p2a: Solgaleo|Solgaleo, L75|329/329
+|turn|8
+|
+|t:|1711941644
+|move|p2b: Iron Boulder|Mighty Cleave|p1b: Sceptile
+|-damage|p1b: Sceptile|0 fnt
+|faint|p1b: Sceptile
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|faint|p1a: Swalot
+|
+|upkeep
+|
+|t:|1711941652
+|switch|p1b: Mewtwo|Mewtwo, L73|275/275
+|switch|p1a: Eiscue|Eiscue, L88, M|274/274
+|-ability|p1b: Mewtwo|Unnerve
+|turn|9
+|
+|t:|1711941681
+|move|p2b: Iron Boulder|Mighty Cleave|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|274/274
+|detailschange|p1a: Eiscue|Eiscue-Noice, L88, M
+|move|p1a: Eiscue|Belly Drum|p1a: Eiscue
+|-damage|p1a: Eiscue|137/274
+|-setboost|p1a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Eiscue|Sitrus Berry|[eat]
+|-heal|p1a: Eiscue|205/274|[from] item: Sitrus Berry
+|move|p1b: Mewtwo|Psystrike|p2b: Iron Boulder
+|-supereffective|p2b: Iron Boulder
+|-damage|p2b: Iron Boulder|0 fnt
+|faint|p2b: Iron Boulder
+|-end|p2b: Iron Boulder|Quark Drive|[silent]
+|move|p2a: Solgaleo|Knock Off|p1b: Mewtwo
+|-supereffective|p1b: Mewtwo
+|-damage|p1b: Mewtwo|123/275
+|-enditem|p1b: Mewtwo|Sitrus Berry|[from] move: Knock Off|[of] p2a: Solgaleo
+|
+|upkeep
+|turn|10
+|
+|t:|1711941700
+|move|p1a: Eiscue|Liquidation|p2a: Solgaleo
+|-damage|p2a: Solgaleo|100/329
+|move|p1b: Mewtwo|Aura Sphere|p2a: Solgaleo
+|-damage|p2a: Solgaleo|56/329
+|move|p2a: Solgaleo|Sunsteel Strike|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|upkeep
+|turn|11
+|
+|t:|1711941711
+|move|p1b: Mewtwo|Aura Sphere|p2a: Solgaleo
+|-damage|p2a: Solgaleo|8/329
+|move|p2a: Solgaleo|Sunsteel Strike|p1b: Mewtwo
+|-damage|p1b: Mewtwo|3/275
+|
+|upkeep
+|turn|12
+|
+|t:|1711941719
+|move|p1b: Mewtwo|Aura Sphere|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|faint|p2a: Solgaleo
+|
+|win|VeganViking
+|raw|VeganViking's rating: 1536 &rarr; <strong>1558</strong><br />(+22 for winning)
+|raw|TinklingKoala's rating: 1576 &rarr; <strong>1554</strong><br />(-22 for losing)
+|l|☆TinklingKoala
+|player|p2|

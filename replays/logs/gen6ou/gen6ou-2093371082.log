@@ -1,0 +1,159 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'orasz'.</div>
+|j|☆ORASZ Ruffles
+|j|☆Newuser713
+|t:|1711946130
+|gametype|singles
+|player|p1|ORASZ Ruffles|benga|1579
+|player|p2|Newuser713|scientist|1476
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|clearpoke
+|poke|p1|Gallade, M|item
+|poke|p1|Bisharp, M|item
+|poke|p1|Manaphy|item
+|poke|p1|Volcarona, F|item
+|poke|p1|Serperior, F|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p2|Metagross|item
+|poke|p2|Suicune|item
+|poke|p2|Heatran, M|item
+|poke|p2|Thundurus, M|item
+|poke|p2|Tornadus-Therian, M|item
+|poke|p2|Landorus-Therian, M|item
+|teampreview
+|
+|t:|1711946137
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Newuser713)
+|
+|t:|1711946148
+|move|p1a: Landorus|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: Newuser713|move: Stealth Rock
+|move|p2a: Tornadus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|87/100
+|-enditem|p1a: Landorus|Choice Scarf|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1711946153
+|switch|p2a: Metagross|Metagross|100/100
+|-damage|p2a: Metagross|95/100|[from] Stealth Rock
+|move|p1a: Landorus|Explosion|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|52/100
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|ORASZ Ruffles has 120 seconds left.
+|
+|t:|1711946199
+|switch|p1a: Serperior|Serperior, F|100/100
+|turn|3
+|
+|t:|1711946209
+|detailschange|p2a: Metagross|Metagross-Mega
+|-mega|p2a: Metagross|Metagross|Metagrossite
+|move|p1a: Serperior|Reflect|p1a: Serperior
+|-sidestart|p1: ORASZ Ruffles|Reflect
+|move|p2a: Metagross|Meteor Mash|p1a: Serperior
+|-damage|p1a: Serperior|69/100
+|
+|upkeep
+|turn|4
+|inactive|ORASZ Ruffles has 120 seconds left.
+|
+|t:|1711946219
+|move|p1a: Serperior|Light Screen|p1a: Serperior
+|-sidestart|p1: ORASZ Ruffles|move: Light Screen
+|move|p2a: Metagross|Meteor Mash|p1a: Serperior
+|-damage|p1a: Serperior|35/100
+|
+|upkeep
+|turn|5
+|inactive|ORASZ Ruffles has 120 seconds left.
+|
+|t:|1711946227
+|switch|p1a: Manaphy|Manaphy|100/100
+|move|p2a: Metagross|Meteor Mash|p1a: Manaphy
+|-resisted|p1a: Manaphy
+|-damage|p1a: Manaphy|86/100
+|
+|-heal|p1a: Manaphy|92/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711946235
+|move|p2a: Metagross|Zen Headbutt|p1a: Manaphy|[miss]
+|-miss|p2a: Metagross|p1a: Manaphy
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-heal|p1a: Manaphy|98/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711946248
+|move|p2a: Metagross|Zen Headbutt|p1a: Manaphy
+|-damage|p1a: Manaphy|70/100
+|move|p1a: Manaphy|Surf|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|-heal|p1a: Manaphy|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946257
+|switch|p2a: Suicune|Suicune|100/100
+|-damage|p2a: Suicune|88/100|[from] Stealth Rock
+|-ability|p2a: Suicune|Pressure
+|turn|8
+|
+|t:|1711946261
+|move|p1a: Manaphy|Energy Ball|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|0 fnt
+|faint|p2a: Suicune
+|
+|-heal|p1a: Manaphy|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946273
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|-damage|p2a: Thundurus|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1711946277
+|move|p2a: Thundurus|Thunderbolt|p1a: Manaphy
+|-supereffective|p1a: Manaphy
+|-damage|p1a: Manaphy|39/100
+|move|p1a: Manaphy|Surf|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|-heal|p1a: Manaphy|46/100|[from] item: Leftovers
+|upkeep
+|-message|Newuser713 forfeited.
+|
+|win|ORASZ Ruffles
+|raw|ORASZ Ruffles's rating: 1579 &rarr; <strong>1593</strong><br />(+14 for winning)
+|raw|Newuser713's rating: 1476 &rarr; <strong>1462</strong><br />(-14 for losing)
+|l|☆Newuser713
+|player|p2|

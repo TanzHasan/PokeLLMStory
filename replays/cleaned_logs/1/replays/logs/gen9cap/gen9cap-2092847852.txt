@@ -1,0 +1,71 @@
+p1: Switched to Slowking-Galar
+p2: Switched to Revavroom
+Turn 1:
+p2: Revavroom used High Horsepower on Slowking-Galar
+p1: Slowking-Galar fainted
+p1: Switched to Cinderace
+Turn 2:
+p1: Cinderace used Pyro Ball on Revavroom
+p2: Revavroom fainted
+p2: Switched to Great Tusk
+Turn 3:
+p1: Switched to Skarmory
+p2: Great Tusk used Bulk Up on Great Tusk
+Turn 4:
+p2: Great Tusk used Close Combat on Skarmory
+p1: Skarmory used Iron Defense on Skarmory
+Turn 5:
+p2: Switched to Primarina
+p1: Skarmory used Roost on Skarmory
+Turn 6:
+p1: Switched to Ogerpon-Wellspring
+p2: Primarina used Moonblast on Ogerpon-Wellspring
+Turn 7:
+p2: Switched to Kingambit
+p1: Ogerpon-Wellspring used Power Whip on Kingambit
+Turn 8:
+p1: Switched to Ting-Lu
+p2: Kingambit used Kowtow Cleave on Ting-Lu
+Turn 9:
+p2: Kingambit used Iron Head on Ting-Lu
+p1: Ting-Lu used Spikes on Kingambit
+Turn 10:
+p1: Switched to Skarmory
+p2: Kingambit used Iron Head on Skarmory
+Turn 11:
+p1: Switched to Kerfluffle
+p2: Kingambit used Kowtow Cleave on Kerfluffle
+Turn 12:
+p1: Kerfluffle used Aura Sphere on Kingambit
+p2: Kingambit fainted
+p2: Switched to Hemogoblin
+Turn 13:
+p1: Switched to Cinderace
+p2: Hemogoblin used Extreme Speed on Cinderace
+Turn 14:
+p2: Switched to Great Tusk
+p1: Cinderace used Gunk Shot on Great Tusk
+Turn 15:
+p1: Cinderace used U-turn on Great Tusk
+p1: Switched to Kerfluffle
+p2: Great Tusk used Close Combat on Kerfluffle
+Turn 16:
+p1: Kerfluffle used Moonblast on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Hemogoblin
+Turn 17:
+p1: Kerfluffle used Parting Shot on Hemogoblin
+p1: Switched to Cinderace
+p2: Hemogoblin used Bulk Up on Hemogoblin
+Turn 18:
+p1: Cinderace used Gunk Shot on Hemogoblin
+p2: Hemogoblin used Bulk Up on Hemogoblin
+Turn 19:
+p1: Cinderace used Gunk Shot on Hemogoblin
+p2: Hemogoblin used Tera Blast on Cinderace
+p1: Cinderace fainted
+p1: Switched to Ting-Lu
+Turn 20:
+p1: Switched to Ogerpon-Wellspring
+p2: Hemogoblin used Extreme Speed on Ogerpon-Wellspring
+p1: Ogerpon-Wellspring fainted

@@ -1,0 +1,440 @@
+|j|☆Kenny_Dio
+|j|☆ShortCircuit714
+|t:|1711943250
+|gametype|singles
+|player|p1|Kenny_Dio|giovanni-gen1rb|1519
+|player|p2|ShortCircuit714|266|1407
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711943250
+|start
+|switch|p1a: Manaphy|Manaphy, L76|277/277
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|turn|1
+|
+|t:|1711943336
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|move|p2a: Alomomola|Toxic|p1a: Manaphy
+|-status|p1a: Manaphy|tox
+|
+|-damage|p1a: Manaphy|260/277 tox|[from] psn
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kenny_Dio)
+|
+|t:|1711943345
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|254/254
+|move|p1a: Manaphy|Tail Glow|p1a: Manaphy
+|-boost|p1a: Manaphy|spa|3
+|
+|-heal|p1a: Manaphy|277/277 tox|[from] item: Leftovers
+|-damage|p1a: Manaphy|243/277 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711943360
+|switch|p1a: Pachirisu|Pachirisu, L92, M|260/260
+|move|p2a: Thundurus|Thunderbolt|p1a: Pachirisu
+|-immune|p1a: Pachirisu|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|4
+|
+|t:|1711943389
+|switch|p2a: Krookodile|Krookodile, L80, F|283/283
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Pachirisu|atk|1
+|move|p1a: Pachirisu|Toxic|p2a: Krookodile|[miss]
+|-miss|p1a: Pachirisu|p2a: Krookodile
+|
+|upkeep
+|turn|5
+|
+|t:|1711943395
+|move|p1a: Pachirisu|U-turn|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|223/283
+|
+|t:|1711943399
+|switch|p1a: Carnivine|Carnivine, L97, M|301/301|[from] U-turn
+|move|p2a: Krookodile|Stealth Rock|p1a: Carnivine
+|-sidestart|p1: Kenny_Dio|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1711943407
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|254/254
+|move|p1a: Carnivine|Sleep Powder|p2a: Thundurus
+|-status|p2a: Thundurus|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|7
+|
+|t:|1711943432
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|-damage|p1a: Tropius|246/328|[from] Stealth Rock
+|cant|p2a: Thundurus|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1711943438
+|cant|p2a: Thundurus|slp
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|164/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|246/328|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|9
+|
+|t:|1711943445
+|cant|p2a: Thundurus|slp
+|move|p1a: Tropius|Leech Seed|p2a: Thundurus
+|-start|p2a: Thundurus|move: Leech Seed
+|
+|-damage|p2a: Thundurus|223/254 slp|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|277/328|[silent]
+|upkeep
+|turn|10
+|
+|t:|1711943451
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|-curestatus|p2a: Thundurus|slp|[msg]
+|move|p2a: Thundurus|Hidden Power|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Thundurus|192/254|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|308/328|[silent]
+|upkeep
+|turn|11
+|
+|t:|1711943463
+|move|p2a: Thundurus|Hidden Power|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Thundurus|167/254|[from] item: Life Orb
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|226/328
+|
+|-damage|p2a: Thundurus|136/254|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|257/328|[silent]
+|upkeep
+|turn|12
+|
+|t:|1711943476
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Protect||[still]
+|-fail|p1a: Tropius
+|
+|upkeep
+|turn|13
+|
+|t:|1711943481
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|371/424|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|310/328|[silent]
+|upkeep
+|turn|14
+|
+|t:|1711943487
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|136/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|94/254
+|
+|-heal|p2a: Thundurus|254/254|[from] move: Wish|[wisher] Alomomola
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|15
+|
+|t:|1711943497
+|move|p2a: Thundurus|Hidden Power|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-crit|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Thundurus|229/254|[from] item: Life Orb
+|move|p1a: Tropius|Leech Seed|p2a: Thundurus
+|-start|p2a: Thundurus|move: Leech Seed
+|
+|-damage|p2a: Thundurus|198/254|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|328/328|[silent]
+|upkeep
+|turn|16
+|
+|t:|1711943506
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Protect||[still]
+|-fail|p1a: Tropius
+|
+|upkeep
+|turn|17
+|
+|t:|1711943515
+|switch|p1a: Pachirisu|Pachirisu, L92, M|260/260
+|-damage|p1a: Pachirisu|228/260|[from] Stealth Rock
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|-heal|p1a: Pachirisu|244/260|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711943522
+|switch|p2a: Dragonair|Dragonair, L88, M|251/251
+|move|p1a: Pachirisu|Toxic|p2a: Dragonair
+|-status|p2a: Dragonair|tox
+|
+|-heal|p1a: Pachirisu|260/260|[from] item: Leftovers
+|-activate|p2a: Dragonair|ability: Shed Skin
+|-curestatus|p2a: Dragonair|tox|[msg]
+|upkeep
+|turn|19
+|
+|t:|1711943531
+|move|p1a: Pachirisu|U-turn|p2a: Dragonair
+|-damage|p2a: Dragonair|221/251
+|
+|t:|1711943533
+|switch|p1a: Arceus|Arceus-Dragon, L71|288/288|[from] U-turn
+|-damage|p1a: Arceus|252/288|[from] Stealth Rock
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1711943543
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|move|p1a: Arceus|Outrage|p2a: Dragonair
+|-supereffective|p2a: Dragonair
+|-damage|p2a: Dragonair|17/251
+|
+|upkeep
+|turn|21
+|
+|t:|1711943551
+|move|p2a: Dragonair|Outrage|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|
+|t:|1711943561
+|switch|p1a: Tropius|Tropius, L91, M|328/328
+|-damage|p1a: Tropius|246/328|[from] Stealth Rock
+|turn|22
+|
+|t:|1711943564
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Dragonair|Outrage|p1a: Tropius|[from]lockedmove
+|-activate|p1a: Tropius|move: Protect
+|-start|p2a: Dragonair|confusion|[fatigue]
+|
+|upkeep
+|turn|23
+|
+|t:|1711943572
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|164/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|246/328|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|24
+|
+|t:|1711943579
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|371/424|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|299/328|[silent]
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|25
+|
+|t:|1711943585
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|198/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|152/254
+|
+|-heal|p2a: Thundurus|254/254|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|26
+|
+|t:|1711943594
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|371/424|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|328/328|[silent]
+|upkeep
+|turn|27
+|
+|t:|1711943604
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Tropius|Air Slash|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|151/424
+|
+|-damage|p2a: Alomomola|98/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|28
+|
+|t:|1711943610
+|switch|p2a: Krookodile|Krookodile, L80, F|223/283
+|-ability|p2a: Krookodile|Intimidate|boost
+|-immune|p1a: Tropius
+|move|p1a: Tropius|Air Slash|p2a: Krookodile
+|-damage|p2a: Krookodile|123/283
+|
+|-heal|p2a: Krookodile|283/283|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|29
+|
+|t:|1711943618
+|switch|p2a: Alomomola|Alomomola, L86, M|239/424
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|186/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|30
+|
+|t:|1711943625
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|254/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|212/254
+|
+|upkeep
+|turn|31
+|
+|t:|1711943631
+|switch|p2a: Alomomola|Alomomola, L86, M|327/424
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|274/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|32
+|
+|t:|1711943637
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|212/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus|[miss]
+|-miss|p1a: Tropius|p2a: Thundurus
+|
+|upkeep
+|turn|33
+|
+|t:|1711943642
+|switch|p2a: Alomomola|Alomomola, L86, M|415/424
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|362/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|34
+|
+|t:|1711943650
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|212/254
+|move|p1a: Tropius|Leech Seed|p2a: Thundurus
+|-start|p2a: Thundurus|move: Leech Seed
+|
+|-damage|p2a: Thundurus|181/254|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|35
+|
+|t:|1711943657
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Air Slash|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|204/424
+|
+|upkeep
+|turn|36
+|
+|t:|1711943664
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|181/254
+|move|p1a: Tropius|Leech Seed|p2a: Thundurus|[miss]
+|-miss|p1a: Tropius|p2a: Thundurus
+|
+|upkeep
+|turn|37
+|
+|t:|1711943669
+|switch|p2a: Alomomola|Alomomola, L86, M|345/424
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|292/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|38
+|
+|t:|1711943675
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|181/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|140/254
+|
+|upkeep
+|turn|39
+|
+|t:|1711943681
+|switch|p2a: Alomomola|Alomomola, L86, M|424/424
+|move|p1a: Tropius|Air Slash|p2a: Alomomola
+|-damage|p2a: Alomomola|298/424
+|
+|upkeep
+|turn|40
+|
+|t:|1711943686
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|move|p1a: Tropius|Leech Seed|p2a: Alomomola
+|-start|p2a: Alomomola|move: Leech Seed
+|
+|-damage|p2a: Alomomola|245/424|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|41
+|
+|t:|1711943691
+|switch|p2a: Thundurus|Thundurus-Therian, L79, M|140/254
+|move|p1a: Tropius|Air Slash|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-crit|p2a: Thundurus
+|-damage|p2a: Thundurus|46/254
+|
+|-heal|p2a: Thundurus|254/254|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|42
+|-message|Kenny_Dio forfeited.
+|
+|win|ShortCircuit714
+|raw|Kenny_Dio's rating: 1519 &rarr; <strong>1493</strong><br />(-26 for losing)
+|raw|ShortCircuit714's rating: 1407 &rarr; <strong>1433</strong><br />(+26 for winning)
+|l|☆Kenny_Dio
+|player|p1|

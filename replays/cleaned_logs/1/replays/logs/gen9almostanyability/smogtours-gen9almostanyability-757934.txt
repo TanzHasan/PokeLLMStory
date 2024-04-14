@@ -1,0 +1,169 @@
+p1: Switched to Roaring Moon
+p2: Switched to Swampert
+Turn 1:
+p2: Switched to Corviknight
+p1: Roaring Moon used Knock Off on Corviknight
+Turn 2:
+p1: Roaring Moon used Knock Off on Corviknight
+p2: Corviknight used U-turn on Roaring Moon
+p2: Switched to Kingambit
+Turn 3:
+p1: Switched to Corviknight
+p2: Kingambit used Swords Dance on Kingambit
+Turn 4:
+p2: Switched to Gholdengo
+p1: Corviknight used U-turn on Gholdengo
+p1: Switched to Empoleon
+Turn 5:
+p2: Switched to Swampert
+p1: Empoleon used Flip Turn on Swampert
+p1: Switched to Roaring Moon
+Turn 6:
+p1: Roaring Moon used Roost on Roaring Moon
+p2: Swampert used Knock Off on Roaring Moon
+Turn 7:
+p2: Switched to Corviknight
+p1: Roaring Moon used Knock Off on Corviknight
+Turn 8:
+p1: Switched to Corviknight
+p2: Corviknight used Roost on Corviknight
+Turn 9:
+p1: Corviknight used U-turn on Corviknight
+p1: Switched to Gengar
+p2: Corviknight used U-turn on Gengar
+p2: Switched to Gholdengo
+Turn 10:
+p2: Switched to Ogerpon-Wellspring
+p1: Switched to Empoleon
+Turn 11:
+p2: Ogerpon-Wellspring used Ivy Cudgel on Empoleon
+p1: Empoleon used Flip Turn on Ogerpon-Wellspring
+p1: Switched to Roaring Moon
+Turn 12:
+p2: Switched to Corviknight
+p1: Roaring Moon used U-turn on Corviknight
+p1: Switched to Gengar
+Turn 13:
+p2: Switched to Swampert
+p1: Gengar used Will-O-Wisp on Swampert
+Turn 14:
+p1: Switched to Manaphy
+p2: Swampert used Flip Turn on Manaphy
+p2: Switched to Ogerpon-Wellspring
+Turn 15:
+p2: Ogerpon-Wellspring used Ivy Cudgel on Manaphy
+p1: Manaphy used U-turn on Ogerpon-Wellspring
+p1: Switched to Roaring Moon
+Turn 16:
+p2: Switched to Dragonite
+p1: Roaring Moon used U-turn on Dragonite
+p1: Switched to Manaphy
+Turn 17:
+p2: Switched to Corviknight
+p1: Manaphy used Ice Beam on Corviknight
+Turn 18:
+p1: Manaphy used Scald on Corviknight
+p2: Corviknight used U-turn on Manaphy
+p2: Switched to Ogerpon-Wellspring
+Turn 19:
+p1: Switched to Roaring Moon
+p2: Ogerpon-Wellspring used Horn Leech on Roaring Moon
+Turn 20:
+p2: Switched to Corviknight
+p1: Roaring Moon used U-turn on Corviknight
+p1: Switched to Gengar
+Turn 21:
+p2: Switched to Swampert
+p1: Gengar used Knock Off on Swampert
+Turn 22:
+p1: Gengar used Hex on Swampert
+p2: Swampert used Knock Off on Gengar
+Turn 23:
+p2: Switched to Gholdengo
+p1: Gengar used Hex on Gholdengo
+p2: Gholdengo fainted
+p2: Switched to Dragonite
+Turn 24:
+p1: Switched to Corviknight
+p2: Dragonite used Extreme Speed on Corviknight
+Turn 25:
+p2: Dragonite used Dragon Dance on Dragonite
+p1: Corviknight used U-turn on Dragonite
+p1: Switched to Deoxys-Speed
+Turn 26:
+p2: Switched to Kingambit
+p1: Deoxys-Speed used Ice Beam on Kingambit
+Turn 27:
+p2: Switched to Swampert
+p1: Deoxys-Speed used Superpower on Swampert
+Turn 28:
+p2: Switched to Kingambit
+p1: Deoxys-Speed used Superpower on Kingambit
+Turn 29:
+p1: Switched to Corviknight
+p2: Kingambit used Kowtow Cleave on Corviknight
+Turn 30:
+p1: Corviknight used U-turn on Kingambit
+p1: Switched to Empoleon
+p2: Kingambit used Swords Dance on Kingambit
+Turn 31:
+p2: Kingambit used Kowtow Cleave on Empoleon
+p1: Empoleon fainted
+p1: Switched to Deoxys-Speed
+Turn 32:
+p2: Switched to Swampert
+p1: Deoxys-Speed used Superpower on Swampert
+Turn 33:
+p1: Deoxys-Speed used Expanding Force on Swampert
+p2: Swampert fainted
+p2: Switched to Corviknight
+Turn 34:
+p1: Switched to Gengar
+p2: Corviknight used Roost on Corviknight
+Turn 35:
+p2: Switched to Ogerpon-Wellspring
+p1: Gengar used Will-O-Wisp on Ogerpon-Wellspring
+Turn 36:
+p1: Switched to Manaphy
+p2: Ogerpon-Wellspring used Horn Leech on Manaphy
+Turn 37:
+p2: Ogerpon-Wellspring used Play Rough on Manaphy
+p1: Manaphy used U-turn on Ogerpon-Wellspring
+p1: Switched to Roaring Moon
+Turn 38:
+p1: Roaring Moon used U-turn on Ogerpon-Wellspring
+p2: Ogerpon-Wellspring fainted
+p1: Switched to Deoxys-Speed
+p2: Switched to Corviknight
+Turn 39:
+p1: Switched to Corviknight
+p2: Switched to Kingambit
+Turn 40:
+p1: Corviknight used Roost on Corviknight
+p2: Kingambit used Kowtow Cleave on Corviknight
+Turn 41:
+p1: Corviknight used U-turn on Kingambit
+p1: Switched to Roaring Moon
+p2: Kingambit used Swords Dance on Kingambit
+Turn 42:
+p1: Roaring Moon used Knock Off on Kingambit
+p2: Kingambit used Kowtow Cleave on Roaring Moon
+p1: Roaring Moon fainted
+p1: Switched to Deoxys-Speed
+Turn 43:
+p2: Switched to Corviknight
+p1: Deoxys-Speed used Superpower on Corviknight
+Turn 44:
+p1: Switched to Corviknight
+p2: Switched to Dragonite
+Turn 45:
+p2: Dragonite used Dragon Dance on Dragonite
+p1: Corviknight used U-turn on Dragonite
+p1: Switched to Manaphy
+Turn 46:
+p2: Dragonite used Roost on Dragonite
+p1: Manaphy used Ice Beam on Dragonite
+Turn 47:
+p2: Dragonite can't move
+p1: Manaphy used Ice Beam on Dragonite
+p2: Dragonite fainted

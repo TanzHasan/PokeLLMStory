@@ -1,0 +1,276 @@
+|j|☆deltazo
+|j|☆ogtru
+|t:|1711946563
+|gametype|doubles
+|player|p1|deltazo|juggler|1544
+|player|p2|ogtru|riley|1575
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711946563
+|start
+|switch|p1a: Mienshao|Mienshao, L85, F|249/249
+|switch|p1b: Kyurem|Kyurem, L77|319/319
+|switch|p2a: Ninetales|Ninetales-Alola, L76, F|235/235
+|switch|p2b: Incineroar|Incineroar, L78, F|276/276
+|-weather|Snow|[from] ability: Snow Warning|[of] p2a: Ninetales
+|-ability|p1b: Kyurem|Pressure
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Mienshao|atk|1
+|-unboost|p1b: Kyurem|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deltazo)
+|
+|t:|1711946576
+|move|p2a: Ninetales|Protect|p2a: Ninetales
+|-singleturn|p2a: Ninetales|Protect
+|move|p1a: Mienshao|Fake Out|p2a: Ninetales
+|-activate|p2a: Ninetales|move: Protect
+|move|p1b: Kyurem|Earth Power|p2b: Incineroar
+|-supereffective|p2b: Incineroar
+|-damage|p2b: Incineroar|126/276
+|-enditem|p2b: Incineroar|Sitrus Berry|[eat]
+|-heal|p2b: Incineroar|195/276|[from] item: Sitrus Berry
+|move|p2b: Incineroar|Knock Off|p1b: Kyurem
+|-damage|p1b: Kyurem|249/319
+|-enditem|p1b: Kyurem|Loaded Dice|[from] move: Knock Off|[of] p2b: Incineroar
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711946598
+|switch|p1b: Skuntank|Skuntank, L85, M|314/314
+|move|p1a: Mienshao|Close Combat|p2b: Incineroar
+|-supereffective|p2b: Incineroar
+|-damage|p2b: Incineroar|0 fnt
+|-unboost|p1a: Mienshao|def|1
+|-unboost|p1a: Mienshao|spd|1
+|faint|p2b: Incineroar
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: ogtru|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711946608
+|switch|p2b: Lycanroc|Lycanroc-Midnight, L85, F|283/283
+|turn|3
+|
+|t:|1711946624
+|move|p1a: Mienshao|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|224/235
+|
+|t:|1711946628
+|switch|p1a: Vaporeon|Vaporeon, L84, M|356/356|[from] U-turn
+|move|p2a: Ninetales|Blizzard|p1a: Vaporeon|[spread] p1a,p1b
+|-resisted|p1a: Vaporeon
+|-damage|p1a: Vaporeon|325/356
+|-damage|p1b: Skuntank|239/314
+|move|p1b: Skuntank|Poison Gas|p2b: Lycanroc|[spread] p2a,p2b
+|-status|p2a: Ninetales|psn
+|-status|p2b: Lycanroc|psn
+|move|p2b: Lycanroc|Rock Slide|p1b: Skuntank|[spread] p1a,p1b
+|-damage|p1a: Vaporeon|180/356
+|-damage|p1b: Skuntank|122/314
+|
+|-weather|Snow|[upkeep]
+|-damage|p2a: Ninetales|195/235 psn|[from] psn
+|-damage|p2b: Lycanroc|248/283 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711946647
+|move|p2a: Ninetales|Moonblast|p1a: Vaporeon
+|-damage|p1a: Vaporeon|114/356
+|-enditem|p1a: Vaporeon|Sitrus Berry|[eat]
+|-heal|p1a: Vaporeon|203/356|[from] item: Sitrus Berry
+|move|p1b: Skuntank|Gunk Shot|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|16/235 psn
+|-damage|p1b: Skuntank|91/314|[from] item: Life Orb
+|move|p2b: Lycanroc|Rock Slide|p1a: Vaporeon|[spread] p1a,p1b
+|-damage|p1a: Vaporeon|61/356
+|-damage|p1b: Skuntank|0 fnt
+|faint|p1b: Skuntank
+|cant|p1a: Vaporeon|flinch
+|
+|-weather|Snow|[upkeep]
+|-damage|p2a: Ninetales|0 fnt|[from] psn
+|faint|p2a: Ninetales
+|-damage|p2b: Lycanroc|213/283 psn|[from] psn
+|upkeep
+|
+|t:|1711946669
+|switch|p2a: Rabsca|Rabsca, L87, F|272/272
+|switch|p1b: Mienshao|Mienshao, L85, F|249/249
+|turn|5
+|
+|t:|1711946679
+|move|p1b: Mienshao|Close Combat|p2b: Lycanroc
+|-supereffective|p2b: Lycanroc
+|-damage|p2b: Lycanroc|0 fnt
+|-unboost|p1b: Mienshao|def|1
+|-unboost|p1b: Mienshao|spd|1
+|faint|p2b: Lycanroc
+|move|p1a: Vaporeon|Wish|p1a: Vaporeon
+|move|p2a: Rabsca|Revival Blessing|p2a: Rabsca
+|
+|t:|1711946684
+|-heal|p2: Ninetales|117/235|[from] move: Revival Blessing
+|
+|-weather|none
+|upkeep
+|
+|t:|1711946692
+|switch|p2b: Ninetales|Ninetales-Alola, L76, F|117/235
+|-weather|Snow|[from] ability: Snow Warning|[of] p2b: Ninetales
+|turn|6
+|
+|t:|1711946712
+|move|p1b: Mienshao|Close Combat|p2b: Ninetales
+|-damage|p2b: Ninetales|33/235
+|-unboost|p1b: Mienshao|def|1
+|-unboost|p1b: Mienshao|spd|1
+|move|p2b: Ninetales|Blizzard|p1b: Mienshao|[spread] p1a,p1b
+|-resisted|p1a: Vaporeon
+|-damage|p1a: Vaporeon|32/356
+|-damage|p1b: Mienshao|147/249
+|-status|p1a: Vaporeon|frz
+|-status|p1b: Mienshao|frz
+|cant|p1a: Vaporeon|frz
+|move|p2a: Rabsca|Struggle Bug|p1a: Vaporeon|[spread] p1a,p1b
+|-resisted|p1b: Mienshao
+|-damage|p1a: Vaporeon|0 fnt
+|-damage|p1b: Mienshao|107/249 frz
+|-unboost|p1b: Mienshao|spa|1
+|faint|p1a: Vaporeon
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|c|☆deltazo|dude wtf!
+|inactive|deltazo has 120 seconds left.
+|
+|t:|1711946734
+|switch|p1a: Kyurem|Kyurem, L77|249/319
+|-ability|p1a: Kyurem|Pressure
+|turn|7
+|inactive|deltazo has 120 seconds left.
+|
+|t:|1711946767
+|-terastallize|p1a: Kyurem|Steel
+|cant|p1b: Mienshao|frz
+|move|p2b: Ninetales|Moonblast|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|208/319
+|-unboost|p1a: Kyurem|spa|1
+|move|p1a: Kyurem|Earth Power|p2b: Ninetales
+|-damage|p2b: Ninetales|4/235
+|move|p2a: Rabsca|Psychic|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|149/319
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|8
+|inactive|deltazo has 120 seconds left.
+|
+|t:|1711946783
+|switch|p1b: Toucannon|Toucannon, L88, F|284/284
+|move|p2b: Ninetales|Blizzard|p1b: Toucannon|[spread] p1a,p1b
+|-resisted|p1a: Kyurem
+|-supereffective|p1b: Toucannon
+|-damage|p1a: Kyurem|116/319
+|-damage|p1b: Toucannon|146/284
+|move|p1a: Kyurem|Earth Power|p2b: Ninetales
+|-damage|p2b: Ninetales|0 fnt
+|faint|p2b: Ninetales
+|move|p2a: Rabsca|Psychic|p1b: Toucannon
+|-damage|p1b: Toucannon|26/284
+|-unboost|p1b: Toucannon|spd|1
+|-enditem|p1b: Toucannon|Sitrus Berry|[eat]
+|-heal|p1b: Toucannon|97/284|[from] item: Sitrus Berry
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711946793
+|switch|p2b: Jolteon|Jolteon, L84, F|246/246
+|turn|9
+|
+|t:|1711946809
+|switch|p1a: Mienshao|Mienshao, L85, F|190/249 frz
+|move|p2b: Jolteon|Thunderbolt|p1b: Toucannon
+|-supereffective|p1b: Toucannon
+|-damage|p1b: Toucannon|0 fnt
+|faint|p1b: Toucannon
+|-damage|p2b: Jolteon|222/246|[from] item: Life Orb
+|move|p2a: Rabsca|Struggle Bug|p1a: Mienshao
+|-resisted|p1a: Mienshao
+|-damage|p1a: Mienshao|163/249 frz
+|-unboost|p1a: Mienshao|spa|1
+|
+|-weather|Snow|[upkeep]
+|-sideend|p2: ogtru|move: Aurora Veil
+|upkeep
+|
+|t:|1711946819
+|switch|p1b: Kyurem|Kyurem, L77, tera:Steel|116/319
+|-ability|p1b: Kyurem|Pressure
+|turn|10
+|
+|t:|1711946827
+|-terastallize|p2b: Jolteon|Fairy
+|-curestatus|p1a: Mienshao|frz|[msg]
+|move|p1a: Mienshao|Fake Out|p2a: Rabsca
+|-damage|p2a: Rabsca|236/272
+|move|p2b: Jolteon|Alluring Voice|p1a: Mienshao
+|-supereffective|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|-damage|p2b: Jolteon|198/246|[from] item: Life Orb
+|move|p1b: Kyurem|Earth Power|p2b: Jolteon
+|-damage|p2b: Jolteon|132/246
+|cant|p2a: Rabsca|flinch
+|
+|-weather|none
+|upkeep
+|
+|t:|1711946839
+|switch|p1a: Moltres|Moltres-Galar, L75|256/256
+|turn|11
+|
+|t:|1711946849
+|move|p2b: Jolteon|Thunderbolt|p1b: Kyurem
+|-damage|p1b: Kyurem|0 fnt
+|faint|p1b: Kyurem
+|-damage|p2b: Jolteon|108/246|[from] item: Life Orb
+|move|p1a: Moltres|Hurricane|p2b: Jolteon
+|-damage|p2b: Jolteon|23/246
+|move|p2a: Rabsca|Struggle Bug|p1a: Moltres
+|-damage|p1a: Moltres|198/256
+|-unboost|p1a: Moltres|spa|1
+|
+|upkeep
+|turn|12
+|c|☆deltazo|gg
+|
+|t:|1711946866
+|move|p2b: Jolteon|Alluring Voice|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-damage|p2b: Jolteon|0 fnt|[from] item: Life Orb
+|faint|p2b: Jolteon
+|
+|win|ogtru
+|raw|deltazo's rating: 1544 &rarr; <strong>1526</strong><br />(-18 for losing)
+|raw|ogtru's rating: 1575 &rarr; <strong>1593</strong><br />(+18 for winning)

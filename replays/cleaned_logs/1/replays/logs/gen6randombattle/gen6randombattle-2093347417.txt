@@ -1,0 +1,62 @@
+p1: Switched to Alakazam
+p2: Switched to Ledian
+Turn 1:
+p1: Alakazam used Substitute on Alakazam
+p2: Ledian used Knock Off on Alakazam
+Turn 2:
+p1: Switched to Pidgeot
+p2: Ledian used Knock Off on Pidgeot
+Turn 3:
+p2: Switched to Dugtrio
+p1: Pidgeot used Work Up on Pidgeot
+Turn 4:
+p2: Dugtrio used Stone Edge on Pidgeot
+p1: Pidgeot used Hurricane on Dugtrio
+p2: Dugtrio fainted
+p2: Switched to Jolteon
+Turn 5:
+p1: Switched to Golem
+p2: Jolteon used Volt Switch on Golem
+Turn 6:
+p2: Switched to Arceus-Water
+p1: Golem used Rock Polish on Golem
+Turn 7:
+p1: Golem used Stone Edge on Arceus-Water
+p2: Arceus-Water used Judgment on Golem
+Turn 8:
+p1: Golem used Earthquake on Arceus-Water
+p2: Arceus-Water fainted
+p2: Switched to Delcatty
+Turn 9:
+p2: Delcatty used Fake Out on Golem
+p1: Golem fainted
+p1: Switched to Toxicroak
+Turn 10:
+p2: Delcatty used Double-Edge on Toxicroak
+p1: Toxicroak used Swords Dance on Toxicroak
+Turn 11:
+p2: Delcatty used Double-Edge on Toxicroak
+p1: Toxicroak fainted
+p1: Switched to Darkrai
+Turn 12:
+p1: Darkrai used Nasty Plot on Darkrai
+p2: Delcatty used Double-Edge on Darkrai
+Turn 13:
+p1: Darkrai used Dark Pulse on Delcatty
+p2: Delcatty fainted
+p2: Switched to Jolteon
+Turn 14:
+p2: Jolteon used Thunderbolt on Darkrai
+p1: Darkrai fainted
+p1: Switched to Ursaring
+Turn 15:
+p2: Jolteon used Thunderbolt on Ursaring
+p1: Ursaring used Crunch on Jolteon
+Turn 16:
+p2: Jolteon used Thunderbolt on Ursaring
+p1: Ursaring fainted
+p1: Switched to Alakazam
+Turn 17:
+p2: Switched to Ledian
+p1: Alakazam used Psychic on Ledian
+Turn 18:

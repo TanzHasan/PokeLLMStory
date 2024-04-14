@@ -1,0 +1,327 @@
+|j|☆ElSoto32
+|j|☆Skullmonkey
+|t:|1711941286
+|gametype|singles
+|player|p1|ElSoto32|lucas|1135
+|player|p2|Skullmonkey|li|1184
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Swagger Clause: Swagger is banned
+|rule|Baton Pass Stat Clause: No Baton Passer may have a way to boost its stats
+|clearpoke
+|poke|p1|Dragonite, F|item
+|poke|p1|Cloyster, F|item
+|poke|p1|Volcarona, F|item
+|poke|p1|Mamoswine, F|item
+|poke|p1|Garchomp, M|item
+|poke|p1|Ferrothorn, F|item
+|poke|p2|Starmie|item
+|poke|p2|Ferrothorn, M|item
+|poke|p2|Scizor, M|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Politoed, F|item
+|poke|p2|Latios, M|item
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Skullmonkey)
+|
+|t:|1711941293
+|start
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1711941301
+|move|p2a: Rotom|Trick|p1a: Garchomp
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Yache Berry|[from] move: Trick
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711941323
+|switch|p1a: Dragonite|Dragonite, F, shiny|100/100
+|switch|p2a: Politoed|Politoed, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711941333
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Politoed|Encore|p1a: Dragonite
+|-start|p1a: Dragonite|Encore
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711941355
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|switch|p2a: Starmie|Starmie, shiny|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|inactive|ElSoto32 has 120 seconds left.
+|
+|t:|1711941370
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Garchomp|Dragon Claw|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|90/100
+|-damage|p1a: Garchomp|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|97/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|ElSoto32 has 120 seconds left.
+|
+|t:|1711941382
+|switch|p1a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: ElSoto32|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|ElSoto32 has 120 seconds left.
+|
+|t:|1711941393
+|switch|p1a: Mamoswine|Mamoswine, F, shiny|100/100
+|-damage|p1a: Mamoswine|88/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Mamoswine
+|-immune|p1a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711941401
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Mamoswine|Icicle Crash|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1711941410
+|move|p1a: Mamoswine|Icicle Crash|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|67/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Mamoswine
+|-start|p1a: Mamoswine|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|86/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1711941424
+|move|p1a: Mamoswine|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|53/100
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Mamoswine
+|-immune|p1a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|59/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|63/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|72/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1711941435
+|switch|p1a: Volcarona|Volcarona, F, shiny|100/100
+|-damage|p1a: Volcarona|50/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Volcarona|57/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|78/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711941450
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Volcarona|Fiery Dance|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|89/100
+|-boost|p1a: Volcarona|spa|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Volcarona|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711941465
+|switch|p1a: Garchomp|Garchomp, M, shiny|88/100
+|-damage|p1a: Garchomp|82/100|[from] Stealth Rock
+|move|p2a: Latios|Surf|p1a: Garchomp
+|-damage|p1a: Garchomp|26/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1711941474
+|move|p2a: Latios|Surf|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711941482
+|switch|p1a: Cloyster|Cloyster, F, shiny|100/100
+|-damage|p1a: Cloyster|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1711941487
+|move|p2a: Latios|Surf|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|14/100
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Cloyster|20/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711941499
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|89/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|77/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|66/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|54/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|43/100
+|-hitcount|p2a: Scizor|5
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Cloyster|27/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711941515
+|switch|p1a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Scizor|Bullet Punch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|75/100
+|-damage|p2a: Scizor|31/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Scizor|14/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1711941526
+|switch|p2a: Ferrothorn|Ferrothorn, M|78/100
+|move|p1a: Ferrothorn|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|84/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711941541
+|switch|p1a: Volcarona|Volcarona, F, shiny|63/100
+|-damage|p1a: Volcarona|13/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Volcarona
+|-status|p1a: Volcarona|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Volcarona|19/100 par|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|91/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711941552
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|cant|p1a: Volcarona|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Volcarona|25/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711941566
+|move|p2a: Rotom|Thunder|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711941577
+|switch|p1a: Mamoswine|Mamoswine, F, shiny|63/100
+|-damage|p1a: Mamoswine|51/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1711941583
+|move|p2a: Rotom|Trick|p1a: Mamoswine
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Mamoswine
+|-item|p1a: Mamoswine|Yache Berry|[from] move: Trick
+|-item|p2a: Rotom|Expert Belt|[from] move: Trick
+|move|p1a: Mamoswine|Icicle Crash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|69/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1711941606
+|switch|p2a: Ferrothorn|Ferrothorn, M|91/100
+|move|p1a: Mamoswine|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100
+|-unboost|p1a: Mamoswine|atk|1
+|-unboost|p1a: Mamoswine|def|1
+|-damage|p1a: Mamoswine|38/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|40/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|-message|ElSoto32 forfeited.
+|
+|win|Skullmonkey
+|raw|ElSoto32's rating: 1135 &rarr; <strong>1114</strong><br />(-21 for losing)
+|raw|Skullmonkey's rating: 1184 &rarr; <strong>1205</strong><br />(+21 for winning)
+|l|☆ElSoto32
+|player|p1|

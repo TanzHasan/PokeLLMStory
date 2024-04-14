@@ -1,0 +1,143 @@
+p1: Switched to Tauros
+p2: Switched to Zapdos
+Turn 1:
+p2: Switched to Skarmory
+p1: Tauros used Return on Skarmory
+Turn 2:
+p1: Switched to Magneton
+p2: Skarmory used Spikes on Magneton
+Turn 3:
+p2: Skarmory used Protect on Skarmory
+p1: Magneton used Thunderbolt on Skarmory
+Turn 4:
+p1: Magneton used Thunderbolt on Skarmory
+p2: Skarmory used Torment on Magneton
+Turn 5:
+p1: Magneton used Thunder Wave on Skarmory
+p2: Skarmory used Spikes on Magneton
+Turn 6:
+p1: Magneton used Thunderbolt on Skarmory
+p2: Skarmory fainted
+p2: Switched to Dugtrio
+Turn 7:
+p1: Magneton used Endure on Magneton
+p2: Dugtrio used Sand Attack on Magneton
+Turn 8:
+p2: Dugtrio used Substitute on Dugtrio
+p1: Magneton used Hidden Power on Dugtrio
+Turn 9:
+p1: Magneton used Endure on Magneton
+p2: Dugtrio used Sand Attack on Magneton
+Turn 10:
+p2: Dugtrio used Sand Attack on Magneton
+p1: Magneton used Hidden Power on Dugtrio
+Turn 11:
+p1: Magneton used Endure on Magneton
+p2: Dugtrio used Sand Attack on Magneton
+Turn 12:
+p2: Dugtrio used Sand Attack on Magneton
+p1: Magneton used Hidden Power on Dugtrio
+p2: Dugtrio fainted
+p2: Switched to Gardevoir
+Turn 13:
+p2: Gardevoir used Substitute on Gardevoir
+p1: Magneton failed to use Thunder Wave
+Turn 14:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Thunderbolt on Gardevoir
+Turn 15:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Hidden Power on Gardevoir
+Turn 16:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Thunderbolt on Gardevoir
+Turn 17:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Hidden Power on Gardevoir
+Turn 18:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Thunderbolt on Gardevoir
+Turn 19:
+p2: Gardevoir used Calm Mind on Gardevoir
+p1: Magneton used Hidden Power on Gardevoir
+Turn 20:
+p2: Gardevoir used Psychic on Magneton
+p1: Magneton fainted
+p1: Switched to Dugtrio
+Turn 21:
+p1: Dugtrio used Earthquake on Gardevoir
+p2: Gardevoir used Psychic on Dugtrio
+p1: Dugtrio fainted
+p1: Switched to Tauros
+Turn 22:
+p2: Switched to Flygon
+p1: Tauros used Return on Flygon
+Turn 23:
+p2: Flygon used Protect on Flygon
+p1: Tauros used Return on Flygon
+Turn 24:
+p1: Tauros used Return on Flygon
+p2: Flygon used Toxic on Tauros
+Turn 25:
+p1: Switched to Kingdra
+p2: Flygon failed to use Protect
+Turn 26:
+p2: Flygon used Toxic on Kingdra
+p1: Kingdra used Rain Dance on Kingdra
+Turn 27:
+p2: Flygon used Protect on Flygon
+p1: Kingdra used Surf on Flygon
+Turn 28:
+p2: Switched to Blissey
+p1: Kingdra used Surf on Blissey
+Turn 29:
+p1: Switched to Tauros
+p2: Blissey used Calm Mind on Blissey
+Turn 30:
+p2: Switched to Flygon
+p1: Tauros used Return on Flygon
+p2: Flygon fainted
+p2: Switched to Gardevoir
+Turn 31:
+p1: Tauros used Return on Gardevoir
+p2: Gardevoir fainted
+p2: Switched to Blissey
+Turn 32:
+p1: Tauros used Return on Blissey
+p2: Blissey used Soft-Boiled on Blissey
+p1: Tauros fainted
+p1: Switched to Smeargle
+Turn 33:
+p1: Smeargle used Substitute on Smeargle
+p2: Blissey used Ice Beam on Smeargle
+Turn 34:
+p1: Smeargle used Spore on Blissey
+p2: Blissey can't move
+Turn 35:
+p2: Switched to Zapdos
+p1: Smeargle used Spore on Zapdos
+Turn 36:
+p1: Smeargle used Belly Drum on Smeargle
+p2: Zapdos can't move
+Turn 37:
+p1: Smeargle used Substitute on Smeargle
+p2: Zapdos can't move
+Turn 38:
+p1: Smeargle used Baton Pass on Smeargle
+p1: Switched to Aerodactyl
+p2: Zapdos used Roar on Aerodactyl
+p1: Smeargle fainted
+p1: Switched to Aerodactyl
+Turn 39:
+p1: Aerodactyl used Rock Slide on Zapdos
+p2: Zapdos used Thunderbolt on Aerodactyl
+p1: Aerodactyl fainted
+p1: Switched to Kingdra
+Turn 40:
+p2: Zapdos used Thunderbolt on Kingdra
+p1: Kingdra used Rain Dance on Kingdra
+Turn 41:
+p1: Kingdra used Surf on Zapdos
+p2: Zapdos fainted
+p2: Switched to Blissey
+p1: Kingdra fainted

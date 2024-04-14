@@ -1,0 +1,198 @@
+|j|☆dilllllllllllon
+|j|☆Birbathan
+|t:|1711870690
+|gametype|singles
+|player|p1|dilllllllllllon|whitney|
+|player|p2|Birbathan|266|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Necrozma-Dusk-Mane|
+|poke|p1|Blissey, F|
+|poke|p1|Clodsire, F|
+|poke|p1|Pecharunt|
+|poke|p1|Palossand, M|
+|poke|p1|Latios, M|
+|poke|p2|Ceruledge, M|
+|poke|p2|Scream Tail|
+|poke|p2|Dragonite, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Kyurem|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dilllllllllllon)
+|c|☆dilllllllllllon|gl
+|c|☆Birbathan|you too
+|
+|t:|1711870709
+|start
+|switch|p1a: Claude|Clodsire, F|100/100
+|switch|p2a: durgen|Kyurem|100/100
+|-ability|p2a: durgen|Pressure
+|detailschange|p2a: durgen|Kyurem
+|-primal|p2a: durgen|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p2a: durgen
+|-start|p2a: durgen|Red Orb|[silent]
+|-start|p2a: durgen|typechange|Dragon/Fire|[silent]
+|turn|1
+|
+|t:|1711870720
+|move|p2a: durgen|Weather Ball|p1a: Claude
+|-crit|p1a: Claude
+|-damage|p1a: Claude|7/100
+|move|p1a: Claude|Earthquake|p2a: durgen
+|-supereffective|p2a: durgen
+|-damage|p2a: durgen|55/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|2
+|c|☆Birbathan|oops
+|c|☆Birbathan|OOPS
+|c|☆dilllllllllllon|stop critting me pls
+|c|☆Birbathan|i forgot earth power
+|c|☆dilllllllllllon|weather ball does more than earth power
+|c|☆Birbathan|nvm that this still works
+|inactive|dilllllllllllon has 270 seconds left.
+|
+|t:|1711870750
+|switch|p1a: Satan|Blissey, F|100/100
+|move|p2a: durgen|Weather Ball|p1a: Satan
+|-damage|p1a: Satan|62/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|3
+|c|☆Birbathan|it does
+|
+|t:|1711870757
+|detailschange|p1a: Satan|Blissey, F
+|-mega|p1a: Satan|Blissey|Audinite
+|-start|p1a: Satan|Audinite|[silent]
+|-start|p1a: Satan|typechange|Normal/Fairy|[silent]
+|move|p2a: durgen|Weather Ball|p1a: Satan
+|-damage|p1a: Satan|31/100
+|move|p1a: Satan|Soft-Boiled|p1a: Satan
+|-heal|p1a: Satan|81/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711870762
+|-end|p2a: durgen|Red Orb|[silent]
+|-weather|none
+|switch|p2a: sword guy|Ceruledge, M|100/100
+|move|p1a: Satan|Calm Mind|p1a: Satan
+|-boost|p1a: Satan|spa|1
+|-boost|p1a: Satan|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711870769
+|detailschange|p2a: sword guy|Ceruledge, M
+|-mega|p2a: sword guy|Ceruledge|Gyaradosite
+|-ability|p2a: sword guy|Mold Breaker
+|-start|p2a: sword guy|Gyaradosite|[silent]
+|-start|p2a: sword guy|typechange|Fire/Dark|[silent]
+|move|p2a: sword guy|Bitter Blade|p1a: Satan
+|-damage|p1a: Satan|44/100
+|move|p1a: Satan|Alluring Voice|p2a: sword guy
+|-damage|p2a: sword guy|47/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711870778
+|move|p2a: sword guy|Bitter Blade|p1a: Satan
+|-damage|p1a: Satan|7/100
+|-heal|p2a: sword guy|87/100|[from] drain|[of] p1a: Satan
+|move|p1a: Satan|Soft-Boiled|p1a: Satan
+|-heal|p1a: Satan|57/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711870783
+|move|p2a: sword guy|Bulk Up|p2a: sword guy
+|-boost|p2a: sword guy|atk|1
+|-boost|p2a: sword guy|def|1
+|move|p1a: Satan|Soft-Boiled|p1a: Satan
+|-heal|p1a: Satan|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711870788
+|-end|p1a: Satan|Audinite|[silent]
+|switch|p1a: Claude|Clodsire, F|7/100
+|move|p2a: sword guy|Bitter Blade|p1a: Claude
+|-damage|p1a: Claude|0 fnt
+|-heal|p2a: sword guy|92/100|[from] drain|[of] p1a: Claude
+|faint|p1a: Claude
+|
+|upkeep
+|
+|t:|1711870790
+|switch|p1a: cheeselord69|Palossand, M|100/100
+|turn|9
+|
+|t:|1711870796
+|detailschange|p1a: cheeselord69|Palossand, M
+|-mega|p1a: cheeselord69|Palossand|Banettite
+|-start|p1a: cheeselord69|Banettite|[silent]
+|move|p1a: cheeselord69|Destiny Bond|p1a: cheeselord69
+|-singlemove|p1a: cheeselord69|Destiny Bond
+|move|p2a: sword guy|Taunt|p1a: cheeselord69
+|-start|p1a: cheeselord69|move: Taunt
+|
+|upkeep
+|turn|10
+|
+|t:|1711870802
+|move|p2a: sword guy|Bulk Up|p2a: sword guy
+|-boost|p2a: sword guy|atk|1
+|-boost|p2a: sword guy|def|1
+|move|p1a: cheeselord69|Poltergeist|p2a: sword guy
+|-activate|p2a: sword guy|move: Poltergeist|Gyaradosite
+|-resisted|p2a: sword guy
+|-damage|p2a: sword guy|81/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711870808
+|-end|p1a: cheeselord69|Banettite|[silent]
+|switch|p1a: Lati-O's|Latios, M|100/100
+|detailschange|p1a: Lati-O's|Latios, M
+|-primal|p1a: Lati-O's|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Lati-O's
+|-start|p1a: Lati-O's|Red Orb|[silent]
+|-start|p1a: Lati-O's|typechange|Dragon/Fire|[silent]
+|move|p2a: sword guy|Throat Chop|p1a: Lati-O's
+|-damage|p1a: Lati-O's|0 fnt
+|faint|p1a: Lati-O's
+|-weather|none
+|
+|upkeep
+|c|☆dilllllllllllon|well im fkd
+|c|☆dilllllllllllon|gg
+|c|☆Birbathan|>:D
+|c|☆Birbathan|gg
+|-message|dilllllllllllon forfeited.
+|
+|win|Birbathan
+|l|☆dilllllllllllon
+|player|p1|

@@ -1,0 +1,393 @@
+|j|☆ULTRA MEGA TARD
+|j|☆Joshthebosh4.0
+|t:|1711930515
+|gametype|singles
+|player|p1|ULTRA MEGA TARD|crasherwake|1183
+|player|p2|Joshthebosh4.0|bugsy|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711930515
+|start
+|switch|p1a: Snorlax|Snorlax, M|100/100
+|switch|p2a: Snorlax|Snorlax, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ULTRA MEGA TARD)
+|
+|t:|1711930534
+|switch|p2a: Golem|Golem, M|100/100
+|move|p1a: Snorlax|Body Slam|p2a: Golem
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|88/100
+|
+|-heal|p2a: Golem|94/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711930540
+|move|p1a: Snorlax|Body Slam|p2a: Golem
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|81/100
+|-status|p2a: Golem|par
+|move|p2a: Golem|Roar|p1a: Snorlax
+|drag|p1a: Nidoking|Nidoking, M|100/100
+|
+|-heal|p2a: Golem|88/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711930557
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Snorlax|Snorlax, M|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711930563
+|move|p1a: Zapdos|Thunder|p2a: Snorlax
+|-damage|p2a: Snorlax|70/100
+|-status|p2a: Snorlax|par
+|move|p2a: Snorlax|Double-Edge|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|-damage|p2a: Snorlax|61/100 par|[from] Recoil|[of] p1a: Zapdos
+|
+|-heal|p2a: Snorlax|68/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711930571
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|cant|p2a: Snorlax|par
+|
+|-heal|p2a: Snorlax|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711930580
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Cloyster|Spikes|p2a: Moltres
+|-sidestart|p2: Joshthebosh4.0|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1711930594
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|move|p2a: Moltres|Fire Blast|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|78/100
+|
+|-heal|p1a: Tyranitar|84/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711930606
+|switch|p2a: Golem|Golem, M|88/100 par
+|-damage|p2a: Golem|75/100 par|[from] Spikes
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|
+|-heal|p2a: Golem|81/100 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711930614
+|switch|p2a: Exeggutor|Exeggutor, M|100/100
+|-damage|p2a: Exeggutor|88/100|[from] Spikes
+|move|p1a: Cloyster|Surf|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|70/100
+|
+|-heal|p2a: Exeggutor|76/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711930628
+|move|p1a: Cloyster|Ice Beam|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|t:|1711930632
+|switch|p2a: Moltres|Moltres|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711930641
+|switch|p1a: Snorlax|Snorlax, M|100/100
+|move|p2a: Moltres|Fire Blast|p1a: Snorlax
+|-crit|p1a: Snorlax
+|-damage|p1a: Snorlax|38/100
+|
+|-heal|p1a: Snorlax|44/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711930647
+|move|p2a: Moltres|Fire Blast|p1a: Snorlax
+|-damage|p1a: Snorlax|11/100
+|move|p1a: Snorlax|Body Slam|p2a: Moltres
+|-damage|p2a: Moltres|72/100
+|
+|-heal|p1a: Snorlax|17/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711930653
+|switch|p1a: Tyranitar|Tyranitar, M|84/100
+|move|p2a: Moltres|Fire Blast|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|61/100
+|
+|-heal|p1a: Tyranitar|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711930662
+|switch|p2a: Golem|Golem, M|81/100 par
+|-damage|p2a: Golem|69/100 par|[from] Spikes
+|move|p1a: Tyranitar|Rock Slide|p2a: Golem
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|57/100 par
+|
+|-heal|p1a: Tyranitar|74/100|[from] item: Leftovers
+|-heal|p2a: Golem|63/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711930669
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|move|p2a: Golem|Roar|p1a: Cloyster
+|drag|p1a: Snorlax|Snorlax, M|17/100
+|
+|-heal|p1a: Snorlax|23/100|[from] item: Leftovers
+|-heal|p2a: Golem|69/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711930673
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|move|p2a: Golem|Earthquake|p1a: Cloyster
+|-damage|p1a: Cloyster|75/100
+|
+|-heal|p1a: Cloyster|81/100|[from] item: Leftovers
+|-heal|p2a: Golem|75/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711930680
+|switch|p2a: Snorlax|Snorlax, M|74/100 par
+|-damage|p2a: Snorlax|61/100 par|[from] Spikes
+|move|p1a: Cloyster|Surf|p2a: Snorlax
+|-damage|p2a: Snorlax|43/100 par
+|
+|-heal|p1a: Cloyster|87/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|49/100 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711930688
+|move|p1a: Cloyster|Surf|p2a: Snorlax
+|-damage|p2a: Snorlax|31/100 par
+|move|p2a: Snorlax|Rest|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Rest
+|-heal|p2a: Snorlax|100/100 slp|[silent]
+|
+|-heal|p1a: Cloyster|93/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711930694
+|switch|p1a: Tyranitar|Tyranitar, M|74/100
+|cant|p2a: Snorlax|slp
+|
+|-heal|p1a: Tyranitar|80/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711930713
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Golem|Golem, M|75/100 par
+|-damage|p2a: Golem|63/100 par|[from] Spikes
+|
+|-heal|p2a: Golem|69/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711930723
+|switch|p2a: Snorlax|Snorlax, M|100/100 slp
+|-damage|p2a: Snorlax|88/100 slp|[from] Spikes
+|move|p1a: Nidoking|Ice Beam|p2a: Snorlax
+|-damage|p2a: Snorlax|77/100 slp
+|
+|-heal|p2a: Snorlax|83/100 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711930727
+|move|p1a: Nidoking|Earthquake|p2a: Snorlax
+|-damage|p2a: Snorlax|57/100 slp
+|cant|p2a: Snorlax|slp
+|
+|-heal|p2a: Snorlax|63/100 slp|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711930731
+|move|p1a: Nidoking|Earthquake|p2a: Snorlax
+|-damage|p2a: Snorlax|37/100 slp
+|-curestatus|p2a: Snorlax|slp|[msg]
+|move|p2a: Snorlax|Earthquake|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|49/100
+|
+|-heal|p1a: Nidoking|55/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|43/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711930734
+|move|p1a: Nidoking|Lovely Kiss|p2a: Snorlax
+|-status|p2a: Snorlax|slp|[from] move: Lovely Kiss
+|cant|p2a: Snorlax|slp
+|
+|-heal|p1a: Nidoking|61/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|49/100 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711930739
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Nidoking|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-heal|p1a: Nidoking|67/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711930751
+|switch|p1a: Cloyster|Cloyster, M|93/100
+|move|p2a: Zapdos|Hidden Power|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|85/100
+|
+|-heal|p1a: Cloyster|91/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711930754
+|switch|p1a: Nidoking|Nidoking, M|67/100
+|move|p2a: Zapdos|Thunder|p1a: Nidoking
+|-immune|p1a: Nidoking
+|
+|-heal|p1a: Nidoking|73/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711930761
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Zapdos|Hidden Power|p1a: Gengar
+|-damage|p1a: Gengar|73/100
+|
+|-heal|p1a: Gengar|79/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711930769
+|switch|p2a: Golem|Golem, M|69/100 par
+|-damage|p2a: Golem|57/100 par|[from] Spikes
+|move|p1a: Gengar|Ice Punch|p2a: Golem
+|-supereffective|p2a: Golem
+|-damage|p2a: Golem|8/100 par
+|
+|-heal|p1a: Gengar|86/100|[from] item: Leftovers
+|-heal|p2a: Golem|14/100 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1711930775
+|move|p1a: Gengar|Ice Punch|p2a: Golem
+|-supereffective|p2a: Golem
+|-damage|p2a: Golem|0 fnt
+|faint|p2a: Golem
+|
+|t:|1711930777
+|switch|p2a: Snorlax|Snorlax, M|49/100 slp
+|-damage|p2a: Snorlax|37/100 slp|[from] Spikes
+|
+|-heal|p1a: Gengar|92/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|43/100 slp|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711930782
+|move|p1a: Gengar|Dynamic Punch|p2a: Snorlax|[miss]
+|-miss|p1a: Gengar
+|cant|p2a: Snorlax|slp
+|
+|-heal|p1a: Gengar|98/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|49/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711930788
+|move|p1a: Gengar|Dynamic Punch|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|17/100 slp
+|-start|p2a: Snorlax|confusion
+|cant|p2a: Snorlax|slp
+|
+|-heal|p1a: Gengar|100/100|[from] item: Leftovers
+|-heal|p2a: Snorlax|23/100 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711930792
+|move|p1a: Gengar|Thunder|p2a: Snorlax|[miss]
+|-miss|p1a: Gengar
+|cant|p2a: Snorlax|slp
+|
+|-heal|p2a: Snorlax|29/100 slp|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711930794
+|move|p1a: Gengar|Thunder|p2a: Snorlax
+|-damage|p2a: Snorlax|8/100 slp
+|cant|p2a: Snorlax|slp
+|
+|-heal|p2a: Snorlax|14/100 slp|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711930799
+|move|p1a: Gengar|Thunder|p2a: Snorlax|[miss]
+|-miss|p1a: Gengar
+|cant|p2a: Snorlax|slp
+|
+|-heal|p2a: Snorlax|20/100 slp|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711930803
+|move|p1a: Gengar|Thunder|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|-message|Joshthebosh4.0 forfeited.
+|
+|win|ULTRA MEGA TARD
+|raw|ULTRA MEGA TARD's rating: 1183 &rarr; <strong>1196</strong><br />(+13 for winning)
+|raw|Joshthebosh4.0's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Joshthebosh4.0
+|player|p2|

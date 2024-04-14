@@ -1,0 +1,46 @@
+p1: Switched to Hydreigon
+p2: Switched to Galvantula
+Turn 1:
+p2: Galvantula used Thunder Wave on Hydreigon
+p1: Hydreigon used Substitute on Hydreigon
+Turn 2:
+p2: Galvantula used Sticky Web on Hydreigon
+p1: Hydreigon used Dark Pulse on Galvantula
+Turn 3:
+p2: Galvantula used Thunder on Hydreigon
+p1: Hydreigon can't move
+Turn 4:
+p2: Galvantula used Thunder on Hydreigon
+p1: Hydreigon used Dark Pulse on Galvantula
+p2: Galvantula fainted
+p2: Switched to Iron Moth
+Turn 5:
+p2: Iron Moth used Dazzling Gleam on Hydreigon
+p1: Hydreigon fainted
+p1: Switched to Weezing-Galar
+Turn 6:
+p2: Iron Moth used Fiery Dance on Weezing-Galar
+p1: Weezing-Galar used Defog on Iron Moth
+Turn 7:
+p2: Iron Moth used Discharge on Weezing-Galar
+p1: Weezing-Galar fainted
+p1: Switched to Ursaluna
+Turn 8:
+p2: Iron Moth used Energy Ball on Ursaluna
+p1: Ursaluna fainted
+p1: Switched to Pecharunt
+Turn 9:
+p2: Iron Moth used Fiery Dance on Pecharunt
+p1: Pecharunt used Malignant Chain on Iron Moth
+Turn 10:
+p2: Iron Moth used Discharge on Pecharunt
+p1: Pecharunt fainted
+p1: Switched to Greninja
+Turn 11:
+p1: Greninja used Water Shuriken on Iron Moth
+p2: Iron Moth used Energy Ball on Greninja
+p1: Greninja fainted
+p1: Switched to Quaquaval
+Turn 12:
+p2: Iron Moth used Discharge on Quaquaval
+p1: Quaquaval fainted

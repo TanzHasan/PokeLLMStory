@@ -1,0 +1,69 @@
+p1: Switched to Ninetales-Alola
+p2: Switched to Great Tusk
+Turn 1:
+p2: Switched to Kingambit
+p1: Ninetales-Alola used Moonblast on Kingambit
+Turn 2:
+p1: Ninetales-Alola used Aurora Veil on Ninetales-Alola
+p2: Kingambit used Iron Head on Ninetales-Alola
+Turn 3:
+p1: Ninetales-Alola used Encore on Kingambit
+p2: Kingambit used Iron Head on Ninetales-Alola
+p1: Ninetales-Alola fainted
+p1: Switched to Haxorus
+Turn 4:
+p2: Switched to Zapdos
+p1: Haxorus used Dragon Dance on Haxorus
+Turn 5:
+p1: Haxorus used Dragon Dance on Haxorus
+p2: Zapdos used Discharge on Haxorus
+Turn 6:
+p1: Haxorus can't move
+p2: Zapdos used Volt Switch on Haxorus
+p2: Switched to Dondozo
+Turn 7:
+p1: Haxorus can't move
+p2: Dondozo used Body Press on Haxorus
+Turn 8:
+p1: Haxorus used Outrage on Dondozo
+p2: Dondozo fainted
+p2: Switched to Great Tusk
+Turn 9:
+p2: Great Tusk used Rapid Spin on Haxorus
+p1: Haxorus used Outrage on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Dragapult
+Turn 10:
+p2: Dragapult used Shadow Ball on Haxorus
+p1: Haxorus fainted
+p1: Switched to Indeedee
+Turn 11:
+p2: Switched to Kingambit
+p1: Indeedee used Dazzling Gleam on Kingambit
+Turn 12:
+p1: Indeedee used Dazzling Gleam on Kingambit
+p2: Kingambit used Kowtow Cleave on Indeedee
+p1: Indeedee fainted
+p1: Switched to Gallade
+Turn 13:
+p2: Switched to Zapdos
+p1: Gallade used Agility on Gallade
+Turn 14:
+p1: Gallade used Psycho Cut on Zapdos
+p2: Zapdos used Discharge on Gallade
+Turn 15:
+p2: Switched to Kingambit
+p1: Gallade used Sacred Sword on Kingambit
+p2: Kingambit fainted
+p2: Switched to Slowking-Galar
+Turn 16:
+p1: Gallade used Psycho Cut on Slowking-Galar
+p2: Slowking-Galar fainted
+p2: Switched to Zapdos
+Turn 17:
+p1: Gallade used Psycho Cut on Zapdos
+p2: Zapdos fainted
+p2: Switched to Dragapult
+Turn 18:
+p1: Gallade used Psycho Cut on Dragapult
+p2: Dragapult fainted

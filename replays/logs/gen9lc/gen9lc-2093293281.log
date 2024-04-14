@@ -1,0 +1,168 @@
+|j|☆organically
+|j|☆Unowey14
+|t:|1711935554
+|gametype|singles
+|player|p1|organically|iono|1215
+|player|p2|Unowey14|2|1281
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Voltorb-Hisui, L5|
+|poke|p1|Larvesta, L5, M|
+|poke|p1|Stunky, L5, F|
+|poke|p1|Zorua-Hisui, L5, F|
+|poke|p1|Mienfoo, L5, M|
+|poke|p1|Tinkatink, L5, F|
+|poke|p2|Voltorb-Hisui, L5|
+|poke|p2|Foongus, L5, M|
+|poke|p2|Glimmet, L5, M|
+|poke|p2|Gastly, L5, F|
+|poke|p2|Mudbray, L5, M|
+|poke|p2|Mienfoo, L5, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Unowey14)
+|
+|t:|1711935590
+|start
+|switch|p1a: Voltorb|Voltorb-Hisui, L5, shiny|100/100
+|switch|p2a: Glimmet|Glimmet, L5, M|100/100
+|turn|1
+|
+|t:|1711935596
+|move|p1a: Voltorb|Giga Drain|p2a: Glimmet
+|-damage|p2a: Glimmet|61/100
+|move|p2a: Glimmet|Mud Shot|p1a: Voltorb
+|-damage|p1a: Voltorb|77/100
+|-unboost|p1a: Voltorb|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711935603
+|move|p2a: Glimmet|Sludge Wave|p1a: Voltorb
+|-supereffective|p1a: Voltorb
+|-damage|p1a: Voltorb|0 fnt
+|faint|p1a: Voltorb
+|
+|upkeep
+|
+|t:|1711935609
+|switch|p1a: Larvesta|Larvesta, L5, M, shiny|100/100
+|turn|3
+|
+|t:|1711935616
+|-terastallize|p1a: Larvesta|Ground
+|move|p1a: Larvesta|Tera Blast|p2a: Glimmet|[anim] Tera Blast Ground
+|-supereffective|p2a: Glimmet
+|-damage|p2a: Glimmet|0 fnt
+|faint|p2a: Glimmet
+|
+|upkeep
+|
+|t:|1711935624
+|switch|p2a: Foongus|Foongus, L5, M|100/100
+|turn|4
+|l|☆organically
+|inactive|organically disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|organically has 30 seconds to reconnect!
+|j|☆organically
+|inactive|organically reconnected and has 110 seconds left.
+|player|p1|organically|iono
+|
+|t:|1711935674
+|move|p1a: Larvesta|U-turn|p2a: Foongus
+|-damage|p2a: Foongus|84/100
+|
+|t:|1711935678
+|switch|p1a: Stunky|Stunky, L5, F, shiny|100/100|[from] U-turn
+|move|p2a: Foongus|Spore|p1a: Stunky
+|-status|p1a: Stunky|slp|[from] move: Spore
+|
+|upkeep
+|turn|5
+|
+|t:|1711935688
+|switch|p1a: Larvesta|Larvesta, L5, M, shiny, tera:Ground|100/100
+|switch|p2a: Mudbray|Mudbray, L5, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711935695
+|move|p1a: Larvesta|Will-O-Wisp|p2a: Mudbray
+|-status|p2a: Mudbray|brn
+|move|p2a: Mudbray|Earthquake|p1a: Larvesta
+|-damage|p1a: Larvesta|70/100
+|replace|p1a: Zorua|Zorua-Hisui, L5, F, shiny
+|-end|p1a: Zorua|Illusion
+|
+|-damage|p2a: Mudbray|96/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711935707
+|move|p1a: Zorua|Hex|p2a: Mudbray
+|-damage|p2a: Mudbray|34/100 brn
+|-ability|p2a: Mudbray|Stamina|boost
+|-boost|p2a: Mudbray|def|1
+|move|p2a: Mudbray|Earthquake|p1a: Zorua
+|-crit|p1a: Zorua
+|-damage|p1a: Zorua|15/100
+|
+|-damage|p2a: Mudbray|30/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1711935718
+|move|p1a: Zorua|Hex|p2a: Mudbray
+|-damage|p2a: Mudbray|0 fnt
+|faint|p2a: Mudbray
+|
+|upkeep
+|
+|t:|1711935724
+|switch|p2a: Voltorb|Voltorb-Hisui, L5, shiny|100/100
+|turn|9
+|
+|t:|1711935728
+|switch|p1a: Larvesta|Larvesta, L5, M, shiny|100/100
+|move|p2a: Voltorb|Tera Blast|p1a: Larvesta
+|-damage|p1a: Larvesta|79/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711935745
+|move|p2a: Voltorb|Volt Switch|p1a: Larvesta
+|-damage|p1a: Larvesta|48/100
+|
+|t:|1711935753
+|switch|p2a: Foongus|Foongus, L5, M|100/100|[from] Volt Switch
+|move|p1a: Larvesta|U-turn|p2a: Foongus
+|-damage|p2a: Foongus|72/100
+|
+|t:|1711935761
+|switch|p1a: Tinkatink|Tinkatink, L5, F, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|11
+|-message|Unowey14 forfeited.
+|
+|win|organically
+|raw|organically's rating: 1215 &rarr; <strong>1245</strong><br />(+30 for winning)
+|raw|Unowey14's rating: 1281 &rarr; <strong>1251</strong><br />(-30 for losing)
+|l|☆Unowey14
+|player|p2|
+|l|☆organically
+|player|p1|

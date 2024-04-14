@@ -1,0 +1,340 @@
+|j|☆thankyoubrother
+|j|☆ppupquqwqequ
+|t:|1711946340
+|gametype|singles
+|player|p1|thankyoubrother|cynthia-gen4|1103
+|player|p2|ppupquqwqequ|101|1256
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Latios, M|
+|poke|p1|Mamoswine, M|
+|poke|p1|Slowking, M|
+|poke|p1|Hydrapple, M|
+|poke|p2|Lokix, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Skeledirge, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Sinistcha|
+|poke|p2|Excadrill, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ppupquqwqequ)
+|
+|t:|1711946356
+|start
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|switch|p2a: Lokix|Lokix, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1711946370
+|-terastallize|p2a: Lokix|Bug
+|move|p2a: Lokix|First Impression|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lokix|95/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711946388
+|switch|p1a: Excadrill|Excadrill, M, shiny|100/100
+|turn|2
+|
+|t:|1711946398
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1711946416
+|move|p1a: Excadrill|Iron Head|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|72/100
+|cant|p2a: Rotom|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|65/100|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|thankyoubrother has 120 seconds left.
+|
+|t:|1711946465
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Latios|[miss]
+|-miss|p2a: Rotom|p1a: Latios
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|95/100|[from] Sandstorm
+|-damage|p2a: Rotom|59/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711946490
+|move|p1a: Latios|Draco Meteor|p2a: Rotom
+|-damage|p2a: Rotom|5/100
+|-unboost|p1a: Latios|spa|2
+|-enditem|p2a: Rotom|Aguav Berry|[eat]
+|-heal|p2a: Rotom|39/100|[from] item: Aguav Berry
+|move|p2a: Rotom|Pain Split|p1a: Latios
+|-sethp|p1a: Latios|67/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|66/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|61/100|[from] Sandstorm
+|-damage|p2a: Rotom|60/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1711946503
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: Rotom|Thunder Wave|p1a: Hydrapple
+|-status|p1a: Hydrapple|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|53/100|[from] Sandstorm
+|-damage|p1a: Hydrapple|94/100 par|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1711946516
+|move|p2a: Rotom|Pain Split|p1a: Hydrapple
+|-sethp|p1a: Hydrapple|67/100 par|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|91/100|[from] move: Pain Split
+|move|p1a: Hydrapple|Infestation|p2a: Rotom
+|-damage|p2a: Rotom|85/100
+|-activate|p2a: Rotom|move: Infestation|[of] p1a: Hydrapple
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|79/100|[from] Sandstorm
+|-damage|p1a: Hydrapple|61/100 par|[from] Sandstorm
+|-damage|p2a: Rotom|66/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1711946529
+|move|p2a: Rotom|Volt Switch|p1a: Hydrapple
+|-resisted|p1a: Hydrapple
+|-damage|p1a: Hydrapple|56/100 par
+|
+|t:|1711946542
+|switch|p2a: Skeledirge|Skeledirge, M|100/100|[from] Volt Switch
+|move|p1a: Hydrapple|Fickle Beam|p2a: Skeledirge|[anim] Fickle Beam All Out
+|-activate|p1a: Hydrapple|move: Fickle Beam
+|-damage|p2a: Skeledirge|36/100
+|
+|-weather|none
+|-heal|p2a: Skeledirge|42/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|thankyoubrother has 120 seconds left.
+|
+|t:|1711946562
+|switch|p1a: Slowking|Slowking, M, shiny|100/100
+|move|p2a: Skeledirge|Torch Song|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|-heal|p2a: Skeledirge|49/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711946572
+|move|p2a: Skeledirge|Shadow Ball|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|21/100
+|move|p1a: Slowking|Thunder Wave|p2a: Skeledirge
+|-status|p2a: Skeledirge|par
+|
+|-heal|p2a: Skeledirge|55/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|thankyoubrother has 120 seconds left.
+|
+|t:|1711946601
+|switch|p1a: Hydrapple|Hydrapple, M|89/100 par
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711946611
+|move|p2a: Sinistcha|Strength Sap|p1a: Hydrapple
+|-unboost|p1a: Hydrapple|atk|1
+|cant|p1a: Hydrapple|par
+|
+|upkeep
+|turn|13
+|
+|t:|1711946618
+|move|p2a: Sinistcha|Curse|p1a: Hydrapple
+|-start|p1a: Hydrapple|Curse|[of] p2a: Sinistcha
+|-damage|p2a: Sinistcha|50/100
+|cant|p1a: Hydrapple|par
+|
+|-damage|p1a: Hydrapple|65/100 par|[from] Curse
+|upkeep
+|turn|14
+|inactive|thankyoubrother has 120 seconds left.
+|
+|t:|1711946627
+|move|p2a: Sinistcha|Strength Sap|p1a: Hydrapple
+|-unboost|p1a: Hydrapple|atk|1
+|-heal|p2a: Sinistcha|79/100
+|cant|p1a: Hydrapple|par
+|
+|-damage|p1a: Hydrapple|40/100 par|[from] Curse
+|upkeep
+|turn|15
+|
+|t:|1711946636
+|switch|p1a: Latios|Latios, M, shiny|61/100
+|move|p2a: Sinistcha|Strength Sap|p1a: Latios
+|-unboost|p1a: Latios|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711946644
+|-terastallize|p1a: Latios|Fire
+|move|p1a: Latios|Tera Blast|p2a: Sinistcha|[anim] Tera Blast Fire
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|62/100
+|move|p2a: Sinistcha|Curse|p1a: Latios
+|-start|p1a: Latios|Curse|[of] p2a: Sinistcha
+|-damage|p2a: Sinistcha|12/100
+|
+|-damage|p1a: Latios|36/100|[from] Curse
+|upkeep
+|turn|17
+|
+|t:|1711946656
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Latios|Tera Blast|p2a: Toxapex|[anim] Tera Blast Fire
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|83/100
+|
+|-heal|p2a: Toxapex|89/100|[from] item: Black Sludge
+|-damage|p1a: Latios|11/100|[from] Curse
+|upkeep
+|turn|18
+|
+|t:|1711946673
+|switch|p1a: Hydrapple|Hydrapple, M|73/100 par
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711946684
+|switch|p2a: Sinistcha|Sinistcha|12/100
+|move|p1a: Hydrapple|Earth Power|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|upkeep
+|
+|t:|1711946692
+|switch|p2a: Lokix|Lokix, F, tera:Bug|95/100
+|turn|20
+|
+|t:|1711946719
+|switch|p1a: Excadrill|Excadrill, M, shiny|100/100
+|move|p2a: Lokix|First Impression|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-enditem|p1a: Excadrill|Focus Sash
+|-damage|p1a: Excadrill|1/100
+|
+|upkeep
+|turn|21
+|
+|t:|1711946730
+|switch|p2a: Rotom|Rotom-Wash|66/100
+|move|p1a: Excadrill|Iron Head|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|55/100
+|
+|upkeep
+|turn|22
+|
+|t:|1711946738
+|move|p1a: Excadrill|Iron Head|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|43/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Excadrill|[miss]
+|-miss|p2a: Rotom|p1a: Excadrill
+|
+|upkeep
+|turn|23
+|
+|t:|1711946745
+|move|p1a: Excadrill|Iron Head|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|29/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Excadrill
+|-status|p1a: Excadrill|brn
+|
+|-damage|p1a: Excadrill|0 fnt|[from] brn
+|faint|p1a: Excadrill
+|upkeep
+|
+|t:|1711946749
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|24
+|
+|t:|1711946757
+|move|p1a: Mamoswine|Trailblaze|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|-boost|p1a: Mamoswine|spe|1
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1711946764
+|switch|p2a: Lokix|Lokix, F, tera:Bug|95/100
+|turn|25
+|
+|t:|1711946771
+|move|p1a: Mamoswine|Icicle Spear|p2a: Lokix
+|-damage|p2a: Lokix|74/100
+|-damage|p2a: Lokix|53/100
+|-damage|p2a: Lokix|33/100
+|-damage|p2a: Lokix|13/100
+|-hitcount|p2a: Lokix|4
+|move|p2a: Lokix|Low Kick|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|upkeep
+|-message|thankyoubrother forfeited.
+|
+|win|ppupquqwqequ
+|raw|thankyoubrother's rating: 1103 &rarr; <strong>1088</strong><br />(-15 for losing)
+|raw|ppupquqwqequ's rating: 1256 &rarr; <strong>1271</strong><br />(+15 for winning)
+|l|☆thankyoubrother
+|player|p1|
+|l|☆ppupquqwqequ
+|player|p2|

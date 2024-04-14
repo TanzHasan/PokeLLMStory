@@ -1,0 +1,275 @@
+|j|‽larrycabrga
+|j|☆Thatoneguy09
+|t:|1711947055
+|gametype|singles
+|player|p1|larrycabrga|1|1367
+|player|p2|Thatoneguy09|harlequin|1312
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711947055
+|start
+|switch|p1a: Crustle|Crustle, L82, M|249/249
+|switch|p2a: Landorus|Landorus, L78, M|267/267
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by larrycabrga)
+|
+|t:|1711947068
+|switch|p1a: Latios|Latios, L80, M|259/259
+|move|p2a: Landorus|Calm Mind|p2a: Landorus
+|-boost|p2a: Landorus|spa|1
+|-boost|p2a: Landorus|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711947095
+|detailschange|p1a: Latios|Latios-Mega, L80, M
+|-mega|p1a: Latios|Latios|Latiosite
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Landorus|Calm Mind|p2a: Landorus
+|-boost|p2a: Landorus|spa|1
+|-boost|p2a: Landorus|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711947102
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Landorus|Rock Polish|p2a: Landorus
+|-boost|p2a: Landorus|spe|2
+|
+|upkeep
+|turn|4
+|
+|t:|1711947117
+|move|p2a: Landorus|Sludge Wave|p1a: Latios
+|-damage|p1a: Latios|168/259
+|move|p1a: Latios|Psyshock|p2a: Landorus
+|-damage|p2a: Landorus|15/267
+|
+|upkeep
+|turn|5
+|
+|t:|1711947126
+|move|p2a: Landorus|Sludge Wave|p1a: Latios
+|-damage|p1a: Latios|76/259
+|move|p1a: Latios|Psyshock|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947151
+|switch|p2a: Musharna|Musharna, L90, F|355/355
+|turn|6
+|
+|t:|1711947155
+|move|p1a: Latios|Roost|p1a: Latios
+|-heal|p1a: Latios|206/259
+|-singleturn|p1a: Latios|move: Roost
+|move|p2a: Musharna|Thunder Wave|p1a: Latios
+|-status|p1a: Latios|par
+|
+|upkeep
+|turn|7
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947172
+|cant|p1a: Latios|par
+|move|p2a: Musharna|Psychic|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|181/259 par
+|
+|upkeep
+|turn|8
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947185
+|switch|p2a: Dustox|Dustox, L94, F|265/265
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|
+|upkeep
+|turn|9
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947197
+|move|p2a: Dustox|Bug Buzz|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|127/259 par
+|-unboost|p1a: Latios|spd|1
+|move|p1a: Latios|Psyshock|p2a: Dustox
+|-supereffective|p2a: Dustox
+|-damage|p2a: Dustox|0 fnt
+|faint|p2a: Dustox
+|
+|upkeep
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947212
+|switch|p2a: Marowak|Marowak, L88, M|249/249
+|turn|10
+|
+|t:|1711947216
+|move|p2a: Marowak|Knock Off|p1a: Latios
+|-supereffective|p1a: Latios
+|-crit|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1711947228
+|switch|p1a: Gorebyss|Gorebyss, L83, M|226/226
+|turn|11
+|
+|t:|1711947243
+|switch|p2a: Wishiwashi|Wishiwashi, L89, M|225/225
+|-formechange|p2a: Wishiwashi|Wishiwashi-School||[from] ability: Schooling
+|move|p1a: Gorebyss|Shell Smash|p1a: Gorebyss
+|-unboost|p1a: Gorebyss|def|1
+|-unboost|p1a: Gorebyss|spd|1
+|-boost|p1a: Gorebyss|atk|2
+|-boost|p1a: Gorebyss|spa|2
+|-boost|p1a: Gorebyss|spe|2
+|-enditem|p1a: Gorebyss|White Herb
+|-clearnegativeboost|p1a: Gorebyss|[silent]
+|
+|upkeep
+|turn|12
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947258
+|move|p1a: Gorebyss|Hidden Power|p2a: Wishiwashi
+|-supereffective|p2a: Wishiwashi
+|-damage|p2a: Wishiwashi|133/225
+|move|p2a: Wishiwashi|Hidden Power|p1a: Gorebyss
+|-supereffective|p1a: Gorebyss
+|-damage|p1a: Gorebyss|78/226
+|
+|upkeep
+|turn|13
+|
+|t:|1711947266
+|move|p1a: Gorebyss|Hydro Pump|p2a: Wishiwashi
+|-resisted|p2a: Wishiwashi
+|-damage|p2a: Wishiwashi|74/225
+|move|p2a: Wishiwashi|Hidden Power|p1a: Gorebyss
+|-supereffective|p1a: Gorebyss
+|-damage|p1a: Gorebyss|0 fnt
+|faint|p1a: Gorebyss
+|
+|upkeep
+|
+|t:|1711947276
+|switch|p1a: Sawk|Sawk, L87, M|272/272
+|-ability|p1a: Sawk|Mold Breaker
+|turn|14
+|
+|t:|1711947283
+|move|p1a: Sawk|Knock Off|p2a: Wishiwashi
+|-damage|p2a: Wishiwashi|0 fnt
+|-enditem|p2a: Wishiwashi|Assault Vest|[from] move: Knock Off|[of] p1a: Sawk
+|faint|p2a: Wishiwashi
+|
+|upkeep
+|
+|t:|1711947288
+|switch|p2a: Musharna|Musharna, L90, F|355/355
+|turn|15
+|
+|t:|1711947293
+|move|p1a: Sawk|Knock Off|p2a: Musharna
+|-supereffective|p2a: Musharna
+|-damage|p2a: Musharna|83/355
+|-enditem|p2a: Musharna|Leftovers|[from] move: Knock Off|[of] p1a: Sawk
+|move|p2a: Musharna|Psychic|p1a: Sawk
+|-supereffective|p1a: Sawk
+|-damage|p1a: Sawk|26/272
+|
+|upkeep
+|turn|16
+|
+|t:|1711947319
+|move|p1a: Sawk|Knock Off|p2a: Musharna
+|-supereffective|p2a: Musharna
+|-damage|p2a: Musharna|0 fnt
+|faint|p2a: Musharna
+|
+|upkeep
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947331
+|switch|p2a: Gigalith|Gigalith, L83, F|277/277
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gigalith
+|turn|17
+|
+|t:|1711947345
+|switch|p1a: Lopunny|Lopunny, L87, F|255/255
+|move|p2a: Gigalith|Earthquake|p1a: Lopunny
+|-damage|p1a: Lopunny|157/255
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lopunny|142/255|[from] Sandstorm
+|upkeep
+|turn|18
+|inactive|Thatoneguy09 has 120 seconds left.
+|
+|t:|1711947366
+|move|p1a: Lopunny|High Jump Kick|p2a: Gigalith
+|-supereffective|p2a: Gigalith
+|-damage|p2a: Gigalith|95/277
+|move|p2a: Gigalith|Stone Edge|p1a: Lopunny
+|-damage|p1a: Lopunny|0 fnt
+|faint|p1a: Lopunny
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gigalith|112/277|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947373
+|switch|p1a: Sawk|Sawk, L87, M|26/272
+|-ability|p1a: Sawk|Mold Breaker
+|turn|19
+|
+|t:|1711947383
+|move|p1a: Sawk|Close Combat|p2a: Gigalith
+|-supereffective|p2a: Gigalith
+|-damage|p2a: Gigalith|0 fnt
+|-unboost|p1a: Sawk|def|1
+|-unboost|p1a: Sawk|spd|1
+|faint|p2a: Gigalith
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sawk|9/272|[from] Sandstorm
+|upkeep
+|
+|t:|1711947390
+|switch|p2a: Marowak|Marowak, L88, M|249/249
+|turn|20
+|
+|t:|1711947399
+|move|p1a: Sawk|Close Combat|p2a: Marowak
+|-crit|p2a: Marowak
+|-damage|p2a: Marowak|0 fnt
+|-unboost|p1a: Sawk|def|1
+|-unboost|p1a: Sawk|spd|1
+|faint|p2a: Marowak
+|
+|win|larrycabrga
+|raw|larrycabrga's rating: 1367 &rarr; <strong>1384</strong><br />(+17 for winning)
+|raw|Thatoneguy09's rating: 1312 &rarr; <strong>1295</strong><br />(-17 for losing)

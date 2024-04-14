@@ -1,0 +1,132 @@
+p1: Switched to Metagross
+p2: Switched to Skarmory
+Turn 1:
+p2: Switched to Banette
+p1: Switched to Forretress
+Turn 2:
+p2: Banette used Will-O-Wisp on Forretress
+p1: Forretress used Spikes on Banette
+Turn 3:
+p2: Switched to Donphan
+p1: Forretress used Spikes on Donphan
+Turn 4:
+p2: Donphan used Rapid Spin on Forretress
+p1: Forretress used Toxic on Donphan
+Turn 5:
+p1: Switched to Articuno
+p2: Donphan used Earthquake on Articuno
+Turn 6:
+p1: Switched to Swampert
+p2: Switched to Tyranitar
+Turn 7:
+p2: Switched to Celebi
+p1: Swampert used Hydro Pump on Celebi
+Turn 8:
+p1: Switched to Articuno
+p2: Celebi used Swords Dance on Celebi
+Turn 9:
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Tyranitar
+p1: Articuno used Roar on Tyranitar
+Turn 10:
+p1: Switched to Forretress
+p2: Donphan used Rock Slide on Forretress
+Turn 11:
+p2: Donphan used Earthquake on Forretress
+p1: Forretress used Spikes on Donphan
+Turn 12:
+p2: Donphan used Rapid Spin on Forretress
+p1: Forretress used Spikes on Donphan
+p1: Forretress fainted
+p1: Switched to Zapdos
+Turn 13:
+p1: Zapdos used Hidden Power on Donphan
+p2: Donphan fainted
+p2: Switched to Tyranitar
+Turn 14:
+p1: Switched to Swampert
+p2: Tyranitar used Dragon Dance on Tyranitar
+Turn 15:
+p2: Tyranitar used Earthquake on Swampert
+p1: Swampert used Hydro Pump on Tyranitar
+Turn 16:
+p2: Tyranitar used Hyper Beam on Swampert
+p1: Swampert fainted
+p1: Switched to Zapdos
+Turn 17:
+p2: Tyranitar can't move
+p1: Zapdos used Thunderbolt on Tyranitar
+p2: Tyranitar fainted
+p2: Switched to Aerodactyl
+Turn 18:
+p1: Switched to Metagross
+p2: Aerodactyl used Earthquake on Metagross
+Turn 19:
+p1: Switched to Articuno
+p2: Aerodactyl used Earthquake on Articuno
+Turn 20:
+p2: Switched to Skarmory
+p1: Articuno used Ice Beam on Skarmory
+Turn 21:
+p1: Switched to Zapdos
+p2: Skarmory used Spikes on Zapdos
+Turn 22:
+p2: Switched to Celebi
+p1: Zapdos used Thunderbolt on Celebi
+Turn 23:
+p1: Zapdos used Drill Peck on Celebi
+p2: Celebi used Leech Seed on Zapdos
+Turn 24:
+p1: Switched to Metagross
+p2: Switched to Aerodactyl
+Turn 25:
+p2: Aerodactyl used Rock Slide on Metagross
+p1: Metagross fainted
+p1: Switched to Snorlax
+Turn 26:
+p2: Switched to Banette
+p1: Snorlax used Yawn on Banette
+Turn 27:
+p1: Switched to Articuno
+p2: Banette used Will-O-Wisp on Articuno
+Turn 28:
+p1: Articuno used Ice Beam on Banette
+p2: Banette used Knock Off on Articuno
+Turn 29:
+p2: Switched to Celebi
+p1: Articuno used Ice Beam on Celebi
+p2: Celebi fainted
+p2: Switched to Aerodactyl
+Turn 30:
+p2: Aerodactyl used Rock Slide on Articuno
+p1: Articuno fainted
+p1: Switched to Snorlax
+Turn 31:
+p2: Switched to Banette
+p1: Snorlax used Yawn on Banette
+Turn 32:
+p1: Switched to Zapdos
+p2: Banette used Will-O-Wisp on Zapdos
+Turn 33:
+p2: Switched to Skarmory
+p1: Zapdos used Thunderbolt on Skarmory
+p2: Skarmory fainted
+p2: Switched to Aerodactyl
+Turn 34:
+p2: Aerodactyl used Rock Slide on Zapdos
+p1: Zapdos fainted
+p1: Switched to Snorlax
+Turn 35:
+p2: Switched to Banette
+p1: Snorlax used Shadow Ball on Banette
+p2: Banette fainted
+p2: Switched to Aerodactyl
+Turn 36:
+p2: Aerodactyl used Rock Slide on Snorlax
+p1: Snorlax used Shadow Ball on Aerodactyl
+Turn 37:
+p2: Aerodactyl used Rock Slide on Snorlax
+p1: Snorlax used Shadow Ball on Aerodactyl
+Turn 38:
+p2: Aerodactyl used Rock Slide on Snorlax
+p1: Snorlax fainted

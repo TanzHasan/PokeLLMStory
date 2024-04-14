@@ -1,0 +1,133 @@
+p1: Switched to Breloom
+p2: Switched to Braviary
+Turn 1:
+p1: Breloom used Spore on Braviary
+p2: Braviary can't move
+Turn 2:
+p2: Switched to Porygon2
+p1: Breloom used Rock Tomb on Porygon2
+Turn 3:
+p1: Switched to Scrafty
+p2: Porygon2 used Discharge on Scrafty
+Turn 4:
+p2: Switched to Ursaluna
+p1: Scrafty used Knock Off on Ursaluna
+Turn 5:
+p2: Ursaluna used Drain Punch on Scrafty
+p1: Scrafty used Bulk Up on Scrafty
+Turn 6:
+p2: Ursaluna used Trailblaze on Scrafty
+p1: Scrafty used Drain Punch on Ursaluna
+Turn 7:
+p2: Ursaluna used Drain Punch on Scrafty
+p1: Scrafty used Drain Punch on Ursaluna
+p2: Ursaluna fainted
+p2: Switched to Ditto
+Turn 8:
+p1: Switched to Okidogi
+p2: Ditto used Drain Punch on Okidogi
+Turn 9:
+p2: Switched to Braviary
+p1: Okidogi used Throat Chop on Braviary
+Turn 10:
+p1: Switched to Cobalion
+p2: Braviary can't move
+Turn 11:
+p1: Cobalion used Stealth Rock on Braviary
+p2: Braviary can't move
+Turn 12:
+p1: Switched to Breloom
+p2: Braviary used Defog on Breloom
+Turn 13:
+p2: Switched to Ditto
+p1: Breloom used Spore on Ditto
+Turn 14:
+p1: Switched to Slither Wing
+p2: Ditto used Bullet Seed on Slither Wing
+Turn 15:
+p2: Switched to Braviary
+p1: Slither Wing used U-turn on Braviary
+p1: Switched to Breloom
+Turn 16:
+p2: Switched to Porygon2
+p1: Breloom used Rock Tomb on Porygon2
+Turn 17:
+p2: Switched to Ditto
+p1: Breloom used Spore on Ditto
+Turn 18:
+p1: Switched to Cobalion
+p2: Ditto used Bullet Seed on Cobalion
+Turn 19:
+p1: Cobalion used Volt Switch on Ditto
+p1: Switched to Slither Wing
+p2: Ditto used Bullet Seed on Slither Wing
+Turn 20:
+p2: Ditto used Bullet Seed on Slither Wing
+p1: Slither Wing fainted
+p1: Switched to Okidogi
+Turn 21:
+p2: Switched to Meloetta
+p1: Okidogi used Ice Punch on Meloetta
+Turn 22:
+p1: Switched to Scrafty
+p2: Meloetta used Psychic on Scrafty
+Turn 23:
+p2: Switched to Braviary
+p1: Scrafty used Knock Off on Braviary
+Turn 24:
+p1: Switched to Breloom
+p2: Braviary used Roost on Braviary
+Turn 25:
+p1: Breloom used Spore on Braviary
+p2: Braviary can't move
+Turn 26:
+p1: Switched to Cobalion
+p2: Switched to Ditto
+Turn 27:
+p1: Cobalion used Stealth Rock on Ditto
+p2: Ditto used Volt Switch on Cobalion
+p2: Switched to Blissey
+Turn 28:
+p1: Switched to Breloom
+p2: Blissey used Stealth Rock on Breloom
+Turn 29:
+p1: Breloom used Bullet Seed on Blissey
+p2: Blissey used Seismic Toss on Breloom
+Turn 30:
+p2: Switched to Ditto
+p1: Breloom used Bullet Seed on Ditto
+Turn 31:
+p1: Breloom used Mach Punch on Ditto
+p2: Ditto fainted
+p2: Switched to Meloetta
+Turn 32:
+p1: Breloom used Mach Punch on Meloetta
+p2: Meloetta used Alluring Voice on Breloom
+p1: Breloom fainted
+p1: Switched to Cobalion
+Turn 33:
+p2: Switched to Blissey
+p1: Cobalion used Volt Switch on Blissey
+p1: Switched to Okidogi
+Turn 34:
+p2: Switched to Porygon2
+p1: Okidogi used Brick Break on Porygon2
+Turn 35:
+p1: Okidogi used Brick Break on Porygon2
+p2: Porygon2 fainted
+p2: Switched to Meloetta
+Turn 36:
+p2: Meloetta used Alluring Voice on Okidogi
+p1: Okidogi used Brick Break on Meloetta
+p2: Meloetta fainted
+p2: Switched to Braviary
+Turn 37:
+p1: Okidogi used Ice Punch on Braviary
+p2: Braviary can't move
+Turn 38:
+p1: Okidogi used Ice Punch on Braviary
+p2: Braviary fainted
+p2: Switched to Blissey
+Turn 39:
+p1: Okidogi used Brick Break on Blissey
+p2: Blissey fainted

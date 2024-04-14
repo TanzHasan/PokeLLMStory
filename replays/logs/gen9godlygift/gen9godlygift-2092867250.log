@@ -1,0 +1,165 @@
+|j|☆0 damns are given
+|j|☆alexg78
+|t:|1711881071
+|gametype|singles
+|player|p1|0 damns are given|clerkf|1000
+|player|p2|alexg78|nate|1033
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Godly Gift
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Eternatus|
+|poke|p1|Volcarona, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Dondozo, F|
+|poke|p1|Heracross, F|
+|poke|p2|Iron Valiant|
+|poke|p2|Walking Wake|
+|poke|p2|Primarina, F|
+|poke|p2|Zacian-*|
+|poke|p2|Gholdengo|
+|poke|p2|Hatterene, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 0 damns are given)
+|
+|t:|1711881101
+|start
+|switch|p1a: Eternatus|Eternatus|100/100
+|switch|p2a: Primarina|Primarina, F|100/100
+|-ability|p1a: Eternatus|Pressure
+|turn|1
+|
+|t:|1711881110
+|move|p1a: Eternatus|Sludge Bomb|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|-damage|p1a: Eternatus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711881115
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|turn|2
+|
+|t:|1711881120
+|move|p1a: Eternatus|Flamethrower|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|12/100
+|-damage|p1a: Eternatus|81/100|[from] item: Life Orb
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1711881134
+|move|p1a: Eternatus|Flamethrower|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1a: Eternatus|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711881143
+|switch|p2a: Zacian|Zacian-Crowned|100/100
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|4
+|
+|t:|1711881159
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: Zacian|Sacred Sword|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|79/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711881168
+|-terastallize|p2a: Zacian|Fairy
+|move|p2a: Zacian|Behemoth Blade|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|41/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1711881189
+|move|p1a: Volcarona|Morning Sun|p1a: Volcarona
+|-heal|p1a: Volcarona|91/100
+|move|p2a: Zacian|Fire Fang|p1a: Volcarona
+|-damage|p1a: Volcarona|59/100
+|-status|p2a: Zacian|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|
+|-damage|p2a: Zacian|94/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711881207
+|switch|p2a: Walking Wake|Walking Wake|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1711881218
+|-terastallize|p1a: Volcarona|Fairy
+|move|p1a: Volcarona|Tera Blast|p2a: Walking Wake|[anim] Tera Blast Fairy
+|-supereffective|p2a: Walking Wake
+|-damage|p2a: Walking Wake|0 fnt
+|faint|p2a: Walking Wake
+|-end|p2a: Walking Wake|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|alexg78 has 120 seconds left.
+|
+|t:|1711881229
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|9
+|inactive|alexg78 has 120 seconds left.
+|
+|t:|1711881241
+|move|p1a: Volcarona|Fiery Dance|p2a: Hatterene
+|-damage|p2a: Hatterene|28/100
+|move|p2a: Hatterene|Psychic|p1a: Volcarona
+|-damage|p1a: Volcarona|34/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711881249
+|move|p1a: Volcarona|Fiery Dance|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Hatterene
+|
+|upkeep
+|-message|alexg78 forfeited.
+|
+|win|0 damns are given
+|raw|0 damns are given's rating: 1000 &rarr; <strong>1044</strong><br />(+44 for winning)
+|raw|alexg78's rating: 1033 &rarr; <strong>1017</strong><br />(-16 for losing)
+|l|☆alexg78
+|player|p2|
+|l|☆0 damns are given
+|player|p1|
+|j|☆0 damns are given
+|player|p1|0 damns are given|clerkf

@@ -1,0 +1,163 @@
+p1: Switched to Clefable
+p2: Switched to Dragapult
+Turn 1:
+p2: Dragapult used U-turn on Clefable
+p2: Switched to Tapu Fini
+p1: Clefable used Knock Off on Tapu Fini
+Turn 2:
+p1: Switched to Slowking-Galar
+p2: Tapu Fini used Trick on Slowking-Galar
+Turn 3:
+p2: Switched to Landorus-Therian
+p1: Slowking-Galar used Sludge Bomb on Landorus-Therian
+Turn 4:
+p1: Switched to Rotom-Wash
+p2: Landorus-Therian used Stealth Rock on Rotom-Wash
+Turn 5:
+p2: Switched to Dragapult
+p1: Rotom-Wash used Hydro Pump on Dragapult
+Turn 6:
+p2: Dragapult used Shadow Ball on Rotom-Wash
+p1: Rotom-Wash used Volt Switch on Dragapult
+p1: Switched to Clefable
+Turn 7:
+p2: Switched to Melmetal
+p1: Clefable used Stealth Rock on Melmetal
+Turn 8:
+p1: Switched to Tangrowth
+p2: Switched to Tapu Lele
+Turn 9:
+p1: Switched to Slowking-Galar
+p2: Tapu Lele used Psyshock on Slowking-Galar
+Turn 10:
+p2: Switched to Landorus-Therian
+p1: Switched to Tangrowth
+Turn 11:
+p2: Landorus-Therian used Knock Off on Tangrowth
+p1: Tangrowth used Sleep Powder on Landorus-Therian
+Turn 12:
+p2: Landorus-Therian used U-turn on Tangrowth
+p2: Switched to Tapu Fini
+p1: Tangrowth used Focus Blast on Tapu Fini
+Turn 13:
+p2: Switched to Tapu Lele
+p1: Switched to Slowking-Galar
+Turn 14:
+p1: Switched to Excadrill
+p2: Tapu Lele used Moonblast on Excadrill
+Turn 15:
+p1: Switched to Slowking-Galar
+p2: Tapu Lele used Moonblast on Slowking-Galar
+Turn 16:
+p2: Switched to Landorus-Therian
+p1: Switched to Rotom-Wash
+Turn 17:
+p2: Switched to Tapu Fini
+p1: Rotom-Wash used Hydro Pump on Tapu Fini
+Turn 18:
+p2: Switched to Landorus-Therian
+p1: Rotom-Wash used Volt Switch on Landorus-Therian
+Turn 19:
+p2: Switched to Tapu Fini
+p1: Rotom-Wash used Hydro Pump on Tapu Fini
+p2: Tapu Fini fainted
+p2: Switched to Tapu Lele
+Turn 20:
+p1: Switched to Slowking-Galar
+p2: Tapu Lele used Psyshock on Slowking-Galar
+p1: Slowking-Galar fainted
+p1: Switched to Tyranitar
+Turn 21:
+p2: Switched to Melmetal
+p1: Tyranitar used Crunch on Melmetal
+Turn 22:
+p1: Switched to Rotom-Wash
+p2: Melmetal used Double Iron Bash on Rotom-Wash
+Turn 23:
+p2: Melmetal used Protect on Melmetal
+p1: Rotom-Wash used Pain Split on Melmetal
+Turn 24:
+p2: Switched to Dragapult
+p1: Rotom-Wash used Hydro Pump on Dragapult
+p2: Dragapult fainted
+p2: Switched to Tapu Lele
+Turn 25:
+p2: Tapu Lele used Moonblast on Rotom-Wash
+p1: Rotom-Wash fainted
+p1: Switched to Clefable
+Turn 26:
+p2: Tapu Lele used Moonblast on Clefable
+p1: Clefable used Knock Off on Tapu Lele
+Turn 27:
+p2: Tapu Lele used Moonblast on Clefable
+p1: Clefable fainted
+p1: Switched to Excadrill
+Turn 28:
+p2: Switched to Blacephalon
+p1: Excadrill used Rapid Spin on Blacephalon
+Turn 29:
+p2: Switched to Landorus-Therian
+p1: Excadrill used Rapid Spin on Landorus-Therian
+Turn 30:
+p1: Excadrill used Swords Dance on Excadrill
+p2: Landorus-Therian used U-turn on Excadrill
+p2: Switched to Blacephalon
+Turn 31:
+p2: Switched to Landorus-Therian
+p1: Excadrill used Iron Head on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Melmetal
+Turn 32:
+p1: Switched to Tangrowth
+p2: Melmetal used Double Iron Bash on Tangrowth
+Turn 33:
+p2: Melmetal used Protect on Melmetal
+p1: Tangrowth used Sleep Powder on Melmetal
+Turn 34:
+p2: Switched to Blacephalon
+p1: Tangrowth used Sleep Powder on Blacephalon
+Turn 35:
+p1: Switched to Tyranitar
+p2: Blacephalon can't move
+Turn 36:
+p2: Blacephalon can't move
+p1: Tyranitar used Crunch on Blacephalon
+p2: Blacephalon fainted
+p2: Switched to Melmetal
+Turn 37:
+p1: Switched to Tangrowth
+p2: Melmetal used Double Iron Bash on Tangrowth
+Turn 38:
+p2: Melmetal used Protect on Melmetal
+p1: Tangrowth used Focus Blast on Melmetal
+Turn 39:
+p1: Tangrowth used Focus Blast on Melmetal
+p2: Melmetal used Double Iron Bash on Tangrowth
+p1: Tangrowth fainted
+p1: Switched to Tyranitar
+Turn 40:
+p2: Melmetal used Protect on Melmetal
+p1: Tyranitar used Fire Punch on Melmetal
+Turn 41:
+p1: Tyranitar used Fire Punch on Melmetal
+p2: Melmetal used Thunder Punch on Tyranitar
+Turn 42:
+p1: Switched to Excadrill
+p2: Melmetal failed to use Protect
+Turn 43:
+p2: Melmetal used Protect on Melmetal
+p1: Excadrill used Earthquake on Melmetal
+Turn 44:
+p1: Excadrill used Earthquake on Melmetal
+p2: Melmetal fainted
+p2: Switched to Tapu Lele
+Turn 45:
+p1: Switched to Tyranitar
+p2: Tapu Lele used Thunderbolt on Tyranitar
+Turn 46:
+p2: Tapu Lele used Moonblast on Tyranitar
+p1: Tyranitar fainted
+p1: Switched to Excadrill
+Turn 47:
+p1: Excadrill used Rapid Spin on Tapu Lele
+p2: Tapu Lele fainted

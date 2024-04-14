@@ -1,0 +1,74 @@
+p1: Switched to Toxapex
+p2: Switched to Kleavor
+Turn 1:
+p2: Kleavor used Stone Axe on Toxapex
+p1: Toxapex used Mortal Spin on Kleavor
+Turn 2:
+p2: Kleavor used Stone Axe on Toxapex
+p1: Toxapex used Scald on Kleavor
+Turn 3:
+p1: Switched to Gliscor
+p2: Kleavor used Stone Axe on Gliscor
+Turn 4:
+p2: Kleavor used Stone Axe on Gliscor
+p1: Gliscor used Shore Up on Gliscor
+p2: Kleavor fainted
+p2: Switched to Thundurus-Therian
+Turn 5:
+p1: Switched to Tyranitar
+p2: Thundurus-Therian used Nasty Plot on Thundurus-Therian
+Turn 6:
+p1: Tyranitar used Accelerock on Thundurus-Therian
+p2: Thundurus-Therian fainted
+p2: Switched to Bisharp
+Turn 7:
+p1: Switched to Gliscor
+p2: Bisharp used Swords Dance on Bisharp
+Turn 8:
+p1: Gliscor used Precipice Blades on Bisharp
+p2: Bisharp used Wicked Blow on Gliscor
+p1: Gliscor fainted
+p1: Switched to Mandibuzz
+Turn 9:
+p2: Bisharp used Sunsteel Strike on Mandibuzz
+p1: Mandibuzz used Foul Play on Bisharp
+Turn 10:
+p2: Bisharp used Wicked Blow on Mandibuzz
+p1: Mandibuzz fainted
+p1: Switched to Skeledirge
+Turn 11:
+p2: Bisharp used Wicked Blow on Skeledirge
+p1: Skeledirge used Torch Song on Bisharp
+Turn 12:
+p2: Bisharp used Wicked Blow on Skeledirge
+p1: Skeledirge fainted
+p1: Switched to Tyranitar
+Turn 13:
+p2: Bisharp used Sucker Punch on Tyranitar
+p1: Tyranitar used Accelerock on Bisharp
+p2: Bisharp fainted
+p2: Switched to Iron Valiant
+Turn 14:
+p1: Switched to Gholdengo
+p2: Iron Valiant used Swords Dance on Iron Valiant
+Turn 15:
+p2: Iron Valiant used Magical Torque on Gholdengo
+p1: Gholdengo used Tachyon Cutter on Iron Valiant
+p2: Iron Valiant fainted
+p2: Switched to Meloetta
+Turn 16:
+p2: Meloetta used Calm Mind on Meloetta
+p1: Gholdengo used Nasty Plot on Gholdengo
+Turn 17:
+p2: Meloetta used Calm Mind on Meloetta
+p1: Gholdengo used Nasty Plot on Gholdengo
+Turn 18:
+p2: Meloetta used Esper Wing on Gholdengo
+p1: Gholdengo used Tachyon Cutter on Meloetta
+Turn 19:
+p2: Meloetta used Esper Wing on Gholdengo
+p1: Gholdengo fainted
+p1: Switched to Tyranitar
+Turn 20:
+p2: Meloetta used Boomburst on Tyranitar
+p1: Tyranitar fainted

@@ -1,0 +1,99 @@
+p1: Switched to Meloetta
+p2: Switched to Arceus-Water
+Turn 1:
+p2: Switched to Regigigas
+p1: Meloetta used Relic Song on Regigigas
+Turn 2:
+p2: Switched to Cresselia
+p1: Meloetta used Return on Cresselia
+Turn 3:
+p1: Switched to Furret
+p2: Cresselia used Substitute on Cresselia
+Turn 4:
+p1: Furret used Shadow Claw on Cresselia
+p2: Cresselia used Moonlight on Cresselia
+Turn 5:
+p1: Switched to Meloetta
+p2: Switched to Regigigas
+Turn 6:
+p1: Switched to Manectric
+p2: Regigigas used Thunder Wave on Manectric
+Turn 7:
+p1: Manectric used Thunderbolt on Regigigas
+p2: Regigigas used Substitute on Regigigas
+Turn 8:
+p1: Manectric used Thunderbolt on Regigigas
+p2: Regigigas used Earthquake on Manectric
+Turn 9:
+p1: Manectric used Thunderbolt on Regigigas
+p2: Regigigas fainted
+p2: Switched to Cresselia
+Turn 10:
+p1: Manectric used Thunderbolt on Cresselia
+p2: Cresselia used Calm Mind on Cresselia
+Turn 11:
+p1: Switched to Furret
+p2: Cresselia used Moonlight on Cresselia
+Turn 12:
+p2: Switched to Darkrai
+p1: Furret used Double-Edge on Darkrai
+p2: Darkrai fainted
+p2: Switched to Arceus-Water
+Turn 13:
+p1: Furret used Double-Edge on Arceus-Water
+p2: Arceus-Water used Judgment on Furret
+Turn 14:
+p1: Switched to Ludicolo
+p2: Switched to Cresselia
+Turn 15:
+p2: Cresselia used Substitute on Cresselia
+p1: Ludicolo used Rain Dance on Ludicolo
+Turn 16:
+p1: Ludicolo used Hydro Pump on Cresselia
+p2: Cresselia used Calm Mind on Cresselia
+Turn 17:
+p1: Switched to Carracosta
+p2: Cresselia used Psyshock on Carracosta
+Turn 18:
+p2: Cresselia used Substitute on Cresselia
+p1: Carracosta used Shell Smash on Carracosta
+Turn 19:
+p1: Carracosta used Waterfall on Cresselia
+p2: Cresselia used Psyshock on Carracosta
+Turn 20:
+p1: Carracosta used Stone Edge on Cresselia
+p2: Cresselia used Psyshock on Carracosta
+Turn 21:
+p1: Carracosta used Waterfall on Cresselia
+p2: Cresselia used Psyshock on Carracosta
+p1: Carracosta fainted
+p1: Switched to Furret
+Turn 22:
+p1: Furret used Trick on Cresselia
+p2: Cresselia used Moonlight on Cresselia
+Turn 23:
+p2: Switched to Arceus-Water
+p1: Furret used Double-Edge on Arceus-Water
+p2: p2a: Zoroark fainted
+p2: Switched to Golduck
+Turn 24:
+p1: Furret used Double-Edge on Golduck
+p2: Golduck used Scald on Furret
+p1: Furret fainted
+p1: Switched to Ludicolo
+Turn 25:
+p2: Switched to Cresselia
+p1: Ludicolo used Rain Dance on Ludicolo
+Turn 26:
+p1: Ludicolo used Hydro Pump on Cresselia
+p2: Cresselia used Calm Mind on Cresselia
+Turn 27:
+p1: Ludicolo used Giga Drain on Cresselia
+p2: Cresselia used Calm Mind on Cresselia
+Turn 28:
+p1: Ludicolo used Hydro Pump on Cresselia
+p2: Cresselia fainted
+p2: Switched to Arceus-Water
+Turn 29:
+p1: Ludicolo used Giga Drain on Arceus-Water
+p2: Arceus-Water fainted

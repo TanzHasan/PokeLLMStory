@@ -1,0 +1,308 @@
+|j|☆Lonely carp
+|j|☆METALIC MIGHT
+|t:|1711945368
+|gametype|singles
+|player|p1|Lonely carp|lady|1246
+|player|p2|METALIC MIGHT|drayden|1063
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Serperior, M|item
+|poke|p1|Swanna, F|item
+|poke|p1|Lycanroc-Dusk, F|item
+|poke|p1|Scizor, F|item
+|poke|p1|Rapidash, F|item
+|poke|p1|Sandslash, M|item
+|poke|p2|Aggron, M|item
+|poke|p2|Primeape, M|item
+|poke|p2|Goodra, M|item
+|poke|p2|Dusknoir, M|item
+|poke|p2|Alakazam, M|item
+|poke|p2|Empoleon, M|item
+|teampreview
+|c|☆METALIC MIGHT|hello
+|
+|t:|1711945395
+|start
+|switch|p1a: 固拉多|Sandslash, M|100/100
+|switch|p2a: Darkest Dungeon|Alakazam, M|100/100
+|turn|1
+|
+|t:|1711945402
+|move|p2a: Darkest Dungeon|Reflect|p2a: Darkest Dungeon
+|-sidestart|p2: METALIC MIGHT|Reflect
+|move|p1a: 固拉多|Sandstorm|p1a: 固拉多
+|-weather|Sandstorm
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkest Dungeon|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1711945409
+|move|p2a: Darkest Dungeon|Shadow Ball|p1a: 固拉多
+|-damage|p1a: 固拉多|40/100
+|-damage|p2a: Darkest Dungeon|85/100|[from] item: Life Orb
+|move|p1a: 固拉多|Stealth Rock|p2a: Darkest Dungeon
+|-sidestart|p2: METALIC MIGHT|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkest Dungeon|79/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1711945421
+|switch|p1a: 盖诺赛克特|Scizor, F|100/100
+|move|p2a: Darkest Dungeon|Shadow Ball|p1a: 盖诺赛克特
+|-damage|p1a: 盖诺赛克特|56/100
+|-unboost|p1a: 盖诺赛克特|spd|1
+|-damage|p2a: Darkest Dungeon|69/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkest Dungeon|63/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1711945434
+|detailschange|p1a: 盖诺赛克特|Scizor-Mega, F
+|-mega|p1a: 盖诺赛克特|Scizor|Scizorite
+|move|p1a: 盖诺赛克特|Bullet Punch|p2a: Darkest Dungeon
+|-damage|p2a: Darkest Dungeon|17/100
+|move|p2a: Darkest Dungeon|Hidden Power|p1a: 盖诺赛克特
+|-supereffective|p1a: 盖诺赛克特
+|-damage|p1a: 盖诺赛克特|0 fnt
+|faint|p1a: 盖诺赛克特
+|-damage|p2a: Darkest Dungeon|7/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Darkest Dungeon|1/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711945446
+|switch|p1a: 百战勇者|Lycanroc-Dusk, F|100/100
+|turn|5
+|
+|t:|1711945449
+|move|p1a: 百战勇者|Sucker Punch|p2a: Darkest Dungeon
+|-supereffective|p2a: Darkest Dungeon
+|-damage|p2a: Darkest Dungeon|0 fnt
+|faint|p2a: Darkest Dungeon
+|
+|-weather|none
+|-sideend|p2: METALIC MIGHT|Reflect
+|upkeep
+|
+|t:|1711945454
+|switch|p2a: BRUTAL LEGEND|Aggron, M|100/100
+|-damage|p2a: BRUTAL LEGEND|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1711945459
+|switch|p1a: 固拉多|Sandslash, M|40/100
+|move|p2a: BRUTAL LEGEND|Block|p1a: 固拉多
+|-activate|p1a: 固拉多|trapped
+|
+|upkeep
+|turn|7
+|
+|t:|1711945470
+|detailschange|p2a: BRUTAL LEGEND|Aggron-Mega, M
+|-mega|p2a: BRUTAL LEGEND|Aggron|Aggronite
+|move|p1a: 固拉多|Earthquake|p2a: BRUTAL LEGEND
+|-supereffective|p2a: BRUTAL LEGEND
+|-damage|p2a: BRUTAL LEGEND|61/100
+|move|p2a: BRUTAL LEGEND|Hone Claws|p2a: BRUTAL LEGEND
+|-boost|p2a: BRUTAL LEGEND|atk|1
+|-boost|p2a: BRUTAL LEGEND|accuracy|1
+|
+|upkeep
+|turn|8
+|
+|t:|1711945478
+|move|p1a: 固拉多|Earthquake|p2a: BRUTAL LEGEND
+|-supereffective|p2a: BRUTAL LEGEND
+|-damage|p2a: BRUTAL LEGEND|30/100
+|move|p2a: BRUTAL LEGEND|Avalanche|p1a: 固拉多
+|-supereffective|p1a: 固拉多
+|-damage|p1a: 固拉多|0 fnt
+|faint|p1a: 固拉多
+|
+|upkeep
+|
+|t:|1711945487
+|switch|p1a: 洛奇亚|Swanna, F|100/100
+|turn|9
+|
+|t:|1711945491
+|move|p1a: 洛奇亚|Surf|p2a: BRUTAL LEGEND
+|-damage|p2a: BRUTAL LEGEND|0 fnt
+|faint|p2a: BRUTAL LEGEND
+|
+|upkeep
+|
+|t:|1711945496
+|switch|p2a: Spyro|Goodra, M|100/100
+|-damage|p2a: Spyro|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1711945501
+|move|p1a: 洛奇亚|Ice Beam|p2a: Spyro
+|-supereffective|p2a: Spyro
+|-damage|p2a: Spyro|69/100
+|move|p2a: Spyro|Thunder|p1a: 洛奇亚
+|-supereffective|p1a: 洛奇亚
+|-enditem|p1a: 洛奇亚|Focus Sash
+|-damage|p1a: 洛奇亚|1/100
+|-status|p1a: 洛奇亚|par
+|
+|upkeep
+|turn|11
+|
+|t:|1711945511
+|move|p2a: Spyro|Dragon Pulse|p1a: 洛奇亚
+|-damage|p1a: 洛奇亚|0 fnt
+|faint|p1a: 洛奇亚
+|
+|upkeep
+|
+|t:|1711945518
+|switch|p1a: 百战勇者|Lycanroc-Dusk, F|100/100
+|turn|12
+|
+|t:|1711945525
+|move|p1a: 百战勇者|Outrage|p2a: Spyro
+|-supereffective|p2a: Spyro
+|-damage|p2a: Spyro|0 fnt
+|-ability|p2a: Spyro|Gooey
+|-unboost|p1a: 百战勇者|spe|1
+|faint|p2a: Spyro
+|
+|upkeep
+|
+|t:|1711945534
+|switch|p2a: Elden Ring|Empoleon, M, shiny|100/100
+|-damage|p2a: Elden Ring|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1711945538
+|move|p1a: 百战勇者|Outrage|p2a: Elden Ring|[from]lockedmove
+|-resisted|p2a: Elden Ring
+|-damage|p2a: Elden Ring|55/100
+|move|p2a: Elden Ring|Swords Dance|p2a: Elden Ring
+|-boost|p2a: Elden Ring|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1711945546
+|move|p2a: Elden Ring|Aqua Jet|p1a: 百战勇者
+|-supereffective|p1a: 百战勇者
+|-damage|p1a: 百战勇者|0 fnt
+|faint|p1a: 百战勇者
+|
+|upkeep
+|
+|t:|1711945557
+|switch|p1a: 蕾冠王|Rapidash, F|100/100
+|turn|15
+|
+|t:|1711945562
+|move|p2a: Elden Ring|Aqua Jet|p1a: 蕾冠王
+|-supereffective|p1a: 蕾冠王
+|-damage|p1a: 蕾冠王|0 fnt
+|faint|p1a: 蕾冠王
+|
+|upkeep
+|
+|t:|1711945564
+|switch|p1a: 烈空坐|Serperior, M|100/100
+|turn|16
+|
+|t:|1711945568
+|move|p1a: 烈空坐|Glare|p2a: Elden Ring
+|-status|p2a: Elden Ring|par
+|move|p2a: Elden Ring|Steel Wing|p1a: 烈空坐
+|-crit|p1a: 烈空坐
+|-damage|p1a: 烈空坐|6/100
+|
+|-heal|p1a: 烈空坐|12/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711945575
+|cant|p2a: Elden Ring|par
+|move|p1a: 烈空坐|Leaf Storm|p2a: Elden Ring
+|-damage|p2a: Elden Ring|24/100 par
+|-boost|p1a: 烈空坐|spa|2
+|-enditem|p2a: Elden Ring|Aguav Berry|[eat]
+|-heal|p2a: Elden Ring|74/100 par|[from] item: Aguav Berry
+|
+|-heal|p1a: 烈空坐|19/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711945584
+|move|p2a: Elden Ring|Aqua Jet|p1a: 烈空坐
+|-resisted|p1a: 烈空坐
+|-damage|p1a: 烈空坐|2/100
+|move|p1a: 烈空坐|Leaf Storm|p2a: Elden Ring
+|-damage|p2a: Elden Ring|5/100 par
+|-boost|p1a: 烈空坐|spa|2
+|
+|-heal|p1a: 烈空坐|8/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711945595
+|cant|p2a: Elden Ring|par
+|move|p1a: 烈空坐|Leaf Storm|p2a: Elden Ring
+|-damage|p2a: Elden Ring|0 fnt
+|-boost|p1a: 烈空坐|spa|2
+|faint|p2a: Elden Ring
+|
+|-heal|p1a: 烈空坐|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945603
+|switch|p2a: Dead by Daylight|Dusknoir, M, shiny|100/100
+|-damage|p2a: Dead by Daylight|88/100|[from] Stealth Rock
+|-ability|p2a: Dead by Daylight|Pressure
+|turn|20
+|
+|t:|1711945609
+|move|p2a: Dead by Daylight|Shadow Sneak|p1a: 烈空坐
+|-damage|p1a: 烈空坐|1/100
+|move|p1a: 烈空坐|Leaf Storm|p2a: Dead by Daylight
+|-damage|p2a: Dead by Daylight|0 fnt
+|faint|p2a: Dead by Daylight
+|
+|-heal|p1a: 烈空坐|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945617
+|switch|p2a: Tekken|Primeape, M, shiny|100/100
+|-damage|p2a: Tekken|95/100|[from] Stealth Rock
+|turn|21
+|c|☆METALIC MIGHT|LOL
+|
+|t:|1711945622
+|move|p1a: 烈空坐|Leaf Storm|p2a: Tekken
+|-damage|p2a: Tekken|0 fnt
+|faint|p2a: Tekken
+|
+|win|Lonely carp
+|raw|Lonely carp's rating: 1246 &rarr; <strong>1259</strong><br />(+13 for winning)
+|raw|METALIC MIGHT's rating: 1063 &rarr; <strong>1053</strong><br />(-10 for losing)
+|l|☆METALIC MIGHT
+|player|p2|

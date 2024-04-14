@@ -1,0 +1,177 @@
+|j|☆Skullmonkey
+|j|☆rebk25
+|t:|1711947220
+|gametype|singles
+|player|p1|Skullmonkey|li|1162
+|player|p2|rebk25|102|1060
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711947220
+|start
+|switch|p1a: Gastrodon|Gastrodon, L83, F|320/320
+|switch|p2a: Beautifly|Beautifly, L97, F|273/273
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Skullmonkey)
+|
+|t:|1711947238
+|move|p2a: Beautifly|Quiver Dance|p2a: Beautifly
+|-boost|p2a: Beautifly|spa|1
+|-boost|p2a: Beautifly|spd|1
+|-boost|p2a: Beautifly|spe|1
+|move|p1a: Gastrodon|Clear Smog|p2a: Beautifly
+|-damage|p2a: Beautifly|244/273
+|-clearboost|p2a: Beautifly
+|
+|-heal|p2a: Beautifly|261/273|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711947250
+|move|p2a: Beautifly|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|239/320
+|move|p1a: Gastrodon|Scald|p2a: Beautifly
+|-damage|p2a: Beautifly|153/273
+|-status|p2a: Beautifly|brn
+|
+|-heal|p2a: Beautifly|170/273 brn|[from] item: Leftovers
+|-heal|p1a: Gastrodon|259/320|[from] item: Leftovers
+|-damage|p2a: Beautifly|136/273 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711947269
+|move|p2a: Beautifly|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|172/320
+|move|p1a: Gastrodon|Clear Smog|p2a: Beautifly
+|-damage|p2a: Beautifly|90/273 brn
+|-clearboost|p2a: Beautifly
+|
+|-heal|p2a: Beautifly|107/273 brn|[from] item: Leftovers
+|-heal|p1a: Gastrodon|192/320|[from] item: Leftovers
+|-damage|p2a: Beautifly|73/273 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711947282
+|move|p2a: Beautifly|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|113/320
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|273/320
+|
+|-heal|p2a: Beautifly|90/273 brn|[from] item: Leftovers
+|-heal|p1a: Gastrodon|293/320|[from] item: Leftovers
+|-damage|p2a: Beautifly|56/273 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1711947296
+|move|p2a: Beautifly|Psychic|p1a: Gastrodon
+|-damage|p1a: Gastrodon|211/320
+|move|p1a: Gastrodon|Scald|p2a: Beautifly
+|-damage|p2a: Beautifly|0 fnt
+|faint|p2a: Beautifly
+|
+|-heal|p1a: Gastrodon|231/320|[from] item: Leftovers
+|upkeep
+|inactive|rebk25 has 120 seconds left.
+|
+|t:|1711947324
+|switch|p2a: Mandibuzz|Mandibuzz, L85, F|326/326
+|turn|6
+|inactive|rebk25 has 120 seconds left.
+|
+|t:|1711947340
+|switch|p1a: Klinklang|Klinklang, L85|223/223
+|move|p2a: Mandibuzz|Foul Play|p1a: Klinklang
+|-resisted|p1a: Klinklang
+|-damage|p1a: Klinklang|179/223
+|
+|-heal|p1a: Klinklang|192/223|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711947365
+|move|p1a: Klinklang|Substitute|p1a: Klinklang
+|-start|p1a: Klinklang|Substitute
+|-damage|p1a: Klinklang|137/223
+|move|p2a: Mandibuzz|Brave Bird|p1a: Klinklang
+|-resisted|p1a: Klinklang
+|-activate|p1a: Klinklang|Substitute|[damage]
+|-damage|p2a: Mandibuzz|312/326|[from] Recoil|[of] p1a: Klinklang
+|
+|-heal|p1a: Klinklang|150/223|[from] item: Leftovers
+|-heal|p2a: Mandibuzz|326/326|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711947376
+|move|p1a: Klinklang|Shift Gear|p1a: Klinklang
+|-boost|p1a: Klinklang|spe|2
+|-boost|p1a: Klinklang|atk|1
+|move|p2a: Mandibuzz|Foul Play|p1a: Klinklang
+|-resisted|p1a: Klinklang
+|-end|p1a: Klinklang|Substitute
+|
+|-heal|p1a: Klinklang|163/223|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711947391
+|switch|p2a: Delcatty|Delcatty, L95, F|287/287
+|move|p1a: Klinklang|Wild Charge|p2a: Delcatty
+|-damage|p2a: Delcatty|173/287
+|-damage|p1a: Klinklang|134/223|[from] Recoil
+|
+|-heal|p1a: Klinklang|147/223|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|rebk25 has 90 seconds left.
+|
+|t:|1711947416
+|move|p2a: Delcatty|Fake Out|p1a: Klinklang
+|-resisted|p1a: Klinklang
+|-damage|p1a: Klinklang|129/223
+|cant|p1a: Klinklang|flinch
+|
+|-heal|p1a: Klinklang|142/223|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|rebk25 has 90 seconds left.
+|
+|t:|1711947429
+|move|p1a: Klinklang|Substitute|p1a: Klinklang
+|-start|p1a: Klinklang|Substitute
+|-damage|p1a: Klinklang|87/223
+|move|p2a: Delcatty|Double-Edge|p1a: Klinklang
+|-resisted|p1a: Klinklang
+|-end|p1a: Klinklang|Substitute
+|-damage|p2a: Delcatty|155/287|[from] Recoil|[of] p1a: Klinklang
+|
+|-heal|p1a: Klinklang|100/223|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|rebk25 has 90 seconds left.
+|
+|t:|1711947439
+|move|p1a: Klinklang|Gear Grind|p2a: Delcatty
+|-damage|p2a: Delcatty|64/287
+|-damage|p2a: Delcatty|0 fnt
+|faint|p2a: Delcatty
+|-hitcount|p2: Delcatty|2
+|
+|-heal|p1a: Klinklang|113/223|[from] item: Leftovers
+|upkeep
+|-message|rebk25 forfeited.
+|
+|win|Skullmonkey
+|raw|Skullmonkey's rating: 1162 &rarr; <strong>1180</strong><br />(+18 for winning)
+|raw|rebk25's rating: 1060 &rarr; <strong>1046</strong><br />(-14 for losing)
+|l|☆rebk25
+|player|p2|

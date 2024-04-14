@@ -1,0 +1,270 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'orasz'.</div>
+|j|☆orasz soviet
+|j|☆outz u
+|t:|1711935407
+|gametype|singles
+|player|p1|orasz soviet|ogreclan|
+|player|p2|outz u|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ribombee, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Blacephalon|
+|poke|p1|Kommo-o, M|
+|poke|p1|Azumarill, M|
+|poke|p2|Volcanion|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Arctozolt|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by orasz soviet)
+|c|☆outz u|hf
+|c|☆orasz soviet|Glhf
+|j| venesha
+|inactive|outz u has 270 seconds left.
+|
+|t:|1711935460
+|start
+|switch|p1a: Ribombee|Ribombee, F|100/100
+|switch|p2a: The Strapcano|Volcanion|100/100
+|turn|1
+|
+|t:|1711935469
+|move|p1a: Ribombee|Stun Spore|p2a: The Strapcano
+|-status|p2a: The Strapcano|par
+|move|p2a: The Strapcano|Flamethrower|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711935487
+|switch|p2a: The Strap Winds|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: The Strap Winds
+|move|p1a: Ribombee|Sticky Web|p2a: The Strap Winds
+|-sidestart|p2: outz u|move: Sticky Web
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Ribombee|0 fnt|[from] Hail
+|faint|p1a: Ribombee
+|upkeep
+|
+|t:|1711935509
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|3
+|
+|t:|1711935523
+|switch|p2a: The Strap Genie|Tornadus-Therian, M|100/100
+|move|p1a: Blacephalon|Flamethrower|p2a: The Strap Genie
+|-damage|p2a: The Strap Genie|56/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: The Strap Genie|50/100|[from] Hail
+|-damage|p1a: Blacephalon|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1711935531
+|move|p2a: The Strap Genie|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|10/100
+|-enditem|p1a: Blacephalon|Choice Specs|[from] move: Knock Off|[of] p2a: The Strap Genie
+|move|p1a: Blacephalon|Flamethrower|p2a: The Strap Genie
+|-damage|p2a: The Strap Genie|17/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: The Strap Genie|11/100|[from] Hail
+|-damage|p1a: Blacephalon|4/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1711935547
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: The Strap Genie|U-turn|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|89/100
+|j| EROTIC BARBER
+|inactive|outz u has 270 seconds left.
+|
+|t:|1711935568
+|switch|p2a: The Corvonsolo|Corviknight, F|100/100|[from] U-turn
+|-ability|p2a: The Corvonsolo|Pressure
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Excadrill|83/100|[from] Hail
+|-damage|p2a: The Corvonsolo|94/100|[from] Hail
+|upkeep
+|turn|6
+|l| EROTIC BARBER
+|
+|t:|1711935595
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|-item|p1a: Bisharp|Air Balloon
+|move|p2a: The Corvonsolo|Defog|p1a: Bisharp
+|-unboost|p1a: Bisharp|evasion|1
+|-ability|p1a: Bisharp|Defiant|boost
+|-boost|p1a: Bisharp|atk|2
+|-sideend|p2: outz u|Sticky Web|[from] move: Defog|[of] p2a: The Corvonsolo
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Bisharp|95/100|[from] Hail
+|-damage|p2a: The Corvonsolo|88/100|[from] Hail
+|upkeep
+|turn|7
+|j| EROTIC BARBER
+|
+|t:|1711935609
+|move|p1a: Bisharp|Knock Off|p2a: The Corvonsolo
+|-damage|p2a: The Corvonsolo|15/100
+|-damage|p1a: Bisharp|78/100|[from] item: Rocky Helmet|[of] p2a: The Corvonsolo
+|-enditem|p2a: The Corvonsolo|Rocky Helmet|[from] move: Knock Off|[of] p1a: Bisharp
+|move|p2a: The Corvonsolo|Body Press|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|-enditem|p1a: Bisharp|Air Balloon
+|faint|p1a: Bisharp
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: The Corvonsolo|9/100|[from] Hail
+|upkeep
+|
+|t:|1711935613
+|switch|p1a: Excadrill|Excadrill, F|83/100
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|8
+|
+|t:|1711935624
+|move|p1a: Excadrill|Rock Tomb|p2a: The Corvonsolo
+|-damage|p2a: The Corvonsolo|0 fnt
+|faint|p2a: The Corvonsolo
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Excadrill|77/100|[from] Hail
+|upkeep
+|
+|t:|1711935630
+|switch|p2a: Carson|Landorus-Therian, M|100/100
+|-ability|p2a: Carson|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|turn|9
+|l| EROTIC BARBER
+|j| nudili
+|
+|t:|1711935647
+|move|p1a: Excadrill|Stealth Rock|p2a: Carson
+|-sidestart|p2: outz u|move: Stealth Rock
+|move|p2a: Carson|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|none
+|upkeep
+|
+|t:|1711935650
+|switch|p1a: Blacephalon|Blacephalon|4/100
+|turn|10
+|j| EROTIC BARBER
+|l| nudili
+|l| EROTIC BARBER
+|j| nudili
+|j| EROTIC BARBER
+|inactive|outz u has 270 seconds left.
+|l| EROTIC BARBER
+|l| nudili
+|j| nudili
+|inactive|outz u has 240 seconds left.
+|j| EROTIC BARBER
+|l| nudili
+|l| EROTIC BARBER
+|inactive|outz u has 210 seconds left.
+|c| venesha|whats this for
+|c| venesha|bootsless?
+|j| nudili
+|c| venesha|WHY IS SMG STILL ON MY ACC
+|
+|t:|1711935765
+|switch|p2a: The Strap Genie|Tornadus-Therian, M|44/100
+|-damage|p2a: The Strap Genie|19/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Mind Blown|p2a: The Strap Genie
+|-damage|p2a: The Strap Genie|0 fnt
+|-damage|p1a: Blacephalon|0 fnt|[from] mindblown
+|faint|p1a: Blacephalon
+|faint|p2a: The Strap Genie
+|
+|upkeep
+|c| venesha|LOGOUT BRO
+|c| nudili|Who r u
+|
+|t:|1711935782
+|switch|p2a: The Strap Winds|Ninetales-Alola, F|100/100
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|-damage|p2a: The Strap Winds|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: The Strap Winds
+|turn|11
+|
+|t:|1711935789
+|move|p2a: The Strap Winds|Freeze-Dry|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|21/100
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|46/100|[from] item: Sitrus Berry
+|move|p1a: Azumarill|Belly Drum||[still]
+|-fail|p1a: Azumarill
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Azumarill|40/100|[from] Hail
+|upkeep
+|turn|12
+|c| venesha|save time
+|c| venesha|he crit you
+|j| EROTIC BARBER
+|
+|t:|1711935801
+|move|p1a: Azumarill|Aqua Jet|p2a: The Strap Winds
+|-damage|p2a: The Strap Winds|43/100
+|move|p2a: The Strap Winds|Freeze-Dry|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|l| nudili
+|
+|t:|1711935803
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|13
+|l| EROTIC BARBER
+|l| venesha
+|
+|t:|1711935811
+|move|p2a: The Strap Winds|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|win|outz u
+|j| nudili
+|c|☆outz u|gg
+|j| EROTIC BARBER
+|l| nudili
+|l| EROTIC BARBER

@@ -1,0 +1,225 @@
+|j|☆BrandonRamz
+|j|☆Teils
+|t:|1711946826
+|gametype|singles
+|player|p1|BrandonRamz|benga|1288
+|player|p2|Teils|101|1242
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946826
+|start
+|switch|p1a: Phione|Phione, L89|287/287
+|switch|p2a: Seismitoad|Seismitoad, L85, M|317/317
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BrandonRamz)
+|inactive|Teils has 120 seconds left.
+|inactive|Teils has 90 seconds left.
+|
+|t:|1711946890
+|switch|p1a: Togekiss|Togekiss, L81, F|270/270
+|switch|p2a: Porygon2|Porygon2, L82|274/274
+|-ability|p2a: Porygon2|Serene Grace|[from] ability: Trace|[of] p1a: Togekiss
+|
+|upkeep
+|turn|2
+|
+|t:|1711946906
+|move|p1a: Togekiss|Trick|p2a: Porygon2
+|-activate|p1a: Togekiss|move: Trick|[of] p2a: Porygon2
+|-item|p2a: Porygon2|Choice Scarf|[from] move: Trick
+|-item|p1a: Togekiss|Eviolite|[from] move: Trick
+|move|p2a: Porygon2|Toxic|p1a: Togekiss
+|-status|p1a: Togekiss|tox
+|
+|-damage|p1a: Togekiss|254/270 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|Teils has 120 seconds left.
+|
+|t:|1711946947
+|switch|p2a: Dusclops|Dusclops, L85, M|207/207
+|-ability|p2a: Dusclops|Pressure
+|switch|p1a: Phione|Phione, L89|287/287
+|
+|upkeep
+|turn|4
+|
+|t:|1711946958
+|move|p1a: Phione|Rain Dance|p1a: Phione
+|-weather|RainDance
+|move|p2a: Dusclops|Seismic Toss|p1a: Phione
+|-damage|p1a: Phione|202/287
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711946970
+|move|p1a: Phione|Toxic|p2a: Dusclops
+|-status|p2a: Dusclops|tox
+|move|p2a: Dusclops|Seismic Toss|p1a: Phione
+|-damage|p1a: Phione|117/287
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Dusclops|195/207 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711946979
+|move|p1a: Phione|Scald|p2a: Dusclops
+|-damage|p2a: Dusclops|129/207 tox
+|move|p2a: Dusclops|Seismic Toss|p1a: Phione
+|-damage|p1a: Phione|32/287
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Dusclops|105/207 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711946989
+|move|p1a: Phione|Rest|p1a: Phione
+|-status|p1a: Phione|slp|[from] move: Rest
+|-heal|p1a: Phione|287/287 slp|[silent]
+|move|p2a: Dusclops|Seismic Toss|p1a: Phione
+|-damage|p1a: Phione|202/287 slp
+|
+|-weather|RainDance|[upkeep]
+|-activate|p1a: Phione|ability: Hydration
+|-curestatus|p1a: Phione|slp|[msg]
+|-damage|p2a: Dusclops|69/207 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Teils has 120 seconds left.
+|
+|t:|1711947021
+|move|p1a: Phione|Scald|p2a: Dusclops
+|-crit|p2a: Dusclops
+|-damage|p2a: Dusclops|0 fnt
+|faint|p2a: Dusclops
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711947029
+|switch|p2a: Seismitoad|Seismitoad, L85, M|317/317
+|turn|9
+|
+|t:|1711947040
+|move|p2a: Seismitoad|Earthquake|p1a: Phione
+|-damage|p1a: Phione|62/287
+|-damage|p2a: Seismitoad|286/317|[from] item: Life Orb
+|move|p1a: Phione|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seismitoad|267/317 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711947052
+|switch|p1a: Togekiss|Togekiss, L81, F|254/270 tox
+|move|p2a: Seismitoad|Sludge Wave|p1a: Togekiss
+|-damage|p1a: Togekiss|189/270 tox
+|-damage|p2a: Seismitoad|236/317 tox|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seismitoad|198/317 tox|[from] psn
+|-damage|p1a: Togekiss|173/270 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Teils has 120 seconds left.
+|
+|t:|1711947070
+|move|p2a: Seismitoad|Hydro Pump|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|-damage|p2a: Seismitoad|167/317 tox|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p2a: Seismitoad|110/317 tox|[from] psn
+|upkeep
+|
+|t:|1711947080
+|switch|p1a: Omastar|Omastar, L80, M|243/243
+|turn|12
+|inactive|Teils has 120 seconds left.
+|
+|t:|1711947108
+|switch|p2a: Politoed|Politoed, L84, M|288/288
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Omastar|Shell Smash|p1a: Omastar
+|-unboost|p1a: Omastar|def|1
+|-unboost|p1a: Omastar|spd|1
+|-boost|p1a: Omastar|atk|2
+|-boost|p1a: Omastar|spa|2
+|-boost|p1a: Omastar|spe|2
+|-enditem|p1a: Omastar|White Herb
+|-clearnegativeboost|p1a: Omastar|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1711947120
+|move|p1a: Omastar|Hidden Power|p2a: Politoed
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|114/288
+|move|p2a: Politoed|Hidden Power|p1a: Omastar
+|-supereffective|p1a: Omastar
+|-damage|p1a: Omastar|19/243
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Politoed|132/288|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Teils has 120 seconds left.
+|
+|t:|1711947149
+|move|p1a: Omastar|Hidden Power|p2a: Politoed
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711947153
+|switch|p2a: Seismitoad|Seismitoad, L85, M|110/317 tox
+|turn|15
+|
+|t:|1711947160
+|move|p1a: Omastar|Hidden Power|p2a: Seismitoad
+|-supereffective|p2a: Seismitoad
+|-crit|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711947169
+|switch|p2a: Porygon2|Porygon2, L82|274/274
+|-ability|p2a: Porygon2|Swift Swim|[from] ability: Trace|[of] p1a: Omastar
+|turn|16
+|
+|t:|1711947178
+|move|p1a: Omastar|Surf|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Teils forfeited.
+|
+|win|BrandonRamz
+|raw|BrandonRamz's rating: 1288 &rarr; <strong>1310</strong><br />(+22 for winning)
+|raw|Teils's rating: 1242 &rarr; <strong>1220</strong><br />(-22 for losing)
+|l|☆Teils
+|player|p2|

@@ -1,0 +1,243 @@
+|j|☆tynewname
+|j|☆SFatGetBack
+|t:|1711946835
+|gametype|singles
+|player|p1|tynewname|lance|1436
+|player|p2|SFatGetBack|backpacker|1487
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946835
+|start
+|switch|p1a: Rotom|Rotom-Frost, L86|226/226
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-ability|p2a: Giratina|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tynewname)
+|inactive|SFatGetBack has 120 seconds left.
+|
+|t:|1711946867
+|switch|p2a: Heatran|Heatran, L79, F|273/273
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Rotom|Will-O-Wisp|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|2
+|
+|t:|1711946879
+|move|p1a: Rotom|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|194/273
+|-enditem|p2a: Heatran|Air Balloon
+|
+|t:|1711946886
+|switch|p1a: Carbink|Carbink, L90|236/236|[from] Volt Switch
+|move|p2a: Heatran|Stealth Rock|p1a: Carbink
+|-sidestart|p1: tynewname|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1711946894
+|move|p2a: Heatran|Flash Cannon|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|16/236
+|move|p1a: Carbink|Stealth Rock|p2a: Heatran
+|-sidestart|p2: SFatGetBack|move: Stealth Rock
+|
+|-heal|p1a: Carbink|30/236|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|tynewname has 120 seconds left.
+|
+|t:|1711946930
+|move|p2a: Heatran|Flash Cannon|p1a: Carbink
+|-supereffective|p1a: Carbink
+|-damage|p1a: Carbink|0 fnt
+|faint|p1a: Carbink
+|
+|upkeep
+|
+|t:|1711946934
+|switch|p1a: Ambipom|Ambipom, L84, F|263/263
+|-damage|p1a: Ambipom|231/263|[from] Stealth Rock
+|turn|5
+|inactive|SFatGetBack has 120 seconds left.
+|inactive|SFatGetBack has 90 seconds left.
+|
+|t:|1711947007
+|move|p1a: Ambipom|Low Kick|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1711947022
+|switch|p2a: Toucannon|Toucannon, L88, M|284/284
+|turn|6
+|inactive|SFatGetBack has 60 seconds left.
+|
+|t:|1711947045
+|switch|p1a: Rotom|Rotom-Frost, L86|226/226
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p2a: Toucannon|Beak Blast|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|164/226
+|
+|upkeep
+|turn|7
+|inactive|SFatGetBack has 60 seconds left.
+|
+|t:|1711947055
+|-terastallize|p2a: Toucannon|Steel
+|move|p1a: Rotom|Will-O-Wisp|p2a: Toucannon|[miss]
+|-miss|p1a: Rotom|p2a: Toucannon
+|move|p2a: Toucannon|Boomburst|p1a: Rotom
+|-damage|p1a: Rotom|55/226
+|
+|upkeep
+|turn|8
+|
+|t:|1711947064
+|move|p1a: Rotom|Will-O-Wisp|p2a: Toucannon|[miss]
+|-miss|p1a: Rotom|p2a: Toucannon
+|move|p2a: Toucannon|Boomburst|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|inactive|tynewname has 120 seconds left.
+|
+|t:|1711947097
+|switch|p1a: Frosmoth|Frosmoth, L83, F|252/252
+|turn|9
+|
+|t:|1711947102
+|-terastallize|p1a: Frosmoth|Ground
+|-singleturn|p2a: Toucannon|move: Beak Blast
+|move|p1a: Frosmoth|Quiver Dance|p1a: Frosmoth
+|-boost|p1a: Frosmoth|spa|1
+|-boost|p1a: Frosmoth|spd|1
+|-boost|p1a: Frosmoth|spe|1
+|move|p2a: Toucannon|Beak Blast|p1a: Frosmoth
+|-damage|p1a: Frosmoth|62/252
+|
+|upkeep
+|turn|10
+|
+|t:|1711947121
+|move|p1a: Frosmoth|Tera Blast|p2a: Toucannon|[anim] Tera Blast Ground
+|-supereffective|p2a: Toucannon
+|-damage|p2a: Toucannon|0 fnt
+|faint|p2a: Toucannon
+|
+|upkeep
+|inactive|SFatGetBack has 60 seconds left.
+|
+|t:|1711947164
+|switch|p2a: Giratina|Giratina, L75|349/349
+|-damage|p2a: Giratina|306/349|[from] Stealth Rock
+|-ability|p2a: Giratina|Pressure
+|turn|11
+|
+|t:|1711947170
+|move|p1a: Frosmoth|Ice Beam|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|0 fnt
+|faint|p2a: Giratina
+|
+|upkeep
+|
+|t:|1711947183
+|switch|p2a: Hitmonlee|Hitmonlee, L84, M|221/221
+|-damage|p2a: Hitmonlee|208/221|[from] Stealth Rock
+|turn|12
+|
+|t:|1711947190
+|move|p1a: Frosmoth|Bug Buzz|p2a: Hitmonlee
+|-resisted|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|131/221
+|move|p2a: Hitmonlee|Close Combat|p1a: Frosmoth
+|-damage|p1a: Frosmoth|0 fnt
+|-unboost|p2a: Hitmonlee|def|1
+|-unboost|p2a: Hitmonlee|spd|1
+|-enditem|p2a: Hitmonlee|White Herb
+|-clearnegativeboost|p2a: Hitmonlee|[silent]
+|faint|p1a: Frosmoth
+|
+|upkeep
+|
+|t:|1711947196
+|switch|p1a: Flapple|Flapple, L88, F|266/266
+|-damage|p1a: Flapple|233/266|[from] Stealth Rock
+|turn|13
+|
+|t:|1711947207
+|move|p2a: Hitmonlee|Swords Dance|p2a: Hitmonlee
+|-boost|p2a: Hitmonlee|atk|2
+|move|p1a: Flapple|Grav Apple|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|
+|upkeep
+|
+|t:|1711947216
+|switch|p2a: Empoleon|Empoleon, L83, F|275/275
+|-damage|p2a: Empoleon|258/275|[from] Stealth Rock
+|turn|14
+|
+|t:|1711947225
+|move|p1a: Flapple|Grav Apple|p2a: Empoleon
+|-crit|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|
+|upkeep
+|
+|t:|1711947229
+|switch|p2a: Iron Jugulis|Iron Jugulis, L78|275/275
+|-damage|p2a: Iron Jugulis|207/275|[from] Stealth Rock
+|turn|15
+|
+|t:|1711947239
+|move|p2a: Iron Jugulis|Fire Blast|p1a: Flapple
+|-damage|p1a: Flapple|88/266
+|move|p1a: Flapple|Grav Apple|p2a: Iron Jugulis|[miss]
+|-miss|p1a: Flapple|p2a: Iron Jugulis
+|
+|upkeep
+|turn|16
+|
+|t:|1711947244
+|move|p2a: Iron Jugulis|Fire Blast|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1711947246
+|switch|p1a: Iron Moth|Iron Moth, L78|253/253
+|turn|17
+|
+|t:|1711947251
+|move|p1a: Iron Moth|Sludge Wave|p2a: Iron Jugulis
+|-crit|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|win|tynewname
+|raw|tynewname's rating: 1436 &rarr; <strong>1459</strong><br />(+23 for winning)
+|raw|SFatGetBack's rating: 1487 &rarr; <strong>1464</strong><br />(-23 for losing)
+|c|☆tynewname|Gg
+|c|☆SFatGetBack|gG
+|l|☆SFatGetBack
+|player|p2|

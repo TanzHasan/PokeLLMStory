@@ -1,0 +1,66 @@
+p1: Switched to Aegislash
+p2: Switched to Haxorus
+Turn 1:
+p2: Haxorus used Sandstorm on Haxorus
+p1: Aegislash used Stealth Rock on Haxorus
+Turn 2:
+p2: Haxorus used Sacred Sword on Aegislash
+p1: Aegislash used Sticky Web on Haxorus
+Turn 3:
+p2: Haxorus used Sacred Fire on Aegislash
+p1: Aegislash used Toxic Spikes on Haxorus
+Turn 4:
+p2: Haxorus used Sacred Fire on Aegislash
+p1: Aegislash used Toxic Spikes on Haxorus
+Turn 5:
+p2: Haxorus used Sacred Fire on Aegislash
+p1: Aegislash fainted
+p1: Switched to Escavalier
+Turn 6:
+p2: Haxorus used Sacred Fire on Escavalier
+p1: Escavalier used Shift Gear on Escavalier
+Turn 7:
+p1: Escavalier used Burning Bulwark on Escavalier
+p2: Haxorus used Sacred Sword on Escavalier
+Turn 8:
+p2: Haxorus used Sandstorm on Haxorus
+p1: Escavalier used Shift Gear on Escavalier
+Turn 9:
+p2: Haxorus used Sacred Sword on Escavalier
+p1: Escavalier used Gigaton Hammer on Haxorus
+p2: Haxorus fainted
+p2: Switched to Ho-Oh
+Turn 10:
+p1: Escavalier used Leech Life on Ho-Oh
+p2: Ho-Oh used Heavy Slam on Escavalier
+Turn 11:
+p1: Escavalier used Leech Life on Ho-Oh
+p2: Ho-Oh used Hyper Drill on Escavalier
+Turn 12:
+p1: Escavalier used Leech Life on Ho-Oh
+p2: Ho-Oh fainted
+p2: Switched to Sceptile
+Turn 13:
+p1: Escavalier used Leech Life on Sceptile
+p2: Sceptile fainted
+p2: Switched to Ditto
+Turn 14:
+p1: Escavalier used Gigaton Hammer on Ditto
+p2: Ditto fainted
+p2: Switched to Houndstone
+Turn 15:
+p1: Escavalier used Leech Life on Houndstone
+p2: Houndstone failed to use Dive
+Turn 16:
+p1: Escavalier used Burning Bulwark on Escavalier
+p2: Houndstone used Dive on Escavalier
+Turn 17:
+p1: Escavalier used Leech Life on Houndstone
+p2: Houndstone fainted
+p2: Switched to Swampert
+Turn 18:
+p1: Escavalier used Gigaton Hammer on Swampert
+p2: Swampert used Petal Blizzard on Escavalier
+Turn 19:
+p1: Escavalier used Leech Life on Swampert
+p2: Swampert fainted

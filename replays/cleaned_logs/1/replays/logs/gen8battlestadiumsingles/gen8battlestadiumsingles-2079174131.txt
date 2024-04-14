@@ -1,0 +1,39 @@
+p1: Switched to Seismitoad
+p2: Switched to Darmanitan-Galar
+Turn 1:
+p2: Darmanitan-Galar used Icicle Crash on Seismitoad
+p1: Seismitoad used Max Geyser on Darmanitan-Galar
+p2: Darmanitan-Galar fainted
+p2: Switched to Dragapult
+Turn 2:
+p2: Switched to Hippowdon
+p1: Seismitoad failed to use Max Guard
+Turn 3:
+p2: Hippowdon used Max Guard on Hippowdon
+p1: Seismitoad used Max Geyser on Hippowdon
+Turn 4:
+p1: Seismitoad used Toxic on Hippowdon
+p2: Hippowdon used Max Quake on Seismitoad
+p1: Seismitoad fainted
+p1: Switched to Mimikyu
+Turn 5:
+p1: Mimikyu used Curse on Hippowdon
+p2: Hippowdon used Max Quake on Mimikyu
+Turn 6:
+p1: Switched to Tapu Koko
+p2: Hippowdon used Earthquake on Tapu Koko
+Turn 7:
+p1: Tapu Koko used Nature's Madness on Hippowdon
+p2: Hippowdon used Earthquake on Tapu Koko
+p1: Tapu Koko fainted
+p2: Hippowdon fainted
+p1: Switched to Mimikyu-Busted
+p2: Switched to Dragapult
+Turn 8:
+p1: Mimikyu-Busted used Play Rough on Dragapult
+p2: Dragapult failed to use Phantom Force
+Turn 9:
+p1: Mimikyu-Busted used Play Rough on Dragapult
+p2: Dragapult used Phantom Force on Mimikyu-Busted
+p1: Mimikyu-Busted fainted
+p2: Dragapult fainted

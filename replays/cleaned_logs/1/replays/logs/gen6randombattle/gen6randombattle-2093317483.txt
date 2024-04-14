@@ -1,0 +1,106 @@
+p1: Switched to Reuniclus
+p2: Switched to Aromatisse
+Turn 1:
+p2: Aromatisse used Calm Mind on Aromatisse
+p1: Reuniclus used Psyshock on Aromatisse
+Turn 2:
+p2: Aromatisse used Protect on Aromatisse
+p1: Reuniclus used Psyshock on Aromatisse
+Turn 3:
+p2: Aromatisse used Wish on Aromatisse
+p1: Reuniclus used Psyshock on Aromatisse
+Turn 4:
+p2: Aromatisse used Protect on Aromatisse
+p1: Reuniclus used Shadow Ball on Aromatisse
+Turn 5:
+p2: Aromatisse used Moonblast on Reuniclus
+p1: Reuniclus used Psyshock on Aromatisse
+Turn 6:
+p2: Aromatisse used Moonblast on Reuniclus
+p1: Reuniclus fainted
+p1: Switched to Toxicroak
+Turn 7:
+p2: Switched to Rotom-Wash
+p1: Toxicroak used Substitute on Toxicroak
+Turn 8:
+p2: Rotom-Wash used Volt Switch on Toxicroak
+p2: Switched to Emboar
+p1: Toxicroak used Gunk Shot on Emboar
+Turn 9:
+p1: Switched to Uxie
+p2: Emboar used Flare Blitz on Uxie
+Turn 10:
+p2: Switched to Blissey
+p1: Uxie used Yawn on Blissey
+Turn 11:
+p1: Switched to Toxicroak
+p2: Blissey used Wish on Blissey
+Turn 12:
+p2: Switched to Noivern
+p1: Toxicroak used Swords Dance on Toxicroak
+Turn 13:
+p2: Noivern used Hurricane on Toxicroak
+p1: Toxicroak fainted
+p1: Switched to Blastoise
+Turn 14:
+p2: Switched to Blissey
+p1: Blastoise used Scald on Blissey
+Turn 15:
+p1: Switched to Spinda
+p2: Blissey used Toxic on Spinda
+Turn 16:
+p2: Blissey used Protect on Blissey
+p1: Spinda used Superpower on Blissey
+Turn 17:
+p1: Switched to Uxie
+p2: Switched to Aromatisse
+Turn 18:
+p1: Uxie used Heal Bell on Uxie
+p2: Aromatisse used Moonblast on Uxie
+Turn 19:
+p1: Uxie used Yawn on Aromatisse
+p2: Aromatisse used Wish on Aromatisse
+Turn 20:
+p2: Switched to Rotom-Wash
+p1: Uxie used U-turn on Rotom-Wash
+p1: Switched to Sceptile
+Turn 21:
+p2: Rotom-Wash used Volt Switch on Sceptile
+p2: Switched to Blissey
+p1: Sceptile used Substitute on Sceptile
+Turn 22:
+p1: Sceptile used Leech Seed on Blissey
+p2: Blissey used Seismic Toss on Sceptile
+Turn 23:
+p2: Switched to Rotom-Wash
+p1: Sceptile used Substitute on Sceptile
+Turn 24:
+p2: Rotom-Wash used Volt Switch on Sceptile
+p2: Switched to Blissey
+p1: Sceptile used Giga Drain on Blissey
+Turn 25:
+p1: Sceptile used Leech Seed on Blissey
+p2: Blissey used Wish on Blissey
+Turn 26:
+p2: Switched to Noivern
+p1: Sceptile used Leech Seed on Noivern
+Turn 27:
+p1: Sceptile used Hidden Power on Noivern
+p2: Noivern used Hurricane on Sceptile
+p1: Sceptile fainted
+p1: Switched to Blastoise-Mega
+Turn 28:
+p2: Switched to Blissey
+p1: Switched to Spinda
+Turn 29:
+p2: Blissey used Protect on Blissey
+p1: Spinda used Superpower on Blissey
+Turn 30:
+p2: Switched to Noivern
+p1: Spinda used Superpower on Noivern
+Turn 31:
+p2: Noivern used Draco Meteor on Spinda
+p1: Spinda used Return on Noivern
+Turn 32:
+p2: Noivern used Draco Meteor on Spinda
+p1: Spinda fainted

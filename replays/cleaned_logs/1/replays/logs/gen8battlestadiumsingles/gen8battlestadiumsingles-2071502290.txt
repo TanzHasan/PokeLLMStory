@@ -1,0 +1,50 @@
+p1: Switched to Zapdos
+p2: Switched to Galvantula
+Turn 1:
+p2: Galvantula used Sticky Web on Zapdos
+p1: Zapdos used Heat Wave on Galvantula
+Turn 2:
+p2: Galvantula used Thunder on Zapdos
+p1: Zapdos used Max Airstream on Galvantula
+p2: Galvantula fainted
+p2: Switched to Tapu Lele
+Turn 3:
+p1: Zapdos used Max Lightning on Tapu Lele
+p2: Tapu Lele used Calm Mind on Tapu Lele
+Turn 4:
+p1: Zapdos used Max Lightning on Tapu Lele
+p2: Tapu Lele used Calm Mind on Tapu Lele
+Turn 5:
+p1: Zapdos used Discharge on Tapu Lele
+p2: Tapu Lele can't move
+Turn 6:
+p1: Zapdos used Hurricane on Tapu Lele
+p2: Tapu Lele used Draining Kiss on Zapdos
+Turn 7:
+p1: Zapdos used Hurricane on Tapu Lele
+p2: Tapu Lele used Max Mindstorm on Zapdos
+p1: Zapdos fainted
+p1: Switched to Landorus-Therian
+Turn 8:
+p1: Landorus-Therian failed to use Fly
+p2: Tapu Lele can't move
+Turn 9:
+p1: Landorus-Therian used Fly on Tapu Lele
+p2: Tapu Lele can't move
+Turn 10:
+p1: Landorus-Therian used Earthquake on Tapu Lele
+p2: Tapu Lele fainted
+p2: Switched to Cinccino
+Turn 11:
+p1: Switched to Porygon2
+p2: Cinccino used Triple Axel on Porygon2
+Turn 12:
+p2: Cinccino used Tail Slap on Porygon2
+p1: Porygon2 used Tri Attack on Cinccino
+Turn 13:
+p2: Cinccino used Tail Slap on Porygon2
+p1: Porygon2 fainted
+p1: Switched to Landorus-Therian
+Turn 14:
+p2: Cinccino used Triple Axel on Landorus-Therian
+p1: Landorus-Therian fainted

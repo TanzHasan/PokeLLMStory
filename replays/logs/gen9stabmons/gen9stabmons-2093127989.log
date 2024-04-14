@@ -1,0 +1,312 @@
+|j|☆happysh
+|j|☆Crown Oji
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711916097
+|gametype|singles
+|player|p1|happysh|burnet|
+|player|p2|Crown Oji|wallace-masters|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Category Swap Mod: All physical moves become special, and vice versa
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Iron Hands|
+|poke|p1|Iron Valiant|
+|poke|p1|Pincurchin, M|
+|poke|p1|Sneasler, F|
+|poke|p1|Iron Jugulis|
+|poke|p2|Iron Hands|
+|poke|p2|Scizor, F|
+|poke|p2|Iron Moth|
+|poke|p2|Toxapex, F|
+|poke|p2|Zoroark, F|
+|poke|p2|Skarmory, F|
+|teampreview
+|j|*Lady Monita ❆
+|inactive|happysh also wants the timer to be on.
+|
+|t:|1711916119
+|start
+|switch|p1a: Pincurchin|Pincurchin, M|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|
+|t:|1711916130
+|move|p2a: Scizor|Sticky Web|p1a: Pincurchin
+|-sidestart|p1: happysh|move: Sticky Web
+|move|p1a: Pincurchin|Rising Voltage|p2a: Scizor
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-damage|p2a: Scizor|24/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711916135
+|move|p2a: Scizor|Bug Buzz|p1a: Pincurchin
+|-crit|p1a: Pincurchin
+|-damage|p1a: Pincurchin|20/100
+|move|p1a: Pincurchin|Volt Switch|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|t:|1711916144
+|switch|p1a: Iron Hands|Iron Hands|100/100|[from] Volt Switch
+|-activate|p1a: Iron Hands|move: Sticky Web
+|-unboost|p1a: Iron Hands|spe|1
+|-activate|p1a: Iron Hands|ability: Quark Drive
+|-start|p1a: Iron Hands|quarkdriveatk
+|
+|upkeep
+|
+|t:|1711916152
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|3
+|
+|t:|1711916158
+|move|p2a: Iron Hands|Secret Sword|p1a: Iron Hands
+|-damage|p1a: Iron Hands|59/100
+|move|p1a: Iron Hands|Volt Switch|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|82/100
+|
+|t:|1711916162
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Iron Valiant|Iron Valiant|100/100|[from] Volt Switch
+|-activate|p1a: Iron Valiant|move: Sticky Web
+|-unboost|p1a: Iron Valiant|spe|1
+|-activate|p1a: Iron Valiant|ability: Quark Drive
+|-start|p1a: Iron Valiant|quarkdrivespa
+|
+|-heal|p2a: Iron Hands|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711916170
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Iron Valiant|Magical Torque|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|80/100
+|-start|p2a: Toxapex|confusion
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1711916176
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|
+|upkeep
+|turn|5
+|
+|t:|1711916187
+|move|p2a: Iron Moth|Noxious Torque|p1a: Iron Valiant
+|-supereffective|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-damage|p2a: Iron Moth|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711916195
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|-activate|p1a: Iron Jugulis|ability: Quark Drive
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|6
+|j| Nameless_Spectre
+|
+|t:|1711916201
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Iron Jugulis|Dragon Ascent|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|45/100
+|-unboost|p1a: Iron Jugulis|def|1
+|-unboost|p1a: Iron Jugulis|spd|1
+|-damage|p1a: Iron Jugulis|84/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|-damage|p1a: Iron Jugulis|74/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1711916208
+|move|p1a: Iron Jugulis|Dragon Ascent|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|-unboost|p1a: Iron Jugulis|def|1
+|-unboost|p1a: Iron Jugulis|spd|1
+|-damage|p1a: Iron Jugulis|58/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|faint|p2a: Skarmory
+|-damage|p1a: Iron Jugulis|48/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711916225
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|turn|8
+|
+|t:|1711916229
+|move|p1a: Iron Jugulis|Dragon Ascent|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|-unboost|p1a: Iron Jugulis|def|1
+|-unboost|p1a: Iron Jugulis|spd|1
+|replace|p2a: Zoroark|Zoroark, F
+|-end|p2a: Zoroark|Illusion
+|faint|p2a: Zoroark
+|-damage|p1a: Iron Jugulis|38/100|[from] item: Life Orb
+|
+|-fieldend|move: Electric Terrain
+|-end|p1a: Iron Jugulis|Quark Drive
+|upkeep
+|
+|t:|1711916233
+|switch|p2a: Iron Moth|Iron Moth|91/100
+|turn|9
+|j| A Welcome Guest
+|
+|t:|1711916247
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|switch|p1a: Pincurchin|Pincurchin, M|20/100
+|-activate|p1a: Pincurchin|move: Sticky Web
+|-unboost|p1a: Pincurchin|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|move|p2a: Iron Moth|Flame Charge|p1a: Pincurchin
+|-damage|p1a: Pincurchin|0 fnt
+|-boost|p2a: Iron Moth|spe|1
+|faint|p1a: Pincurchin
+|-damage|p2a: Iron Moth|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711916255
+|switch|p1a: Iron Jugulis|Iron Jugulis|38/100
+|-activate|p1a: Iron Jugulis|ability: Quark Drive
+|-start|p1a: Iron Jugulis|quarkdrivespe
+|turn|10
+|
+|t:|1711916262
+|-terastallize|p1a: Iron Jugulis|Dark
+|move|p1a: Iron Jugulis|Sucker Punch|p2a: Iron Moth
+|-damage|p2a: Iron Moth|22/100
+|-damage|p1a: Iron Jugulis|29/100|[from] item: Life Orb
+|move|p2a: Iron Moth|Bitter Blade|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|-heal|p2a: Iron Moth|37/100|[from] drain|[of] p1a: Iron Jugulis
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|-damage|p2a: Iron Moth|27/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711916265
+|switch|p1a: Iron Hands|Iron Hands|59/100
+|-activate|p1a: Iron Hands|move: Sticky Web
+|-unboost|p1a: Iron Hands|spe|1
+|-activate|p1a: Iron Hands|ability: Quark Drive
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|11
+|
+|t:|1711916270
+|move|p1a: Iron Hands|Thunderclap|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711916272
+|switch|p2a: Iron Hands|Iron Hands|88/100
+|-activate|p2a: Iron Hands|ability: Quark Drive
+|-start|p2a: Iron Hands|quarkdriveatk
+|turn|12
+|
+|t:|1711916278
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Iron Hands|Secret Sword|p1a: Corviknight
+|-damage|p1a: Corviknight|61/100
+|
+|-heal|p1a: Corviknight|67/100|[from] item: Leftovers
+|-heal|p2a: Iron Hands|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711916284
+|-singleturn|p1a: Corviknight|move: Beak Blast
+|move|p2a: Iron Hands|Thunder Cage|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|-heal|p2a: Iron Hands|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711916293
+|switch|p1a: Sneasler|Sneasler, F|100/100
+|-activate|p1a: Sneasler|move: Sticky Web
+|-unboost|p1a: Sneasler|spe|1
+|-ability|p1a: Sneasler|Pressure
+|-enditem|p1a: Sneasler|Electric Seed
+|-boost|p1a: Sneasler|def|1|[from] item: Electric Seed
+|turn|14
+|
+|t:|1711916299
+|move|p1a: Sneasler|Malignant Chain|p2a: Iron Hands
+|-damage|p2a: Iron Hands|65/100
+|move|p2a: Iron Hands|Thunder Cage|p1a: Sneasler
+|-damage|p1a: Sneasler|8/100
+|-activate|p1a: Sneasler|move: Thunder Cage|[of] p2a: Iron Hands
+|
+|-heal|p2a: Iron Hands|71/100|[from] item: Leftovers
+|-damage|p1a: Sneasler|0 fnt|[from] move: Thunder Cage|[partiallytrapped]
+|faint|p1a: Sneasler
+|upkeep
+|
+|t:|1711916301
+|switch|p1a: Iron Hands|Iron Hands|59/100
+|-activate|p1a: Iron Hands|move: Sticky Web
+|-unboost|p1a: Iron Hands|spe|1
+|-activate|p1a: Iron Hands|ability: Quark Drive
+|-start|p1a: Iron Hands|quarkdriveatk
+|turn|15
+|
+|t:|1711916308
+|move|p2a: Iron Hands|Secret Sword|p1a: Iron Hands
+|-damage|p1a: Iron Hands|23/100
+|move|p1a: Iron Hands|Secret Sword|p2a: Iron Hands
+|-damage|p2a: Iron Hands|31/100
+|
+|-heal|p2a: Iron Hands|37/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711916312
+|move|p1a: Iron Hands|Thunderclap|p2a: Iron Hands
+|-resisted|p2a: Iron Hands
+|-damage|p2a: Iron Hands|18/100
+|move|p2a: Iron Hands|Secret Sword|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|
+|win|Crown Oji
+|n|☆happysh|happysh
+|n|☆Crown Oji|crownoji
+|n|*Lady Monita ❆|ladymonita
+|n| Nameless_Spectre|namelessspectre
+|n| A Welcome Guest|awelcomeguest

@@ -1,0 +1,112 @@
+p1: Switched to Duosion
+p2: Switched to Charjabug
+Turn 1:
+p2: Charjabug used Sticky Web on Duosion
+p1: Duosion used Trick Room on Duosion
+Turn 2:
+p1: Duosion used Psychic on Charjabug
+p2: Charjabug used Skitter Smack on Duosion
+Turn 3:
+p1: Duosion used Psychic on Charjabug
+p2: Charjabug used Skitter Smack on Duosion
+p1: Duosion fainted
+p1: Switched to Brionne
+Turn 4:
+p1: Brionne used Hyper Voice on Charjabug
+p2: Charjabug fainted
+p2: Switched to Morgrem
+Turn 5:
+p2: Morgrem used Parting Shot on Brionne
+p2: Switched to Sliggoo-Hisui
+p1: Brionne used Hyper Voice on Sliggoo-Hisui
+Turn 6:
+p1: Switched to Tinkatuff
+p2: Sliggoo-Hisui used Iron Head on Tinkatuff
+Turn 7:
+p1: Tinkatuff used Stealth Rock on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Iron Head on Tinkatuff
+Turn 8:
+p1: Switched to Monferno
+p2: Sliggoo-Hisui used Iron Head on Monferno
+Turn 9:
+p2: Switched to Monferno
+p1: Monferno used Close Combat on Monferno
+p2: Monferno fainted
+p2: Switched to Dartrix
+Turn 10:
+p1: Switched to Metang
+p2: Dartrix used Brave Bird on Metang
+Turn 11:
+p2: Switched to Morgrem
+p1: Metang used Agility on Metang
+Turn 12:
+p2: Morgrem used Reflect on Morgrem
+p1: Metang used Iron Head on Morgrem
+Turn 13:
+p2: Switched to Wartortle
+p1: Metang used Iron Head on Wartortle
+Turn 14:
+p1: Metang used Earthquake on Wartortle
+p2: Wartortle used Substitute on Wartortle
+Turn 15:
+p1: Metang used Earthquake on Wartortle
+p2: Wartortle used Shell Smash on Wartortle
+Turn 16:
+p1: Metang used Earthquake on Wartortle
+p2: Wartortle used Surf on Metang
+p1: Metang fainted
+p1: Switched to Monferno
+Turn 17:
+p1: Monferno used Fake Out on Wartortle
+p2: Wartortle can't move
+Turn 18:
+p2: Wartortle used Surf on Monferno
+p1: Monferno fainted
+p1: Switched to Tinkatuff
+Turn 19:
+p1: Tinkatuff used Fake Out on Wartortle
+p2: Wartortle can't move
+Turn 20:
+p2: Wartortle used Surf on Tinkatuff
+p1: Tinkatuff fainted
+p1: Switched to Brionne
+Turn 21:
+p2: Wartortle used Surf on Brionne
+p1: Brionne used Moonblast on Wartortle
+p2: Wartortle fainted
+p2: Switched to Morgrem
+Turn 22:
+p2: Morgrem used Light Screen on Morgrem
+p1: Brionne used Flip Turn on Morgrem
+p1: Switched to Servine
+Turn 23:
+p2: Switched to Sliggoo-Hisui
+p1: Servine used Leaf Storm on Sliggoo-Hisui
+Turn 24:
+p1: Servine used Glare on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Iron Head on Servine
+Turn 25:
+p1: Switched to Brionne
+p2: Sliggoo-Hisui used Iron Head on Brionne
+Turn 26:
+p1: Brionne used Moonblast on Sliggoo-Hisui
+p2: Sliggoo-Hisui can't move
+Turn 27:
+p1: Brionne used Moonblast on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Iron Head on Brionne
+p1: Brionne fainted
+p1: Switched to Servine
+Turn 28:
+p1: Servine used Leech Seed on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Rest on Sliggoo-Hisui
+Turn 29:
+p1: Servine used Tera Blast on Sliggoo-Hisui
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Draco Meteor on Servine
+Turn 30:
+p1: Servine used Tera Blast on Sliggoo-Hisui
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Iron Head on Servine
+p1: Servine fainted

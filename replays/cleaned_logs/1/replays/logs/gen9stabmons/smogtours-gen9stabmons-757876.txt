@@ -1,0 +1,97 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Toxapex
+Turn 1:
+p1: Landorus-Therian used Stealth Rock on Toxapex
+p2: Toxapex used Mortal Spin on Landorus-Therian
+Turn 2:
+p2: Switched to Gliscor
+p1: Landorus-Therian used Stealth Rock on Gliscor
+Turn 3:
+p2: Gliscor failed to use Toxic
+p1: Landorus-Therian used U-turn on Gliscor
+p1: Switched to Kyurem
+Turn 4:
+p2: Switched to Sylveon
+p1: Kyurem used Freeze-Dry on Sylveon
+Turn 5:
+p1: Switched to Magnezone
+p2: Sylveon used Slack Off on Sylveon
+Turn 6:
+p2: Switched to Gliscor
+p1: Magnezone used Make It Rain on Gliscor
+p2: Gliscor fainted
+p2: Switched to Toxapex
+Turn 7:
+p1: Magnezone used Electro Drift on Toxapex
+p2: Toxapex used Infestation on Magnezone
+Turn 8:
+p1: Magnezone used Volt Switch on Toxapex
+p1: Switched to Toxapex
+p2: Toxapex used Flip Turn on Toxapex
+p2: Switched to Raging Bolt
+Turn 9:
+p2: Raging Bolt used Electro Drift on Toxapex
+p1: Toxapex used Flip Turn on Raging Bolt
+p1: Switched to Kyurem
+Turn 10:
+p2: Switched to Sylveon
+p1: Kyurem used Glacial Lance on Sylveon
+Turn 11:
+p1: Kyurem used Freeze-Dry on Sylveon
+p2: Sylveon fainted
+p2: Switched to Gholdengo
+Turn 12:
+p1: Switched to Toxapex
+p2: Gholdengo used Astral Barrage on Toxapex
+Turn 13:
+p1: Switched to Landorus-Therian
+p2: Gholdengo used Astral Barrage on Landorus-Therian
+p1: Landorus-Therian fainted
+p1: Switched to Iron Valiant
+Turn 14:
+p2: Switched to Raging Bolt
+p1: Iron Valiant used Knock Off on Raging Bolt
+Turn 15:
+p2: Raging Bolt used Thunderclap on Iron Valiant
+p1: Iron Valiant used Close Combat on Raging Bolt
+p2: Raging Bolt fainted
+p2: Switched to Greninja
+Turn 16:
+p1: Switched to Ogerpon-Wellspring
+p2: Greninja used Swords Dance on Greninja
+Turn 17:
+p1: Ogerpon-Wellspring used Jet Punch on Greninja
+p2: Greninja used Wicked Blow on Ogerpon-Wellspring
+p1: Ogerpon-Wellspring fainted
+p1: Switched to Toxapex
+Turn 18:
+p1: Switched to Iron Valiant
+p2: Greninja used Surging Strikes on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Magnezone
+Turn 19:
+p2: Greninja used Jet Punch on Magnezone
+p1: Magnezone fainted
+p1: Switched to Toxapex
+Turn 20:
+p2: Greninja used Wicked Blow on Toxapex
+p1: Toxapex used Clear Smog on Greninja
+Turn 21:
+p1: Switched to Kyurem
+p2: Greninja used Wicked Blow on Kyurem
+Turn 22:
+p1: Switched to Toxapex
+p2: Greninja used Wicked Blow on Toxapex
+Turn 23:
+p1: Switched to Kyurem
+p2: Greninja used Surging Strikes on Kyurem
+Turn 24:
+p2: Greninja used Surging Strikes on Kyurem
+p1: Kyurem fainted
+p1: Switched to Toxapex
+Turn 25:
+p2: Greninja used Wicked Blow on Toxapex
+p1: Toxapex used Scald on Greninja
+Turn 26:
+p2: Greninja used Wicked Blow on Toxapex
+p1: Toxapex fainted

@@ -1,0 +1,35 @@
+p1: Switched to Eternatus
+p2: Switched to Primarina
+Turn 1:
+p1: Eternatus used Sludge Bomb on Primarina
+p2: Primarina fainted
+p2: Switched to Gholdengo
+Turn 2:
+p1: Eternatus used Flamethrower on Gholdengo
+p2: Gholdengo used Nasty Plot on Gholdengo
+Turn 3:
+p1: Eternatus used Flamethrower on Gholdengo
+p2: Gholdengo fainted
+p2: Switched to Zacian-Crowned
+Turn 4:
+p1: Switched to Volcarona
+p2: Zacian-Crowned used Sacred Sword on Volcarona
+Turn 5:
+p2: Zacian-Crowned used Behemoth Blade on Volcarona
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 6:
+p1: Volcarona used Morning Sun on Volcarona
+p2: Zacian-Crowned used Fire Fang on Volcarona
+Turn 7:
+p2: Switched to Walking Wake
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 8:
+p1: Volcarona used Tera Blast on Walking Wake
+p2: Walking Wake fainted
+p2: Switched to Hatterene
+Turn 9:
+p1: Volcarona used Fiery Dance on Hatterene
+p2: Hatterene used Psychic on Volcarona
+Turn 10:
+p1: Volcarona used Fiery Dance on Hatterene
+p2: Hatterene fainted

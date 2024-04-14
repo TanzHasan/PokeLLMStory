@@ -1,0 +1,321 @@
+|j|☆Camosaur44
+|j|☆Pros and Noobs
+|t:|1711944818
+|gametype|doubles
+|player|p1|Camosaur44|102|1345
+|player|p2|Pros and Noobs|266|1471
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711944818
+|start
+|switch|p1a: Arceus|Arceus-Flying, L71|287/287
+|switch|p1b: Magearna|Magearna, L71|231/231
+|switch|p2a: Lilligant|Lilligant-Hisui, L83, F|252/252
+|switch|p2b: Dewgong|Dewgong, L91, M|312/312
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Camosaur44)
+|
+|t:|1711944845
+|move|p2b: Dewgong|Fake Out|p1b: Magearna
+|-resisted|p1b: Magearna
+|-damage|p1b: Magearna|218/231
+|move|p2a: Lilligant|Sleep Powder|p1a: Arceus
+|-status|p1a: Arceus|slp|[from] move: Sleep Powder
+|cant|p1a: Arceus|slp
+|cant|p1b: Magearna|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1711944875
+|switch|p1a: Toucannon|Toucannon, L88, F|284/284
+|move|p2a: Lilligant|Victory Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|atk|1
+|-boost|p2a: Lilligant|def|1
+|-boost|p2a: Lilligant|spe|1
+|move|p2b: Dewgong|Hydro Pump|p1b: Magearna
+|-damage|p1b: Magearna|116/231
+|move|p1b: Magearna|Trick Room|p1b: Magearna
+|-fieldstart|move: Trick Room|[of] p1b: Magearna
+|
+|upkeep
+|turn|3
+|inactive|Pros and Noobs has 120 seconds left.
+|
+|t:|1711944931
+|move|p1b: Magearna|Fleur Cannon|p2a: Lilligant
+|-supereffective|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|-unboost|p1b: Magearna|spa|2
+|faint|p2a: Lilligant
+|-ability|p1b: Magearna|Soul-Heart|boost
+|-boost|p1b: Magearna|spa|1
+|-damage|p1b: Magearna|93/231|[from] item: Life Orb
+|move|p1a: Toucannon|Bullet Seed|p2b: Dewgong
+|-supereffective|p2b: Dewgong
+|-crit|p2b: Dewgong
+|-damage|p2b: Dewgong|244/312
+|-supereffective|p2b: Dewgong
+|-damage|p2b: Dewgong|196/312
+|-supereffective|p2b: Dewgong
+|-damage|p2b: Dewgong|148/312
+|-enditem|p2b: Dewgong|Sitrus Berry|[eat]
+|-heal|p2b: Dewgong|226/312|[from] item: Sitrus Berry
+|-supereffective|p2b: Dewgong
+|-damage|p2b: Dewgong|180/312
+|-supereffective|p2b: Dewgong
+|-damage|p2b: Dewgong|132/312
+|-hitcount|p2b: Dewgong|5
+|move|p2b: Dewgong|Hydro Pump|p1b: Magearna
+|-damage|p1b: Magearna|0 fnt
+|faint|p1b: Magearna
+|
+|upkeep
+|
+|t:|1711944954
+|switch|p1b: Granbull|Granbull, L87, M|298/298
+|switch|p2a: Clodsire|Clodsire, L87, F|368/368
+|-ability|p1b: Granbull|Intimidate|boost
+|-unboost|p2a: Clodsire|atk|1
+|-unboost|p2b: Dewgong|atk|1
+|turn|4
+|inactive|Pros and Noobs has 120 seconds left.
+|
+|t:|1711944981
+|switch|p2b: Scyther|Scyther, L81, F|245/245
+|move|p2a: Clodsire|Gunk Shot|p1b: Granbull|[miss]
+|-miss|p2a: Clodsire|p1b: Granbull
+|move|p1b: Granbull|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|184/368
+|-enditem|p2a: Clodsire|Sitrus Berry|[eat]
+|-heal|p2a: Clodsire|276/368|[from] item: Sitrus Berry
+|move|p1a: Toucannon|Bullet Seed|p2b: Scyther
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|241/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|237/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|233/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|229/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|225/245
+|-hitcount|p2b: Scyther|5
+|
+|upkeep
+|turn|5
+|inactive|Pros and Noobs has 120 seconds left.
+|
+|t:|1711945016
+|-singleturn|p1a: Toucannon|move: Beak Blast
+|move|p2a: Clodsire|Gunk Shot|p1b: Granbull|[miss]
+|-miss|p2a: Clodsire|p1b: Granbull
+|move|p1b: Granbull|Super Fang|p2a: Clodsire
+|-damage|p2a: Clodsire|138/368
+|move|p2b: Scyther|Dual Wingbeat|p1b: Granbull
+|-damage|p1b: Granbull|226/298
+|-damage|p1b: Granbull|156/298
+|-hitcount|p1b: Granbull|2
+|move|p1a: Toucannon|Beak Blast|p2b: Scyther
+|-supereffective|p2b: Scyther
+|-damage|p2b: Scyther|13/245
+|
+|upkeep
+|turn|6
+|inactive|Camosaur44 has 120 seconds left.
+|
+|t:|1711945049
+|move|p2b: Scyther|Protect|p2b: Scyther
+|-singleturn|p2b: Scyther|Protect
+|move|p2a: Clodsire|Gunk Shot|p1b: Granbull
+|-supereffective|p1b: Granbull
+|-damage|p1b: Granbull|0 fnt
+|faint|p1b: Granbull
+|move|p1a: Toucannon|Bullet Seed|p2b: Scyther
+|-activate|p2b: Scyther|move: Protect
+|
+|-fieldend|move: Trick Room
+|upkeep
+|inactive|Camosaur44 has 120 seconds left.
+|
+|t:|1711945058
+|switch|p1b: Arceus|Arceus-Flying, L71|287/287 slp
+|turn|7
+|
+|t:|1711945066
+|move|p2b: Scyther|Tailwind|p2b: Scyther
+|-sidestart|p2: Pros and Noobs|move: Tailwind
+|-curestatus|p1b: Arceus|slp|[msg]
+|move|p1b: Arceus|Earth Power|p2a: Clodsire
+|-supereffective|p2a: Clodsire
+|-damage|p2a: Clodsire|40/368
+|move|p2a: Clodsire|Toxic Spikes|p1a: Toucannon
+|-sidestart|p1: Camosaur44|move: Toxic Spikes
+|move|p1a: Toucannon|Bullet Seed|p2b: Scyther
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|9/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|5/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|1/245
+|-resisted|p2b: Scyther
+|-damage|p2b: Scyther|0 fnt
+|faint|p2b: Scyther
+|-hitcount|p2: Scyther|4
+|
+|upkeep
+|inactive|Pros and Noobs has 120 seconds left.
+|
+|t:|1711945098
+|switch|p2b: Manaphy|Manaphy, L78|284/284
+|turn|8
+|
+|t:|1711945106
+|move|p2b: Manaphy|Tail Glow|p2b: Manaphy
+|-boost|p2b: Manaphy|spa|3
+|move|p1b: Arceus|Judgment|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|move|p1a: Toucannon|Bullet Seed|p2b: Manaphy
+|-supereffective|p2b: Manaphy
+|-damage|p2b: Manaphy|236/284
+|-supereffective|p2b: Manaphy
+|-damage|p2b: Manaphy|190/284
+|-supereffective|p2b: Manaphy
+|-damage|p2b: Manaphy|140/284
+|-supereffective|p2b: Manaphy
+|-damage|p2b: Manaphy|92/284
+|-supereffective|p2b: Manaphy
+|-damage|p2b: Manaphy|46/284
+|-hitcount|p2b: Manaphy|5
+|
+|-heal|p2b: Manaphy|63/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945115
+|switch|p2a: Dewgong|Dewgong, L91, M|132/312
+|turn|9
+|
+|t:|1711945128
+|move|p2a: Dewgong|Fake Out|p1a: Toucannon
+|-damage|p1a: Toucannon|254/284
+|move|p2b: Manaphy|Ice Beam|p1b: Arceus
+|-supereffective|p1b: Arceus
+|-crit|p1b: Arceus
+|-damage|p1b: Arceus|0 fnt
+|faint|p1b: Arceus
+|cant|p1a: Toucannon|flinch
+|
+|-heal|p2b: Manaphy|80/284|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945135
+|switch|p1b: Komala|Komala, L91, F|266/266
+|-ability|p1b: Komala|Comatose
+|turn|10
+|
+|t:|1711945148
+|move|p1a: Toucannon|Protect|p1a: Toucannon
+|-singleturn|p1a: Toucannon|Protect
+|move|p2b: Manaphy|Ice Beam|p1a: Toucannon
+|-activate|p1a: Toucannon|move: Protect
+|move|p2a: Dewgong|Icy Wind|p1a: Toucannon|[spread] p1b
+|-activate|p1a: Toucannon|move: Protect
+|-damage|p1b: Komala|242/266
+|-unboost|p1b: Komala|spe|1
+|move|p1b: Komala|Double-Edge|p2b: Manaphy
+|-damage|p2b: Manaphy|0 fnt
+|faint|p2b: Manaphy
+|-damage|p1b: Komala|216/266|[from] Recoil
+|
+|-sideend|p2: Pros and Noobs|move: Tailwind
+|upkeep
+|
+|t:|1711945150
+|switch|p2b: Uxie|Uxie, L87|272/272
+|turn|11
+|
+|t:|1711945172
+|move|p1b: Komala|Sucker Punch|p2b: Uxie
+|-supereffective|p2b: Uxie
+|-damage|p2b: Uxie|184/272
+|move|p2b: Uxie|Mystical Power|p1b: Komala
+|-damage|p1b: Komala|180/266
+|-boost|p2b: Uxie|spa|1
+|move|p2a: Dewgong|Encore|p1a: Toucannon
+|-start|p1a: Toucannon|Encore
+|move|p1a: Toucannon|Protect||[still]
+|-fail|p1a: Toucannon
+|
+|upkeep
+|turn|12
+|
+|t:|1711945200
+|move|p2b: Uxie|Helping Hand|p2a: Dewgong
+|-singleturn|p2a: Dewgong|Helping Hand|[of] p2b: Uxie
+|move|p1a: Toucannon|Protect|p1a: Toucannon
+|-singleturn|p1a: Toucannon|Protect
+|move|p2a: Dewgong|Hydro Pump|p1b: Komala|[miss]
+|-miss|p2a: Dewgong|p1b: Komala
+|move|p1b: Komala|Superpower|p2a: Dewgong
+|-supereffective|p2a: Dewgong
+|-damage|p2a: Dewgong|0 fnt
+|-unboost|p1b: Komala|atk|1
+|-unboost|p1b: Komala|def|1
+|faint|p2a: Dewgong
+|
+|upkeep
+|turn|13
+|
+|t:|1711945213
+|move|p1a: Toucannon|Protect||[still]
+|-fail|p1a: Toucannon
+|move|p1b: Komala|Sucker Punch|p2b: Uxie
+|-supereffective|p2b: Uxie
+|-damage|p2b: Uxie|114/272
+|-enditem|p2b: Uxie|Sitrus Berry|[eat]
+|-heal|p2b: Uxie|182/272|[from] item: Sitrus Berry
+|move|p2b: Uxie|Mystical Power|p1b: Komala
+|-damage|p1b: Komala|128/266
+|-boost|p2b: Uxie|spa|1
+|
+|-end|p1a: Toucannon|Encore
+|upkeep
+|turn|14
+|
+|t:|1711945241
+|-terastallize|p1a: Toucannon|Grass
+|move|p1b: Komala|Sucker Punch|p2b: Uxie
+|-supereffective|p2b: Uxie
+|-damage|p2b: Uxie|122/272
+|move|p2b: Uxie|Mystical Power|p1a: Toucannon
+|-damage|p1a: Toucannon|112/284
+|-boost|p2b: Uxie|spa|1
+|-enditem|p1a: Toucannon|Sitrus Berry|[eat]
+|-heal|p1a: Toucannon|183/284|[from] item: Sitrus Berry
+|move|p1a: Toucannon|Bullet Seed|p2b: Uxie
+|-damage|p2b: Uxie|97/272
+|-damage|p2b: Uxie|72/272
+|-damage|p2b: Uxie|48/272
+|-damage|p2b: Uxie|21/272
+|-damage|p2b: Uxie|0 fnt
+|faint|p2b: Uxie
+|-hitcount|p2: Uxie|5
+|
+|win|Camosaur44
+|raw|Camosaur44's rating: 1345 &rarr; <strong>1372</strong><br />(+27 for winning)
+|raw|Pros and Noobs's rating: 1471 &rarr; <strong>1444</strong><br />(-27 for losing)
+|l|☆Pros and Noobs
+|player|p2|
+|l|☆Camosaur44
+|player|p1|
+|j|☆Camosaur44
+|player|p1|Camosaur44|102

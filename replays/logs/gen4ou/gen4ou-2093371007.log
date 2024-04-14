@@ -1,0 +1,550 @@
+|j|☆Primesss
+|j|☆zionpledge
+|t:|1711946116
+|gametype|singles
+|player|p1|Primesss|lass-gen2|1321
+|player|p2|zionpledge|gentleman-gen4dp|1125
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711946116
+|start
+|switch|p1a: sample team andy|Zapdos|100/100
+|switch|p2a: Ninjask|Ninjask, M|100/100
+|-ability|p1a: sample team andy|Pressure
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Primesss)
+|
+|t:|1711946126
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|move|p1a: sample team andy|Thunderbolt|p2a: Umbreon
+|-damage|p2a: Umbreon|79/100
+|
+|-heal|p2a: Umbreon|85/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711946134
+|switch|p1a: Stepdad w/ belt|Breloom, M|100/100
+|move|p2a: Umbreon|Taunt|p1a: Stepdad w/ belt
+|-start|p1a: Stepdad w/ belt|move: Taunt
+|
+|-status|p1a: Stepdad w/ belt|tox|[from] item: Toxic Orb
+|-heal|p2a: Umbreon|91/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711946142
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Stepdad w/ belt|Focus Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|50/100
+|
+|-heal|p2a: Skarmory|56/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946158
+|switch|p1a: sample team andy|Zapdos|100/100
+|-ability|p1a: sample team andy|Pressure
+|move|p2a: Skarmory|Spikes|p1a: sample team andy
+|-sidestart|p1: Primesss|Spikes
+|
+|-heal|p2a: Skarmory|62/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946169
+|switch|p2a: Umbreon|Umbreon, F|91/100
+|move|p1a: sample team andy|Thunderbolt|p2a: Umbreon
+|-damage|p2a: Umbreon|71/100
+|
+|-heal|p2a: Umbreon|77/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711946185
+|move|p1a: sample team andy|Thunderbolt|p2a: Umbreon
+|-damage|p2a: Umbreon|58/100
+|-status|p2a: Umbreon|par
+|-status|p1a: sample team andy|par|[from] ability: Synchronize|[of] p2a: Umbreon
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|64/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711946203
+|cant|p1a: sample team andy|par
+|cant|p2a: Umbreon|par
+|
+|-heal|p2a: Umbreon|100/100 par|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|8
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946225
+|switch|p1a: Stepdad w/ belt|Breloom, M|100/100 tox
+|-damage|p1a: Stepdad w/ belt|88/100 tox|[from] Spikes
+|switch|p2a: Ninjask|Ninjask, M|100/100
+|
+|-heal|p1a: Stepdad w/ belt|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|9
+|
+|t:|1711946237
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|move|p2a: Ninjask|Substitute|p2a: Ninjask
+|-start|p2a: Ninjask|Substitute
+|-damage|p2a: Ninjask|76/100
+|move|p1a: Stepdad w/ belt|Focus Punch|p2a: Ninjask
+|-resisted|p2a: Ninjask
+|-end|p2a: Ninjask|Substitute
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711946249
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|move|p2a: Ninjask|X-Scissor|p1a: Stepdad w/ belt
+|-damage|p1a: Stepdad w/ belt|64/100 tox
+|move|p1a: Stepdad w/ belt|Focus Punch||[still]
+|cant|p1a: Stepdad w/ belt|Focus Punch|Focus Punch
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|88/100|[from] item: Leftovers
+|-heal|p1a: Stepdad w/ belt|76/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|11
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946272
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|move|p2a: Ninjask|Substitute|p2a: Ninjask
+|-start|p2a: Ninjask|Substitute
+|-damage|p2a: Ninjask|63/100
+|move|p1a: Stepdad w/ belt|Focus Punch|p2a: Ninjask
+|-resisted|p2a: Ninjask
+|-end|p2a: Ninjask|Substitute
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|69/100|[from] item: Leftovers
+|-heal|p1a: Stepdad w/ belt|89/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|12
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946283
+|move|p2a: Ninjask|X-Scissor|p1a: Stepdad w/ belt
+|-damage|p1a: Stepdad w/ belt|54/100 tox
+|move|p1a: Stepdad w/ belt|Spore|p2a: Ninjask
+|-status|p2a: Ninjask|slp|[from] move: Spore
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|75/100 slp|[from] item: Leftovers
+|-heal|p1a: Stepdad w/ belt|67/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|13
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946307
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|cant|p2a: Ninjask|slp
+|move|p1a: Stepdad w/ belt|Focus Punch|p2a: Ninjask
+|-resisted|p2a: Ninjask
+|-damage|p2a: Ninjask|34/100 slp
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|40/100 slp|[from] item: Leftovers
+|-heal|p1a: Stepdad w/ belt|79/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946344
+|-singleturn|p1a: Stepdad w/ belt|move: Focus Punch
+|switch|p2a: Skarmory|Skarmory, M|62/100
+|move|p1a: Stepdad w/ belt|Focus Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|12/100
+|
+|-heal|p1a: Stepdad w/ belt|92/100 tox|[from] ability: Poison Heal
+|-heal|p2a: Skarmory|18/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711946364
+|move|p1a: Stepdad w/ belt|Mach Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|3/100
+|move|p2a: Skarmory|Brave Bird|p1a: Stepdad w/ belt
+|-supereffective|p1a: Stepdad w/ belt
+|-damage|p1a: Stepdad w/ belt|0 fnt
+|faint|p1a: Stepdad w/ belt
+|-damage|p2a: Skarmory|0 fnt|[from] Recoil
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1711946375
+|switch|p1a: X gon give it 2 ya|Metagross, shiny|100/100
+|switch|p2a: Miltank|Miltank, F|100/100
+|-damage|p1a: X gon give it 2 ya|88/100|[from] Spikes
+|turn|16
+|
+|t:|1711946382
+|move|p2a: Miltank|Stealth Rock|p1a: X gon give it 2 ya
+|-sidestart|p1: Primesss|move: Stealth Rock
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Miltank
+|-damage|p2a: Miltank|61/100
+|
+|-heal|p2a: Miltank|67/100|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711946396
+|move|p1a: X gon give it 2 ya|Protect|p1a: X gon give it 2 ya
+|-singleturn|p1a: X gon give it 2 ya|Protect
+|move|p2a: Miltank|Earthquake|p1a: X gon give it 2 ya
+|-activate|p1a: X gon give it 2 ya|Protect
+|
+|-heal|p2a: Miltank|73/100|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|99/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711946404
+|move|p2a: Miltank|Body Slam|p1a: X gon give it 2 ya
+|-resisted|p1a: X gon give it 2 ya
+|-damage|p1a: X gon give it 2 ya|88/100
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Miltank
+|-damage|p2a: Miltank|29/100
+|
+|-heal|p2a: Miltank|35/100|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946417
+|move|p2a: Miltank|Milk Drink|p2a: Miltank
+|-heal|p2a: Miltank|85/100
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Miltank|[miss]
+|-miss|p1a: X gon give it 2 ya|p2a: Miltank
+|
+|-heal|p2a: Miltank|91/100|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|99/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946425
+|move|p2a: Miltank|Earthquake|p1a: X gon give it 2 ya
+|-supereffective|p1a: X gon give it 2 ya
+|-damage|p1a: X gon give it 2 ya|60/100
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Miltank
+|-damage|p2a: Miltank|46/100
+|-boost|p1a: X gon give it 2 ya|atk|1
+|
+|-heal|p2a: Miltank|52/100|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|66/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946439
+|switch|p2a: Ninjask|Ninjask, M|40/100 slp
+|move|p1a: X gon give it 2 ya|Protect||[still]
+|-fail|p1a: X gon give it 2 ya
+|
+|-heal|p2a: Ninjask|46/100 slp|[from] item: Leftovers
+|-heal|p1a: X gon give it 2 ya|72/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946452
+|cant|p2a: Ninjask|slp
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Ninjask
+|-damage|p2a: Ninjask|0 fnt
+|faint|p2a: Ninjask
+|
+|-heal|p1a: X gon give it 2 ya|79/100|[from] item: Leftovers
+|upkeep
+|inactive|zionpledge has 90 seconds left.
+|
+|t:|1711946458
+|switch|p2a: Raikou|Raikou, shiny|100/100
+|-ability|p2a: Raikou|Pressure
+|turn|23
+|
+|t:|1711946464
+|move|p1a: X gon give it 2 ya|Protect|p1a: X gon give it 2 ya
+|-singleturn|p1a: X gon give it 2 ya|Protect
+|move|p2a: Raikou|Shadow Ball|p1a: X gon give it 2 ya
+|-activate|p1a: X gon give it 2 ya|Protect
+|
+|-heal|p1a: X gon give it 2 ya|85/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711946471
+|move|p2a: Raikou|Shadow Ball|p1a: X gon give it 2 ya
+|-damage|p1a: X gon give it 2 ya|48/100
+|move|p1a: X gon give it 2 ya|Earthquake|p2a: Raikou
+|-supereffective|p2a: Raikou
+|-damage|p2a: Raikou|0 fnt
+|faint|p2a: Raikou
+|
+|-heal|p1a: X gon give it 2 ya|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946481
+|switch|p2a: Miltank|Miltank, F|52/100
+|turn|25
+|
+|t:|1711946484
+|move|p2a: Miltank|Earthquake|p1a: X gon give it 2 ya
+|-supereffective|p1a: X gon give it 2 ya
+|-damage|p1a: X gon give it 2 ya|11/100
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Miltank
+|-damage|p2a: Miltank|0 fnt
+|faint|p2a: Miltank
+|
+|-heal|p1a: X gon give it 2 ya|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946491
+|switch|p2a: Starmie|Starmie|100/100
+|turn|26
+|
+|t:|1711946497
+|move|p1a: X gon give it 2 ya|Protect|p1a: X gon give it 2 ya
+|-singleturn|p1a: X gon give it 2 ya|Protect
+|move|p2a: Starmie|Hydro Pump|p1a: X gon give it 2 ya|[miss]
+|-miss|p2a: Starmie|p1a: X gon give it 2 ya
+|
+|-heal|p1a: X gon give it 2 ya|24/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946504
+|switch|p1a: Smelvin|Blissey, F, shiny|100/100
+|-damage|p1a: Smelvin|88/100|[from] Spikes
+|-damage|p1a: Smelvin|76/100|[from] Stealth Rock
+|move|p2a: Starmie|Hydro Pump|p1a: Smelvin
+|-damage|p1a: Smelvin|50/100
+|-damage|p2a: Starmie|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Smelvin|56/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946515
+|switch|p2a: Umbreon|Umbreon, F|100/100 par
+|move|p1a: Smelvin|Soft-Boiled|p1a: Smelvin
+|-heal|p1a: Smelvin|100/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711946520
+|switch|p1a: Christmas Steve|Starmie|100/100
+|-damage|p1a: Christmas Steve|88/100|[from] Spikes
+|-damage|p1a: Christmas Steve|76/100|[from] Stealth Rock
+|move|p2a: Umbreon|Taunt|p1a: Christmas Steve
+|-start|p1a: Christmas Steve|move: Taunt
+|
+|-heal|p1a: Christmas Steve|82/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946538
+|move|p1a: Christmas Steve|Rapid Spin|p2a: Umbreon
+|-damage|p2a: Umbreon|98/100 par
+|-sideend|p1: Primesss|Spikes|[from] move: Rapid Spin|[of] p1a: Christmas Steve
+|-sideend|p1: Primesss|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Christmas Steve
+|move|p2a: Umbreon|Heal Bell|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Heal Bell
+|-curestatus|p2a: Umbreon|par|[silent]
+|
+|-heal|p1a: Christmas Steve|88/100|[from] item: Leftovers
+|-heal|p2a: Umbreon|100/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711946549
+|switch|p1a: Odium|Heatran, M|100/100
+|switch|p2a: Starmie|Starmie|91/100
+|
+|upkeep
+|turn|32
+|
+|t:|1711946555
+|move|p1a: Odium|Explosion|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p1a: Odium
+|faint|p2a: Starmie
+|
+|upkeep
+|
+|t:|1711946559
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|switch|p1a: X gon give it 2 ya|Metagross, shiny|24/100
+|turn|33
+|
+|t:|1711946568
+|move|p1a: X gon give it 2 ya|Protect|p1a: X gon give it 2 ya
+|-singleturn|p1a: X gon give it 2 ya|Protect
+|move|p2a: Umbreon|Taunt|p1a: X gon give it 2 ya
+|-activate|p1a: X gon give it 2 ya|Protect
+|
+|-heal|p1a: X gon give it 2 ya|30/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711946575
+|move|p1a: X gon give it 2 ya|Meteor Mash|p2a: Umbreon
+|-damage|p2a: Umbreon|58/100
+|move|p2a: Umbreon|Taunt|p1a: X gon give it 2 ya
+|-start|p1a: X gon give it 2 ya|move: Taunt
+|
+|-heal|p1a: X gon give it 2 ya|36/100|[from] item: Leftovers
+|-heal|p2a: Umbreon|64/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711946584
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: X gon give it 2 ya|Explosion|p2a: Umbreon
+|-activate|p2a: Umbreon|Protect
+|faint|p1a: X gon give it 2 ya
+|
+|-heal|p2a: Umbreon|70/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946594
+|switch|p1a: Smelvin|Blissey, F, shiny|100/100
+|turn|36
+|
+|t:|1711946599
+|move|p2a: Umbreon|Taunt|p1a: Smelvin
+|-start|p1a: Smelvin|move: Taunt
+|move|p1a: Smelvin|Flamethrower|p2a: Umbreon
+|-damage|p2a: Umbreon|60/100
+|
+|-heal|p2a: Umbreon|66/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1711946609
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Smelvin|Flamethrower|p2a: Umbreon
+|-damage|p2a: Umbreon|58/100
+|
+|-heal|p2a: Umbreon|64/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|c|☆Primesss|bro please just ff
+|c|☆Primesss|you cannot do damage
+|
+|t:|1711946630
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Smelvin|Flamethrower|p2a: Umbreon
+|-activate|p2a: Umbreon|Protect
+|
+|-heal|p2a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|39
+|c|☆zionpledge|i can go another 56 turns before struggle
+|inactive|zionpledge has 120 seconds left.
+|
+|t:|1711946664
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Smelvin|Flamethrower|p2a: Umbreon
+|-damage|p2a: Umbreon|91/100
+|
+|-heal|p2a: Umbreon|97/100|[from] item: Leftovers
+|-end|p1a: Smelvin|move: Taunt
+|upkeep
+|turn|40
+|inactive|Primesss has 120 seconds left.
+|
+|t:|1711946695
+|move|p2a: Umbreon|Taunt|p1a: Smelvin
+|-start|p1a: Smelvin|move: Taunt
+|move|p1a: Smelvin|Flamethrower|p2a: Umbreon
+|-damage|p2a: Umbreon|89/100
+|
+|-heal|p2a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|41
+|
+|t:|1711946709
+|switch|p1a: Christmas Steve|Starmie|88/100
+|move|p2a: Umbreon|Protect||[still]
+|-fail|p2a: Umbreon
+|
+|-heal|p1a: Christmas Steve|94/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|n|!Primesss|primesss
+|
+|t:|1711946725
+|switch|p1a: Smelvin|Blissey, F, shiny|100/100
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|upkeep
+|turn|43
+|
+|t:|1711946732
+|switch|p1a: Christmas Steve|Starmie|94/100
+|move|p2a: Umbreon|Taunt|p1a: Christmas Steve
+|-start|p1a: Christmas Steve|move: Taunt
+|
+|-heal|p1a: Christmas Steve|100/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1711946739
+|switch|p1a: Smelvin|Blissey, F, shiny|100/100
+|move|p2a: Umbreon|Taunt|p1a: Smelvin
+|-start|p1a: Smelvin|move: Taunt
+|
+|upkeep
+|turn|45
+|
+|t:|1711946744
+|switch|p1a: Christmas Steve|Starmie|100/100
+|move|p2a: Umbreon|Taunt|p1a: Christmas Steve
+|-start|p1a: Christmas Steve|move: Taunt
+|
+|upkeep
+|turn|46
+|-message|zionpledge forfeited.
+|
+|win|Primesss

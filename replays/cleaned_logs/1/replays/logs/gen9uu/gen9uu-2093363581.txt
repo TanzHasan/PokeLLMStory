@@ -1,0 +1,64 @@
+p1: Switched to Deoxys-Speed
+p2: Switched to Mandibuzz
+Turn 1:
+p1: Deoxys-Speed used Ice Beam on Mandibuzz
+p2: Mandibuzz used Knock Off on Deoxys-Speed
+Turn 2:
+p1: Switched to Tyranitar
+p2: Mandibuzz used Roost on Mandibuzz
+Turn 3:
+p2: Mandibuzz used Toxic on Tyranitar
+p1: Tyranitar used Stealth Rock on Mandibuzz
+Turn 4:
+p2: Mandibuzz used Defog on Tyranitar
+p1: Tyranitar used Knock Off on Mandibuzz
+Turn 5:
+p2: Mandibuzz used Knock Off on Tyranitar
+p1: Tyranitar used Thunder Wave on Mandibuzz
+Turn 6:
+p1: Tyranitar used Stealth Rock on Mandibuzz
+p2: Mandibuzz used Knock Off on Tyranitar
+Turn 7:
+p1: Switched to Excadrill
+p2: Mandibuzz used Defog on Excadrill
+Turn 8:
+p1: Excadrill used Swords Dance on Excadrill
+p2: Mandibuzz used Knock Off on Excadrill
+Turn 9:
+p2: Switched to Skeledirge
+p1: Excadrill used Rock Slide on Skeledirge
+Turn 10:
+p2: Switched to Ogerpon
+p1: Excadrill used Earthquake on Ogerpon
+Turn 11:
+p1: Switched to Mandibuzz
+p2: Ogerpon used Ivy Cudgel on Mandibuzz
+Turn 12:
+p2: Switched to Mandibuzz
+p1: Mandibuzz used Foul Play on Mandibuzz
+Turn 13:
+p1: Switched to Excadrill
+p2: Mandibuzz can't move
+Turn 14:
+p2: Switched to Hippowdon
+p1: Excadrill used Iron Head on Hippowdon
+Turn 15:
+p1: Excadrill used Swords Dance on Excadrill
+p2: Hippowdon used Stealth Rock on Excadrill
+Turn 16:
+p1: Excadrill used Earthquake on Hippowdon
+p2: Hippowdon used Whirlwind on Excadrill
+Turn 17:
+p1: Mandibuzz used Defog on Hippowdon
+p2: Hippowdon used Slack Off on Hippowdon
+Turn 18:
+p1: Switched to Latios
+p2: Hippowdon used Stealth Rock on Latios
+Turn 19:
+p2: Switched to Slowking
+p1: Latios used Surf on Slowking
+Turn 20:
+p1: Latios used Draco Meteor on Slowking
+p2: Slowking used Chilly Reception on Slowking
+p2: Switched to Mandibuzz
+Turn 21:

@@ -1,0 +1,53 @@
+p1: Switched to Gastly
+p2: Switched to Vullaby
+Turn 1:
+p1: Gastly used Dazzling Gleam on Vullaby
+p2: Vullaby used Knock Off on Gastly
+p1: Gastly fainted
+p1: Switched to Timburr
+Turn 2:
+p2: Vullaby used U-turn on Timburr
+p2: Switched to Gligar
+p1: Timburr used Ice Punch on Gligar
+Turn 3:
+p2: Gligar used Dual Wingbeat on Timburr
+p1: Timburr fainted
+p1: Switched to Elekid
+Turn 4:
+p1: Elekid used Volt Switch on Gligar
+p2: Gligar used U-turn on Elekid
+p2: Switched to Mienfoo
+Turn 5:
+p1: Elekid used Psychic on Mienfoo
+p2: Mienfoo used Knock Off on Elekid
+p1: Elekid fainted
+p1: Switched to Vullaby
+Turn 6:
+p2: Mienfoo used U-turn on Vullaby
+p2: Switched to Gligar
+p1: Vullaby used U-turn on Gligar
+p1: Switched to Glimmet
+Turn 7:
+p1: Glimmet used Power Gem on Gligar
+p2: Gligar fainted
+p2: Switched to Arrokuda
+Turn 8:
+p2: Arrokuda used Liquidation on Glimmet
+p1: Glimmet fainted
+p1: Switched to Vullaby
+Turn 9:
+p2: Arrokuda used Flip Turn on Vullaby
+p2: Switched to Sandshrew-Alola
+p1: Vullaby used Brave Bird on Sandshrew-Alola
+Turn 10:
+p2: Sandshrew-Alola used Ice Shard on Vullaby
+p1: Vullaby fainted
+p1: Switched to Growlithe-Hisui
+Turn 11:
+p2: Switched to Vullaby
+p1: Growlithe-Hisui used Head Smash on Vullaby
+p2: Vullaby fainted
+p2: Switched to Arrokuda
+Turn 12:
+p2: Arrokuda used Aqua Jet on Growlithe-Hisui
+p1: Growlithe-Hisui fainted

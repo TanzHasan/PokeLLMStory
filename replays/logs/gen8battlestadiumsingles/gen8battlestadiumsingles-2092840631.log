@@ -1,0 +1,147 @@
+|j|☆andrewsky19960
+|j|☆kalekagi
+|t:|1711875415
+|gametype|singles
+|player|p1|andrewsky19960|101|
+|player|p2|kalekagi|nate|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Chandelure, L50, F|
+|poke|p1|Avalugg, L50, F|
+|poke|p1|Aegislash, L50, M|
+|poke|p1|Type: Null, L50|
+|poke|p1|Inteleon, L50, F|
+|poke|p1|Urshifu-*, L50, F|
+|poke|p2|Tyrantrum, L50, M|
+|poke|p2|Celesteela, L50|
+|poke|p2|Tapu Fini, L50|
+|poke|p2|Grimmsnarl, L50, M|
+|poke|p2|Rotom-Heat, L50|
+|poke|p2|Seismitoad, L50, M|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by andrewsky19960)
+|
+|t:|1711875433
+|start
+|switch|p1a: Type: Null|Type: Null, L50|100/100
+|switch|p2a: 와몸매|Celesteela, L50|100/100
+|turn|1
+|
+|t:|1711875457
+|move|p2a: 와몸매|Flash Cannon|p1a: Type: Null
+|-damage|p1a: Type: Null|75/100
+|move|p1a: Type: Null|Thunder Wave|p2a: 와몸매
+|-status|p2a: 와몸매|par
+|
+|upkeep
+|turn|2
+|
+|t:|1711875469
+|move|p1a: Type: Null|Metal Sound|p2a: 와몸매
+|-unboost|p2a: 와몸매|spd|2
+|move|p2a: 와몸매|Flash Cannon|p1a: Type: Null
+|-damage|p1a: Type: Null|50/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711875480
+|move|p1a: Type: Null|Tri Attack|p2a: 와몸매
+|-resisted|p2a: 와몸매
+|-damage|p2a: 와몸매|66/100 par
+|move|p2a: 와몸매|Flash Cannon|p1a: Type: Null
+|-damage|p1a: Type: Null|26/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711875487
+|move|p1a: Type: Null|Tri Attack|p2a: 와몸매
+|-resisted|p2a: 와몸매
+|-damage|p2a: 와몸매|35/100 par
+|move|p2a: 와몸매|Flash Cannon|p1a: Type: Null
+|-damage|p1a: Type: Null|0 fnt
+|faint|p1a: Type: Null
+|-ability|p2a: 와몸매|Beast Boost|boost
+|-boost|p2a: 와몸매|spa|1
+|
+|upkeep
+|
+|t:|1711875492
+|switch|p1a: Inteleon|Inteleon, L50, F|100/100
+|turn|5
+|c|☆kalekagi|난수 ㅈ망겜 ㅋㅋ
+|
+|t:|1711875509
+|move|p1a: Inteleon|Focus Energy|p1a: Inteleon
+|-start|p1a: Inteleon|move: Focus Energy
+|cant|p2a: 와몸매|par
+|
+|upkeep
+|turn|6
+|c|☆andrewsky19960|ㅅㄱ
+|
+|t:|1711875522
+|move|p1a: Inteleon|Agility|p1a: Inteleon
+|-boost|p1a: Inteleon|spe|2
+|move|p2a: 와몸매|Flash Cannon|p1a: Inteleon
+|-resisted|p1a: Inteleon
+|-damage|p1a: Inteleon|49/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711875531
+|-start|p1a: Inteleon|Dynamax|
+|-heal|p1a: Inteleon|49/100|[silent]
+|move|p1a: Inteleon|Max Geyser|p2a: 와몸매
+|-damage|p2a: 와몸매|0 fnt
+|-weather|RainDance
+|faint|p2a: 와몸매
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆andrewsky19960|망겜
+|c|☆andrewsky19960|이거
+|
+|t:|1711875544
+|switch|p2a: 채혁진|Seismitoad, L50, M|100/100
+|turn|8
+|c|☆andrewsky19960|급류인데
+|c|☆andrewsky19960|노력치안줘도 버티네
+|inactive|kalekagi has 30 seconds left.
+|inactive|kalekagi has 20 seconds left.
+|c|☆andrewsky19960|수업이다
+|
+|t:|1711875582
+|-start|p2a: 채혁진|Dynamax|
+|-heal|p2a: 채혁진|100/100|[silent]
+|move|p1a: Inteleon|Max Geyser|p2a: 채혁진
+|-crit|p2a: 채혁진
+|-damage|p2a: 채혁진|0 fnt
+|faint|p2a: 채혁진
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆andrewsky19960|ㅃㄹㅃㄹ
+|
+|t:|1711875591
+|switch|p2a: 궁극의전도티라노|Tyrantrum, L50, M|100/100
+|turn|9
+|c|☆andrewsky19960|ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+|c|☆andrewsky19960|정신나겄네
+|c|☆kalekagi|으아아야약
+|c|☆andrewsky19960|이맛에
+|
+|t:|1711875607
+|move|p1a: Inteleon|Max Geyser|p2a: 궁극의전도티라노
+|-damage|p2a: 궁극의전도티라노|0 fnt
+|faint|p2a: 궁극의전도티라노
+|
+|win|andrewsky19960
+|c|☆andrewsky19960|인텔쓴다

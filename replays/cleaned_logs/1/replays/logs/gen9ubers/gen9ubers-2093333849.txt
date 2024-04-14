@@ -1,0 +1,120 @@
+p1: Switched to Kyogre
+p2: Switched to Koraidon
+Turn 1:
+p2: Switched to Ting-Lu
+p1: Kyogre used Ice Beam on Ting-Lu
+Turn 2:
+p1: Kyogre used Thunder Wave on Ting-Lu
+p2: Ting-Lu used Ruination on Kyogre
+Turn 3:
+p1: Kyogre used Origin Pulse on Ting-Lu
+p2: Ting-Lu fainted
+p2: Switched to Koraidon
+Turn 4:
+p1: Switched to Koraidon
+p2: Koraidon used Collision Course on Koraidon
+Turn 5:
+p1: Switched to Kyogre
+p2: Koraidon used Dragon Claw on Kyogre
+Turn 6:
+p2: Switched to Dragonite
+p1: Kyogre used Origin Pulse on Dragonite
+Turn 7:
+p1: Switched to Arceus
+p2: Dragonite used Extreme Speed on Arceus
+Turn 8:
+p2: Switched to Landorus-Therian
+p1: Arceus used Extreme Speed on Landorus-Therian
+Turn 9:
+p1: Arceus used Swords Dance on Arceus
+p2: Landorus-Therian used Stealth Rock on Arceus
+Turn 10:
+p1: Arceus used Swords Dance on Arceus
+p2: Landorus-Therian used Taunt on Arceus
+Turn 11:
+p1: Arceus used Extreme Speed on Landorus-Therian
+p2: Landorus-Therian used Earthquake on Arceus
+Turn 12:
+p1: Arceus used Extreme Speed on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Flutter Mane
+Turn 13:
+p1: Switched to Necrozma-Dusk-Mane
+p2: Flutter Mane used Moonblast on Necrozma-Dusk-Mane
+Turn 14:
+p2: Switched to Koraidon
+p1: Necrozma-Dusk-Mane used Sunsteel Strike on Koraidon
+Turn 15:
+p1: Switched to Kyogre
+p2: Koraidon used Flame Charge on Kyogre
+Turn 16:
+p2: Switched to Dragonite
+p1: Kyogre used Origin Pulse on Dragonite
+Turn 17:
+p1: Switched to Arceus
+p2: Dragonite used Extreme Speed on Arceus
+Turn 18:
+p2: Dragonite used Extreme Speed on Arceus
+p1: Arceus fainted
+p1: Switched to Landorus-Therian
+Turn 19:
+p2: Dragonite used Dragon Dance on Dragonite
+p1: Landorus-Therian used U-turn on Dragonite
+p1: Switched to Necrozma-Dusk-Mane
+Turn 20:
+p2: Dragonite used Fire Punch on Necrozma-Dusk-Mane
+p1: Necrozma-Dusk-Mane used Dragon Dance on Necrozma-Dusk-Mane
+Turn 21:
+p2: Dragonite used Fire Punch on Necrozma-Dusk-Mane
+p1: Necrozma-Dusk-Mane used Knock Off on Dragonite
+p2: Dragonite fainted
+p2: Switched to Flutter Mane
+Turn 22:
+p2: Flutter Mane used Thunderbolt on Necrozma-Dusk-Mane
+p1: Necrozma-Dusk-Mane used Moonlight on Necrozma-Dusk-Mane
+Turn 23:
+p2: Flutter Mane used Thunderbolt on Necrozma-Dusk-Mane
+p1: Necrozma-Dusk-Mane can't move
+Turn 24:
+p1: Switched to Ting-Lu
+p2: Flutter Mane used Thunderbolt on Ting-Lu
+Turn 25:
+p2: Switched to Koraidon
+p1: Ting-Lu used Whirlwind on Koraidon
+Turn 26:
+p2: Flutter Mane used Moonblast on Ting-Lu
+p1: Ting-Lu used Ruination on Flutter Mane
+Turn 27:
+p2: Switched to Koraidon
+p1: Ting-Lu used Ruination on Koraidon
+Turn 28:
+p2: Koraidon used Swords Dance on Koraidon
+p1: Ting-Lu used Spikes on Koraidon
+Turn 29:
+p2: Koraidon used Swords Dance on Koraidon
+p1: Ting-Lu used Whirlwind on Koraidon
+Turn 30:
+p2: Switched to Koraidon
+p1: Ting-Lu used Ruination on Koraidon
+Turn 31:
+p1: Switched to Kyogre
+p2: Koraidon used Collision Course on Kyogre
+p1: Kyogre fainted
+p1: Switched to Landorus-Therian
+Turn 32:
+p2: Switched to Flutter Mane
+p1: Landorus-Therian used Earthquake on Flutter Mane
+p2: Flutter Mane fainted
+p2: Switched to Koraidon
+Turn 33:
+p2: Koraidon used Dragon Claw on Landorus-Therian
+p1: Landorus-Therian used Earthquake on Koraidon
+p2: Koraidon fainted
+p2: Switched to Scovillain
+Turn 34:
+p2: Scovillain failed to use Solar Beam
+p1: Landorus-Therian fainted
+p1: Switched to Koraidon
+Turn 35:
+p1: Koraidon used Flare Blitz on Scovillain
+p2: Scovillain fainted

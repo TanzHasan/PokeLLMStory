@@ -1,0 +1,478 @@
+|j|☆supersayandraft
+|j|☆barbie rockstar
+|t:|1711912351
+|gametype|singles
+|player|p1|supersayandraft|169|
+|player|p2|barbie rockstar|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711912351
+|start
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|turn|1
+|c|☆barbie rockstar|hf
+|c|☆supersayandraft|hf
+|
+|t:|1711912377
+|move|p2a: Aerodactyl|Ancient Power|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-damage|p1a: Alakazam|27/100
+|move|p1a: Alakazam|Psychic|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|52/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711912385
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|move|p2a: Aerodactyl|Ancient Power|p1a: Azumarill
+|-damage|p1a: Azumarill|76/100
+|
+|-heal|p1a: Azumarill|83/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711912394
+|switch|p2a: Hypno|Hypno, M|100/100
+|move|p1a: Azumarill|Whirlpool|p2a: Hypno
+|-damage|p2a: Hypno|98/100
+|-activate|p2a: Hypno|move: Whirlpool|[of] p1a: Azumarill
+|
+|-damage|p2a: Hypno|91/100|[from] move: Whirlpool|[partiallytrapped]
+|-heal|p1a: Azumarill|89/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711912403
+|move|p2a: Hypno|Thunder Punch|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|61/100
+|move|p1a: Azumarill|Perish Song|p1a: Azumarill
+|-start|p1a: Azumarill|perish3|[silent]
+|-start|p2a: Hypno|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-damage|p2a: Hypno|85/100|[from] move: Whirlpool|[partiallytrapped]
+|-start|p2a: Hypno|perish3
+|-start|p1a: Azumarill|perish3
+|-heal|p1a: Azumarill|67/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|c|☆barbie rockstar|sans deconner ?
+|
+|t:|1711912418
+|move|p2a: Hypno|Thunder Punch|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|37/100
+|move|p1a: Azumarill|Rest|p1a: Azumarill
+|-status|p1a: Azumarill|slp|[from] move: Rest
+|-heal|p1a: Azumarill|100/100 slp|[silent]
+|
+|-damage|p2a: Hypno|79/100|[from] move: Whirlpool|[partiallytrapped]
+|-start|p2a: Hypno|perish2
+|-start|p1a: Azumarill|perish2
+|upkeep
+|turn|6
+|
+|t:|1711912432
+|move|p2a: Hypno|Thunder Punch|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|73/100 slp
+|cant|p1a: Azumarill|slp
+|
+|-damage|p2a: Hypno|73/100|[from] move: Whirlpool|[partiallytrapped]
+|-start|p2a: Hypno|perish1
+|-start|p1a: Azumarill|perish1
+|-heal|p1a: Azumarill|79/100 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711912445
+|switch|p1a: Raichu|Raichu, M|100/100
+|move|p2a: Hypno|Psychic|p1a: Raichu
+|-damage|p1a: Raichu|70/100
+|
+|-end|p2a: Hypno|Whirlpool|[partiallytrapped]
+|-start|p2a: Hypno|perish0
+|upkeep
+|faint|p2a: Hypno
+|
+|t:|1711912453
+|switch|p2a: Aerodactyl|Aerodactyl, M|52/100
+|turn|8
+|
+|t:|1711912465
+|switch|p1a: Azumarill|Azumarill, M|79/100 slp
+|move|p2a: Aerodactyl|Earthquake|p1a: Azumarill
+|-damage|p1a: Azumarill|55/100 slp
+|
+|-heal|p1a: Azumarill|62/100 slp|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711912475
+|switch|p2a: Lanturn|Lanturn, M|100/100
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Rest|p1a: Azumarill|[from]Sleep Talk
+|-status|p1a: Azumarill|slp|[from] move: Rest
+|-heal|p1a: Azumarill|100/100 slp|[silent]
+|
+|upkeep
+|turn|10
+|
+|t:|1711912488
+|switch|p1a: Victreebel|Victreebel, M|100/100
+|move|p2a: Lanturn|Thunderbolt|p1a: Victreebel
+|-resisted|p1a: Victreebel
+|-damage|p1a: Victreebel|80/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711912501
+|switch|p2a: Jumpluff|Jumpluff, M|100/100
+|move|p1a: Victreebel|Substitute|p1a: Victreebel
+|-start|p1a: Victreebel|Substitute
+|-damage|p1a: Victreebel|55/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711912508
+|move|p2a: Jumpluff|Hidden Power|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-end|p1a: Victreebel|Substitute
+|move|p1a: Victreebel|Sludge Bomb|p2a: Jumpluff
+|-supereffective|p2a: Jumpluff
+|-damage|p2a: Jumpluff|3/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711912522
+|switch|p1a: Raichu|Raichu, M|70/100
+|move|p2a: Jumpluff|Hidden Power|p1a: Raichu
+|-crit|p1a: Raichu
+|-resisted|p1a: Raichu
+|-damage|p1a: Raichu|43/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711912534
+|move|p2a: Jumpluff|Giga Drain|p1a: Raichu
+|-damage|p1a: Raichu|24/100
+|-heal|p2a: Jumpluff|11/100|[from] drain|[of] p1a: Raichu
+|move|p1a: Raichu|Thunderbolt|p2a: Jumpluff
+|-damage|p2a: Jumpluff|0 fnt
+|faint|p2a: Jumpluff
+|
+|t:|1711912541
+|switch|p2a: Aerodactyl|Aerodactyl, M|52/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711912546
+|switch|p1a: Azumarill|Azumarill, M|100/100 slp
+|move|p2a: Aerodactyl|Earthquake|p1a: Azumarill
+|-damage|p1a: Azumarill|79/100 slp
+|
+|-heal|p1a: Azumarill|85/100 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711912553
+|switch|p2a: Lanturn|Lanturn, M|100/100
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Whirlpool|p2a: Lanturn|[from]Sleep Talk
+|-resisted|p2a: Lanturn
+|-damage|p2a: Lanturn|99/100
+|-activate|p2a: Lanturn|move: Whirlpool|[of] p1a: Azumarill
+|
+|-damage|p2a: Lanturn|93/100|[from] move: Whirlpool|[partiallytrapped]
+|-heal|p1a: Azumarill|92/100 slp|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711912565
+|switch|p1a: Victreebel|Victreebel, M|55/100
+|move|p2a: Lanturn|Thunderbolt|p1a: Victreebel
+|-resisted|p1a: Victreebel
+|-damage|p1a: Victreebel|35/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711912594
+|move|p1a: Victreebel|Giga Drain|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-damage|p2a: Lanturn|53/100
+|-heal|p1a: Victreebel|60/100|[from] drain|[of] p2a: Lanturn
+|move|p2a: Lanturn|Ice Beam|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|16/100
+|-status|p1a: Victreebel|frz
+|
+|-curestatus|p1a: Victreebel|frz|[msg]
+|upkeep
+|turn|19
+|c|☆supersayandraft|l'ascensceur émotionnel
+|
+|t:|1711912633
+|move|p1a: Victreebel|Sleep Powder|p2a: Lanturn
+|-status|p2a: Lanturn|slp|[from] move: Sleep Powder
+|cant|p2a: Lanturn|slp
+|
+|upkeep
+|turn|20
+|
+|t:|1711912651
+|switch|p2a: Aerodactyl|Aerodactyl, M|52/100
+|move|p1a: Victreebel|Giga Drain|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|26/100
+|-heal|p1a: Victreebel|29/100|[from] drain|[of] p2a: Aerodactyl
+|
+|upkeep
+|turn|21
+|
+|t:|1711912660
+|switch|p1a: Azumarill|Azumarill, M|92/100 slp
+|move|p2a: Aerodactyl|Hidden Power|p1a: Azumarill
+|-damage|p1a: Azumarill|67/100 slp
+|
+|-heal|p1a: Azumarill|74/100 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711912672
+|move|p2a: Aerodactyl|Ancient Power|p1a: Azumarill
+|-damage|p1a: Azumarill|50/100 slp
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Whirlpool|p2a: Aerodactyl|[from]Sleep Talk
+|-crit|p2a: Aerodactyl
+|-supereffective|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|9/100
+|-activate|p2a: Aerodactyl|move: Whirlpool|[of] p1a: Azumarill
+|
+|-damage|p2a: Aerodactyl|3/100|[from] move: Whirlpool|[partiallytrapped]
+|-heal|p1a: Azumarill|56/100 slp|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711912684
+|-curestatus|p1a: Azumarill|slp|[msg]
+|move|p1a: Azumarill|Rest|p1a: Azumarill
+|-status|p1a: Azumarill|slp|[from] move: Rest
+|-heal|p1a: Azumarill|100/100 slp|[silent]
+|move|p2a: Aerodactyl|Roar|p1a: Azumarill
+|drag|p1a: Victreebel|Victreebel, M|29/100
+|
+|upkeep
+|turn|24
+|
+|t:|1711912698
+|switch|p1a: Azumarill|Azumarill, M|100/100 slp
+|move|p2a: Aerodactyl|Hidden Power|p1a: Azumarill
+|-damage|p1a: Azumarill|75/100 slp
+|
+|-heal|p1a: Azumarill|81/100 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711912714
+|move|p2a: Aerodactyl|Ancient Power|p1a: Azumarill
+|-damage|p1a: Azumarill|60/100 slp
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Whirlpool|p2a: Aerodactyl|[from]Sleep Talk
+|-supereffective|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|c|☆supersayandraft|le azu des enfers
+|
+|t:|1711912725
+|switch|p2a: Lanturn|Lanturn, M|53/100 slp
+|
+|-heal|p1a: Azumarill|66/100 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|j| Jotape90
+|
+|t:|1711912737
+|switch|p1a: Hitmonlee|Hitmonlee, M|100/100
+|-curestatus|p2a: Lanturn|slp|[msg]
+|move|p2a: Lanturn|Thunderbolt|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|70/100
+|
+|upkeep
+|turn|27
+|
+|t:|1711912746
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Lanturn
+|-damage|p2a: Lanturn|16/100
+|move|p2a: Lanturn|Surf|p1a: Hitmonlee
+|-damage|p1a: Hitmonlee|41/100
+|
+|upkeep
+|turn|28
+|
+|t:|1711912758
+|move|p1a: Hitmonlee|High Jump Kick|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|
+|t:|1711912764
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711912771
+|switch|p1a: Azumarill|Azumarill, M|66/100 slp
+|move|p2a: Arcanine|Flamethrower|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|48/100 slp
+|
+|-heal|p1a: Azumarill|54/100 slp|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆barbie rockstar|j'avais oublié que la gen 2 ecourageait a ne pas jouer
+|c|☆barbie rockstar|c'etait super
+|c|☆barbie rockstar|ni fun ni plaisir
+|c|☆supersayandraft|ah clairement la gen 2 c'est l'anti fun ultime
+|
+|t:|1711912818
+|move|p2a: Arcanine|Hidden Power|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|23/100 slp
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Rest|p1a: Azumarill|[from]Sleep Talk
+|-status|p1a: Azumarill|slp|[from] move: Rest
+|-heal|p1a: Azumarill|100/100 slp|[silent]
+|
+|upkeep
+|turn|31
+|c|☆barbie rockstar|BAH LE FAIS PAS
+|
+|t:|1711912838
+|move|p2a: Arcanine|Hidden Power|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|70/100 slp
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Perish Song|p1a: Azumarill|[from]Sleep Talk
+|-start|p1a: Azumarill|perish3|[silent]
+|-start|p2a: Arcanine|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-start|p2a: Arcanine|perish3
+|-start|p1a: Azumarill|perish3
+|-heal|p1a: Azumarill|76/100 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|c|☆barbie rockstar|JOUE AUTRE CHOSE
+|
+|t:|1711912850
+|move|p2a: Arcanine|Hidden Power|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|16/100 slp
+|cant|p1a: Azumarill|slp
+|move|p1a: Azumarill|Sleep Talk|p1a: Azumarill
+|move|p1a: Azumarill|Perish Song|p1a: Azumarill|[from]Sleep Talk
+|-fail|p1a: Azumarill
+|
+|-start|p2a: Arcanine|perish2
+|-start|p1a: Azumarill|perish2
+|-heal|p1a: Azumarill|22/100 slp|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711912869
+|move|p2a: Arcanine|Hidden Power|p1a: Azumarill
+|-supereffective|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|t:|1711912878
+|switch|p1a: Dodrio|Dodrio, M|100/100
+|
+|-start|p2a: Arcanine|perish1
+|upkeep
+|turn|34
+|
+|t:|1711912886
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dodrio|Double-Edge|p2a: Blissey
+|-damage|p2a: Blissey|43/100
+|-damage|p1a: Dodrio|69/100|[from] Recoil|[of] p2a: Blissey
+|
+|-heal|p2a: Blissey|50/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711912897
+|move|p1a: Dodrio|Double-Edge|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|-damage|p1a: Dodrio|42/100|[from] Recoil|[of] p2a: Blissey
+|faint|p2a: Blissey
+|
+|t:|1711912905
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|
+|upkeep
+|turn|36
+|
+|t:|1711912909
+|move|p1a: Dodrio|Double-Edge|p2a: Arcanine
+|-damage|p2a: Arcanine|52/100
+|-damage|p1a: Dodrio|29/100|[from] Recoil|[of] p2a: Arcanine
+|move|p2a: Arcanine|Flamethrower|p1a: Dodrio
+|-damage|p1a: Dodrio|0 fnt
+|faint|p1a: Dodrio
+|
+|t:|1711912921
+|switch|p1a: Alakazam|Alakazam, M|27/100
+|
+|upkeep
+|turn|37
+|l| Jotape90
+|
+|t:|1711912943
+|move|p1a: Alakazam|Psychic|p2a: Arcanine
+|-damage|p2a: Arcanine|3/100
+|move|p2a: Arcanine|Flamethrower|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|t:|1711912949
+|switch|p1a: Raichu|Raichu, M|24/100
+|
+|upkeep
+|turn|38
+|
+|t:|1711912964
+|move|p1a: Raichu|Thunderbolt|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|win|supersayandraft
+|l|☆barbie rockstar
+|player|p2|

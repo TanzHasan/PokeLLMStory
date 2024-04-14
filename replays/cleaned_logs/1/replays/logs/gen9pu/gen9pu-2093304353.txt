@@ -1,0 +1,115 @@
+p1: Switched to Hitmonchan
+p2: Switched to Jolteon
+Turn 1:
+p2: Jolteon used Volt Switch on Hitmonchan
+p2: Switched to Malamar
+p1: Hitmonchan used Drain Punch on Malamar
+Turn 2:
+p1: Switched to Cramorant
+p2: Malamar used Tera Blast on Cramorant
+Turn 3:
+p2: Malamar used Knock Off on Cramorant
+p1: Cramorant fainted
+p1: Switched to Typhlosion
+Turn 4:
+p2: Switched to Porygon2
+p1: Typhlosion used Eruption on Porygon2
+Turn 5:
+p1: Switched to Hitmonchan
+p2: Porygon2 used Thunder Wave on Hitmonchan
+Turn 6:
+p2: Switched to Malamar
+p1: Hitmonchan can't move
+Turn 7:
+p2: Malamar used Tera Blast on Hitmonchan
+p1: Hitmonchan used Drain Punch on Malamar
+Turn 8:
+p1: Switched to Skuntank
+p2: Malamar used Tera Blast on Skuntank
+Turn 9:
+p2: Malamar used Substitute on Malamar
+p1: Skuntank used Knock Off on Malamar
+Turn 10:
+p1: Skuntank used Sucker Punch on Malamar
+p2: Malamar fainted
+p2: Switched to Hariyama
+Turn 11:
+p1: Switched to Palossand
+p2: Hariyama used Drain Punch on Palossand
+Turn 12:
+p2: Switched to Sceptile
+p1: Palossand used Stealth Rock on Sceptile
+Turn 13:
+p1: Switched to Whimsicott
+p2: Sceptile used Scale Shot on Whimsicott
+Turn 14:
+p2: Sceptile used Bullet Seed on Whimsicott
+p1: Whimsicott used U-turn on Sceptile
+p1: Switched to Typhlosion
+Turn 15:
+p1: Switched to Hitmonchan
+p2: Switched to Porygon2
+Turn 16:
+p2: Switched to Hariyama
+p1: Hitmonchan used Drain Punch on Hariyama
+Turn 17:
+p1: Switched to Palossand
+p2: Hariyama used Belly Drum on Hariyama
+Turn 18:
+p2: Hariyama used Knock Off on Palossand
+p1: Palossand fainted
+p1: Switched to Typhlosion
+Turn 19:
+p2: Hariyama used Bullet Punch on Typhlosion
+p1: Typhlosion used Overheat on Hariyama
+p2: Hariyama fainted
+p2: Switched to Jolteon
+Turn 20:
+p1: Switched to Whimsicott
+p2: Jolteon used Volt Switch on Whimsicott
+p2: Switched to Porygon2
+Turn 21:
+p2: Porygon2 used Thunder Wave on Whimsicott
+p1: Whimsicott used U-turn on Porygon2
+p1: Switched to Hitmonchan
+Turn 22:
+p2: Switched to Jolteon
+p1: Hitmonchan used Drain Punch on Jolteon
+Turn 23:
+p2: Jolteon used Thunderbolt on Hitmonchan
+p1: Hitmonchan used Rapid Spin on Jolteon
+p2: Jolteon fainted
+p2: Switched to Sceptile
+Turn 24:
+p1: Switched to Whimsicott
+p2: Sceptile used Swords Dance on Sceptile
+Turn 25:
+p1: Whimsicott used Encore on Sceptile
+p2: Sceptile used Swords Dance on Sceptile
+Turn 26:
+p2: Sceptile used Swords Dance on Sceptile
+p1: Whimsicott used U-turn on Sceptile
+p1: Switched to Skuntank
+Turn 27:
+p2: Sceptile used Swords Dance on Sceptile
+p1: Skuntank used Knock Off on Sceptile
+p2: Sceptile fainted
+p2: Switched to Typhlosion
+Turn 28:
+p1: Skuntank used Sucker Punch on Typhlosion
+p2: Typhlosion used Scorching Sands on Skuntank
+Turn 29:
+p1: Switched to Hitmonchan
+p2: Typhlosion used Scorching Sands on Hitmonchan
+Turn 30:
+p2: Typhlosion used Scorching Sands on Hitmonchan
+p1: Hitmonchan used Drain Punch on Typhlosion
+p2: Typhlosion fainted
+p2: Switched to Porygon2
+Turn 31:
+p2: Porygon2 used Tri Attack on Hitmonchan
+p1: Hitmonchan used Drain Punch on Porygon2
+Turn 32:
+p2: Porygon2 used Tri Attack on Hitmonchan
+p1: Hitmonchan used Knock Off on Porygon2
+p2: Porygon2 fainted

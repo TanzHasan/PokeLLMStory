@@ -1,0 +1,86 @@
+p1: Switched to Uxie
+p2: Switched to Nidoqueen
+Turn 1:
+p1: Uxie used Stealth Rock on Nidoqueen
+p2: Nidoqueen used Toxic Spikes on Uxie
+Turn 2:
+p2: Switched to Magnezone
+p1: Uxie used Psychic on Magnezone
+Turn 3:
+p2: Magnezone used Magnet Rise on Magnezone
+p1: Uxie used Yawn on Magnezone
+Turn 4:
+p2: Switched to Latias
+p1: Uxie used Psychic on Latias
+Turn 5:
+p2: Latias used Draco Meteor on Uxie
+p1: Uxie used U-turn on Latias
+p1: Switched to Scizor
+Turn 6:
+p1: Scizor used Pursuit on Latias
+p2: Latias fainted
+p2: Switched to Gastrodon-East
+Turn 7:
+p1: Switched to Suicune
+p2: Gastrodon-East used Curse on Gastrodon-East
+Turn 8:
+p1: Suicune used Calm Mind on Suicune
+p2: Gastrodon-East used Earthquake on Suicune
+Turn 9:
+p1: Suicune used Ice Beam on Gastrodon-East
+p2: Gastrodon-East used Earthquake on Suicune
+p1: Suicune fainted
+p1: Switched to Lucario
+Turn 10:
+p1: Lucario used Swords Dance on Lucario
+p2: Gastrodon-East used Earthquake on Lucario
+p1: Lucario fainted
+p1: Switched to Dragonite
+Turn 11:
+p1: Dragonite used Draco Meteor on Gastrodon-East
+p2: Gastrodon-East used Waterfall on Dragonite
+Turn 12:
+p2: Switched to Jirachi
+p1: Dragonite used Draco Meteor on Jirachi
+Turn 13:
+p2: Jirachi used Psychic on Dragonite
+p1: Dragonite used Earthquake on Jirachi
+Turn 14:
+p2: Jirachi used Thunderbolt on Dragonite
+p1: Dragonite fainted
+p1: Switched to Flygon
+Turn 15:
+p1: Flygon used Earthquake on Jirachi
+p2: Jirachi fainted
+p2: Switched to Clefable
+Turn 16:
+p1: Switched to Uxie
+p2: Clefable used Ice Beam on Uxie
+Turn 17:
+p1: Uxie used Yawn on Clefable
+p2: Clefable used Knock Off on Uxie
+Turn 18:
+p2: Switched to Magnezone
+p1: Uxie used U-turn on Magnezone
+p1: Switched to Flygon
+Turn 19:
+p2: Switched to Gastrodon-East
+p1: Flygon used Earthquake on Gastrodon-East
+p2: Gastrodon-East fainted
+p2: Switched to Nidoqueen
+Turn 20:
+p1: Flygon used Earthquake on Nidoqueen
+p2: Nidoqueen used Ice Beam on Flygon
+p1: Flygon fainted
+p1: Switched to Uxie
+Turn 21:
+p1: Uxie used Psychic on Nidoqueen
+p2: Nidoqueen fainted
+p2: Switched to Magnezone
+Turn 22:
+p2: Magnezone used Thunderbolt on Uxie
+p1: Uxie fainted
+p1: Switched to Scizor
+Turn 23:
+p2: Magnezone used Hidden Power on Scizor
+p1: Scizor fainted

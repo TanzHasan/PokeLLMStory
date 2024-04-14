@@ -1,0 +1,91 @@
+p1: Switched to Charjabug
+p2: Switched to Clefairy
+Turn 1:
+p1: Charjabug used Sticky Web on Clefairy
+p2: Clefairy used Stealth Rock on Charjabug
+Turn 2:
+p1: Charjabug used Thunder Wave on Clefairy
+p2: Clefairy used Knock Off on Charjabug
+Turn 3:
+p1: Charjabug used Skitter Smack on Clefairy
+p2: Clefairy used Moonblast on Charjabug
+Turn 4:
+p2: Switched to Marshtomp
+p1: Charjabug used Skitter Smack on Marshtomp
+Turn 5:
+p1: Switched to Dartrix
+p2: Marshtomp used Earthquake on Dartrix
+Turn 6:
+p1: Dartrix used Knock Off on Marshtomp
+p2: Marshtomp used Ice Punch on Dartrix
+Turn 7:
+p1: Switched to Morgrem
+p2: Switched to Clefairy
+Turn 8:
+p1: Morgrem used Light Screen on Morgrem
+p2: Clefairy used Moonblast on Morgrem
+Turn 9:
+p1: Morgrem used Reflect on Morgrem
+p2: Clefairy can't move
+Turn 10:
+p1: Morgrem used Parting Shot on Clefairy
+p1: Switched to Wartortle
+p2: Clefairy used Moonblast on Wartortle
+Turn 11:
+p2: Switched to Gloom
+p1: Wartortle used Substitute on Wartortle
+Turn 12:
+p1: Wartortle used Shell Smash on Wartortle
+p2: Gloom used Leech Seed on Wartortle
+Turn 13:
+p1: Wartortle used Ice Beam on Gloom
+p2: Gloom fainted
+p2: Switched to Raboot
+Turn 14:
+p1: Wartortle used Surf on Raboot
+p2: Raboot fainted
+p2: Switched to Sliggoo-Hisui
+Turn 15:
+p1: Wartortle used Ice Beam on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Rest on Sliggoo-Hisui
+Turn 16:
+p1: Wartortle used Shell Smash on Wartortle
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui failed to use Rest
+Turn 17:
+p1: Wartortle used Ice Beam on Sliggoo-Hisui
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Curse on Sliggoo-Hisui
+Turn 18:
+p1: Wartortle used Ice Beam on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Rest on Sliggoo-Hisui
+Turn 19:
+p1: Wartortle used Shell Smash on Wartortle
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Iron Head on Wartortle
+Turn 20:
+p1: Wartortle used Ice Beam on Sliggoo-Hisui
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Curse on Sliggoo-Hisui
+Turn 21:
+p1: Wartortle used Ice Beam on Sliggoo-Hisui
+p2: Sliggoo-Hisui fainted
+p2: Switched to Hattrem
+Turn 22:
+p1: Wartortle used Surf on Hattrem
+p2: Hattrem fainted
+p2: Switched to Marshtomp
+Turn 23:
+p1: Wartortle used Surf on Marshtomp
+p2: Marshtomp fainted
+p2: Switched to Clefairy
+Turn 24:
+p1: Wartortle used Substitute on Wartortle
+p2: Clefairy used Moonlight on Clefairy
+Turn 25:
+p1: Wartortle used Surf on Clefairy
+p2: Clefairy fainted

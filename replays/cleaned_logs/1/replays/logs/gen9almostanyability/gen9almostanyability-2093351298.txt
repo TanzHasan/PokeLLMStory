@@ -1,0 +1,11 @@
+p1: Switched to Seviper
+p2: Switched to Seviper
+Turn 1:
+p2: Seviper used Switcheroo on Seviper
+p1: Seviper used Psychic Fangs on Seviper
+Turn 2:
+p2: Seviper used Switcheroo on Seviper
+p1: Seviper used Bulldoze on Seviper
+Turn 3:
+p1: Seviper used Bulldoze on Seviper
+p2: Seviper fainted

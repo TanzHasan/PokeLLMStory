@@ -1,0 +1,36 @@
+p1: Switched to Fezandipiti
+p2: Switched to Seviper
+Turn 1:
+p1: Fezandipiti used U-turn on Seviper
+p1: Switched to Deoxys-Defense
+p2: Seviper used Swords Dance on Seviper
+Turn 2:
+p1: Deoxys-Defense used Psychic Noise on Seviper
+p2: Seviper used Trailblaze on Deoxys-Defense
+Turn 3:
+p2: Seviper used Gunk Shot on Deoxys-Defense
+p1: Deoxys-Defense used Teleport on Deoxys-Defense
+p1: Switched to Tentacruel
+Turn 4:
+p2: Seviper used Earthquake on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Politoed
+Turn 5:
+p2: Seviper used Trailblaze on Politoed
+p1: Politoed fainted
+p1: Switched to Grimmsnarl
+Turn 6:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Seviper used Gunk Shot on Grimmsnarl
+p1: Grimmsnarl fainted
+p1: Switched to Deoxys-Defense
+Turn 7:
+p2: Seviper used Swords Dance on Seviper
+p1: Deoxys-Defense used Psychic Noise on Seviper
+Turn 8:
+p2: Seviper used Gunk Shot on Deoxys-Defense
+p1: Deoxys-Defense fainted
+p1: Switched to Rampardos
+Turn 9:
+p2: Seviper used Trailblaze on Rampardos
+p1: Rampardos fainted

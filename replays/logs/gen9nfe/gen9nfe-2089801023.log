@@ -1,0 +1,203 @@
+|j|☆NaokiS2
+|j|☆AmoSerPobre
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711487860
+|gametype|singles
+|player|p1|NaokiS2|n-masters|
+|player|p2|AmoSerPobre|heroine2-conquest|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Vullaby, F|
+|poke|p1|Koffing, M|
+|poke|p1|Piloswine, F|
+|poke|p1|Servine, M|
+|poke|p1|Raboot, M|
+|poke|p1|Sliggoo-Hisui, M|
+|poke|p2|Impidimp, L5, M|
+|poke|p2|Corphish, L5, M|
+|poke|p2|Voltorb-Hisui, L5|
+|poke|p2|Magby, L5, M|
+|poke|p2|Growlithe-Hisui, L5, M|
+|poke|p2|Gastly, L5, M|
+|teampreview
+|inactive|AmoSerPobre also wants the timer to be on.
+|j| WanniBr
+|c| WanniBr|é pra vencer, AmoSerPobre
+|c|☆NaokiS2|errrrrrrrr
+|
+|t:|1711487876
+|start
+|switch|p1a: Piloswine|Piloswine, F|100/100
+|switch|p2a: Growlithe|Growlithe-Hisui, L5, M, shiny|100/100
+|turn|1
+|c| WanniBr|grrr
+|c|☆NaokiS2|errrrrrrrrrrrrrrrrr.
+|c|☆NaokiS2|entao
+|j| Tunderboltz456
+|c|☆AmoSerPobre|ele ta com time de pre adolescente WanniBr, eu to com time criancinha
+|c|☆NaokiS2|eu conto ou vcs contam?
+|
+|t:|1711487898
+|move|p1a: Piloswine|Stealth Rock|p2a: Growlithe
+|-sidestart|p2: AmoSerPobre|move: Stealth Rock
+|move|p2a: Growlithe|Flare Blitz|p1a: Piloswine
+|-supereffective|p1a: Piloswine
+|-damage|p1a: Piloswine|99/100
+|
+|upkeep
+|turn|2
+|c| Tunderboltz456|o outro sacou um LC
+|c| Tunderboltz456|ó q genia
+|c|☆AmoSerPobre|AGR VI O LEVEK
+|
+|t:|1711487914
+|switch|p1a: Servine|Servine, M|100/100
+|move|p2a: Growlithe|Flare Blitz|p1a: Servine
+|-supereffective|p1a: Servine
+|-damage|p1a: Servine|99/100
+|
+|upkeep
+|turn|3
+|c| WanniBr|kk
+|
+|t:|1711487923
+|move|p1a: Servine|Leaf Storm|p2a: Growlithe
+|-damage|p2a: Growlithe|0 fnt
+|-boost|p1a: Servine|spa|2
+|faint|p2a: Growlithe
+|
+|upkeep
+|c| Tunderboltz456|kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+|c|☆NaokiS2|quem conta?
+|
+|t:|1711487928
+|switch|p2a: Corphish|Corphish, L5, M|100/100
+|-damage|p2a: Corphish|90/100|[from] Stealth Rock
+|turn|4
+|c| WanniBr|caraca, que dano, AmoSerPobre
+|c| Tunderboltz456|button click go brrrr
+|
+|t:|1711487934
+|move|p2a: Corphish|Aqua Jet|p1a: Servine
+|-resisted|p1a: Servine
+|-damage|p1a: Servine|99/100
+|move|p1a: Servine|Knock Off|p2a: Corphish
+|-damage|p2a: Corphish|0 fnt
+|-enditem|p2a: Corphish|Eviolite|[from] move: Knock Off|[of] p1a: Servine
+|faint|p2a: Corphish
+|
+|upkeep
+|c|☆NaokiS2|0.3%
+|c|☆NaokiS2|KKKKKKKKKKKK
+|
+|t:|1711487944
+|switch|p2a: Impidimp|Impidimp, L5, M|100/100
+|-damage|p2a: Impidimp|92/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1711487950
+|move|p2a: Impidimp|Parting Shot|p1a: Servine
+|-boost|p1a: Servine|atk|1
+|-boost|p1a: Servine|spa|1
+|
+|t:|1711487959
+|switch|p2a: Magby|Magby, L5, M|100/100|[from] Parting Shot
+|-damage|p2a: Magby|75/100|[from] Stealth Rock
+|move|p1a: Servine|Glare|p2a: Magby
+|-status|p2a: Magby|par
+|
+|upkeep
+|turn|6
+|
+|t:|1711487968
+|move|p1a: Servine|Leaf Storm|p2a: Magby
+|-resisted|p2a: Magby
+|-damage|p2a: Magby|0 fnt
+|-boost|p1a: Servine|spa|2
+|faint|p2a: Magby
+|
+|upkeep
+|
+|t:|1711487973
+|switch|p2a: Impidimp|Impidimp, L5, M|92/100
+|-damage|p2a: Impidimp|83/100|[from] Stealth Rock
+|turn|7
+|c| Tunderboltz456|só as ameaça k
+|
+|t:|1711487978
+|move|p2a: Impidimp|Parting Shot|p1a: Servine
+|-boost|p1a: Servine|atk|1
+|-boost|p1a: Servine|spa|1
+|c|☆NaokiS2|kkkkkkkkkkkk
+|
+|t:|1711487983
+|switch|p2a: Gastly|Gastly, L5, M|100/100|[from] Parting Shot
+|-damage|p2a: Gastly|90/100|[from] Stealth Rock
+|move|p1a: Servine|Knock Off|p2a: Gastly
+|-supereffective|p2a: Gastly
+|-damage|p2a: Gastly|0 fnt
+|-enditem|p2a: Gastly|Choice Scarf|[from] move: Knock Off|[of] p1a: Servine
+|faint|p2a: Gastly
+|
+|upkeep
+|c|☆NaokiS2|ELA BUFFANDO O  BICHO
+|c|☆NaokiS2|KKKKKKKK
+|c| Tunderboltz456|G E N I O
+|j| Cogumelo Raro
+|c|☆NaokiS2|6
+|
+|t:|1711487994
+|switch|p2a: Impidimp|Impidimp, L5, M|83/100
+|-damage|p2a: Impidimp|74/100|[from] Stealth Rock
+|turn|8
+|c|☆NaokiS2|Tadinha mano
+|c| WanniBr|raça absoluta, além da consciência.
+|
+|t:|1711488010
+|move|p2a: Impidimp|Parting Shot|p1a: Servine
+|-boost|p1a: Servine|atk|1
+|-boost|p1a: Servine|spa|0
+|
+|t:|1711488014
+|switch|p2a: Voltorb|Voltorb-Hisui, L5|100/100|[from] Parting Shot
+|-damage|p2a: Voltorb|91/100|[from] Stealth Rock
+|move|p1a: Servine|Knock Off|p2a: Voltorb
+|-damage|p2a: Voltorb|0 fnt
+|-enditem|p2a: Voltorb|Eviolite|[from] move: Knock Off|[of] p1a: Servine
+|faint|p2a: Voltorb
+|
+|upkeep
+|c|☆NaokiS2|minha servine
+|
+|t:|1711488018
+|switch|p2a: Impidimp|Impidimp, L5, M|74/100
+|-damage|p2a: Impidimp|66/100|[from] Stealth Rock
+|turn|9
+|c|☆NaokiS2|ta mt maromba
+|
+|t:|1711488023
+|move|p2a: Impidimp|Light Screen|p2a: Impidimp
+|-sidestart|p2: AmoSerPobre|move: Light Screen
+|move|p1a: Servine|Knock Off|p2a: Impidimp
+|-resisted|p2a: Impidimp
+|-damage|p2a: Impidimp|0 fnt
+|-enditem|p2a: Impidimp|Light Clay|[from] move: Knock Off|[of] p1a: Servine
+|faint|p2a: Impidimp
+|
+|win|NaokiS2
+|n|☆NaokiS2|naokis2
+|n|☆AmoSerPobre|amoserpobre
+|n| WanniBr|wannibr
+|n| Tunderboltz456|tunderboltz456
+|n| Cogumelo Raro|cogumeloraro

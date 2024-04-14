@@ -1,0 +1,74 @@
+p1: Switched to Crustle
+p2: Switched to Landorus
+Turn 1:
+p1: Switched to Latios
+p2: Landorus used Calm Mind on Landorus
+Turn 2:
+p1: Latios used Calm Mind on Latios
+p2: Landorus used Calm Mind on Landorus
+Turn 3:
+p1: Latios used Calm Mind on Latios
+p2: Landorus used Rock Polish on Landorus
+Turn 4:
+p2: Landorus used Sludge Wave on Latios
+p1: Latios used Psyshock on Landorus
+Turn 5:
+p2: Landorus used Sludge Wave on Latios
+p1: Latios used Psyshock on Landorus
+p2: Landorus fainted
+p2: Switched to Musharna
+Turn 6:
+p1: Latios used Roost on Latios
+p2: Musharna used Thunder Wave on Latios
+Turn 7:
+p1: Latios can't move
+p2: Musharna used Psychic on Latios
+Turn 8:
+p2: Switched to Dustox
+p1: Latios used Calm Mind on Latios
+Turn 9:
+p2: Dustox used Bug Buzz on Latios
+p1: Latios used Psyshock on Dustox
+p2: Dustox fainted
+p2: Switched to Marowak
+Turn 10:
+p2: Marowak used Knock Off on Latios
+p1: Latios fainted
+p1: Switched to Gorebyss
+Turn 11:
+p2: Switched to Wishiwashi
+p1: Gorebyss used Shell Smash on Gorebyss
+Turn 12:
+p1: Gorebyss used Hidden Power on Wishiwashi
+p2: Wishiwashi used Hidden Power on Gorebyss
+Turn 13:
+p1: Gorebyss used Hydro Pump on Wishiwashi
+p2: Wishiwashi used Hidden Power on Gorebyss
+p1: Gorebyss fainted
+p1: Switched to Sawk
+Turn 14:
+p1: Sawk used Knock Off on Wishiwashi
+p2: Wishiwashi fainted
+p2: Switched to Musharna
+Turn 15:
+p1: Sawk used Knock Off on Musharna
+p2: Musharna used Psychic on Sawk
+Turn 16:
+p1: Sawk used Knock Off on Musharna
+p2: Musharna fainted
+p2: Switched to Gigalith
+Turn 17:
+p1: Switched to Lopunny
+p2: Gigalith used Earthquake on Lopunny
+Turn 18:
+p1: Lopunny used High Jump Kick on Gigalith
+p2: Gigalith used Stone Edge on Lopunny
+p1: Lopunny fainted
+p1: Switched to Sawk
+Turn 19:
+p1: Sawk used Close Combat on Gigalith
+p2: Gigalith fainted
+p2: Switched to Marowak
+Turn 20:
+p1: Sawk used Close Combat on Marowak
+p2: Marowak fainted

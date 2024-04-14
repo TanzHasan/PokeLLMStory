@@ -1,0 +1,171 @@
+p1: Switched to Qwilfish
+p2: Switched to Ampharos
+Turn 1:
+p1: Switched to Rhydon
+p2: Ampharos used Thunder on Rhydon
+Turn 2:
+p2: Switched to Lickitung
+p1: Rhydon used Curse on Rhydon
+Turn 3:
+p2: Lickitung used Surf on Rhydon
+p1: Rhydon used Earthquake on Lickitung
+Turn 4:
+p1: Switched to Qwilfish
+p2: Lickitung used Rest on Lickitung
+Turn 5:
+p1: Qwilfish used Spikes on Lickitung
+p2: Lickitung can't move
+p2: Lickitung used Sleep Talk on Lickitung
+p2: Lickitung used Rest on Lickitung
+Turn 6:
+p1: Qwilfish used Curse on Qwilfish
+p2: Lickitung can't move
+p2: Lickitung used Sleep Talk on Lickitung
+p2: Lickitung used Rest on Lickitung
+Turn 7:
+p1: Qwilfish used Curse on Qwilfish
+p2: Lickitung used Earthquake on Qwilfish
+Turn 8:
+p2: Lickitung used Earthquake on Qwilfish
+p1: Qwilfish used Sludge Bomb on Lickitung
+Turn 9:
+p2: Lickitung used Earthquake on Qwilfish
+p1: Qwilfish fainted
+p1: Switched to Rhydon
+Turn 10:
+p1: Rhydon used Earthquake on Lickitung
+p2: Lickitung used Surf on Rhydon
+p1: Rhydon fainted
+p1: Switched to Raichu
+Turn 11:
+p1: Raichu used Surf on Lickitung
+p2: Lickitung fainted
+p2: Switched to Tauros
+Turn 12:
+p2: Tauros used Earthquake on Raichu
+p1: Raichu used Thunder on Tauros
+Turn 13:
+p1: Switched to Shuckle
+p2: Tauros used Earthquake on Shuckle
+Turn 14:
+p2: Switched to Golem
+p1: Shuckle used Toxic on Golem
+Turn 15:
+p2: Golem used Rock Slide on Shuckle
+p1: Shuckle used Defense Curl on Shuckle
+Turn 16:
+p2: Golem used Rock Slide on Shuckle
+p1: Shuckle used Defense Curl on Shuckle
+Turn 17:
+p1: Shuckle used Rest on Shuckle
+p2: Golem used Roar on Shuckle
+Turn 18:
+p1: p1a: Saturn used Growth on p1a: Saturn
+p2: Golem used Earthquake on p1a: Saturn
+Turn 19:
+p1: p1a: Saturn used Hidden Power on Golem
+p2: Golem used Roar on p1a: Saturn
+p2: Golem fainted
+p2: Switched to Ampharos
+Turn 20:
+p1: Switched to Shuckle
+p2: Ampharos failed to use Thunder Wave
+Turn 21:
+p2: Switched to Cloyster
+p1: Shuckle can't move
+Turn 22:
+p2: Cloyster used Spikes on Shuckle
+p1: Shuckle can't move
+Turn 23:
+p2: Cloyster used Surf on Shuckle
+p1: Shuckle used Toxic on Cloyster
+Turn 24:
+p2: Cloyster used Surf on Shuckle
+p1: Shuckle used Toxic on Cloyster
+Turn 25:
+p1: Switched to Raichu
+p2: Cloyster used Surf on Raichu
+p1: Raichu fainted
+p1: Switched to Umbreon
+Turn 26:
+p2: Cloyster used Toxic on Umbreon
+p1: Umbreon used Moonlight on Umbreon
+Turn 27:
+p2: Cloyster used Surf on Umbreon
+p1: Umbreon used Growth on Umbreon
+Turn 28:
+p2: Cloyster used Surf on Umbreon
+p1: Umbreon used Moonlight on Umbreon
+Turn 29:
+p1: Switched to Shuckle
+p2: Cloyster used Explosion on Shuckle
+p2: Cloyster fainted
+p1: Shuckle fainted
+p2: Switched to Ampharos
+p1: Switched to Umbreon
+Turn 30:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 31:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 32:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 33:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 34:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 35:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos failed to use Thunder Wave
+Turn 36:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 37:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos failed to use Thunder Wave
+Turn 38:
+p1: Umbreon used Baton Pass on Umbreon
+p1: Switched to Alakazam
+p2: Ampharos used Thunder on Alakazam
+Turn 39:
+p1: Alakazam used Psychic on Ampharos
+p2: Ampharos used Thunder Wave on Alakazam
+Turn 40:
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam can't move
+Turn 41:
+p2: Ampharos can't move
+p1: Alakazam used Psychic on Ampharos
+Turn 42:
+p2: Ampharos can't move
+p2: Ampharos used Sleep Talk on Ampharos
+p2: Ampharos used Thunder Wave on Alakazam
+p1: Alakazam can't move
+Turn 43:
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam can't move
+Turn 44:
+p2: Ampharos can't move
+p2: Ampharos used Sleep Talk on Ampharos
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam used Psychic on Ampharos
+p2: Ampharos fainted
+p2: Switched to Tauros
+Turn 45:
+p2: Tauros used Rest on Tauros
+p1: Alakazam can't move
+Turn 46:
+p2: Tauros can't move
+p2: Tauros used Sleep Talk on Tauros
+p2: Tauros used Earthquake on Alakazam
+p1: Alakazam used Psychic on Tauros
+p2: Tauros fainted
+p2: Switched to Gengar
+Turn 47:
+p2: Gengar used Thunderbolt on Alakazam
+p1: Alakazam used Psychic on Gengar
+p2: Gengar fainted

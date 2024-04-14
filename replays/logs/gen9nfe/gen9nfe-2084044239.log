@@ -1,0 +1,303 @@
+|j|☆Bigbill36321
+|j|☆TypeOnix
+|t:|1710809664
+|gametype|singles
+|player|p1|Bigbill36321|102|
+|player|p2|TypeOnix|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Electabuzz, F|
+|poke|p1|Dunsparce, M|
+|poke|p1|Monferno, F|
+|poke|p1|Vullaby, F|
+|poke|p1|Servine, F|
+|poke|p1|Metang|
+|poke|p2|Drakloak, M|
+|poke|p2|Vigoroth, M|
+|poke|p2|Pikachu, M|
+|poke|p2|Cutiefly, F|
+|poke|p2|Dusclops, F|
+|poke|p2|Quaxwell, M|
+|teampreview
+|
+|t:|1710809679
+|start
+|switch|p1a: Dunsparce|Dunsparce, M|100/100
+|switch|p2a: Pikachu|Pikachu, M|100/100
+|turn|1
+|
+|t:|1710809693
+|move|p2a: Pikachu|Volt Switch|p1a: Dunsparce
+|-damage|p1a: Dunsparce|49/100
+|
+|t:|1710809701
+|switch|p2a: Dusclops|Dusclops, F|100/100|[from] Volt Switch
+|-ability|p2a: Dusclops|Pressure
+|move|p1a: Dunsparce|Zen Headbutt|p2a: Dusclops
+|-damage|p2a: Dusclops|91/100
+|
+|-heal|p1a: Dunsparce|55/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1710809723
+|switch|p1a: Servine|Servine, F|100/100
+|move|p2a: Dusclops|Will-O-Wisp|p1a: Servine
+|-status|p1a: Servine|brn
+|
+|-damage|p1a: Servine|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1710809731
+|move|p1a: Servine|Leaf Storm|p2a: Dusclops
+|-damage|p2a: Dusclops|68/100
+|-boost|p1a: Servine|spa|2
+|move|p2a: Dusclops|Night Shade|p1a: Servine
+|-damage|p1a: Servine|56/100 brn
+|
+|-damage|p1a: Servine|50/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1710809742
+|move|p1a: Servine|Leaf Storm|p2a: Dusclops
+|-damage|p2a: Dusclops|22/100
+|-boost|p1a: Servine|spa|2
+|move|p2a: Dusclops|Night Shade|p1a: Servine
+|-damage|p1a: Servine|12/100 brn
+|
+|-damage|p1a: Servine|6/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1710809752
+|switch|p2a: Drakloak|Drakloak, M|100/100
+|move|p1a: Servine|Synthesis|p1a: Servine
+|-heal|p1a: Servine|56/100 brn
+|
+|-damage|p1a: Servine|50/100 brn|[from] brn
+|upkeep
+|turn|6
+|j| mcmuslim
+|
+|t:|1710809770
+|switch|p1a: Dunsparce|Dunsparce, M|55/100
+|move|p2a: Drakloak|Draco Meteor|p1a: Dunsparce
+|-damage|p1a: Dunsparce|0 fnt
+|-unboost|p2a: Drakloak|spa|2
+|faint|p1a: Dunsparce
+|
+|upkeep
+|
+|t:|1710809777
+|switch|p1a: Vullaby|Vullaby, F|100/100
+|turn|7
+|
+|t:|1710809791
+|switch|p2a: Dusclops|Dusclops, F|22/100
+|-ability|p2a: Dusclops|Pressure
+|move|p1a: Vullaby|Knock Off|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-crit|p2a: Dusclops
+|-damage|p2a: Dusclops|0 fnt
+|-enditem|p2a: Dusclops|Eviolite|[from] move: Knock Off|[of] p1a: Vullaby
+|faint|p2a: Dusclops
+|-damage|p1a: Vullaby|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1710809793
+|switch|p2a: Cutiefly|Cutiefly, F|100/100
+|turn|8
+|
+|t:|1710809806
+|switch|p1a: Metang|Metang|100/100
+|move|p2a: Cutiefly|Sticky Web|p1a: Metang
+|-sidestart|p1: Bigbill36321|move: Sticky Web
+|
+|upkeep
+|turn|9
+|
+|t:|1710809812
+|move|p2a: Cutiefly|Stun Spore|p1a: Metang
+|-status|p1a: Metang|par
+|move|p1a: Metang|Meteor Mash|p2a: Cutiefly
+|-supereffective|p2a: Cutiefly
+|-enditem|p2a: Cutiefly|Focus Sash
+|-damage|p2a: Cutiefly|1/100
+|
+|upkeep
+|turn|10
+|
+|t:|1710809821
+|move|p2a: Cutiefly|U-turn|p1a: Metang
+|-damage|p1a: Metang|92/100 par
+|
+|t:|1710809825
+|switch|p2a: Quaxwell|Quaxwell, M|100/100|[from] U-turn
+|move|p1a: Metang|Earthquake|p2a: Quaxwell
+|-damage|p2a: Quaxwell|85/100
+|
+|upkeep
+|turn|11
+|
+|t:|1710809834
+|move|p2a: Quaxwell|Flip Turn|p1a: Metang
+|-damage|p1a: Metang|80/100 par
+|
+|t:|1710809854
+|switch|p2a: Vigoroth|Vigoroth, M|100/100|[from] Flip Turn
+|move|p1a: Metang|Meteor Mash|p2a: Vigoroth
+|-damage|p2a: Vigoroth|75/100
+|
+|upkeep
+|turn|12
+|
+|t:|1710809868
+|switch|p1a: Servine|Servine, F|50/100 brn
+|-activate|p1a: Servine|move: Sticky Web
+|-boost|p1a: Servine|spe|1
+|move|p2a: Vigoroth|Bulk Up|p2a: Vigoroth
+|-boost|p2a: Vigoroth|atk|1
+|-boost|p2a: Vigoroth|def|1
+|
+|-damage|p1a: Servine|44/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1710809881
+|move|p1a: Servine|Giga Drain|p2a: Vigoroth
+|-damage|p2a: Vigoroth|48/100
+|-heal|p1a: Servine|63/100 brn|[from] drain|[of] p2a: Vigoroth
+|move|p2a: Vigoroth|Facade|p1a: Servine
+|-damage|p1a: Servine|31/100 brn
+|
+|-damage|p1a: Servine|25/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1710809894
+|switch|p2a: Cutiefly|Cutiefly, F|1/100
+|move|p1a: Servine|Synthesis|p1a: Servine
+|-heal|p1a: Servine|75/100 brn
+|
+|-damage|p1a: Servine|69/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1710809902
+|move|p1a: Servine|Leaf Storm|p2a: Cutiefly|[miss]
+|-miss|p1a: Servine|p2a: Cutiefly
+|move|p2a: Cutiefly|Moonblast|p1a: Servine
+|-damage|p1a: Servine|39/100 brn
+|-boost|p1a: Servine|spa|1
+|
+|-damage|p1a: Servine|33/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1710809910
+|move|p1a: Servine|Leaf Storm|p2a: Cutiefly
+|-resisted|p2a: Cutiefly
+|-damage|p2a: Cutiefly|0 fnt
+|-boost|p1a: Servine|spa|2
+|faint|p2a: Cutiefly
+|
+|-damage|p1a: Servine|27/100 brn|[from] brn
+|upkeep
+|
+|t:|1710809917
+|switch|p2a: Drakloak|Drakloak, M|100/100
+|turn|17
+|
+|t:|1710809934
+|move|p1a: Servine|Leaf Storm|p2a: Drakloak
+|-resisted|p2a: Drakloak
+|-damage|p2a: Drakloak|0 fnt
+|-boost|p1a: Servine|spa|2
+|faint|p2a: Drakloak
+|
+|-damage|p1a: Servine|21/100 brn|[from] brn
+|upkeep
+|
+|t:|1710809939
+|switch|p2a: Pikachu|Pikachu, M|100/100
+|turn|18
+|
+|t:|1710809946
+|move|p2a: Pikachu|Fake Out|p1a: Servine
+|-damage|p1a: Servine|7/100 brn
+|cant|p1a: Servine|flinch
+|
+|-damage|p1a: Servine|1/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1710809957
+|move|p1a: Servine|Synthesis|p1a: Servine
+|-heal|p1a: Servine|51/100 brn
+|move|p2a: Pikachu|Volt Switch|p1a: Servine
+|-resisted|p1a: Servine
+|-damage|p1a: Servine|27/100 brn
+|
+|t:|1710809960
+|switch|p2a: Vigoroth|Vigoroth, M|48/100|[from] Volt Switch
+|
+|-damage|p1a: Servine|21/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1710809970
+|move|p1a: Servine|Giga Drain|p2a: Vigoroth
+|-damage|p2a: Vigoroth|0 fnt
+|-heal|p1a: Servine|54/100 brn|[from] drain|[of] p2a: Vigoroth
+|faint|p2a: Vigoroth
+|
+|-damage|p1a: Servine|48/100 brn|[from] brn
+|upkeep
+|
+|t:|1710809972
+|switch|p2a: Pikachu|Pikachu, M|100/100
+|turn|21
+|
+|t:|1710809980
+|move|p2a: Pikachu|Fake Out|p1a: Servine
+|-damage|p1a: Servine|34/100 brn
+|cant|p1a: Servine|flinch
+|
+|-damage|p1a: Servine|28/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1710809987
+|move|p1a: Servine|Giga Drain|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|-heal|p1a: Servine|69/100 brn|[from] drain|[of] p2a: Pikachu
+|faint|p2a: Pikachu
+|
+|-damage|p1a: Servine|63/100 brn|[from] brn
+|upkeep
+|
+|t:|1710809990
+|switch|p2a: Quaxwell|Quaxwell, M|85/100
+|turn|23
+|
+|t:|1710809997
+|move|p1a: Servine|Giga Drain|p2a: Quaxwell
+|-supereffective|p2a: Quaxwell
+|-damage|p2a: Quaxwell|0 fnt
+|-heal|p1a: Servine|100/100 brn|[from] drain|[of] p2a: Quaxwell
+|faint|p2a: Quaxwell
+|
+|win|Bigbill36321

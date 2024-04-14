@@ -1,0 +1,96 @@
+|j|☆Eduardogov
+|j|☆shinyjupiter37
+|t:|1711946684
+|gametype|singles
+|player|p1|Eduardogov|1|1202
+|player|p2|shinyjupiter37|erika|1237
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946684
+|start
+|switch|p1a: Minior|Minior, L79|223/223
+|switch|p2a: Charizard|Charizard, L84, F|268/268
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by shinyjupiter37)
+|
+|t:|1711946708
+|switch|p2a: Vaporeon|Vaporeon, L85, F|360/360
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|
+|upkeep
+|turn|2
+|inactive|Eduardogov has 120 seconds left.
+|
+|t:|1711946746
+|move|p1a: Minior|Acrobatics|p2a: Vaporeon
+|-damage|p2a: Vaporeon|164/360
+|move|p2a: Vaporeon|Scald|p1a: Minior
+|-supereffective|p1a: Minior
+|-damage|p1a: Minior|41/223
+|
+|-heal|p2a: Vaporeon|186/360|[from] item: Leftovers
+|-formechange|p1a: Minior|Minior||[from] ability: Shields Down
+|upkeep
+|turn|3
+|inactive|Eduardogov has 120 seconds left.
+|inactive|shinyjupiter37 has 120 seconds left.
+|
+|t:|1711946801
+|move|p1a: Minior|Acrobatics|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|inactive|shinyjupiter37 has 90 seconds left.
+|
+|t:|1711946816
+|switch|p2a: Lunala|Lunala, L70|308/308
+|turn|4
+|inactive|Eduardogov has 120 seconds left.
+|inactive|shinyjupiter37 has 90 seconds left.
+|
+|t:|1711946846
+|move|p1a: Minior|Acrobatics|p2a: Lunala
+|-damage|p2a: Lunala|180/308
+|move|p2a: Lunala|Moongeist Beam|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|
+|-heal|p2a: Lunala|199/308|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946866
+|switch|p1a: Tauros|Tauros-Paldea-Combat, L84, M|263/263
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Lunala|atk|1
+|turn|5
+|inactive|shinyjupiter37 has 90 seconds left.
+|inactive|shinyjupiter37 has 60 seconds left.
+|inactive|shinyjupiter37 has 30 seconds left.
+|inactive|shinyjupiter37 has 20 seconds left.
+|inactive|shinyjupiter37 has 15 seconds left.
+|inactive|shinyjupiter37 has 10 seconds left.
+|inactive|shinyjupiter37 has 5 seconds left.
+|-message|shinyjupiter37 lost due to inactivity.
+|
+|win|Eduardogov
+|raw|Eduardogov's rating: 1202 &rarr; <strong>1230</strong><br />(+28 for winning)
+|raw|shinyjupiter37's rating: 1237 &rarr; <strong>1209</strong><br />(-28 for losing)
+|l|☆Eduardogov
+|player|p1|

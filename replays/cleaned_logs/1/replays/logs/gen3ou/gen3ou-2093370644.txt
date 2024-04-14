@@ -1,0 +1,25 @@
+p1: Switched to Ninjask
+p2: Switched to Marshtomp
+Turn 1:
+p1: Ninjask used Substitute on Ninjask
+p2: Marshtomp used Surf on Ninjask
+Turn 2:
+p1: Ninjask used Protect on Ninjask
+p2: Marshtomp used Surf on Ninjask
+Turn 3:
+p1: Ninjask used Substitute on Ninjask
+p2: Marshtomp used Surf on Ninjask
+Turn 4:
+p1: Ninjask used Protect on Ninjask
+p2: Marshtomp used Surf on Ninjask
+Turn 5:
+p1: Ninjask used Baton Pass on Ninjask
+p1: Switched to Vaporeon
+p2: Marshtomp used Surf on Vaporeon
+Turn 6:
+p1: Vaporeon used Substitute on Vaporeon
+p2: Marshtomp failed to use Toxic
+Turn 7:
+p2: Switched to Minun
+p1: Vaporeon used Surf on Minun
+p2: Minun fainted

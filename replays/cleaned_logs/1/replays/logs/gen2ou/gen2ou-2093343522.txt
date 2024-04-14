@@ -1,0 +1,78 @@
+p1: Switched to Zapdos
+p2: Switched to Marowak
+Turn 1:
+p1: Switched to Exeggutor
+p2: Switched to Blissey
+Turn 2:
+p1: Switched to Forretress
+p2: Blissey used Seismic Toss on Forretress
+Turn 3:
+p2: Switched to Scizor
+p1: Forretress used Spikes on Scizor
+Turn 4:
+p1: Switched to Zapdos
+p2: Scizor used Agility on Scizor
+Turn 5:
+p2: Scizor used Baton Pass on Scizor
+p2: Switched to Marowak
+p1: Zapdos used Thunder on Marowak
+Turn 6:
+p2: Marowak used Rock Slide on Zapdos
+p1: Zapdos fainted
+p1: Switched to Forretress
+Turn 7:
+p2: Marowak used Fire Blast on Forretress
+p1: Forretress fainted
+p1: Switched to Exeggutor
+Turn 8:
+p2: Marowak used Hidden Power on Exeggutor
+p1: Exeggutor used Sleep Powder on Marowak
+Turn 9:
+p2: Switched to Scizor
+p1: Exeggutor used Giga Drain on Scizor
+Turn 10:
+p1: Switched to Golem
+p2: Scizor used Thief on Golem
+Turn 11:
+p2: Scizor used Baton Pass on Scizor
+p2: Switched to Cloyster
+p1: Golem used Fire Blast on Cloyster
+Turn 12:
+p2: Cloyster used Rapid Spin on Golem
+p1: Golem used Rock Slide on Cloyster
+Turn 13:
+p1: Switched to Tentacruel
+p2: Cloyster used Spikes on Tentacruel
+Turn 14:
+p1: Tentacruel used Swords Dance on Tentacruel
+p2: Cloyster used Hidden Power on Tentacruel
+Turn 15:
+p1: Tentacruel used Sludge Bomb on Cloyster
+p2: Cloyster fainted
+p2: Switched to Snorlax
+Turn 16:
+p1: Tentacruel used Sludge Bomb on Snorlax
+p2: Snorlax used Curse on Snorlax
+Turn 17:
+p1: Tentacruel used Sludge Bomb on Snorlax
+p2: Snorlax used Earthquake on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Exeggutor
+Turn 18:
+p1: Exeggutor used Giga Drain on Snorlax
+p2: Snorlax used Shadow Ball on Exeggutor
+Turn 19:
+p1: Exeggutor used Giga Drain on Snorlax
+p2: Snorlax fainted
+p2: Switched to Skarmory
+Turn 20:
+p2: Skarmory used Drill Peck on Exeggutor
+p1: Exeggutor fainted
+p1: Switched to Golem
+Turn 21:
+p2: Skarmory used Toxic on Golem
+p1: Golem used Fire Blast on Skarmory
+Turn 22:
+p1: Golem used Fire Blast on Skarmory
+p2: Skarmory used Whirlwind on Golem
+Turn 23:

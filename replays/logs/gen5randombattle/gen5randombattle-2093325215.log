@@ -1,0 +1,68 @@
+|j|☆Dracula Centauro
+|j|☆Bromlleyy
+|t:|1711939545
+|gametype|singles
+|player|p1|Dracula Centauro|101|1047
+|player|p2|Bromlleyy|swimmer-gen4|1102
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711939545
+|start
+|switch|p1a: Maractus|Maractus, L97, M|302/302
+|switch|p2a: Gliscor|Gliscor, L79, F|248/248
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bromlleyy)
+|
+|t:|1711939564
+|switch|p2a: Zapdos|Zapdos, L79|272/272
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Maractus|Leech Seed|p2a: Zapdos
+|-start|p2a: Zapdos|move: Leech Seed
+|
+|-damage|p2a: Zapdos|238/272|[from] Leech Seed|[of] p1a: Maractus
+|upkeep
+|turn|2
+|
+|t:|1711939577
+|move|p1a: Maractus|Protect|p1a: Maractus
+|-singleturn|p1a: Maractus|Protect
+|move|p2a: Zapdos|Heat Wave|p1a: Maractus
+|-activate|p1a: Maractus|move: Protect
+|
+|-heal|p2a: Zapdos|255/272|[from] item: Leftovers
+|-damage|p2a: Zapdos|221/272|[from] Leech Seed|[of] p1a: Maractus
+|upkeep
+|turn|3
+|
+|t:|1711939589
+|switch|p1a: Manectric|Manectric, L83, F|252/252
+|move|p2a: Zapdos|Heat Wave|p1a: Manectric|[miss]
+|-miss|p2a: Zapdos|p1a: Manectric
+|
+|-heal|p2a: Zapdos|238/272|[from] item: Leftovers
+|-damage|p2a: Zapdos|204/272|[from] Leech Seed|[of] p1a: Manectric
+|upkeep
+|turn|4
+|
+|t:|1711939616
+|switch|p2a: Gliscor|Gliscor, L79, F|248/248
+|move|p1a: Manectric|Volt Switch|p2a: Gliscor
+|-immune|p2a: Gliscor
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|-message|Dracula Centauro forfeited.
+|
+|win|Bromlleyy
+|raw|Dracula Centauro's rating: 1047 &rarr; <strong>1033</strong><br />(-14 for losing)
+|raw|Bromlleyy's rating: 1102 &rarr; <strong>1123</strong><br />(+21 for winning)
+|l|☆Dracula Centauro
+|player|p1|

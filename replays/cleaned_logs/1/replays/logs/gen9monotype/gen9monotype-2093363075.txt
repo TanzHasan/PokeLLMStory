@@ -1,0 +1,21 @@
+p1: Switched to Iron Hands
+p2: Switched to Golem-Alola
+Turn 1:
+p1: Iron Hands used Drain Punch on Golem-Alola
+p2: Golem-Alola used Earthquake on Iron Hands
+Turn 2:
+p2: Switched to Zapdos
+p1: Iron Hands used Drain Punch on Zapdos
+Turn 3:
+p2: Zapdos used U-turn on Iron Hands
+p2: Switched to Rotom-Wash
+p1: Iron Hands used Supercell Slam on Rotom-Wash
+Turn 4:
+p2: Rotom-Wash used Will-O-Wisp on Iron Hands
+p1: Iron Hands used Drain Punch on Rotom-Wash
+p2: Rotom-Wash fainted
+p2: Switched to Regieleki
+Turn 5:
+p2: Regieleki used Thunderbolt on Iron Hands
+p1: Iron Hands used Drain Punch on Regieleki
+Turn 6:

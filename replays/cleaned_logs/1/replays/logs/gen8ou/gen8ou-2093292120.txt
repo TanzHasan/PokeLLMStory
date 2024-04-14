@@ -1,0 +1,55 @@
+p1: Switched to Ribombee
+p2: Switched to Volcanion
+Turn 1:
+p1: Ribombee used Stun Spore on Volcanion
+p2: Volcanion used Flamethrower on Ribombee
+Turn 2:
+p2: Switched to Ninetales-Alola
+p1: Ribombee used Sticky Web on Ninetales-Alola
+p1: Ribombee fainted
+p1: Switched to Blacephalon
+Turn 3:
+p2: Switched to Tornadus-Therian
+p1: Blacephalon used Flamethrower on Tornadus-Therian
+Turn 4:
+p2: Tornadus-Therian used Knock Off on Blacephalon
+p1: Blacephalon used Flamethrower on Tornadus-Therian
+Turn 5:
+p1: Switched to Excadrill
+p2: Tornadus-Therian used U-turn on Excadrill
+p2: Switched to Corviknight
+Turn 6:
+p1: Switched to Bisharp
+p2: Corviknight used Defog on Bisharp
+Turn 7:
+p1: Bisharp used Knock Off on Corviknight
+p2: Corviknight used Body Press on Bisharp
+p1: Bisharp fainted
+p1: Switched to Excadrill
+Turn 8:
+p1: Excadrill used Rock Tomb on Corviknight
+p2: Corviknight fainted
+p2: Switched to Landorus-Therian
+Turn 9:
+p1: Excadrill used Stealth Rock on Landorus-Therian
+p2: Landorus-Therian used Earthquake on Excadrill
+p1: Excadrill fainted
+p1: Switched to Blacephalon
+Turn 10:
+p2: Switched to Tornadus-Therian
+p1: Blacephalon used Mind Blown on Tornadus-Therian
+p1: Blacephalon fainted
+p2: Tornadus-Therian fainted
+p2: Switched to Ninetales-Alola
+p1: Switched to Azumarill
+Turn 11:
+p2: Ninetales-Alola used Freeze-Dry on Azumarill
+p1: Azumarill failed to use Belly Drum
+Turn 12:
+p1: Azumarill used Aqua Jet on Ninetales-Alola
+p2: Ninetales-Alola used Freeze-Dry on Azumarill
+p1: Azumarill fainted
+p1: Switched to Kommo-o
+Turn 13:
+p2: Ninetales-Alola used Moonblast on Kommo-o
+p1: Kommo-o fainted

@@ -1,0 +1,81 @@
+p1: Switched to Omastar
+p2: Switched to Drapion
+Turn 1:
+p2: Drapion used Earthquake on Omastar
+p1: Omastar used Shell Smash on Omastar
+Turn 2:
+p1: Omastar used Earth Power on Drapion
+p2: Drapion fainted
+p2: Switched to Starmie
+Turn 3:
+p1: Omastar used Earth Power on Starmie
+p2: Starmie used Scald on Omastar
+p1: Omastar fainted
+p1: Switched to Blastoise
+Turn 4:
+p2: Starmie used Psyshock on Blastoise
+p1: Blastoise used Toxic on Starmie
+Turn 5:
+p2: Starmie used Scald on Blastoise
+p1: Blastoise used Rapid Spin on Starmie
+p2: Starmie fainted
+p2: Switched to Toxtricity
+Turn 6:
+p1: Blastoise used Scald on Toxtricity
+p2: Toxtricity used Overdrive on Blastoise
+p1: Blastoise fainted
+p1: Switched to Dhelmise
+Turn 7:
+p2: Switched to Arcanine
+p1: Dhelmise used Swords Dance on Dhelmise
+Turn 8:
+p2: Arcanine used Flare Blitz on Dhelmise
+p1: Dhelmise used Max Phantasm on Arcanine
+p2: Arcanine fainted
+p2: Switched to Toxtricity
+Turn 9:
+p2: Toxtricity used Sludge Wave on Dhelmise
+p1: Dhelmise used Max Phantasm on Toxtricity
+p2: Toxtricity fainted
+p2: Switched to Latias
+Turn 10:
+p2: Latias used Max Guard on Latias
+p1: Dhelmise used Max Steelspike on Latias
+Turn 11:
+p2: Latias used Max Mindstorm on Dhelmise
+p1: Dhelmise fainted
+p1: Switched to Latios
+Turn 12:
+p2: Latias used Max Wyrmwind on Latios
+p1: Latios fainted
+p1: Switched to Dialga
+Turn 13:
+p2: Latias used Calm Mind on Latias
+p1: Dialga used Flash Cannon on Latias
+Turn 14:
+p2: Latias used Calm Mind on Latias
+p1: Dialga used Draco Meteor on Latias
+Turn 15:
+p1: Switched to Zacian-Crowned
+p2: Latias used Roost on Latias
+Turn 16:
+p2: Latias used Psychic on Zacian-Crowned
+p1: Zacian-Crowned used Swords Dance on Zacian-Crowned
+Turn 17:
+p2: Latias used Psychic on Zacian-Crowned
+p1: Zacian-Crowned used Crunch on Latias
+p2: Latias fainted
+p2: Switched to Virizion
+Turn 18:
+p2: Virizion used Leaf Blade on Zacian-Crowned
+p1: Zacian-Crowned fainted
+p1: Switched to Dialga
+Turn 19:
+p2: Virizion used Swords Dance on Virizion
+p1: Dialga used Draco Meteor on Virizion
+Turn 20:
+p2: Virizion used Swords Dance on Virizion
+p1: Dialga used Draco Meteor on Virizion
+Turn 21:
+p2: Virizion used Close Combat on Dialga
+p1: Dialga fainted

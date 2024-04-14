@@ -1,0 +1,384 @@
+|j|☆wizardfrogg
+|j|☆JizanPU
+|t:|1711938260
+|gametype|singles
+|player|p1|wizardfrogg|drayden|1187
+|player|p2|JizanPU|clerk|1258
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Vikavolt, F|
+|poke|p1|Floatzel, M|
+|poke|p1|Bombirdier, F|
+|poke|p1|Hariyama, M|
+|poke|p1|Houndstone, M|
+|poke|p1|Farigiraf, F|
+|poke|p2|Lycanroc, M|
+|poke|p2|Shaymin|
+|poke|p2|Braviary, M|
+|poke|p2|Lapras, F|
+|poke|p2|Jolteon, F|
+|poke|p2|Bronzong|
+|teampreview
+|c|☆JizanPU|glhf
+|c|☆wizardfrogg|u2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JizanPU)
+|
+|t:|1711938296
+|start
+|switch|p1a: Houndstone|Houndstone, M|100/100
+|switch|p2a: Bronzong|Bronzong|100/100
+|turn|1
+|
+|t:|1711938303
+|switch|p2a: Braviary|Braviary, M|100/100
+|move|p1a: Houndstone|Will-O-Wisp|p2a: Braviary
+|-status|p2a: Braviary|brn
+|
+|-damage|p2a: Braviary|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|wizardfrogg has 120 seconds left.
+|inactive|JizanPU has 120 seconds left.
+|
+|t:|1711938336
+|switch|p1a: Bombirdier|Bombirdier, F|100/100
+|move|p2a: Braviary|Brave Bird|p1a: Bombirdier
+|-damage|p1a: Bombirdier|57/100
+|-damage|p2a: Braviary|84/100 brn|[from] Recoil
+|
+|-damage|p2a: Braviary|78/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|wizardfrogg has 120 seconds left.
+|inactive|JizanPU has 120 seconds left.
+|
+|t:|1711938354
+|switch|p2a: Bronzong|Bronzong|100/100
+|move|p1a: Bombirdier|Stealth Rock|p2a: Bronzong
+|-sidestart|p2: JizanPU|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1711938362
+|move|p1a: Bombirdier|Knock Off|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|30/100
+|-damage|p1a: Bombirdier|40/100|[from] item: Rocky Helmet|[of] p2a: Bronzong
+|-enditem|p2a: Bronzong|Rocky Helmet|[from] move: Knock Off|[of] p1a: Bombirdier
+|move|p2a: Bronzong|Stealth Rock|p1a: Bombirdier
+|-sidestart|p1: wizardfrogg|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1711938372
+|move|p1a: Bombirdier|Parting Shot|p2a: Bronzong
+|-unboost|p2a: Bronzong|atk|1
+|-unboost|p2a: Bronzong|spa|1
+|
+|t:|1711938379
+|switch|p1a: Houndstone|Houndstone, M|100/100|[from] Parting Shot
+|-damage|p1a: Houndstone|88/100|[from] Stealth Rock
+|move|p2a: Bronzong|Ice Spinner|p1a: Houndstone
+|-damage|p1a: Houndstone|81/100
+|
+|-heal|p1a: Houndstone|87/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711938396
+|move|p1a: Houndstone|Shadow Sneak|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|5/100
+|move|p2a: Bronzong|Gyro Ball|p1a: Houndstone
+|-damage|p1a: Houndstone|78/100
+|
+|-heal|p1a: Houndstone|84/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711938406
+|move|p1a: Houndstone|Shadow Sneak|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|
+|-heal|p1a: Houndstone|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938412
+|switch|p2a: Braviary|Braviary, M|78/100 brn
+|turn|8
+|inactive|wizardfrogg has 120 seconds left.
+|
+|t:|1711938449
+|switch|p1a: Bombirdier|Bombirdier, F|40/100
+|move|p2a: Braviary|Defog|p1a: Bombirdier
+|-unboost|p1a: Bombirdier|evasion|1
+|-sideend|p1: wizardfrogg|Stealth Rock|[from] move: Defog|[of] p2a: Braviary
+|-sideend|p2: JizanPU|Stealth Rock|[from] move: Defog|[of] p2a: Braviary
+|
+|-damage|p2a: Braviary|72/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711938464
+|move|p1a: Bombirdier|Brave Bird|p2a: Braviary
+|-damage|p2a: Braviary|18/100 brn
+|-damage|p1a: Bombirdier|15/100|[from] Recoil
+|move|p2a: Braviary|Brave Bird|p1a: Bombirdier
+|-damage|p1a: Bombirdier|0 fnt
+|faint|p1a: Bombirdier
+|-damage|p2a: Braviary|15/100 brn|[from] Recoil
+|
+|-damage|p2a: Braviary|9/100 brn|[from] brn
+|upkeep
+|
+|t:|1711938470
+|switch|p1a: Floatzel|Floatzel, M|100/100
+|turn|10
+|
+|t:|1711938482
+|switch|p2a: Lapras|Lapras, F, shiny|100/100
+|move|p1a: Floatzel|Flip Turn|p2a: Lapras
+|-immune|p2a: Lapras|[from] ability: Water Absorb
+|
+|upkeep
+|turn|11
+|
+|t:|1711938491
+|switch|p1a: Hariyama|Hariyama, M|100/100
+|move|p2a: Lapras|Freeze-Dry|p1a: Hariyama
+|-damage|p1a: Hariyama|89/100
+|
+|upkeep
+|turn|12
+|inactive|wizardfrogg has 120 seconds left.
+|
+|t:|1711938501
+|move|p2a: Lapras|Alluring Voice|p1a: Hariyama
+|-supereffective|p1a: Hariyama
+|-damage|p1a: Hariyama|52/100
+|move|p1a: Hariyama|Knock Off|p2a: Lapras
+|-crit|p2a: Lapras
+|-damage|p2a: Lapras|58/100
+|-enditem|p2a: Lapras|Assault Vest|[from] move: Knock Off|[of] p1a: Hariyama
+|
+|upkeep
+|turn|13
+|inactive|wizardfrogg has 120 seconds left.
+|
+|t:|1711938532
+|-terastallize|p1a: Hariyama|Steel
+|move|p1a: Hariyama|Bullet Punch|p2a: Lapras
+|-damage|p2a: Lapras|40/100
+|move|p2a: Lapras|Alluring Voice|p1a: Hariyama
+|-resisted|p1a: Hariyama
+|-damage|p1a: Hariyama|43/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711938540
+|move|p2a: Lapras|Thunderbolt|p1a: Hariyama
+|-damage|p1a: Hariyama|22/100
+|move|p1a: Hariyama|Close Combat|p2a: Lapras
+|-supereffective|p2a: Lapras
+|-crit|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|-unboost|p1a: Hariyama|def|1
+|-unboost|p1a: Hariyama|spd|1
+|faint|p2a: Lapras
+|
+|upkeep
+|
+|t:|1711938551
+|switch|p2a: Braviary|Braviary, M|9/100 brn
+|turn|15
+|
+|t:|1711938556
+|move|p1a: Hariyama|Bullet Punch|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|faint|p2a: Braviary
+|
+|upkeep
+|
+|t:|1711938565
+|switch|p2a: Jolteon|Jolteon, F, shiny|100/100
+|turn|16
+|
+|t:|1711938572
+|switch|p1a: Vikavolt|Vikavolt, F|100/100
+|move|p2a: Jolteon|Volt Switch|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|65/100
+|
+|t:|1711938578
+|switch|p2a: Lycanroc|Lycanroc, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|17
+|
+|t:|1711938586
+|switch|p1a: Houndstone|Houndstone, M|90/100
+|move|p2a: Lycanroc|Accelerock|p1a: Houndstone
+|-damage|p1a: Houndstone|75/100
+|
+|-heal|p1a: Houndstone|81/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711938596
+|switch|p2a: Shaymin|Shaymin, shiny|100/100
+|move|p1a: Houndstone|Poltergeist|p2a: Shaymin
+|-activate|p2a: Shaymin|move: Poltergeist|Choice Scarf
+|-damage|p2a: Shaymin|60/100
+|
+|-heal|p1a: Houndstone|87/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711938626
+|move|p2a: Shaymin|Seed Flare|p1a: Houndstone
+|-damage|p1a: Houndstone|52/100
+|-unboost|p1a: Houndstone|spd|2
+|move|p1a: Houndstone|Poltergeist|p2a: Shaymin|[miss]
+|-miss|p1a: Houndstone|p2a: Shaymin
+|
+|-heal|p1a: Houndstone|58/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711938635
+|switch|p1a: Vikavolt|Vikavolt, F|65/100
+|move|p2a: Shaymin|Seed Flare|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|29/100
+|-unboost|p1a: Vikavolt|spd|2
+|
+|upkeep
+|turn|21
+|
+|t:|1711938643
+|move|p2a: Shaymin|Seed Flare|p1a: Vikavolt
+|-resisted|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|
+|t:|1711938647
+|switch|p1a: Farigiraf|Farigiraf, F|100/100
+|turn|22
+|
+|t:|1711938652
+|switch|p2a: Jolteon|Jolteon, F, shiny|100/100
+|move|p1a: Farigiraf|Psychic|p2a: Jolteon
+|-damage|p2a: Jolteon|4/100
+|
+|upkeep
+|turn|23
+|
+|t:|1711938658
+|move|p2a: Jolteon|Discharge|p1a: Farigiraf
+|-damage|p1a: Farigiraf|46/100
+|move|p1a: Farigiraf|Psychic|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|t:|1711938669
+|switch|p2a: Lycanroc|Lycanroc, M|100/100
+|turn|24
+|
+|t:|1711938676
+|switch|p1a: Houndstone|Houndstone, M|58/100
+|move|p2a: Lycanroc|Crunch|p1a: Houndstone
+|-supereffective|p1a: Houndstone
+|-damage|p1a: Houndstone|21/100
+|
+|-heal|p1a: Houndstone|28/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711938683
+|move|p2a: Lycanroc|Crunch|p1a: Houndstone
+|-supereffective|p1a: Houndstone
+|-damage|p1a: Houndstone|0 fnt
+|faint|p1a: Houndstone
+|
+|upkeep
+|
+|t:|1711938688
+|switch|p1a: Floatzel|Floatzel, M|100/100
+|turn|26
+|
+|t:|1711938698
+|switch|p2a: Shaymin|Shaymin, shiny|60/100
+|move|p1a: Floatzel|Ice Spinner|p2a: Shaymin
+|-supereffective|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|upkeep
+|
+|t:|1711938705
+|switch|p2a: Lycanroc|Lycanroc, M|100/100
+|turn|27
+|
+|t:|1711938719
+|switch|p1a: Farigiraf|Farigiraf, F|46/100
+|-terastallize|p2a: Lycanroc|Psychic
+|move|p2a: Lycanroc|Close Combat|p1a: Farigiraf
+|-damage|p1a: Farigiraf|0 fnt
+|-unboost|p2a: Lycanroc|def|1
+|-unboost|p2a: Lycanroc|spd|1
+|faint|p1a: Farigiraf
+|
+|upkeep
+|
+|t:|1711938737
+|switch|p1a: Hariyama|Hariyama, M, tera:Steel|22/100
+|turn|28
+|
+|t:|1711938740
+|move|p1a: Hariyama|Bullet Punch|p2a: Lycanroc
+|-damage|p2a: Lycanroc|50/100
+|move|p2a: Lycanroc|Close Combat|p1a: Hariyama
+|-supereffective|p1a: Hariyama
+|-damage|p1a: Hariyama|0 fnt
+|-unboost|p2a: Lycanroc|def|1
+|-unboost|p2a: Lycanroc|spd|1
+|faint|p1a: Hariyama
+|
+|upkeep
+|
+|t:|1711938744
+|switch|p1a: Floatzel|Floatzel, M|100/100
+|turn|29
+|
+|t:|1711938751
+|move|p1a: Floatzel|Aqua Jet|p2a: Lycanroc
+|-damage|p2a: Lycanroc|0 fnt
+|faint|p2a: Lycanroc
+|
+|win|wizardfrogg
+|raw|wizardfrogg's rating: 1187 &rarr; <strong>1217</strong><br />(+30 for winning)
+|raw|JizanPU's rating: 1258 &rarr; <strong>1228</strong><br />(-30 for losing)
+|c|☆wizardfrogg|gg
+|l|☆wizardfrogg
+|player|p1|
+|c|☆JizanPU|gg

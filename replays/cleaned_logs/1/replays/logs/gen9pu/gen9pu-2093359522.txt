@@ -1,0 +1,68 @@
+p1: Switched to Decidueye-Hisui
+p2: Switched to Carbink
+Turn 1:
+p1: Decidueye-Hisui used Triple Arrows on Carbink
+p2: Carbink used Trick Room on Carbink
+Turn 2:
+p2: Carbink used Misty Explosion on Decidueye-Hisui
+p2: Carbink fainted
+p1: Decidueye-Hisui used Triple Arrows on p2: Carbink
+p2: Switched to Glastrier
+Turn 3:
+p1: Switched to Morpeko
+p2: Glastrier used Swords Dance on Glastrier
+Turn 4:
+p1: Morpeko used Fake Out on Glastrier
+p2: Glastrier can't move
+Turn 5:
+p2: Glastrier used Icicle Crash on Morpeko
+p1: Morpeko fainted
+p1: Switched to Lapras
+Turn 6:
+p1: Lapras used Icicle Spear on Glastrier
+p2: Glastrier used High Horsepower on Lapras
+Turn 7:
+p1: Lapras used Icicle Spear on Glastrier
+p2: Glastrier fainted
+p2: Switched to Dudunsparce
+Turn 8:
+p1: Lapras used Icicle Spear on Dudunsparce
+p2: Dudunsparce used Agility on Dudunsparce
+Turn 9:
+p1: Switched to Decidueye-Hisui
+p2: Dudunsparce used Boomburst on Decidueye-Hisui
+Turn 10:
+p2: Dudunsparce used Shadow Ball on Decidueye-Hisui
+p1: Decidueye-Hisui fainted
+p1: Switched to Charizard
+Turn 11:
+p2: Dudunsparce used Boomburst on Charizard
+p1: Charizard used Flamethrower on Dudunsparce
+p2: Dudunsparce fainted
+p2: Switched to Ampharos
+Turn 12:
+p1: Charizard used Scorching Sands on Ampharos
+p2: Ampharos used Agility on Ampharos
+Turn 13:
+p2: Ampharos failed to use Meteor Beam
+p1: Charizard used Scorching Sands on Ampharos
+p2: Ampharos fainted
+p2: Switched to Porygon2
+Turn 14:
+p1: Charizard used Flamethrower on Porygon2
+p2: Porygon2 used Charge Beam on Charizard
+Turn 15:
+p1: Charizard used Flamethrower on Porygon2
+p2: Porygon2 used Charge Beam on Charizard
+p1: Charizard fainted
+p1: Switched to Hoopa
+Turn 16:
+p1: Hoopa used Psychic on Porygon2
+p2: Porygon2 fainted
+p2: Switched to Shaymin
+Turn 17:
+p1: Hoopa used Psychic on Shaymin
+p2: Shaymin used Seed Flare on Hoopa
+Turn 18:
+p1: Hoopa used Psychic on Shaymin
+p2: Shaymin fainted

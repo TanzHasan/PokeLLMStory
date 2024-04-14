@@ -1,0 +1,678 @@
+|j|☆dawngarden
+|j|☆The Bakerman
+|t:|1711940439
+|gametype|singles
+|player|p1|dawngarden|aromalady|1141
+|player|p2|The Bakerman|baker|1376
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|1
+|tier|[Gen 1] OU
+|rated|
+|rule|Desync Clause Mod: Desyncs changed to move failure.
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711940439
+|start
+|switch|p1a: Ditto|Ditto|100/100
+|switch|p2a: Macaron|Jynx|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by The Bakerman)
+|c|☆The Bakerman|Awesome
+|
+|t:|1711940465
+|move|p2a: Macaron|Lovely Kiss|p1a: Ditto|[miss]
+|-miss|p2a: Macaron
+|move|p1a: Ditto|Transform|p2a: Macaron
+|-transform|p1a: Ditto|p2a: Macaron
+|
+|upkeep
+|turn|2
+|
+|t:|1711940471
+|move|p2a: Macaron|Lovely Kiss|p1a: Ditto
+|-status|p1a: Ditto|slp|[from] move: Lovely Kiss
+|cant|p1a: Ditto|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1711940478
+|move|p2a: Macaron|Seismic Toss|p1a: Ditto
+|-damage|p1a: Ditto|67/100 slp
+|-curestatus|p1a: Ditto|slp|[msg]
+|
+|upkeep
+|turn|4
+|
+|t:|1711940485
+|move|p2a: Macaron|Lovely Kiss|p1a: Ditto
+|-status|p1a: Ditto|slp|[from] move: Lovely Kiss
+|-curestatus|p1a: Ditto|slp|[msg]
+|
+|upkeep
+|turn|5
+|
+|t:|1711940490
+|move|p2a: Macaron|Lovely Kiss|p1a: Ditto|[miss]
+|-miss|p2a: Macaron
+|move|p1a: Ditto|Lovely Kiss|p2a: Macaron
+|-status|p2a: Macaron|slp|[from] move: Lovely Kiss
+|
+|upkeep
+|turn|6
+|
+|t:|1711940498
+|switch|p2a: Sourdough|Chansey|100/100
+|move|p1a: Ditto|Seismic Toss|p2a: Sourdough
+|-damage|p2a: Sourdough|86/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711940507
+|move|p1a: Ditto|Psychic|p2a: Sourdough
+|-damage|p2a: Sourdough|73/100
+|move|p2a: Sourdough|Thunderbolt|p1a: Ditto
+|-damage|p1a: Ditto|39/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711940515
+|move|p1a: Ditto|Blizzard|p2a: Sourdough
+|-damage|p2a: Sourdough|54/100
+|move|p2a: Sourdough|Thunderbolt|p1a: Ditto
+|-damage|p1a: Ditto|14/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711940521
+|move|p1a: Ditto|Blizzard|p2a: Sourdough|[miss]
+|-miss|p1a: Ditto
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711940527
+|move|p1a: Ditto|Blizzard|p2a: Sourdough
+|-damage|p2a: Sourdough|83/100
+|move|p2a: Sourdough|Thunderbolt|p1a: Ditto
+|-crit|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|t:|1711940536
+|switch|p1a: Snorlax|Snorlax|100/100
+|turn|11
+|
+|t:|1711940541
+|move|p2a: Sourdough|Sing|p1a: Snorlax|[miss]
+|-miss|p2a: Sourdough
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|42/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711940548
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|92/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|49/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711940554
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|99/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|58/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711940561
+|move|p2a: Sourdough|Sing|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Sing
+|-curestatus|p1a: Snorlax|slp|[msg]
+|
+|upkeep
+|turn|15
+|
+|t:|1711940565
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|100/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|61/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711940574
+|move|p2a: Sourdough|Sing|p1a: Snorlax|[miss]
+|-miss|p2a: Sourdough
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|21/100
+|
+|upkeep
+|turn|17
+|
+|t:|1711940580
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|71/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|31/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711940587
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|80/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|40/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711940593
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|90/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|50/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711940600
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|99/100
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|59/100
+|
+|upkeep
+|turn|21
+|
+|t:|1711940607
+|move|p2a: Sourdough|Sing|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Sing
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|22
+|
+|t:|1711940617
+|switch|p2a: Éclair|Starmie|100/100
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1711940625
+|move|p2a: Éclair|Psychic|p1a: Snorlax
+|-damage|p1a: Snorlax|73/100 slp
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|24
+|
+|t:|1711940638
+|move|p2a: Éclair|Psychic|p1a: Snorlax
+|-damage|p1a: Snorlax|46/100 slp
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|25
+|
+|t:|1711940661
+|move|p2a: Éclair|Psychic|p1a: Snorlax
+|-damage|p1a: Snorlax|22/100 slp
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|26
+|
+|t:|1711940667
+|switch|p1a: Chansey|Chansey|100/100
+|move|p2a: Éclair|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|87/100
+|
+|upkeep
+|turn|27
+|
+|t:|1711940675
+|switch|p2a: Sourdough|Chansey|59/100
+|move|p1a: Chansey|Blizzard|p2a: Sourdough
+|-damage|p2a: Sourdough|44/100
+|
+|upkeep
+|turn|28
+|
+|t:|1711940682
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|94/100
+|move|p1a: Chansey|Blizzard|p2a: Sourdough
+|-crit|p2a: Sourdough
+|-damage|p2a: Sourdough|69/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711940689
+|move|p1a: Chansey|Blizzard|p2a: Sourdough|[miss]
+|-miss|p1a: Chansey
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|77/100
+|
+|upkeep
+|turn|30
+|
+|t:|1711940695
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|67/100
+|move|p1a: Chansey|Blizzard|p2a: Sourdough|[miss]
+|-miss|p1a: Chansey
+|
+|upkeep
+|turn|31
+|
+|t:|1711940701
+|move|p1a: Chansey|Blizzard|p2a: Sourdough|[miss]
+|-miss|p1a: Chansey
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|57/100
+|
+|upkeep
+|turn|32
+|
+|t:|1711940707
+|move|p1a: Chansey|Blizzard|p2a: Sourdough|[miss]
+|-miss|p1a: Chansey
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|46/100
+|
+|upkeep
+|turn|33
+|c|☆The Bakerman|This just aint your game mate
+|inactive|The Bakerman has 120 seconds left.
+|
+|t:|1711940739
+|move|p1a: Chansey|Blizzard|p2a: Sourdough
+|-damage|p2a: Sourdough|55/100
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|100/100
+|
+|upkeep
+|turn|34
+|
+|t:|1711940746
+|move|p1a: Chansey|Blizzard|p2a: Sourdough
+|-damage|p2a: Sourdough|86/100
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|35/100
+|
+|upkeep
+|turn|35
+|
+|t:|1711940756
+|move|p2a: Sourdough|Ice Beam|p1a: Chansey
+|-damage|p1a: Chansey|24/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|74/100
+|
+|upkeep
+|turn|36
+|
+|t:|1711940763
+|switch|p1a: Jynx|Jynx|100/100
+|move|p2a: Sourdough|Ice Beam|p1a: Jynx
+|-crit|p1a: Jynx
+|-resisted|p1a: Jynx
+|-damage|p1a: Jynx|78/100
+|
+|upkeep
+|turn|37
+|
+|t:|1711940780
+|switch|p2a: Éclair|Starmie|100/100
+|move|p1a: Jynx|Blizzard|p2a: Éclair
+|-resisted|p2a: Éclair
+|-damage|p2a: Éclair|79/100
+|-status|p2a: Éclair|frz
+|
+|upkeep
+|turn|38
+|
+|t:|1711940790
+|switch|p2a: Sourdough|Chansey|86/100
+|move|p1a: Jynx|Psychic|p2a: Sourdough
+|-damage|p2a: Sourdough|73/100
+|-unboost|p2a: Sourdough|spa|1
+|-unboost|p2a: Sourdough|spd|1
+|
+|upkeep
+|turn|39
+|
+|t:|1711940797
+|move|p1a: Jynx|Psychic|p2a: Sourdough
+|-damage|p2a: Sourdough|51/100
+|move|p2a: Sourdough|Soft-Boiled|p2a: Sourdough
+|-heal|p2a: Sourdough|100/100
+|
+|upkeep
+|turn|40
+|
+|t:|1711940805
+|move|p1a: Jynx|Psychic|p2a: Sourdough
+|-damage|p2a: Sourdough|79/100
+|-unboost|p2a: Sourdough|spa|1
+|-unboost|p2a: Sourdough|spd|1
+|move|p2a: Sourdough|Thunderbolt|p1a: Jynx
+|-damage|p1a: Jynx|67/100
+|
+|upkeep
+|turn|41
+|
+|t:|1711940814
+|switch|p2a: Éclair|Starmie|79/100 frz
+|move|p1a: Jynx|Psychic|p2a: Éclair
+|-resisted|p2a: Éclair
+|-damage|p2a: Éclair|64/100 frz
+|-unboost|p2a: Éclair|spa|1
+|-unboost|p2a: Éclair|spd|1
+|
+|upkeep
+|turn|42
+|
+|t:|1711940824
+|switch|p2a: Cheesecake|Slowbro|100/100
+|move|p1a: Jynx|Psychic|p2a: Cheesecake
+|-resisted|p2a: Cheesecake
+|-damage|p2a: Cheesecake|87/100
+|
+|upkeep
+|turn|43
+|
+|t:|1711940832
+|switch|p1a: Jolteon|Jolteon|100/100
+|move|p2a: Cheesecake|Amnesia|p2a: Cheesecake
+|-boost|p2a: Cheesecake|spa|2
+|-boost|p2a: Cheesecake|spd|2
+|
+|upkeep
+|turn|44
+|
+|t:|1711940839
+|move|p1a: Jolteon|Thunderbolt|p2a: Cheesecake
+|-supereffective|p2a: Cheesecake
+|-damage|p2a: Cheesecake|52/100
+|move|p2a: Cheesecake|Thunder Wave|p1a: Jolteon
+|-status|p1a: Jolteon|par
+|
+|upkeep
+|turn|45
+|
+|t:|1711940850
+|move|p2a: Cheesecake|Psychic|p1a: Jolteon
+|-damage|p1a: Jolteon|53/100 par
+|move|p1a: Jolteon|Agility|p1a: Jolteon
+|-boost|p1a: Jolteon|spe|2
+|
+|upkeep
+|turn|46
+|
+|t:|1711940857
+|move|p1a: Jolteon|Thunderbolt|p2a: Cheesecake
+|-supereffective|p2a: Cheesecake
+|-damage|p2a: Cheesecake|17/100
+|move|p2a: Cheesecake|Amnesia|p2a: Cheesecake
+|-boost|p2a: Cheesecake|spa|2
+|-boost|p2a: Cheesecake|spd|2
+|
+|upkeep
+|turn|47
+|
+|t:|1711940864
+|move|p1a: Jolteon|Thunderbolt|p2a: Cheesecake
+|-supereffective|p2a: Cheesecake
+|-damage|p2a: Cheesecake|0 fnt
+|faint|p2a: Cheesecake
+|
+|t:|1711940872
+|switch|p2a: Pound Cake|Snorlax|100/100
+|turn|48
+|
+|t:|1711940888
+|move|p1a: Jolteon|Thunder Wave|p2a: Pound Cake
+|-status|p2a: Pound Cake|par
+|move|p2a: Pound Cake|Body Slam|p1a: Jolteon
+|-damage|p1a: Jolteon|8/100 par
+|
+|upkeep
+|turn|49
+|
+|t:|1711940895
+|move|p1a: Jolteon|Thunderbolt|p2a: Pound Cake
+|-crit|p2a: Pound Cake
+|-damage|p2a: Pound Cake|40/100 par
+|move|p2a: Pound Cake|Body Slam|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|faint|p1a: Jolteon
+|
+|t:|1711940913
+|switch|p1a: Tauros|Tauros|100/100
+|turn|50
+|
+|t:|1711940921
+|move|p1a: Tauros|Hyper Beam|p2a: Pound Cake
+|-damage|p2a: Pound Cake|0 fnt
+|faint|p2a: Pound Cake
+|
+|t:|1711940931
+|switch|p2a: Biscuit|Tauros|100/100
+|turn|51
+|
+|t:|1711940936
+|switch|p1a: Jynx|Jynx|67/100
+|move|p2a: Biscuit|Body Slam|p1a: Jynx
+|-crit|p1a: Jynx
+|-damage|p1a: Jynx|0 fnt
+|faint|p1a: Jynx
+|
+|t:|1711940946
+|switch|p1a: Chansey|Chansey|74/100
+|turn|52
+|
+|t:|1711940954
+|switch|p2a: Sourdough|Chansey|79/100
+|move|p1a: Chansey|Thunder Wave|p2a: Sourdough
+|-status|p2a: Sourdough|par
+|
+|upkeep
+|turn|53
+|
+|t:|1711940961
+|switch|p1a: Snorlax|Snorlax|22/100 slp
+|cant|p2a: Sourdough|par
+|
+|upkeep
+|turn|54
+|
+|t:|1711940972
+|-curestatus|p1a: Snorlax|slp|[msg]
+|cant|p2a: Sourdough|par
+|
+|upkeep
+|turn|55
+|
+|t:|1711940979
+|switch|p2a: Éclair|Starmie|64/100 frz
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|upkeep
+|turn|56
+|
+|t:|1711940987
+|switch|p2a: Biscuit|Tauros|100/100
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|57
+|
+|t:|1711941000
+|switch|p1a: Chansey|Chansey|74/100
+|move|p2a: Biscuit|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|33/100
+|
+|upkeep
+|turn|58
+|
+|t:|1711941007
+|move|p2a: Biscuit|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|t:|1711941011
+|switch|p1a: Tauros|Tauros|100/100
+|turn|59
+|
+|t:|1711941016
+|move|p1a: Tauros|Body Slam|p2a: Biscuit
+|-damage|p2a: Biscuit|70/100
+|move|p2a: Biscuit|Body Slam|p1a: Tauros
+|-damage|p1a: Tauros|71/100
+|
+|upkeep
+|turn|60
+|
+|t:|1711941024
+|move|p2a: Biscuit|Body Slam|p1a: Tauros
+|-damage|p1a: Tauros|40/100
+|move|p1a: Tauros|Body Slam|p2a: Biscuit
+|-damage|p2a: Biscuit|43/100
+|
+|upkeep
+|turn|61
+|
+|t:|1711941031
+|switch|p2a: Sourdough|Chansey|79/100 par
+|move|p1a: Tauros|Hyper Beam|p2a: Sourdough
+|-damage|p2a: Sourdough|8/100 par
+|-mustrecharge|p1a: Tauros
+|
+|upkeep
+|turn|62
+|
+|t:|1711941041
+|cant|p1a: Tauros|recharge
+|move|p2a: Sourdough|Sing|p1a: Tauros
+|-status|p1a: Tauros|slp|[from] move: Sing
+|
+|upkeep
+|turn|63
+|
+|t:|1711941050
+|switch|p1a: Snorlax|Snorlax|100/100 slp
+|move|p2a: Sourdough|Ice Beam|p1a: Snorlax
+|-damage|p1a: Snorlax|82/100 slp
+|
+|upkeep
+|turn|64
+|
+|t:|1711941063
+|-curestatus|p1a: Snorlax|slp|[msg]
+|cant|p2a: Sourdough|par
+|
+|upkeep
+|turn|65
+|
+|t:|1711941070
+|move|p1a: Snorlax|Reflect|p1a: Snorlax
+|-start|p1a: Snorlax|Reflect
+|cant|p2a: Sourdough|par
+|
+|upkeep
+|turn|66
+|
+|t:|1711941075
+|move|p1a: Snorlax|Body Slam|p2a: Sourdough
+|-damage|p2a: Sourdough|0 fnt
+|faint|p2a: Sourdough
+|
+|t:|1711941082
+|switch|p2a: Biscuit|Tauros|43/100
+|turn|67
+|
+|t:|1711941087
+|move|p2a: Biscuit|Blizzard|p1a: Snorlax
+|-damage|p1a: Snorlax|64/100
+|move|p1a: Snorlax|Body Slam|p2a: Biscuit
+|-damage|p2a: Biscuit|13/100
+|
+|upkeep
+|turn|68
+|
+|t:|1711941094
+|move|p2a: Biscuit|Hyper Beam|p1a: Snorlax
+|-damage|p1a: Snorlax|43/100
+|-mustrecharge|p2a: Biscuit
+|move|p1a: Snorlax|Body Slam|p2a: Biscuit
+|-damage|p2a: Biscuit|0 fnt
+|faint|p2a: Biscuit
+|
+|t:|1711941097
+|switch|p2a: Macaron|Jynx|100/100 slp
+|turn|69
+|
+|t:|1711941103
+|cant|p2a: Macaron|slp
+|move|p1a: Snorlax|Body Slam|p2a: Macaron
+|-damage|p2a: Macaron|41/100 slp
+|
+|upkeep
+|turn|70
+|
+|t:|1711941108
+|-curestatus|p2a: Macaron|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Macaron
+|-damage|p2a: Macaron|0 fnt
+|faint|p2a: Macaron
+|
+|t:|1711941111
+|switch|p2a: Éclair|Starmie|64/100 frz
+|turn|71
+|
+|t:|1711941117
+|cant|p2a: Éclair|frz
+|move|p1a: Snorlax|Body Slam|p2a: Éclair
+|-damage|p2a: Éclair|29/100 frz
+|
+|upkeep
+|turn|72
+|c|☆The Bakerman|Gg
+|
+|t:|1711941123
+|cant|p2a: Éclair|frz
+|move|p1a: Snorlax|Body Slam|p2a: Éclair
+|-damage|p2a: Éclair|0 fnt
+|faint|p2a: Éclair
+|
+|win|dawngarden
+|raw|dawngarden's rating: 1141 &rarr; <strong>1181</strong><br />(+40 for winning)
+|raw|The Bakerman's rating: 1376 &rarr; <strong>1344</strong><br />(-32 for losing)
+|c|☆dawngarden|gg
+|l|☆The Bakerman
+|player|p2|

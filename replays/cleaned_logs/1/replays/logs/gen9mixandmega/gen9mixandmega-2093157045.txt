@@ -1,0 +1,40 @@
+p1: Switched to Tornadus-Therian
+p2: Switched to Charizard
+Turn 1:
+p1: Tornadus-Therian used Weather Ball on Charizard
+p2: Charizard used Dragon Claw on Tornadus-Therian
+Turn 2:
+p1: Tornadus-Therian used U-turn on Charizard
+p1: Switched to Lucario
+p2: Charizard used Dragon Claw on Lucario
+Turn 3:
+p1: Lucario used Extreme Speed on Charizard
+p2: Charizard fainted
+p2: Switched to Banette
+Turn 4:
+p1: Lucario used Swords Dance on Lucario
+p2: Banette used Gunk Shot on Lucario
+Turn 5:
+p1: Lucario used Meteor Mash on Banette
+p2: Banette fainted
+p2: Switched to Meowscarada
+Turn 6:
+p1: Lucario used Extreme Speed on Meowscarada
+p2: Meowscarada fainted
+p2: Switched to Kyurem-Black
+Turn 7:
+p1: Lucario used Extreme Speed on Kyurem-Black
+p2: Kyurem-Black fainted
+p2: Switched to Latios
+Turn 8:
+p1: Lucario used Extreme Speed on Latios
+p2: Latios fainted
+p2: Switched to Blastoise
+Turn 9:
+p1: Lucario used Drain Punch on Blastoise
+p2: Blastoise used Aura Sphere on Lucario
+p1: Lucario fainted
+p1: Switched to Tornadus-Therian
+Turn 10:
+p1: Tornadus-Therian used Hurricane on Blastoise
+p2: Blastoise fainted

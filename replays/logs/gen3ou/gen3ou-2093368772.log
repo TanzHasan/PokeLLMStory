@@ -1,0 +1,363 @@
+|j|☆Pewpiepie
+|j|☆mcspazz
+|t:|1711945739
+|gametype|singles
+|player|p1|Pewpiepie|rocket-gen1|1505
+|player|p2|mcspazz|teamrocket|1433
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711945739
+|start
+|switch|p1a: Xëřņæş|Stantler, M, shiny|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p1a: Xëřņæş|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|1
+|j| Odisha Brandt
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pewpiepie)
+|
+|t:|1711945767
+|move|p2a: Zapdos|Thunderbolt|p1a: Xëřņæş
+|-damage|p1a: Xëřņæş|32/100
+|move|p1a: Xëřņæş|Confuse Ray|p2a: Zapdos
+|-start|p2a: Zapdos|confusion
+|
+|-heal|p1a: Xëřņæş|38/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711945776
+|switch|p2a: Steelix|Steelix, F, shiny|100/100
+|switch|p1a: Bolteon|Jolteon, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711945781
+|move|p1a: Bolteon|Baton Pass|p1a: Bolteon
+|
+|t:|1711945783
+|switch|p1a: Tetanus|Skarmory, F|100/100|[from] Baton Pass
+|move|p2a: Steelix|Earthquake|p1a: Tetanus
+|-immune|p1a: Tetanus
+|
+|upkeep
+|turn|4
+|
+|t:|1711945800
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Tetanus|Spikes|p2a: Zapdos
+|-sidestart|p2: mcspazz|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1711945803
+|switch|p1a: Bolteon|Jolteon, M|100/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Bolteon
+|-status|p1a: Bolteon|par
+|
+|upkeep
+|turn|6
+|
+|t:|1711945807
+|move|p2a: Zapdos|Baton Pass|p2a: Zapdos
+|
+|t:|1711945810
+|switch|p2a: Dugtrio|Dugtrio, M, shiny|100/100|[from] Baton Pass
+|-damage|p2a: Dugtrio|88/100|[from] Spikes
+|cant|p1a: Bolteon|par
+|
+|upkeep
+|turn|7
+|
+|t:|1711945839
+|move|p2a: Dugtrio|Earthquake|p1a: Bolteon
+|-supereffective|p1a: Bolteon
+|-damage|p1a: Bolteon|0 fnt
+|faint|p1a: Bolteon
+|
+|t:|1711945841
+|switch|p1a: Tetanus|Skarmory, F|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711945843
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Tetanus|Sand Attack|p2a: Zapdos
+|-unboost|p2a: Zapdos|accuracy|1
+|
+|upkeep
+|turn|9
+|
+|t:|1711945851
+|move|p2a: Zapdos|Thunder Wave|p1a: Tetanus
+|-status|p1a: Tetanus|par
+|move|p1a: Tetanus|Sand Attack|p2a: Zapdos
+|-unboost|p2a: Zapdos|accuracy|1
+|
+|upkeep
+|turn|10
+|
+|t:|1711945854
+|move|p2a: Zapdos|Thunderbolt|p1a: Tetanus
+|-supereffective|p1a: Tetanus
+|-damage|p1a: Tetanus|7/100 par
+|move|p1a: Tetanus|Spikes|p2a: Zapdos
+|-sidestart|p2: mcspazz|Spikes
+|
+|-heal|p1a: Tetanus|13/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711945859
+|move|p2a: Zapdos|Thunderbolt|p1a: Tetanus
+|-supereffective|p1a: Tetanus
+|-damage|p1a: Tetanus|0 fnt
+|faint|p1a: Tetanus
+|
+|t:|1711945867
+|switch|p1a: Umbryo|Umbreon, M, shiny|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711945876
+|switch|p2a: Steelix|Steelix, F, shiny|100/100
+|-damage|p2a: Steelix|84/100|[from] Spikes
+|move|p1a: Umbryo|Substitute|p1a: Umbryo
+|-start|p1a: Umbryo|Substitute
+|-damage|p1a: Umbryo|76/100
+|
+|-heal|p1a: Umbryo|82/100|[from] item: Leftovers
+|-heal|p2a: Steelix|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711945883
+|move|p1a: Umbryo|Confuse Ray|p2a: Steelix
+|-start|p2a: Steelix|confusion
+|-activate|p2a: Steelix|confusion
+|move|p2a: Steelix|Roar|p1a: Umbryo
+|drag|p1a: Petrie|Aerodactyl, M|100/100
+|
+|-heal|p2a: Steelix|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711945898
+|switch|p1a: Xëřņæş|Stantler, M, shiny|38/100
+|-ability|p1a: Xëřņæş|Intimidate|boost
+|-unboost|p2a: Steelix|atk|1
+|-end|p2a: Steelix|confusion
+|move|p2a: Steelix|Hidden Power|p1a: Xëřņæş
+|-damage|p1a: Xëřņæş|28/100
+|
+|-heal|p1a: Xëřņæş|34/100|[from] item: Leftovers
+|-heal|p2a: Steelix|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711945904
+|move|p1a: Xëřņæş|Confuse Ray|p2a: Steelix
+|-start|p2a: Steelix|confusion
+|-activate|p2a: Steelix|confusion
+|-damage|p2a: Steelix|97/100|[from] confusion
+|
+|-heal|p1a: Xëřņæş|40/100|[from] item: Leftovers
+|-heal|p2a: Steelix|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711945908
+|move|p1a: Xëřņæş|Reflect|p1a: Xëřņæş
+|-sidestart|p1: Pewpiepie|Reflect
+|-activate|p2a: Steelix|confusion
+|move|p2a: Steelix|Earthquake|p1a: Xëřņæş
+|-damage|p1a: Xëřņæş|29/100
+|
+|-heal|p1a: Xëřņæş|35/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711945916
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Xëřņæş|Sand Attack|p2a: Zapdos
+|-unboost|p2a: Zapdos|accuracy|1
+|
+|-heal|p1a: Xëřņæş|41/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711945920
+|move|p2a: Zapdos|Thunder Wave|p1a: Xëřņæş
+|-status|p1a: Xëřņæş|par
+|move|p1a: Xëřņæş|Confuse Ray|p2a: Zapdos
+|-start|p2a: Zapdos|confusion
+|
+|-heal|p1a: Xëřņæş|47/100 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711945924
+|-activate|p2a: Zapdos|confusion
+|move|p2a: Zapdos|Thunderbolt|p1a: Xëřņæş
+|-damage|p1a: Xëřņæş|0 fnt
+|faint|p1a: Xëřņæş
+|c|☆mcspazz|what is going on
+|
+|t:|1711945928
+|switch|p1a: Umbryo|Umbreon, M, shiny|82/100
+|
+|-heal|p1a: Umbryo|88/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711945932
+|switch|p2a: Steelix|Steelix, F, shiny|100/100
+|-damage|p2a: Steelix|84/100|[from] Spikes
+|move|p1a: Umbryo|Substitute|p1a: Umbryo
+|-start|p1a: Umbryo|Substitute
+|-damage|p1a: Umbryo|63/100
+|
+|-sideend|p1: Pewpiepie|Reflect
+|-heal|p1a: Umbryo|69/100|[from] item: Leftovers
+|-heal|p2a: Steelix|90/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711945934
+|move|p1a: Umbryo|Confuse Ray|p2a: Steelix
+|-start|p2a: Steelix|confusion
+|-activate|p2a: Steelix|confusion
+|-damage|p2a: Steelix|85/100|[from] confusion
+|
+|-heal|p1a: Umbryo|75/100|[from] item: Leftovers
+|-heal|p2a: Steelix|91/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711945937
+|move|p1a: Umbryo|Baton Pass|p1a: Umbryo
+|
+|t:|1711945939
+|switch|p1a: Vangoh fk urself|Smeargle, M, shiny|100/100|[from] Baton Pass
+|-activate|p2a: Steelix|confusion
+|-damage|p2a: Steelix|86/100|[from] confusion
+|
+|-heal|p2a: Steelix|92/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711945946
+|move|p1a: Vangoh fk urself|Taunt|p2a: Steelix
+|-start|p2a: Steelix|move: Taunt
+|-activate|p2a: Steelix|confusion
+|-damage|p2a: Steelix|86/100|[from] confusion
+|
+|-heal|p2a: Steelix|93/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711945948
+|move|p1a: Vangoh fk urself|Belly Drum|p1a: Vangoh fk urself
+|-damage|p1a: Vangoh fk urself|51/100
+|-setboost|p1a: Vangoh fk urself|atk|6|[from] move: Belly Drum
+|-activate|p2a: Steelix|confusion
+|move|p2a: Steelix|Earthquake|p1a: Vangoh fk urself
+|-end|p1a: Vangoh fk urself|Substitute
+|
+|-heal|p2a: Steelix|99/100|[from] item: Leftovers
+|-end|p2a: Steelix|move: Taunt|[silent]
+|upkeep
+|turn|25
+|
+|t:|1711945955
+|move|p1a: Vangoh fk urself|Spore|p2a: Steelix
+|-status|p2a: Steelix|slp|[from] move: Spore
+|cant|p2a: Steelix|slp
+|
+|-heal|p2a: Steelix|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711945962
+|move|p1a: Vangoh fk urself|Baton Pass|p1a: Vangoh fk urself
+|
+|t:|1711945964
+|switch|p1a: Petrie|Aerodactyl, M|100/100|[from] Baton Pass
+|cant|p2a: Steelix|slp
+|
+|upkeep
+|turn|27
+|
+|t:|1711945977
+|move|p1a: Petrie|Substitute|p1a: Petrie
+|-start|p1a: Petrie|Substitute
+|-damage|p1a: Petrie|76/100
+|cant|p2a: Steelix|slp
+|
+|upkeep
+|turn|28
+|
+|t:|1711945981
+|move|p1a: Petrie|Earthquake|p2a: Steelix
+|-supereffective|p2a: Steelix
+|-damage|p2a: Steelix|0 fnt
+|faint|p2a: Steelix
+|
+|t:|1711945986
+|switch|p2a: Sceptile|Sceptile, F, shiny|100/100
+|-damage|p2a: Sceptile|84/100|[from] Spikes
+|
+|-heal|p2a: Sceptile|90/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711945989
+|move|p1a: Petrie|Double-Edge|p2a: Sceptile
+|-damage|p2a: Sceptile|0 fnt
+|faint|p2a: Sceptile
+|
+|t:|1711945993
+|switch|p2a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|30
+|
+|t:|1711945998
+|move|p1a: Petrie|Double-Edge|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|c|☆mcspazz|i see nice cheese i guess
+|
+|t:|1711946004
+|switch|p2a: Suicune|Suicune, shiny|100/100
+|-damage|p2a: Suicune|84/100|[from] Spikes
+|
+|-heal|p2a: Suicune|90/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|-message|mcspazz forfeited.
+|
+|win|Pewpiepie
+|raw|Pewpiepie's rating: 1505 &rarr; <strong>1521</strong><br />(+16 for winning)
+|raw|mcspazz's rating: 1433 &rarr; <strong>1417</strong><br />(-16 for losing)
+|l|☆mcspazz
+|player|p2|
+|c|☆Pewpiepie|Gg

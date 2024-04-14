@@ -1,0 +1,80 @@
+p1: Switched to Toxapex
+p2: Switched to Gholdengo
+Turn 1:
+p2: Gholdengo used Nasty Plot on Gholdengo
+p1: Toxapex used Flip Turn on Gholdengo
+p1: Switched to Blissey
+Turn 2:
+p2: Gholdengo used Nasty Plot on Gholdengo
+p1: Blissey used Whirlwind on Gholdengo
+Turn 3:
+p2: Gholdengo used Tachyon Cutter on Blissey
+p1: Blissey used Slack Off on Blissey
+Turn 4:
+p2: Gholdengo used Nasty Plot on Gholdengo
+p1: Blissey used Slack Off on Blissey
+Turn 5:
+p2: Gholdengo used Tachyon Cutter on Blissey
+p1: Blissey used Slack Off on Blissey
+Turn 6:
+p2: Gholdengo used Tachyon Cutter on Blissey
+p1: Blissey fainted
+p1: Switched to Toxapex
+Turn 7:
+p2: Gholdengo used Infernal Parade on Toxapex
+p1: Toxapex used Scald on Gholdengo
+Turn 8:
+p2: Gholdengo used Infernal Parade on Toxapex
+p1: Toxapex used Flip Turn on Gholdengo
+p1: Switched to Kleavor
+Turn 9:
+p1: Kleavor used Mighty Cleave on Gholdengo
+p2: Gholdengo used Tachyon Cutter on Kleavor
+p1: Kleavor fainted
+p1: Switched to Thundurus-Therian
+Turn 10:
+p1: Thundurus-Therian used Electro Drift on Gholdengo
+p2: Gholdengo fainted
+p2: Switched to Gliscor
+Turn 11:
+p1: Switched to Salamence
+p2: Gliscor used Toxic on Salamence
+Turn 12:
+p1: Salamence used Dragon Dance on Salamence
+p2: Gliscor used Toxic on Salamence
+Turn 13:
+p1: Salamence used Dragon Ascent on Gliscor
+p2: Gliscor used Earthquake on Salamence
+Turn 14:
+p2: Switched to Toxapex
+p1: Salamence used Dragon Darts on Toxapex
+Turn 15:
+p1: Salamence used Dragon Darts on Toxapex
+p2: Toxapex fainted
+p2: Switched to Slither Wing
+Turn 16:
+p2: Slither Wing used First Impression on Salamence
+p1: Salamence fainted
+p1: Switched to Great Tusk
+Turn 17:
+p2: Switched to Hydrapple
+p1: Great Tusk used Spikes on Hydrapple
+Turn 18:
+p1: Great Tusk used Knock Off on Hydrapple
+p2: Hydrapple used Matcha Gotcha on Great Tusk
+Turn 19:
+p1: Switched to Thundurus-Therian
+p2: Hydrapple used Nasty Plot on Hydrapple
+Turn 20:
+p1: Thundurus-Therian used Aeroblast on Hydrapple
+p2: Hydrapple used Fickle Beam on Thundurus-Therian
+p1: Thundurus-Therian fainted
+p1: Switched to Toxapex
+Turn 21:
+p2: Hydrapple used Fickle Beam on Toxapex
+p1: Toxapex fainted
+p1: Switched to Great Tusk
+Turn 22:
+p1: Great Tusk used Shore Up on Great Tusk
+p2: Hydrapple used Fickle Beam on Great Tusk
+p1: Great Tusk fainted

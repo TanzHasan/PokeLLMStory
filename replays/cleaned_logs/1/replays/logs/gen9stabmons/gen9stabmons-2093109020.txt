@@ -1,0 +1,67 @@
+p1: Switched to Politoed
+p2: Switched to Kleavor
+Turn 1:
+p2: Kleavor used Sticky Web on Politoed
+p1: Politoed used Flip Turn on Kleavor
+p1: Switched to Pelipper
+Turn 2:
+p2: Kleavor used Stone Axe on Pelipper
+p1: Pelipper fainted
+p1: Switched to Regigigas
+Turn 3:
+p2: Switched to Great Tusk
+p1: Regigigas used Tidy Up on Regigigas
+Turn 4:
+p2: Great Tusk used Close Combat on Regigigas
+p1: Regigigas fainted
+p1: Switched to Kingdra
+Turn 5:
+p2: Switched to Ogerpon-Wellspring
+p1: Kingdra used Dragon Dance on Kingdra
+Turn 6:
+p1: Kingdra used Dragon Darts on Ogerpon-Wellspring
+p2: Ogerpon-Wellspring fainted
+p2: Switched to Great Tusk
+Turn 7:
+p2: Great Tusk used Close Combat on Kingdra
+p1: Kingdra used Surging Strikes on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Bisharp
+Turn 8:
+p1: Kingdra used Jet Punch on Bisharp
+p2: Bisharp failed to use Sucker Punch
+Turn 9:
+p2: Switched to Latios
+p1: Kingdra used Jet Punch on Latios
+Turn 10:
+p2: Switched to Bisharp
+p1: Kingdra used Dragon Darts on Bisharp
+p2: Bisharp fainted
+p1: Kingdra fainted
+p1: Switched to Politoed
+p2: Switched to Kleavor
+Turn 11:
+p1: Switched to Overqwil
+p2: Kleavor used Sticky Web on Overqwil
+Turn 12:
+p1: Overqwil used Wicked Blow on Kleavor
+p2: Kleavor fainted
+p2: Switched to Mimikyu
+Turn 13:
+p1: Overqwil used Mortal Spin on Mimikyu
+p2: Mimikyu used Swords Dance on Mimikyu
+Turn 14:
+p1: Overqwil used Wicked Blow on Mimikyu
+p2: Mimikyu used Spirit Break on Overqwil
+Turn 15:
+p2: Mimikyu used Shadow Sneak on Overqwil
+p1: Overqwil used Wicked Blow on Mimikyu
+p2: Mimikyu fainted
+p2: Switched to Latios
+Turn 16:
+p1: Switched to Politoed
+p2: Latios used Calm Mind on Latios
+Turn 17:
+p2: Latios used Clanging Scales on Politoed
+p1: Politoed used Encore on Latios
+Turn 18:

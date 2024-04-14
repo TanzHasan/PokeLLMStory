@@ -1,0 +1,6 @@
+p1: Switched to Inteleon
+p2: Switched to Ditto
+Turn 1:
+p1: Switched to Tapu Koko
+p2: Ditto used Air Slash on Tapu Koko
+Turn 2:

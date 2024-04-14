@@ -1,0 +1,90 @@
+p1: Switched to Excadrill
+p2: Switched to Rhyperior
+Turn 1:
+p1: Excadrill used Earthquake on Rhyperior
+p2: Rhyperior used Earthquake on Excadrill
+Turn 2:
+p2: Switched to Mandibuzz
+p1: Excadrill used Earthquake on Mandibuzz
+Turn 3:
+p1: Switched to Iron Crown
+p2: Mandibuzz used U-turn on Iron Crown
+p2: Switched to Empoleon
+Turn 4:
+p1: Iron Crown used Focus Blast on Empoleon
+p2: Empoleon used Flip Turn on Iron Crown
+p2: Switched to Mienshao
+Turn 5:
+p2: Mienshao used U-turn on Iron Crown
+p2: Switched to Mandibuzz
+p1: Iron Crown used Expanding Force on Mandibuzz
+Turn 6:
+p1: Iron Crown used Calm Mind on Iron Crown
+p2: Mandibuzz used Foul Play on Iron Crown
+Turn 7:
+p1: Iron Crown used Tachyon Cutter on Mandibuzz
+p2: Mandibuzz used Foul Play on Iron Crown
+p1: Iron Crown fainted
+p1: Switched to Excadrill
+Turn 8:
+p1: Excadrill used Rock Tomb on Mandibuzz
+p2: Mandibuzz used Roost on Mandibuzz
+Turn 9:
+p2: Switched to Hydrapple
+p1: Excadrill used Stealth Rock on Hydrapple
+Turn 10:
+p1: Excadrill used Rock Tomb on Hydrapple
+p2: Hydrapple used Giga Drain on Excadrill
+p1: Excadrill fainted
+p1: Switched to Hawlucha
+Turn 11:
+p1: Hawlucha used Acrobatics on Hydrapple
+p2: Hydrapple used Fickle Beam on Hawlucha
+Turn 12:
+p1: Hawlucha used Acrobatics on Hydrapple
+p2: Hydrapple used Fickle Beam on Hawlucha
+p1: Hawlucha fainted
+p1: Switched to Polteageist
+Turn 13:
+p1: Polteageist used Shadow Ball on Hydrapple
+p2: Hydrapple fainted
+p2: Switched to Mienshao
+Turn 14:
+p2: Mienshao used Knock Off on Polteageist
+p1: Polteageist used Shell Smash on Polteageist
+Turn 15:
+p2: Switched to Empoleon
+p1: Polteageist used Shadow Ball on Empoleon
+p2: Empoleon fainted
+p2: Switched to Lokix
+Turn 16:
+p1: Switched to Mandibuzz
+p2: Lokix used First Impression on Mandibuzz
+Turn 17:
+p2: Lokix used U-turn on Mandibuzz
+p2: Switched to Mandibuzz
+p1: Mandibuzz used Foul Play on Mandibuzz
+Turn 18:
+p2: Mandibuzz used Toxic on Mandibuzz
+p1: Mandibuzz used Toxic on Mandibuzz
+Turn 19:
+p2: Mandibuzz used U-turn on Mandibuzz
+p2: Switched to Mienshao
+p1: Mandibuzz used Roost on Mandibuzz
+Turn 20:
+p2: Mienshao used Triple Axel on Mandibuzz
+p1: Mandibuzz used Foul Play on Mienshao
+p2: Mienshao fainted
+p2: Switched to Lokix
+Turn 21:
+p2: Lokix used Knock Off on Mandibuzz
+p1: Mandibuzz fainted
+p1: Switched to Indeedee
+Turn 22:
+p1: Indeedee used Healing Wish on Indeedee
+p1: Indeedee fainted
+p2: Lokix used Knock Off on p1: Indeedee
+p1: Switched to Polteageist
+Turn 23:
+p2: Lokix used Knock Off on Polteageist
+p1: Polteageist fainted

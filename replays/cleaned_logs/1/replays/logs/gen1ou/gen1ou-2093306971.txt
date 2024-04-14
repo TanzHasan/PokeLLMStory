@@ -1,0 +1,232 @@
+p1: Switched to Zapdos
+p2: Switched to Starmie
+Turn 1:
+p2: Switched to Jolteon
+p1: Zapdos used Thunder Wave on Jolteon
+Turn 2:
+p1: Switched to Exeggutor
+p2: Jolteon used Thunderbolt on Exeggutor
+Turn 3:
+p2: Switched to Starmie
+p1: Exeggutor used Psychic on Starmie
+Turn 4:
+p2: Starmie used Blizzard on Exeggutor
+p1: Exeggutor used Sleep Powder on Starmie
+Turn 5:
+p2: Starmie used Blizzard on Exeggutor
+p1: Exeggutor used Sleep Powder on Starmie
+Turn 6:
+p1: Switched to Chansey
+p2: Starmie used Blizzard on Chansey
+Turn 7:
+p2: Switched to Chansey
+p1: Chansey used Thunder Wave on Chansey
+Turn 8:
+p1: Switched to Zapdos
+p2: Chansey used Ice Beam on Zapdos
+Turn 9:
+p2: Switched to Jolteon
+p1: Zapdos used Drill Peck on Jolteon
+Turn 10:
+p1: Switched to Exeggutor
+p2: Jolteon used Thunderbolt on Exeggutor
+p1: Exeggutor fainted
+p1: Switched to Tauros
+Turn 11:
+p2: Switched to Snorlax
+p1: Tauros used Body Slam on Snorlax
+Turn 12:
+p1: Tauros used Body Slam on Snorlax
+p2: Snorlax used Body Slam on Tauros
+Turn 13:
+p1: Tauros used Body Slam on Snorlax
+p2: Snorlax used Body Slam on Tauros
+Turn 14:
+p2: Switched to Starmie
+p1: Tauros used Body Slam on Starmie
+Turn 15:
+p2: Starmie used Recover on Starmie
+p1: Tauros used Body Slam on Starmie
+Turn 16:
+p1: Switched to Chansey
+p2: Starmie used Psychic on Chansey
+Turn 17:
+p2: Switched to Chansey
+p1: Chansey used Thunder Wave on Chansey
+Turn 18:
+p1: Switched to Tauros
+p2: Chansey used Ice Beam on Tauros
+Turn 19:
+p1: Switched to Chansey
+p2: Chansey used Sing on Chansey
+Turn 20:
+p1: Switched to Zapdos
+p2: Chansey can't move
+Turn 21:
+p1: Zapdos used Drill Peck on Chansey
+p2: Chansey can't move
+Turn 22:
+p2: Switched to Jolteon
+p1: Zapdos used Drill Peck on Jolteon
+Turn 23:
+p1: Switched to Chansey
+p2: Jolteon used Thunderbolt on Chansey
+Turn 24:
+p2: Switched to Chansey
+p1: Chansey used Seismic Toss on Chansey
+Turn 25:
+p1: Switched to Zapdos
+p2: Chansey used Soft-Boiled on Chansey
+Turn 26:
+p1: Zapdos used Drill Peck on Chansey
+p2: Chansey used Sing on Zapdos
+Turn 27:
+p2: Switched to Jolteon
+p1: Zapdos used Drill Peck on Jolteon
+Turn 28:
+p1: Zapdos used Drill Peck on Jolteon
+p2: Jolteon used Rest on Jolteon
+Turn 29:
+p1: Switched to Snorlax
+p2: Jolteon can't move
+Turn 30:
+p1: Snorlax used Amnesia on Snorlax
+Turn 31:
+p1: Snorlax used Amnesia on Snorlax
+p2: Jolteon used Thunder Wave on Snorlax
+Turn 32:
+p2: Switched to Starmie
+p1: Snorlax used Ice Beam on Starmie
+Turn 33:
+p2: Starmie used Recover on Starmie
+p1: Snorlax used Thunderbolt on Starmie
+p2: Starmie fainted
+p2: Switched to Tauros
+Turn 34:
+p2: Tauros used Body Slam on Snorlax
+p1: Snorlax can't move
+Turn 35:
+p2: Tauros used Body Slam on Snorlax
+p1: Snorlax used Ice Beam on Tauros
+Turn 36:
+p2: Tauros used Body Slam on Snorlax
+p1: Snorlax used Ice Beam on Tauros
+p2: Tauros fainted
+p2: Switched to Snorlax
+Turn 37:
+p2: Snorlax used Body Slam on Snorlax
+p1: Snorlax fainted
+p1: Switched to Zapdos
+Turn 38:
+p2: Switched to Jolteon
+p1: Zapdos used Thunderbolt on Jolteon
+Turn 39:
+p2: Jolteon used Thunderbolt on Zapdos
+p1: Zapdos used Thunder Wave on Jolteon
+Turn 40:
+p1: Switched to Chansey
+p2: Jolteon can't move
+Turn 41:
+p2: Switched to Chansey
+p1: Chansey used Seismic Toss on Chansey
+Turn 42:
+p1: Switched to Zapdos
+p2: Chansey used Soft-Boiled on Chansey
+Turn 43:
+p2: Switched to Jolteon
+p1: Zapdos used Drill Peck on Jolteon
+Turn 44:
+p1: Zapdos used Drill Peck on Jolteon
+p2: Jolteon used Rest on Jolteon
+Turn 45:
+p1: Zapdos used Drill Peck on Jolteon
+p2: Jolteon can't move
+Turn 46:
+p1: Zapdos used Drill Peck on Jolteon
+Turn 47:
+p1: Switched to Slowbro
+p2: Jolteon used Rest on Jolteon
+Turn 48:
+p2: Switched to Zapdos
+p1: Slowbro used Amnesia on Slowbro
+Turn 49:
+p2: Zapdos used Thunderbolt on Slowbro
+p1: Slowbro used Thunder Wave on Zapdos
+Turn 50:
+p1: Slowbro used Amnesia on Slowbro
+p2: Zapdos used Thunderbolt on Slowbro
+Turn 51:
+p1: Slowbro used Surf on Zapdos
+p2: Zapdos used Thunderbolt on Slowbro
+Turn 52:
+p1: Slowbro used Surf on Zapdos
+p2: Zapdos fainted
+p2: Switched to Snorlax
+Turn 53:
+p1: Slowbro used Surf on Snorlax
+p2: Snorlax fainted
+p2: Switched to Chansey
+Turn 54:
+p1: Slowbro used Rest on Slowbro
+p2: Chansey used Ice Beam on Slowbro
+Turn 55:
+p1: Slowbro can't move
+p2: Chansey used Sing on Slowbro
+Turn 56:
+p1: Switched to Zapdos
+p2: Chansey can't move
+Turn 57:
+p2: Switched to Jolteon
+p1: Zapdos used Drill Peck on Jolteon
+Turn 58:
+p2: Jolteon can't move
+p1: Zapdos used Drill Peck on Jolteon
+Turn 59:
+p1: Zapdos used Thunder Wave on Jolteon
+Turn 60:
+p1: Zapdos used Drill Peck on Jolteon
+p2: Jolteon used Rest on Jolteon
+Turn 61:
+p1: Switched to Slowbro
+p2: Jolteon can't move
+Turn 62:
+Turn 63:
+p1: Switched to Chansey
+p2: Jolteon used Thunderbolt on Chansey
+Turn 64:
+p2: Switched to Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 65:
+p1: Switched to Zapdos
+p2: Chansey can't move
+Turn 66:
+p2: Switched to Jolteon
+p1: Zapdos used Thunder Wave on Jolteon
+Turn 67:
+p1: Switched to Chansey
+p2: Jolteon used Thunderbolt on Chansey
+Turn 68:
+p2: Switched to Chansey
+p1: Chansey used Seismic Toss on Chansey
+Turn 69:
+p1: Chansey used Seismic Toss on Chansey
+p2: Chansey used Sing on Chansey
+Turn 70:
+p1: Switched to Slowbro
+p2: Switched to Jolteon
+Turn 71:
+p1: Slowbro used Amnesia on Slowbro
+p2: Jolteon can't move
+Turn 72:
+p1: Slowbro used Surf on Jolteon
+p2: Jolteon used Thunderbolt on Slowbro
+Turn 73:
+p2: Switched to Chansey
+p1: Slowbro used Surf on Chansey
+Turn 74:
+p1: Slowbro used Amnesia on Slowbro
+p2: Chansey can't move
+Turn 75:
+p1: Slowbro used Surf on Chansey
+p2: Chansey can't move
+Turn 76:

@@ -1,0 +1,83 @@
+p1: Switched to Slowking-Galar
+p2: Switched to Clefable
+Turn 1:
+p2: Clefable used Stealth Rock on Slowking-Galar
+p1: Slowking-Galar used Future Sight on Clefable
+Turn 2:
+p2: Clefable used Knock Off on Slowking-Galar
+p1: Slowking-Galar used Sludge Bomb on Clefable
+Turn 3:
+p2: Switched to Alomomola
+p1: Slowking-Galar used Chilly Reception on Slowking-Galar
+p1: Switched to Sinistcha
+Turn 4:
+p2: Switched to Clodsire
+p1: Sinistcha used Calm Mind on Sinistcha
+Turn 5:
+p1: Switched to Slowking-Galar
+p2: Clodsire used Poison Jab on Slowking-Galar
+Turn 6:
+p2: Switched to Skarmory
+p1: Slowking-Galar used Chilly Reception on Slowking-Galar
+p1: Switched to Landorus-Therian
+Turn 7:
+p1: Landorus-Therian used Taunt on Skarmory
+p2: Skarmory can't move
+Turn 8:
+p2: Switched to Clefable
+p1: Landorus-Therian used Stealth Rock on Clefable
+Turn 9:
+p1: Landorus-Therian used Earthquake on Clefable
+p2: Clefable used Knock Off on Landorus-Therian
+Turn 10:
+p2: Switched to Giratina
+p1: Landorus-Therian used Earthquake on Giratina
+Turn 11:
+p1: Landorus-Therian used Taunt on Giratina
+p2: Giratina can't move
+Turn 12:
+p2: Switched to Alomomola
+p1: Landorus-Therian used U-turn on Alomomola
+p1: Switched to Serperior
+Turn 13:
+p2: Switched to Skeledirge
+p1: Serperior used Leaf Storm on Skeledirge
+Turn 14:
+p1: Switched to Dragapult
+p2: Skeledirge used Torch Song on Dragapult
+Turn 15:
+p2: Switched to Alomomola
+p1: Dragapult used Dragon Darts on Alomomola
+Turn 16:
+p2: Switched to Clodsire
+p1: Dragapult used Psychic Fangs on Clodsire
+Turn 17:
+p1: Dragapult used Dragon Darts on Clodsire
+p2: Clodsire used Recover on Clodsire
+Turn 18:
+p1: Dragapult used Psychic Fangs on Clodsire
+p2: Clodsire used Recover on Clodsire
+Turn 19:
+p1: Dragapult used U-turn on Clodsire
+p1: Switched to Landorus-Therian
+p2: Clodsire used Recover on Clodsire
+Turn 20:
+p2: Switched to Alomomola
+p1: Landorus-Therian used U-turn on Alomomola
+p1: Switched to Dragapult
+Turn 21:
+p2: Switched to Clefable
+p1: Dragapult used Dragon Darts on Clefable
+Turn 22:
+p1: Dragapult used Psychic Fangs on Clefable
+p2: Clefable fainted
+p1: Dragapult fainted
+p1: Switched to Calyrex-Ice
+p2: Switched to Skeledirge
+Turn 23:
+p2: Skeledirge used Will-O-Wisp on Calyrex-Ice
+p1: Calyrex-Ice used Trick Room on Calyrex-Ice
+Turn 24:
+p2: Switched to Skarmory
+p1: Calyrex-Ice used High Horsepower on Skarmory
+Turn 25:

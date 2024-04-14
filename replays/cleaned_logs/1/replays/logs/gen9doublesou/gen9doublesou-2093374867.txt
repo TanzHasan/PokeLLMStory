@@ -1,0 +1,55 @@
+p1: Switched to Chien-Pao
+p1: Switched to Munkidori
+p2: Switched to Incineroar
+p2: Switched to Lurantis
+Turn 1:
+p1: Switched to Weezing-Galar
+p1: Munkidori used Fake Out on Incineroar
+p2: Incineroar can't move
+p2: Lurantis used Superpower on Weezing-Galar
+Turn 2:
+p1: Munkidori used Parting Shot on Incineroar
+p1: Switched to Palafin
+p1: Weezing-Galar used Sludge Bomb on Incineroar
+p2: Incineroar used Fire Punch on Weezing-Galar
+p2: Lurantis used Superpower on Palafin
+Turn 3:
+p1: Palafin used Flip Turn on Incineroar
+p1: Switched to Munkidori
+p1: Weezing-Galar used Sludge Bomb on Incineroar
+p2: Incineroar fainted
+p2: Lurantis used Seed Bomb on Munkidori
+p2: Switched to Great Tusk
+Turn 4:
+p2: Lurantis used Protect on Lurantis
+p1: Munkidori used Fake Out on Great Tusk
+p2: Great Tusk can't move
+p1: Weezing-Galar used Will-O-Wisp on Great Tusk
+Turn 5:
+p1: Switched to Iron Jugulis
+p2: Switched to Iron Hands
+p1: Munkidori used Psyshock on Great Tusk
+p2: Great Tusk used Stealth Rock on Munkidori
+Turn 6:
+p1: Iron Jugulis used Earth Power on Iron Hands
+p1: Munkidori used Psyshock on Great Tusk
+p2: Great Tusk fainted
+p2: Iron Hands used Thunder Punch on Iron Jugulis
+p1: Iron Jugulis fainted
+p1: Switched to Chien-Pao
+p2: Switched to Lurantis
+Turn 7:
+p1: Chien-Pao used Crunch on Lurantis
+p2: Lurantis fainted
+p1: Munkidori used Psyshock on Iron Hands
+p2: Iron Hands fainted
+p2: Switched to Dragonite
+p2: Switched to Iron Moth
+Turn 8:
+p1: Chien-Pao used Crunch on Dragonite
+p1: Munkidori used Psyshock on Iron Moth
+p2: Iron Moth fainted
+p2: Dragonite used Iron Head on Munkidori
+Turn 9:
+p1: Chien-Pao used Crunch on Dragonite
+p2: Dragonite fainted

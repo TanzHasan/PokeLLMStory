@@ -1,0 +1,130 @@
+|j|☆Jesushwbush
+|j|☆Skullmonkey
+|t:|1711941104
+|gametype|singles
+|player|p1|Jesushwbush|2|1337
+|player|p2|Skullmonkey|li|1147
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Swagger Clause: Swagger is banned
+|rule|Baton Pass Stat Clause: No Baton Passer may have a way to boost its stats
+|clearpoke
+|poke|p1|Liepard, F|item
+|poke|p1|Ambipom, M|item
+|poke|p1|Yanmega, F|item
+|poke|p1|Gliscor, F|item
+|poke|p1|Rampardos, F|item
+|poke|p1|Ninetales, F|item
+|poke|p2|Starmie|item
+|poke|p2|Ferrothorn, F|item
+|poke|p2|Scizor, M|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Politoed, F|item
+|poke|p2|Latios, M|item
+|teampreview
+|
+|t:|1711941129
+|start
+|switch|p1a: Ambipom|Ambipom, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1711941136
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Ambipom|Fake Out|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|89/100
+|-damage|p1a: Ambipom|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Ambipom|78/100|[from] item: Life Orb
+|
+|-heal|p2a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711941145
+|switch|p1a: Liepard|Liepard, F|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Liepard
+|-sidestart|p1: Jesushwbush|move: Stealth Rock
+|
+|-damage|p1a: Liepard|88/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711941155
+|move|p1a: Liepard|Trick|p2a: Ferrothorn
+|-activate|p1a: Liepard|move: Trick|[of] p2a: Ferrothorn
+|-item|p2a: Ferrothorn|Black Sludge|[from] move: Trick
+|-item|p1a: Liepard|Leftovers|[from] move: Trick
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Liepard
+|-status|p1a: Liepard|par
+|
+|-damage|p2a: Ferrothorn|88/100|[from] item: Black Sludge
+|-heal|p1a: Liepard|94/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711941163
+|cant|p1a: Liepard|par
+|move|p2a: Ferrothorn|Leech Seed|p1a: Liepard
+|-start|p1a: Liepard|move: Leech Seed
+|
+|-damage|p2a: Ferrothorn|75/100|[from] item: Black Sludge
+|-heal|p1a: Liepard|99/100 par|[from] item: Leftovers
+|-damage|p1a: Liepard|88/100 par|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|87/100|[silent]
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Skullmonkey)
+|
+|t:|1711941182
+|switch|p2a: Politoed|Politoed, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1711941193
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Ninetales|Solar Beam||[still]
+|-prepare|p1a: Ninetales|Solar Beam
+|-anim|p1a: Ninetales|Solar Beam|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|86/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711941202
+|switch|p2a: Politoed|Politoed, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Ninetales|Dark Pulse|p2a: Politoed
+|-damage|p2a: Politoed|82/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|-message|Jesushwbush forfeited.
+|
+|win|Skullmonkey
+|raw|Jesushwbush's rating: 1337 &rarr; <strong>1307</strong><br />(-30 for losing)
+|raw|Skullmonkey's rating: 1147 &rarr; <strong>1184</strong><br />(+37 for winning)
+|l|☆Jesushwbush
+|player|p1|

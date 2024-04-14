@@ -1,0 +1,83 @@
+p1: Switched to Seismitoad
+p2: Switched to Venusaur
+Turn 1:
+p1: Switched to Rotom-Heat
+p2: Venusaur used Giga Drain on Rotom-Heat
+Turn 2:
+p2: Switched to Zapdos
+p1: Rotom-Heat used Overheat on Zapdos
+Turn 3:
+p1: Rotom-Heat used Volt Switch on Zapdos
+p1: Switched to Landorus-Therian
+p2: Zapdos used Roost on Zapdos
+Turn 4:
+p2: Switched to Porygon2
+p1: Landorus-Therian used Swords Dance on Landorus-Therian
+Turn 5:
+p1: Landorus-Therian used Max Quake on Porygon2
+p2: Porygon2 used Ice Beam on Landorus-Therian
+Turn 6:
+p2: Switched to Zapdos
+p1: Landorus-Therian used Max Rockfall on Zapdos
+p2: Zapdos fainted
+p2: Switched to Porygon2
+Turn 7:
+p1: Landorus-Therian used Max Quake on Porygon2
+p2: Porygon2 used Recover on Porygon2
+Turn 8:
+p1: Landorus-Therian used Swords Dance on Landorus-Therian
+p2: Porygon2 used Foul Play on Landorus-Therian
+p1: Landorus-Therian fainted
+p1: Switched to Seismitoad
+Turn 9:
+p2: Switched to Venusaur
+p1: Seismitoad used Sludge Wave on Venusaur
+Turn 10:
+p1: Seismitoad used Earth Power on Venusaur
+p2: Venusaur used Max Strike on Seismitoad
+Turn 11:
+p1: Switched to Rotom-Heat
+p2: Venusaur used Max Quake on Rotom-Heat
+Turn 12:
+p1: Rotom-Heat used Overheat on Venusaur
+p2: Venusaur used Max Strike on Rotom-Heat
+Turn 13:
+p1: Rotom-Heat used Overheat on Venusaur
+p2: Venusaur fainted
+p2: Switched to Porygon2
+Turn 14:
+p1: Rotom-Heat used Volt Switch on Porygon2
+p1: Switched to Seismitoad
+p2: Porygon2 used Recover on Porygon2
+Turn 15:
+p1: Seismitoad used Hydro Pump on Porygon2
+p2: Porygon2 used Foul Play on Seismitoad
+p1: Seismitoad fainted
+p1: Switched to Rotom-Heat
+Turn 16:
+p1: Rotom-Heat used Discharge on Porygon2
+p2: Porygon2 used Ice Beam on Rotom-Heat
+Turn 17:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 used Recover on Porygon2
+Turn 18:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 can't move
+Turn 19:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 used Recover on Porygon2
+Turn 20:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 can't move
+Turn 21:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 used Ice Beam on Rotom-Heat
+Turn 22:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 can't move
+Turn 23:
+p1: Rotom-Heat used Dark Pulse on Porygon2
+p2: Porygon2 can't move
+Turn 24:
+p1: Rotom-Heat used Overheat on Porygon2
+p2: Porygon2 fainted

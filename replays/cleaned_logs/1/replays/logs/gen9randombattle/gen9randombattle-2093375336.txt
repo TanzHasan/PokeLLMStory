@@ -1,0 +1,66 @@
+p1: Switched to Rotom-Frost
+p2: Switched to Giratina
+Turn 1:
+p2: Switched to Heatran
+p1: Rotom-Frost used Will-O-Wisp on Heatran
+Turn 2:
+p1: Rotom-Frost used Volt Switch on Heatran
+p1: Switched to Carbink
+p2: Heatran used Stealth Rock on Carbink
+Turn 3:
+p2: Heatran used Flash Cannon on Carbink
+p1: Carbink used Stealth Rock on Heatran
+Turn 4:
+p2: Heatran used Flash Cannon on Carbink
+p1: Carbink fainted
+p1: Switched to Ambipom
+Turn 5:
+p1: Ambipom used Low Kick on Heatran
+p2: Heatran fainted
+p2: Switched to Toucannon
+Turn 6:
+p1: Switched to Rotom-Frost
+p2: Toucannon used Beak Blast on Rotom-Frost
+Turn 7:
+p1: Rotom-Frost used Will-O-Wisp on Toucannon
+p2: Toucannon used Boomburst on Rotom-Frost
+Turn 8:
+p1: Rotom-Frost used Will-O-Wisp on Toucannon
+p2: Toucannon used Boomburst on Rotom-Frost
+p1: Rotom-Frost fainted
+p1: Switched to Frosmoth
+Turn 9:
+p1: Frosmoth used Quiver Dance on Frosmoth
+p2: Toucannon used Beak Blast on Frosmoth
+Turn 10:
+p1: Frosmoth used Tera Blast on Toucannon
+p2: Toucannon fainted
+p2: Switched to Giratina
+Turn 11:
+p1: Frosmoth used Ice Beam on Giratina
+p2: Giratina fainted
+p2: Switched to Hitmonlee
+Turn 12:
+p1: Frosmoth used Bug Buzz on Hitmonlee
+p2: Hitmonlee used Close Combat on Frosmoth
+p1: Frosmoth fainted
+p1: Switched to Flapple
+Turn 13:
+p2: Hitmonlee used Swords Dance on Hitmonlee
+p1: Flapple used Grav Apple on Hitmonlee
+p2: Hitmonlee fainted
+p2: Switched to Empoleon
+Turn 14:
+p1: Flapple used Grav Apple on Empoleon
+p2: Empoleon fainted
+p2: Switched to Iron Jugulis
+Turn 15:
+p2: Iron Jugulis used Fire Blast on Flapple
+p1: Flapple used Grav Apple on Iron Jugulis
+Turn 16:
+p2: Iron Jugulis used Fire Blast on Flapple
+p1: Flapple fainted
+p1: Switched to Iron Moth
+Turn 17:
+p1: Iron Moth used Sludge Wave on Iron Jugulis
+p2: Iron Jugulis fainted

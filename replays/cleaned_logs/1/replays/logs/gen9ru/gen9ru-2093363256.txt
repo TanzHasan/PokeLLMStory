@@ -1,0 +1,157 @@
+p1: Switched to Salamence
+p2: Switched to Mimikyu
+Turn 1:
+p1: Switched to Empoleon
+p2: Mimikyu used Substitute on Mimikyu
+Turn 2:
+p2: Mimikyu used Nasty Plot on Mimikyu
+p1: Empoleon used Surf on Mimikyu
+Turn 3:
+p2: Mimikyu used Nasty Plot on Mimikyu
+p1: Empoleon used Surf on Mimikyu
+Turn 4:
+p2: p2a: Zoroark used Shadow Ball on Empoleon
+p1: Empoleon used Flip Turn on p2a: Zoroark
+p2: p2a: Zoroark fainted
+p1: Switched to Thundurus-Therian
+p2: Switched to Mimikyu
+Turn 5:
+p1: Thundurus-Therian used Thunderbolt on Mimikyu
+p2: Mimikyu used Play Rough on Thundurus-Therian
+Turn 6:
+p1: Switched to Scream Tail
+p2: Mimikyu used Play Rough on Scream Tail
+Turn 7:
+p1: Scream Tail used Thunder Wave on Mimikyu
+p2: Mimikyu used Substitute on Mimikyu
+Turn 8:
+p1: Scream Tail used Encore on Mimikyu
+p2: Mimikyu used Substitute on Mimikyu
+Turn 9:
+p1: Scream Tail used Wish on Scream Tail
+p2: Mimikyu used Substitute on Mimikyu
+Turn 10:
+p1: Scream Tail used Dazzling Gleam on Mimikyu
+p2: Mimikyu used Substitute on Mimikyu
+Turn 11:
+p2: Mimikyu used Shadow Sneak on Scream Tail
+p1: Scream Tail used Encore on Mimikyu
+Turn 12:
+p2: Mimikyu used Shadow Sneak on Scream Tail
+p1: Scream Tail used Dazzling Gleam on Mimikyu
+Turn 13:
+p1: Switched to Amoonguss
+p2: Mimikyu used Shadow Sneak on Amoonguss
+Turn 14:
+p2: Mimikyu used Shadow Sneak on Amoonguss
+p1: Amoonguss used Foul Play on Mimikyu
+p2: Mimikyu fainted
+p2: Switched to Enamorus-Therian
+Turn 15:
+p2: Enamorus-Therian used Substitute on Enamorus-Therian
+p1: Amoonguss used Sludge Bomb on Enamorus-Therian
+Turn 16:
+p2: Switched to Zapdos-Galar
+p1: Amoonguss used Sludge Bomb on Zapdos-Galar
+Turn 17:
+p1: Switched to Empoleon
+p2: Zapdos-Galar used Substitute on Zapdos-Galar
+Turn 18:
+p2: Zapdos-Galar used Thunderous Kick on Empoleon
+p1: Empoleon fainted
+p1: Switched to Scream Tail
+Turn 19:
+p1: Scream Tail used Encore on Zapdos-Galar
+p2: Zapdos-Galar used Thunderous Kick on Scream Tail
+Turn 20:
+p1: Scream Tail used Wish on Scream Tail
+p2: Zapdos-Galar used Thunderous Kick on Scream Tail
+Turn 21:
+p1: Switched to Thundurus-Therian
+p2: Zapdos-Galar used Thunderous Kick on Thundurus-Therian
+Turn 22:
+p1: Thundurus-Therian used Thunderbolt on Zapdos-Galar
+p2: Zapdos-Galar used Thunderous Kick on Thundurus-Therian
+Turn 23:
+p2: Switched to Breloom
+p1: Thundurus-Therian used Thunderbolt on Breloom
+Turn 24:
+p1: Switched to Slither Wing
+p2: Switched to Suicune
+Turn 25:
+p2: Suicune used Protect on Suicune
+p1: Slither Wing used Close Combat on Suicune
+Turn 26:
+p2: Suicune used Scald on Slither Wing
+p1: Slither Wing used U-turn on Suicune
+p1: Switched to Amoonguss
+Turn 27:
+p2: Switched to Zapdos-Galar
+p1: Amoonguss used Giga Drain on Zapdos-Galar
+Turn 28:
+p1: Switched to Slither Wing
+p2: Zapdos-Galar used Drill Peck on Slither Wing
+p1: Slither Wing fainted
+p1: Switched to Salamence
+Turn 29:
+p2: Zapdos-Galar used Drill Peck on Salamence
+p1: Salamence used Dragon Dance on Salamence
+Turn 30:
+p1: Salamence used Breaking Swipe on Zapdos-Galar
+p2: Zapdos-Galar used Drill Peck on Salamence
+p1: Salamence fainted
+p1: Switched to Scream Tail
+Turn 31:
+p1: Scream Tail used Thunder Wave on Zapdos-Galar
+p2: Zapdos-Galar can't move
+Turn 32:
+p1: Scream Tail used Wish on Scream Tail
+p2: Zapdos-Galar used Drill Peck on Scream Tail
+p1: Scream Tail fainted
+p1: Switched to Thundurus-Therian
+Turn 33:
+p1: Thundurus-Therian used Focus Blast on Zapdos-Galar
+p2: Zapdos-Galar used Drill Peck on Thundurus-Therian
+p1: Thundurus-Therian fainted
+p1: Switched to Amoonguss
+Turn 34:
+p2: Zapdos-Galar can't move
+p1: Amoonguss used Foul Play on Zapdos-Galar
+Turn 35:
+p2: Zapdos-Galar can't move
+p1: Amoonguss used Foul Play on Zapdos-Galar
+p2: Zapdos-Galar fainted
+p2: Switched to Breloom
+Turn 36:
+p2: Breloom used Leech Seed on Amoonguss
+p1: Amoonguss used Sludge Bomb on Breloom
+p2: Breloom fainted
+p2: Switched to Suicune
+Turn 37:
+p2: Suicune used Protect on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 38:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 39:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Stun Spore on Suicune
+Turn 40:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 41:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 42:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 43:
+p2: Suicune used Calm Mind on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 44:
+p2: Suicune used Substitute on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 45:
+p2: Suicune used Protect on Suicune
+p1: Amoonguss used Giga Drain on Suicune
+Turn 46:

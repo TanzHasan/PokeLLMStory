@@ -1,0 +1,993 @@
+|j|☆Alemezzagialla
+|j|☆caionamax
+|t:|1711880318
+|gametype|singles
+|player|p1|Alemezzagialla|adaman|1417
+|player|p2|caionamax|dragontamer|1428
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Slowbro-Mega, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Arceus-Ghost|
+|poke|p1|Lunala|
+|poke|p1|Eternatus|
+|poke|p1|Palkia-Origin|
+|poke|p2|Alakazam-Mega, F|
+|poke|p2|Koraidon|
+|poke|p2|Chansey, F|
+|poke|p2|Miraidon|
+|poke|p2|Arceus-Fairy|
+|poke|p2|Aegislash, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by caionamax)
+|
+|t:|1711880328
+|start
+|switch|p1a: Slowbro|Slowbro-Mega, M|100/100
+|switch|p2a: MIU MIU|Alakazam-Mega, F|100/100
+|-ability|p2a: MIU MIU|Beads of Ruin
+|turn|1
+|
+|t:|1711880334
+|move|p1a: Slowbro|Light Screen|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|move: Light Screen
+|move|p2a: MIU MIU|Fleur Cannon|p1a: Slowbro
+|-damage|p1a: Slowbro|60/100
+|-unboost|p2a: MIU MIU|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711880339
+|switch|p2a: EVA|Chansey, F|100/100
+|-transform|p2a: EVA|p1a: Slowbro|[from] ability: Imposter
+|move|p1a: Slowbro|Reflect|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1711880354
+|switch|p1a: Lunala|Lunala|100/100
+|move|p2a: EVA|Light Screen|p2a: EVA
+|-sidestart|p2: caionamax|move: Light Screen
+|
+|upkeep
+|turn|4
+|
+|t:|1711880360
+|move|p2a: EVA|Haze|p2a: EVA
+|-clearallboost
+|move|p1a: Lunala|No Retreat|p1a: Lunala
+|-boost|p1a: Lunala|atk|2
+|-boost|p1a: Lunala|def|2
+|-boost|p1a: Lunala|spa|2
+|-boost|p1a: Lunala|spd|2
+|-boost|p1a: Lunala|spe|2
+|-start|p1a: Lunala|move: No Retreat
+|
+|upkeep
+|turn|5
+|
+|t:|1711880367
+|move|p2a: EVA|Haze|p2a: EVA
+|-clearallboost
+|move|p1a: Lunala|Judgment|p2a: EVA
+|-supereffective|p2a: EVA
+|-damage|p2a: EVA|80/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711880375
+|switch|p1a: Slowbro|Slowbro-Mega, M|60/100
+|switch|p2a: L'ULTIMA POESIA|Arceus-Fairy|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711880381
+|move|p1a: Slowbro|Recover|p1a: Slowbro
+|-heal|p1a: Slowbro|100/100
+|move|p2a: L'ULTIMA POESIA|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|90/100
+|-enditem|p1a: Slowbro|Light Clay|[from] move: Knock Off|[of] p2a: L'ULTIMA POESIA
+|
+|-sideend|p2: caionamax|move: Light Screen
+|upkeep
+|turn|8
+|
+|t:|1711880391
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|100/100
+|move|p1a: Slowbro|Reflect||[still]
+|-fail|p1a: Slowbro
+|
+|-sideend|p1: Alemezzagialla|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1711880395
+|move|p1a: Slowbro|Light Screen|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|move: Light Screen
+|move|p2a: I P' ME TU P' TE|Spikes|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|Spikes
+|
+|-sideend|p1: Alemezzagialla|Reflect
+|upkeep
+|turn|10
+|
+|t:|1711880400
+|move|p1a: Slowbro|Reflect|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|Reflect
+|move|p2a: I P' ME TU P' TE|Spikes|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1711880405
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|move|p2a: I P' ME TU P' TE|Spikes|p1a: Ting-Lu
+|-sidestart|p1: Alemezzagialla|Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1711880411
+|switch|p2a: EVA|Chansey, F|80/100
+|-transform|p2a: EVA|p1a: Ting-Lu|[from] ability: Imposter
+|move|p1a: Ting-Lu|Teleport|p1a: Ting-Lu
+|
+|t:|1711880419
+|switch|p1a: Slowbro|Slowbro-Mega, M|90/100|[from] Teleport
+|-damage|p1a: Slowbro|65/100|[from] Spikes
+|
+|upkeep
+|turn|13
+|
+|t:|1711880436
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|move|p2a: EVA|Teleport|p2a: EVA
+|
+|t:|1711880443
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|100/100|[from] Teleport
+|
+|-sideend|p1: Alemezzagialla|move: Light Screen
+|upkeep
+|turn|14
+|
+|t:|1711880447
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Teleport|p1a: Ting-Lu
+|
+|t:|1711880451
+|switch|p1a: Slowbro|Slowbro-Mega, M|65/100|[from] Teleport
+|-damage|p1a: Slowbro|41/100|[from] Spikes
+|
+|-sideend|p1: Alemezzagialla|Reflect
+|upkeep
+|turn|15
+|
+|t:|1711880454
+|move|p1a: Slowbro|Recover|p1a: Slowbro
+|-heal|p1a: Slowbro|91/100
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Slowbro
+|-unboost|p1a: Slowbro|atk|1
+|-unboost|p1a: Slowbro|spa|1
+|
+|t:|1711880458
+|switch|p2a: COME UN TUONO|Miraidon|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|16
+|
+|t:|1711880463
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|move|p2a: COME UN TUONO|Mortal Spin|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|99/100
+|-status|p1a: Ting-Lu|psn
+|
+|-damage|p1a: Ting-Lu|87/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711880468
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|100/100
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|75/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711880471
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Teleport|p1a: Ting-Lu
+|
+|t:|1711880473
+|switch|p1a: Slowbro|Slowbro-Mega, M|91/100|[from] Teleport
+|-damage|p1a: Slowbro|66/100|[from] Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1711880477
+|move|p1a: Slowbro|Reflect|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|Reflect
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Slowbro
+|-unboost|p1a: Slowbro|atk|1
+|-unboost|p1a: Slowbro|spa|1
+|
+|t:|1711880481
+|switch|p2a: COME UN TUONO|Miraidon|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|20
+|c|☆Alemezzagialla|Spe Bro sei ita?
+|c|☆Alemezzagialla|Ho notato solo ora i nomi
+|c|☆caionamax|ovvio
+|c|☆caionamax|buona pasqua caro
+|inactive|Alemezzagialla has 120 seconds left.
+|c|☆Alemezzagialla|Anche a te
+|
+|t:|1711880521
+|move|p1a: Slowbro|Light Screen|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|move: Light Screen
+|move|p2a: COME UN TUONO|Thunder Cage|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|33/100
+|-activate|p1a: Slowbro|move: Thunder Cage|[of] p2a: COME UN TUONO
+|
+|-damage|p1a: Slowbro|20/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|21
+|c|☆caionamax|come ci sei finito a ladderare bh a pasqua
+|
+|t:|1711880536
+|move|p1a: Slowbro|Recover|p1a: Slowbro
+|-heal|p1a: Slowbro|70/100
+|move|p2a: COME UN TUONO|Torch Song|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|64/100
+|-boost|p2a: COME UN TUONO|spa|1
+|
+|-damage|p1a: Slowbro|52/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1711880541
+|move|p1a: Slowbro|Haze|p1a: Slowbro
+|-clearallboost
+|move|p2a: COME UN TUONO|Mortal Spin|p1a: Slowbro
+|-damage|p1a: Slowbro|51/100
+|-status|p1a: Slowbro|psn
+|
+|-damage|p1a: Slowbro|39/100 psn|[from] psn
+|-damage|p1a: Slowbro|26/100 psn|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|23
+|
+|t:|1711880545
+|move|p1a: Slowbro|Recover|p1a: Slowbro
+|-heal|p1a: Slowbro|76/100 psn
+|move|p2a: COME UN TUONO|Thunder Cage|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|40/100 psn
+|
+|-damage|p1a: Slowbro|27/100 psn|[from] psn
+|-damage|p1a: Slowbro|15/100 psn|[from] move: Thunder Cage|[partiallytrapped]
+|-sideend|p1: Alemezzagialla|Reflect
+|upkeep
+|turn|24
+|
+|t:|1711880551
+|move|p1a: Slowbro|Recover|p1a: Slowbro
+|-heal|p1a: Slowbro|65/100 psn
+|move|p2a: COME UN TUONO|Thunder Cage|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|33/100 psn
+|
+|-damage|p1a: Slowbro|21/100 psn|[from] psn
+|-damage|p1a: Slowbro|9/100 psn|[from] move: Thunder Cage|[partiallytrapped]
+|-sideend|p1: Alemezzagialla|move: Light Screen
+|upkeep
+|turn|25
+|
+|t:|1711880557
+|move|p1a: Slowbro|Light Screen|p1a: Slowbro
+|-sidestart|p1: Alemezzagialla|move: Light Screen
+|move|p2a: COME UN TUONO|Thunder Cage|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1711880563
+|switch|p1a: Ting-Lu|Ting-Lu|75/100 psn
+|turn|26
+|
+|t:|1711880567
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|100/100
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|62/100 psn|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1711880572
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|50/100 psn|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1711880577
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|37/100 psn|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1711880584
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|25/100 psn|[from] psn
+|-sideend|p1: Alemezzagialla|move: Light Screen
+|upkeep
+|turn|30
+|
+|t:|1711880588
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Ting-Lu
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Ting-Lu
+|move|p1a: Ting-Lu|Rapid Spin|p2a: I P' ME TU P' TE
+|-immune|p2a: I P' ME TU P' TE
+|
+|-damage|p1a: Ting-Lu|12/100 psn|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1711880595
+|switch|p2a: EL MATADOR|Koraidon, shiny|100/100
+|-ability|p2a: EL MATADOR|Mold Breaker
+|move|p1a: Ting-Lu|Teleport|p1a: Ting-Lu
+|
+|t:|1711880607
+|switch|p1a: Arceus|Arceus-Ghost|100/100|[from] Teleport
+|-damage|p1a: Arceus|75/100|[from] Spikes
+|
+|upkeep
+|turn|32
+|
+|t:|1711880611
+|move|p2a: EL MATADOR|Glaive Rush|p1a: Arceus
+|-damage|p1a: Arceus|21/100
+|-singlemove|p2a: EL MATADOR|Glaive Rush|[silent]
+|move|p1a: Arceus|No Retreat|p1a: Arceus
+|-boost|p1a: Arceus|atk|2
+|-boost|p1a: Arceus|def|2
+|-boost|p1a: Arceus|spa|2
+|-boost|p1a: Arceus|spd|2
+|-boost|p1a: Arceus|spe|2
+|-start|p1a: Arceus|move: No Retreat
+|
+|upkeep
+|turn|33
+|
+|t:|1711880620
+|switch|p2a: L'ULTIMA POESIA|Arceus-Fairy|100/100
+|move|p1a: Arceus|Jungle Healing|p1a: Arceus
+|-heal|p1a: Arceus|46/100
+|
+|upkeep
+|turn|34
+|
+|t:|1711880624
+|move|p1a: Arceus|Judgment|p2a: L'ULTIMA POESIA
+|-damage|p2a: L'ULTIMA POESIA|67/100
+|move|p2a: L'ULTIMA POESIA|Take Heart|p2a: L'ULTIMA POESIA
+|-boost|p2a: L'ULTIMA POESIA|spa|1
+|-boost|p2a: L'ULTIMA POESIA|spd|1
+|
+|upkeep
+|turn|35
+|
+|t:|1711880630
+|move|p1a: Arceus|Judgment|p2a: L'ULTIMA POESIA
+|-damage|p2a: L'ULTIMA POESIA|45/100
+|move|p2a: L'ULTIMA POESIA|Take Heart|p2a: L'ULTIMA POESIA
+|-boost|p2a: L'ULTIMA POESIA|spa|1
+|-boost|p2a: L'ULTIMA POESIA|spd|1
+|
+|upkeep
+|turn|36
+|
+|t:|1711880634
+|move|p1a: Arceus|Judgment|p2a: L'ULTIMA POESIA
+|-damage|p2a: L'ULTIMA POESIA|28/100
+|move|p2a: L'ULTIMA POESIA|Strength Sap|p1a: Arceus
+|-unboost|p1a: Arceus|atk|2
+|-heal|p2a: L'ULTIMA POESIA|100/100
+|
+|upkeep
+|turn|37
+|
+|t:|1711880641
+|switch|p1a: Ting-Lu|Ting-Lu|12/100 psn
+|move|p2a: L'ULTIMA POESIA|Take Heart|p2a: L'ULTIMA POESIA
+|-boost|p2a: L'ULTIMA POESIA|spa|1
+|-boost|p2a: L'ULTIMA POESIA|spd|1
+|
+|-damage|p1a: Ting-Lu|0 fnt|[from] psn
+|faint|p1a: Ting-Lu
+|upkeep
+|
+|t:|1711880644
+|switch|p1a: Eternatus|Eternatus|100/100
+|-damage|p1a: Eternatus|75/100|[from] Spikes
+|turn|38
+|
+|t:|1711880649
+|move|p2a: L'ULTIMA POESIA|Revelation Dance|p1a: Eternatus
+|-damage|p1a: Eternatus|10/100
+|move|p1a: Eternatus|Torch Song|p2a: L'ULTIMA POESIA
+|-damage|p2a: L'ULTIMA POESIA|97/100
+|-boost|p1a: Eternatus|spa|1
+|
+|upkeep
+|turn|39
+|
+|t:|1711880654
+|move|p1a: Eternatus|Destiny Bond|p1a: Eternatus
+|-singlemove|p1a: Eternatus|Destiny Bond
+|move|p2a: L'ULTIMA POESIA|Revelation Dance|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|-activate|p1a: Eternatus|move: Destiny Bond
+|faint|p2a: L'ULTIMA POESIA
+|
+|upkeep
+|
+|t:|1711880663
+|switch|p2a: MIU MIU|Alakazam-Mega, F|100/100
+|switch|p1a: Arceus|Arceus-Ghost|46/100
+|-ability|p2a: MIU MIU|Beads of Ruin
+|-damage|p1a: Arceus|21/100|[from] Spikes
+|turn|40
+|c|☆Alemezzagialla|GG
+|c|☆Alemezzagialla|La finisco per il meme
+|
+|t:|1711880680
+|move|p2a: MIU MIU|Moongeist Beam|p1a: Arceus
+|-supereffective|p1a: Arceus
+|-damage|p1a: Arceus|0 fnt
+|faint|p1a: Arceus
+|
+|upkeep
+|c|☆caionamax|per lore
+|
+|t:|1711880684
+|switch|p1a: Lunala|Lunala|100/100
+|-damage|p1a: Lunala|76/100|[from] Spikes
+|turn|41
+|
+|t:|1711880687
+|move|p2a: MIU MIU|Moongeist Beam|p1a: Lunala
+|-supereffective|p1a: Lunala
+|-damage|p1a: Lunala|0 fnt
+|faint|p1a: Lunala
+|
+|upkeep
+|
+|t:|1711880690
+|switch|p1a: Palkia|Palkia-Origin|100/100
+|-damage|p1a: Palkia|75/100|[from] Spikes
+|turn|42
+|
+|t:|1711880696
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|100/100
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|43
+|
+|t:|1711880704
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|44
+|
+|t:|1711880707
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|58/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|45
+|
+|t:|1711880710
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|
+|t:|1711880711
+|switch|p2a: EVA|Chansey, F|80/100|[from] Parting Shot
+|-transform|p2a: EVA|p1a: Palkia|[from] ability: Imposter
+|move|p1a: Palkia|Steam Eruption|p2a: EVA
+|-resisted|p2a: EVA
+|-damage|p2a: EVA|78/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|46
+|
+|t:|1711880724
+|switch|p2a: COME UN TUONO|Miraidon|100/100
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|47
+|
+|t:|1711880728
+|move|p1a: Palkia|Judgment|p2a: COME UN TUONO
+|-supereffective|p2a: COME UN TUONO
+|-damage|p2a: COME UN TUONO|0 fnt
+|faint|p2a: COME UN TUONO
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|
+|t:|1711880730
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|58/100
+|turn|48
+|
+|t:|1711880735
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|100/100
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|41/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|49
+|
+|t:|1711880739
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Strength Sap|p2a: I P' ME TU P' TE
+|-unboost|p2a: I P' ME TU P' TE|atk|1
+|-heal|p1a: Palkia|99/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|50
+|
+|t:|1711880744
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|91/100
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|51
+|
+|t:|1711880746
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|48/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|52
+|
+|t:|1711880750
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|98/100
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|55/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|53
+|
+|t:|1711880754
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|100/100
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|79/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|54
+|
+|t:|1711880761
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|54/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|55
+|
+|t:|1711880769
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|
+|t:|1711880772
+|switch|p2a: EVA|Chansey, F|78/100|[from] Parting Shot
+|-transform|p2a: EVA|p1a: Palkia|[from] ability: Imposter
+|move|p1a: Palkia|Judgment|p2a: EVA
+|-supereffective|p2a: EVA
+|-damage|p2a: EVA|58/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|56
+|
+|t:|1711880780
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|move|p2a: EVA|Strength Sap|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-heal|p2a: EVA|75/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|-ability|p2a: EVA|Speed Boost|boost
+|-boost|p2a: EVA|spe|1
+|upkeep
+|turn|57
+|
+|t:|1711880785
+|move|p1a: Palkia|Judgment|p2a: EVA
+|-supereffective|p2a: EVA
+|-damage|p2a: EVA|26/100
+|move|p2a: EVA|Steam Eruption|p1a: Palkia
+|-resisted|p1a: Palkia
+|-damage|p1a: Palkia|93/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|-ability|p2a: EVA|Speed Boost|boost
+|-boost|p2a: EVA|spe|1
+|upkeep
+|turn|58
+|
+|t:|1711880793
+|switch|p2a: EL MATADOR|Koraidon, shiny|100/100
+|-ability|p2a: EL MATADOR|Mold Breaker
+|move|p1a: Palkia|Judgment|p2a: EL MATADOR
+|-supereffective|p2a: EL MATADOR
+|-damage|p2a: EL MATADOR|0 fnt
+|faint|p2a: EL MATADOR
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|
+|t:|1711880794
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|54/100
+|turn|59
+|
+|t:|1711880797
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|30/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|60
+|
+|t:|1711880805
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|80/100
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|56/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|61
+|
+|t:|1711880811
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|
+|t:|1711880812
+|switch|p2a: EVA|Chansey, F|26/100|[from] Parting Shot
+|-transform|p2a: EVA|p1a: Palkia|[from] ability: Imposter
+|move|p1a: Palkia|Judgment|p2a: EVA
+|-supereffective|p2a: EVA
+|-damage|p2a: EVA|5/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|62
+|
+|t:|1711880816
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|move|p2a: EVA|Strength Sap|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-heal|p2a: EVA|23/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|-ability|p2a: EVA|Speed Boost|boost
+|-boost|p2a: EVA|spe|1
+|upkeep
+|turn|63
+|
+|t:|1711880822
+|switch|p2a: MIU MIU|Alakazam-Mega, F|100/100
+|-ability|p2a: MIU MIU|Beads of Ruin
+|move|p1a: Palkia|Judgment|p2a: MIU MIU
+|-damage|p2a: MIU MIU|12/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|64
+|
+|t:|1711880827
+|move|p1a: Palkia|Judgment|p2a: MIU MIU
+|-damage|p2a: MIU MIU|0 fnt
+|faint|p2a: MIU MIU
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|
+|t:|1711880829
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|56/100
+|turn|65
+|
+|t:|1711880833
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|11/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|66
+|
+|t:|1711880838
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|61/100
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|21/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|67
+|
+|t:|1711880841
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|71/100
+|move|p1a: Palkia|Steam Eruption|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|26/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|68
+|
+|t:|1711880850
+|move|p2a: I P' ME TU P' TE|Recover|p2a: I P' ME TU P' TE
+|-heal|p2a: I P' ME TU P' TE|76/100
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-crit|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|43/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|69
+|
+|t:|1711880854
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|
+|t:|1711880856
+|switch|p2a: EVA|Chansey, F|23/100|[from] Parting Shot
+|-transform|p2a: EVA|p1a: Palkia|[from] ability: Imposter
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|70
+|
+|t:|1711880861
+|move|p1a: Palkia|Judgment|p2a: EVA
+|-supereffective|p2a: EVA
+|-damage|p2a: EVA|0 fnt
+|faint|p2a: EVA
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|
+|t:|1711880865
+|switch|p2a: I P' ME TU P' TE|Aegislash, M, shiny|43/100
+|turn|71
+|
+|t:|1711880869
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|21/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|72
+|
+|t:|1711880875
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|7/100
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|73
+|
+|t:|1711880886
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|74
+|c|☆Alemezzagialla|Cos'è appena successo
+|c|☆caionamax|persa
+|c|☆Alemezzagialla|Lol
+|
+|t:|1711880906
+|move|p2a: I P' ME TU P' TE|Parting Shot|p1a: Palkia
+|-unboost|p1a: Palkia|atk|1
+|-unboost|p1a: Palkia|spa|1
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|75
+|
+|t:|1711880911
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|76
+|c|☆Alemezzagialla|Il potere della lore
+|c|☆Alemezzagialla|GG frate
+|
+|t:|1711880939
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|77
+|
+|t:|1711880948
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Nasty Plot|p1a: Palkia
+|-boost|p1a: Palkia|spa|2
+|
+|-ability|p1a: Palkia|Speed Boost|boost
+|-boost|p1a: Palkia|spe|1
+|upkeep
+|turn|78
+|
+|t:|1711880953
+|move|p2a: I P' ME TU P' TE|Haze|p2a: I P' ME TU P' TE
+|-clearallboost
+|move|p1a: Palkia|Judgment|p2a: I P' ME TU P' TE
+|-resisted|p2a: I P' ME TU P' TE
+|-damage|p2a: I P' ME TU P' TE|0 fnt
+|faint|p2a: I P' ME TU P' TE
+|
+|win|Alemezzagialla
+|raw|Alemezzagialla's rating: 1417 &rarr; <strong>1438</strong><br />(+21 for winning)
+|raw|caionamax's rating: 1428 &rarr; <strong>1407</strong><br />(-21 for losing)
+|c|☆caionamax|buona pasqua lol
+|l|☆caionamax
+|player|p2|
+|c|☆Alemezzagialla|È stato epico

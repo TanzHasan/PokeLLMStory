@@ -1,0 +1,334 @@
+|j|☆nkmekos
+|j|☆bagonsteel
+|t:|1711933609
+|gametype|singles
+|player|p1|nkmekos|169|1140
+|player|p2|bagonsteel|red|1322
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Capsakid, L5, M|
+|poke|p1|Frigibax, L5, M|
+|poke|p1|Charcadet, L5, M|
+|poke|p1|Clauncher, L5, M|
+|poke|p1|Croagunk, L5, M|
+|poke|p1|Fomantis, L5, M|
+|poke|p2|Grookey, L5, F|
+|poke|p2|Stunky, L5, F|
+|poke|p2|Vullaby, L5, F|
+|poke|p2|Mienfoo, L5, F|
+|poke|p2|Growlithe-Hisui, L5, F|
+|poke|p2|Mudbray, L5, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by nkmekos)
+|
+|t:|1711933623
+|start
+|switch|p1a: Croagunk|Croagunk, L5, M, shiny|100/100
+|switch|p2a: Stunky|Stunky, L5, F, shiny|100/100
+|turn|1
+|
+|t:|1711933628
+|move|p2a: Stunky|Knock Off|p1a: Croagunk
+|-resisted|p1a: Croagunk
+|-damage|p1a: Croagunk|78/100
+|-enditem|p1a: Croagunk|Eviolite|[from] move: Knock Off|[of] p2a: Stunky
+|move|p1a: Croagunk|Earthquake|p2a: Stunky
+|-supereffective|p2a: Stunky
+|-damage|p2a: Stunky|14/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711933637
+|switch|p2a: Mudbray|Mudbray, L5, M|100/100
+|move|p1a: Croagunk|Drain Punch|p2a: Mudbray
+|-damage|p2a: Mudbray|71/100
+|-heal|p1a: Croagunk|96/100|[from] drain|[of] p2a: Mudbray
+|-ability|p2a: Mudbray|Stamina|boost
+|-boost|p2a: Mudbray|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711933645
+|switch|p1a: Fomantis|Fomantis, L5, M|100/100
+|move|p2a: Mudbray|High Horsepower|p1a: Fomantis
+|-resisted|p1a: Fomantis
+|-damage|p1a: Fomantis|69/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711933652
+|switch|p2a: Vullaby|Vullaby, L5, F|100/100
+|move|p1a: Fomantis|Leaf Storm|p2a: Vullaby
+|-resisted|p2a: Vullaby
+|-damage|p2a: Vullaby|79/100
+|-boost|p1a: Fomantis|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1711933670
+|switch|p1a: Frigibax|Frigibax, L5, M|100/100
+|move|p2a: Vullaby|Brave Bird|p1a: Frigibax
+|-damage|p1a: Frigibax|35/100
+|-damage|p2a: Vullaby|57/100|[from] Recoil
+|
+|upkeep
+|turn|6
+|
+|t:|1711933683
+|move|p1a: Frigibax|Icicle Crash|p2a: Vullaby
+|-supereffective|p2a: Vullaby
+|-crit|p2a: Vullaby
+|-damage|p2a: Vullaby|0 fnt
+|faint|p2a: Vullaby
+|
+|upkeep
+|
+|t:|1711933694
+|switch|p2a: Stunky|Stunky, L5, F, shiny|14/100
+|turn|7
+|
+|t:|1711933699
+|move|p2a: Stunky|Sucker Punch|p1a: Frigibax
+|-damage|p1a: Frigibax|0 fnt
+|faint|p1a: Frigibax
+|
+|upkeep
+|
+|t:|1711933710
+|switch|p1a: Charcadet|Charcadet, L5, M|100/100
+|turn|8
+|
+|t:|1711933716
+|move|p2a: Stunky|Knock Off|p1a: Charcadet
+|-damage|p1a: Charcadet|57/100
+|-enditem|p1a: Charcadet|Eviolite|[from] move: Knock Off|[of] p2a: Stunky
+|move|p1a: Charcadet|Flame Charge|p2a: Stunky
+|-damage|p2a: Stunky|0 fnt
+|-boost|p1a: Charcadet|spe|1
+|-damage|p1a: Charcadet|35/100|[from] ability: Aftermath|[of] p2a: Stunky
+|faint|p2a: Stunky
+|
+|upkeep
+|
+|t:|1711933723
+|switch|p2a: Mienfoo|Mienfoo, L5, F, shiny|100/100
+|turn|9
+|
+|t:|1711933728
+|move|p2a: Mienfoo|Fake Out|p1a: Charcadet
+|-damage|p1a: Charcadet|14/100
+|cant|p1a: Charcadet|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1711933736
+|move|p1a: Charcadet|Flare Blitz|p2a: Mienfoo
+|-damage|p2a: Mienfoo|53/100
+|-damage|p1a: Charcadet|0 fnt|[from] Recoil
+|faint|p1a: Charcadet
+|move|p2a: Mienfoo|Knock Off|p1: Charcadet|[notarget]
+|-fail|p2a: Mienfoo
+|
+|upkeep
+|
+|t:|1711933755
+|switch|p1a: Croagunk|Croagunk, L5, M, shiny|96/100
+|turn|11
+|
+|t:|1711933762
+|move|p2a: Mienfoo|U-turn|p1a: Croagunk
+|-resisted|p1a: Croagunk
+|-damage|p1a: Croagunk|87/100
+|
+|t:|1711933765
+|switch|p2a: Mudbray|Mudbray, L5, M|71/100|[from] U-turn
+|move|p1a: Croagunk|Drain Punch|p2a: Mudbray
+|-crit|p2a: Mudbray
+|-damage|p2a: Mudbray|21/100
+|-heal|p1a: Croagunk|100/100|[from] drain|[of] p2a: Mudbray
+|-ability|p2a: Mudbray|Stamina|boost
+|-boost|p2a: Mudbray|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1711933779
+|switch|p1a: Fomantis|Fomantis, L5, M|69/100
+|move|p2a: Mudbray|High Horsepower|p1a: Fomantis
+|-resisted|p1a: Fomantis
+|-damage|p1a: Fomantis|41/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711933792
+|switch|p2a: Grookey|Grookey, L5, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Grookey
+|move|p1a: Fomantis|Leaf Storm|p2a: Grookey
+|-resisted|p2a: Grookey
+|-damage|p2a: Grookey|58/100
+|-boost|p1a: Fomantis|spa|2
+|
+|-heal|p2a: Grookey|62/100|[from] Grassy Terrain
+|-heal|p1a: Fomantis|46/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1711933802
+|move|p2a: Grookey|U-turn|p1a: Fomantis
+|-supereffective|p1a: Fomantis
+|-damage|p1a: Fomantis|0 fnt
+|faint|p1a: Fomantis
+|
+|t:|1711933806
+|switch|p2a: Mienfoo|Mienfoo, L5, F, shiny|86/100|[from] U-turn
+|
+|-heal|p2a: Mienfoo|91/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1711933812
+|switch|p1a: Capsakid|Capsakid, L5, M|100/100
+|turn|15
+|
+|t:|1711933820
+|move|p2a: Mienfoo|Fake Out|p1a: Capsakid
+|-crit|p1a: Capsakid
+|-damage|p1a: Capsakid|79/100
+|cant|p1a: Capsakid|flinch
+|
+|-heal|p2a: Mienfoo|96/100|[from] Grassy Terrain
+|-heal|p1a: Capsakid|83/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1711933832
+|move|p1a: Capsakid|Protect|p1a: Capsakid
+|-singleturn|p1a: Capsakid|Protect
+|move|p2a: Mienfoo|U-turn|p1a: Capsakid
+|-activate|p1a: Capsakid|move: Protect
+|
+|-heal|p2a: Mienfoo|100/100|[from] Grassy Terrain
+|-heal|p1a: Capsakid|87/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1711933841
+|switch|p1a: Croagunk|Croagunk, L5, M, shiny|100/100
+|move|p2a: Mienfoo|U-turn|p1a: Croagunk
+|-resisted|p1a: Croagunk
+|-damage|p1a: Croagunk|91/100
+|
+|t:|1711933848
+|switch|p2a: Growlithe|Growlithe-Hisui, L5, F|100/100|[from] U-turn
+|
+|-heal|p1a: Croagunk|96/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1711933855
+|move|p2a: Growlithe|Psychic Fangs|p1a: Croagunk
+|-supereffective|p1a: Croagunk
+|-damage|p1a: Croagunk|0 fnt
+|faint|p1a: Croagunk
+|
+|upkeep
+|
+|t:|1711933863
+|switch|p1a: Clauncher|Clauncher, L5, M|100/100
+|turn|19
+|
+|t:|1711933873
+|switch|p2a: Mienfoo|Mienfoo, L5, F, shiny|100/100
+|move|p1a: Clauncher|Aqua Jet|p2a: Mienfoo
+|-damage|p2a: Mienfoo|86/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711933885
+|move|p2a: Mienfoo|Fake Out|p1a: Clauncher
+|-damage|p1a: Clauncher|88/100
+|cant|p1a: Clauncher|flinch
+|
+|upkeep
+|turn|21
+|
+|t:|1711933893
+|move|p2a: Mienfoo|Knock Off|p1a: Clauncher
+|-damage|p1a: Clauncher|59/100
+|-enditem|p1a: Clauncher|Eviolite|[from] move: Knock Off|[of] p2a: Mienfoo
+|move|p1a: Clauncher|Dragon Pulse|p2a: Mienfoo
+|-damage|p2a: Mienfoo|39/100
+|
+|upkeep
+|turn|22
+|
+|t:|1711933900
+|move|p2a: Mienfoo|High Jump Kick|p1a: Clauncher
+|-damage|p1a: Clauncher|0 fnt
+|faint|p1a: Clauncher
+|
+|upkeep
+|
+|t:|1711933905
+|switch|p1a: Capsakid|Capsakid, L5, M|87/100
+|turn|23
+|
+|t:|1711933909
+|-terastallize|p1a: Capsakid|Grass
+|move|p2a: Mienfoo|U-turn|p1a: Capsakid
+|-supereffective|p1a: Capsakid
+|-damage|p1a: Capsakid|44/100
+|
+|t:|1711933913
+|switch|p2a: Mudbray|Mudbray, L5, M|21/100|[from] U-turn
+|move|p1a: Capsakid|Giga Drain|p2a: Mudbray
+|-supereffective|p2a: Mudbray
+|-damage|p2a: Mudbray|0 fnt
+|-heal|p1a: Capsakid|57/100|[from] drain|[of] p2a: Mudbray
+|faint|p2a: Mudbray
+|
+|upkeep
+|
+|t:|1711933919
+|switch|p2a: Mienfoo|Mienfoo, L5, F, shiny|72/100
+|turn|24
+|
+|t:|1711933926
+|move|p2a: Mienfoo|Fake Out|p1a: Capsakid
+|-damage|p1a: Capsakid|44/100
+|cant|p1a: Capsakid|flinch
+|
+|upkeep
+|turn|25
+|
+|t:|1711933931
+|move|p2a: Mienfoo|U-turn|p1a: Capsakid
+|-supereffective|p1a: Capsakid
+|-damage|p1a: Capsakid|0 fnt
+|faint|p1a: Capsakid
+|
+|win|bagonsteel
+|raw|nkmekos's rating: 1140 &rarr; <strong>1127</strong><br />(-13 for losing)
+|raw|bagonsteel's rating: 1322 &rarr; <strong>1332</strong><br />(+10 for winning)
+|l|☆nkmekos
+|player|p1|
+|l|☆bagonsteel
+|player|p2|

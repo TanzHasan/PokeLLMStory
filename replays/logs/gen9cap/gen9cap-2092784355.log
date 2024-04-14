@@ -1,0 +1,195 @@
+|j|☆RonSS4
+|j|☆Nvg1
+|t:|1711863481
+|gametype|singles
+|player|p1|RonSS4|brendan-masters|1000
+|player|p2|Nvg1|volkner|1094
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Cawmodore, M|
+|poke|p1|Crucibelle, F|
+|poke|p1|Pyroak, M|
+|poke|p1|Caribolt, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Arghonaut, F|
+|poke|p2|Astrolotl, M|
+|poke|p2|Kitsunoh, M|
+|poke|p2|Snaelstrom, M|
+|poke|p2|Cresceidon, M|
+|poke|p2|Venomicon|
+|poke|p2|Caribolt, M|
+|teampreview
+|c|☆RonSS4|I made this team like 5 years ago
+|c|☆RonSS4|Gl hf
+|c|☆RonSS4|4*
+|c|☆Nvg1|u2
+|
+|t:|1711863534
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M, shiny|100/100
+|switch|p2a: Snaelstrom|Snaelstrom, M|100/100
+|turn|1
+|
+|t:|1711863572
+|move|p1a: Grimmsnarl|Taunt|p2a: Snaelstrom
+|-start|p2a: Snaelstrom|move: Taunt
+|cant|p2a: Snaelstrom|move: Taunt|Toxic
+|
+|-status|p2a: Snaelstrom|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Nvg1)
+|
+|t:|1711863579
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: RonSS4|move: Light Screen
+|move|p2a: Snaelstrom|Liquidation|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|75/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711863594
+|switch|p2a: Cresceidon|Cresceidon, M, shiny|100/100
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: RonSS4|Reflect
+|
+|upkeep
+|turn|4
+|
+|t:|1711863601
+|move|p1a: Grimmsnarl|Taunt|p2a: Cresceidon
+|-start|p2a: Cresceidon|move: Taunt
+|move|p2a: Cresceidon|Moonblast|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|43/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711863609
+|switch|p1a: CAPITAN|Cawmodore, M, shiny|100/100
+|move|p2a: Cresceidon|Moonblast|p1a: CAPITAN
+|-resisted|p1a: CAPITAN
+|-damage|p1a: CAPITAN|88/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711863618
+|move|p2a: Cresceidon|Scald|p1a: CAPITAN
+|-damage|p1a: CAPITAN|67/100
+|move|p1a: CAPITAN|Belly Drum|p1a: CAPITAN
+|-damage|p1a: CAPITAN|17/100
+|-setboost|p1a: CAPITAN|atk|6|[from] move: Belly Drum
+|-enditem|p1a: CAPITAN|Sitrus Berry|[eat]
+|-heal|p1a: CAPITAN|42/100|[from] item: Sitrus Berry
+|
+|-end|p2a: Cresceidon|move: Taunt
+|upkeep
+|turn|7
+|
+|t:|1711863633
+|move|p1a: CAPITAN|Bullet Punch|p2a: Cresceidon
+|-damage|p2a: Cresceidon|74/100
+|move|p2a: Cresceidon|Thunder Wave|p1a: CAPITAN
+|-heal|p1a: CAPITAN|67/100|[from] ability: Volt Absorb|[of] p2a: Cresceidon
+|
+|upkeep
+|turn|8
+|c|☆RonSS4|WOAH
+|c|☆RonSS4|1132 attack
+|c|☆RonSS4|Unawarr
+|c|☆RonSS4|Aaa
+|c|☆RonSS4|Wait no
+|c|☆RonSS4|huh
+|inactive|RonSS4 has 120 seconds left.
+|
+|t:|1711863677
+|switch|p2a: Kitsunoh|Kitsunoh, M, shiny|100/100
+|move|p1a: CAPITAN|Acrobatics|p2a: Kitsunoh
+|-resisted|p2a: Kitsunoh
+|-damage|p2a: Kitsunoh|0 fnt
+|faint|p2a: Kitsunoh
+|
+|upkeep
+|
+|t:|1711863685
+|switch|p2a: Snaelstrom|Snaelstrom, M|100/100 tox
+|turn|9
+|
+|t:|1711863689
+|move|p1a: CAPITAN|Acrobatics|p2a: Snaelstrom
+|-supereffective|p2a: Snaelstrom
+|-damage|p2a: Snaelstrom|0 fnt
+|faint|p2a: Snaelstrom
+|
+|-sideend|p1: RonSS4|move: Light Screen
+|upkeep
+|
+|t:|1711863703
+|switch|p2a: Cresceidon|Cresceidon, M, shiny|74/100
+|turn|10
+|
+|t:|1711863708
+|move|p2a: Cresceidon|Scald|p1a: CAPITAN
+|-damage|p1a: CAPITAN|18/100
+|move|p1a: CAPITAN|Acrobatics|p2a: Cresceidon
+|-damage|p2a: Cresceidon|0 fnt
+|faint|p2a: Cresceidon
+|
+|-sideend|p1: RonSS4|Reflect
+|upkeep
+|
+|t:|1711863716
+|switch|p2a: Astrolotl|Astrolotl, M, shiny|100/100
+|turn|11
+|c|☆RonSS4|Ah bullet punch low bp
+|
+|t:|1711863740
+|move|p1a: CAPITAN|Drain Punch|p2a: Astrolotl
+|-damage|p2a: Astrolotl|0 fnt
+|-heal|p1a: CAPITAN|94/100|[from] drain|[of] p2a: Astrolotl
+|faint|p2a: Astrolotl
+|
+|upkeep
+|
+|t:|1711863747
+|switch|p2a: Venomicon|Venomicon, shiny|100/100
+|turn|12
+|
+|t:|1711863752
+|move|p1a: CAPITAN|Acrobatics|p2a: Venomicon
+|-damage|p2a: Venomicon|0 fnt
+|faint|p2a: Venomicon
+|
+|upkeep
+|
+|t:|1711863756
+|switch|p2a: Caribolt|Caribolt, M, shiny|100/100
+|turn|13
+|
+|t:|1711863768
+|move|p1a: CAPITAN|Acrobatics|p2a: Caribolt
+|-damage|p2a: Caribolt|0 fnt
+|faint|p2a: Caribolt
+|
+|win|RonSS4
+|raw|RonSS4's rating: 1000 &rarr; <strong>1051</strong><br />(+51 for winning)
+|raw|Nvg1's rating: 1094 &rarr; <strong>1064</strong><br />(-30 for losing)
+|c|☆RonSS4|Gg
+|c|☆RonSS4|Bro
+|c|☆RonSS4|This thing op
+|l|☆Nvg1
+|player|p2|

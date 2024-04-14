@@ -1,0 +1,49 @@
+p1: Switched to Urshifu-Rapid-Strike
+p2: Switched to Grimmsnarl
+Turn 1:
+p2: Grimmsnarl used Reflect on Grimmsnarl
+p1: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
+Turn 2:
+p2: Grimmsnarl used Light Screen on Grimmsnarl
+p1: Urshifu-Rapid-Strike used Bulk Up on Urshifu-Rapid-Strike
+Turn 3:
+p2: Grimmsnarl used Taunt on Urshifu-Rapid-Strike
+p1: Urshifu-Rapid-Strike can't move
+Turn 4:
+p1: Urshifu-Rapid-Strike used Max Knuckle on Grimmsnarl
+p2: Grimmsnarl used Foul Play on Urshifu-Rapid-Strike
+Turn 5:
+p1: Urshifu-Rapid-Strike used Max Knuckle on Grimmsnarl
+p2: Grimmsnarl used Foul Play on Urshifu-Rapid-Strike
+Turn 6:
+p1: Urshifu-Rapid-Strike used Max Geyser on Grimmsnarl
+p2: Grimmsnarl fainted
+p2: Switched to Celesteela
+Turn 7:
+p1: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
+p2: Celesteela used Air Slash on Urshifu-Rapid-Strike
+Turn 8:
+p1: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
+p2: Celesteela used Air Slash on Urshifu-Rapid-Strike
+Turn 9:
+p1: Urshifu-Rapid-Strike used Surging Strikes on Celesteela
+p2: Celesteela fainted
+p2: Switched to Seismitoad
+Turn 10:
+p2: Seismitoad used Max Quake on Urshifu-Rapid-Strike
+p1: Urshifu-Rapid-Strike fainted
+p1: Switched to Aegislash
+Turn 11:
+p1: Aegislash used King's Shield on Aegislash
+p2: Seismitoad used Max Quake on Aegislash
+Turn 12:
+p1: Aegislash used Shadow Sneak on Seismitoad
+p2: Seismitoad used Max Quake on Aegislash
+p1: Aegislash fainted
+p1: Switched to Inteleon
+Turn 13:
+p1: Inteleon used Focus Energy on Inteleon
+p2: Seismitoad used Power Whip on Inteleon
+Turn 14:
+p1: Inteleon used Snipe Shot on Seismitoad
+p2: Seismitoad fainted

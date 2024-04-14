@@ -1,0 +1,386 @@
+|j|☆Vkio13
+|j|☆69420poggers
+|t:|1711940400
+|gametype|singles
+|player|p1|Vkio13|ninjaboy|1173
+|player|p2|69420poggers|unknown|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711940400
+|start
+|switch|p1a: Jumpluff|Jumpluff, L88, F|275/275
+|switch|p2a: Quagsire|Quagsire, L88, M|310/310
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Vkio13)
+|
+|t:|1711940430
+|move|p1a: Jumpluff|Sleep Powder|p2a: Quagsire
+|-status|p2a: Quagsire|slp|[from] move: Sleep Powder
+|cant|p2a: Quagsire|slp
+|
+|upkeep
+|turn|2
+|
+|t:|1711940442
+|switch|p2a: Sandslash|Sandslash, L88, F|275/275
+|move|p1a: Jumpluff|Acrobatics|p2a: Sandslash
+|-damage|p2a: Sandslash|205/275
+|
+|-heal|p2a: Sandslash|222/275|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711940452
+|move|p1a: Jumpluff|Encore||[still]
+|-fail|p1a: Jumpluff
+|move|p2a: Sandslash|Stone Edge|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|107/275
+|
+|-heal|p2a: Sandslash|239/275|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711940458
+|move|p1a: Jumpluff|Sleep Powder|p2a: Sandslash
+|-message|Sleep Clause Mod activated.
+|-hint|Sleep Clause Mod prevents players from putting more than one of their opponent's Pokémon to sleep at a time
+|move|p2a: Sandslash|Stone Edge|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|0 fnt
+|faint|p1a: Jumpluff
+|
+|-heal|p2a: Sandslash|256/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1711940476
+|switch|p1a: Suicune|Suicune, L81|295/295
+|-ability|p1a: Suicune|Pressure
+|turn|5
+|
+|t:|1711940489
+|switch|p2a: Quagsire|Quagsire, L88, M|310/310 slp
+|move|p1a: Suicune|Scald|p2a: Quagsire
+|-crit|p2a: Quagsire
+|-damage|p2a: Quagsire|181/310 slp
+|
+|-heal|p2a: Quagsire|200/310 slp|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711940502
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|cant|p2a: Quagsire|slp
+|
+|-heal|p2a: Quagsire|219/310 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711940509
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|cant|p2a: Quagsire|slp
+|
+|-heal|p2a: Quagsire|238/310 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711940518
+|move|p1a: Suicune|Ice Beam|p2a: Quagsire
+|-damage|p2a: Quagsire|168/310 slp
+|-curestatus|p2a: Quagsire|slp|[msg]
+|move|p2a: Quagsire|Toxic|p1a: Suicune
+|-status|p1a: Suicune|tox
+|
+|-heal|p2a: Quagsire|187/310|[from] item: Leftovers
+|-damage|p1a: Suicune|277/295 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711940524
+|move|p1a: Suicune|Scald|p2a: Quagsire
+|-damage|p2a: Quagsire|99/310
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|254/310
+|
+|-heal|p2a: Quagsire|273/310|[from] item: Leftovers
+|-damage|p1a: Suicune|241/295 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711940533
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Quagsire|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|150/295 tox
+|
+|-heal|p2a: Quagsire|292/310|[from] item: Leftovers
+|-damage|p1a: Suicune|96/295 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711940541
+|move|p1a: Suicune|Rest|p1a: Suicune
+|-status|p1a: Suicune|slp|[from] move: Rest
+|-heal|p1a: Suicune|295/295 slp|[silent]
+|-enditem|p1a: Suicune|Chesto Berry|[eat]
+|-curestatus|p1a: Suicune|slp|[msg]
+|move|p2a: Quagsire|Earthquake|p1a: Suicune
+|-crit|p1a: Suicune
+|-damage|p1a: Suicune|151/295
+|
+|-heal|p2a: Quagsire|310/310|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711940562
+|move|p1a: Suicune|Ice Beam|p2a: Quagsire
+|-damage|p2a: Quagsire|238/310
+|move|p2a: Quagsire|Toxic|p1a: Suicune
+|-status|p1a: Suicune|tox
+|
+|-heal|p2a: Quagsire|257/310|[from] item: Leftovers
+|-damage|p1a: Suicune|133/295 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711940572
+|move|p1a: Suicune|Scald|p2a: Quagsire
+|-damage|p2a: Quagsire|167/310
+|move|p2a: Quagsire|Scald|p1a: Suicune
+|-resisted|p1a: Suicune
+|-damage|p1a: Suicune|106/295 tox
+|
+|-heal|p2a: Quagsire|186/310|[from] item: Leftovers
+|-damage|p1a: Suicune|70/295 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1711940587
+|move|p1a: Suicune|Scald|p2a: Quagsire
+|-damage|p2a: Quagsire|99/310
+|move|p2a: Quagsire|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-heal|p2a: Quagsire|118/310|[from] item: Leftovers
+|upkeep
+|
+|t:|1711940596
+|switch|p1a: Absol|Absol, L81, M|238/238
+|turn|15
+|inactive|69420poggers has 120 seconds left.
+|
+|t:|1711940628
+|switch|p2a: Virizion|Virizion, L82|283/283
+|detailschange|p1a: Absol|Absol-Mega, L81, M
+|-mega|p1a: Absol|Absol|Absolite
+|move|p1a: Absol|Swords Dance|p1a: Absol
+|-boost|p1a: Absol|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1711940642
+|move|p1a: Absol|Play Rough|p2a: Virizion
+|-supereffective|p2a: Virizion
+|-damage|p2a: Virizion|0 fnt
+|faint|p2a: Virizion
+|
+|upkeep
+|inactive|69420poggers has 120 seconds left.
+|
+|t:|1711940659
+|switch|p2a: Tangrowth|Tangrowth, L87, M|316/316
+|turn|17
+|inactive|69420poggers has 120 seconds left.
+|
+|t:|1711940675
+|move|p1a: Absol|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|103/316
+|-enditem|p2a: Tangrowth|Assault Vest|[from] move: Knock Off|[of] p1a: Absol
+|move|p2a: Tangrowth|Earthquake|p1a: Absol
+|-crit|p1a: Absol
+|-damage|p1a: Absol|71/238
+|
+|upkeep
+|turn|18
+|
+|t:|1711940684
+|move|p1a: Absol|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|upkeep
+|
+|t:|1711940698
+|switch|p2a: Sandslash|Sandslash, L88, F|256/275
+|turn|19
+|
+|t:|1711940703
+|move|p1a: Absol|Knock Off|p2a: Sandslash
+|-damage|p2a: Sandslash|37/275
+|-enditem|p2a: Sandslash|Leftovers|[from] move: Knock Off|[of] p1a: Absol
+|move|p2a: Sandslash|Earthquake|p1a: Absol
+|-damage|p1a: Absol|0 fnt
+|faint|p1a: Absol
+|
+|upkeep
+|
+|t:|1711940719
+|switch|p1a: Floatzel|Floatzel, L87, M|290/290
+|turn|20
+|
+|t:|1711940737
+|switch|p2a: Quagsire|Quagsire, L88, M|118/310
+|move|p1a: Floatzel|Waterfall|p2a: Quagsire
+|-crit|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|-damage|p1a: Floatzel|261/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711940748
+|switch|p2a: Wobbuffet|Wobbuffet, L85, F|462/462
+|turn|21
+|
+|t:|1711940754
+|move|p1a: Floatzel|Taunt|p2a: Wobbuffet
+|-start|p2a: Wobbuffet|move: Taunt
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|22
+|
+|t:|1711940763
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|23
+|
+|t:|1711940776
+|switch|p2a: Darkrai|Darkrai, L75|229/229
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|
+|upkeep
+|turn|24
+|
+|t:|1711940797
+|move|p1a: Floatzel|Waterfall|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|-damage|p1a: Floatzel|232/290|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711940801
+|switch|p2a: Wobbuffet|Wobbuffet, L85, F|462/462
+|turn|25
+|
+|t:|1711940805
+|move|p1a: Floatzel|Taunt|p2a: Wobbuffet
+|-start|p2a: Wobbuffet|move: Taunt
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|26
+|
+|t:|1711940808
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|27
+|
+|t:|1711940811
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|-end|p2a: Wobbuffet|move: Taunt
+|upkeep
+|turn|28
+|
+|t:|1711940816
+|move|p1a: Floatzel|Taunt|p2a: Wobbuffet
+|-start|p2a: Wobbuffet|move: Taunt
+|cant|p2a: Wobbuffet|move: Taunt|Encore
+|
+|upkeep
+|turn|29
+|
+|t:|1711940820
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|30
+|
+|t:|1711940826
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|1
+|-boost|p1a: Floatzel|def|1
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|-end|p2a: Wobbuffet|move: Taunt
+|upkeep
+|turn|31
+|
+|t:|1711940833
+|move|p1a: Floatzel|Taunt|p2a: Wobbuffet
+|-start|p2a: Wobbuffet|move: Taunt
+|cant|p2a: Wobbuffet|move: Taunt|Destiny Bond
+|
+|upkeep
+|turn|32
+|
+|t:|1711940839
+|move|p1a: Floatzel|Bulk Up|p1a: Floatzel
+|-boost|p1a: Floatzel|atk|0
+|-boost|p1a: Floatzel|def|0
+|move|p2a: Wobbuffet|Counter||[still]
+|-fail|p2a: Wobbuffet
+|
+|upkeep
+|turn|33
+|
+|t:|1711940845
+|move|p1a: Floatzel|Waterfall|p2a: Wobbuffet
+|-damage|p2a: Wobbuffet|0 fnt
+|faint|p2a: Wobbuffet
+|-damage|p1a: Floatzel|203/290|[from] item: Life Orb
+|
+|upkeep
+|c|☆69420poggers|suck a dick
+|-message|69420poggers forfeited.
+|
+|win|Vkio13

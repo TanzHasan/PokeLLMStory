@@ -1,0 +1,276 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Clefable
+Turn 1:
+p1: Landorus-Therian used Stealth Rock on Clefable
+p2: Clefable used Stealth Rock on Landorus-Therian
+Turn 2:
+p1: Landorus-Therian used U-turn on Clefable
+p1: Switched to Clefable
+p2: Clefable used Knock Off on Clefable
+Turn 3:
+p2: Switched to Blissey
+p1: Clefable used Knock Off on Blissey
+Turn 4:
+p1: Switched to Corviknight
+p2: Blissey used Thunder Wave on Corviknight
+Turn 5:
+p2: Switched to Ditto
+p1: Corviknight used U-turn on Ditto
+p1: Switched to Dragapult
+Turn 6:
+p1: Dragapult used U-turn on Ditto
+p1: Switched to Clefable
+p2: Ditto used U-turn on Clefable
+p2: Switched to Blissey
+Turn 7:
+p1: Switched to Corviknight
+p2: Blissey used Teleport on Blissey
+p2: Switched to Ferrothorn
+Turn 8:
+p1: Switched to Urshifu-Rapid-Strike
+p2: Ferrothorn used Knock Off on Urshifu-Rapid-Strike
+Turn 9:
+p2: Switched to Tornadus-Therian
+p1: Urshifu-Rapid-Strike used Close Combat on Tornadus-Therian
+Turn 10:
+p1: Switched to Clefable
+p2: Tornadus-Therian used Defog on Clefable
+Turn 11:
+p2: Tornadus-Therian used U-turn on Clefable
+p2: Switched to Blissey
+p1: Clefable used Stealth Rock on Blissey
+Turn 12:
+p1: Clefable used Knock Off on Blissey
+p2: Blissey used Seismic Toss on Clefable
+Turn 13:
+p1: Switched to Corviknight
+p2: Blissey used Soft-Boiled on Blissey
+Turn 14:
+p2: Switched to Ditto
+p1: Corviknight can't move
+Turn 15:
+p2: Ditto used Roost on Ditto
+p1: Corviknight can't move
+Turn 16:
+p2: Switched to Ferrothorn
+p1: Corviknight used U-turn on Ferrothorn
+p1: Switched to Urshifu-Rapid-Strike
+Turn 17:
+p1: Urshifu-Rapid-Strike used U-turn on Ferrothorn
+p1: Switched to Clefable
+p2: Ferrothorn used Power Whip on Clefable
+Turn 18:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Ferrothorn used Leech Seed on Clefable
+Turn 19:
+p1: Clefable used Knock Off on Ferrothorn
+p2: Ferrothorn used Spikes on Clefable
+Turn 20:
+p1: Clefable used Moonblast on Ferrothorn
+p2: Ferrothorn used Spikes on Clefable
+Turn 21:
+p1: Clefable used Moonblast on Ferrothorn
+p2: Ferrothorn used Power Whip on Clefable
+Turn 22:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Ferrothorn used Power Whip on Clefable
+Turn 23:
+p1: Switched to Corviknight
+p2: Ferrothorn used Power Whip on Corviknight
+Turn 24:
+p2: Switched to Ditto
+p1: Corviknight used Defog on Ditto
+Turn 25:
+p2: Ditto used Brave Bird on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 26:
+p2: Switched to Tornadus-Therian
+p1: Corviknight used U-turn on Tornadus-Therian
+p1: Switched to Weavile
+Turn 27:
+p2: Switched to Gastrodon
+p1: Weavile used Swords Dance on Weavile
+Turn 28:
+p2: Switched to Blissey
+p1: Weavile used Triple Axel on Blissey
+Turn 29:
+p1: Weavile used Triple Axel on Blissey
+p2: Blissey fainted
+p2: Switched to Ditto
+Turn 30:
+p1: Switched to Urshifu-Rapid-Strike
+p2: Ditto used Knock Off on Urshifu-Rapid-Strike
+Turn 31:
+p2: Switched to Gastrodon
+p1: Urshifu-Rapid-Strike used Surging Strikes on Gastrodon
+Turn 32:
+p1: Urshifu-Rapid-Strike used U-turn on Gastrodon
+p1: Switched to Clefable
+p2: Gastrodon used Toxic on Clefable
+Turn 33:
+p1: Clefable used Stealth Rock on Gastrodon
+p2: Gastrodon used Scald on Clefable
+Turn 34:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gastrodon used Scald on Clefable
+Turn 35:
+p1: Clefable used Knock Off on Gastrodon
+p2: Gastrodon used Scald on Clefable
+Turn 36:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gastrodon used Recover on Gastrodon
+Turn 37:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Scald on Clefable
+Turn 38:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gastrodon used Earth Power on Clefable
+Turn 39:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Scald on Clefable
+Turn 40:
+p1: Switched to Landorus-Therian
+p2: Gastrodon used Recover on Gastrodon
+Turn 41:
+p1: Landorus-Therian used Toxic on Gastrodon
+p2: Gastrodon used Scald on Landorus-Therian
+Turn 42:
+p2: Switched to Ferrothorn
+p1: Landorus-Therian used U-turn on Ferrothorn
+p1: Switched to Clefable
+Turn 43:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Ferrothorn used Power Whip on Clefable
+Turn 44:
+p1: Switched to Corviknight
+p2: Ferrothorn used Spikes on Corviknight
+Turn 45:
+p1: Corviknight used Brave Bird on Ferrothorn
+p2: Ferrothorn used Spikes on Corviknight
+Turn 46:
+p1: Corviknight can't move
+p2: Ferrothorn used Spikes on Corviknight
+Turn 47:
+p1: Corviknight can't move
+p2: Ferrothorn used Leech Seed on Corviknight
+Turn 48:
+p1: Switched to Clefable
+p2: Ferrothorn used Knock Off on Clefable
+Turn 49:
+p1: Clefable used Moonblast on Ferrothorn
+p2: Ferrothorn used Power Whip on Clefable
+Turn 50:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Ferrothorn used Knock Off on Clefable
+Turn 51:
+p1: Clefable used Moonblast on Ferrothorn
+p2: Ferrothorn fainted
+p2: Switched to Gastrodon
+Turn 52:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Scald on Clefable
+Turn 53:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 54:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 55:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Earth Power on Clefable
+Turn 56:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gastrodon used Recover on Gastrodon
+Turn 57:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 58:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 59:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 60:
+p1: Clefable used Moonblast on Gastrodon
+p2: Gastrodon fainted
+p2: Switched to Tornadus-Therian
+Turn 61:
+p2: Tornadus-Therian used Hurricane on Clefable
+Turn 62:
+p1: Switched to Landorus-Therian
+p2: Tornadus-Therian used U-turn on Landorus-Therian
+p2: Switched to Ditto
+Turn 63:
+p2: Ditto used U-turn on Landorus-Therian
+p2: Switched to Tornadus-Therian
+p1: Landorus-Therian used U-turn on Tornadus-Therian
+p1: Switched to Corviknight
+Turn 64:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight used Defog on Tornadus-Therian
+Turn 65:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 66:
+p1: Switched to Landorus-Therian
+p2: Tornadus-Therian used Knock Off on Landorus-Therian
+Turn 67:
+p2: Tornadus-Therian used U-turn on Landorus-Therian
+p1: Landorus-Therian fainted
+p2: Switched to Clefable
+p1: Switched to Clefable
+Turn 68:
+p2: Clefable used Stealth Rock on Clefable
+p1: Clefable used Soft-Boiled on Clefable
+Turn 69:
+p2: Switched to Tornadus-Therian
+p1: Clefable used Knock Off on Tornadus-Therian
+Turn 70:
+p2: Tornadus-Therian used Hurricane on Clefable
+Turn 71:
+p1: Switched to Corviknight
+p2: Tornadus-Therian used Hurricane on Corviknight
+Turn 72:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight used Defog on Tornadus-Therian
+Turn 73:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight can't move
+Turn 74:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 75:
+p2: Tornadus-Therian used Hurricane on Corviknight
+p1: Corviknight used U-turn on Tornadus-Therian
+p1: Switched to Weavile
+Turn 76:
+p2: Switched to Clefable
+p1: Weavile used Swords Dance on Weavile
+Turn 77:
+p1: Weavile used Knock Off on Clefable
+p2: Clefable used Knock Off on Weavile
+Turn 78:
+p1: Weavile used Triple Axel on Clefable
+p2: Clefable fainted
+p2: Switched to Ditto
+Turn 79:
+p2: Ditto used Triple Axel on Weavile
+p1: Weavile fainted
+p1: Switched to Corviknight
+Turn 80:
+p2: Ditto used Triple Axel on Corviknight
+p1: Corviknight fainted
+p1: Switched to Urshifu-Rapid-Strike
+Turn 81:
+p1: Urshifu-Rapid-Strike used Aqua Jet on Ditto
+p2: Ditto fainted
+p2: Switched to Tornadus-Therian
+Turn 82:
+p2: Tornadus-Therian used U-turn on Urshifu-Rapid-Strike
+p1: Urshifu-Rapid-Strike used Surging Strikes on Tornadus-Therian
+Turn 83:
+p1: Urshifu-Rapid-Strike used Aqua Jet on Tornadus-Therian
+p2: Tornadus-Therian used U-turn on Urshifu-Rapid-Strike
+Turn 84:
+p1: Urshifu-Rapid-Strike used Aqua Jet on Tornadus-Therian
+p2: Tornadus-Therian fainted

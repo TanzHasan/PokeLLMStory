@@ -1,0 +1,30 @@
+p1: Switched to Iron Hands
+p1: Switched to Slaking
+p2: Switched to Cramorant
+p2: Switched to Cinccino
+Turn 1:
+p1: Iron Hands used Fake Out on Cinccino
+p2: Cinccino can't move
+p1: Slaking used Knock Off on Cramorant
+p2: Cramorant used Tailwind on Cramorant
+Turn 2:
+p2: Cinccino used Triple Axel on Slaking
+p2: Cramorant used Brave Bird on Slaking
+p1: Slaking can't move
+p1: Iron Hands used Volt Switch on Cramorant
+p2: Cramorant fainted
+p1: Switched to Mudsdale
+p2: Switched to Groudon
+Turn 3:
+p2: Cinccino used Bullet Seed on Mudsdale
+p2: Groudon used Precipice Blades on Mudsdale
+p1: Slaking used Knock Off on Groudon
+p1: Mudsdale used Body Press on Cinccino
+p2: Cinccino fainted
+p2: Switched to Venomoth
+Turn 4:
+p2: Venomoth used Sleep Powder on Mudsdale
+p2: Groudon used Precipice Blades on Slaking
+p1: Slaking can't move
+p1: Mudsdale used Rest on Mudsdale
+Turn 5:

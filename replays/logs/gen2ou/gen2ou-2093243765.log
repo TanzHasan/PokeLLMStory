@@ -1,0 +1,255 @@
+|j|☆LuckiLlamas
+|j|☆gxbeef1
+|t:|1711929502
+|gametype|singles
+|player|p1|LuckiLlamas|linebacker|
+|player|p2|gxbeef1|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711929502
+|start
+|switch|p1a: Electrode|Electrode|100/100
+|switch|p2a: Even Bluer Dude|Vaporeon, M|100/100
+|turn|1
+|j| freekruler99
+|
+|t:|1711929519
+|move|p1a: Electrode|Thunder Wave|p2a: Even Bluer Dude
+|-status|p2a: Even Bluer Dude|par
+|move|p2a: Even Bluer Dude|Surf|p1a: Electrode
+|-damage|p1a: Electrode|56/100
+|
+|-heal|p1a: Electrode|62/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711929551
+|move|p1a: Electrode|Thunderbolt|p2a: Even Bluer Dude
+|-supereffective|p2a: Even Bluer Dude
+|-damage|p2a: Even Bluer Dude|58/100 par
+|cant|p2a: Even Bluer Dude|par
+|
+|-heal|p1a: Electrode|69/100|[from] item: Leftovers
+|-heal|p2a: Even Bluer Dude|64/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711929574
+|switch|p2a: Dino Looking Dude|Marowak, M|100/100
+|move|p1a: Electrode|Thunderbolt|p2a: Dino Looking Dude
+|-immune|p2a: Dino Looking Dude
+|
+|-heal|p1a: Electrode|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| Zachary.wiles
+|l|☆LuckiLlamas
+|player|p1|
+|j|☆LuckiLlamas
+|player|p1|LuckiLlamas|linebacker
+|
+|t:|1711929597
+|move|p1a: Electrode|Hidden Power|p2a: Dino Looking Dude
+|-supereffective|p2a: Dino Looking Dude
+|-damage|p2a: Dino Looking Dude|66/100
+|move|p2a: Dino Looking Dude|Swords Dance|p2a: Dino Looking Dude
+|-boost|p2a: Dino Looking Dude|atk|2
+|
+|-heal|p1a: Electrode|81/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711929611
+|move|p1a: Electrode|Explosion|p2a: Dino Looking Dude
+|-crit|p2a: Dino Looking Dude
+|-damage|p2a: Dino Looking Dude|0 fnt
+|faint|p1a: Electrode
+|faint|p2a: Dino Looking Dude
+|
+|t:|1711929623
+|switch|p1a: Vileplume|Vileplume, M|100/100
+|switch|p2a: Red Dude|Charmeleon, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711929636
+|switch|p1a: Tentacruel|Tentacruel, M|100/100
+|move|p2a: Red Dude|Sunny Day|p2a: Red Dude
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711929646
+|move|p1a: Tentacruel|Substitute|p1a: Tentacruel
+|-start|p1a: Tentacruel|Substitute
+|-damage|p1a: Tentacruel|76/100
+|move|p2a: Red Dude|Fire Blast|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-activate|p1a: Tentacruel|Substitute|[damage]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Tentacruel|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711929664
+|move|p1a: Tentacruel|Swords Dance|p1a: Tentacruel
+|-boost|p1a: Tentacruel|atk|2
+|move|p2a: Red Dude|Toxic|p1a: Tentacruel
+|-activate|p1a: Tentacruel|Substitute|[block] Toxic
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Tentacruel|88/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711929673
+|switch|p2a: Even Bluer Dude|Vaporeon, M|64/100 par
+|move|p1a: Tentacruel|Swords Dance|p1a: Tentacruel
+|-boost|p1a: Tentacruel|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Tentacruel|94/100|[from] item: Leftovers
+|-heal|p2a: Even Bluer Dude|70/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711929684
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Even Bluer Dude
+|-damage|p2a: Even Bluer Dude|0 fnt
+|faint|p2a: Even Bluer Dude
+|
+|t:|1711929691
+|switch|p2a: Blue dude|Poliwrath, M|100/100
+|
+|-weather|none
+|-heal|p1a: Tentacruel|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711929697
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Blue dude
+|-damage|p2a: Blue dude|35/100
+|move|p2a: Blue dude|Lovely Kiss|p1a: Tentacruel
+|-activate|p1a: Tentacruel|Substitute|[block] Lovely Kiss
+|
+|-heal|p2a: Blue dude|41/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711929742
+|switch|p2a: Green Dude|Venusaur, M|100/100
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Green Dude
+|-damage|p2a: Green Dude|22/100
+|
+|-heal|p2a: Green Dude|29/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711929774
+|switch|p2a: Long Ass Hair|Piloswine, M|100/100
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Long Ass Hair
+|-resisted|p2a: Long Ass Hair
+|-damage|p2a: Long Ass Hair|64/100
+|
+|-heal|p2a: Long Ass Hair|70/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711929788
+|move|p1a: Tentacruel|Surf|p2a: Long Ass Hair
+|-supereffective|p2a: Long Ass Hair
+|-damage|p2a: Long Ass Hair|3/100
+|move|p2a: Long Ass Hair|Earthquake|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-end|p1a: Tentacruel|Substitute
+|
+|-heal|p2a: Long Ass Hair|9/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711929814
+|move|p1a: Tentacruel|Surf|p2a: Long Ass Hair
+|-supereffective|p2a: Long Ass Hair
+|-damage|p2a: Long Ass Hair|0 fnt
+|faint|p2a: Long Ass Hair
+|
+|t:|1711929824
+|switch|p2a: Red Dude|Charmeleon, M|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711929837
+|move|p1a: Tentacruel|Surf|p2a: Red Dude
+|-supereffective|p2a: Red Dude
+|-damage|p2a: Red Dude|14/100
+|move|p2a: Red Dude|Hidden Power|p1a: Tentacruel
+|-damage|p1a: Tentacruel|85/100
+|
+|-heal|p1a: Tentacruel|91/100|[from] item: Leftovers
+|-heal|p2a: Red Dude|20/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711929846
+|switch|p2a: Blue dude|Poliwrath, M|41/100
+|move|p1a: Tentacruel|Surf|p2a: Blue dude
+|-resisted|p2a: Blue dude
+|-damage|p2a: Blue dude|28/100
+|
+|-heal|p1a: Tentacruel|97/100|[from] item: Leftovers
+|-heal|p2a: Blue dude|34/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711929856
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Blue dude
+|-damage|p2a: Blue dude|0 fnt
+|faint|p2a: Blue dude
+|
+|t:|1711929860
+|switch|p2a: Red Dude|Charmeleon, M|20/100
+|
+|-heal|p1a: Tentacruel|100/100|[from] item: Leftovers
+|-heal|p2a: Red Dude|27/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711929876
+|move|p1a: Tentacruel|Surf|p2a: Red Dude
+|-supereffective|p2a: Red Dude
+|-damage|p2a: Red Dude|0 fnt
+|faint|p2a: Red Dude
+|c|☆gxbeef1|one move ruined me
+|
+|t:|1711929887
+|switch|p2a: Green Dude|Venusaur, M|29/100
+|
+|-heal|p2a: Green Dude|35/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711929900
+|move|p1a: Tentacruel|Sludge Bomb|p2a: Green Dude
+|-damage|p2a: Green Dude|0 fnt
+|faint|p2a: Green Dude
+|
+|win|LuckiLlamas
+|c|☆gxbeef1|gg
+|l|☆LuckiLlamas
+|player|p1|

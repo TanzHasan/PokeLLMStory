@@ -1,0 +1,40 @@
+p1: Switched to Gastrodon
+p2: Switched to Beautifly
+Turn 1:
+p2: Beautifly used Quiver Dance on Beautifly
+p1: Gastrodon used Clear Smog on Beautifly
+Turn 2:
+p2: Beautifly used Psychic on Gastrodon
+p1: Gastrodon used Scald on Beautifly
+Turn 3:
+p2: Beautifly used Psychic on Gastrodon
+p1: Gastrodon used Clear Smog on Beautifly
+Turn 4:
+p2: Beautifly used Psychic on Gastrodon
+p1: Gastrodon used Recover on Gastrodon
+Turn 5:
+p2: Beautifly used Psychic on Gastrodon
+p1: Gastrodon used Scald on Beautifly
+p2: Beautifly fainted
+p2: Switched to Mandibuzz
+Turn 6:
+p1: Switched to Klinklang
+p2: Mandibuzz used Foul Play on Klinklang
+Turn 7:
+p1: Klinklang used Substitute on Klinklang
+p2: Mandibuzz used Brave Bird on Klinklang
+Turn 8:
+p1: Klinklang used Shift Gear on Klinklang
+p2: Mandibuzz used Foul Play on Klinklang
+Turn 9:
+p2: Switched to Delcatty
+p1: Klinklang used Wild Charge on Delcatty
+Turn 10:
+p2: Delcatty used Fake Out on Klinklang
+p1: Klinklang can't move
+Turn 11:
+p1: Klinklang used Substitute on Klinklang
+p2: Delcatty used Double-Edge on Klinklang
+Turn 12:
+p1: Klinklang used Gear Grind on Delcatty
+p2: Delcatty fainted

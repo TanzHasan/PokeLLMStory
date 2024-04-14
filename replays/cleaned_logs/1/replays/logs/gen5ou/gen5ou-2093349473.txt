@@ -1,0 +1,88 @@
+p1: Switched to Jirachi
+p2: Switched to Magnezone
+Turn 1:
+p1: Jirachi used Ice Punch on Magnezone
+p2: Magnezone used Thunderbolt on Jirachi
+Turn 2:
+p1: Jirachi used Ice Punch on Magnezone
+p2: Magnezone used Thunderbolt on Jirachi
+p1: Jirachi fainted
+p1: Switched to Wobbuffet
+Turn 3:
+p2: Switched to Gliscor
+p1: Wobbuffet failed to use Mirror Coat
+Turn 4:
+p2: Gliscor used Toxic on Wobbuffet
+p1: Wobbuffet used Encore on Gliscor
+Turn 5:
+p2: Switched to Yanmega
+p1: Switched to Zangoose
+Turn 6:
+p2: Yanmega used Bug Buzz on Zangoose
+p1: Zangoose fainted
+p1: Switched to Typhlosion
+Turn 7:
+p1: Typhlosion used Eruption on Yanmega
+p2: Yanmega fainted
+p2: Switched to Tentacruel
+Turn 8:
+p1: Switched to Tentacruel
+p2: Tentacruel used Scald on Tentacruel
+Turn 9:
+p2: Switched to Magnezone
+p1: Tentacruel used Toxic Spikes on Magnezone
+Turn 10:
+p1: Switched to Wobbuffet
+p2: Magnezone used Thunderbolt on Wobbuffet
+Turn 11:
+p2: Magnezone used Thunderbolt on Wobbuffet
+p1: Wobbuffet used Mirror Coat on Magnezone
+p2: Magnezone fainted
+p2: Switched to Gliscor
+Turn 12:
+p2: Gliscor used Toxic on Wobbuffet
+p1: Wobbuffet used Destiny Bond on Wobbuffet
+Turn 13:
+p2: Gliscor used Toxic on Wobbuffet
+p1: Wobbuffet used Encore on Gliscor
+p1: Wobbuffet fainted
+p1: Switched to Tentacruel
+Turn 14:
+p2: Switched to Snorlax
+p1: Tentacruel used Toxic Spikes on Snorlax
+Turn 15:
+p2: Switched to Gliscor
+p1: Tentacruel used Surf on Gliscor
+Turn 16:
+p2: Gliscor used Roost on Gliscor
+p1: Tentacruel used Rest on Tentacruel
+Turn 17:
+p2: Gliscor used Earthquake on Tentacruel
+p1: Tentacruel used Surf on Gliscor
+Turn 18:
+p2: Gliscor used Roost on Gliscor
+p1: Tentacruel used Rest on Tentacruel
+Turn 19:
+p2: Gliscor used Earthquake on Tentacruel
+p1: Tentacruel can't move
+p1: Tentacruel used Sleep Talk on Tentacruel
+p1: Tentacruel failed to use Toxic Spikes
+Turn 20:
+p2: Gliscor used Earthquake on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Raichu
+Turn 21:
+p1: Raichu used Thunderbolt on Gliscor
+p2: Gliscor used Earthquake on Raichu
+p1: Raichu fainted
+p1: Switched to Typhlosion
+Turn 22:
+p1: Typhlosion used Eruption on Gliscor
+p2: Gliscor used Earthquake on Typhlosion
+Turn 23:
+p2: Switched to Tentacruel
+p1: Typhlosion used Eruption on Tentacruel
+Turn 24:
+p1: Typhlosion used Eruption on Tentacruel
+p2: Tentacruel used Scald on Typhlosion
+p1: Typhlosion fainted

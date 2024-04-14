@@ -1,0 +1,338 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] Ubers is currently suspecting Last Respects! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/np-sv-ubers-stage-3-respect.3739544/">suspect thread</a>.</strong></div>
+|j|☆Red Sox Killer
+|j|☆Standjeezy
+|t:|1711944579
+|gametype|singles
+|player|p1|Red Sox Killer|blue-gen3two|
+|player|p2|Standjeezy|ghetsis|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Moth|
+|poke|p1|Iron Jugulis|
+|poke|p1|Serperior, F|
+|poke|p1|Grafaiai, M|
+|poke|p2|Gouging Fire|
+|poke|p2|Terapagos, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Scizor, M|
+|poke|p2|Ting-Lu|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Standjeezy)
+|
+|t:|1711944606
+|start
+|switch|p1a: Buick|Grafaiai, M, shiny|100/100
+|switch|p2a: Gouging Fire|Gouging Fire|100/100
+|-enditem|p2a: Gouging Fire|Booster Energy
+|-activate|p2a: Gouging Fire|ability: Protosynthesis|[fromitem]
+|-start|p2a: Gouging Fire|protosynthesisatk
+|turn|1
+|j| PurplePenguin72
+|
+|t:|1711944635
+|move|p1a: Buick|Parting Shot|p2a: Gouging Fire
+|-unboost|p2a: Gouging Fire|atk|1
+|-unboost|p2a: Gouging Fire|spa|1
+|inactive|Red Sox Killer has 270 seconds left.
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1711944673
+|switch|p1a: Nisan|Iron Jugulis|100/100|[from] Parting Shot
+|move|p2a: Gouging Fire|Dragon Dance|p2a: Gouging Fire
+|-boost|p2a: Gouging Fire|atk|1
+|-boost|p2a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711944685
+|move|p1a: Nisan|Earth Power|p2a: Gouging Fire
+|-supereffective|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|40/100
+|move|p2a: Gouging Fire|Dragon Dance|p2a: Gouging Fire
+|-boost|p2a: Gouging Fire|atk|1
+|-boost|p2a: Gouging Fire|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711944693
+|move|p1a: Nisan|Earth Power|p2a: Gouging Fire
+|-supereffective|p2a: Gouging Fire
+|-damage|p2a: Gouging Fire|0 fnt
+|faint|p2a: Gouging Fire
+|-end|p2a: Gouging Fire|Protosynthesis|[silent]
+|
+|upkeep
+|j| Hypercomet
+|
+|t:|1711944707
+|switch|p2a: Terapagos|Terapagos, M|100/100
+|-activate|p2a: Terapagos|ability: Tera Shift
+|detailschange|p2a: Terapagos|Terapagos-Terastal, M
+|-heal|p2a: Terapagos|100/100|[silent]
+|turn|4
+|
+|t:|1711944723
+|-end|p1a: Nisan|Quark Drive|[silent]
+|switch|p1a: snu snu|Serperior, F, shiny|100/100
+|move|p2a: Terapagos|Rapid Spin|p1a: snu snu
+|-damage|p1a: snu snu|81/100
+|-boost|p2a: Terapagos|spe|1
+|
+|-heal|p1a: snu snu|87/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711944737
+|move|p2a: Terapagos|Calm Mind|p2a: Terapagos
+|-boost|p2a: Terapagos|spa|1
+|-boost|p2a: Terapagos|spd|1
+|move|p1a: snu snu|Glare|p2a: Terapagos
+|-status|p2a: Terapagos|par
+|
+|-heal|p1a: snu snu|93/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711944748
+|move|p1a: snu snu|Substitute|p1a: snu snu
+|-start|p1a: snu snu|Substitute
+|-damage|p1a: snu snu|69/100
+|move|p2a: Terapagos|Rapid Spin|p1a: snu snu
+|-activate|p1a: snu snu|move: Substitute|[damage]
+|-boost|p2a: Terapagos|spe|1
+|
+|-heal|p1a: snu snu|75/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711944756
+|move|p1a: snu snu|Leech Seed|p2a: Terapagos
+|-start|p2a: Terapagos|move: Leech Seed
+|move|p2a: Terapagos|Rapid Spin|p1a: snu snu
+|-end|p1a: snu snu|Substitute
+|-end|p2a: Terapagos|Leech Seed|[from] move: Rapid Spin|[of] p2a: Terapagos
+|-boost|p2a: Terapagos|spe|1
+|
+|-heal|p1a: snu snu|81/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711944770
+|move|p1a: snu snu|Leaf Storm|p2a: Terapagos
+|-activate|p2a: Terapagos|ability: Tera Shell
+|-resisted|p2a: Terapagos
+|-damage|p2a: Terapagos|87/100 par
+|-boost|p1a: snu snu|spa|2
+|move|p2a: Terapagos|Tera Starstorm|p1a: snu snu
+|-damage|p1a: snu snu|0 fnt
+|faint|p1a: snu snu
+|
+|upkeep
+|
+|t:|1711944784
+|switch|p1a: Theytriarch|Iron Valiant, shiny|100/100
+|turn|9
+|
+|t:|1711944795
+|move|p1a: Theytriarch|Close Combat|p2a: Terapagos
+|-supereffective|p2a: Terapagos
+|-damage|p2a: Terapagos|0 fnt
+|-unboost|p1a: Theytriarch|def|1
+|-unboost|p1a: Theytriarch|spd|1
+|faint|p2a: Terapagos
+|
+|upkeep
+|
+|t:|1711944810
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|-enditem|p2a: Iron Boulder|Booster Energy
+|-activate|p2a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Boulder|quarkdrivespe
+|turn|10
+|
+|t:|1711944846
+|-end|p1a: Theytriarch|Quark Drive|[silent]
+|switch|p1a: Buick|Grafaiai, M, shiny|100/100
+|move|p2a: Iron Boulder|Substitute|p2a: Iron Boulder
+|-start|p2a: Iron Boulder|Substitute
+|-damage|p2a: Iron Boulder|75/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711944899
+|move|p1a: Buick|Parting Shot|p2a: Iron Boulder
+|-unboost|p2a: Iron Boulder|atk|1
+|-unboost|p2a: Iron Boulder|spa|1
+|
+|t:|1711944913
+|switch|p1a: do my dance|Iron Moth, shiny|100/100|[from] Parting Shot
+|-enditem|p1a: do my dance|Booster Energy
+|-activate|p1a: do my dance|ability: Quark Drive|[fromitem]
+|-start|p1a: do my dance|quarkdrivespe
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1711944927
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: do my dance
+|-supereffective|p1a: do my dance
+|-damage|p1a: do my dance|0 fnt
+|faint|p1a: do my dance
+|-end|p1a: do my dance|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711944937
+|switch|p1a: Buick|Grafaiai, M, shiny|100/100
+|turn|13
+|
+|t:|1711944955
+|move|p2a: Iron Boulder|Swords Dance|p2a: Iron Boulder
+|-boost|p2a: Iron Boulder|atk|2
+|move|p1a: Buick|Knock Off|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Substitute
+|
+|upkeep
+|turn|14
+|
+|t:|1711944964
+|move|p1a: Buick|Switcheroo|p2a: Iron Boulder
+|-activate|p1a: Buick|move: Trick|[of] p2a: Iron Boulder
+|-item|p2a: Iron Boulder|Lagging Tail|[from] move: Switcheroo
+|-enditem|p1a: Buick|Lagging Tail|[silent]|[from] move: Switcheroo
+|move|p2a: Iron Boulder|Psycho Cut|p1a: Buick
+|-supereffective|p1a: Buick
+|-damage|p1a: Buick|0 fnt
+|faint|p1a: Buick
+|
+|upkeep
+|
+|t:|1711944989
+|switch|p1a: Theytriarch|Iron Valiant, shiny|100/100
+|turn|15
+|
+|t:|1711944998
+|move|p1a: Theytriarch|Knock Off|p2a: Iron Boulder
+|-supereffective|p2a: Iron Boulder
+|-damage|p2a: Iron Boulder|0 fnt
+|-enditem|p2a: Iron Boulder|Lagging Tail|[from] move: Knock Off|[of] p1a: Theytriarch
+|faint|p2a: Iron Boulder
+|-end|p2a: Iron Boulder|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711945006
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|16
+|
+|t:|1711945012
+|move|p2a: Scizor|Bullet Punch|p1a: Theytriarch
+|-supereffective|p1a: Theytriarch
+|-damage|p1a: Theytriarch|0 fnt
+|faint|p1a: Theytriarch
+|-end|p1a: Theytriarch|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711945030
+|switch|p1a: Polo Forma Japon|Arcanine-Hisui, M|100/100
+|turn|17
+|
+|t:|1711945040
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Polo Forma Japon|Flare Blitz|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|68/100
+|
+|-heal|p2a: Alomomola|74/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711945049
+|switch|p1a: Nisan|Iron Jugulis|100/100
+|move|p2a: Alomomola|Flip Turn|p1a: Nisan
+|-damage|p1a: Nisan|82/100
+|
+|t:|1711945059
+|switch|p2a: Scizor|Scizor, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|19
+|
+|t:|1711945072
+|move|p2a: Scizor|Bullet Punch|p1a: Nisan
+|-damage|p1a: Nisan|20/100
+|move|p1a: Nisan|Hurricane|p2a: Scizor
+|-damage|p2a: Scizor|39/100
+|-start|p2a: Scizor|confusion
+|
+|upkeep
+|turn|20
+|
+|t:|1711945082
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Nisan|Hurricane|p2a: Alomomola
+|-damage|p2a: Alomomola|60/100
+|
+|-heal|p2a: Alomomola|67/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711945090
+|move|p1a: Nisan|Hurricane|p2a: Alomomola
+|-damage|p2a: Alomomola|25/100
+|-start|p2a: Alomomola|confusion
+|-activate|p2a: Alomomola|confusion
+|move|p2a: Alomomola|Scald|p1a: Nisan
+|-damage|p1a: Nisan|0 fnt
+|faint|p1a: Nisan
+|-end|p1a: Nisan|Quark Drive|[silent]
+|
+|-heal|p2a: Alomomola|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945100
+|switch|p1a: Polo Forma Japon|Arcanine-Hisui, M|100/100
+|turn|22
+|
+|t:|1711945115
+|switch|p2a: Ting-Lu|Ting-Lu|100/100
+|-ability|p2a: Ting-Lu|Vessel of Ruin
+|move|p1a: Polo Forma Japon|Flare Blitz|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|51/100
+|
+|-heal|p2a: Ting-Lu|57/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711945123
+|move|p1a: Polo Forma Japon|Flare Blitz|p2a: Ting-Lu
+|-damage|p2a: Ting-Lu|8/100
+|move|p2a: Ting-Lu|Earthquake|p1a: Polo Forma Japon
+|-supereffective|p1a: Polo Forma Japon
+|-damage|p1a: Polo Forma Japon|0 fnt
+|faint|p1a: Polo Forma Japon
+|
+|win|Standjeezy
+|l| PurplePenguin72
+|l|☆Red Sox Killer
+|player|p1|

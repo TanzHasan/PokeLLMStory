@@ -1,0 +1,634 @@
+|j|☆Brave Yellow
+|j|☆Mincera31
+|t:|1711882309
+|gametype|singles
+|player|p1|Brave Yellow|volo-ginkgo|1277
+|player|p2|Mincera31|2|1522
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Calyrex-Ice|
+|poke|p1|Tyranitar, F|
+|poke|p1|Annihilape, M|
+|poke|p1|Infernape, F|
+|poke|p1|Vaporeon, M|
+|poke|p1|Heatran, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Great Tusk|
+|poke|p2|Solgaleo|
+|poke|p2|Regieleki|
+|poke|p2|Magearna|
+|poke|p2|Lugia|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brave Yellow)
+|
+|t:|1711882330
+|start
+|switch|p1a: Shimo|Calyrex-Ice|100/100
+|switch|p2a: Solgaleo|Solgaleo|100/100
+|-ability|p1a: Shimo|As One
+|-ability|p1a: Shimo|Unnerve
+|turn|1
+|
+|t:|1711882349
+|switch|p1a: Off Screened|Heatran, F|100/100
+|detailschange|p2a: Solgaleo|Solgaleo
+|-mega|p2a: Solgaleo|Solgaleo|Manectite
+|-ability|p2a: Solgaleo|Intimidate|boost
+|-unboost|p1a: Off Screened|atk|1
+|-start|p2a: Solgaleo|Manectite|[silent]
+|move|p2a: Solgaleo|Flash Cannon|p1a: Off Screened
+|-resisted|p1a: Off Screened
+|-damage|p1a: Off Screened|92/100
+|-unboost|p1a: Off Screened|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711882365
+|-end|p2a: Solgaleo|Manectite|[silent]
+|switch|p2a: Lugia|Lugia|100/100
+|-ability|p2a: Lugia|Pressure
+|detailschange|p2a: Lugia|Lugia
+|-primal|p2a: Lugia|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p2a: Lugia
+|-start|p2a: Lugia|Red Orb|[silent]
+|-start|p2a: Lugia|typechange|Psychic/Fire|[silent]
+|move|p1a: Off Screened|Protect||[still]
+|-fail|p1a: Off Screened
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711882373
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Off Screened|Magma Storm|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|80/100
+|-activate|p2a: Lugia|move: Magma Storm|[of] p1a: Off Screened
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Lugia|68/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|inactive|Brave Yellow has 120 seconds left.
+|
+|t:|1711882414
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|move|p1a: Off Screened|Earth Power|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|46/100
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Lugia|33/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1711882425
+|switch|p1a: Godzilla|Tyranitar, F|100/100
+|-ability|p1a: Godzilla|Sand Stream|[from] desolateland|[fail]
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|84/100
+|
+|-weather|DesolateLand|[upkeep]
+|-end|p2a: Lugia|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|6
+|
+|t:|1711882433
+|move|p2a: Lugia|Weather Ball|p1a: Godzilla
+|-resisted|p1a: Godzilla
+|-damage|p1a: Godzilla|27/100
+|move|p1a: Godzilla|Dragon Tail|p2a: Lugia
+|-damage|p2a: Lugia|72/100
+|-end|p2a: Lugia|Red Orb|[silent]
+|-weather|none
+|drag|p2a: Solgaleo|Solgaleo|100/100
+|-start|p2a: Solgaleo|Manectite|[silent]
+|-ability|p2a: Solgaleo|Intimidate|boost
+|-unboost|p1a: Godzilla|atk|1
+|
+|upkeep
+|turn|7
+|inactive|Brave Yellow has 120 seconds left.
+|
+|t:|1711882445
+|switch|p1a: Off Screened|Heatran, F|92/100
+|move|p2a: Solgaleo|Future Sight|p1a: Off Screened
+|-start|p2a: Solgaleo|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1711882455
+|-end|p2a: Solgaleo|Manectite|[silent]
+|switch|p2a: Lugia|Lugia|72/100
+|-start|p2a: Lugia|Red Orb|[silent]
+|-start|p2a: Lugia|typechange|Psychic/Fire|[silent]
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p2a: Lugia
+|move|p1a: Off Screened|Magma Storm|p2a: Lugia
+|-resisted|p2a: Lugia
+|-damage|p2a: Lugia|44/100
+|-activate|p2a: Lugia|move: Magma Storm|[of] p1a: Off Screened
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Lugia|32/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1711882461
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|82/100
+|move|p1a: Off Screened|Earth Power|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|38/100
+|
+|-weather|DesolateLand|[upkeep]
+|-end|p1a: Off Screened|move: Future Sight
+|-resisted|p1a: Off Screened
+|-damage|p1a: Off Screened|70/100
+|-damage|p2a: Lugia|26/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1711882472
+|move|p2a: Lugia|Recover|p2a: Lugia
+|-heal|p2a: Lugia|76/100
+|move|p1a: Off Screened|Earth Power|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|33/100
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Lugia|20/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1711882478
+|move|p2a: Lugia|Psychic Noise|p1a: Off Screened
+|-resisted|p1a: Off Screened
+|-damage|p1a: Off Screened|54/100
+|-start|p1a: Off Screened|move: Heal Block
+|move|p1a: Off Screened|Earth Power|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|faint|p2a: Lugia
+|-weather|none
+|
+|upkeep
+|
+|t:|1711882487
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|12
+|
+|t:|1711882491
+|detailschange|p2a: Great Tusk|Great Tusk
+|-mega|p2a: Great Tusk|Great Tusk|Metagrossite
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-start|p2a: Great Tusk|Metagrossite|[silent]
+|detailschange|p1a: Off Screened|Heatran, F
+|-mega|p1a: Off Screened|Heatran|Latiosite
+|-start|p1a: Off Screened|Latiosite|[silent]
+|move|p1a: Off Screened|Protect|p1a: Off Screened
+|-singleturn|p1a: Off Screened|Protect
+|move|p2a: Great Tusk|Close Combat|p1a: Off Screened
+|-activate|p1a: Off Screened|move: Protect
+|
+|-end|p1a: Off Screened|move: Heal Block
+|upkeep
+|turn|13
+|
+|t:|1711882504
+|-end|p1a: Off Screened|Latiosite|[silent]
+|switch|p1a: King Kong|Annihilape, M|100/100
+|move|p2a: Great Tusk|Bulk Up|p2a: Great Tusk
+|-boost|p2a: Great Tusk|atk|1
+|-boost|p2a: Great Tusk|def|1
+|
+|upkeep
+|turn|14
+|
+|t:|1711882510
+|detailschange|p1a: King Kong|Annihilape, M
+|-mega|p1a: King Kong|Annihilape|Manectite
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|-start|p1a: King Kong|Manectite|[silent]
+|move|p2a: Great Tusk|Headlong Rush|p1a: King Kong
+|-damage|p1a: King Kong|41/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: King Kong|Rage Fist|p2a: Great Tusk
+|-damage|p2a: Great Tusk|69/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711882525
+|-end|p1a: King Kong|Manectite|[silent]
+|switch|p1a: Off Screened|Heatran, F|54/100
+|-start|p1a: Off Screened|Latiosite|[silent]
+|move|p2a: Great Tusk|Headlong Rush|p1a: Off Screened
+|-immune|p1a: Off Screened|[from] ability: Levitate
+|
+|upkeep
+|turn|16
+|
+|t:|1711882530
+|-end|p1a: Off Screened|Latiosite|[silent]
+|switch|p1a: King Kong|Annihilape, M|41/100
+|-start|p1a: King Kong|Manectite|[silent]
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|move|p2a: Great Tusk|Close Combat|p1a: King Kong
+|-immune|p1a: King Kong
+|
+|upkeep
+|turn|17
+|
+|t:|1711882536
+|-end|p2a: Great Tusk|Metagrossite|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: King Kong|Rest|p1a: King Kong
+|-status|p1a: King Kong|slp|[from] move: Rest
+|-heal|p1a: King Kong|100/100 slp|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1711882542
+|detailschange|p2a: Corviknight|Corviknight, M
+|-mega|p2a: Corviknight|Corviknight|Sablenite
+|-start|p2a: Corviknight|Sablenite|[silent]
+|cant|p1a: King Kong|slp
+|move|p1a: King Kong|Sleep Talk|p1a: King Kong
+|move|p1a: King Kong|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: King Kong
+|move|p2a: Corviknight|U-turn|p1a: King Kong
+|-resisted|p1a: King Kong
+|-damage|p1a: King Kong|98/100 slp
+|
+|t:|1711882549
+|-end|p2a: Corviknight|Sablenite|[silent]
+|switch|p2a: Magearna|Magearna|100/100|[from] U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1711882556
+|-end|p1a: King Kong|Manectite|[silent]
+|switch|p1a: Off Screened|Heatran, F|54/100
+|-start|p1a: Off Screened|Latiosite|[silent]
+|detailschange|p2a: Magearna|Magearna
+|-mega|p2a: Magearna|Magearna|Latiasite
+|-start|p2a: Magearna|Latiasite|[silent]
+|move|p2a: Magearna|Spikes|p1a: Off Screened
+|-sidestart|p1: Brave Yellow|Spikes
+|
+|upkeep
+|turn|20
+|
+|t:|1711882562
+|move|p1a: Off Screened|Magma Storm|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-crit|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|
+|upkeep
+|
+|t:|1711882569
+|switch|p2a: Great Tusk|Great Tusk|69/100
+|-start|p2a: Great Tusk|Metagrossite|[silent]
+|turn|21
+|
+|t:|1711882575
+|move|p2a: Great Tusk|Close Combat|p1a: Off Screened
+|-supereffective|p1a: Off Screened
+|-damage|p1a: Off Screened|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Off Screened
+|
+|upkeep
+|
+|t:|1711882579
+|switch|p1a: King Kong|Annihilape, M|98/100 slp
+|-start|p1a: King Kong|Manectite|[silent]
+|-damage|p1a: King Kong|85/100 slp|[from] Spikes
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|turn|22
+|
+|t:|1711882586
+|-end|p2a: Great Tusk|Metagrossite|[silent]
+|switch|p2a: Solgaleo|Solgaleo|100/100
+|-start|p2a: Solgaleo|Manectite|[silent]
+|-ability|p2a: Solgaleo|Intimidate|boost
+|-unboost|p1a: King Kong|atk|1
+|cant|p1a: King Kong|slp
+|move|p1a: King Kong|Sleep Talk|p1a: King Kong
+|move|p1a: King Kong|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: King Kong
+|
+|upkeep
+|turn|23
+|
+|t:|1711882596
+|-end|p1a: King Kong|Manectite|[silent]
+|switch|p1a: Godzilla|Tyranitar, F|27/100
+|-damage|p1a: Godzilla|15/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Godzilla
+|move|p2a: Solgaleo|Future Sight|p1a: Godzilla
+|-start|p2a: Solgaleo|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1711882602
+|switch|p1a: King Kong|Annihilape, M|85/100 slp
+|-start|p1a: King Kong|Manectite|[silent]
+|-damage|p1a: King Kong|73/100 slp|[from] Spikes
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Solgaleo|atk|1
+|move|p2a: Solgaleo|Flash Cannon|p1a: King Kong
+|-damage|p1a: King Kong|44/100 slp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: King Kong|38/100 slp|[from] Sandstorm
+|upkeep
+|turn|25
+|
+|t:|1711882616
+|-end|p1a: King Kong|Manectite|[silent]
+|switch|p1a: Godzilla|Tyranitar, F|15/100
+|-damage|p1a: Godzilla|2/100|[from] Spikes
+|move|p2a: Solgaleo|Teleport|p2a: Solgaleo
+|
+|t:|1711882627
+|-end|p2a: Solgaleo|Manectite|[silent]
+|switch|p2a: Great Tusk|Great Tusk|69/100|[from] Teleport
+|-start|p2a: Great Tusk|Metagrossite|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p1a: Godzilla|move: Future Sight
+|-immune|p1a: Godzilla
+|upkeep
+|turn|26
+|
+|t:|1711882638
+|move|p2a: Great Tusk|Smack Down|p1a: Godzilla
+|-damage|p1a: Godzilla|0 fnt
+|faint|p1a: Godzilla
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711882641
+|switch|p1a: Tiamat|Vaporeon, M, shiny|100/100
+|-damage|p1a: Tiamat|88/100|[from] Spikes
+|turn|27
+|
+|t:|1711882655
+|-end|p2a: Great Tusk|Metagrossite|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-start|p2a: Corviknight|Sablenite|[silent]
+|detailschange|p1a: Tiamat|Vaporeon, M, shiny
+|-mega|p1a: Tiamat|Vaporeon|Sablenite
+|-start|p1a: Tiamat|Sablenite|[silent]
+|move|p1a: Tiamat|Wish|p1a: Tiamat
+|
+|-weather|none
+|upkeep
+|turn|28
+|
+|t:|1711882661
+|move|p2a: Corviknight|Body Press|p1a: Tiamat
+|-damage|p1a: Tiamat|70/100
+|move|p1a: Tiamat|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|93/100
+|
+|t:|1711882666
+|-end|p1a: Tiamat|Sablenite|[silent]
+|switch|p1a: King Kong|Annihilape, M|38/100 slp|[from] Flip Turn
+|-start|p1a: King Kong|Manectite|[silent]
+|-damage|p1a: King Kong|26/100 slp|[from] Spikes
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|
+|-heal|p1a: King Kong|81/100 slp|[from] move: Wish|[wisher] Tiamat
+|upkeep
+|turn|29
+|
+|t:|1711882675
+|-end|p2a: Corviknight|Sablenite|[silent]
+|switch|p2a: Solgaleo|Solgaleo|100/100
+|-start|p2a: Solgaleo|Manectite|[silent]
+|-ability|p2a: Solgaleo|Intimidate|boost
+|-unboost|p1a: King Kong|atk|1
+|-curestatus|p1a: King Kong|slp|[msg]
+|move|p1a: King Kong|Rage Fist|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|45/100
+|
+|upkeep
+|turn|30
+|
+|t:|1711882687
+|-end|p1a: King Kong|Manectite|[silent]
+|switch|p1a: Tiamat|Vaporeon, M, shiny|70/100
+|-start|p1a: Tiamat|Sablenite|[silent]
+|-damage|p1a: Tiamat|58/100|[from] Spikes
+|move|p2a: Solgaleo|Future Sight|p1a: Tiamat
+|-start|p2a: Solgaleo|move: Future Sight
+|
+|upkeep
+|turn|31
+|
+|t:|1711882696
+|move|p1a: Tiamat|Wish|p1a: Tiamat
+|move|p2a: Solgaleo|Teleport|p2a: Solgaleo
+|
+|t:|1711882701
+|-end|p2a: Solgaleo|Manectite|[silent]
+|switch|p2a: Regieleki|Regieleki|100/100|[from] Teleport
+|
+|upkeep
+|turn|32
+|
+|t:|1711882717
+|detailschange|p2a: Regieleki|Regieleki
+|-mega|p2a: Regieleki|Regieleki|Altarianite
+|-start|p2a: Regieleki|Altarianite|[silent]
+|-start|p2a: Regieleki|typechange|Electric/Fairy|[silent]
+|move|p2a: Regieleki|Volt Switch|p1a: Tiamat
+|-supereffective|p1a: Tiamat
+|-damage|p1a: Tiamat|19/100
+|
+|t:|1711882736
+|-end|p2a: Regieleki|Altarianite|[silent]
+|switch|p2a: Solgaleo|Solgaleo|45/100|[from] Volt Switch
+|-start|p2a: Solgaleo|Manectite|[silent]
+|-ability|p2a: Solgaleo|Intimidate|boost
+|-unboost|p1a: Tiamat|atk|1
+|move|p1a: Tiamat|Scald|p2a: Solgaleo
+|-damage|p2a: Solgaleo|20/100
+|-status|p2a: Solgaleo|brn
+|
+|-end|p1a: Tiamat|move: Future Sight
+|-damage|p1a: Tiamat|0 fnt
+|faint|p1a: Tiamat
+|-damage|p2a: Solgaleo|14/100 brn|[from] brn
+|upkeep
+|
+|t:|1711882750
+|switch|p1a: Skar King|Infernape, F|100/100
+|-damage|p1a: Skar King|88/100|[from] Spikes
+|turn|33
+|
+|t:|1711882766
+|detailschange|p1a: Skar King|Infernape, F
+|-mega|p1a: Skar King|Infernape|Altarianite
+|-start|p1a: Skar King|Altarianite|[silent]
+|-start|p1a: Skar King|typechange|Fire/Fairy|[silent]
+|move|p1a: Skar King|Stealth Rock|p2a: Solgaleo
+|-sidestart|p2: Mincera31|move: Stealth Rock
+|move|p2a: Solgaleo|Future Sight|p1a: Skar King
+|-start|p2a: Solgaleo|move: Future Sight
+|
+|-damage|p2a: Solgaleo|8/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1711882780
+|move|p1a: Skar King|Overheat|p2a: Solgaleo
+|-supereffective|p2a: Solgaleo
+|-damage|p2a: Solgaleo|0 fnt
+|-unboost|p1a: Skar King|spa|2
+|faint|p2a: Solgaleo
+|
+|upkeep
+|
+|t:|1711882787
+|switch|p2a: Great Tusk|Great Tusk|69/100
+|-start|p2a: Great Tusk|Metagrossite|[silent]
+|-damage|p2a: Great Tusk|66/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1711882795
+|-end|p1a: Skar King|Altarianite|[silent]
+|switch|p1a: King Kong|Annihilape, M|81/100
+|-start|p1a: King Kong|Manectite|[silent]
+|-damage|p1a: King Kong|68/100|[from] Spikes
+|-ability|p1a: King Kong|Intimidate|boost
+|-unboost|p2a: Great Tusk|atk|1
+|move|p2a: Great Tusk|Headlong Rush|p1a: King Kong
+|-damage|p1a: King Kong|23/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|
+|-end|p1a: King Kong|move: Future Sight
+|-supereffective|p1a: King Kong
+|-damage|p1a: King Kong|0 fnt
+|faint|p1a: King Kong
+|upkeep
+|
+|t:|1711882803
+|switch|p1a: Skar King|Infernape, F|88/100
+|-start|p1a: Skar King|Altarianite|[silent]
+|-start|p1a: Skar King|typechange|Fire/Fairy|[silent]
+|-damage|p1a: Skar King|76/100|[from] Spikes
+|turn|36
+|
+|t:|1711882809
+|move|p1a: Skar King|Fake Out|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|17/100
+|cant|p2a: Great Tusk|flinch
+|
+|upkeep
+|turn|37
+|
+|t:|1711882821
+|move|p2a: Great Tusk|Headlong Rush|p1a: Skar King
+|-supereffective|p1a: Skar King
+|-damage|p1a: Skar King|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Skar King
+|
+|upkeep
+|
+|t:|1711882826
+|switch|p1a: Shimo|Calyrex-Ice|100/100
+|-ability|p1a: Shimo|As One
+|-ability|p1a: Shimo|Unnerve
+|-damage|p1a: Shimo|88/100|[from] Spikes
+|turn|38
+|
+|t:|1711882836
+|move|p2a: Great Tusk|Close Combat|p1a: Shimo
+|-damage|p1a: Shimo|55/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Shimo|Glacial Lance|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-ability|p1a: Shimo|Chilling Neigh|boost
+|-boost|p1a: Shimo|atk|1
+|
+|upkeep
+|
+|t:|1711882840
+|switch|p2a: Corviknight|Corviknight, M|93/100
+|-start|p2a: Corviknight|Sablenite|[silent]
+|-damage|p2a: Corviknight|81/100|[from] Stealth Rock
+|turn|39
+|
+|t:|1711882843
+|move|p1a: Shimo|Glacial Lance|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-ability|p1a: Shimo|Chilling Neigh|boost
+|-boost|p1a: Shimo|atk|1
+|
+|upkeep
+|
+|t:|1711882849
+|switch|p2a: Regieleki|Regieleki|100/100
+|-start|p2a: Regieleki|Altarianite|[silent]
+|-start|p2a: Regieleki|typechange|Electric/Fairy|[silent]
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|turn|40
+|
+|t:|1711882858
+|move|p2a: Regieleki|Extreme Speed|p1a: Shimo
+|-damage|p1a: Shimo|19/100
+|move|p1a: Shimo|Glacial Lance|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|Brave Yellow
+|raw|Brave Yellow's rating: 1277 &rarr; <strong>1317</strong><br />(+40 for winning)
+|raw|Mincera31's rating: 1522 &rarr; <strong>1490</strong><br />(-32 for losing)
+|l|☆Mincera31
+|player|p2|

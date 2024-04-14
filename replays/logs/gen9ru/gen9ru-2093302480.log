@@ -1,0 +1,262 @@
+|j|‽Tapatio707
+|j|☆GateKeeper5
+|t:|1711936695
+|gametype|singles
+|player|p1|Tapatio707|266|1203
+|player|p2|GateKeeper5|hilbert|1195
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Rampardos, F|
+|poke|p1|Farigiraf, M|
+|poke|p1|Exeggutor-Alola, F|
+|poke|p1|Diancie|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Golurk|
+|poke|p2|Gengar, M|
+|poke|p2|Cobalion|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Salamence, F|
+|poke|p2|Cinccino, F|
+|poke|p2|Entei|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tapatio707)
+|
+|t:|1711936726
+|start
+|switch|p1a: Diancie|Diancie|100/100
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|turn|1
+|
+|t:|1711936736
+|move|p2a: Conkeldurr|Close Combat|p1a: Diancie
+|-damage|p1a: Diancie|58/100
+|-unboost|p2a: Conkeldurr|def|1
+|-unboost|p2a: Conkeldurr|spd|1
+|move|p1a: Diancie|Stealth Rock|p2a: Conkeldurr
+|-sidestart|p2: GateKeeper5|move: Stealth Rock
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1711936745
+|move|p2a: Conkeldurr|Close Combat|p1a: Diancie
+|-crit|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|-unboost|p2a: Conkeldurr|def|1
+|-unboost|p2a: Conkeldurr|spd|1
+|faint|p1a: Diancie
+|
+|-damage|p2a: Conkeldurr|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936754
+|switch|p1a: Exeggutor|Exeggutor-Alola, F|100/100
+|-item|p2a: Conkeldurr|Flame Orb|[from] ability: Frisk|[of] p1a: Exeggutor|[identify]
+|turn|3
+|inactive|GateKeeper5 has 120 seconds left.
+|
+|t:|1711936788
+|switch|p2a: Cobalion|Cobalion|100/100
+|-damage|p2a: Cobalion|97/100|[from] Stealth Rock
+|move|p1a: Exeggutor|Trick Room|p1a: Exeggutor
+|-fieldstart|move: Trick Room|[of] p1a: Exeggutor
+|
+|-heal|p2a: Cobalion|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|GateKeeper5 has 120 seconds left.
+|
+|t:|1711936799
+|move|p1a: Exeggutor|Flamethrower|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|23/100
+|move|p2a: Cobalion|Thunder Wave|p1a: Exeggutor|[miss]
+|-miss|p2a: Cobalion|p1a: Exeggutor
+|
+|-heal|p2a: Cobalion|30/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711936808
+|move|p1a: Exeggutor|Flamethrower|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|upkeep
+|inactive|GateKeeper5 has 120 seconds left.
+|
+|t:|1711936819
+|switch|p2a: Entei|Entei|100/100
+|-damage|p2a: Entei|76/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1711936824
+|move|p2a: Entei|Extreme Speed|p1a: Exeggutor
+|-damage|p1a: Exeggutor|59/100
+|move|p1a: Exeggutor|Draco Meteor|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|-unboost|p1a: Exeggutor|spa|2
+|-enditem|p1a: Exeggutor|Eject Pack
+|faint|p2a: Entei
+|
+|t:|1711936828
+|switch|p1a: Rampardos|Rampardos, F, shiny|100/100
+|
+|upkeep
+|
+|t:|1711936840
+|switch|p2a: Salamence|Salamence, F|100/100
+|-damage|p2a: Salamence|76/100|[from] Stealth Rock
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Rampardos|atk|1
+|turn|7
+|
+|t:|1711936846
+|move|p1a: Rampardos|Rock Slide|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1711936859
+|switch|p2a: Cinccino|Cinccino, F|100/100
+|turn|8
+|
+|t:|1711936866
+|move|p2a: Cinccino|Tidy Up|p2a: Cinccino
+|-sideend|p2: GateKeeper5|Stealth Rock
+|-activate|p2a: Cinccino|move: Tidy Up
+|-boost|p2a: Cinccino|atk|1
+|-boost|p2a: Cinccino|spe|1
+|move|p1a: Rampardos|Rock Slide|p2a: Cinccino|[miss]
+|-miss|p1a: Rampardos|p2a: Cinccino
+|
+|upkeep
+|turn|9
+|
+|t:|1711936882
+|move|p2a: Cinccino|Rock Blast|p1a: Rampardos
+|-damage|p1a: Rampardos|87/100
+|-damage|p1a: Rampardos|75/100
+|-damage|p1a: Rampardos|62/100
+|-damage|p1a: Rampardos|48/100
+|-damage|p1a: Rampardos|35/100
+|-hitcount|p1a: Rampardos|5
+|move|p1a: Rampardos|Rock Slide|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|upkeep
+|
+|t:|1711936894
+|switch|p2a: Conkeldurr|Conkeldurr, M|94/100 brn
+|turn|10
+|
+|t:|1711936899
+|move|p2a: Conkeldurr|Mach Punch|p1a: Rampardos
+|-supereffective|p1a: Rampardos
+|-damage|p1a: Rampardos|0 fnt
+|faint|p1a: Rampardos
+|
+|-damage|p2a: Conkeldurr|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936907
+|switch|p1a: Farigiraf|Farigiraf, M|100/100
+|turn|11
+|
+|t:|1711936912
+|-terastallize|p1a: Farigiraf|Fire
+|move|p2a: Conkeldurr|Knock Off|p1a: Farigiraf
+|-damage|p1a: Farigiraf|39/100
+|-enditem|p1a: Farigiraf|Leftovers|[from] move: Knock Off|[of] p2a: Conkeldurr
+|move|p1a: Farigiraf|Trick Room|p1a: Farigiraf
+|-fieldstart|move: Trick Room|[of] p1a: Farigiraf
+|
+|-damage|p2a: Conkeldurr|82/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711936921
+|move|p2a: Conkeldurr|Mach Punch|p1a: Farigiraf
+|-damage|p1a: Farigiraf|0 fnt
+|faint|p1a: Farigiraf
+|
+|-damage|p2a: Conkeldurr|75/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936934
+|switch|p1a: Golurk|Golurk|100/100
+|turn|13
+|
+|t:|1711936949
+|switch|p2a: Gengar|Gengar, M|100/100
+|move|p1a: Golurk|Poltergeist|p2a: Gengar
+|-activate|p2a: Gengar|move: Poltergeist|Choice Scarf
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-start|p1a: Golurk|Disable|Poltergeist|[from] ability: Cursed Body|[of] p2a: Gengar
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1711936957
+|switch|p2a: Conkeldurr|Conkeldurr, M|75/100 brn
+|turn|14
+|
+|t:|1711936964
+|switch|p1a: Exeggutor|Exeggutor-Alola, F|59/100
+|-item|p2a: Conkeldurr|Flame Orb|[from] ability: Frisk|[of] p1a: Exeggutor|[identify]
+|move|p2a: Conkeldurr|Knock Off|p1a: Exeggutor
+|-damage|p1a: Exeggutor|19/100
+|
+|-damage|p2a: Conkeldurr|69/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711936972
+|move|p2a: Conkeldurr|Mach Punch|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|-damage|p2a: Conkeldurr|63/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1711936976
+|switch|p1a: Golurk|Golurk|100/100
+|turn|16
+|
+|t:|1711936980
+|move|p2a: Conkeldurr|Knock Off|p1a: Golurk
+|-supereffective|p1a: Golurk
+|-damage|p1a: Golurk|0 fnt
+|-enditem|p1a: Golurk|Choice Band|[from] move: Knock Off|[of] p2a: Conkeldurr
+|faint|p1a: Golurk
+|
+|-damage|p2a: Conkeldurr|57/100 brn|[from] brn
+|upkeep
+|-message|Tapatio707 forfeited.
+|
+|win|GateKeeper5
+|raw|Tapatio707's rating: 1203 &rarr; <strong>1177</strong><br />(-26 for losing)
+|raw|GateKeeper5's rating: 1195 &rarr; <strong>1221</strong><br />(+26 for winning)
+|l|‽Tapatio707
+|player|p1|
+|l|☆GateKeeper5
+|player|p2|

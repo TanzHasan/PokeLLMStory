@@ -1,0 +1,76 @@
+p1: Switched to Slither Wing
+p2: Switched to Iron Boulder
+Turn 1:
+p2: Switched to Rhyperior
+p1: Slither Wing used First Impression on Rhyperior
+Turn 2:
+p1: Switched to Keldeo
+p2: Rhyperior used Fire Punch on Keldeo
+Turn 3:
+p2: Switched to Ogerpon-Cornerstone
+p1: Keldeo used Surf on Ogerpon-Cornerstone
+Turn 4:
+p1: Keldeo used Vacuum Wave on Ogerpon-Cornerstone
+p2: Ogerpon-Cornerstone fainted
+p2: Switched to Iron Boulder
+Turn 5:
+p1: Switched to Scrafty
+p2: Iron Boulder used Wild Charge on Scrafty
+Turn 6:
+p2: Switched to Tyranitar
+p1: Scrafty used Drain Punch on Tyranitar
+Turn 7:
+p2: Switched to Iron Boulder
+p1: Scrafty used Drain Punch on Iron Boulder
+Turn 8:
+p1: Switched to Okidogi
+p2: Iron Boulder used Close Combat on Okidogi
+Turn 9:
+p2: Switched to Terrakion
+p1: Switched to Keldeo
+Turn 10:
+p1: Keldeo used Surf on Terrakion
+p2: Terrakion used Close Combat on Keldeo
+p1: Keldeo fainted
+p1: Switched to Cobalion
+Turn 11:
+p1: Cobalion used Flash Cannon on Terrakion
+p2: Terrakion fainted
+p2: Switched to Iron Boulder
+Turn 12:
+p1: Switched to Breloom
+p2: Iron Boulder used Earthquake on Breloom
+Turn 13:
+p2: Switched to Coalossal
+p1: Breloom used Mach Punch on Coalossal
+Turn 14:
+p1: Breloom used Spore on Coalossal
+p2: Coalossal can't move
+Turn 15:
+p2: Switched to Iron Boulder
+p1: Breloom used Bullet Seed on Iron Boulder
+p2: Iron Boulder fainted
+p2: Switched to Rhyperior
+Turn 16:
+p1: Breloom used Bullet Seed on Rhyperior
+p2: Rhyperior fainted
+p2: Switched to Coalossal
+Turn 17:
+p1: Breloom used Bullet Seed on Coalossal
+p2: Coalossal can't move
+Turn 18:
+p1: Breloom used Bullet Seed on Coalossal
+p2: Coalossal can't move
+Turn 19:
+p1: Breloom used Rock Tomb on Coalossal
+p2: Coalossal used Flamethrower on Breloom
+p1: Breloom fainted
+p1: Switched to Cobalion
+Turn 20:
+p1: Cobalion used Volt Switch on Coalossal
+p2: Coalossal fainted
+p1: Switched to Slither Wing
+p2: Switched to Tyranitar
+Turn 21:
+p1: Slither Wing used First Impression on Tyranitar
+p2: Tyranitar fainted

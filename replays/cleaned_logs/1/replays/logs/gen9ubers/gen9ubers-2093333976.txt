@@ -1,0 +1,44 @@
+p1: Switched to Ninetales-Alola
+p2: Switched to Regieleki
+Turn 1:
+p2: Regieleki used Explosion on Ninetales-Alola
+p2: Regieleki fainted
+p1: Ninetales-Alola used Aurora Veil on Ninetales-Alola
+p2: Switched to Magcargo
+Turn 2:
+p1: Ninetales-Alola used Hypnosis on Magcargo
+p2: Magcargo used Overheat on Ninetales-Alola
+Turn 3:
+p1: Ninetales-Alola used Hypnosis on Magcargo
+p2: Magcargo can't move
+Turn 4:
+p1: Switched to Baxcalibur
+p2: Magcargo can't move
+Turn 5:
+p1: Baxcalibur used Swords Dance on Baxcalibur
+p2: Magcargo used Clear Smog on Baxcalibur
+Turn 6:
+p1: Baxcalibur used Scale Shot on Magcargo
+p2: Magcargo used Overheat on Baxcalibur
+Turn 7:
+p2: Switched to Regigigas
+p1: Baxcalibur used Scale Shot on Regigigas
+Turn 8:
+p1: Baxcalibur used Scale Shot on Regigigas
+p2: Regigigas fainted
+p2: Switched to Magcargo
+Turn 9:
+p1: Baxcalibur used Scale Shot on Magcargo
+p2: Magcargo fainted
+p2: Switched to Gumshoos
+Turn 10:
+p1: Baxcalibur used Scale Shot on Gumshoos
+p2: Gumshoos fainted
+p2: Switched to Terrakion
+Turn 11:
+p1: Baxcalibur used Scale Shot on Terrakion
+p2: Terrakion fainted
+p2: Switched to Landorus
+Turn 12:
+p1: Baxcalibur used Icicle Spear on Landorus
+p2: Landorus fainted

@@ -1,0 +1,261 @@
+p1: Switched to Mamoswine
+p2: Switched to Scizor
+Turn 1:
+p1: Switched to Magnezone
+p2: Scizor used Superpower on Magnezone
+Turn 2:
+p2: Scizor used Superpower on Magnezone
+p1: Magnezone fainted
+p1: Switched to Staraptor
+Turn 3:
+p2: Switched to Suicune
+p1: Staraptor used Close Combat on Suicune
+Turn 4:
+p1: Switched to Rotom-Fan
+p2: Suicune used Ice Beam on Rotom-Fan
+Turn 5:
+p2: Switched to Gengar
+p1: Rotom-Fan used Discharge on Gengar
+Turn 6:
+p1: Switched to Furret
+p2: Gengar used Explosion on Furret
+p2: Gengar fainted
+p1: Furret fainted
+p2: Switched to Weavile
+p1: Switched to Rotom-Fan
+Turn 7:
+p2: Weavile used Night Slash on Rotom-Fan
+p1: Rotom-Fan fainted
+p1: Switched to Staraptor
+Turn 8:
+p2: Weavile used Ice Shard on Staraptor
+p1: Staraptor used Close Combat on Weavile
+p2: Weavile fainted
+p2: Switched to Suicune
+Turn 9:
+p1: Switched to Milotic
+p2: Suicune used Ice Beam on Milotic
+Turn 10:
+p2: Suicune used Protect on Suicune
+p1: Milotic used Surf on Suicune
+Turn 11:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Surf on Suicune
+Turn 12:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Haze on Milotic
+Turn 13:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic used Ice Beam on Suicune
+Turn 14:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Ice Beam on Suicune
+Turn 15:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic used Haze on Milotic
+Turn 16:
+p1: Switched to Mamoswine
+p2: Suicune used Surf on Mamoswine
+Turn 17:
+p2: Suicune used Surf on Mamoswine
+p1: Mamoswine fainted
+p1: Switched to Staraptor
+Turn 18:
+p1: Staraptor used Roost on Staraptor
+p2: Suicune used Ice Beam on Staraptor
+Turn 19:
+p1: Staraptor used Roost on Staraptor
+p2: Suicune used Calm Mind on Suicune
+Turn 20:
+p1: Switched to Milotic
+p2: Suicune used Calm Mind on Suicune
+Turn 21:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic used Haze on Milotic
+Turn 22:
+p2: Switched to Miltank
+p1: Milotic used Surf on Miltank
+Turn 23:
+p2: Miltank used Milk Drink on Miltank
+p1: Milotic used Ice Beam on Miltank
+Turn 24:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Surf on Miltank
+Turn 25:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Surf on Miltank
+Turn 26:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Recover on Milotic
+Turn 27:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Recover on Milotic
+Turn 28:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Surf on Miltank
+Turn 29:
+p2: Miltank used Milk Drink on Miltank
+p1: Milotic used Surf on Miltank
+Turn 30:
+p2: Miltank used Curse on Miltank
+p1: Milotic used Recover on Milotic
+Turn 31:
+p1: Milotic used Surf on Miltank
+p2: Miltank used Body Slam on Milotic
+Turn 32:
+p1: Milotic used Ice Beam on Miltank
+p2: Miltank used Body Slam on Milotic
+Turn 33:
+p1: Milotic used Recover on Milotic
+p2: Miltank used Body Slam on Milotic
+Turn 34:
+p1: Milotic used Recover on Milotic
+p2: Miltank used Body Slam on Milotic
+Turn 35:
+p1: Milotic used Recover on Milotic
+p2: Miltank used Body Slam on Milotic
+Turn 36:
+p1: Milotic used Haze on Milotic
+p2: Miltank used Curse on Miltank
+Turn 37:
+p1: Milotic used Haze on Milotic
+p2: Miltank used Curse on Miltank
+Turn 38:
+p1: Milotic used Haze on Milotic
+p2: Miltank used Curse on Miltank
+Turn 39:
+p1: Milotic used Surf on Miltank
+p2: Miltank used Curse on Miltank
+Turn 40:
+p1: Milotic used Haze on Milotic
+p2: Miltank used Body Slam on Milotic
+Turn 41:
+p2: Miltank used Body Slam on Milotic
+p1: Milotic used Ice Beam on Miltank
+Turn 42:
+p2: Miltank can't move
+p1: Milotic used Surf on Miltank
+Turn 43:
+p2: Miltank can't move
+p1: Milotic used Surf on Miltank
+Turn 44:
+p2: Switched to Suicune
+p1: Milotic used Surf on Suicune
+Turn 45:
+p2: Suicune used Protect on Suicune
+p1: Milotic used Surf on Suicune
+Turn 46:
+p1: Switched to Staraptor
+p2: Suicune used Calm Mind on Suicune
+Turn 47:
+p2: Suicune used Ice Beam on Staraptor
+p1: Staraptor fainted
+p1: Switched to Milotic
+Turn 48:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic used Ice Beam on Suicune
+Turn 49:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic can't move
+Turn 50:
+p2: Switched to Scizor
+p1: Milotic can't move
+Turn 51:
+p2: Scizor used Bullet Punch on Milotic
+p1: Milotic can't move
+Turn 52:
+p2: Switched to Miltank
+p1: Milotic can't move
+Turn 53:
+p2: Miltank can't move
+p1: Milotic used Surf on Miltank
+Turn 54:
+p2: Switched to Suicune
+p1: Milotic used Ice Beam on Suicune
+Turn 55:
+p2: Suicune used Protect on Suicune
+p1: Milotic used Surf on Suicune
+Turn 56:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Haze on Milotic
+Turn 57:
+p2: Suicune used Ice Beam on Milotic
+p1: Milotic used Haze on Milotic
+Turn 58:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Ice Beam on Suicune
+Turn 59:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Surf on Suicune
+Turn 60:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Ice Beam on Suicune
+Turn 61:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Ice Beam on Suicune
+Turn 62:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Haze on Milotic
+Turn 63:
+p2: Suicune used Surf on Milotic
+p1: Milotic used Haze on Milotic
+Turn 64:
+p2: Suicune used Protect on Suicune
+p1: Milotic used Haze on Milotic
+Turn 65:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Haze on Milotic
+Turn 66:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Surf on Suicune
+Turn 67:
+p2: Suicune used Calm Mind on Suicune
+p1: Milotic used Haze on Milotic
+Turn 68:
+p2: Switched to Lucario
+p1: Milotic used Haze on Milotic
+Turn 69:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Haze on Milotic
+Turn 70:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 71:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 72:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 73:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 74:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 75:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Haze on Milotic
+Turn 76:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 77:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 78:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 79:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 80:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Recover on Milotic
+Turn 81:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic used Haze on Milotic
+Turn 82:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic can't move
+Turn 83:
+p2: Lucario used Thunder Punch on Milotic
+p1: Milotic fainted

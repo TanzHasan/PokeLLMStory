@@ -1,0 +1,67 @@
+p1: Switched to Hatterene
+p1: Switched to Incineroar
+p2: Switched to Golem-Alola
+p2: Switched to Oranguru
+Turn 1:
+p1: Incineroar used Fake Out on Golem-Alola
+p2: Golem-Alola can't move
+p2: Oranguru used Trick Room on Oranguru
+p1: Hatterene used Trick Room on Hatterene
+Turn 2:
+p2: Golem-Alola used Rock Slide on Incineroar
+p2: Oranguru used Instruct on Golem-Alola
+p2: Golem-Alola used Rock Slide on Incineroar
+p1: Incineroar used Parting Shot on Golem-Alola
+p1: Switched to Ursaluna
+p1: Hatterene used Draining Kiss on Golem-Alola
+Turn 3:
+p2: Golem-Alola used Explosion on Ursaluna
+p2: Golem-Alola fainted
+p1: Hatterene fainted
+p1: Ursaluna used High Horsepower on Oranguru
+p2: Oranguru fainted
+p2: Switched to Amoonguss
+p2: Switched to Landorus-Therian
+p1: Switched to Incineroar
+Turn 4:
+p1: Switched to Primarina
+p1: Incineroar used Fake Out on Amoonguss
+p2: Landorus-Therian used Rock Slide on Primarina
+p1: Incineroar fainted
+p2: Amoonguss can't move
+p1: Switched to Ursaluna
+Turn 5:
+p1: Ursaluna used Protect on Ursaluna
+p2: Landorus-Therian used Rock Slide on Primarina
+p1: Primarina used Ice Beam on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Amoonguss used Spore on Primarina
+p2: Switched to Torkoal
+Turn 6:
+p1: Switched to Enamorus-Therian
+p2: Amoonguss used Sludge Bomb on Enamorus-Therian
+p1: Ursaluna used High Horsepower on Torkoal
+p2: Torkoal fainted
+p2: Switched to Lurantis
+Turn 7:
+p2: Lurantis used Superpower on Ursaluna
+p2: Amoonguss used Sludge Bomb on Enamorus-Therian
+p1: Enamorus-Therian fainted
+p1: Ursaluna used Facade on Amoonguss
+p1: Switched to Primarina
+Turn 8:
+p2: Lurantis used Superpower on Ursaluna
+p1: Ursaluna fainted
+p1: Primarina used Ice Beam on Lurantis
+p2: Amoonguss used Giga Drain on Primarina
+p1: Switched to Bronzong
+Turn 9:
+p2: Lurantis used Leech Life on Primarina
+p1: Primarina fainted
+p2: Amoonguss used Spore on Bronzong
+p1: Bronzong can't move
+Turn 10:
+p2: Lurantis used Knock Off on Bronzong
+p2: Amoonguss used Giga Drain on Bronzong
+p1: Bronzong can't move
+Turn 11:

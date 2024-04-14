@@ -1,0 +1,33 @@
+p1: Switched to Landorus-Therian
+p1: Switched to Whimsicott
+p2: Switched to Incineroar
+p2: Switched to Farigiraf
+Turn 1:
+p1: Whimsicott used Helping Hand on Landorus-Therian
+p2: Incineroar used Fake Out on Whimsicott
+p1: Landorus-Therian used Rock Slide on Farigiraf
+p2: Farigiraf used Trick Room on Farigiraf
+Turn 2:
+p1: Whimsicott used Helping Hand on Landorus-Therian
+p2: Farigiraf used Hyper Voice on Landorus-Therian
+p2: Incineroar used Knock Off on Landorus-Therian
+p1: Landorus-Therian used Rock Slide on Farigiraf
+Turn 3:
+p1: Switched to Iron Hands
+p1: Whimsicott used Protect on Whimsicott
+p2: Farigiraf used Psychic on Iron Hands
+p2: Incineroar used Knock Off on Whimsicott
+Turn 4:
+p1: Whimsicott failed to use Protect
+p1: Iron Hands failed to use Fake Out
+p2: Farigiraf can't move
+p2: Farigiraf used Psychic on Whimsicott
+p1: Whimsicott fainted
+p2: Incineroar used Knock Off on Iron Hands
+p1: Switched to Landorus-Therian
+Turn 5:
+p2: Farigiraf used Psychic on Iron Hands
+p1: Iron Hands fainted
+p2: Incineroar used Parting Shot on Landorus-Therian
+p2: Switched to Rillaboom
+p1: Landorus-Therian used Stomping Tantrum on Rillaboom

@@ -1,0 +1,202 @@
+|j|☆DragonKiller75
+|j|☆Enklave
+|t:|1711939468
+|gametype|singles
+|player|p1|DragonKiller75|miku-fire|1051
+|player|p2|Enklave|rocket-gen1rb|1135
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|1
+|tier|[Gen 1] OU
+|rated|
+|rule|Desync Clause Mod: Desyncs changed to move failure.
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711939468
+|start
+|switch|p1a: Persian|Persian|100/100
+|switch|p2a: October|Gengar|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DragonKiller75)
+|
+|t:|1711939483
+|move|p1a: Persian|Substitute|p1a: Persian
+|-start|p1a: Persian|Substitute
+|-damage|p1a: Persian|76/100
+|move|p2a: October|Hypnosis|p1a: Persian
+|-status|p1a: Persian|slp|[from] move: Hypnosis
+|
+|upkeep
+|turn|2
+|
+|t:|1711939489
+|cant|p1a: Persian|slp
+|move|p2a: October|Psychic|p1a: Persian
+|-end|p1a: Persian|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1711939494
+|cant|p1a: Persian|slp
+|move|p2a: October|Psychic|p1a: Persian
+|-crit|p1a: Persian
+|-damage|p1a: Persian|14/100 slp
+|
+|upkeep
+|turn|4
+|
+|t:|1711939499
+|cant|p1a: Persian|slp
+|move|p2a: October|Psychic|p1a: Persian
+|-crit|p1a: Persian
+|-damage|p1a: Persian|0 fnt
+|faint|p1a: Persian
+|
+|t:|1711939502
+|switch|p1a: Tauros|Tauros|100/100
+|turn|5
+|
+|t:|1711939509
+|move|p2a: October|Explosion|p1a: Tauros
+|-damage|p1a: Tauros|43/100
+|faint|p2a: October
+|
+|t:|1711939513
+|switch|p2a: Zzz|Starmie|100/100
+|turn|6
+|
+|t:|1711939520
+|move|p2a: Zzz|Blizzard|p1a: Tauros
+|-damage|p1a: Tauros|10/100
+|move|p1a: Tauros|Hyper Beam|p2a: Zzz
+|-crit|p2a: Zzz
+|-damage|p2a: Zzz|0 fnt
+|faint|p2a: Zzz
+|
+|t:|1711939527
+|switch|p2a: Its Ok To Be White|Tauros|100/100
+|turn|7
+|
+|t:|1711939531
+|move|p1a: Tauros|Hyper Beam|p2a: Its Ok To Be White
+|-damage|p2a: Its Ok To Be White|48/100
+|-mustrecharge|p1a: Tauros
+|move|p2a: Its Ok To Be White|Body Slam|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|t:|1711939541
+|switch|p1a: Ditto|Ditto|100/100
+|turn|8
+|
+|t:|1711939549
+|move|p2a: Its Ok To Be White|Hyper Beam|p1a: Ditto|[miss]
+|-miss|p2a: Its Ok To Be White
+|move|p1a: Ditto|Transform|p2a: Its Ok To Be White
+|-transform|p1a: Ditto|p2a: Its Ok To Be White
+|
+|upkeep
+|turn|9
+|
+|t:|1711939557
+|switch|p2a: Play 10U With Me|Snorlax|100/100
+|move|p1a: Ditto|Hyper Beam|p2a: Play 10U With Me
+|-damage|p2a: Play 10U With Me|59/100
+|-mustrecharge|p1a: Ditto
+|
+|upkeep
+|turn|10
+|
+|t:|1711939562
+|cant|p1a: Ditto|recharge
+|move|p2a: Play 10U With Me|Body Slam|p1a: Ditto
+|-damage|p1a: Ditto|63/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711939566
+|move|p1a: Ditto|Body Slam|p2a: Play 10U With Me
+|-damage|p2a: Play 10U With Me|35/100
+|move|p2a: Play 10U With Me|Reflect|p2a: Play 10U With Me
+|-start|p2a: Play 10U With Me|Reflect
+|
+|upkeep
+|turn|12
+|
+|t:|1711939573
+|move|p1a: Ditto|Fire Blast|p2a: Play 10U With Me
+|-damage|p2a: Play 10U With Me|16/100
+|move|p2a: Play 10U With Me|Body Slam|p1a: Ditto
+|-damage|p1a: Ditto|24/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711939587
+|switch|p2a: Its Ok To Be White|Tauros|48/100
+|move|p1a: Ditto|Hyper Beam|p2a: Its Ok To Be White
+|-damage|p2a: Its Ok To Be White|0 fnt
+|faint|p2a: Its Ok To Be White
+|
+|t:|1711939596
+|switch|p2a: Friedrich Niche|Raticate|100/100
+|turn|14
+|
+|t:|1711939604
+|move|p1a: Ditto|Hyper Beam|p2a: Friedrich Niche
+|-damage|p2a: Friedrich Niche|19/100
+|-mustrecharge|p1a: Ditto
+|move|p2a: Friedrich Niche|Hyper Beam|p1a: Ditto|[miss]
+|-miss|p2a: Friedrich Niche
+|
+|upkeep
+|turn|15
+|
+|t:|1711939609
+|cant|p1a: Ditto|recharge
+|move|p2a: Friedrich Niche|Hyper Beam|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|t:|1711939613
+|switch|p1a: Dodrio|Dodrio|100/100
+|turn|16
+|
+|t:|1711939619
+|move|p1a: Dodrio|Drill Peck|p2a: Friedrich Niche
+|-damage|p2a: Friedrich Niche|0 fnt
+|faint|p2a: Friedrich Niche
+|
+|t:|1711939623
+|switch|p2a: Paraswitch|Chansey|100/100
+|turn|17
+|
+|t:|1711939630
+|move|p1a: Dodrio|Body Slam|p2a: Paraswitch
+|-damage|p2a: Paraswitch|60/100
+|move|p2a: Paraswitch|Thunderbolt|p1a: Dodrio
+|-supereffective|p1a: Dodrio
+|-damage|p1a: Dodrio|30/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711939637
+|move|p1a: Dodrio|Hyper Beam|p2a: Paraswitch
+|-damage|p2a: Paraswitch|0 fnt
+|faint|p2a: Paraswitch
+|-message|Enklave forfeited.
+|
+|win|DragonKiller75
+|raw|DragonKiller75's rating: 1051 &rarr; <strong>1091</strong><br />(+40 for winning)
+|raw|Enklave's rating: 1135 &rarr; <strong>1104</strong><br />(-31 for losing)
+|l|☆Enklave
+|player|p2|

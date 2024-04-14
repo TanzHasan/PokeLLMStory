@@ -1,0 +1,177 @@
+|j|☆UnBooosted
+|j|☆KungFuPunch
+|t:|1711946513
+|gametype|singles
+|player|p1|UnBooosted|zinnia|1130
+|player|p2|KungFuPunch|2|1196
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gallade, M|
+|poke|p1|Flygon, F|
+|poke|p1|Galvantula, F|
+|poke|p1|Torterra, M|
+|poke|p1|Espeon, F|
+|poke|p1|Oricorio-Sensu, F|
+|poke|p2|Krookodile, F|
+|poke|p2|Milotic, M|
+|poke|p2|Galvantula, F|
+|poke|p2|Ambipom, F|
+|poke|p2|Gallade, M|
+|poke|p2|Cloyster, F|
+|teampreview
+|
+|t:|1711946524
+|start
+|switch|p1a: Galvantula|Galvantula, F|100/100
+|switch|p2a: Ambipom|Ambipom, F|100/100
+|turn|1
+|
+|t:|1711946530
+|move|p2a: Ambipom|Fake Out|p1a: Galvantula
+|-damage|p1a: Galvantula|42/100
+|cant|p1a: Galvantula|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1711946540
+|move|p2a: Ambipom|Double Hit|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|-hitcount|p1: Galvantula|1
+|
+|upkeep
+|
+|t:|1711946547
+|switch|p1a: Torterra|Torterra, M|100/100
+|turn|3
+|
+|t:|1711946553
+|move|p2a: Ambipom|Triple Axel|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|67/100
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|-hitcount|p1: Torterra|2
+|
+|upkeep
+|
+|t:|1711946563
+|switch|p1a: Gallade|Gallade, M, shiny|100/100
+|turn|4
+|
+|t:|1711946573
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|move|p1a: Gallade|Sacred Sword|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711946576
+|move|p2a: Cloyster|Ice Shard|p1a: Gallade
+|-damage|p1a: Gallade|73/100
+|move|p1a: Gallade|Sacred Sword|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|upkeep
+|
+|t:|1711946581
+|switch|p2a: Ambipom|Ambipom, F|100/100
+|turn|6
+|
+|t:|1711946593
+|switch|p1a: Oricorio|Oricorio-Sensu, F|100/100
+|-terastallize|p2a: Ambipom|Normal
+|move|p2a: Ambipom|Double Hit|p1a: Oricorio
+|-immune|p1a: Oricorio
+|
+|upkeep
+|turn|7
+|
+|t:|1711946610
+|-terastallize|p1a: Oricorio|Fighting
+|move|p2a: Ambipom|Triple Axel|p1a: Oricorio
+|-damage|p1a: Oricorio|85/100
+|-damage|p1a: Oricorio|57/100
+|-damage|p1a: Oricorio|16/100
+|-hitcount|p1a: Oricorio|3
+|move|p1a: Oricorio|Revelation Dance|p2a: Ambipom
+|-supereffective|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|
+|upkeep
+|
+|t:|1711946632
+|switch|p2a: Krookodile|Krookodile, F|100/100
+|turn|8
+|
+|t:|1711946682
+|move|p2a: Krookodile|Knock Off|p1a: Oricorio
+|-resisted|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|-enditem|p1a: Oricorio|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: Oricorio
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1711946691
+|switch|p1a: Gallade|Gallade, M, shiny|73/100
+|turn|9
+|
+|t:|1711946694
+|move|p2a: Krookodile|Knock Off|p1a: Gallade
+|-damage|p1a: Gallade|0 fnt
+|-enditem|p1a: Gallade|Expert Belt|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: Gallade
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1711946699
+|switch|p1a: Espeon|Espeon, F|100/100
+|turn|10
+|
+|t:|1711946702
+|move|p2a: Krookodile|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|-enditem|p1a: Espeon|Leftovers|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: Espeon
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|l|☆UnBooosted
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KungFuPunch)
+|inactive|UnBooosted has 30 seconds to reconnect!
+|inactive|UnBooosted has 20 seconds to reconnect!
+|inactive|UnBooosted has 15 seconds to reconnect!
+|inactive|UnBooosted has 10 seconds to reconnect!
+|inactive|UnBooosted has 5 seconds to reconnect!
+|-message|UnBooosted lost due to inactivity.
+|
+|win|KungFuPunch
+|raw|UnBooosted's rating: 1130 &rarr; <strong>1110</strong><br />(-20 for losing)
+|raw|KungFuPunch's rating: 1196 &rarr; <strong>1216</strong><br />(+20 for winning)

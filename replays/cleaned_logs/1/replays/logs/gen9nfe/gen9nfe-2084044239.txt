@@ -1,0 +1,83 @@
+p1: Switched to Dunsparce
+p2: Switched to Pikachu
+Turn 1:
+p2: Pikachu used Volt Switch on Dunsparce
+p2: Switched to Dusclops
+p1: Dunsparce used Zen Headbutt on Dusclops
+Turn 2:
+p1: Switched to Servine
+p2: Dusclops used Will-O-Wisp on Servine
+Turn 3:
+p1: Servine used Leaf Storm on Dusclops
+p2: Dusclops used Night Shade on Servine
+Turn 4:
+p1: Servine used Leaf Storm on Dusclops
+p2: Dusclops used Night Shade on Servine
+Turn 5:
+p2: Switched to Drakloak
+p1: Servine used Synthesis on Servine
+Turn 6:
+p1: Switched to Dunsparce
+p2: Drakloak used Draco Meteor on Dunsparce
+p1: Dunsparce fainted
+p1: Switched to Vullaby
+Turn 7:
+p2: Switched to Dusclops
+p1: Vullaby used Knock Off on Dusclops
+p2: Dusclops fainted
+p2: Switched to Cutiefly
+Turn 8:
+p1: Switched to Metang
+p2: Cutiefly used Sticky Web on Metang
+Turn 9:
+p2: Cutiefly used Stun Spore on Metang
+p1: Metang used Meteor Mash on Cutiefly
+Turn 10:
+p2: Cutiefly used U-turn on Metang
+p2: Switched to Quaxwell
+p1: Metang used Earthquake on Quaxwell
+Turn 11:
+p2: Quaxwell used Flip Turn on Metang
+p2: Switched to Vigoroth
+p1: Metang used Meteor Mash on Vigoroth
+Turn 12:
+p1: Switched to Servine
+p2: Vigoroth used Bulk Up on Vigoroth
+Turn 13:
+p1: Servine used Giga Drain on Vigoroth
+p2: Vigoroth used Facade on Servine
+Turn 14:
+p2: Switched to Cutiefly
+p1: Servine used Synthesis on Servine
+Turn 15:
+p1: Servine used Leaf Storm on Cutiefly
+p2: Cutiefly used Moonblast on Servine
+Turn 16:
+p1: Servine used Leaf Storm on Cutiefly
+p2: Cutiefly fainted
+p2: Switched to Drakloak
+Turn 17:
+p1: Servine used Leaf Storm on Drakloak
+p2: Drakloak fainted
+p2: Switched to Pikachu
+Turn 18:
+p2: Pikachu used Fake Out on Servine
+p1: Servine can't move
+Turn 19:
+p1: Servine used Synthesis on Servine
+p2: Pikachu used Volt Switch on Servine
+p2: Switched to Vigoroth
+Turn 20:
+p1: Servine used Giga Drain on Vigoroth
+p2: Vigoroth fainted
+p2: Switched to Pikachu
+Turn 21:
+p2: Pikachu used Fake Out on Servine
+p1: Servine can't move
+Turn 22:
+p1: Servine used Giga Drain on Pikachu
+p2: Pikachu fainted
+p2: Switched to Quaxwell
+Turn 23:
+p1: Servine used Giga Drain on Quaxwell
+p2: Quaxwell fainted

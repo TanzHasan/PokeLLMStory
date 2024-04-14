@@ -1,0 +1,213 @@
+|j|☆DeUnknownH
+|j|☆jsilva001
+|t:|1711946759
+|gametype|doubles
+|player|p1|DeUnknownH|twins-gen4dp|1196
+|player|p2|jsilva001|169|1149
+|teamsize|p1|5
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Chien-Pao|
+|poke|p1|Munkidori, M|
+|poke|p1|Iron Jugulis|
+|poke|p1|Palafin, M|
+|poke|p2|Iron Moth|
+|poke|p2|Dragonite, M|
+|poke|p2|Lurantis, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Iron Hands|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DeUnknownH)
+|
+|t:|1711946773
+|start
+|switch|p1a: Chien-Pao|Chien-Pao|100/100
+|switch|p1b: Munkidori|Munkidori, M|100/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|switch|p2b: Lurantis|Lurantis, M|100/100
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|-item|p2a: Incineroar|Assault Vest|[from] ability: Frisk|[of] p1b: Munkidori|[identify]
+|-item|p2b: Lurantis|Leftovers|[from] ability: Frisk|[of] p1b: Munkidori|[identify]
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Chien-Pao|atk|1
+|-unboost|p1b: Munkidori|atk|1
+|turn|1
+|
+|t:|1711946794
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-terastallize|p2b: Lurantis|Fire
+|move|p1b: Munkidori|Fake Out|p2a: Incineroar
+|-damage|p2a: Incineroar|96/100
+|cant|p2a: Incineroar|flinch
+|move|p2b: Lurantis|Superpower|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|92/100
+|-unboost|p2b: Lurantis|atk|1
+|-unboost|p2b: Lurantis|def|1
+|
+|upkeep
+|turn|2
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711946831
+|move|p1b: Munkidori|Parting Shot|p2a: Incineroar
+|-unboost|p2a: Incineroar|atk|1
+|-unboost|p2a: Incineroar|spa|1
+|
+|t:|1711946836
+|switch|p1b: Palafin|Palafin, M|100/100|[from] Parting Shot
+|move|p1a: Weezing|Sludge Bomb|p2a: Incineroar
+|-damage|p2a: Incineroar|65/100
+|move|p2a: Incineroar|Fire Punch|p1a: Weezing
+|-damage|p1a: Weezing|67/100
+|move|p2b: Lurantis|Superpower|p1b: Palafin
+|-damage|p1b: Palafin|73/100
+|-unboost|p2b: Lurantis|atk|1
+|-unboost|p2b: Lurantis|def|1
+|
+|upkeep
+|turn|3
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711946870
+|move|p1b: Palafin|Flip Turn|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|14/100
+|
+|t:|1711946876
+|detailschange|p1b: Palafin|Palafin-Hero, M
+|switch|p1b: Munkidori|Munkidori, M|100/100|[from] Flip Turn
+|move|p1a: Weezing|Sludge Bomb|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|move|p2b: Lurantis|Seed Bomb|p1b: Munkidori
+|-resisted|p1b: Munkidori
+|-damage|p1b: Munkidori|85/100
+|
+|upkeep
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711946891
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|4
+|
+|t:|1711946920
+|move|p2b: Lurantis|Protect|p2b: Lurantis
+|-singleturn|p2b: Lurantis|Protect
+|move|p1b: Munkidori|Fake Out|p2a: Great Tusk
+|-damage|p2a: Great Tusk|97/100
+|cant|p2a: Great Tusk|flinch
+|move|p1a: Weezing|Will-O-Wisp|p2a: Great Tusk
+|-status|p2a: Great Tusk|brn
+|
+|-heal|p2a: Great Tusk|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711946953
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-item|p2a: Great Tusk|Leftovers|[from] ability: Frisk|[of] p1b: Munkidori|[identify]
+|-item|p2b: Lurantis|Leftovers|[from] ability: Frisk|[of] p1b: Munkidori|[identify]
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|switch|p2b: Iron Hands|Iron Hands|100/100
+|move|p1b: Munkidori|Psyshock|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|47/100 brn
+|move|p2a: Great Tusk|Stealth Rock|p1b: Munkidori
+|-sidestart|p1: DeUnknownH|move: Stealth Rock
+|
+|-heal|p2a: Great Tusk|53/100 brn|[from] item: Leftovers
+|-damage|p2a: Great Tusk|47/100 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711946990
+|move|p1a: Iron Jugulis|Earth Power|p2b: Iron Hands
+|-supereffective|p2b: Iron Hands
+|-damage|p2b: Iron Hands|72/100
+|move|p1b: Munkidori|Psyshock|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|move|p2b: Iron Hands|Thunder Punch|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|-end|p1a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711947016
+|switch|p1a: Chien-Pao|Chien-Pao|100/100
+|switch|p2a: Lurantis|Lurantis, M, tera:Fire|100/100
+|-damage|p1a: Chien-Pao|76/100|[from] Stealth Rock
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|7
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711947039
+|-terastallize|p1a: Chien-Pao|Ghost
+|move|p1a: Chien-Pao|Crunch|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|move|p1b: Munkidori|Psyshock|p2b: Iron Hands
+|-supereffective|p2b: Iron Hands
+|-damage|p2b: Iron Hands|0 fnt
+|faint|p2b: Iron Hands
+|-end|p2b: Iron Hands|Quark Drive|[silent]
+|
+|upkeep
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711947050
+|switch|p2b: Dragonite|Dragonite, M|100/100
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|turn|8
+|inactive|jsilva001 has 120 seconds left.
+|
+|t:|1711947072
+|move|p1a: Chien-Pao|Crunch|p2b: Dragonite
+|-damage|p2b: Dragonite|55/100
+|-unboost|p2b: Dragonite|def|1
+|move|p1b: Munkidori|Psyshock|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|move|p2b: Dragonite|Iron Head|p1b: Munkidori
+|-damage|p1b: Munkidori|27/100
+|
+|-heal|p2b: Dragonite|61/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711947097
+|move|p1a: Chien-Pao|Crunch|p2b: Dragonite
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2b: Dragonite
+|
+|win|DeUnknownH
+|raw|DeUnknownH's rating: 1196 &rarr; <strong>1218</strong><br />(+22 for winning)
+|raw|jsilva001's rating: 1149 &rarr; <strong>1127</strong><br />(-22 for losing)
+|l|☆DeUnknownH
+|player|p1|
+|l|☆jsilva001
+|player|p2|

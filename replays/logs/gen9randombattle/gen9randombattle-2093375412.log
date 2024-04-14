@@ -1,0 +1,170 @@
+|j|☆cc124
+|j|☆Anthonycheng
+|t:|1711946847
+|gametype|singles
+|player|p1|cc124|266|1377
+|player|p2|Anthonycheng|2|1375
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946847
+|start
+|switch|p1a: Landorus|Landorus, L75, M|257/257
+|switch|p2a: Dugtrio|Dugtrio-Alola, L85, F|198/198
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cc124)
+|inactive|cc124 has 120 seconds left.
+|
+|t:|1711946887
+|switch|p2a: Jirachi|Jirachi, L80|291/291
+|move|p1a: Landorus|Focus Blast|p2a: Jirachi
+|-damage|p2a: Jirachi|161/291
+|
+|-heal|p2a: Jirachi|179/291|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Anthonycheng has 120 seconds left.
+|
+|t:|1711946926
+|move|p2a: Jirachi|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|166/257
+|cant|p1a: Landorus|flinch
+|
+|-heal|p2a: Jirachi|197/291|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Anthonycheng has 120 seconds left.
+|
+|t:|1711946945
+|move|p2a: Jirachi|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|84/257
+|cant|p1a: Landorus|flinch
+|
+|-heal|p2a: Jirachi|215/291|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946965
+|move|p2a: Jirachi|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Jirachi|233/291|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946973
+|switch|p1a: Chesnaught|Chesnaught, L84, F|285/285
+|turn|5
+|
+|t:|1711946979
+|move|p2a: Jirachi|Wish|p2a: Jirachi
+|move|p1a: Chesnaught|Trailblaze|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|203/291
+|-boost|p1a: Chesnaught|spe|1
+|
+|-heal|p2a: Jirachi|221/291|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711946982
+|switch|p2a: Dragalge|Dragalge, L87, M|255/255
+|move|p1a: Chesnaught|Iron Defense|p1a: Chesnaught
+|-boost|p1a: Chesnaught|def|2
+|
+|upkeep
+|turn|7
+|
+|t:|1711946988
+|-terastallize|p1a: Chesnaught|Steel
+|move|p1a: Chesnaught|Iron Defense|p1a: Chesnaught
+|-boost|p1a: Chesnaught|def|2
+|move|p2a: Dragalge|Sludge Wave|p1a: Chesnaught
+|-immune|p1a: Chesnaught
+|
+|upkeep
+|turn|8
+|inactive|Anthonycheng has 120 seconds left.
+|
+|t:|1711947025
+|move|p1a: Chesnaught|Trailblaze|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|242/255
+|-boost|p1a: Chesnaught|spe|1
+|move|p2a: Dragalge|Hydro Pump|p1a: Chesnaught|[miss]
+|-miss|p2a: Dragalge|p1a: Chesnaught
+|
+|-heal|p2a: Dragalge|255/255|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711947050
+|move|p1a: Chesnaught|Body Press|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|122/255
+|move|p2a: Dragalge|Hydro Pump|p1a: Chesnaught
+|-damage|p1a: Chesnaught|199/285
+|
+|-heal|p1a: Chesnaught|216/285|[from] item: Leftovers
+|-heal|p2a: Dragalge|137/255|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Anthonycheng has 120 seconds left.
+|inactive|Anthonycheng has 90 seconds left.
+|inactive|Anthonycheng has 60 seconds left.
+|
+|t:|1711947133
+|move|p1a: Chesnaught|Body Press|p2a: Dragalge
+|-resisted|p2a: Dragalge
+|-damage|p2a: Dragalge|0 fnt
+|faint|p2a: Dragalge
+|
+|-heal|p1a: Chesnaught|233/285|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947145
+|switch|p2a: Dugtrio|Dugtrio-Alola, L85, F|198/198
+|turn|11
+|
+|t:|1711947152
+|-terastallize|p2a: Dugtrio|Ground
+|move|p1a: Chesnaught|Trailblaze|p2a: Dugtrio
+|-supereffective|p2a: Dugtrio
+|-damage|p2a: Dugtrio|52/198
+|-boost|p1a: Chesnaught|spe|1
+|-ability|p2a: Dugtrio|Tangling Hair
+|-unboost|p1a: Chesnaught|spe|1
+|move|p2a: Dugtrio|Earthquake|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|119/285
+|-damage|p2a: Dugtrio|33/198|[from] item: Life Orb
+|
+|-heal|p1a: Chesnaught|136/285|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711947164
+|move|p1a: Chesnaught|Synthesis|p1a: Chesnaught
+|-heal|p1a: Chesnaught|278/285
+|move|p2a: Dugtrio|Earthquake|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|174/285
+|-damage|p2a: Dugtrio|14/198|[from] item: Life Orb
+|
+|-heal|p1a: Chesnaught|191/285|[from] item: Leftovers
+|upkeep
+|turn|13
+|-message|Anthonycheng forfeited.
+|
+|win|cc124
+|raw|cc124's rating: 1355 &rarr; <strong>1376</strong><br />(+21 for winning)
+|raw|Anthonycheng's rating: 1375 &rarr; <strong>1354</strong><br />(-21 for losing)
+|l|☆Anthonycheng
+|player|p2|

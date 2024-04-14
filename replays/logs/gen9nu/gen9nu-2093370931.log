@@ -1,0 +1,176 @@
+|j|☆KungFuPunch
+|j|☆delverofsecret
+|t:|1711946104
+|gametype|singles
+|player|p1|KungFuPunch|2|1227
+|player|p2|delverofsecret|266|1143
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Krookodile, M|
+|poke|p1|Milotic, M|
+|poke|p1|Galvantula, F|
+|poke|p1|Ambipom, F|
+|poke|p1|Gallade, M|
+|poke|p1|Cloyster, M|
+|poke|p2|Vileplume, F|
+|poke|p2|Tentacruel, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Chansey, F|
+|poke|p2|Umbreon, F|
+|poke|p2|Dragalge, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by delverofsecret)
+|
+|t:|1711946123
+|start
+|switch|p1a: Ambipom|Ambipom, F|100/100
+|switch|p2a: Chansey|Chansey, F|100/100
+|turn|1
+|
+|t:|1711946132
+|move|p1a: Ambipom|Fake Out|p2a: Chansey
+|-damage|p2a: Chansey|79/100
+|cant|p2a: Chansey|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1711946140
+|-terastallize|p1a: Ambipom|Normal
+|move|p1a: Ambipom|Double Hit|p2a: Chansey|[miss]
+|-miss|p1a: Ambipom|p2a: Chansey
+|move|p2a: Chansey|Stealth Rock|p1a: Ambipom
+|-sidestart|p1: KungFuPunch|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1711946159
+|move|p1a: Ambipom|Double Hit|p2a: Chansey|[miss]
+|-miss|p1a: Ambipom|p2a: Chansey
+|move|p2a: Chansey|Seismic Toss|p1a: Ambipom
+|-damage|p1a: Ambipom|66/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711946166
+|move|p1a: Ambipom|Double Hit|p2a: Chansey
+|-damage|p2a: Chansey|55/100
+|-damage|p2a: Chansey|30/100
+|-hitcount|p2a: Chansey|2
+|move|p2a: Chansey|Seismic Toss|p1a: Ambipom
+|-damage|p1a: Ambipom|32/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711946183
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Ambipom|Double Hit|p2a: Slowbro
+|-damage|p2a: Slowbro|79/100
+|-damage|p2a: Slowbro|58/100
+|-hitcount|p2a: Slowbro|2
+|
+|upkeep
+|turn|6
+|
+|t:|1711946196
+|move|p1a: Ambipom|Trailblaze|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|31/100
+|-boost|p1a: Ambipom|spe|1
+|move|p2a: Slowbro|Future Sight|p1a: Ambipom
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1711946207
+|switch|p2a: Dragalge|Dragalge, F|100/100
+|move|p1a: Ambipom|Double Hit|p2a: Dragalge|[miss]
+|-miss|p1a: Ambipom|p2a: Dragalge
+|
+|upkeep
+|turn|8
+|
+|t:|1711946215
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|-damage|p1a: Krookodile|94/100|[from] Stealth Rock
+|move|p2a: Dragalge|Toxic Spikes|p1a: Krookodile
+|-sidestart|p1: KungFuPunch|move: Toxic Spikes
+|
+|-end|p1a: Krookodile|move: Future Sight
+|-immune|p1a: Krookodile
+|upkeep
+|turn|9
+|
+|t:|1711946230
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|move|p1a: Krookodile|Earthquake|p2a: Umbreon
+|-damage|p2a: Umbreon|59/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711946243
+|switch|p1a: Galvantula|Galvantula, F|100/100
+|move|p2a: Umbreon|Toxic|p1a: Galvantula
+|-status|p1a: Galvantula|tox
+|
+|-damage|p1a: Galvantula|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711946255
+|move|p1a: Galvantula|Sticky Web|p2a: Umbreon
+|-sidestart|p2: delverofsecret|move: Sticky Web
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-damage|p1a: Galvantula|82/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1711946262
+|switch|p1a: Krookodile|Krookodile, M|94/100
+|-damage|p1a: Krookodile|88/100|[from] Stealth Rock
+|-status|p1a: Krookodile|psn
+|switch|p2a: Chansey|Chansey, F|30/100
+|-activate|p2a: Chansey|move: Sticky Web
+|-unboost|p2a: Chansey|spe|1
+|
+|-heal|p2a: Chansey|58/100|[from] move: Wish|[wisher] Umbreon
+|-damage|p1a: Krookodile|76/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711946275
+|move|p1a: Krookodile|Close Combat|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|7/100
+|-unboost|p1a: Krookodile|def|1
+|-unboost|p1a: Krookodile|spd|1
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|57/100
+|
+|-damage|p1a: Krookodile|64/100 psn|[from] psn
+|upkeep
+|turn|14
+|-message|KungFuPunch forfeited.
+|
+|win|delverofsecret
+|raw|KungFuPunch's rating: 1227 &rarr; <strong>1196</strong><br />(-31 for losing)
+|raw|delverofsecret's rating: 1143 &rarr; <strong>1174</strong><br />(+31 for winning)
+|l|☆KungFuPunch
+|player|p1|

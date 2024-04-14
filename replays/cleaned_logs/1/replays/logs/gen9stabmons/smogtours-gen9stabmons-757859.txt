@@ -1,0 +1,91 @@
+p1: Switched to Toxapex
+p2: Switched to Heatran
+Turn 1:
+p2: Heatran used Stealth Rock on Toxapex
+p1: Toxapex used Flip Turn on Heatran
+p1: Switched to Tyranitar
+Turn 2:
+p2: Heatran used Burning Bulwark on Heatran
+p1: Tyranitar used Stone Axe on Heatran
+Turn 3:
+p2: Switched to Excadrill
+p1: Tyranitar used Stone Axe on Excadrill
+Turn 4:
+p1: Switched to Rotom-Wash
+p2: Excadrill used Spikes on Rotom-Wash
+Turn 5:
+p2: Switched to Hydrapple
+p1: Rotom-Wash used Freeze-Dry on Hydrapple
+Turn 6:
+p1: Rotom-Wash used Volt Switch on Hydrapple
+p1: Switched to Toxapex
+p2: Hydrapple used Dragon Tail on Toxapex
+Turn 7:
+p1: Switched to Toxapex
+p2: Hydrapple used Fickle Beam on Toxapex
+Turn 8:
+p2: Switched to Heatran
+p1: Switched to Tyranitar
+Turn 9:
+p2: Switched to Landorus-Therian
+p1: Tyranitar used Shore Up on Tyranitar
+Turn 10:
+p1: Switched to Rotom-Wash
+p2: Landorus-Therian used U-turn on Rotom-Wash
+p2: Switched to Hydrapple
+Turn 11:
+p1: Rotom-Wash used Volt Switch on Hydrapple
+p1: Switched to Tyranitar
+p2: Hydrapple used Fickle Beam on Tyranitar
+Turn 12:
+p2: Switched to Heatran
+p1: Tyranitar used Knock Off on Heatran
+Turn 13:
+p2: Heatran used Doom Desire on Tyranitar
+p1: Tyranitar used Shore Up on Tyranitar
+Turn 14:
+p1: Switched to Hydrapple
+p2: Heatran used Torch Song on Hydrapple
+Turn 15:
+p1: Switched to Tyranitar
+p2: Heatran failed to use Burning Bulwark
+p1: Tyranitar fainted
+p1: Switched to Hydrapple
+Turn 16:
+p2: Heatran used Torch Song on Hydrapple
+p1: Hydrapple used Earth Power on Heatran
+p2: Heatran fainted
+p2: Switched to Excadrill
+Turn 17:
+p2: Excadrill used Sunsteel Strike on Hydrapple
+p1: Hydrapple fainted
+p1: Switched to Rotom-Wash
+Turn 18:
+p2: Switched to Hydrapple
+p1: Rotom-Wash used Strength Sap on Hydrapple
+Turn 19:
+p1: Rotom-Wash used Volt Switch on Hydrapple
+p1: Switched to Landorus-Therian
+p2: Hydrapple used Matcha Gotcha on Landorus-Therian
+Turn 20:
+p2: Switched to Rotom-Wash
+p1: Landorus-Therian used Shore Up on Landorus-Therian
+Turn 21:
+p1: Switched to Toxapex
+p2: Rotom-Wash used Nasty Plot on Rotom-Wash
+Turn 22:
+p2: Rotom-Wash used Electro Drift on Toxapex
+p1: Toxapex fainted
+p1: Switched to Iron Valiant
+Turn 23:
+p2: Rotom-Wash used Water Shuriken on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Rotom-Wash
+Turn 24:
+p1: Rotom-Wash used Freeze-Dry on Rotom-Wash
+p2: Rotom-Wash used Electro Drift on Rotom-Wash
+p1: Rotom-Wash fainted
+p1: Switched to Landorus-Therian
+Turn 25:
+p2: Rotom-Wash used Water Shuriken on Landorus-Therian
+p1: Landorus-Therian fainted

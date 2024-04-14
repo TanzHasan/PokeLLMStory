@@ -1,0 +1,57 @@
+|j|☆AllHailDudunsparce
+|j|☆EpiclyEpicEvan
+|t:|1711924227
+|gametype|singles
+|player|p1|AllHailDudunsparce|ghetsis-gen5bw|1086
+|player|p2|EpiclyEpicEvan|2|1014
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Almost Any Ability
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|1 Ability Clause: Limit 1 of each ability
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Pecharunt|
+|poke|p1|Zamazenta-*|
+|poke|p1|Metagross|
+|poke|p1|Garganacl, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Great Tusk|
+|poke|p2|Volcarona, F|
+|poke|p2|Ting-Lu|
+|poke|p2|Goodra-Hisui, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EpiclyEpicEvan)
+|inactive|AllHailDudunsparce also wants the timer to be on.
+|inactive|EpiclyEpicEvan has 120 seconds left.
+|
+|t:|1711924260
+|start
+|switch|p1a: Metagross|Metagross|100/100
+|switch|p2a: Goodra|Goodra-Hisui, F|100/100
+|turn|1
+|
+|t:|1711924266
+|move|p1a: Metagross|Earthquake|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|
+|upkeep
+|-message|EpiclyEpicEvan forfeited.
+|
+|win|AllHailDudunsparce
+|raw|AllHailDudunsparce's rating: 1086 &rarr; <strong>1108</strong><br />(+22 for winning)
+|raw|EpiclyEpicEvan's rating: 1014 &rarr; <strong>1004</strong><br />(-10 for losing)
+|l|☆EpiclyEpicEvan
+|player|p2|

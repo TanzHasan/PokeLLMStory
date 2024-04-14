@@ -1,0 +1,404 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711915690
+|gametype|singles
+|player|p1|Treeko928|hilbert-wonderlauncher|
+|player|p2|nonsense bungaku|swimmerf-gen6|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Hydrapple, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Iron Valiant|
+|poke|p2|Excadrill, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Hydrapple, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Heatran, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|c|☆nonsense bungaku|glhf..
+|c|☆Treeko928|u2
+|inactive|Treeko928 has 270 seconds left.
+|inactive|nonsense bungaku has 270 seconds left.
+|inactive|Treeko928 has 240 seconds left.
+|inactive|nonsense bungaku has 240 seconds left.
+|
+|t:|1711915766
+|start
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|switch|p2a: HELL'S TOKAMAK|Heatran, F, shiny|100/100
+|turn|1
+|
+|t:|1711915775
+|move|p2a: HELL'S TOKAMAK|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: Treeko928|move: Stealth Rock
+|move|p1a: Toxapex|Flip Turn|p2a: HELL'S TOKAMAK
+|-supereffective|p2a: HELL'S TOKAMAK
+|-damage|p2a: HELL'S TOKAMAK|77/100
+|
+|t:|1711915784
+|switch|p1a: Tyranitar|Tyranitar, F|100/100|[from] Flip Turn
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: HELL'S TOKAMAK|83/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711915791
+|move|p2a: HELL'S TOKAMAK|Burning Bulwark|p2a: HELL'S TOKAMAK
+|-singleturn|p2a: HELL'S TOKAMAK|move: Protect
+|move|p1a: Tyranitar|Stone Axe|p2a: HELL'S TOKAMAK
+|-activate|p2a: HELL'S TOKAMAK|move: Protect
+|-status|p1a: Tyranitar|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: HELL'S TOKAMAK|90/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|82/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711915797
+|switch|p2a: SNAKE EATER|Excadrill, F, shiny|100/100
+|move|p1a: Tyranitar|Stone Axe|p2a: SNAKE EATER
+|-resisted|p2a: SNAKE EATER
+|-damage|p2a: SNAKE EATER|95/100
+|-sidestart|p2: nonsense bungaku|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|76/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711915809
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: SNAKE EATER|Spikes|p1a: Rotom
+|-sidestart|p1: Treeko928|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|82/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711915827
+|switch|p2a: BAD APPLE!!|Hydrapple, F|100/100
+|-damage|p2a: BAD APPLE!!|88/100|[from] Stealth Rock
+|move|p1a: Rotom|Freeze-Dry|p2a: BAD APPLE!!
+|-supereffective|p2a: BAD APPLE!!
+|-damage|p2a: BAD APPLE!!|56/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1711915845
+|move|p1a: Rotom|Volt Switch|p2a: BAD APPLE!!
+|-resisted|p2a: BAD APPLE!!
+|-damage|p2a: BAD APPLE!!|53/100
+|
+|t:|1711915847
+|switch|p1a: Toxapex|Toxapex, M|100/100|[from] Volt Switch
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|76/100|[from] Spikes
+|move|p2a: BAD APPLE!!|Dragon Tail|p1a: Toxapex
+|-damage|p1a: Toxapex|66/100
+|drag|p1a: Hydrapple|Hydrapple, M|100/100
+|
+|upkeep
+|turn|7
+|inactive|Treeko928 has 270 seconds left.
+|
+|t:|1711915881
+|switch|p1a: Toxapex|Toxapex, M|99/100
+|-damage|p1a: Toxapex|87/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|75/100|[from] Spikes
+|-terastallize|p2a: BAD APPLE!!|Poison
+|move|p2a: BAD APPLE!!|Fickle Beam|p1a: Toxapex|[anim] Fickle Beam All Out
+|-activate|p2a: BAD APPLE!!|move: Fickle Beam
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|26/100
+|
+|upkeep
+|turn|8
+|inactive|Treeko928 has 270 seconds left.
+|c|☆nonsense bungaku|mb
+|c|+akira 001|lol
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711915928
+|switch|p2a: HELL'S TOKAMAK|Heatran, F, shiny|90/100
+|-damage|p2a: HELL'S TOKAMAK|77/100|[from] Stealth Rock
+|switch|p1a: Tyranitar|Tyranitar, F|76/100 brn
+|-damage|p1a: Tyranitar|63/100 brn|[from] Stealth Rock
+|-damage|p1a: Tyranitar|51/100 brn|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: HELL'S TOKAMAK|83/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|45/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711915948
+|switch|p2a: UNREMEMBERED CROP|Landorus-Therian, M|100/100
+|-damage|p2a: UNREMEMBERED CROP|88/100|[from] Stealth Rock
+|-ability|p2a: UNREMEMBERED CROP|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Shore Up|p1a: Tyranitar
+|-heal|p1a: Tyranitar|100/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711915952
+|switch|p1a: Rotom|Rotom-Wash|82/100
+|-damage|p1a: Rotom|69/100|[from] Stealth Rock
+|move|p2a: UNREMEMBERED CROP|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|52/100
+|
+|t:|1711915954
+|switch|p2a: BAD APPLE!!|Hydrapple, F, tera:Poison|87/100|[from] U-turn
+|-damage|p2a: BAD APPLE!!|74/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|46/100|[from] Sandstorm
+|-damage|p2a: BAD APPLE!!|68/100|[from] Sandstorm
+|upkeep
+|turn|11
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711915974
+|move|p1a: Rotom|Volt Switch|p2a: BAD APPLE!!
+|-damage|p2a: BAD APPLE!!|56/100
+|
+|t:|1711915984
+|switch|p1a: Tyranitar|Tyranitar, F|94/100 brn|[from] Volt Switch
+|-damage|p1a: Tyranitar|82/100 brn|[from] Stealth Rock
+|-damage|p1a: Tyranitar|70/100 brn|[from] Spikes
+|move|p2a: BAD APPLE!!|Fickle Beam|p1a: Tyranitar
+|-damage|p1a: Tyranitar|55/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: BAD APPLE!!|50/100|[from] Sandstorm
+|-damage|p1a: Tyranitar|49/100 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711916005
+|switch|p2a: HELL'S TOKAMAK|Heatran, F, shiny|83/100
+|-damage|p2a: HELL'S TOKAMAK|71/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Knock Off|p2a: HELL'S TOKAMAK
+|-damage|p2a: HELL'S TOKAMAK|52/100
+|-enditem|p2a: HELL'S TOKAMAK|Leftovers|[from] move: Knock Off|[of] p1a: Tyranitar
+|
+|-weather|none
+|-damage|p1a: Tyranitar|43/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711916014
+|move|p2a: HELL'S TOKAMAK|Doom Desire|p1a: Tyranitar
+|-start|p2a: HELL'S TOKAMAK|Doom Desire
+|move|p1a: Tyranitar|Shore Up|p1a: Tyranitar
+|-heal|p1a: Tyranitar|93/100 brn
+|
+|-damage|p1a: Tyranitar|87/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711916035
+|switch|p1a: Hydrapple|Hydrapple, M|100/100
+|move|p2a: HELL'S TOKAMAK|Torch Song|p1a: Hydrapple
+|-damage|p1a: Hydrapple|65/100
+|-boost|p2a: HELL'S TOKAMAK|spa|1
+|
+|upkeep
+|turn|15
+|inactive|Treeko928 has 210 seconds left.
+|inactive|Treeko928 has 180 seconds left.
+|
+|t:|1711916099
+|switch|p1a: Tyranitar|Tyranitar, F|87/100 brn
+|-damage|p1a: Tyranitar|74/100 brn|[from] Stealth Rock
+|-damage|p1a: Tyranitar|62/100 brn|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: HELL'S TOKAMAK|Burning Bulwark||[still]
+|-fail|p2a: HELL'S TOKAMAK
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p1a: Tyranitar|move: Doom Desire
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|upkeep
+|
+|t:|1711916122
+|switch|p1a: Hydrapple|Hydrapple, M|98/100
+|turn|16
+|
+|t:|1711916129
+|move|p2a: HELL'S TOKAMAK|Torch Song|p1a: Hydrapple
+|-damage|p1a: Hydrapple|47/100
+|-boost|p2a: HELL'S TOKAMAK|spa|1
+|move|p1a: Hydrapple|Earth Power|p2a: HELL'S TOKAMAK
+|-supereffective|p2a: HELL'S TOKAMAK
+|-damage|p2a: HELL'S TOKAMAK|0 fnt
+|faint|p2a: HELL'S TOKAMAK
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydrapple|41/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711916134
+|switch|p2a: SNAKE EATER|Excadrill, F, shiny|95/100
+|-damage|p2a: SNAKE EATER|92/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1711916155
+|move|p2a: SNAKE EATER|Sunsteel Strike|p1a: Hydrapple
+|-damage|p1a: Hydrapple|0 fnt
+|faint|p1a: Hydrapple
+|-damage|p2a: SNAKE EATER|82/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711916165
+|switch|p1a: Rotom|Rotom-Wash|46/100
+|-damage|p1a: Rotom|33/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1711916171
+|switch|p2a: BAD APPLE!!|Hydrapple, F, tera:Poison|83/100
+|-damage|p2a: BAD APPLE!!|71/100|[from] Stealth Rock
+|move|p1a: Rotom|Strength Sap|p2a: BAD APPLE!!
+|-unboost|p2a: BAD APPLE!!|atk|1
+|-heal|p1a: Rotom|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|85/100|[from] Sandstorm
+|-damage|p2a: BAD APPLE!!|64/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1711916192
+|move|p1a: Rotom|Volt Switch|p2a: BAD APPLE!!
+|-damage|p2a: BAD APPLE!!|54/100
+|
+|t:|1711916196
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from] Volt Switch
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: BAD APPLE!!|atk|1
+|move|p2a: BAD APPLE!!|Matcha Gotcha|p1a: Landorus
+|-damage|p1a: Landorus|55/100
+|-heal|p2a: BAD APPLE!!|69/100|[from] drain|[of] p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-weather|none
+|-damage|p1a: Landorus|49/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1711916208
+|switch|p2a: CEPHALIC SPIN|Rotom-Wash, shiny|100/100
+|-damage|p2a: CEPHALIC SPIN|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Shore Up|p1a: Landorus
+|-heal|p1a: Landorus|99/100 brn
+|
+|-damage|p1a: Landorus|93/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1711916214
+|switch|p1a: Toxapex|Toxapex, M|60/100
+|-damage|p1a: Toxapex|47/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|35/100|[from] Spikes
+|move|p2a: CEPHALIC SPIN|Nasty Plot|p2a: CEPHALIC SPIN
+|-boost|p2a: CEPHALIC SPIN|spa|2
+|
+|upkeep
+|turn|22
+|
+|t:|1711916224
+|move|p2a: CEPHALIC SPIN|Electro Drift|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|
+|t:|1711916228
+|switch|p1a: Iron Valiant|Iron Valiant|100/100
+|-damage|p1a: Iron Valiant|94/100|[from] Stealth Rock
+|-damage|p1a: Iron Valiant|82/100|[from] Spikes
+|-enditem|p1a: Iron Valiant|Booster Energy
+|-activate|p1a: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Valiant|quarkdrivespe
+|turn|23
+|
+|t:|1711916235
+|move|p2a: CEPHALIC SPIN|Water Shuriken|p1a: Iron Valiant
+|-damage|p1a: Iron Valiant|57/100
+|-damage|p1a: Iron Valiant|32/100
+|-damage|p1a: Iron Valiant|4/100
+|-damage|p1a: Iron Valiant|0 fnt
+|faint|p1a: Iron Valiant
+|-end|p1a: Iron Valiant|Quark Drive|[silent]
+|-hitcount|p1: Iron Valiant|4
+|
+|upkeep
+|
+|t:|1711916240
+|switch|p1a: Rotom|Rotom-Wash|85/100
+|-damage|p1a: Rotom|72/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1711916242
+|move|p1a: Rotom|Freeze-Dry|p2a: CEPHALIC SPIN
+|-supereffective|p2a: CEPHALIC SPIN
+|-damage|p2a: CEPHALIC SPIN|51/100
+|move|p2a: CEPHALIC SPIN|Electro Drift|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1711916245
+|switch|p1a: Landorus|Landorus-Therian, M|93/100 brn
+|-damage|p1a: Landorus|80/100 brn|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: CEPHALIC SPIN|atk|1
+|turn|25
+|
+|t:|1711916246
+|-singleturn|p1a: Landorus|move: Beak Blast
+|move|p2a: CEPHALIC SPIN|Water Shuriken|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|49/100 brn
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-hitcount|p1: Landorus|2
+|
+|win|nonsense bungaku
+|c|☆nonsense bungaku|gg
+|player|p2|
+|c|☆Treeko928|gg

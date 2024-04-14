@@ -1,0 +1,256 @@
+|j|☆dragonmaster441
+|j|☆perc1000000
+|t:|1711912185
+|gametype|singles
+|player|p1|dragonmaster441|acetrainerf-gen4|1220
+|player|p2|perc1000000|proton|1114
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Magearna|
+|poke|p1|Pinsir-Mega, F|
+|poke|p1|Necrozma-Ultra|
+|poke|p1|Kyurem-Black|
+|poke|p1|Garchomp-Mega, F|
+|poke|p1|Greninja-Ash, M|
+|poke|p2|Tyranitar-Mega, M|
+|poke|p2|Sceptile-Mega, M|
+|poke|p2|Alakazam-Mega, F|
+|poke|p2|Arceus|
+|poke|p2|Regidrago|
+|poke|p2|Guzzlord|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dragonmaster441)
+|c|☆dragonmaster441|hf
+|j| Jincn27
+|l| Jincn27
+|
+|t:|1711912203
+|start
+|switch|p1a: Necrozma|Necrozma-Ultra|100/100
+|switch|p2a: Guzzlord|Guzzlord|100/100
+|-ability|p1a: Necrozma|Beads of Ruin
+|-transform|p2a: Guzzlord|p1a: Necrozma|[from] ability: Imposter
+|-ability|p2a: Guzzlord|Beads of Ruin
+|turn|1
+|
+|t:|1711912216
+|switch|p1a: Magearna|Magearna|100/100
+|move|p2a: Guzzlord|Clanging Scales|p1a: Magearna
+|-immune|p1a: Magearna
+|
+|upkeep
+|turn|2
+|
+|t:|1711912224
+|move|p2a: Guzzlord|Blue Flare|p1a: Magearna
+|-supereffective|p1a: Magearna
+|-damage|p1a: Magearna|38/100
+|move|p1a: Magearna|Stone Axe|p2a: Guzzlord
+|-damage|p2a: Guzzlord|93/100
+|-sidestart|p2: perc1000000|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1711912235
+|move|p2a: Guzzlord|Volt Switch|p1a: Magearna
+|-damage|p1a: Magearna|21/100
+|
+|t:|1711912254
+|switch|p2a: Regidrago|Regidrago|100/100|[from] Volt Switch
+|-damage|p2a: Regidrago|88/100|[from] Stealth Rock
+|move|p1a: Magearna|Mortal Spin|p2a: Regidrago
+|-damage|p2a: Regidrago|78/100
+|-status|p2a: Regidrago|psn
+|
+|-damage|p2a: Regidrago|66/100 psn|[from] psn
+|upkeep
+|turn|4
+|j| GalaxyVenom360
+|
+|t:|1711912269
+|move|p2a: Regidrago|Baneful Bunker|p2a: Regidrago
+|-singleturn|p2a: Regidrago|move: Protect
+|move|p1a: Magearna|Springtide Storm|p2a: Regidrago
+|-activate|p2a: Regidrago|move: Protect
+|
+|-damage|p2a: Regidrago|53/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711912279
+|move|p2a: Regidrago|Destiny Bond|p2a: Regidrago
+|-singlemove|p2a: Regidrago|Destiny Bond
+|move|p1a: Magearna|Springtide Storm|p2a: Regidrago
+|-supereffective|p2a: Regidrago
+|-damage|p2a: Regidrago|0 fnt
+|faint|p2a: Regidrago
+|-activate|p2a: Regidrago|move: Destiny Bond
+|faint|p1a: Magearna
+|
+|upkeep
+|
+|t:|1711912286
+|switch|p2a: Tyranitar|Tyranitar-Mega, M|100/100
+|switch|p1a: Necrozma|Necrozma-Ultra|100/100
+|-ability|p1a: Necrozma|Beads of Ruin
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1711912303
+|move|p1a: Necrozma|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|66/100
+|
+|t:|1711912316
+|switch|p1a: Kyurem|Kyurem-Black|100/100|[from] Volt Switch
+|move|p2a: Tyranitar|Strength Sap|p1a: Kyurem
+|-unboost|p1a: Kyurem|atk|1
+|-heal|p2a: Tyranitar|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711912331
+|move|p1a: Kyurem|Fake Out|p2a: Tyranitar
+|-damage|p2a: Tyranitar|88/100
+|cant|p2a: Tyranitar|flinch
+|
+|upkeep
+|turn|8
+|
+|t:|1711912337
+|switch|p1a: Garchomp|Garchomp-Mega, F|100/100
+|move|p2a: Tyranitar|Jaw Lock|p1a: Garchomp
+|-damage|p1a: Garchomp|71/100
+|-activate|p2a: Tyranitar|trapped
+|-activate|p1a: Garchomp|trapped
+|
+|-heal|p1a: Garchomp|77/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711912346
+|move|p1a: Garchomp|Headlong Rush|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|14/100
+|-unboost|p1a: Garchomp|def|1
+|-unboost|p1a: Garchomp|spd|1
+|move|p2a: Tyranitar|Strength Sap|p1a: Garchomp
+|move|p1a: Garchomp|Strength Sap|p2a: Tyranitar|[from]ability: Magic Bounce
+|-unboost|p2a: Tyranitar|atk|2
+|-heal|p1a: Garchomp|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711912357
+|move|p1a: Garchomp|Headlong Rush|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Garchomp|def|1
+|-unboost|p1a: Garchomp|spd|1
+|faint|p2a: Tyranitar
+|
+|upkeep
+|
+|t:|1711912368
+|switch|p2a: Sceptile|Sceptile-Mega, M|100/100
+|turn|11
+|
+|t:|1711912376
+|move|p2a: Sceptile|Dragon Energy|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1711912380
+|switch|p1a: Kyurem|Kyurem-Black|100/100
+|turn|12
+|
+|t:|1711912383
+|move|p1a: Kyurem|Fake Out|p2a: Sceptile
+|-supereffective|p2a: Sceptile
+|-damage|p2a: Sceptile|0 fnt
+|faint|p2a: Sceptile
+|
+|upkeep
+|
+|t:|1711912388
+|switch|p2a: Guzzlord|Guzzlord|93/100
+|-damage|p2a: Guzzlord|80/100|[from] Stealth Rock
+|-transform|p2a: Guzzlord|p1a: Kyurem|[from] ability: Imposter
+|turn|13
+|
+|t:|1711912397
+|move|p2a: Guzzlord|Fake Out|p1a: Kyurem
+|-damage|p1a: Kyurem|80/100
+|cant|p1a: Kyurem|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1711912409
+|move|p1a: Kyurem|Extreme Speed|p2a: Guzzlord
+|-damage|p2a: Guzzlord|48/100
+|move|p2a: Guzzlord|Hyper Drill|p1a: Kyurem
+|-damage|p1a: Kyurem|35/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711912418
+|move|p1a: Kyurem|Hyper Drill|p2a: Guzzlord
+|-damage|p2a: Guzzlord|8/100
+|move|p2a: Guzzlord|Explosion|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p2a: Guzzlord
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1711912429
+|switch|p1a: Greninja|Greninja-Ash, M|100/100
+|switch|p2a: Arceus|Arceus|100/100
+|-damage|p2a: Arceus|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1711912441
+|move|p1a: Greninja|Surging Strikes|p2a: Arceus
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|66/100
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|41/100
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|16/100
+|-hitcount|p2a: Arceus|3
+|-damage|p1a: Greninja|91/100|[from] item: Life Orb
+|move|p2a: Arceus|Take Heart|p2a: Arceus
+|-boost|p2a: Arceus|spa|1
+|-boost|p2a: Arceus|spd|1
+|
+|upkeep
+|turn|17
+|-message|perc1000000 forfeited.
+|
+|win|dragonmaster441
+|raw|dragonmaster441's rating: 1220 &rarr; <strong>1238</strong><br />(+18 for winning)
+|raw|perc1000000's rating: 1114 &rarr; <strong>1096</strong><br />(-18 for losing)
+|l|☆perc1000000
+|player|p2|

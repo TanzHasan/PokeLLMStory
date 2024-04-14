@@ -1,0 +1,987 @@
+|j|☆summer1401
+|j|☆MegaFreak400
+|t:|1711946322
+|gametype|singles
+|player|p1|summer1401|madame|
+|player|p2|MegaFreak400|benga|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711946322
+|start
+|switch|p1a: Ellie|Mamoswine, F|100/100
+|switch|p2a: Piette|Scizor, M|100/100
+|turn|1
+|j| Styrm_WB
+|j| SneakyScarab
+|
+|t:|1711946452
+|switch|p1a: Redonda|Magnezone|100/100
+|move|p2a: Piette|Superpower|p1a: Redonda
+|-supereffective|p1a: Redonda
+|-damage|p1a: Redonda|32/100
+|-unboost|p2a: Piette|atk|1
+|-unboost|p2a: Piette|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711946464
+|move|p2a: Piette|Superpower|p1a: Redonda
+|-supereffective|p1a: Redonda
+|-damage|p1a: Redonda|0 fnt
+|-unboost|p2a: Piette|atk|1
+|-unboost|p2a: Piette|def|1
+|faint|p1a: Redonda
+|
+|upkeep
+|
+|t:|1711946476
+|switch|p1a: Aquila|Staraptor, M, shiny|100/100
+|-ability|p1a: Aquila|Intimidate|boost
+|-unboost|p2a: Piette|atk|1
+|turn|3
+|
+|t:|1711946482
+|switch|p2a: Bandit|Suicune, shiny|100/100
+|-ability|p2a: Bandit|Pressure
+|move|p1a: Aquila|Close Combat|p2a: Bandit
+|-damage|p2a: Bandit|69/100
+|-unboost|p1a: Aquila|def|1
+|-unboost|p1a: Aquila|spd|1
+|
+|-heal|p2a: Bandit|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946493
+|switch|p1a: Fermata|Rotom-Fan|100/100
+|move|p2a: Bandit|Ice Beam|p1a: Fermata
+|-damage|p1a: Fermata|68/100
+|
+|-heal|p2a: Bandit|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946501
+|switch|p2a: Fi|Gengar, F|100/100
+|move|p1a: Fermata|Discharge|p2a: Fi
+|-damage|p2a: Fi|5/100
+|-damage|p1a: Fermata|58/100|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1711946510
+|switch|p1a: Libra|Furret, F|100/100
+|move|p2a: Fi|Explosion|p1a: Libra
+|-damage|p1a: Libra|0 fnt
+|faint|p2a: Fi
+|faint|p1a: Libra
+|
+|upkeep
+|c| Styrm_WB|BASED
+|
+|t:|1711946549
+|switch|p2a: Riskier|Weavile, F|100/100
+|switch|p1a: Fermata|Rotom-Fan|58/100
+|-ability|p2a: Riskier|Pressure
+|turn|7
+|
+|t:|1711946562
+|move|p2a: Riskier|Night Slash|p1a: Fermata
+|-supereffective|p1a: Fermata
+|-damage|p1a: Fermata|0 fnt
+|faint|p1a: Fermata
+|
+|upkeep
+|
+|t:|1711946567
+|switch|p1a: Aquila|Staraptor, M, shiny|100/100
+|-ability|p1a: Aquila|Intimidate|boost
+|-unboost|p2a: Riskier|atk|1
+|turn|8
+|
+|t:|1711946578
+|move|p2a: Riskier|Ice Shard|p1a: Aquila
+|-supereffective|p1a: Aquila
+|-damage|p1a: Aquila|54/100
+|move|p1a: Aquila|Close Combat|p2a: Riskier
+|-supereffective|p2a: Riskier
+|-damage|p2a: Riskier|0 fnt
+|-unboost|p1a: Aquila|def|1
+|-unboost|p1a: Aquila|spd|1
+|faint|p2a: Riskier
+|
+|upkeep
+|
+|t:|1711946587
+|switch|p2a: Bandit|Suicune, shiny|82/100
+|-ability|p2a: Bandit|Pressure
+|turn|9
+|
+|t:|1711946596
+|switch|p1a: Ariel|Milotic, F|100/100
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|94/100
+|
+|-heal|p2a: Bandit|88/100|[from] item: Leftovers
+|-heal|p1a: Ariel|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711946612
+|move|p2a: Bandit|Protect|p2a: Bandit
+|-singleturn|p2a: Bandit|Protect
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-activate|p2a: Bandit|Protect
+|
+|-heal|p2a: Bandit|94/100|[from] item: Leftovers
+|-heal|p1a: Ariel|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711946620
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|86/100
+|
+|-heal|p2a: Bandit|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711946627
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p2a: Bandit|98/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711946635
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|94/100
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|90/100
+|
+|-heal|p2a: Bandit|96/100|[from] item: Leftovers
+|-heal|p1a: Ariel|99/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711946645
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|91/100
+|
+|-heal|p2a: Bandit|97/100|[from] item: Leftovers
+|-heal|p1a: Ariel|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711946653
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|90/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|96/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711946665
+|switch|p1a: Ellie|Mamoswine, F|100/100
+|move|p2a: Bandit|Surf|p1a: Ellie
+|-supereffective|p1a: Ellie
+|-damage|p1a: Ellie|12/100
+|
+|-heal|p1a: Ellie|18/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|c| Styrm_WB|Ariel used Maze! Ariel used Cave!
+|
+|t:|1711946674
+|move|p2a: Bandit|Surf|p1a: Ellie
+|-supereffective|p1a: Ellie
+|-damage|p1a: Ellie|0 fnt
+|faint|p1a: Ellie
+|
+|upkeep
+|
+|t:|1711946679
+|switch|p1a: Aquila|Staraptor, M, shiny|54/100
+|-ability|p1a: Aquila|Intimidate|boost
+|-unboost|p2a: Bandit|atk|1
+|turn|18
+|
+|t:|1711946685
+|move|p1a: Aquila|Roost|p1a: Aquila
+|-heal|p1a: Aquila|100/100
+|-singleturn|p1a: Aquila|move: Roost
+|move|p2a: Bandit|Ice Beam|p1a: Aquila
+|-damage|p1a: Aquila|51/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711946695
+|move|p1a: Aquila|Roost|p1a: Aquila
+|-heal|p1a: Aquila|100/100
+|-singleturn|p1a: Aquila|move: Roost
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1711946702
+|switch|p1a: Ariel|Milotic, F|96/100
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|
+|-heal|p1a: Ariel|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711946710
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|88/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|94/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711946722
+|switch|p2a: Diskun|Miltank, F|100/100
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-crit|p2a: Diskun
+|-damage|p2a: Diskun|50/100
+|
+|-heal|p2a: Diskun|56/100|[from] item: Leftovers
+|-heal|p1a: Ariel|99/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711946735
+|move|p2a: Diskun|Milk Drink|p2a: Diskun
+|-heal|p2a: Diskun|100/100
+|move|p1a: Ariel|Ice Beam|p2a: Diskun
+|-damage|p2a: Diskun|82/100
+|
+|-heal|p2a: Diskun|88/100|[from] item: Leftovers
+|-heal|p1a: Ariel|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711946744
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|74/100
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|64/100
+|
+|-heal|p2a: Diskun|70/100|[from] item: Leftovers
+|-heal|p1a: Ariel|80/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711946752
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|55/100
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|45/100
+|
+|-heal|p2a: Diskun|51/100|[from] item: Leftovers
+|-heal|p1a: Ariel|61/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711946761
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-crit|p1a: Ariel
+|-damage|p1a: Ariel|10/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|60/100
+|
+|-heal|p2a: Diskun|57/100|[from] item: Leftovers
+|-heal|p1a: Ariel|66/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711946769
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|41/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|91/100
+|
+|-heal|p2a: Diskun|63/100|[from] item: Leftovers
+|-heal|p1a: Ariel|97/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711946777
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-crit|p1a: Ariel
+|-damage|p1a: Ariel|45/100
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|38/100
+|
+|-heal|p2a: Diskun|44/100|[from] item: Leftovers
+|-heal|p1a: Ariel|51/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711946786
+|move|p2a: Diskun|Milk Drink|p2a: Diskun
+|-heal|p2a: Diskun|94/100
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|69/100
+|
+|-heal|p2a: Diskun|75/100|[from] item: Leftovers
+|-heal|p1a: Ariel|57/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1711946794
+|move|p2a: Diskun|Curse|p2a: Diskun
+|-unboost|p2a: Diskun|spe|1
+|-boost|p2a: Diskun|atk|1
+|-boost|p2a: Diskun|def|1
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|100/100
+|
+|-heal|p2a: Diskun|81/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711946805
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|58/100
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|60/100
+|
+|-heal|p1a: Ariel|66/100|[from] item: Leftovers
+|-heal|p2a: Diskun|64/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711946813
+|move|p1a: Ariel|Ice Beam|p2a: Diskun
+|-damage|p2a: Diskun|46/100
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|29/100
+|
+|-heal|p1a: Ariel|35/100|[from] item: Leftovers
+|-heal|p2a: Diskun|52/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711946822
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|85/100
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-crit|p1a: Ariel
+|-damage|p1a: Ariel|14/100
+|
+|-heal|p1a: Ariel|20/100|[from] item: Leftovers
+|-heal|p2a: Diskun|58/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711946831
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|70/100
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|35/100
+|
+|-heal|p1a: Ariel|41/100|[from] item: Leftovers
+|-heal|p2a: Diskun|64/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711946839
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|91/100
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|53/100
+|
+|-heal|p1a: Ariel|59/100|[from] item: Leftovers
+|-heal|p2a: Diskun|70/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711946847
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|move|p2a: Diskun|Curse|p2a: Diskun
+|-unboost|p2a: Diskun|spe|1
+|-boost|p2a: Diskun|atk|1
+|-boost|p2a: Diskun|def|1
+|
+|-heal|p1a: Ariel|65/100|[from] item: Leftovers
+|-heal|p2a: Diskun|76/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1711946857
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|move|p2a: Diskun|Curse|p2a: Diskun
+|-unboost|p2a: Diskun|spe|1
+|-boost|p2a: Diskun|atk|1
+|-boost|p2a: Diskun|def|1
+|
+|-heal|p1a: Ariel|71/100|[from] item: Leftovers
+|-heal|p2a: Diskun|82/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1711946868
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|move|p2a: Diskun|Curse|p2a: Diskun
+|-unboost|p2a: Diskun|spe|1
+|-boost|p2a: Diskun|atk|1
+|-boost|p2a: Diskun|def|1
+|
+|-heal|p1a: Ariel|77/100|[from] item: Leftovers
+|-heal|p2a: Diskun|88/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1711946878
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|62/100
+|move|p2a: Diskun|Curse|p2a: Diskun
+|-unboost|p2a: Diskun|spe|1
+|-boost|p2a: Diskun|atk|1
+|-boost|p2a: Diskun|def|1
+|
+|-heal|p1a: Ariel|83/100|[from] item: Leftovers
+|-heal|p2a: Diskun|68/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1711946888
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|60/100
+|
+|-heal|p2a: Diskun|74/100|[from] item: Leftovers
+|-heal|p1a: Ariel|66/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1711946897
+|move|p2a: Diskun|Body Slam|p1a: Ariel
+|-damage|p1a: Ariel|42/100
+|move|p1a: Ariel|Ice Beam|p2a: Diskun
+|-damage|p2a: Diskun|58/100
+|-status|p2a: Diskun|frz
+|
+|-heal|p2a: Diskun|64/100 frz|[from] item: Leftovers
+|-heal|p1a: Ariel|48/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1711946906
+|cant|p2a: Diskun|frz
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|38/100 frz
+|
+|-heal|p2a: Diskun|44/100 frz|[from] item: Leftovers
+|-heal|p1a: Ariel|54/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1711946916
+|cant|p2a: Diskun|frz
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|18/100 frz
+|
+|-heal|p2a: Diskun|24/100 frz|[from] item: Leftovers
+|-heal|p1a: Ariel|60/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1711946926
+|switch|p2a: Bandit|Suicune, shiny|100/100
+|-ability|p2a: Bandit|Pressure
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|89/100
+|
+|-heal|p2a: Bandit|95/100|[from] item: Leftovers
+|-heal|p1a: Ariel|66/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1711946943
+|move|p2a: Bandit|Protect|p2a: Bandit
+|-singleturn|p2a: Bandit|Protect
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-activate|p2a: Bandit|Protect
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|73/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1711946952
+|switch|p1a: Aquila|Staraptor, M, shiny|100/100
+|-ability|p1a: Aquila|Intimidate|boost
+|-unboost|p2a: Bandit|atk|1
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|
+|upkeep
+|turn|47
+|
+|t:|1711946960
+|move|p2a: Bandit|Ice Beam|p1a: Aquila
+|-supereffective|p1a: Aquila
+|-damage|p1a: Aquila|0 fnt
+|faint|p1a: Aquila
+|
+|upkeep
+|
+|t:|1711946979
+|switch|p1a: Ariel|Milotic, F|73/100
+|turn|48
+|
+|t:|1711946983
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-crit|p1a: Ariel
+|-damage|p1a: Ariel|54/100
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|95/100
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|60/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1711946994
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|50/100
+|-status|p1a: Ariel|frz
+|cant|p1a: Ariel|frz
+|
+|-heal|p1a: Ariel|56/100 frz|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1711947002
+|switch|p2a: Piette|Scizor, M|100/100
+|cant|p1a: Ariel|frz
+|
+|-heal|p1a: Ariel|62/100 frz|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1711947010
+|move|p2a: Piette|Bullet Punch|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|52/100 frz
+|cant|p1a: Ariel|frz
+|
+|-heal|p1a: Ariel|58/100 frz|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1711947018
+|switch|p2a: Diskun|Miltank, F|24/100 frz
+|cant|p1a: Ariel|frz
+|
+|-heal|p2a: Diskun|30/100 frz|[from] item: Leftovers
+|-heal|p1a: Ariel|64/100 frz|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1711947025
+|cant|p2a: Diskun|frz
+|-curestatus|p1a: Ariel|frz|[msg]
+|move|p1a: Ariel|Surf|p2a: Diskun
+|-damage|p2a: Diskun|5/100 frz
+|
+|-heal|p2a: Diskun|11/100 frz|[from] item: Leftovers
+|-heal|p1a: Ariel|70/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1711947033
+|switch|p2a: Bandit|Suicune, shiny|100/100
+|-ability|p2a: Bandit|Pressure
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|93/100
+|
+|-heal|p2a: Bandit|99/100|[from] item: Leftovers
+|-heal|p1a: Ariel|76/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1711947047
+|move|p2a: Bandit|Protect|p2a: Bandit
+|-singleturn|p2a: Bandit|Protect
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-activate|p2a: Bandit|Protect
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|82/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|c| Styrm_WB|THIS IS THE MATCH WE ALL WANT TO SEE
+|
+|t:|1711947059
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|88/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1711947066
+|move|p2a: Bandit|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|81/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|87/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1711947075
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|78/100
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|93/100
+|
+|-heal|p2a: Bandit|99/100|[from] item: Leftovers
+|-heal|p1a: Ariel|84/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1711947083
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|74/100
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|87/100
+|
+|-heal|p2a: Bandit|93/100|[from] item: Leftovers
+|-heal|p1a: Ariel|80/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1711947092
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|70/100
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|85/100
+|-message|Freeze Clause activated.
+|
+|-heal|p2a: Bandit|91/100|[from] item: Leftovers
+|-heal|p1a: Ariel|76/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1711947110
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|66/100
+|move|p1a: Ariel|Ice Beam|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|83/100
+|
+|-heal|p2a: Bandit|89/100|[from] item: Leftovers
+|-heal|p1a: Ariel|73/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|c| Styrm_WB|this is the match of all time
+|
+|t:|1711947121
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|62/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p2a: Bandit|95/100|[from] item: Leftovers
+|-heal|p1a: Ariel|68/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1711947131
+|move|p2a: Bandit|Surf|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|57/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|63/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1711947140
+|move|p2a: Bandit|Protect|p2a: Bandit
+|-singleturn|p2a: Bandit|Protect
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|70/100|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1711947150
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|76/100|[from] item: Leftovers
+|upkeep
+|turn|66
+|
+|t:|1711947165
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Surf|p2a: Bandit
+|-resisted|p2a: Bandit
+|-damage|p2a: Bandit|92/100
+|
+|-heal|p2a: Bandit|99/100|[from] item: Leftovers
+|-heal|p1a: Ariel|82/100|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1711947178
+|move|p2a: Bandit|Calm Mind|p2a: Bandit
+|-boost|p2a: Bandit|spa|1
+|-boost|p2a: Bandit|spd|1
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p2a: Bandit|100/100|[from] item: Leftovers
+|-heal|p1a: Ariel|88/100|[from] item: Leftovers
+|upkeep
+|turn|68
+|
+|t:|1711947188
+|switch|p2a: Penry|Lucario, M|100/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|94/100|[from] item: Leftovers
+|upkeep
+|turn|69
+|
+|t:|1711947194
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|46/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|52/100|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|t:|1711947207
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|5/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|55/100
+|
+|-heal|p1a: Ariel|61/100|[from] item: Leftovers
+|upkeep
+|turn|71
+|
+|t:|1711947214
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|9/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|59/100
+|
+|-heal|p1a: Ariel|65/100|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|t:|1711947221
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|18/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|68/100
+|
+|-heal|p1a: Ariel|74/100|[from] item: Leftovers
+|upkeep
+|turn|73
+|
+|t:|1711947229
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|25/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|75/100
+|
+|-heal|p1a: Ariel|81/100|[from] item: Leftovers
+|upkeep
+|turn|74
+|
+|t:|1711947237
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|35/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|85/100
+|
+|-heal|p1a: Ariel|91/100|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|t:|1711947245
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|44/100
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|50/100|[from] item: Leftovers
+|upkeep
+|turn|76
+|
+|t:|1711947252
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|4/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|54/100
+|
+|-heal|p1a: Ariel|60/100|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|t:|1711947259
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|14/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|64/100
+|
+|-heal|p1a: Ariel|70/100|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|t:|1711947267
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|20/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|70/100
+|
+|-heal|p1a: Ariel|76/100|[from] item: Leftovers
+|upkeep
+|turn|79
+|
+|t:|1711947274
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|25/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|75/100
+|
+|-heal|p1a: Ariel|81/100|[from] item: Leftovers
+|upkeep
+|turn|80
+|
+|t:|1711947282
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|32/100
+|move|p1a: Ariel|Recover|p1a: Ariel
+|-heal|p1a: Ariel|82/100
+|
+|-heal|p1a: Ariel|88/100|[from] item: Leftovers
+|upkeep
+|turn|81
+|
+|t:|1711947295
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|43/100
+|-status|p1a: Ariel|par
+|move|p1a: Ariel|Haze|p1a: Ariel
+|-clearallboost
+|
+|-heal|p1a: Ariel|49/100 par|[from] item: Leftovers
+|upkeep
+|turn|82
+|
+|t:|1711947303
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|17/100 par
+|cant|p1a: Ariel|par
+|
+|-heal|p1a: Ariel|23/100 par|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1711947310
+|move|p2a: Penry|Thunder Punch|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|0 fnt
+|faint|p1a: Ariel
+|
+|win|MegaFreak400
+|l| Styrm_WB

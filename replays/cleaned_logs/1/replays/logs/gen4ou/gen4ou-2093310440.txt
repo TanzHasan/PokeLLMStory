@@ -1,0 +1,86 @@
+p1: Switched to Absol
+p2: Switched to Bronzong
+Turn 1:
+p1: Absol used Night Slash on Bronzong
+p2: Bronzong used Stealth Rock on Absol
+Turn 2:
+p2: Switched to Lucario
+p1: Absol used Swords Dance on Absol
+Turn 3:
+p2: Lucario used Close Combat on Absol
+p1: Absol used Superpower on Lucario
+p2: Lucario fainted
+p2: Switched to Flygon
+Turn 4:
+p1: Absol used Sucker Punch on Flygon
+p2: Flygon used U-turn on Absol
+p1: Absol fainted
+p2: Switched to Tyranitar
+p1: Switched to Donphan
+Turn 5:
+p2: Switched to Flygon
+p1: Donphan used Rapid Spin on Flygon
+p2: Flygon fainted
+p2: Switched to Bronzong
+Turn 6:
+p1: Switched to Aerodactyl
+p2: Bronzong used Stealth Rock on Aerodactyl
+Turn 7:
+p1: Aerodactyl used Stealth Rock on Bronzong
+p2: Bronzong used Gyro Ball on Aerodactyl
+Turn 8:
+p1: Switched to Slowbro
+p2: Bronzong used Gyro Ball on Slowbro
+Turn 9:
+p1: Slowbro used Surf on Bronzong
+p2: Bronzong used Explosion on Slowbro
+p2: Bronzong fainted
+p1: Slowbro fainted
+p1: Switched to Donphan
+p2: Switched to Gengar
+Turn 10:
+p1: Switched to Clefable
+p2: Gengar used Shadow Ball on Clefable
+Turn 11:
+p2: Gengar used Focus Blast on Clefable
+p1: Clefable used Thunder Wave on Gengar
+Turn 12:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gengar can't move
+Turn 13:
+p1: Clefable used Knock Off on Gengar
+p2: Gengar used Focus Blast on Clefable
+Turn 14:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Gengar used Focus Blast on Clefable
+Turn 15:
+p1: Switched to Donphan
+p2: Gengar used Focus Blast on Donphan
+Turn 16:
+p2: Switched to Tyranitar
+p1: Donphan used Assurance on Tyranitar
+Turn 17:
+p2: Tyranitar used Crunch on Donphan
+p1: Donphan used Rapid Spin on Tyranitar
+Turn 18:
+p2: Tyranitar used Crunch on Donphan
+p1: Donphan used Earthquake on Tyranitar
+p2: Tyranitar fainted
+p2: Switched to Kingdra
+Turn 19:
+p2: Kingdra used Surf on Donphan
+p1: Donphan fainted
+p1: Switched to Clefable
+Turn 20:
+p2: Kingdra used Surf on Clefable
+p1: Clefable used Thunder Wave on Kingdra
+Turn 21:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Kingdra used Surf on Clefable
+Turn 22:
+p1: Clefable used Seismic Toss on Kingdra
+p2: Kingdra used Surf on Clefable
+Turn 23:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Kingdra used Surf on Clefable
+Turn 24:

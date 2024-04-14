@@ -1,0 +1,83 @@
+p1: Switched to Palossand
+p2: Switched to Scyther
+Turn 1:
+p2: Scyther used Dual Wingbeat on Palossand
+p1: Palossand used Stealth Rock on Scyther
+Turn 2:
+p2: Scyther used Defog on Palossand
+p1: Palossand used Shadow Ball on Scyther
+Turn 3:
+p2: Scyther used U-turn on Palossand
+p2: Switched to Qwilfish-Hisui
+p1: Palossand used Stealth Rock on Qwilfish-Hisui
+Turn 4:
+p2: Qwilfish-Hisui used Spikes on Palossand
+p1: Palossand used Scorching Sands on Qwilfish-Hisui
+Turn 5:
+p2: Switched to Whimsicott
+p1: Palossand used Shore Up on Palossand
+Turn 6:
+p1: Switched to Charizard
+p2: Whimsicott used Moonblast on Charizard
+Turn 7:
+p2: Switched to Hitmonchan
+p1: Charizard used Hurricane on Hitmonchan
+Turn 8:
+p1: Charizard used Hurricane on Hitmonchan
+p2: Hitmonchan used Knock Off on Charizard
+Turn 9:
+p1: Charizard used Will-O-Wisp on Hitmonchan
+p2: Hitmonchan used Rapid Spin on Charizard
+Turn 10:
+p1: Switched to Decidueye-Hisui
+p2: Hitmonchan used Knock Off on Decidueye-Hisui
+Turn 11:
+p2: Switched to Whimsicott
+p1: Decidueye-Hisui used Defog on Whimsicott
+Turn 12:
+p1: Switched to Snorlax
+p2: Whimsicott used Moonblast on Snorlax
+Turn 13:
+p2: Switched to Qwilfish-Hisui
+p1: Snorlax used Body Slam on Qwilfish-Hisui
+p2: Qwilfish-Hisui fainted
+p2: Switched to Hitmonchan
+Turn 14:
+p1: Switched to Palossand
+p2: Hitmonchan used Knock Off on Palossand
+Turn 15:
+p2: Switched to Oricorio
+p1: Palossand used Stealth Rock on Oricorio
+Turn 16:
+p1: Switched to Snorlax
+p2: Oricorio used Quiver Dance on Oricorio
+Turn 17:
+p2: Oricorio used Air Slash on Snorlax
+p1: Snorlax used Body Slam on Oricorio
+Turn 18:
+p2: Oricorio used Air Slash on Snorlax
+p1: Snorlax used Rest on Snorlax
+Turn 19:
+p2: Oricorio used Roost on Oricorio
+p1: Snorlax used Body Slam on Oricorio
+Turn 20:
+p2: Oricorio used Air Slash on Snorlax
+p1: Snorlax used Curse on Snorlax
+Turn 21:
+p2: Switched to Dudunsparce-Three-Segment
+p1: Snorlax used Body Slam on Dudunsparce-Three-Segment
+Turn 22:
+p1: Snorlax used Body Slam on Dudunsparce-Three-Segment
+p2: Dudunsparce-Three-Segment used Dragon Tail on Snorlax
+Turn 23:
+p1: p1a: Morpeko used Aura Wheel on Dudunsparce-Three-Segment
+p2: Dudunsparce-Three-Segment fainted
+p2: Switched to Hitmonchan
+Turn 24:
+p2: Hitmonchan used Mach Punch on p1a: Morpeko
+p1: p1a: Morpeko used Aura Wheel on Hitmonchan
+p2: Hitmonchan fainted
+p2: Switched to Whimsicott
+Turn 25:
+p1: p1a: Morpeko used Aura Wheel on Whimsicott
+p2: Whimsicott fainted

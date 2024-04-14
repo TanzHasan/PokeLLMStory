@@ -1,0 +1,82 @@
+|j|☆Slowbroquaza
+|j|☆everrave
+|t:|1711946863
+|gametype|singles
+|player|p1|Slowbroquaza|101|1116
+|player|p2|everrave|policeman-gen4|1243
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Espeon, F|
+|poke|p1|Swampert, M|
+|poke|p1|Emboar, M|
+|poke|p1|Rotom-Heat|
+|poke|p1|Dragalge, F|
+|poke|p1|Tsareena, F|
+|poke|p2|Brambleghast, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Minior|
+|poke|p2|Torterra, F|
+|poke|p2|Ditto|
+|poke|p2|Smeargle, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Slowbroquaza)
+|
+|t:|1711946883
+|start
+|switch|p1a: Emboar|Emboar, M|100/100
+|switch|p2a: Torterra|Torterra, F|100/100
+|turn|1
+|
+|t:|1711946888
+|-terastallize|p2a: Torterra|Fire
+|move|p2a: Torterra|Shell Smash|p2a: Torterra
+|-unboost|p2a: Torterra|def|1
+|-unboost|p2a: Torterra|spd|1
+|-boost|p2a: Torterra|atk|2
+|-boost|p2a: Torterra|spa|2
+|-boost|p2a: Torterra|spe|2
+|-enditem|p2a: Torterra|White Herb
+|-clearnegativeboost|p2a: Torterra|[silent]
+|move|p1a: Emboar|Flare Blitz|p2a: Torterra
+|-resisted|p2a: Torterra
+|-damage|p2a: Torterra|50/100
+|-damage|p1a: Emboar|87/100|[from] Recoil
+|-damage|p1a: Emboar|77/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1711946898
+|move|p2a: Torterra|Earthquake|p1a: Emboar
+|-supereffective|p1a: Emboar
+|-damage|p1a: Emboar|0 fnt
+|faint|p1a: Emboar
+|
+|upkeep
+|inactive|Slowbroquaza has 120 seconds left.
+|l|☆Slowbroquaza
+|inactive|Slowbroquaza disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Slowbroquaza has 30 seconds to reconnect!
+|inactive|Slowbroquaza has 20 seconds to reconnect!
+|inactive|Slowbroquaza has 15 seconds to reconnect!
+|inactive|Slowbroquaza has 10 seconds to reconnect!
+|inactive|Slowbroquaza has 5 seconds to reconnect!
+|-message|Slowbroquaza lost due to inactivity.
+|
+|win|everrave
+|raw|Slowbroquaza's rating: 1116 &rarr; <strong>1100</strong><br />(-16 for losing)
+|raw|everrave's rating: 1243 &rarr; <strong>1259</strong><br />(+16 for winning)
+|l|☆everrave
+|player|p2|

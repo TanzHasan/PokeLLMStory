@@ -1,0 +1,79 @@
+p1: Switched to Stunky
+p2: Switched to Tinkatink
+Turn 1:
+p1: Switched to Mudbray
+p2: Switched to Larvesta
+Turn 2:
+p2: Larvesta used Trailblaze on Mudbray
+p1: Mudbray used Stone Edge on Larvesta
+p2: Larvesta fainted
+p2: Switched to Voltorb-Hisui
+Turn 3:
+p1: Switched to Grookey
+p2: Voltorb-Hisui used Leech Seed on Grookey
+Turn 4:
+p2: Voltorb-Hisui used Tera Blast on Grookey
+p1: Grookey fainted
+p1: Switched to Growlithe-Hisui
+Turn 5:
+p1: Growlithe-Hisui used Head Smash on Voltorb-Hisui
+p2: Voltorb-Hisui fainted
+p2: Switched to Tinkatink
+Turn 6:
+p1: Switched to Mudbray
+p2: Tinkatink used Thunder Wave on Mudbray
+Turn 7:
+p2: Switched to Mienfoo
+p1: Mudbray used High Horsepower on Mienfoo
+Turn 8:
+p2: Mienfoo used Knock Off on Mudbray
+p1: Mudbray used High Horsepower on Mienfoo
+p2: Mienfoo fainted
+p2: Switched to Tinkatink
+Turn 9:
+p2: Tinkatink used Will-O-Wisp on Mudbray
+p1: Mudbray used High Horsepower on Tinkatink
+Turn 10:
+p2: Tinkatink used Hex on Mudbray
+p1: Mudbray fainted
+p1: Switched to Stunky
+Turn 11:
+p2: Switched to Tinkatink
+p1: Stunky used Knock Off on Tinkatink
+Turn 12:
+p1: Stunky used Knock Off on Tinkatink
+p2: Tinkatink used Thunder Wave on Stunky
+Turn 13:
+p2: Tinkatink used Draining Kiss on Stunky
+p1: Stunky used Temper Flare on Tinkatink
+Turn 14:
+p2: Tinkatink used Draining Kiss on Stunky
+p1: Stunky used Temper Flare on Tinkatink
+p2: Tinkatink fainted
+p2: Switched to Stunky
+Turn 15:
+p1: Switched to Vullaby
+p2: Stunky used Tera Blast on Vullaby
+Turn 16:
+p2: Stunky used Will-O-Wisp on Vullaby
+p1: Vullaby used Knock Off on Stunky
+Turn 17:
+p2: p2a: Zorua used Tera Blast on Vullaby
+p1: Vullaby used Roost on Vullaby
+Turn 18:
+p2: p2a: Zorua used U-turn on Vullaby
+p2: Switched to Stunky
+p1: Vullaby used Knock Off on Stunky
+Turn 19:
+p1: Vullaby used Brave Bird on Stunky
+p2: Stunky used Gunk Shot on Vullaby
+p1: Vullaby fainted
+p1: Switched to Growlithe-Hisui
+Turn 20:
+p2: Stunky used Sucker Punch on Growlithe-Hisui
+p1: Growlithe-Hisui used Flare Blitz on Stunky
+p2: Stunky fainted
+p2: Switched to Zorua-Hisui
+Turn 21:
+p1: Growlithe-Hisui used Flare Blitz on Zorua-Hisui
+p2: Zorua-Hisui fainted

@@ -1,0 +1,223 @@
+|j|☆IoSonoNeon
+|j|☆Guyoftheego
+|t:|1711920053
+|gametype|singles
+|player|p1|IoSonoNeon|#dpppliii|
+|player|p2|Guyoftheego|guzma|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711920053
+|start
+|switch|p1a: Raikou|Raikou|100/100
+|switch|p2a: Snorlax|Snorlax, M|100/100
+|turn|1
+|j| BB-8-NU
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Guyoftheego)
+|c|☆Guyoftheego|Shit I chose the wrong team
+|c|☆Guyoftheego|Oh well
+|inactive|IoSonoNeon has 120 seconds left.
+|c|☆Guyoftheego|glhf
+|inactive|IoSonoNeon has 90 seconds left.
+|j| Pice Pagliaccio
+|
+|t:|1711920129
+|switch|p1a: Machamp|Machamp, M|100/100
+|move|p2a: Snorlax|Body Slam|p1a: Machamp
+|-damage|p1a: Machamp|70/100
+|
+|-heal|p1a: Machamp|76/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711920136
+|switch|p2a: Misdreavus|Misdreavus, M|100/100
+|move|p1a: Machamp|Rock Slide|p2a: Misdreavus
+|-damage|p2a: Misdreavus|69/100
+|
+|-heal|p2a: Misdreavus|75/100|[from] item: Leftovers
+|-heal|p1a: Machamp|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711920145
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Misdreavus|Toxic|p1a: Zapdos|[miss]
+|-miss|p2a: Misdreavus
+|
+|-heal|p2a: Misdreavus|81/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711920152
+|move|p2a: Misdreavus|Protect|p2a: Misdreavus
+|-singleturn|p2a: Misdreavus|Protect
+|move|p1a: Zapdos|Thunder|p2a: Misdreavus
+|-activate|p2a: Misdreavus|Protect
+|
+|-heal|p2a: Misdreavus|87/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711920158
+|move|p1a: Zapdos|Hidden Power|p2a: Misdreavus
+|-damage|p2a: Misdreavus|64/100
+|move|p2a: Misdreavus|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-heal|p2a: Misdreavus|70/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711920166
+|move|p1a: Zapdos|Thunder|p2a: Misdreavus|[miss]
+|-miss|p1a: Zapdos
+|-damage|p1a: Zapdos|94/100 tox|[from] psn
+|move|p2a: Misdreavus|Psychic|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100 tox
+|
+|-heal|p1a: Zapdos|82/100 tox|[from] item: Leftovers
+|-heal|p2a: Misdreavus|77/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711920181
+|move|p2a: Misdreavus|Protect|p2a: Misdreavus
+|-singleturn|p2a: Misdreavus|Protect
+|move|p1a: Zapdos|Rest|p1a: Zapdos
+|-status|p1a: Zapdos|slp|[from] move: Rest
+|-heal|p1a: Zapdos|100/100 slp|[silent]
+|
+|-heal|p2a: Misdreavus|83/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711920194
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|cant|p1a: Zapdos|slp
+|move|p1a: Zapdos|Sleep Talk|p1a: Zapdos
+|move|p1a: Zapdos|Thunder|p2a: Cloyster|[from]Sleep Talk
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|t:|1711920208
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711920212
+|switch|p1a: Machamp|Machamp, M|82/100
+|move|p2a: Blissey|Flamethrower|p1a: Machamp
+|-crit|p1a: Machamp
+|-damage|p1a: Machamp|48/100
+|
+|-heal|p1a: Machamp|54/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711920222
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Machamp|Rock Slide|p2a: Skarmory
+|-damage|p2a: Skarmory|83/100
+|
+|-heal|p2a: Skarmory|89/100|[from] item: Leftovers
+|-heal|p1a: Machamp|60/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711920230
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|move|p2a: Skarmory|Drill Peck|p1a: Cloyster
+|-damage|p1a: Cloyster|83/100
+|
+|-heal|p1a: Cloyster|89/100|[from] item: Leftovers
+|-heal|p2a: Skarmory|95/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711920241
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Cloyster|Spikes|p2a: Zapdos
+|-sidestart|p2: Guyoftheego|Spikes
+|
+|-heal|p1a: Cloyster|95/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711920245
+|switch|p1a: Raikou|Raikou|100/100
+|move|p2a: Zapdos|Thunder|p1a: Raikou
+|-resisted|p1a: Raikou
+|-damage|p1a: Raikou|79/100
+|-status|p1a: Raikou|par
+|
+|-heal|p1a: Raikou|85/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711920259
+|switch|p2a: Blissey|Blissey, F|100/100
+|-damage|p2a: Blissey|88/100|[from] Spikes
+|move|p1a: Raikou|Rest|p1a: Raikou
+|-status|p1a: Raikou|slp|[from] move: Rest
+|-heal|p1a: Raikou|100/100 slp|[silent]
+|
+|-heal|p2a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711920268
+|switch|p1a: Misdreavus|Misdreavus, M|100/100
+|move|p2a: Blissey|Flamethrower|p1a: Misdreavus
+|-damage|p1a: Misdreavus|79/100
+|
+|-heal|p2a: Blissey|99/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711920284
+|switch|p2a: Skarmory|Skarmory, M|95/100
+|move|p1a: Misdreavus|Thief|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|90/100
+|-item|p1a: Misdreavus|Leftovers|[from] move: Thief|[of] p2a: Skarmory
+|
+|-heal|p1a: Misdreavus|85/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711920290
+|move|p1a: Misdreavus|Thunder|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|t:|1711920296
+|switch|p2a: Blissey|Blissey, F|99/100
+|-damage|p2a: Blissey|88/100|[from] Spikes
+|
+|-heal|p1a: Misdreavus|91/100|[from] item: Leftovers
+|-heal|p2a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|Guyoftheego forfeited.
+|
+|win|IoSonoNeon
+|n|☆IoSonoNeon|iosononeon
+|n|☆Guyoftheego|guyoftheego
+|n| BB-8-NU|bb8nu
+|n| Pice Pagliaccio|picepagliaccio

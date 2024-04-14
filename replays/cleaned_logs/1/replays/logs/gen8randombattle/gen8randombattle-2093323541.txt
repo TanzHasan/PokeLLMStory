@@ -1,0 +1,64 @@
+p1: Switched to Zapdos
+p2: Switched to Dugtrio-Alola
+Turn 1:
+p2: Dugtrio-Alola used Stealth Rock on Zapdos
+p1: Zapdos used Heat Wave on Dugtrio-Alola
+Turn 2:
+p2: Switched to Hippowdon
+p1: Zapdos failed to use Roost
+Turn 3:
+p1: Switched to Beartic
+p2: Hippowdon used Toxic on Beartic
+Turn 4:
+p2: Switched to Dugtrio-Alola
+p1: Beartic used Icicle Crash on Dugtrio-Alola
+p2: Dugtrio-Alola fainted
+p2: Switched to Ho-Oh
+Turn 5:
+p2: Ho-Oh used Sacred Fire on Beartic
+p1: Beartic used Stone Edge on Ho-Oh
+p2: Ho-Oh fainted
+p1: Beartic fainted
+p2: Switched to Hippowdon
+p1: Switched to Zapdos
+Turn 6:
+p1: Switched to Dusknoir
+p2: Hippowdon used Toxic on Dusknoir
+Turn 7:
+p2: Switched to Registeel
+p1: Dusknoir used Ice Punch on Registeel
+Turn 8:
+p1: Switched to Zapdos
+p2: Registeel used Curse on Registeel
+Turn 9:
+p2: Switched to Hippowdon
+p1: Zapdos used Heat Wave on Hippowdon
+Turn 10:
+p1: Zapdos used Discharge on Hippowdon
+p2: Hippowdon used Stone Edge on Zapdos
+Turn 11:
+p1: Switched to Dusknoir
+p2: Hippowdon used Stone Edge on Dusknoir
+Turn 12:
+p2: Switched to Registeel
+p1: Dusknoir used Earthquake on Registeel
+Turn 13:
+p2: Registeel used Rest on Registeel
+p1: Dusknoir used Earthquake on Registeel
+Turn 14:
+p2: Registeel can't move
+p2: Registeel used Sleep Talk on Registeel
+p2: Registeel failed to use Rest
+p1: Dusknoir used Earthquake on Registeel
+p1: Dusknoir fainted
+p1: Switched to Diggersby
+Turn 15:
+p2: Switched to Hippowdon
+p1: Diggersby used Swords Dance on Diggersby
+Turn 16:
+p1: Diggersby used Knock Off on Hippowdon
+p2: Hippowdon used Max Quake on Diggersby
+Turn 17:
+p1: Diggersby used Quick Attack on Hippowdon
+p2: Hippowdon used Max Quake on Diggersby
+p1: Diggersby fainted

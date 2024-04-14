@@ -1,0 +1,81 @@
+p1: Switched to Accelgor
+p2: Switched to Blaziken
+Turn 1:
+p1: Switched to Seviper
+p2: Blaziken used High Jump Kick on Seviper
+Turn 2:
+p2: Blaziken used Flare Blitz on Seviper
+p1: Seviper used Glare on Blaziken
+Turn 3:
+p2: Switched to Maractus
+p1: Seviper used Earthquake on Maractus
+Turn 4:
+p1: Seviper used Sludge Wave on Maractus
+p2: Maractus fainted
+p1: Seviper fainted
+p1: Switched to Zebstrika
+p2: Switched to Kabutops
+Turn 5:
+p1: Zebstrika used Volt Switch on Kabutops
+p1: Switched to Accelgor
+p2: Kabutops used Knock Off on Accelgor
+Turn 6:
+p1: Accelgor used Energy Ball on Kabutops
+p2: Kabutops fainted
+p2: Switched to Muk
+Turn 7:
+p1: Accelgor used Yawn on Muk
+p2: Muk used Poison Jab on Accelgor
+p1: Accelgor fainted
+p1: Switched to Zebstrika
+Turn 8:
+p1: Zebstrika used Wild Charge on Muk
+p2: Muk used Haze on Muk
+Turn 9:
+p1: Zebstrika used Wild Charge on Muk
+p2: Muk can't move
+Turn 10:
+p2: Switched to Chatot
+p1: Zebstrika used Wild Charge on Chatot
+p2: Chatot fainted
+p2: Switched to Blaziken
+Turn 11:
+p1: Zebstrika used Wild Charge on Blaziken
+p2: Blaziken used Knock Off on Zebstrika
+Turn 12:
+p1: Zebstrika used Wild Charge on Blaziken
+p2: Blaziken fainted
+p2: Switched to Gogoat
+Turn 13:
+p1: Zebstrika used Overheat on Gogoat
+p2: Gogoat used Horn Leech on Zebstrika
+p1: Zebstrika fainted
+p1: Switched to Blissey
+Turn 14:
+p2: Gogoat used Milk Drink on Gogoat
+p1: Blissey used Toxic on Gogoat
+Turn 15:
+p2: Gogoat used Earthquake on Blissey
+p1: Blissey used Seismic Toss on Gogoat
+Turn 16:
+p2: Gogoat used Milk Drink on Gogoat
+p1: Blissey used Soft-Boiled on Blissey
+Turn 17:
+p2: Gogoat used Toxic on Blissey
+p1: Blissey used Seismic Toss on Gogoat
+Turn 18:
+p2: Gogoat used Milk Drink on Gogoat
+p1: Blissey used Aromatherapy on Blissey
+Turn 19:
+p2: Gogoat used Earthquake on Blissey
+p1: Blissey used Seismic Toss on Gogoat
+Turn 20:
+p2: Gogoat used Earthquake on Blissey
+p1: Blissey fainted
+p2: Gogoat fainted
+p2: Switched to Muk
+p1: Switched to Slaking
+Turn 21:
+p2: Muk can't move
+p1: Slaking used Earthquake on Muk
+p2: Muk fainted

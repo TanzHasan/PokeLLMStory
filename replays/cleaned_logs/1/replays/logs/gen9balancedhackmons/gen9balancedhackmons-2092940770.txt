@@ -1,0 +1,27 @@
+p1: Switched to Archaludon
+p2: Switched to Arceus-Steel
+Turn 1:
+p2: Arceus-Steel used Taunt on Archaludon
+p1: Archaludon can't move
+Turn 2:
+p1: Switched to Delphox
+p2: Arceus-Steel used Light Screen on Arceus-Steel
+Turn 3:
+p2: Arceus-Steel used Reflect on Arceus-Steel
+p1: Delphox used Torch Song on Arceus-Steel
+Turn 4:
+p2: Arceus-Steel used Parting Shot on Delphox
+p2: Switched to Necrozma-Dawn-Wings
+p1: Delphox used Blue Flare on Necrozma-Dawn-Wings
+Turn 5:
+p1: Delphox used Astral Barrage on Necrozma-Dawn-Wings
+p2: Necrozma-Dawn-Wings used No Retreat on Necrozma-Dawn-Wings
+Turn 6:
+p2: Necrozma-Dawn-Wings used Stored Power on Delphox
+p1: Delphox fainted
+p1: Switched to Blissey
+Turn 7:
+p1: Blissey used Stored Power on Necrozma-Dawn-Wings
+p2: Necrozma-Dawn-Wings fainted
+p2: Switched to Zacian-Crowned
+Turn 8:

@@ -1,0 +1,111 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Latios
+Turn 1:
+p1: Switched to Corviknight
+p2: Latios used Dynamax Cannon on Corviknight
+Turn 2:
+p2: Switched to Raging Bolt
+p1: Corviknight used Behemoth Bash on Raging Bolt
+Turn 3:
+p1: Switched to Landorus-Therian
+p2: Raging Bolt used Calm Mind on Raging Bolt
+Turn 4:
+p1: Landorus-Therian used Precipice Blades on Raging Bolt
+p2: Raging Bolt fainted
+p2: Switched to Kyurem
+Turn 5:
+p1: Switched to Corviknight
+p2: Kyurem used Dragon Dance on Kyurem
+Turn 6:
+p2: Kyurem used Dragon Dance on Kyurem
+p1: Corviknight used Behemoth Bash on Kyurem
+Turn 7:
+p2: Kyurem used Glacial Lance on Corviknight
+p1: Corviknight fainted
+p1: Switched to Moltres
+Turn 8:
+p2: Kyurem used Glacial Lance on Moltres
+p1: Moltres used Roar on Kyurem
+Turn 9:
+p1: Moltres used Roost on Moltres
+p2: p2a: Archaludon used Stealth Rock on Moltres
+Turn 10:
+p2: Switched to Gouging Fire
+p1: Moltres used Defog on Gouging Fire
+Turn 11:
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+p1: Moltres used Roar on Gouging Fire
+Turn 12:
+p2: Switched to Dragalge
+p1: Moltres used Roost on Moltres
+Turn 13:
+p1: Switched to Thundurus-Therian
+p2: Dragalge used Mortal Spin on Thundurus-Therian
+Turn 14:
+p2: Switched to Archaludon
+p1: Thundurus-Therian used Psychic on Archaludon
+Turn 15:
+p1: Thundurus-Therian used Focus Blast on Archaludon
+p2: Archaludon fainted
+p2: Switched to Latios
+Turn 16:
+p2: Latios used Dynamax Cannon on Thundurus-Therian
+p1: Thundurus-Therian fainted
+p1: Switched to Landorus-Therian
+Turn 17:
+p2: Latios used Dynamax Cannon on Landorus-Therian
+p1: Landorus-Therian used Dragon Ascent on Latios
+p2: Latios fainted
+p2: Switched to Kyurem
+Turn 18:
+p1: Switched to Moltres
+p2: Kyurem used Dragon Dance on Kyurem
+Turn 19:
+p2: Kyurem used Glacial Lance on Moltres
+p1: Moltres used Roar on Kyurem
+Turn 20:
+p1: Moltres used Roost on Moltres
+p2: Dragalge used Mortal Spin on Moltres
+Turn 21:
+p1: Switched to Yanmega
+p2: Dragalge used Malignant Chain on Yanmega
+Turn 22:
+p1: Yanmega used Hurricane on Dragalge
+Turn 23:
+p1: Yanmega used Hurricane on Dragalge
+p2: Dragalge fainted
+p2: Switched to Kyurem
+Turn 24:
+p2: Kyurem used Ice Shard on Yanmega
+p1: Yanmega fainted
+p1: Switched to Zapdos-Galar
+Turn 25:
+p1: Zapdos-Galar used Combat Torque on Kyurem
+p2: Kyurem fainted
+p2: Switched to Gouging Fire
+Turn 26:
+p1: Zapdos-Galar used Combat Torque on Gouging Fire
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+Turn 27:
+p2: Gouging Fire used Bitter Blade on Zapdos-Galar
+p1: Zapdos-Galar used Combat Torque on Gouging Fire
+Turn 28:
+p2: Gouging Fire used Bitter Blade on Zapdos-Galar
+p1: Zapdos-Galar fainted
+p1: Switched to Moltres
+Turn 29:
+p2: Gouging Fire used Dragon Darts on Moltres
+p1: Moltres used Torch Song on Gouging Fire
+Turn 30:
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+p1: Moltres used Roost on Moltres
+Turn 31:
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+p1: Moltres used Torch Song on Gouging Fire
+Turn 32:
+p2: Gouging Fire used Dragon Darts on Moltres
+p1: Moltres fainted
+p1: Switched to Landorus-Therian
+Turn 33:
+p2: Gouging Fire used Dragon Darts on Landorus-Therian
+p1: Landorus-Therian fainted

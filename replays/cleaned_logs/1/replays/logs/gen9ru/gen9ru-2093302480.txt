@@ -1,0 +1,63 @@
+p1: Switched to Diancie
+p2: Switched to Conkeldurr
+Turn 1:
+p2: Conkeldurr used Close Combat on Diancie
+p1: Diancie used Stealth Rock on Conkeldurr
+Turn 2:
+p2: Conkeldurr used Close Combat on Diancie
+p1: Diancie fainted
+p1: Switched to Exeggutor-Alola
+Turn 3:
+p2: Switched to Cobalion
+p1: Exeggutor-Alola used Trick Room on Exeggutor-Alola
+Turn 4:
+p1: Exeggutor-Alola used Flamethrower on Cobalion
+p2: Cobalion used Thunder Wave on Exeggutor-Alola
+Turn 5:
+p1: Exeggutor-Alola used Flamethrower on Cobalion
+p2: Cobalion fainted
+p2: Switched to Entei
+Turn 6:
+p2: Entei used Extreme Speed on Exeggutor-Alola
+p1: Exeggutor-Alola used Draco Meteor on Entei
+p2: Entei fainted
+p1: Switched to Rampardos
+p2: Switched to Salamence
+Turn 7:
+p1: Rampardos used Rock Slide on Salamence
+p2: Salamence fainted
+p2: Switched to Cinccino
+Turn 8:
+p2: Cinccino used Tidy Up on Cinccino
+p1: Rampardos used Rock Slide on Cinccino
+Turn 9:
+p2: Cinccino used Rock Blast on Rampardos
+p1: Rampardos used Rock Slide on Cinccino
+p2: Cinccino fainted
+p2: Switched to Conkeldurr
+Turn 10:
+p2: Conkeldurr used Mach Punch on Rampardos
+p1: Rampardos fainted
+p1: Switched to Farigiraf
+Turn 11:
+p2: Conkeldurr used Knock Off on Farigiraf
+p1: Farigiraf used Trick Room on Farigiraf
+Turn 12:
+p2: Conkeldurr used Mach Punch on Farigiraf
+p1: Farigiraf fainted
+p1: Switched to Golurk
+Turn 13:
+p2: Switched to Gengar
+p1: Golurk used Poltergeist on Gengar
+p2: Gengar fainted
+p2: Switched to Conkeldurr
+Turn 14:
+p1: Switched to Exeggutor-Alola
+p2: Conkeldurr used Knock Off on Exeggutor-Alola
+Turn 15:
+p2: Conkeldurr used Mach Punch on Exeggutor-Alola
+p1: Exeggutor-Alola fainted
+p1: Switched to Golurk
+Turn 16:
+p2: Conkeldurr used Knock Off on Golurk
+p1: Golurk fainted

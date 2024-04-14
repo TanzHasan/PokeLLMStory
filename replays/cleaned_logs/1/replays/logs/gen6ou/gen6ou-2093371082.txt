@@ -1,0 +1,35 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Tornadus-Therian
+Turn 1:
+p1: Landorus-Therian used Stealth Rock on Tornadus-Therian
+p2: Tornadus-Therian used Knock Off on Landorus-Therian
+Turn 2:
+p2: Switched to Metagross
+p1: Landorus-Therian used Explosion on Metagross
+p1: Landorus-Therian fainted
+p1: Switched to Serperior
+Turn 3:
+p1: Serperior used Reflect on Serperior
+p2: Metagross used Meteor Mash on Serperior
+Turn 4:
+p1: Serperior used Light Screen on Serperior
+p2: Metagross used Meteor Mash on Serperior
+Turn 5:
+p1: Switched to Manaphy
+p2: Metagross used Meteor Mash on Manaphy
+Turn 6:
+p2: Metagross used Zen Headbutt on Manaphy
+p1: Manaphy used Tail Glow on Manaphy
+Turn 7:
+p2: Metagross used Zen Headbutt on Manaphy
+p1: Manaphy used Surf on Metagross
+p2: Metagross fainted
+p2: Switched to Suicune
+Turn 8:
+p1: Manaphy used Energy Ball on Suicune
+p2: Suicune fainted
+p2: Switched to Thundurus
+Turn 9:
+p2: Thundurus used Thunderbolt on Manaphy
+p1: Manaphy used Surf on Thundurus
+p2: Thundurus fainted

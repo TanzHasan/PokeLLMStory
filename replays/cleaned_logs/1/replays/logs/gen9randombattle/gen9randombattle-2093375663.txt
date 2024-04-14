@@ -1,0 +1,55 @@
+p1: Switched to Jumpluff
+p2: Switched to Terrakion
+Turn 1:
+p1: Switched to Tinkaton
+p2: Switched to Minun
+Turn 2:
+p2: Minun used Nasty Plot on Minun
+p1: Tinkaton used Swords Dance on Tinkaton
+Turn 3:
+p2: Minun used Encore on Tinkaton
+p1: Tinkaton used Swords Dance on Tinkaton
+Turn 4:
+p1: Switched to Swalot
+p2: Minun used Thunderbolt on Swalot
+Turn 5:
+p2: Minun used Thunderbolt on Swalot
+p1: Swalot fainted
+p1: Switched to Sylveon
+Turn 6:
+p2: Minun used Nasty Plot on Minun
+p1: Sylveon used Hyper Voice on Minun
+Turn 7:
+p2: Minun used Thunderbolt on Sylveon
+p1: Sylveon fainted
+p1: Switched to Jumpluff
+Turn 8:
+p1: Jumpluff used Substitute on Jumpluff
+p2: Minun used Thunderbolt on Jumpluff
+Turn 9:
+p1: Jumpluff used Substitute on Jumpluff
+p2: Minun used Alluring Voice on Jumpluff
+p1: Jumpluff fainted
+p1: Switched to Pelipper
+Turn 10:
+p2: Minun used Thunderbolt on Pelipper
+p1: Pelipper fainted
+p1: Switched to Tinkaton
+Turn 11:
+p2: Minun used Thunderbolt on Tinkaton
+p1: Tinkaton fainted
+p2: Minun fainted
+p2: Switched to Ribombee
+p1: Switched to Iron Crown
+Turn 12:
+p2: Ribombee used Stun Spore on Iron Crown
+p1: Iron Crown can't move
+Turn 13:
+p2: Switched to Hippowdon
+p1: Iron Crown used Tachyon Cutter on Hippowdon
+Turn 14:
+p2: Hippowdon used Earthquake on Iron Crown
+p1: Iron Crown can't move
+Turn 15:
+p2: Hippowdon used Earthquake on Iron Crown
+p1: Iron Crown fainted

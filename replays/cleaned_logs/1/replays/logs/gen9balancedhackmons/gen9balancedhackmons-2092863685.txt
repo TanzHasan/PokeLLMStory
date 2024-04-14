@@ -1,0 +1,263 @@
+p1: Switched to Slowbro-Mega
+p2: Switched to Alakazam-Mega
+Turn 1:
+p1: Slowbro-Mega used Light Screen on Slowbro-Mega
+p2: Alakazam-Mega used Fleur Cannon on Slowbro-Mega
+Turn 2:
+p2: Switched to Chansey
+p1: Slowbro-Mega used Reflect on Slowbro-Mega
+Turn 3:
+p1: Switched to Lunala
+p2: Chansey used Light Screen on Chansey
+Turn 4:
+p2: Chansey used Haze on Chansey
+p1: Lunala used No Retreat on Lunala
+Turn 5:
+p2: Chansey used Haze on Chansey
+p1: Lunala used Judgment on Chansey
+Turn 6:
+p1: Switched to Slowbro-Mega
+p2: Switched to Arceus-Fairy
+Turn 7:
+p1: Slowbro-Mega used Recover on Slowbro-Mega
+p2: Arceus-Fairy used Knock Off on Slowbro-Mega
+Turn 8:
+p2: Switched to Aegislash
+p1: Slowbro-Mega failed to use Reflect
+Turn 9:
+p1: Slowbro-Mega used Light Screen on Slowbro-Mega
+p2: Aegislash used Spikes on Slowbro-Mega
+Turn 10:
+p1: Slowbro-Mega used Reflect on Slowbro-Mega
+p2: Aegislash used Spikes on Slowbro-Mega
+Turn 11:
+p1: Switched to Ting-Lu
+p2: Aegislash used Spikes on Ting-Lu
+Turn 12:
+p2: Switched to Chansey
+p1: Ting-Lu used Teleport on Ting-Lu
+p1: Switched to Slowbro-Mega
+Turn 13:
+p1: Switched to Ting-Lu
+p2: Chansey used Teleport on Chansey
+p2: Switched to Aegislash
+Turn 14:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Teleport on Ting-Lu
+p1: Switched to Slowbro-Mega
+Turn 15:
+p1: Slowbro-Mega used Recover on Slowbro-Mega
+p2: Aegislash used Parting Shot on Slowbro-Mega
+p2: Switched to Miraidon
+Turn 16:
+p1: Switched to Ting-Lu
+p2: Miraidon used Mortal Spin on Ting-Lu
+Turn 17:
+p2: Switched to Aegislash
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 18:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Teleport on Ting-Lu
+p1: Switched to Slowbro-Mega
+Turn 19:
+p1: Slowbro-Mega used Reflect on Slowbro-Mega
+p2: Aegislash used Parting Shot on Slowbro-Mega
+p2: Switched to Miraidon
+Turn 20:
+p1: Slowbro-Mega used Light Screen on Slowbro-Mega
+p2: Miraidon used Thunder Cage on Slowbro-Mega
+Turn 21:
+p1: Slowbro-Mega used Recover on Slowbro-Mega
+p2: Miraidon used Torch Song on Slowbro-Mega
+Turn 22:
+p1: Slowbro-Mega used Haze on Slowbro-Mega
+p2: Miraidon used Mortal Spin on Slowbro-Mega
+Turn 23:
+p1: Slowbro-Mega used Recover on Slowbro-Mega
+p2: Miraidon used Thunder Cage on Slowbro-Mega
+Turn 24:
+p1: Slowbro-Mega used Recover on Slowbro-Mega
+p2: Miraidon used Thunder Cage on Slowbro-Mega
+Turn 25:
+p1: Slowbro-Mega used Light Screen on Slowbro-Mega
+p2: Miraidon used Thunder Cage on Slowbro-Mega
+p1: Slowbro-Mega fainted
+p1: Switched to Ting-Lu
+Turn 26:
+p2: Switched to Aegislash
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 27:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 28:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 29:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 30:
+p2: Aegislash used Parting Shot on Ting-Lu
+p1: Ting-Lu used Rapid Spin on Aegislash
+Turn 31:
+p2: Switched to Koraidon
+p1: Ting-Lu used Teleport on Ting-Lu
+p1: Switched to Arceus-Ghost
+Turn 32:
+p2: Koraidon used Glaive Rush on Arceus-Ghost
+p1: Arceus-Ghost used No Retreat on Arceus-Ghost
+Turn 33:
+p2: Switched to Arceus-Fairy
+p1: Arceus-Ghost used Jungle Healing on Arceus-Ghost
+Turn 34:
+p1: Arceus-Ghost used Judgment on Arceus-Fairy
+p2: Arceus-Fairy used Take Heart on Arceus-Fairy
+Turn 35:
+p1: Arceus-Ghost used Judgment on Arceus-Fairy
+p2: Arceus-Fairy used Take Heart on Arceus-Fairy
+Turn 36:
+p1: Arceus-Ghost used Judgment on Arceus-Fairy
+p2: Arceus-Fairy used Strength Sap on Arceus-Ghost
+Turn 37:
+p1: Switched to Ting-Lu
+p2: Arceus-Fairy used Take Heart on Arceus-Fairy
+p1: Ting-Lu fainted
+p1: Switched to Eternatus
+Turn 38:
+p2: Arceus-Fairy used Revelation Dance on Eternatus
+p1: Eternatus used Torch Song on Arceus-Fairy
+Turn 39:
+p1: Eternatus used Destiny Bond on Eternatus
+p2: Arceus-Fairy used Revelation Dance on Eternatus
+p1: Eternatus fainted
+p2: Arceus-Fairy fainted
+p2: Switched to Alakazam-Mega
+p1: Switched to Arceus-Ghost
+Turn 40:
+p2: Alakazam-Mega used Moongeist Beam on Arceus-Ghost
+p1: Arceus-Ghost fainted
+p1: Switched to Lunala
+Turn 41:
+p2: Alakazam-Mega used Moongeist Beam on Lunala
+p1: Lunala fainted
+p1: Switched to Palkia-Origin
+Turn 42:
+p2: Switched to Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 43:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 44:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 45:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p2: Switched to Chansey
+p1: Palkia-Origin used Steam Eruption on Chansey
+Turn 46:
+p2: Switched to Miraidon
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 47:
+p1: Palkia-Origin used Judgment on Miraidon
+p2: Miraidon fainted
+p2: Switched to Aegislash
+Turn 48:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 49:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Strength Sap on Aegislash
+Turn 50:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 51:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 52:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 53:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 54:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 55:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p2: Switched to Chansey
+p1: Palkia-Origin used Judgment on Chansey
+Turn 56:
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+p2: Chansey used Strength Sap on Palkia-Origin
+Turn 57:
+p1: Palkia-Origin used Judgment on Chansey
+p2: Chansey used Steam Eruption on Palkia-Origin
+Turn 58:
+p2: Switched to Koraidon
+p1: Palkia-Origin used Judgment on Koraidon
+p2: Koraidon fainted
+p2: Switched to Aegislash
+Turn 59:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 60:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 61:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p2: Switched to Chansey
+p1: Palkia-Origin used Judgment on Chansey
+Turn 62:
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+p2: Chansey used Strength Sap on Palkia-Origin
+Turn 63:
+p2: Switched to Alakazam-Mega
+p1: Palkia-Origin used Judgment on Alakazam-Mega
+Turn 64:
+p1: Palkia-Origin used Judgment on Alakazam-Mega
+p2: Alakazam-Mega fainted
+p2: Switched to Aegislash
+Turn 65:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 66:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 67:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Steam Eruption on Aegislash
+Turn 68:
+p2: Aegislash used Recover on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 69:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p2: Switched to Chansey
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 70:
+p1: Palkia-Origin used Judgment on Chansey
+p2: Chansey fainted
+p2: Switched to Aegislash
+Turn 71:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 72:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p1: Palkia-Origin used Judgment on Aegislash
+Turn 73:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 74:
+p2: Aegislash used Parting Shot on Palkia-Origin
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 75:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 76:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 77:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Nasty Plot on Palkia-Origin
+Turn 78:
+p2: Aegislash used Haze on Aegislash
+p1: Palkia-Origin used Judgment on Aegislash
+p2: Aegislash fainted

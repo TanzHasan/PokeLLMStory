@@ -1,0 +1,67 @@
+p1: Switched to Pincurchin
+p2: Switched to Scizor
+Turn 1:
+p2: Scizor used Sticky Web on Pincurchin
+p1: Pincurchin used Rising Voltage on Scizor
+Turn 2:
+p2: Scizor used Bug Buzz on Pincurchin
+p1: Pincurchin used Volt Switch on Scizor
+p2: Scizor fainted
+p1: Switched to Iron Hands
+p2: Switched to Iron Hands
+Turn 3:
+p2: Iron Hands used Secret Sword on Iron Hands
+p1: Iron Hands used Volt Switch on Iron Hands
+p1: Switched to Iron Valiant
+Turn 4:
+p2: Switched to Toxapex
+p1: Iron Valiant used Magical Torque on Toxapex
+p2: Switched to Iron Moth
+Turn 5:
+p2: Iron Moth used Noxious Torque on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Iron Jugulis
+Turn 6:
+p2: Switched to Skarmory
+p1: Iron Jugulis used Dragon Ascent on Skarmory
+Turn 7:
+p1: Iron Jugulis used Dragon Ascent on Skarmory
+p2: Skarmory fainted
+p2: Switched to Iron Moth
+Turn 8:
+p1: Iron Jugulis used Dragon Ascent on Iron Moth
+p2: p2a: Zoroark fainted
+p2: Switched to Iron Moth
+Turn 9:
+p1: Switched to Pincurchin
+p2: Iron Moth used Flame Charge on Pincurchin
+p1: Pincurchin fainted
+p1: Switched to Iron Jugulis
+Turn 10:
+p1: Iron Jugulis used Sucker Punch on Iron Moth
+p2: Iron Moth used Bitter Blade on Iron Jugulis
+p1: Iron Jugulis fainted
+p1: Switched to Iron Hands
+Turn 11:
+p1: Iron Hands used Thunderclap on Iron Moth
+p2: Iron Moth fainted
+p2: Switched to Iron Hands
+Turn 12:
+p1: Switched to Corviknight
+p2: Iron Hands used Secret Sword on Corviknight
+Turn 13:
+p2: Iron Hands used Thunder Cage on Corviknight
+p1: Corviknight fainted
+p1: Switched to Sneasler
+Turn 14:
+p1: Sneasler used Malignant Chain on Iron Hands
+p2: Iron Hands used Thunder Cage on Sneasler
+p1: Sneasler fainted
+p1: Switched to Iron Hands
+Turn 15:
+p2: Iron Hands used Secret Sword on Iron Hands
+p1: Iron Hands used Secret Sword on Iron Hands
+Turn 16:
+p1: Iron Hands used Thunderclap on Iron Hands
+p2: Iron Hands used Secret Sword on Iron Hands
+p1: Iron Hands fainted

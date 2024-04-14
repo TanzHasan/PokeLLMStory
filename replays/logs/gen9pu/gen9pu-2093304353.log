@@ -1,0 +1,437 @@
+|j|☆h1lly
+|j|☆iamwillll
+|t:|1711936925
+|gametype|singles
+|player|p1|h1lly|265|1420
+|player|p2|iamwillll|roughneck|1207
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hitmonchan, M|
+|poke|p1|Cramorant, M|
+|poke|p1|Skuntank, F|
+|poke|p1|Palossand, M|
+|poke|p1|Whimsicott, M|
+|poke|p1|Typhlosion, F|
+|poke|p2|Porygon2|
+|poke|p2|Hariyama, M|
+|poke|p2|Jolteon, M|
+|poke|p2|Sceptile, M|
+|poke|p2|Typhlosion, M|
+|poke|p2|Malamar, F|
+|teampreview
+|c|☆iamwillll|gl hf
+|c|☆h1lly|glhf
+|
+|t:|1711936971
+|start
+|switch|p1a: Hitmonchan|Hitmonchan, M|100/100
+|switch|p2a: Jolteon|Jolteon, M|100/100
+|turn|1
+|
+|t:|1711936987
+|move|p2a: Jolteon|Volt Switch|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|82/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by h1lly)
+|
+|t:|1711937033
+|switch|p2a: Malamar|Malamar, F|100/100|[from] Volt Switch
+|move|p1a: Hitmonchan|Drain Punch|p2a: Malamar
+|-damage|p2a: Malamar|53/100
+|-heal|p1a: Hitmonchan|100/100|[from] drain|[of] p2a: Malamar
+|
+|-heal|p2a: Malamar|59/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711937059
+|switch|p1a: Cramorant|Cramorant, M|100/100
+|-terastallize|p2a: Malamar|Stellar
+|move|p2a: Malamar|Tera Blast|p1a: Cramorant|[anim] Tera Blast Stellar
+|-damage|p1a: Cramorant|65/100
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|spa|1
+|
+|-heal|p2a: Malamar|65/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|iamwillll has 120 seconds left.
+|
+|t:|1711937075
+|move|p2a: Malamar|Knock Off|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Malamar|48/100|[from] item: Rocky Helmet|[of] p1a: Cramorant
+|-enditem|p1a: Cramorant|Rocky Helmet|[from] move: Knock Off|[of] p2a: Malamar
+|faint|p1a: Cramorant
+|
+|-heal|p2a: Malamar|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937085
+|switch|p1a: Typhlosion|Typhlosion, F|100/100
+|turn|4
+|
+|t:|1711937098
+|switch|p2a: OG|Porygon2|100/100
+|-ability|p2a: OG|Flash Fire|[from] ability: Trace|[of] p1a: Typhlosion
+|move|p1a: Typhlosion|Eruption|p2a: OG
+|-start|p2a: OG|ability: Flash Fire
+|
+|upkeep
+|turn|5
+|
+|t:|1711937109
+|switch|p1a: Hitmonchan|Hitmonchan, M|100/100
+|move|p2a: OG|Thunder Wave|p1a: Hitmonchan
+|-status|p1a: Hitmonchan|par
+|
+|upkeep
+|turn|6
+|inactive|iamwillll has 120 seconds left.
+|
+|t:|1711937140
+|-end|p2a: OG|ability: Flash Fire|[silent]
+|switch|p2a: Malamar|Malamar, F, tera:Stellar|54/100
+|cant|p1a: Hitmonchan|par
+|
+|-heal|p2a: Malamar|60/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|iamwillll has 120 seconds left.
+|inactive|h1lly has 120 seconds left.
+|
+|t:|1711937174
+|move|p2a: Malamar|Tera Blast|p1a: Hitmonchan|[anim] Tera Blast Stellar
+|-damage|p1a: Hitmonchan|64/100 par
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|spa|1
+|move|p1a: Hitmonchan|Drain Punch|p2a: Malamar
+|-damage|p2a: Malamar|14/100
+|-heal|p1a: Hitmonchan|88/100 par|[from] drain|[of] p2a: Malamar
+|
+|-heal|p2a: Malamar|20/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|iamwillll has 120 seconds left.
+|inactive|h1lly has 120 seconds left.
+|inactive|iamwillll has 90 seconds left.
+|
+|t:|1711937211
+|switch|p1a: Skuntank|Skuntank, F|100/100
+|move|p2a: Malamar|Tera Blast|p1a: Skuntank|[anim] Tera Blast Stellar
+|-damage|p1a: Skuntank|59/100
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|spa|1
+|
+|-heal|p2a: Malamar|26/100|[from] item: Leftovers
+|-heal|p1a: Skuntank|65/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|h1lly has 120 seconds left.
+|inactive|iamwillll has 90 seconds left.
+|
+|t:|1711937233
+|move|p2a: Malamar|Substitute|p2a: Malamar
+|-start|p2a: Malamar|Substitute
+|-damage|p2a: Malamar|1/100
+|move|p1a: Skuntank|Knock Off|p2a: Malamar
+|-end|p2a: Malamar|Substitute
+|
+|-heal|p2a: Malamar|7/100|[from] item: Leftovers
+|-heal|p1a: Skuntank|71/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711937249
+|move|p1a: Skuntank|Sucker Punch|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|-heal|p1a: Skuntank|77/100|[from] item: Leftovers
+|upkeep
+|inactive|iamwillll has 60 seconds left.
+|
+|t:|1711937296
+|switch|p2a: Hariyama|Hariyama, M|100/100
+|turn|11
+|
+|t:|1711937303
+|switch|p1a: Palossand|Palossand, M|100/100
+|move|p2a: Hariyama|Drain Punch|p1a: Palossand
+|-immune|p1a: Palossand
+|
+|upkeep
+|turn|12
+|
+|t:|1711937313
+|switch|p2a: Sceptile|Sceptile, M|100/100
+|move|p1a: Palossand|Stealth Rock|p2a: Sceptile
+|-sidestart|p2: iamwillll|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1711937322
+|switch|p1a: Whimsicott|Whimsicott, M|100/100
+|move|p2a: Sceptile|Scale Shot|p1a: Whimsicott
+|-immune|p1a: Whimsicott
+|
+|upkeep
+|turn|14
+|
+|t:|1711937341
+|move|p2a: Sceptile|Bullet Seed|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|96/100
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|91/100
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|87/100
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|82/100
+|-hitcount|p1a: Whimsicott|4
+|move|p1a: Whimsicott|U-turn|p2a: Sceptile
+|-supereffective|p2a: Sceptile
+|-damage|p2a: Sceptile|61/100
+|
+|t:|1711937353
+|switch|p1a: Typhlosion|Typhlosion, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1711937358
+|switch|p1a: Hitmonchan|Hitmonchan, M|88/100 par
+|switch|p2a: OG|Porygon2|100/100
+|-damage|p2a: OG|88/100|[from] Stealth Rock
+|-ability|p2a: OG|Iron Fist|[from] ability: Trace|[of] p1a: Hitmonchan
+|
+|upkeep
+|turn|16
+|inactive|iamwillll has 60 seconds left.
+|
+|t:|1711937367
+|switch|p2a: Hariyama|Hariyama, M|100/100
+|-damage|p2a: Hariyama|94/100|[from] Stealth Rock
+|move|p1a: Hitmonchan|Drain Punch|p2a: Hariyama
+|-damage|p2a: Hariyama|52/100
+|-heal|p1a: Hitmonchan|100/100 par|[from] drain|[of] p2a: Hariyama
+|
+|upkeep
+|turn|17
+|inactive|iamwillll has 60 seconds left.
+|
+|t:|1711937385
+|switch|p1a: Palossand|Palossand, M|100/100
+|move|p2a: Hariyama|Belly Drum|p2a: Hariyama
+|-damage|p2a: Hariyama|2/100
+|-setboost|p2a: Hariyama|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Hariyama|Sitrus Berry|[eat]
+|-heal|p2a: Hariyama|27/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|18
+|inactive|iamwillll has 60 seconds left.
+|
+|t:|1711937394
+|move|p2a: Hariyama|Knock Off|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|0 fnt
+|-enditem|p1a: Palossand|Leftovers|[from] move: Knock Off|[of] p2a: Hariyama
+|faint|p1a: Palossand
+|
+|upkeep
+|
+|t:|1711937407
+|switch|p1a: Typhlosion|Typhlosion, F|100/100
+|turn|19
+|
+|t:|1711937412
+|move|p2a: Hariyama|Bullet Punch|p1a: Typhlosion
+|-resisted|p1a: Typhlosion
+|-damage|p1a: Typhlosion|58/100
+|move|p1a: Typhlosion|Overheat|p2a: Hariyama
+|-damage|p2a: Hariyama|0 fnt
+|-unboost|p1a: Typhlosion|spa|2
+|faint|p2a: Hariyama
+|
+|upkeep
+|
+|t:|1711937421
+|switch|p2a: Jolteon|Jolteon, M|100/100
+|turn|20
+|
+|t:|1711937426
+|switch|p1a: Whimsicott|Whimsicott, M|82/100
+|move|p2a: Jolteon|Volt Switch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|62/100
+|
+|t:|1711937442
+|switch|p2a: OG|Porygon2|88/100|[from] Volt Switch
+|-damage|p2a: OG|76/100|[from] Stealth Rock
+|-ability|p2a: OG|Prankster|[from] ability: Trace|[of] p1a: Whimsicott
+|
+|-heal|p1a: Whimsicott|68/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711937450
+|move|p2a: OG|Thunder Wave|p1a: Whimsicott
+|-status|p1a: Whimsicott|par
+|move|p1a: Whimsicott|U-turn|p2a: OG
+|-damage|p2a: OG|68/100
+|
+|t:|1711937455
+|switch|p1a: Hitmonchan|Hitmonchan, M|100/100 par|[from] U-turn
+|
+|upkeep
+|turn|22
+|inactive|iamwillll has 90 seconds left.
+|
+|t:|1711937463
+|switch|p2a: Jolteon|Jolteon, M|100/100
+|move|p1a: Hitmonchan|Drain Punch|p2a: Jolteon
+|-damage|p2a: Jolteon|24/100
+|
+|upkeep
+|turn|23
+|
+|t:|1711937468
+|move|p2a: Jolteon|Thunderbolt|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|77/100 par
+|move|p1a: Hitmonchan|Rapid Spin|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|-boost|p1a: Hitmonchan|spe|1
+|faint|p2a: Jolteon
+|
+|upkeep
+|
+|t:|1711937480
+|switch|p2a: Sceptile|Sceptile, M|61/100
+|-damage|p2a: Sceptile|49/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1711937491
+|switch|p1a: Whimsicott|Whimsicott, M|68/100 par
+|move|p2a: Sceptile|Swords Dance|p2a: Sceptile
+|-boost|p2a: Sceptile|atk|2
+|
+|-heal|p1a: Whimsicott|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711937504
+|move|p1a: Whimsicott|Encore|p2a: Sceptile
+|-start|p2a: Sceptile|Encore
+|move|p2a: Sceptile|Swords Dance|p2a: Sceptile
+|-boost|p2a: Sceptile|atk|2
+|
+|-heal|p1a: Whimsicott|80/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711937512
+|move|p2a: Sceptile|Swords Dance|p2a: Sceptile
+|-boost|p2a: Sceptile|atk|2
+|move|p1a: Whimsicott|U-turn|p2a: Sceptile
+|-supereffective|p2a: Sceptile
+|-damage|p2a: Sceptile|8/100
+|
+|t:|1711937517
+|switch|p1a: Skuntank|Skuntank, F|77/100|[from] U-turn
+|
+|-heal|p1a: Skuntank|83/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711937528
+|move|p2a: Sceptile|Swords Dance|p2a: Sceptile
+|-boost|p2a: Sceptile|atk|0
+|move|p1a: Skuntank|Knock Off|p2a: Sceptile
+|-damage|p2a: Sceptile|0 fnt
+|-enditem|p2a: Sceptile|Loaded Dice|[from] move: Knock Off|[of] p1a: Skuntank
+|faint|p2a: Sceptile
+|
+|-heal|p1a: Skuntank|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937537
+|switch|p2a: Typhlosion|Typhlosion, M|100/100
+|-damage|p2a: Typhlosion|76/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1711937542
+|move|p1a: Skuntank|Sucker Punch|p2a: Typhlosion
+|-damage|p2a: Typhlosion|42/100
+|move|p2a: Typhlosion|Scorching Sands|p1a: Skuntank
+|-supereffective|p1a: Skuntank
+|-damage|p1a: Skuntank|31/100
+|
+|-heal|p1a: Skuntank|38/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|iamwillll has 120 seconds left.
+|
+|t:|1711937549
+|switch|p1a: Hitmonchan|Hitmonchan, M|77/100 par
+|move|p2a: Typhlosion|Scorching Sands|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|63/100 par
+|
+|upkeep
+|turn|30
+|
+|t:|1711937556
+|move|p2a: Typhlosion|Scorching Sands|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|49/100 par
+|move|p1a: Hitmonchan|Drain Punch|p2a: Typhlosion
+|-crit|p2a: Typhlosion
+|-damage|p2a: Typhlosion|0 fnt
+|-heal|p1a: Hitmonchan|70/100 par|[from] drain|[of] p2a: Typhlosion
+|faint|p2a: Typhlosion
+|
+|upkeep
+|
+|t:|1711937563
+|switch|p2a: OG|Porygon2|68/100
+|-damage|p2a: OG|56/100|[from] Stealth Rock
+|-ability|p2a: OG|Iron Fist|[from] ability: Trace|[of] p1a: Hitmonchan
+|turn|31
+|
+|t:|1711937569
+|move|p2a: OG|Tri Attack|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|52/100 par
+|move|p1a: Hitmonchan|Drain Punch|p2a: OG
+|-supereffective|p2a: OG
+|-damage|p2a: OG|6/100
+|-heal|p1a: Hitmonchan|83/100 par|[from] drain|[of] p2a: OG
+|
+|upkeep
+|turn|32
+|c|☆iamwillll|gg
+|
+|t:|1711937576
+|move|p2a: OG|Tri Attack|p1a: Hitmonchan
+|-damage|p1a: Hitmonchan|68/100 par
+|move|p1a: Hitmonchan|Knock Off|p2a: OG
+|-damage|p2a: OG|0 fnt
+|-enditem|p2a: OG|Eviolite|[from] move: Knock Off|[of] p1a: Hitmonchan
+|faint|p2a: OG
+|
+|win|h1lly
+|raw|h1lly's rating: 1420 &rarr; <strong>1429</strong><br />(+9 for winning)
+|raw|iamwillll's rating: 1207 &rarr; <strong>1196</strong><br />(-11 for losing)
+|l|☆h1lly
+|player|p1|
+|l|☆iamwillll
+|player|p2|

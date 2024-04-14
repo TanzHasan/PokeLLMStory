@@ -1,0 +1,52 @@
+p1: Switched to Tropius
+p2: Switched to Gengar
+Turn 1:
+p2: Gengar used Sludge Wave on Tropius
+p1: Tropius used Substitute on Tropius
+Turn 2:
+p2: Gengar used Sludge Wave on Tropius
+p1: Tropius used Leech Seed on Gengar
+Turn 3:
+p1: Tropius used Protect on Tropius
+p2: Gengar used Sludge Wave on Tropius
+Turn 4:
+p1: Switched to Alomomola
+p2: Gengar used Sludge Wave on Alomomola
+Turn 5:
+p1: Alomomola used Protect on Alomomola
+p2: Gengar used Sludge Wave on Alomomola
+Turn 6:
+p2: Gengar used Sludge Wave on Alomomola
+p1: Alomomola used Wish on Alomomola
+p2: Gengar fainted
+p2: Switched to Terrakion
+Turn 7:
+p1: Switched to Tropius
+p2: Terrakion used Quick Attack on Tropius
+Turn 8:
+p2: Switched to Carracosta
+p1: Tropius used Leech Seed on Carracosta
+Turn 9:
+p2: Switched to Swellow
+p1: Tropius used Substitute on Tropius
+Turn 10:
+p2: Swellow used Quick Attack on Tropius
+p1: Tropius used Leech Seed on Swellow
+Turn 11:
+p1: Tropius used Protect on Tropius
+p2: Swellow used Facade on Tropius
+Turn 12:
+p2: Swellow used Facade on Tropius
+p1: Tropius used Substitute on Tropius
+Turn 13:
+p1: Tropius used Protect on Tropius
+p2: Swellow used Quick Attack on Tropius
+p2: Swellow fainted
+p2: Switched to Ledian
+Turn 14:
+p2: Ledian failed to use Toxic
+p1: Tropius used Leech Seed on Ledian
+Turn 15:
+p1: Tropius used Protect on Tropius
+p2: Ledian used Focus Blast on Tropius
+Turn 16:

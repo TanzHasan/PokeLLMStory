@@ -1,0 +1,100 @@
+p1: Switched to Sneasler
+p2: Switched to Landorus
+Turn 1:
+p1: Sneasler used U-turn on Landorus
+p1: Switched to Iron Hands
+p2: Landorus used Earth Power on Iron Hands
+Turn 2:
+p2: Landorus used Earth Power on Iron Hands
+p1: Iron Hands fainted
+p1: Switched to Iron Valiant
+Turn 3:
+p2: Switched to Clodsire
+p1: Iron Valiant used Moonblast on Clodsire
+Turn 4:
+p1: Iron Valiant used Knock Off on Clodsire
+p2: Clodsire used Toxic on Iron Valiant
+Turn 5:
+p1: Iron Valiant used Close Combat on Clodsire
+p2: Clodsire used Recover on Clodsire
+Turn 6:
+p1: Switched to Zamazenta
+p2: Clodsire used Spikes on Zamazenta
+Turn 7:
+p1: Zamazenta used Substitute on Zamazenta
+p2: Clodsire failed to use Toxic
+Turn 8:
+p2: Switched to Quagsire
+p1: Zamazenta used Iron Defense on Zamazenta
+Turn 9:
+p1: Zamazenta used Body Press on Quagsire
+p2: Quagsire used Stealth Rock on Zamazenta
+Turn 10:
+p1: Switched to Great Tusk
+p2: Quagsire used Body Press on Great Tusk
+Turn 11:
+p1: Great Tusk used Rapid Spin on Quagsire
+p2: Quagsire used Toxic on Great Tusk
+Turn 12:
+p1: Great Tusk used Stealth Rock on Quagsire
+p2: Quagsire used Body Press on Great Tusk
+Turn 13:
+p1: Switched to Sneasler
+p2: Quagsire used Body Press on Sneasler
+Turn 14:
+p1: Sneasler used Dire Claw on Quagsire
+p2: Quagsire can't move
+Turn 15:
+p1: Switched to Iron Valiant
+p2: Quagsire can't move
+Turn 16:
+p1: Iron Valiant used Moonblast on Quagsire
+p2: Quagsire can't move
+Turn 17:
+p2: Switched to Clodsire
+p1: Iron Valiant used Knock Off on Clodsire
+Turn 18:
+p1: Switched to Great Tusk
+p2: Clodsire used Spikes on Great Tusk
+Turn 19:
+p1: Great Tusk used Rapid Spin on Clodsire
+p2: Clodsire used Earthquake on Great Tusk
+Turn 20:
+p1: Great Tusk used Earthquake on Clodsire
+p2: Clodsire fainted
+p2: Switched to Ursaluna-Bloodmoon
+Turn 21:
+p2: Ursaluna-Bloodmoon used Vacuum Wave on Great Tusk
+p1: Great Tusk fainted
+p1: Switched to Sneasler
+Turn 22:
+p2: Switched to Quagsire
+p1: Sneasler used Close Combat on Quagsire
+p2: Quagsire fainted
+p2: Switched to Iron Treads
+Turn 23:
+p1: Sneasler used Close Combat on Iron Treads
+p2: Iron Treads fainted
+p2: Switched to Landorus
+Turn 24:
+p1: Sneasler used Close Combat on Landorus
+p2: Landorus used Earth Power on Sneasler
+p1: Sneasler fainted
+p1: Switched to Iron Valiant
+Turn 25:
+p1: Iron Valiant used Moonblast on Landorus
+p2: Landorus fainted
+p2: Switched to Ursaluna-Bloodmoon
+Turn 26:
+p1: Iron Valiant used Close Combat on Ursaluna-Bloodmoon
+p2: Ursaluna-Bloodmoon used Earth Power on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Urshifu-Rapid-Strike
+Turn 27:
+p2: Switched to Great Tusk
+p1: Urshifu-Rapid-Strike used Aqua Jet on Great Tusk
+Turn 28:
+p1: Urshifu-Rapid-Strike used Surging Strikes on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Ursaluna-Bloodmoon
+p2: Ursaluna-Bloodmoon fainted

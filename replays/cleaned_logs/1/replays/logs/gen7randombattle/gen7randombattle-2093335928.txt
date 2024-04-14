@@ -1,0 +1,18 @@
+p1: Switched to Volcarona
+p2: Switched to Slurpuff
+Turn 1:
+p1: Volcarona used Inferno Overdrive on Slurpuff
+p2: Slurpuff failed to use Belly Drum
+Turn 2:
+p2: Slurpuff used Return on Volcarona
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 3:
+p2: Switched to Mismagius
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 4:
+p1: Volcarona used Fire Blast on Mismagius
+p2: Mismagius failed to use Trick
+Turn 5:
+p2: Switched to Purugly
+p1: Volcarona used Bug Buzz on Purugly
+Turn 6:

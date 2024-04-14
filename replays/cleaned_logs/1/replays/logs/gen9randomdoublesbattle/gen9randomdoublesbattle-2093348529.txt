@@ -1,0 +1,94 @@
+p1: Switched to Electrode-Hisui
+p1: Switched to Samurott-Hisui
+p2: Switched to Jirachi
+p2: Switched to Volcanion
+Turn 1:
+p1: Electrode-Hisui used Thunderbolt on Volcanion
+p2: Jirachi used U-turn on Electrode-Hisui
+p2: Switched to Tinkaton
+p1: Samurott-Hisui used Ceaseless Edge on Volcanion
+p2: Volcanion used Heat Wave on Samurott-Hisui
+p1: Electrode-Hisui fainted
+p1: Switched to Incineroar
+Turn 2:
+p1: Samurott-Hisui used Protect on Samurott-Hisui
+p2: Tinkaton used Fake Out on Samurott-Hisui
+p1: Incineroar used Fake Out on Volcanion
+p2: Volcanion can't move
+Turn 3:
+p2: Tinkaton used Encore on Incineroar
+p1: Samurott-Hisui used Ceaseless Edge on Volcanion
+p2: Volcanion fainted
+p1: Incineroar failed to use Fake Out
+p2: Switched to Regidrago
+Turn 4:
+p1: Switched to Bastiodon
+p2: Regidrago used Dragon Energy on Bastiodon
+p2: Tinkaton used Play Rough on Samurott-Hisui
+p1: Samurott-Hisui fainted
+p1: Switched to Incineroar
+Turn 5:
+p2: Switched to Jirachi
+p1: Bastiodon used Wide Guard on Bastiodon
+p2: Tinkaton failed to use Encore
+p1: Incineroar used Parting Shot on Jirachi
+p1: Switched to Mimikyu
+Turn 6:
+p1: Switched to Incineroar
+p1: Mimikyu used Shadow Sneak on Jirachi
+p2: Jirachi used U-turn on Mimikyu
+p2: Switched to Venomoth
+p2: Tinkaton failed to use Encore
+Turn 7:
+p2: Switched to Jirachi
+p1: Mimikyu used Shadow Sneak on Venomoth
+p2: Venomoth used Sleep Powder on Mimikyu
+p1: Incineroar used Flare Blitz on Venomoth
+p2: Venomoth fainted
+p2: Switched to Giratina-Origin
+Turn 8:
+p1: Mimikyu can't move
+p2: Jirachi used U-turn on Incineroar
+p2: Switched to Tinkaton
+p2: Giratina-Origin used Aura Sphere on Incineroar
+p1: Incineroar used Knock Off on Tinkaton
+Turn 9:
+p1: Switched to Okidogi
+p2: Tinkaton used Fake Out on Okidogi
+p1: Mimikyu used Shadow Sneak on Giratina-Origin
+p2: Giratina-Origin used Aura Sphere on Okidogi
+Turn 10:
+p1: Mimikyu used Shadow Sneak on Giratina-Origin
+p2: Tinkaton used Gigaton Hammer on Mimikyu
+p1: Mimikyu fainted
+p2: Giratina-Origin used Will-O-Wisp on Okidogi
+p1: Okidogi used Knock Off on Giratina-Origin
+p1: Switched to Incineroar
+Turn 11:
+p2: Tinkaton used Play Rough on Incineroar
+p2: Giratina-Origin used Aura Sphere on Incineroar
+p1: Incineroar fainted
+p1: Okidogi used Knock Off on Giratina-Origin
+p1: Switched to Bastiodon
+Turn 12:
+p2: Switched to Jirachi
+p2: Giratina-Origin used Will-O-Wisp on Bastiodon
+p1: Okidogi used Drain Punch on Jirachi
+p2: Jirachi fainted
+p1: Bastiodon used Foul Play on Giratina-Origin
+p2: Switched to Tinkaton
+Turn 13:
+p2: Tinkaton used Fake Out on Bastiodon
+p2: Giratina-Origin failed to use Shadow Force
+p1: Okidogi used Snarl on Giratina-Origin
+p1: Bastiodon can't move
+Turn 14:
+p2: Tinkaton used Gigaton Hammer on Okidogi
+p2: Giratina-Origin used Shadow Force on Okidogi
+p1: Okidogi fainted
+p1: Bastiodon used Iron Defense on Bastiodon
+Turn 15:
+p2: Tinkaton used Encore on Bastiodon
+p2: Giratina-Origin used Aura Sphere on Bastiodon
+p1: Bastiodon used Iron Defense on Bastiodon
+Turn 16:

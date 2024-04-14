@@ -1,0 +1,113 @@
+p1: Switched to Diggersby
+p2: Switched to Hydreigon
+Turn 1:
+p2: Hydreigon used Surf on Diggersby
+p1: Diggersby used Return on Hydreigon
+Turn 2:
+p1: Diggersby used Quick Attack on Hydreigon
+p2: Hydreigon fainted
+p2: Switched to Pinsir
+Turn 3:
+p2: Pinsir used Swords Dance on Pinsir
+p1: Diggersby used Return on Pinsir
+Turn 4:
+p2: Pinsir used Quick Attack on Diggersby
+p1: Diggersby fainted
+p1: Switched to Venomoth
+Turn 5:
+p2: Pinsir used Return on Venomoth
+p1: Venomoth used Bug Buzz on Pinsir
+p2: Pinsir fainted
+p2: Switched to Tornadus
+Turn 6:
+p1: Switched to Magneton
+p2: Tornadus used U-turn on Magneton
+p2: Switched to Quagsire
+Turn 7:
+p1: Magneton used Toxic on Quagsire
+p2: Quagsire used Earthquake on Magneton
+p1: Magneton fainted
+p1: Switched to Altaria
+Turn 8:
+p1: Altaria used Agility on Altaria
+p2: Quagsire used Scald on Altaria
+Turn 9:
+p1: Altaria used Hidden Power on Quagsire
+p2: Quagsire used Recover on Quagsire
+Turn 10:
+p2: Switched to Tornadus
+p1: Altaria used Hidden Power on Tornadus
+Turn 11:
+p1: Altaria used Return on Tornadus
+p2: Tornadus used Hurricane on Altaria
+Turn 12:
+p2: Switched to Cresselia
+p1: Altaria used Return on Cresselia
+Turn 13:
+p1: Switched to Cobalion
+p2: Cresselia used Psyshock on Cobalion
+Turn 14:
+p1: Cobalion used Stealth Rock on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 15:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 16:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia can't move
+Turn 17:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia can't move
+Turn 18:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia can't move
+Turn 19:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 20:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Moonlight on Cresselia
+Turn 21:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 22:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 23:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 24:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Moonlight on Cresselia
+Turn 25:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+Turn 26:
+p1: Cobalion used Iron Head on Cresselia
+p2: Cresselia used Psyshock on Cobalion
+p1: Cobalion fainted
+p1: Switched to Venomoth
+Turn 27:
+p1: Venomoth used Sleep Powder on Cresselia
+p2: Cresselia can't move
+Turn 28:
+p2: Switched to Gengar
+p1: Venomoth used Quiver Dance on Venomoth
+Turn 29:
+p1: Venomoth used Giga Drain on Gengar
+p2: Gengar used Trick on Venomoth
+Turn 30:
+p1: Venomoth used Bug Buzz on Gengar
+p2: Gengar fainted
+p2: Switched to Quagsire
+Turn 31:
+p1: Venomoth used Bug Buzz on Quagsire
+p2: Quagsire fainted
+p2: Switched to Cresselia
+Turn 32:
+p1: Venomoth used Bug Buzz on Cresselia
+p2: Cresselia fainted
+p2: Switched to Tornadus
+Turn 33:
+p1: Venomoth used Bug Buzz on Tornadus
+p2: Tornadus fainted

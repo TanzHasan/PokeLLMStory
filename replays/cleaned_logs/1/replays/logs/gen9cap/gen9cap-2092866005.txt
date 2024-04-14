@@ -1,0 +1,107 @@
+p1: Switched to Gliscor
+p2: Switched to Crucibelle
+Turn 1:
+p1: Gliscor used Protect on Gliscor
+p2: Crucibelle used Trick on Gliscor
+Turn 2:
+p2: Crucibelle used Trick on Gliscor
+p1: Gliscor used Earthquake on Crucibelle
+p2: Crucibelle fainted
+p2: Switched to Gliscor
+Turn 3:
+p1: Switched to Corviknight
+p2: Gliscor used Swords Dance on Gliscor
+Turn 4:
+p2: Gliscor used Facade on Corviknight
+p1: Corviknight used Iron Defense on Corviknight
+Turn 5:
+p2: Switched to Cresceidon
+p1: Corviknight used Brave Bird on Cresceidon
+Turn 6:
+p1: Switched to Garganacl
+p2: Cresceidon used Scald on Garganacl
+Turn 7:
+p2: Cresceidon used Scald on Garganacl
+p1: Garganacl used Salt Cure on Cresceidon
+Turn 8:
+p2: Cresceidon used Encore on Garganacl
+p1: Garganacl used Salt Cure on Cresceidon
+Turn 9:
+p1: Switched to Amoonguss
+p2: Cresceidon used Recover on Cresceidon
+Turn 10:
+p2: Switched to Excadrill
+p1: Amoonguss used Giga Drain on Excadrill
+Turn 11:
+p1: Switched to Corviknight
+p2: Excadrill used Stealth Rock on Corviknight
+Turn 12:
+p2: Switched to Cresceidon
+p1: Corviknight used Defog on Cresceidon
+Turn 13:
+p1: Switched to Garganacl
+p2: Cresceidon used Recover on Cresceidon
+Turn 14:
+p2: Cresceidon used Scald on Garganacl
+p1: Garganacl fainted
+p1: Switched to Amoonguss
+Turn 15:
+p2: Switched to Gliscor
+p1: Amoonguss used Giga Drain on Gliscor
+Turn 16:
+p2: Switched to Raging Bolt
+p1: Switched to Corviknight
+Turn 17:
+p1: Switched to Amoonguss
+p2: Raging Bolt used Thunderbolt on Amoonguss
+Turn 18:
+p2: Switched to Gliscor
+p1: Amoonguss used Sludge Bomb on Gliscor
+Turn 19:
+p1: Switched to Gliscor
+p2: Gliscor used Swords Dance on Gliscor
+Turn 20:
+p1: Gliscor used Spikes on Gliscor
+p2: Gliscor used Swords Dance on Gliscor
+Turn 21:
+p1: Switched to Corviknight
+p2: Switched to Excadrill
+Turn 22:
+p2: Switched to Cresceidon
+p1: Corviknight used Brave Bird on Cresceidon
+Turn 23:
+p1: Switched to Amoonguss
+p2: Cresceidon used Scald on Amoonguss
+Turn 24:
+p2: Switched to Gliscor
+p1: Amoonguss used Giga Drain on Gliscor
+Turn 25:
+p2: Switched to Cresceidon
+p1: Amoonguss used Sludge Bomb on Cresceidon
+Turn 26:
+p2: Cresceidon used Recover on Cresceidon
+p1: Amoonguss used Sludge Bomb on Cresceidon
+Turn 27:
+p2: Cresceidon used Recover on Cresceidon
+p1: Amoonguss used Stomping Tantrum on Cresceidon
+Turn 28:
+p2: Switched to Gliscor
+p1: Amoonguss used Stomping Tantrum on Gliscor
+Turn 29:
+p2: Gliscor used Facade on Amoonguss
+p1: Amoonguss used Sludge Bomb on Gliscor
+Turn 30:
+p1: Switched to Corviknight
+p2: Gliscor used Swords Dance on Gliscor
+Turn 31:
+p2: Switched to Cresceidon
+p1: Corviknight used Brave Bird on Cresceidon
+Turn 32:
+p1: Switched to Gliscor
+p2: Cresceidon used Scald on Gliscor
+Turn 33:
+p2: Switched to Excadrill
+p1: Gliscor used Earthquake on Excadrill
+p2: Excadrill fainted
+p2: Switched to Darkrai
+Turn 34:

@@ -1,0 +1,227 @@
+p1: Switched to Ditto
+p2: Switched to Jynx
+Turn 1:
+p2: Jynx used Lovely Kiss on Ditto
+p1: Ditto used Transform on Jynx
+Turn 2:
+p2: Jynx used Lovely Kiss on Ditto
+p1: Ditto can't move
+Turn 3:
+p2: Jynx used Seismic Toss on Ditto
+Turn 4:
+p2: Jynx used Lovely Kiss on Ditto
+Turn 5:
+p2: Jynx used Lovely Kiss on Ditto
+p1: Ditto used Lovely Kiss on Jynx
+Turn 6:
+p2: Switched to Chansey
+p1: Ditto used Seismic Toss on Chansey
+Turn 7:
+p1: Ditto used Psychic on Chansey
+p2: Chansey used Thunderbolt on Ditto
+Turn 8:
+p1: Ditto used Blizzard on Chansey
+p2: Chansey used Thunderbolt on Ditto
+Turn 9:
+p1: Ditto used Blizzard on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 10:
+p1: Ditto used Blizzard on Chansey
+p2: Chansey used Thunderbolt on Ditto
+p1: Ditto fainted
+p1: Switched to Snorlax
+Turn 11:
+p2: Chansey used Sing on Snorlax
+p1: Snorlax used Body Slam on Chansey
+Turn 12:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 13:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 14:
+p2: Chansey used Sing on Snorlax
+Turn 15:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 16:
+p2: Chansey used Sing on Snorlax
+p1: Snorlax used Body Slam on Chansey
+Turn 17:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 18:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 19:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 20:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Snorlax used Body Slam on Chansey
+Turn 21:
+p2: Chansey used Sing on Snorlax
+p1: Snorlax can't move
+Turn 22:
+p2: Switched to Starmie
+p1: Snorlax can't move
+Turn 23:
+p2: Starmie used Psychic on Snorlax
+p1: Snorlax can't move
+Turn 24:
+p2: Starmie used Psychic on Snorlax
+p1: Snorlax can't move
+Turn 25:
+p2: Starmie used Psychic on Snorlax
+p1: Snorlax can't move
+Turn 26:
+p1: Switched to Chansey
+p2: Starmie used Psychic on Chansey
+Turn 27:
+p2: Switched to Chansey
+p1: Chansey used Blizzard on Chansey
+Turn 28:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Chansey used Blizzard on Chansey
+Turn 29:
+p1: Chansey used Blizzard on Chansey
+p2: Chansey used Ice Beam on Chansey
+Turn 30:
+p2: Chansey used Ice Beam on Chansey
+p1: Chansey used Blizzard on Chansey
+Turn 31:
+p1: Chansey used Blizzard on Chansey
+p2: Chansey used Ice Beam on Chansey
+Turn 32:
+p1: Chansey used Blizzard on Chansey
+p2: Chansey used Ice Beam on Chansey
+Turn 33:
+p1: Chansey used Blizzard on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 34:
+p1: Chansey used Blizzard on Chansey
+p2: Chansey used Ice Beam on Chansey
+Turn 35:
+p2: Chansey used Ice Beam on Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 36:
+p1: Switched to Jynx
+p2: Chansey used Ice Beam on Jynx
+Turn 37:
+p2: Switched to Starmie
+p1: Jynx used Blizzard on Starmie
+Turn 38:
+p2: Switched to Chansey
+p1: Jynx used Psychic on Chansey
+Turn 39:
+p1: Jynx used Psychic on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 40:
+p1: Jynx used Psychic on Chansey
+p2: Chansey used Thunderbolt on Jynx
+Turn 41:
+p2: Switched to Starmie
+p1: Jynx used Psychic on Starmie
+Turn 42:
+p2: Switched to Slowbro
+p1: Jynx used Psychic on Slowbro
+Turn 43:
+p1: Switched to Jolteon
+p2: Slowbro used Amnesia on Slowbro
+Turn 44:
+p1: Jolteon used Thunderbolt on Slowbro
+p2: Slowbro used Thunder Wave on Jolteon
+Turn 45:
+p2: Slowbro used Psychic on Jolteon
+p1: Jolteon used Agility on Jolteon
+Turn 46:
+p1: Jolteon used Thunderbolt on Slowbro
+p2: Slowbro used Amnesia on Slowbro
+Turn 47:
+p1: Jolteon used Thunderbolt on Slowbro
+p2: Slowbro fainted
+p2: Switched to Snorlax
+Turn 48:
+p1: Jolteon used Thunder Wave on Snorlax
+p2: Snorlax used Body Slam on Jolteon
+Turn 49:
+p1: Jolteon used Thunderbolt on Snorlax
+p2: Snorlax used Body Slam on Jolteon
+p1: Jolteon fainted
+p1: Switched to Tauros
+Turn 50:
+p1: Tauros used Hyper Beam on Snorlax
+p2: Snorlax fainted
+p2: Switched to Tauros
+Turn 51:
+p1: Switched to Jynx
+p2: Tauros used Body Slam on Jynx
+p1: Jynx fainted
+p1: Switched to Chansey
+Turn 52:
+p2: Switched to Chansey
+p1: Chansey used Thunder Wave on Chansey
+Turn 53:
+p1: Switched to Snorlax
+p2: Chansey can't move
+Turn 54:
+p2: Chansey can't move
+Turn 55:
+p2: Switched to Starmie
+p1: Snorlax used Rest on Snorlax
+Turn 56:
+p2: Switched to Tauros
+p1: Snorlax can't move
+Turn 57:
+p1: Switched to Chansey
+p2: Tauros used Body Slam on Chansey
+Turn 58:
+p2: Tauros used Body Slam on Chansey
+p1: Chansey fainted
+p1: Switched to Tauros
+Turn 59:
+p1: Tauros used Body Slam on Tauros
+p2: Tauros used Body Slam on Tauros
+Turn 60:
+p2: Tauros used Body Slam on Tauros
+p1: Tauros used Body Slam on Tauros
+Turn 61:
+p2: Switched to Chansey
+p1: Tauros used Hyper Beam on Chansey
+Turn 62:
+p1: Tauros can't move
+p2: Chansey used Sing on Tauros
+Turn 63:
+p1: Switched to Snorlax
+p2: Chansey used Ice Beam on Snorlax
+Turn 64:
+p2: Chansey can't move
+Turn 65:
+p1: Snorlax used Reflect on Snorlax
+p2: Chansey can't move
+Turn 66:
+p1: Snorlax used Body Slam on Chansey
+p2: Chansey fainted
+p2: Switched to Tauros
+Turn 67:
+p2: Tauros used Blizzard on Snorlax
+p1: Snorlax used Body Slam on Tauros
+Turn 68:
+p2: Tauros used Hyper Beam on Snorlax
+p1: Snorlax used Body Slam on Tauros
+p2: Tauros fainted
+p2: Switched to Jynx
+Turn 69:
+p2: Jynx can't move
+p1: Snorlax used Body Slam on Jynx
+Turn 70:
+p1: Snorlax used Body Slam on Jynx
+p2: Jynx fainted
+p2: Switched to Starmie
+Turn 71:
+p2: Starmie can't move
+p1: Snorlax used Body Slam on Starmie
+Turn 72:
+p2: Starmie can't move
+p1: Snorlax used Body Slam on Starmie
+p2: Starmie fainted

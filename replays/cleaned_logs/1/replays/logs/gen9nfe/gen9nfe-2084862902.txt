@@ -1,0 +1,158 @@
+p1: Switched to Morgrem
+p2: Switched to Dunsparce
+Turn 1:
+p1: Morgrem used Reflect on Morgrem
+p2: Dunsparce used Glare on Morgrem
+Turn 2:
+p1: Morgrem used Light Screen on Morgrem
+p2: Dunsparce used Earth Power on Morgrem
+Turn 3:
+p2: Switched to Sliggoo-Hisui
+p1: Switched to Servine
+Turn 4:
+p2: Switched to Crocalor
+p1: Servine used Glare on Crocalor
+Turn 5:
+p1: Switched to Naclstack
+p2: Crocalor can't move
+Turn 6:
+p2: Switched to Hattrem
+p1: Naclstack used Stealth Rock on Hattrem
+p2: Hattrem used Stealth Rock on Naclstack
+Turn 7:
+p1: Switched to Servine
+p2: Hattrem used Calm Mind on Hattrem
+Turn 8:
+p1: Servine used Leaf Storm on Hattrem
+p2: Hattrem used Calm Mind on Hattrem
+Turn 9:
+p1: Servine used Leaf Storm on Hattrem
+p2: Hattrem used Calm Mind on Hattrem
+Turn 10:
+p1: Servine used Leaf Storm on Hattrem
+p2: Hattrem used Psychic on Servine
+p1: Servine fainted
+p1: Switched to Pikachu
+Turn 11:
+p2: Switched to Crocalor
+p1: Pikachu used Knock Off on Crocalor
+Turn 12:
+p1: Pikachu used Volt Switch on Crocalor
+p1: Switched to Naclstack
+p2: Crocalor can't move
+Turn 13:
+p2: Switched to Dunsparce
+p1: Naclstack used Salt Cure on Dunsparce
+Turn 14:
+p2: Dunsparce used Earth Power on Naclstack
+p1: Naclstack used Salt Cure on Dunsparce
+Turn 15:
+p2: Switched to Crocalor
+p1: Naclstack used Stealth Rock on Crocalor
+Turn 16:
+p1: Naclstack used Salt Cure on Crocalor
+p2: Crocalor fainted
+p2: Switched to Thwackey
+Turn 17:
+p2: Thwackey used Wood Hammer on Naclstack
+p1: Naclstack fainted
+p1: Switched to Morgrem
+Turn 18:
+p2: Switched to Hattrem
+p1: Morgrem used Reflect on Morgrem
+Turn 19:
+p1: Morgrem used Light Screen on Morgrem
+p2: Hattrem used Calm Mind on Hattrem
+Turn 20:
+p1: Morgrem can't move
+p2: Hattrem used Calm Mind on Hattrem
+Turn 21:
+p1: Morgrem used Parting Shot on Hattrem
+p2: Hattrem used Parting Shot on Morgrem
+p2: Switched to Sliggoo-Hisui
+Turn 22:
+p1: Morgrem used Parting Shot on Sliggoo-Hisui
+p1: Switched to Meditite
+p2: Sliggoo-Hisui used Acid Spray on Meditite
+Turn 23:
+p2: Switched to Dunsparce
+p1: Meditite used High Jump Kick on Dunsparce
+p2: Dunsparce fainted
+p2: Switched to Thwackey
+Turn 24:
+p2: Switched to Grovyle
+p1: Meditite used High Jump Kick on Grovyle
+p2: Grovyle fainted
+p2: Switched to Hattrem
+Turn 25:
+p1: Meditite used High Jump Kick on Hattrem
+p2: Hattrem used Draining Kiss on Meditite
+Turn 26:
+p1: Meditite used High Jump Kick on Hattrem
+p1: Meditite fainted
+p2: Hattrem used Draining Kiss on p1: Meditite
+p1: Switched to Pikachu
+Turn 27:
+p2: Switched to Sliggoo-Hisui
+p1: Pikachu used Knock Off on Sliggoo-Hisui
+Turn 28:
+p1: Pikachu used Volt Switch on Sliggoo-Hisui
+p1: Switched to Morgrem
+p2: Sliggoo-Hisui used Acid Spray on Morgrem
+Turn 29:
+p1: Morgrem used Light Screen on Morgrem
+p2: Sliggoo-Hisui used Flash Cannon on Morgrem
+Turn 30:
+p1: Morgrem used Reflect on Morgrem
+p2: Sliggoo-Hisui used Rest on Sliggoo-Hisui
+Turn 31:
+p2: Switched to Hattrem
+p1: Morgrem used Parting Shot on Hattrem
+p2: Hattrem used Parting Shot on Morgrem
+p2: Switched to Thwackey
+Turn 32:
+p2: Switched to Hattrem
+p1: Morgrem used Parting Shot on Hattrem
+p2: Hattrem used Parting Shot on Morgrem
+p2: Switched to Sliggoo-Hisui
+Turn 33:
+p1: Morgrem used Parting Shot on Sliggoo-Hisui
+p1: Switched to Sinistea
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui failed to use Rest
+Turn 34:
+p1: Sinistea used Shell Smash on Sinistea
+p2: Sliggoo-Hisui can't move
+p2: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Acid Spray on Sinistea
+Turn 35:
+p1: Sinistea used Shadow Ball on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Flash Cannon on Sinistea
+Turn 36:
+p2: Switched to Hattrem
+p2: Hattrem fainted
+p1: Sinistea used Shadow Ball on p2: Hattrem
+p2: Switched to Sliggoo-Hisui
+Turn 37:
+p1: Sinistea used Shadow Ball on Sliggoo-Hisui
+p2: Sliggoo-Hisui fainted
+p2: Switched to Thwackey
+Turn 38:
+p2: Thwackey used Grassy Glide on Sinistea
+p1: Sinistea fainted
+p1: Switched to Pikachu
+Turn 39:
+p1: Pikachu used Fake Out on Thwackey
+p2: Thwackey can't move
+Turn 40:
+p1: Switched to Morgrem
+p2: Thwackey used Grassy Glide on Morgrem
+p1: Morgrem fainted
+p1: Switched to Pikachu
+Turn 41:
+p1: Pikachu used Fake Out on Thwackey
+p2: Thwackey can't move
+Turn 42:
+p2: Thwackey used Grassy Glide on Pikachu
+p1: Pikachu fainted

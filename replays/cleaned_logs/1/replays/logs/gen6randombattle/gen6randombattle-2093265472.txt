@@ -1,0 +1,22 @@
+p1: Switched to Blastoise
+p2: Switched to Primeape
+Turn 1:
+p2: Primeape used U-turn on Blastoise
+p2: Switched to Poliwrath
+p1: Blastoise used Scald on Poliwrath
+Turn 2:
+p1: Blastoise used Toxic on Poliwrath
+p2: Poliwrath used Circle Throw on Blastoise
+Turn 3:
+p2: Poliwrath used Scald on p1a: Heatmor
+p1: p1a: Heatmor used Giga Drain on Poliwrath
+Turn 4:
+p2: Switched to Florges
+p1: Switched to Parasect
+Turn 5:
+p2: Florges used Toxic on Parasect
+p1: Parasect used Spore on Florges
+Turn 6:
+p2: Switched to Flareon
+p1: Parasect used Aromatherapy on Parasect
+Turn 7:

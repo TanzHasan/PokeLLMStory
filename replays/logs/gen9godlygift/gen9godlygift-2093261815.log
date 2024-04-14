@@ -1,0 +1,445 @@
+|j|☆Kin+ak (✧∇✧)
+|j|☆Iisacar
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711931689
+|gametype|singles
+|player|p1|Kin+ak (✧∇✧)|wally|
+|player|p2|Iisacar|burglar|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Godly Gift
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Talonflame, F|
+|poke|p1|Milotic, M|
+|poke|p1|Zacian-*|
+|poke|p1|Pecharunt|
+|poke|p1|Glastrier|
+|poke|p2|Skarmory, F|
+|poke|p2|Eternatus|
+|poke|p2|Slowking, F|
+|poke|p2|Serperior, F|
+|poke|p2|Iron Treads|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|c|☆Iisacar|Glhf
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711931722
+|start
+|switch|p1a: Milotic|Milotic, M|100/100
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|turn|1
+|
+|t:|1711931727
+|move|p1a: Milotic|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|74/100
+|move|p2a: Skarmory|Spikes|p1a: Milotic
+|-sidestart|p1: Kin+ak (✧∇✧)|Spikes
+|
+|-status|p1a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1711931732
+|move|p1a: Milotic|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|50/100
+|move|p2a: Skarmory|Spikes|p1a: Milotic
+|-sidestart|p1: Kin+ak (✧∇✧)|Spikes
+|
+|-damage|p1a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711931735
+|move|p1a: Milotic|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|22/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|72/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-damage|p1a: Milotic|88/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711931741
+|move|p1a: Milotic|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|44/100
+|move|p2a: Skarmory|Spikes|p1a: Milotic
+|-sidestart|p1: Kin+ak (✧∇✧)|Spikes
+|
+|-damage|p1a: Milotic|82/100 brn|[from] brn
+|upkeep
+|turn|5
+|c|☆Kin+ak (✧∇✧)|Sheer force ftw
+|
+|t:|1711931750
+|move|p1a: Milotic|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|17/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|67/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-damage|p1a: Milotic|76/100 brn|[from] brn
+|upkeep
+|turn|6
+|c|☆Iisacar|lol
+|
+|t:|1711931769
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Milotic|Scald|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|89/100
+|
+|-damage|p1a: Milotic|70/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711931784
+|move|p1a: Milotic|Flip Turn|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|86/100
+|
+|t:|1711931805
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|-damage|p1a: Pecharunt|75/100|[from] Spikes
+|move|p2a: Slowking|Future Sight|p1a: Pecharunt
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Pecharunt|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711931809
+|move|p1a: Pecharunt|Malignant Chain|p2a: Slowking
+|-damage|p2a: Slowking|60/100
+|-status|p2a: Slowking|tox
+|-start|p2a: Slowking|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|-activate|p2a: Slowking|confusion
+|move|p2a: Slowking|Chilly Reception|p2a: Slowking
+|-weather|Snow
+|
+|t:|1711931821
+|switch|p2a: Urshifu|Urshifu, M|100/100|[from] Chilly Reception
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Pecharunt|88/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711931830
+|switch|p1a: Milotic|Milotic, M|70/100 brn
+|-damage|p1a: Milotic|45/100 brn|[from] Spikes
+|move|p2a: Urshifu|Wicked Blow|p1a: Milotic
+|-crit|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|-weather|Snow|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1711931836
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|75/100|[from] Spikes
+|turn|10
+|
+|t:|1711931839
+|move|p2a: Urshifu|Wicked Blow|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711931852
+|switch|p1a: Pecharunt|Pecharunt|88/100
+|-damage|p1a: Pecharunt|63/100|[from] Spikes
+|turn|11
+|
+|t:|1711931854
+|-terastallize|p1a: Pecharunt|Fairy
+|move|p2a: Urshifu|Wicked Blow|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-crit|p1a: Pecharunt
+|-damage|p1a: Pecharunt|40/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Urshifu
+|-damage|p2a: Urshifu|57/100
+|-status|p2a: Urshifu|tox
+|-start|p2a: Urshifu|confusion|[from] ability: Poison Puppeteer|[of] p1a: Pecharunt
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Pecharunt|46/100|[from] item: Leftovers
+|-damage|p2a: Urshifu|51/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1711931863
+|switch|p2a: Skarmory|Skarmory, F|67/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|96/100
+|
+|-weather|none
+|-heal|p1a: Pecharunt|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711931866
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Skarmory|Whirlwind|p1a: Pecharunt
+|drag|p1a: Zacian|Zacian-Crowned|100/100
+|-damage|p1a: Zacian|76/100|[from] Spikes
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|
+|upkeep
+|turn|14
+|
+|t:|1711931875
+|move|p1a: Zacian|Close Combat|p2a: Skarmory
+|-damage|p2a: Skarmory|40/100
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|-damage|p1a: Zacian|59/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|90/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|15
+|
+|t:|1711931880
+|switch|p1a: Pecharunt|Pecharunt, tera:Fairy|100/100
+|-damage|p1a: Pecharunt|75/100|[from] Spikes
+|move|p2a: Skarmory|Whirlwind|p1a: Pecharunt
+|drag|p1a: Glastrier|Glastrier|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711931889
+|move|p1a: Glastrier|Swords Dance|p1a: Glastrier
+|-boost|p1a: Glastrier|atk|2
+|move|p2a: Skarmory|Brave Bird|p1a: Glastrier
+|-damage|p1a: Glastrier|73/100
+|-damage|p2a: Skarmory|84/100|[from] Recoil
+|
+|upkeep
+|turn|17
+|
+|t:|1711931897
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|43/100
+|cant|p2a: Skarmory|flinch
+|
+|upkeep
+|turn|18
+|
+|t:|1711931904
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|3/100
+|cant|p2a: Skarmory|flinch
+|
+|upkeep
+|turn|19
+|c|☆Iisacar|serene grace ftw
+|j| MicrowavedFood
+|c|☆Kin+ak (✧∇✧)|Ah well he traded secondary efdects
+|c|☆Kin+ak (✧∇✧)|With milotic
+|inactive|Kin+ak (✧∇✧) has 120 seconds left.
+|c|☆Kin+ak (✧∇✧)|My pokemon are businessmen
+|c|☆Iisacar|mmm
+|
+|t:|1711931943
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711931963
+|switch|p2a: Serperior|Serperior, F|100/100
+|turn|20
+|
+|t:|1711931968
+|move|p2a: Serperior|Leaf Storm|p1a: Glastrier|[miss]
+|-miss|p2a: Serperior|p1a: Glastrier
+|move|p1a: Glastrier|Icicle Crash|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711931979
+|switch|p2a: Slowking|Slowking, F|93/100 tox
+|turn|21
+|c|☆Kin+ak (✧∇✧)|Uno reversed
+|c|☆Iisacar|I’m definitely cooked now
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711931997
+|move|p1a: Glastrier|High Horsepower|p2a: Slowking
+|-damage|p2a: Slowking|19/100 tox
+|move|p2a: Slowking|Scald|p1a: Glastrier
+|-damage|p1a: Glastrier|46/100
+|
+|-damage|p2a: Slowking|13/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711932003
+|move|p1a: Glastrier|High Horsepower|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-ability|p1a: Glastrier|Chilling Neigh|boost
+|-boost|p1a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1711932010
+|switch|p2a: Urshifu|Urshifu, M|51/100 tox
+|turn|23
+|inactive|Iisacar has 120 seconds left.
+|inactive|Kin+ak (✧∇✧) has 120 seconds left.
+|
+|t:|1711932045
+|-terastallize|p2a: Urshifu|Dark
+|move|p2a: Urshifu|Sucker Punch|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|
+|-damage|p2a: Urshifu|45/100 tox|[from] psn
+|upkeep
+|
+|t:|1711932048
+|switch|p1a: Talonflame|Talonflame, F|100/100
+|turn|24
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711932062
+|switch|p2a: Eternatus|Eternatus|100/100
+|-ability|p2a: Eternatus|Pressure
+|move|p1a: Talonflame|Swords Dance|p1a: Talonflame
+|-boost|p1a: Talonflame|atk|2
+|
+|upkeep
+|turn|25
+|inactive|Iisacar has 120 seconds left.
+|
+|t:|1711932067
+|move|p1a: Talonflame|Acrobatics|p2a: Eternatus
+|-damage|p2a: Eternatus|14/100
+|move|p2a: Eternatus|Dynamax Cannon|p1a: Talonflame
+|-damage|p1a: Talonflame|15/100
+|
+|upkeep
+|turn|26
+|
+|t:|1711932073
+|move|p1a: Talonflame|Acrobatics|p2a: Eternatus
+|-damage|p2a: Eternatus|0 fnt
+|faint|p2a: Eternatus
+|
+|upkeep
+|
+|t:|1711932076
+|switch|p2a: Urshifu|Urshifu, M, tera:Dark|45/100 tox
+|turn|27
+|
+|t:|1711932083
+|move|p2a: Urshifu|Wicked Blow|p1a: Talonflame
+|-crit|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|-damage|p2a: Urshifu|39/100 tox|[from] psn
+|upkeep
+|
+|t:|1711932085
+|switch|p1a: Pecharunt|Pecharunt, tera:Fairy|75/100
+|-damage|p1a: Pecharunt|50/100|[from] Spikes
+|turn|28
+|
+|t:|1711932098
+|switch|p2a: Iron Treads|Iron Treads|100/100
+|move|p1a: Pecharunt|Recover|p1a: Pecharunt
+|-heal|p1a: Pecharunt|100/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711932106
+|switch|p1a: Zacian|Zacian-Crowned|59/100
+|-damage|p1a: Zacian|34/100|[from] Spikes
+|move|p2a: Iron Treads|Knock Off|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|26/100
+|
+|upkeep
+|turn|30
+|c|☆Iisacar|I should’ve spinned
+|
+|t:|1711932118
+|move|p1a: Zacian|Close Combat|p2a: Iron Treads
+|-supereffective|p2a: Iron Treads
+|-crit|p2a: Iron Treads
+|-damage|p2a: Iron Treads|0 fnt
+|-unboost|p1a: Zacian|def|1
+|-unboost|p1a: Zacian|spd|1
+|faint|p2a: Iron Treads
+|-end|p2a: Iron Treads|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711932121
+|switch|p2a: Urshifu|Urshifu, M, tera:Dark|39/100 tox
+|turn|31
+|
+|t:|1711932124
+|move|p2a: Urshifu|Sucker Punch|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|-damage|p2a: Urshifu|33/100 tox|[from] psn
+|upkeep
+|c|☆Iisacar|gg
+|
+|t:|1711932126
+|switch|p1a: Pecharunt|Pecharunt, tera:Fairy|100/100
+|-damage|p1a: Pecharunt|75/100|[from] Spikes
+|turn|32
+|
+|t:|1711932129
+|move|p2a: Urshifu|Sucker Punch|p1a: Pecharunt
+|-resisted|p1a: Pecharunt
+|-damage|p1a: Pecharunt|55/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|win|Kin+ak (✧∇✧)
+|n|☆Kin+ak (✧∇✧)|kinak
+|n|☆Iisacar|iisacar
+|n| MicrowavedFood|microwavedfood
+|l|☆Iisacar
+|player|p2|
+|l|☆Kin+ak (✧∇✧)
+|player|p1|

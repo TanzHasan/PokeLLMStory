@@ -1,0 +1,334 @@
+|j|☆morceaupanda12
+|j|☆LunaticDTS
+|t:|1711941036
+|gametype|singles
+|player|p1|morceaupanda12|169|
+|player|p2|LunaticDTS|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711941036
+|start
+|switch|p1a: Malamar|Malamar, L82, M|275/275
+|switch|p2a: Gothitelle|Gothitelle, L89, F|269/269
+|turn|1
+|
+|t:|1711941060
+|move|p1a: Malamar|Knock Off|p2a: Gothitelle
+|-supereffective|p2a: Gothitelle
+|-damage|p2a: Gothitelle|101/269
+|-enditem|p2a: Gothitelle|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|move|p2a: Gothitelle|Psychic|p1a: Malamar
+|-immune|p1a: Malamar
+|
+|upkeep
+|turn|2
+|
+|t:|1711941068
+|move|p1a: Malamar|Knock Off|p2a: Gothitelle
+|-supereffective|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|
+|upkeep
+|
+|t:|1711941086
+|switch|p2a: Spiritomb|Spiritomb, L92, F|241/241
+|turn|3
+|
+|t:|1711941101
+|-zpower|p1a: Malamar
+|move|p1a: Malamar|Z-Happy Hour|p1a: Malamar|[anim]Happy Hour
+|-boost|p1a: Malamar|atk|1|[zeffect]
+|-boost|p1a: Malamar|def|1|[zeffect]
+|-boost|p1a: Malamar|spa|1|[zeffect]
+|-boost|p1a: Malamar|spd|1|[zeffect]
+|-boost|p1a: Malamar|spe|1|[zeffect]
+|move|p2a: Spiritomb|Will-O-Wisp|p1a: Malamar
+|-status|p1a: Malamar|brn
+|
+|-damage|p1a: Malamar|258/275 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711941135
+|switch|p2a: Trevenant|Trevenant, L90, F|299/299
+|move|p1a: Malamar|Superpower|p2a: Trevenant
+|-immune|p2a: Trevenant
+|
+|-damage|p1a: Malamar|241/275 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1711941146
+|move|p1a: Malamar|Psycho Cut|p2a: Trevenant
+|-damage|p2a: Trevenant|247/299
+|move|p2a: Trevenant|Rock Slide|p1a: Malamar
+|-damage|p1a: Malamar|180/275 brn
+|-damage|p2a: Trevenant|218/299|[from] item: Life Orb
+|
+|-damage|p1a: Malamar|163/275 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1711941158
+|move|p1a: Malamar|Knock Off|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|74/299
+|-enditem|p2a: Trevenant|Life Orb|[from] move: Knock Off|[of] p1a: Malamar
+|move|p2a: Trevenant|Horn Leech|p1a: Malamar
+|-damage|p1a: Malamar|94/275 brn
+|-heal|p2a: Trevenant|109/299|[from] drain|[of] p1a: Malamar
+|
+|-damage|p1a: Malamar|77/275 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711941169
+|move|p1a: Malamar|Knock Off|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|7/299
+|move|p2a: Trevenant|Shadow Claw|p1a: Malamar
+|-damage|p1a: Malamar|10/275 brn
+|
+|-damage|p1a: Malamar|0 fnt|[from] brn
+|faint|p1a: Malamar
+|upkeep
+|
+|t:|1711941181
+|switch|p1a: Beartic|Beartic, L90, F|317/317
+|turn|8
+|
+|t:|1711941201
+|move|p1a: Beartic|Icicle Crash|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|faint|p2a: Trevenant
+|-damage|p1a: Beartic|286/317|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711941205
+|switch|p2a: Pyroar|Pyroar, L88, F|295/295
+|-ability|p2a: Pyroar|Unnerve
+|turn|9
+|
+|t:|1711941213
+|move|p2a: Pyroar|Fire Blast|p1a: Beartic
+|-supereffective|p1a: Beartic
+|-damage|p1a: Beartic|0 fnt
+|faint|p1a: Beartic
+|-damage|p2a: Pyroar|266/295|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711941223
+|switch|p1a: Lapras|Lapras, L87, M|368/368
+|turn|10
+|
+|t:|1711941244
+|switch|p2a: Spiritomb|Spiritomb, L92, F|241/241
+|move|p1a: Lapras|Hydro Pump|p2a: Spiritomb|[miss]
+|-miss|p1a: Lapras|p2a: Spiritomb
+|
+|upkeep
+|turn|11
+|
+|t:|1711941265
+|move|p1a: Lapras|Hydro Pump|p2a: Spiritomb|[miss]
+|-miss|p1a: Lapras|p2a: Spiritomb
+|move|p2a: Spiritomb|Pursuit|p1a: Lapras
+|-damage|p1a: Lapras|310/368
+|
+|-heal|p1a: Lapras|333/368|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711941288
+|move|p2a: Spiritomb|Sucker Punch|p1a: Lapras
+|-damage|p1a: Lapras|234/368
+|move|p1a: Lapras|Hydro Pump|p2a: Spiritomb|[miss]
+|-miss|p1a: Lapras|p2a: Spiritomb
+|
+|-heal|p1a: Lapras|257/368|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711941296
+|move|p1a: Lapras|Hydro Pump|p2a: Spiritomb
+|-damage|p2a: Spiritomb|147/241
+|move|p2a: Spiritomb|Will-O-Wisp|p1a: Lapras|[miss]
+|-miss|p2a: Spiritomb|p1a: Lapras
+|
+|-heal|p1a: Lapras|280/368|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711941305
+|switch|p2a: Venomoth|Venomoth, L82, F|249/249
+|move|p1a: Lapras|Hydro Pump|p2a: Venomoth
+|-damage|p2a: Venomoth|125/249
+|
+|-heal|p1a: Lapras|303/368|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711941323
+|-zpower|p2a: Venomoth
+|move|p2a: Venomoth|Savage Spin-Out|p1a: Lapras|[zeffect]
+|-damage|p1a: Lapras|156/368
+|move|p1a: Lapras|Hydro Pump|p2a: Venomoth
+|-damage|p2a: Venomoth|5/249
+|
+|-heal|p1a: Lapras|179/368|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711941339
+|move|p2a: Venomoth|Roost|p2a: Venomoth
+|-heal|p2a: Venomoth|130/249
+|-singleturn|p2a: Venomoth|move: Roost
+|move|p1a: Lapras|Hydro Pump|p2a: Venomoth
+|-damage|p2a: Venomoth|7/249
+|
+|-heal|p1a: Lapras|202/368|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711941347
+|move|p2a: Venomoth|Roost|p2a: Venomoth
+|-heal|p2a: Venomoth|132/249
+|-singleturn|p2a: Venomoth|move: Roost
+|move|p1a: Lapras|Hydro Pump|p2a: Venomoth
+|-damage|p2a: Venomoth|5/249
+|
+|-heal|p1a: Lapras|225/368|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711941355
+|move|p2a: Venomoth|Roost|p2a: Venomoth
+|-heal|p2a: Venomoth|130/249
+|-singleturn|p2a: Venomoth|move: Roost
+|move|p1a: Lapras|Freeze-Dry|p2a: Venomoth
+|-damage|p2a: Venomoth|51/249
+|
+|-heal|p1a: Lapras|248/368|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711941367
+|move|p2a: Venomoth|Roost|p2a: Venomoth
+|-heal|p2a: Venomoth|176/249
+|-singleturn|p2a: Venomoth|move: Roost
+|move|p1a: Lapras|Freeze-Dry|p2a: Venomoth
+|-damage|p2a: Venomoth|91/249
+|
+|-heal|p1a: Lapras|271/368|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711941376
+|move|p2a: Venomoth|Roost|p2a: Venomoth
+|-heal|p2a: Venomoth|216/249
+|-singleturn|p2a: Venomoth|move: Roost
+|move|p1a: Lapras|Freeze-Dry|p2a: Venomoth
+|-damage|p2a: Venomoth|126/249
+|
+|-heal|p1a: Lapras|294/368|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711941391
+|switch|p2a: Toxapex|Toxapex, L80, F|211/211
+|move|p1a: Lapras|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|115/211
+|
+|-heal|p1a: Lapras|317/368|[from] item: Leftovers
+|-heal|p2a: Toxapex|128/211|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1711941402
+|move|p1a: Lapras|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|26/211
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|132/211
+|
+|-heal|p1a: Lapras|340/368|[from] item: Leftovers
+|-heal|p2a: Toxapex|145/211|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1711941417
+|move|p1a: Lapras|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|35/211
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|141/211
+|
+|-heal|p1a: Lapras|363/368|[from] item: Leftovers
+|-heal|p2a: Toxapex|154/211|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1711941428
+|move|p1a: Lapras|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|58/211
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|164/211
+|
+|-heal|p1a: Lapras|368/368|[from] item: Leftovers
+|-heal|p2a: Toxapex|177/211|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1711941442
+|switch|p2a: Spiritomb|Spiritomb, L92, F|147/241
+|move|p1a: Lapras|Freeze-Dry|p2a: Spiritomb
+|-damage|p2a: Spiritomb|86/241
+|
+|upkeep
+|turn|26
+|
+|t:|1711941486
+|move|p1a: Lapras|Freeze-Dry|p2a: Spiritomb
+|-damage|p2a: Spiritomb|32/241
+|move|p2a: Spiritomb|Foul Play|p1a: Lapras
+|-damage|p1a: Lapras|265/368
+|
+|-heal|p1a: Lapras|288/368|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711941505
+|switch|p2a: Venomoth|Venomoth, L82, F|126/249
+|move|p1a: Lapras|Freeze-Dry|p2a: Venomoth
+|-damage|p2a: Venomoth|48/249
+|-status|p2a: Venomoth|frz
+|
+|-heal|p1a: Lapras|311/368|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711941519
+|cant|p2a: Venomoth|frz
+|move|p1a: Lapras|Freeze-Dry|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|
+|-heal|p1a: Lapras|334/368|[from] item: Leftovers
+|upkeep
+|-message|LunaticDTS forfeited.
+|
+|win|morceaupanda12
+|l|☆LunaticDTS
+|player|p2|

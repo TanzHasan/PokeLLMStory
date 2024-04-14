@@ -1,0 +1,139 @@
+p1: Switched to Glalie
+p2: Switched to Skarmory
+Turn 1:
+p2: Switched to Tyranitar
+p1: Glalie used Taunt on Tyranitar
+Turn 2:
+p1: Switched to Swampert
+p2: Tyranitar used Rock Slide on Swampert
+Turn 3:
+p2: Switched to Celebi
+p1: Swampert used Hydro Pump on Celebi
+Turn 4:
+p1: Switched to Glalie
+p2: Celebi used Swords Dance on Celebi
+Turn 5:
+p1: Glalie used Spikes on Celebi
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Tyranitar
+Turn 6:
+p1: Glalie used Spikes on Tyranitar
+p2: Tyranitar used Dragon Dance on Tyranitar
+Turn 7:
+p2: Tyranitar used Rock Slide on Glalie
+p1: Glalie fainted
+p1: Switched to Jolteon
+Turn 8:
+p1: Jolteon used Thunderbolt on Tyranitar
+p2: Tyranitar used Dragon Dance on Tyranitar
+Turn 9:
+p1: Switched to Gengar
+p2: Tyranitar used Earthquake on Gengar
+Turn 10:
+p2: Tyranitar used Rock Slide on Gengar
+p1: Gengar fainted
+p1: Switched to Swampert
+Turn 11:
+p2: Tyranitar used Hyper Beam on Swampert
+p1: Swampert fainted
+p1: Switched to Jolteon
+Turn 12:
+p2: Tyranitar can't move
+p1: Jolteon used Roar on Tyranitar
+Turn 13:
+p1: Switched to Moltres
+p2: p2a: Grimace used Rapid Spin on Moltres
+Turn 14:
+p1: Moltres used Hidden Power on p2a: Grimace
+p2: p2a: Grimace used Rock Slide on Moltres
+p1: Moltres fainted
+p1: Switched to Jolteon
+Turn 15:
+p1: Jolteon used Hidden Power on p2a: Grimace
+p2: p2a: Grimace fainted
+p2: Switched to Tyranitar
+Turn 16:
+p1: Jolteon used Thunderbolt on Tyranitar
+p2: Tyranitar fainted
+p2: Switched to Celebi
+Turn 17:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Leech Seed on Jolteon
+Turn 18:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Recover on Celebi
+Turn 19:
+p2: Celebi used Swords Dance on Celebi
+p1: Jolteon used Roar on Celebi
+Turn 20:
+p2: Switched to Celebi
+p1: Jolteon used Thunderbolt on Celebi
+Turn 21:
+p1: Switched to Tyranitar
+p2: Switched to Skarmory
+Turn 22:
+p1: Tyranitar used Dragon Dance on Tyranitar
+p2: Skarmory used Spikes on Tyranitar
+Turn 23:
+p1: Tyranitar used Dragon Dance on Tyranitar
+p2: Skarmory used Roar on Tyranitar
+Turn 24:
+p2: Switched to Celebi
+p1: Jolteon used Thunderbolt on Celebi
+Turn 25:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Recover on Celebi
+Turn 26:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Recover on Celebi
+Turn 27:
+p2: Switched to Skarmory
+p1: Jolteon used Hidden Power on Skarmory
+Turn 28:
+p2: Switched to Celebi
+p1: Jolteon used Thunderbolt on Celebi
+Turn 29:
+p1: Jolteon used Thunderbolt on Celebi
+p2: Celebi used Recover on Celebi
+Turn 30:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Leech Seed on Jolteon
+Turn 31:
+p1: Jolteon used Thunderbolt on Celebi
+p2: Celebi used Recover on Celebi
+Turn 32:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Recover on Celebi
+Turn 33:
+p1: Jolteon used Hidden Power on Celebi
+p2: Celebi used Recover on Celebi
+p1: Jolteon fainted
+p1: Switched to Tyranitar
+Turn 34:
+p2: Celebi used Leech Seed on Tyranitar
+p1: Tyranitar used Dragon Dance on Tyranitar
+Turn 35:
+p1: Tyranitar used Dragon Dance on Tyranitar
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Skarmory
+Turn 36:
+p1: Tyranitar used Rock Slide on Skarmory
+p2: Skarmory used Taunt on Tyranitar
+Turn 37:
+p2: Switched to Celebi
+p1: Tyranitar used Rock Slide on Celebi
+Turn 38:
+p2: Switched to Skarmory
+p1: Tyranitar used Rock Slide on Skarmory
+Turn 39:
+p2: Switched to Celebi
+p1: Tyranitar used Dragon Dance on Tyranitar
+Turn 40:
+p1: Tyranitar used Rock Slide on Celebi
+p2: Celebi fainted
+p2: Switched to Banette
+Turn 41:
+p1: Tyranitar used Rock Slide on Banette
+p2: Banette fainted
+p2: Switched to Skarmory
+p1: Tyranitar fainted

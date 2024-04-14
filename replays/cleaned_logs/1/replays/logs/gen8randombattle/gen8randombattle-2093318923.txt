@@ -1,0 +1,77 @@
+p1: Switched to Oranguru
+p2: Switched to Aurorus
+Turn 1:
+p2: Switched to Gothitelle
+p1: Oranguru used Max Knuckle on Gothitelle
+Turn 2:
+p2: Gothitelle used Thunderbolt on Oranguru
+p1: Oranguru used Max Lightning on Gothitelle
+Turn 3:
+p2: Gothitelle used Thunderbolt on Oranguru
+p1: Oranguru can't move
+Turn 4:
+p2: Gothitelle used Nasty Plot on Gothitelle
+p1: Oranguru used Thunderbolt on Gothitelle
+Turn 5:
+p2: Gothitelle used Thunderbolt on Oranguru
+p1: Oranguru used Thunderbolt on Gothitelle
+Turn 6:
+p2: Gothitelle used Thunderbolt on Oranguru
+p1: Oranguru fainted
+p1: Switched to Tapu Fini
+Turn 7:
+p1: Tapu Fini used Surf on Gothitelle
+p2: Gothitelle fainted
+p2: Switched to Vileplume
+Turn 8:
+p1: Tapu Fini used Taunt on Vileplume
+p2: Vileplume used Sludge Bomb on Tapu Fini
+Turn 9:
+p1: Switched to Cryogonal
+p2: Vileplume used Sludge Bomb on Cryogonal
+Turn 10:
+p2: Switched to Aurorus
+p1: Cryogonal used Freeze-Dry on Aurorus
+Turn 11:
+p1: Cryogonal used Toxic on Aurorus
+p2: Aurorus used Ancient Power on Cryogonal
+p1: Cryogonal fainted
+p1: Switched to Urshifu
+Turn 12:
+p2: Switched to Vileplume
+p1: Urshifu used Substitute on Urshifu
+Turn 13:
+p1: Urshifu used Bulk Up on Urshifu
+p2: Vileplume used Sludge Bomb on Urshifu
+Turn 14:
+p1: Urshifu used Wicked Blow on Vileplume
+p2: Vileplume used Sludge Bomb on Urshifu
+Turn 15:
+p1: Urshifu used Wicked Blow on Vileplume
+p2: Vileplume fainted
+p2: Switched to Altaria
+Turn 16:
+p1: Switched to Arcanine
+p2: Altaria used Draco Meteor on Arcanine
+Turn 17:
+p1: Arcanine used Morning Sun on Arcanine
+p2: Altaria used Toxic on Arcanine
+Turn 18:
+p1: Arcanine used Toxic on Altaria
+p2: Altaria failed to use Roost
+Turn 19:
+p1: Switched to Urshifu
+p2: Altaria used Roost on Altaria
+Turn 20:
+p2: Altaria used Draco Meteor on Urshifu
+p1: Urshifu fainted
+p1: Switched to Tapu Fini
+Turn 21:
+p2: Switched to Aurorus
+p1: Tapu Fini used Moonblast on Aurorus
+Turn 22:
+p1: Tapu Fini used Surf on Aurorus
+p2: Aurorus used Freeze-Dry on Tapu Fini
+p1: Tapu Fini fainted
+p1: Switched to Beheeyem
+Turn 23:

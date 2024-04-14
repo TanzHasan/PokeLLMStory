@@ -1,0 +1,42 @@
+p1: Switched to Pincurchin
+p2: Switched to Aggron
+Turn 1:
+p2: Switched to Celebi
+p1: Pincurchin used Rising Voltage on Celebi
+Turn 2:
+p1: Switched to Regice
+p2: Celebi used Nasty Plot on Celebi
+Turn 3:
+p2: Switched to Bronzong
+p1: Regice used Ice Beam on Bronzong
+Turn 4:
+p1: Switched to Dracozolt
+p2: Bronzong used Toxic on Dracozolt
+Turn 5:
+p2: Bronzong used Protect on Bronzong
+p1: Dracozolt used Bolt Beak on Bronzong
+Turn 6:
+p2: Switched to Celebi
+p1: Dracozolt used Bolt Beak on Celebi
+Turn 7:
+p1: Switched to Regice
+p2: Celebi used Recover on Celebi
+Turn 8:
+p2: Switched to Bronzong
+p1: Regice used Thunderbolt on Bronzong
+Turn 9:
+p1: Switched to Pincurchin
+p2: Bronzong used Earthquake on Pincurchin
+Turn 10:
+p2: Switched to Celebi
+p1: Pincurchin used Rising Voltage on Celebi
+Turn 11:
+p2: Celebi used Nasty Plot on Celebi
+p1: Pincurchin used Spikes on Celebi
+Turn 12:
+p1: Pincurchin failed to use Sucker Punch
+p2: Celebi used Nasty Plot on Celebi
+Turn 13:
+p1: Pincurchin failed to use Sucker Punch
+p2: Celebi used Nasty Plot on Celebi
+Turn 14:

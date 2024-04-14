@@ -1,0 +1,132 @@
+p1: Switched to Skarmory
+p2: Switched to Salamence
+Turn 1:
+p2: Switched to Forretress
+p1: Switched to Aerodactyl
+Turn 2:
+p1: Switched to Banette
+p2: Forretress used Spikes on Banette
+Turn 3:
+p2: Switched to Houndoom
+p1: Banette used Will-O-Wisp on Houndoom
+Turn 4:
+p2: Houndoom used Pursuit on Banette
+p1: Switched to Aerodactyl
+Turn 5:
+p1: Switched to Skarmory
+p2: Switched to Salamence
+Turn 6:
+p2: Switched to Forretress
+p1: Skarmory used Spikes on Forretress
+Turn 7:
+p1: Skarmory used Taunt on Forretress
+p2: Forretress used Hidden Power on Skarmory
+Turn 8:
+p1: Switched to Donphan
+p2: Forretress used Hidden Power on Donphan
+Turn 9:
+p1: Donphan used Rapid Spin on Forretress
+p2: Forretress used Rapid Spin on Donphan
+Turn 10:
+p1: Donphan used Earthquake on Forretress
+p2: Forretress used Spikes on Donphan
+Turn 11:
+p2: Switched to Salamence
+p1: Donphan used Rapid Spin on Salamence
+Turn 12:
+p1: Switched to Skarmory
+p2: Salamence used Hidden Power on Skarmory
+Turn 13:
+p2: Switched to Forretress
+p1: Skarmory used Drill Peck on Forretress
+Turn 14:
+p1: Skarmory used Spikes on Forretress
+p2: Forretress used Hidden Power on Skarmory
+Turn 15:
+p1: Switched to Banette
+p2: Forretress used Spikes on Banette
+Turn 16:
+p2: Switched to Houndoom
+p1: Banette used Knock Off on Houndoom
+Turn 17:
+p2: Houndoom used Crunch on Banette
+p1: Banette fainted
+p1: Switched to Tyranitar
+Turn 18:
+p2: Switched to Salamence
+p1: Tyranitar used Dragon Dance on Tyranitar
+Turn 19:
+p2: Switched to Metagross
+p1: Tyranitar used Rock Slide on Metagross
+Turn 20:
+p1: Switched to Donphan
+p2: Metagross used Meteor Mash on Donphan
+Turn 21:
+p2: Switched to Salamence
+p1: Donphan used Earthquake on Salamence
+Turn 22:
+p2: Salamence used Hidden Power on Donphan
+p1: Donphan used Rock Slide on Salamence
+Turn 23:
+p2: Salamence used Hidden Power on Donphan
+p1: Donphan fainted
+p1: Switched to Aerodactyl
+Turn 24:
+p2: Switched to Metagross
+p1: Aerodactyl used Earthquake on Metagross
+p2: Metagross fainted
+p2: Switched to Salamence
+Turn 25:
+p1: Switched to Skarmory
+p2: Salamence used Brick Break on Skarmory
+p1: Skarmory fainted
+p1: Switched to Celebi
+Turn 26:
+p2: Switched to Houndoom
+p1: Celebi used Swords Dance on Celebi
+Turn 27:
+p2: Houndoom used Fire Blast on Celebi
+p1: Celebi used Baton Pass on Celebi
+p1: Switched to Tyranitar
+Turn 28:
+p2: Switched to Salamence
+p1: Tyranitar used Dragon Dance on Tyranitar
+Turn 29:
+p2: Switched to Blissey
+p1: Tyranitar used Rock Slide on Blissey
+Turn 30:
+p2: Switched to Salamence
+p1: Tyranitar used Dragon Dance on Tyranitar
+p2: Salamence fainted
+p2: Switched to Snorlax
+Turn 31:
+p1: Tyranitar used Rock Slide on Snorlax
+p2: Snorlax used Self-Destruct on Tyranitar
+p2: Snorlax fainted
+p1: Tyranitar fainted
+p1: Switched to Aerodactyl
+p2: Switched to Forretress
+Turn 32:
+p1: Switched to Celebi
+p2: Forretress used Hidden Power on Celebi
+Turn 33:
+p1: Celebi used Recover on Celebi
+p2: Forretress used Hidden Power on Celebi
+Turn 34:
+p1: Celebi used Recover on Celebi
+p2: Forretress used Hidden Power on Celebi
+Turn 35:
+p1: Celebi used Swords Dance on Celebi
+p2: Forretress used Hidden Power on Celebi
+Turn 36:
+p1: Celebi used Baton Pass on Celebi
+p1: Switched to Aerodactyl
+p2: Forretress used Hidden Power on Aerodactyl
+Turn 37:
+p1: Aerodactyl used Earthquake on Forretress
+p2: Forretress used Explosion on Aerodactyl
+p2: Forretress fainted
+p2: Switched to Houndoom
+Turn 38:
+p1: Aerodactyl used Earthquake on Houndoom
+p2: Houndoom fainted

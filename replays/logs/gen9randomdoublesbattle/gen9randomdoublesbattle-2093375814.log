@@ -1,0 +1,136 @@
+|j|☆deltazo
+|j|☆loldontforfeit317
+|t:|1711946912
+|gametype|doubles
+|player|p1|deltazo|juggler|1526
+|player|p2|loldontforfeit317|101|1618
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711946912
+|start
+|switch|p1a: Oricorio|Oricorio-Pa'u, L88, M|275/275
+|switch|p1b: Spectrier|Spectrier, L78|284/284
+|switch|p2a: Ludicolo|Ludicolo, L89, M|287/287
+|switch|p2b: Blaziken|Blaziken, L80, F|259/259
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deltazo)
+|inactive|loldontforfeit317 has 120 seconds left.
+|
+|t:|1711946969
+|move|p2b: Blaziken|Protect|p2b: Blaziken
+|-singleturn|p2b: Blaziken|Protect
+|move|p1b: Spectrier|Nasty Plot|p1b: Spectrier
+|-boost|p1b: Spectrier|spa|2
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Ludicolo|Rain Dance|p2a: Ludicolo
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|-ability|p2b: Blaziken|Speed Boost|boost
+|-boost|p2b: Blaziken|spe|1
+|upkeep
+|turn|2
+|inactive|deltazo has 120 seconds left.
+|
+|t:|1711947001
+|move|p2a: Ludicolo|Muddy Water|p1b: Spectrier|[spread] p1b
+|-miss|p2a: Ludicolo|p1a: Oricorio
+|-damage|p1b: Spectrier|107/284
+|-damage|p2a: Ludicolo|259/287|[from] item: Life Orb
+|move|p1a: Oricorio|Revelation Dance|p2b: Blaziken
+|-supereffective|p2b: Blaziken
+|-damage|p2b: Blaziken|0 fnt
+|faint|p2b: Blaziken
+|move|p1b: Spectrier|Draining Kiss|p2a: Ludicolo
+|-damage|p2a: Ludicolo|156/287
+|-heal|p1b: Spectrier|184/284|[from] drain|[of] p2a: Ludicolo
+|-damage|p1b: Spectrier|156/284|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711947016
+|switch|p2b: Basculin|Basculin-Blue-Striped, L87, M|264/264
+|turn|3
+|
+|t:|1711947027
+|move|p2b: Basculin|Aqua Jet|p1a: Oricorio
+|-damage|p1a: Oricorio|163/275
+|move|p2a: Ludicolo|Muddy Water|p1a: Oricorio|[spread] p1a,p1b
+|-damage|p1a: Oricorio|49/275
+|-damage|p1b: Spectrier|0 fnt
+|faint|p1b: Spectrier
+|-damage|p2a: Ludicolo|128/287|[from] item: Life Orb
+|move|p1a: Oricorio|Hurricane|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Oricorio|66/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947046
+|switch|p1b: Zekrom|Zekrom, L72|263/263
+|switch|p2a: Gallade|Gallade, L81, M|243/243
+|-ability|p1b: Zekrom|Teravolt
+|turn|4
+|
+|t:|1711947064
+|move|p1a: Oricorio|Protect|p1a: Oricorio
+|-singleturn|p1a: Oricorio|Protect
+|move|p2b: Basculin|Aqua Jet|p1a: Oricorio
+|-activate|p1a: Oricorio|move: Protect
+|move|p2a: Gallade|Sacred Sword|p1b: Zekrom
+|-crit|p1b: Zekrom
+|-damage|p1b: Zekrom|46/263
+|move|p1b: Zekrom|Bolt Strike|p2b: Basculin
+|-supereffective|p2b: Basculin
+|-damage|p2b: Basculin|0 fnt
+|faint|p2b: Basculin
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Oricorio|83/275|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947077
+|switch|p2b: Chien-Pao|Chien-Pao, L76|247/247
+|-ability|p2b: Chien-Pao|Sword of Ruin
+|turn|5
+|
+|t:|1711947091
+|-terastallize|p1a: Oricorio|Fighting
+|move|p1a: Oricorio|Hurricane|p2a: Gallade
+|-supereffective|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|move|p2b: Chien-Pao|Lash Out|p1a: Oricorio
+|-resisted|p1a: Oricorio
+|-damage|p1a: Oricorio|9/275
+|-damage|p2b: Chien-Pao|223/247|[from] item: Life Orb
+|move|p1b: Zekrom|Bolt Strike|p2b: Chien-Pao
+|-damage|p2b: Chien-Pao|61/247
+|
+|-weather|none
+|-heal|p1a: Oricorio|26/275|[from] item: Leftovers
+|upkeep
+|c|☆loldontforfeit317|gg
+|-message|loldontforfeit317 forfeited.
+|
+|win|deltazo
+|raw|deltazo's rating: 1526 &rarr; <strong>1551</strong><br />(+25 for winning)
+|raw|loldontforfeit317's rating: 1618 &rarr; <strong>1593</strong><br />(-25 for losing)
+|l|☆loldontforfeit317
+|player|p2|
+|c|☆deltazo|gg

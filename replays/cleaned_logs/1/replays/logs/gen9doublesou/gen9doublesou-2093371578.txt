@@ -1,0 +1,23 @@
+p1: Switched to Oricorio-Sensu
+p1: Switched to Klawf
+p2: Switched to Indeedee
+p2: Switched to Talonflame
+Turn 1:
+p2: Talonflame used Tailwind on Talonflame
+p2: Indeedee used Expanding Force on Klawf
+p1: Klawf used Stone Edge on Talonflame
+p2: Talonflame fainted
+p1: Oricorio-Sensu used Tailwind on Oricorio-Sensu
+p2: Switched to Chi-Yu
+Turn 2:
+p2: Chi-Yu used Dark Pulse on Klawf
+p1: Klawf fainted
+p2: Indeedee used Expanding Force on Oricorio-Sensu
+p1: Oricorio-Sensu fainted
+p1: Switched to Cetitan
+p1: Switched to Veluza
+Turn 3:
+p2: Chi-Yu used Dark Pulse on Veluza
+p1: Veluza fainted
+p2: Indeedee used Expanding Force on Cetitan
+p1: Cetitan fainted

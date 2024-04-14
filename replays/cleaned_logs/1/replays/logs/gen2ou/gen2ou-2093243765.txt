@@ -1,0 +1,69 @@
+p1: Switched to Electrode
+p2: Switched to Vaporeon
+Turn 1:
+p1: Electrode used Thunder Wave on Vaporeon
+p2: Vaporeon used Surf on Electrode
+Turn 2:
+p1: Electrode used Thunderbolt on Vaporeon
+p2: Vaporeon can't move
+Turn 3:
+p2: Switched to Marowak
+p1: Electrode used Thunderbolt on Marowak
+Turn 4:
+p1: Electrode used Hidden Power on Marowak
+p2: Marowak used Swords Dance on Marowak
+Turn 5:
+p1: Electrode used Explosion on Marowak
+p1: Electrode fainted
+p2: Marowak fainted
+p1: Switched to Vileplume
+p2: Switched to Charmeleon
+Turn 6:
+p1: Switched to Tentacruel
+p2: Charmeleon used Sunny Day on Charmeleon
+Turn 7:
+p1: Tentacruel used Substitute on Tentacruel
+p2: Charmeleon used Fire Blast on Tentacruel
+Turn 8:
+p1: Tentacruel used Swords Dance on Tentacruel
+p2: Charmeleon used Toxic on Tentacruel
+Turn 9:
+p2: Switched to Vaporeon
+p1: Tentacruel used Swords Dance on Tentacruel
+Turn 10:
+p1: Tentacruel used Sludge Bomb on Vaporeon
+p2: Vaporeon fainted
+p2: Switched to Poliwrath
+Turn 11:
+p1: Tentacruel used Sludge Bomb on Poliwrath
+p2: Poliwrath used Lovely Kiss on Tentacruel
+Turn 12:
+p2: Switched to Venusaur
+p1: Tentacruel used Sludge Bomb on Venusaur
+Turn 13:
+p2: Switched to Piloswine
+p1: Tentacruel used Sludge Bomb on Piloswine
+Turn 14:
+p1: Tentacruel used Surf on Piloswine
+p2: Piloswine used Earthquake on Tentacruel
+Turn 15:
+p1: Tentacruel used Surf on Piloswine
+p2: Piloswine fainted
+p2: Switched to Charmeleon
+Turn 16:
+p1: Tentacruel used Surf on Charmeleon
+p2: Charmeleon used Hidden Power on Tentacruel
+Turn 17:
+p2: Switched to Poliwrath
+p1: Tentacruel used Surf on Poliwrath
+Turn 18:
+p1: Tentacruel used Sludge Bomb on Poliwrath
+p2: Poliwrath fainted
+p2: Switched to Charmeleon
+Turn 19:
+p1: Tentacruel used Surf on Charmeleon
+p2: Charmeleon fainted
+p2: Switched to Venusaur
+Turn 20:
+p1: Tentacruel used Sludge Bomb on Venusaur
+p2: Venusaur fainted

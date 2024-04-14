@@ -1,0 +1,40 @@
+p1: Switched to Galvantula
+p2: Switched to Ambipom
+Turn 1:
+p2: Ambipom used Fake Out on Galvantula
+p1: Galvantula can't move
+Turn 2:
+p2: Ambipom used Double Hit on Galvantula
+p1: Galvantula fainted
+p1: Switched to Torterra
+Turn 3:
+p2: Ambipom used Triple Axel on Torterra
+p1: Torterra fainted
+p1: Switched to Gallade
+Turn 4:
+p2: Switched to Cloyster
+p1: Gallade used Sacred Sword on Cloyster
+Turn 5:
+p2: Cloyster used Ice Shard on Gallade
+p1: Gallade used Sacred Sword on Cloyster
+p2: Cloyster fainted
+p2: Switched to Ambipom
+Turn 6:
+p1: Switched to Oricorio-Sensu
+p2: Ambipom used Double Hit on Oricorio-Sensu
+Turn 7:
+p2: Ambipom used Triple Axel on Oricorio-Sensu
+p1: Oricorio-Sensu used Revelation Dance on Ambipom
+p2: Ambipom fainted
+p2: Switched to Krookodile
+Turn 8:
+p2: Krookodile used Knock Off on Oricorio-Sensu
+p1: Oricorio-Sensu fainted
+p1: Switched to Gallade
+Turn 9:
+p2: Krookodile used Knock Off on Gallade
+p1: Gallade fainted
+p1: Switched to Espeon
+Turn 10:
+p2: Krookodile used Knock Off on Espeon
+p1: Espeon fainted

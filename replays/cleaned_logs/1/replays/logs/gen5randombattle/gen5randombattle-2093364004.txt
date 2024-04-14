@@ -1,0 +1,67 @@
+p1: Switched to Dodrio
+p2: Switched to Tropius
+Turn 1:
+p2: Switched to Probopass
+p1: Dodrio used Brave Bird on Probopass
+Turn 2:
+p1: Switched to Carnivine
+p2: Probopass used Thunder Wave on Carnivine
+Turn 3:
+p2: Probopass used Volt Switch on Carnivine
+p2: Switched to Reshiram
+p1: Carnivine used Power Whip on Reshiram
+Turn 4:
+p2: Reshiram used Flame Charge on Carnivine
+p1: Carnivine used Knock Off on Reshiram
+Turn 5:
+p2: Reshiram used Flame Charge on Carnivine
+p1: Carnivine can't move
+Turn 6:
+p2: Reshiram used Flame Charge on Carnivine
+p1: Carnivine fainted
+p1: Switched to Dodrio
+Turn 7:
+p2: Reshiram used Blue Flare on Dodrio
+p1: Dodrio used Return on Reshiram
+p1: Dodrio fainted
+p1: Switched to Crawdaunt
+Turn 8:
+p2: Reshiram used Draco Meteor on Crawdaunt
+p1: Crawdaunt used Crunch on Reshiram
+p2: Reshiram fainted
+p1: Crawdaunt fainted
+p2: Switched to Probopass
+p1: Switched to Cloyster
+Turn 9:
+p1: Cloyster used Shell Smash on Cloyster
+p2: Probopass used Thunder Wave on Cloyster
+Turn 10:
+p2: Probopass used Power Gem on Cloyster
+p1: Cloyster fainted
+p1: Switched to Pinsir
+Turn 11:
+p1: Pinsir used Stealth Rock on Probopass
+p2: Probopass used Power Gem on Pinsir
+Turn 12:
+p1: Pinsir used Earthquake on Probopass
+p2: Probopass fainted
+p2: Switched to Granbull
+Turn 13:
+p1: Switched to Exeggutor
+p2: Granbull used Thunder Wave on Exeggutor
+Turn 14:
+p2: Granbull used Crunch on Exeggutor
+p1: Exeggutor used Leech Seed on Granbull
+Turn 15:
+p2: Switched to Tropius
+p1: Exeggutor used Substitute on Exeggutor
+Turn 16:
+p2: Tropius used Substitute on Tropius
+p1: Exeggutor used Psychic on Tropius
+Turn 17:
+p2: Tropius used Air Slash on Exeggutor
+p1: Exeggutor used Psychic on Tropius
+Turn 18:
+p2: Tropius used Air Slash on Exeggutor
+p1: Exeggutor used Psychic on Tropius
+Turn 19:

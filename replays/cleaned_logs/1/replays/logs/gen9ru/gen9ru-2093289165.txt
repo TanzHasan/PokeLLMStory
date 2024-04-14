@@ -1,0 +1,29 @@
+p1: Switched to Enamorus-Therian
+p2: Switched to Thwackey
+Turn 1:
+p2: Thwackey used Taunt on Enamorus-Therian
+p1: Enamorus-Therian can't move
+Turn 2:
+p2: Thwackey used U-turn on Enamorus-Therian
+p2: Switched to Sceptile
+p1: Enamorus-Therian used Draining Kiss on Sceptile
+Turn 3:
+p2: Sceptile used Swords Dance on Sceptile
+p1: Enamorus-Therian used Draining Kiss on Sceptile
+Turn 4:
+p2: Sceptile used Swords Dance on Sceptile
+p1: Enamorus-Therian used Draining Kiss on Sceptile
+Turn 5:
+p2: Sceptile used Rock Slide on Enamorus-Therian
+p1: Enamorus-Therian used Draining Kiss on Sceptile
+p2: Sceptile fainted
+p2: Switched to Basculegion
+Turn 6:
+p2: Basculegion used Head Smash on Enamorus-Therian
+p1: Enamorus-Therian used Agility on Enamorus-Therian
+Turn 7:
+p1: Enamorus-Therian used Calm Mind on Enamorus-Therian
+p2: Basculegion used Head Smash on Enamorus-Therian
+Turn 8:
+p1: Enamorus-Therian used Draining Kiss on Basculegion
+p2: Basculegion fainted

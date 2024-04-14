@@ -1,0 +1,79 @@
+p1: Switched to Heatran
+p2: Switched to Infernape
+Turn 1:
+p2: Infernape used Fake Out on Heatran
+p1: Heatran can't move
+Turn 2:
+p1: Heatran used Earth Power on Infernape
+p2: Infernape used Stealth Rock on Heatran
+Turn 3:
+p1: Heatran used Earth Power on Infernape
+p2: Infernape fainted
+p2: Switched to Togekiss
+Turn 4:
+p1: Switched to Blissey
+p2: Togekiss used Thunder Wave on Blissey
+Turn 5:
+p1: Switched to Heatran
+p2: Togekiss used Air Slash on Heatran
+Turn 6:
+p1: Heatran used Stealth Rock on Togekiss
+p2: Togekiss used Thunder Wave on Heatran
+Turn 7:
+p1: Switched to Blissey
+p2: Togekiss used Air Slash on Blissey
+Turn 8:
+p2: Togekiss used Air Slash on Blissey
+p1: Blissey can't move
+Turn 9:
+p2: Togekiss used Air Slash on Blissey
+p1: Blissey used Wish on Blissey
+Turn 10:
+p2: Togekiss used Thunder Wave on Blissey
+p1: Blissey used Heal Bell on Blissey
+Turn 11:
+p1: Blissey used Protect on Blissey
+p2: Togekiss used Ancient Power on Blissey
+Turn 12:
+p2: Togekiss used Ancient Power on Blissey
+p1: Blissey used Wish on Blissey
+Turn 13:
+p1: Switched to Heatran
+p2: Togekiss used Ancient Power on Heatran
+Turn 14:
+p2: Togekiss used Thunder Wave on Heatran
+p1: Heatran can't move
+Turn 15:
+p1: Switched to Blissey
+p2: Togekiss used Air Slash on Blissey
+Turn 16:
+p1: Blissey used Protect on Blissey
+p2: Togekiss used Ancient Power on Blissey
+Turn 17:
+p2: Togekiss used Ancient Power on Blissey
+p1: Blissey used Wish on Blissey
+Turn 18:
+p2: Togekiss used Ancient Power on Blissey
+p1: Blissey used Seismic Toss on Togekiss
+Turn 19:
+p2: Togekiss used Thunder Wave on Blissey
+p1: Blissey can't move
+Turn 20:
+p1: Switched to Heatran
+p2: Togekiss used Ancient Power on Heatran
+Turn 21:
+p2: Togekiss used Ancient Power on Heatran
+p1: Heatran fainted
+p1: Switched to Blissey
+Turn 22:
+p2: Togekiss used Air Slash on Blissey
+p1: Blissey used Seismic Toss on Togekiss
+Turn 23:
+p2: Togekiss used Air Slash on Blissey
+p1: Blissey used Seismic Toss on Togekiss
+Turn 24:
+p1: Blissey used Protect on Blissey
+p2: Togekiss used Air Slash on Blissey
+Turn 25:
+p2: Togekiss used Air Slash on Blissey
+p1: Blissey fainted

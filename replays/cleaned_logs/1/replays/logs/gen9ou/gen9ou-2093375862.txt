@@ -1,0 +1,26 @@
+p1: Switched to Lycanroc
+p2: Switched to Kyurem
+Turn 1:
+p1: Lycanroc used Stealth Rock on Kyurem
+p2: Kyurem used Earth Power on Lycanroc
+Turn 2:
+p2: Switched to Skarmory
+p1: Lycanroc used Endeavor on Skarmory
+p1: Lycanroc fainted
+p1: Switched to Meowscarada
+Turn 3:
+p1: Meowscarada used Flower Trick on Skarmory
+p2: Skarmory fainted
+p2: Switched to Incineroar
+Turn 4:
+p1: Meowscarada used U-turn on Incineroar
+p1: Switched to Milotic
+p2: Incineroar used Knock Off on Milotic
+Turn 5:
+p1: Milotic used Recover on Milotic
+p2: Incineroar used Parting Shot on Milotic
+p2: Switched to Kyurem
+Turn 6:
+p2: Kyurem used Freeze-Dry on Milotic
+p1: Milotic used Scald on Kyurem
+Turn 7:

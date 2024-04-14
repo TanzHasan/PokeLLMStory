@@ -1,0 +1,18 @@
+p1: Switched to Tapu Fini
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Switched to Ferrothorn
+p1: Tapu Fini used Trick on Ferrothorn
+Turn 2:
+p1: Tapu Fini used Scald on Ferrothorn
+p2: Ferrothorn used Spikes on Tapu Fini
+Turn 3:
+p2: Switched to Bisharp
+p1: Tapu Fini used Defog on Bisharp
+Turn 4:
+p1: Tapu Fini used Scald on Bisharp
+p2: Bisharp used Iron Head on Tapu Fini
+Turn 5:
+p1: Switched to Magmortar
+p2: Bisharp used Iron Head on Magmortar
+Turn 6:

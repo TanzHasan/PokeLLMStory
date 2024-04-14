@@ -1,0 +1,426 @@
+|j|☆cluntnpoop
+|j|☆mcmuslim
+|t:|1710810658
+|gametype|singles
+|player|p1|cluntnpoop|101|
+|player|p2|mcmuslim|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Raboot, M|
+|poke|p1|Floragato, F|
+|poke|p1|Arctibax, F|
+|poke|p1|Wartortle, M|
+|poke|p1|Sliggoo-Hisui, F|
+|poke|p1|Misdreavus, M|
+|poke|p2|Morgrem, M|
+|poke|p2|Thwackey, F|
+|poke|p2|Porygon|
+|poke|p2|Fletchinder, M|
+|poke|p2|Croconaw, F|
+|poke|p2|Gabite, M|
+|teampreview
+|j| Bigbill36321
+|
+|t:|1710810704
+|start
+|switch|p1a: Big Man|Arctibax, F, shiny|100/100
+|switch|p2a: Morgrem|Morgrem, M|100/100
+|turn|1
+|
+|t:|1710810710
+|move|p2a: Morgrem|Reflect|p2a: Morgrem
+|-sidestart|p2: mcmuslim|Reflect
+|move|p1a: Big Man|Swords Dance|p1a: Big Man
+|-boost|p1a: Big Man|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1710810722
+|move|p2a: Morgrem|Parting Shot|p1a: Big Man
+|-unboost|p1a: Big Man|atk|1
+|-unboost|p1a: Big Man|spa|1
+|
+|t:|1710810729
+|switch|p2a: Porygon|Porygon|100/100|[from] Parting Shot
+|move|p1a: Big Man|Brick Break|p2a: Porygon
+|-sideend|p2: mcmuslim|Reflect
+|-supereffective|p2a: Porygon
+|-damage|p2a: Porygon|53/100
+|
+|upkeep
+|turn|3
+|
+|t:|1710810790
+|switch|p2a: Fletchinder|Fletchinder, M|100/100
+|move|p1a: Big Man|Avalanche|p2a: Fletchinder
+|-damage|p2a: Fletchinder|7/100
+|
+|upkeep
+|turn|4
+|
+|t:|1710810809
+|switch|p1a: Booty Shaker|Wartortle, M|100/100
+|move|p2a: Fletchinder|Brave Bird|p1a: Booty Shaker
+|-damage|p1a: Booty Shaker|65/100
+|-damage|p2a: Fletchinder|0 fnt|[from] Recoil
+|faint|p2a: Fletchinder
+|
+|upkeep
+|
+|t:|1710810815
+|switch|p2a: Thwackey|Thwackey, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|turn|5
+|
+|t:|1710810821
+|switch|p1a: Aunt Fanny|Sliggoo-Hisui, F, shiny|100/100
+|move|p2a: Thwackey|U-turn|p1a: Aunt Fanny
+|-resisted|p1a: Aunt Fanny
+|-damage|p1a: Aunt Fanny|86/100
+|
+|t:|1710810832
+|switch|p2a: Morgrem|Morgrem, M|100/100|[from] U-turn
+|
+|-heal|p1a: Aunt Fanny|92/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1710810844
+|move|p2a: Morgrem|Parting Shot|p1a: Aunt Fanny
+|-unboost|p1a: Aunt Fanny|atk|1
+|-unboost|p1a: Aunt Fanny|spa|1
+|
+|t:|1710810846
+|switch|p2a: Croconaw|Croconaw, F|100/100|[from] Parting Shot
+|move|p1a: Aunt Fanny|Steel Beam|p2a: Croconaw
+|-resisted|p2a: Croconaw
+|-damage|p2a: Croconaw|67/100
+|-damage|p1a: Aunt Fanny|42/100|[from] steelbeam
+|
+|-heal|p2a: Croconaw|73/100|[from] Grassy Terrain
+|-heal|p1a: Aunt Fanny|48/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1710810861
+|switch|p1a: Booty Shaker|Wartortle, M|65/100
+|move|p2a: Croconaw|Dragon Dance|p2a: Croconaw
+|-boost|p2a: Croconaw|atk|1
+|-boost|p2a: Croconaw|spe|1
+|
+|-heal|p2a: Croconaw|79/100|[from] Grassy Terrain
+|-heal|p1a: Booty Shaker|71/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1710810871
+|switch|p2a: Thwackey|Thwackey, F|100/100
+|move|p1a: Booty Shaker|Shell Smash|p1a: Booty Shaker
+|-unboost|p1a: Booty Shaker|def|1
+|-unboost|p1a: Booty Shaker|spd|1
+|-boost|p1a: Booty Shaker|atk|2
+|-boost|p1a: Booty Shaker|spa|2
+|-boost|p1a: Booty Shaker|spe|2
+|
+|-heal|p1a: Booty Shaker|77/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1710810885
+|switch|p1a: Petr Cottonovski|Raboot, M|100/100
+|move|p2a: Thwackey|Grassy Glide|p1a: Petr Cottonovski
+|-resisted|p1a: Petr Cottonovski
+|-damage|p1a: Petr Cottonovski|57/100
+|
+|-heal|p1a: Petr Cottonovski|63/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1710810903
+|switch|p2a: Gabite|Gabite, M|100/100
+|move|p1a: Petr Cottonovski|High Jump Kick|p2a: Gabite
+|-start|p1a: Petr Cottonovski|typechange|Fighting|[from] ability: Libero
+|-damage|p2a: Gabite|42/100
+|-damage|p1a: Petr Cottonovski|51/100|[from] ability: Rough Skin|[of] p2a: Gabite
+|-damage|p1a: Petr Cottonovski|34/100|[from] item: Rocky Helmet|[of] p2a: Gabite
+|-damage|p1a: Petr Cottonovski|24/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1710810930
+|move|p1a: Petr Cottonovski|High Jump Kick|p2a: Gabite
+|-damage|p2a: Gabite|0 fnt
+|-damage|p1a: Petr Cottonovski|12/100|[from] ability: Rough Skin|[of] p2a: Gabite
+|-damage|p1a: Petr Cottonovski|0 fnt|[from] item: Rocky Helmet|[of] p2a: Gabite
+|faint|p2a: Gabite
+|faint|p1a: Petr Cottonovski
+|
+|upkeep
+|
+|t:|1710810944
+|switch|p1a: Man in the Chair|Misdreavus, M|100/100
+|switch|p2a: Morgrem|Morgrem, M|100/100
+|turn|12
+|
+|t:|1710810953
+|move|p2a: Morgrem|Taunt|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|move: Taunt
+|cant|p1a: Man in the Chair|move: Taunt|Substitute
+|
+|upkeep
+|turn|13
+|
+|t:|1710810961
+|move|p2a: Morgrem|Light Screen|p2a: Morgrem
+|-sidestart|p2: mcmuslim|move: Light Screen
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Morgrem
+|-supereffective|p2a: Morgrem
+|-damage|p2a: Morgrem|84/100
+|
+|upkeep
+|turn|14
+|
+|t:|1710810967
+|switch|p1a: Big Man|Arctibax, F, shiny|100/100
+|move|p2a: Morgrem|Reflect|p2a: Morgrem
+|-sidestart|p2: mcmuslim|Reflect
+|
+|upkeep
+|turn|15
+|
+|t:|1710810975
+|move|p2a: Morgrem|Parting Shot|p1a: Big Man
+|-unboost|p1a: Big Man|atk|1
+|-unboost|p1a: Big Man|spa|1
+|
+|t:|1710810987
+|switch|p2a: Porygon|Porygon|53/100|[from] Parting Shot
+|move|p1a: Big Man|Brick Break|p2a: Porygon
+|-sideend|p2: mcmuslim|Reflect
+|-sideend|p2: mcmuslim|move: Light Screen
+|-supereffective|p2a: Porygon
+|-damage|p2a: Porygon|32/100
+|
+|upkeep
+|turn|16
+|
+|t:|1710811003
+|switch|p1a: Man in the Chair|Misdreavus, M|100/100
+|move|p2a: Porygon|Recover|p2a: Porygon
+|-heal|p2a: Porygon|82/100
+|
+|upkeep
+|turn|17
+|
+|t:|1710811009
+|switch|p2a: Morgrem|Morgrem, M|84/100
+|move|p1a: Man in the Chair|Substitute|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|Substitute
+|-damage|p1a: Man in the Chair|76/100
+|
+|upkeep
+|turn|18
+|
+|t:|1710811016
+|move|p2a: Morgrem|Light Screen|p2a: Morgrem
+|-sidestart|p2: mcmuslim|move: Light Screen
+|move|p1a: Man in the Chair|Nasty Plot|p1a: Man in the Chair
+|-boost|p1a: Man in the Chair|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1710811027
+|move|p2a: Morgrem|Parting Shot|p1a: Man in the Chair
+|-unboost|p1a: Man in the Chair|atk|1
+|-unboost|p1a: Man in the Chair|spa|1
+|
+|t:|1710811034
+|switch|p2a: Porygon|Porygon|82/100|[from] Parting Shot
+|move|p1a: Man in the Chair|Nasty Plot|p1a: Man in the Chair
+|-boost|p1a: Man in the Chair|spa|2
+|
+|upkeep
+|turn|20
+|
+|t:|1710811044
+|move|p1a: Man in the Chair|Nasty Plot|p1a: Man in the Chair
+|-boost|p1a: Man in the Chair|spa|2
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-end|p1a: Man in the Chair|Substitute
+|
+|upkeep
+|turn|21
+|
+|t:|1710811051
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|63/100
+|-heal|p1a: Man in the Chair|94/100|[from] drain|[of] p2a: Porygon
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-damage|p1a: Man in the Chair|69/100
+|
+|upkeep
+|turn|22
+|
+|t:|1710811060
+|move|p1a: Man in the Chair|Substitute|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|Substitute
+|-damage|p1a: Man in the Chair|44/100
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-activate|p1a: Man in the Chair|move: Substitute|[damage]
+|
+|upkeep
+|turn|23
+|
+|t:|1710811067
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|42/100
+|-heal|p1a: Man in the Chair|64/100|[from] drain|[of] p2a: Porygon
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-end|p1a: Man in the Chair|Substitute
+|
+|upkeep
+|turn|24
+|
+|t:|1710811080
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|23/100
+|-heal|p1a: Man in the Chair|82/100|[from] drain|[of] p2a: Porygon
+|move|p2a: Porygon|Recover|p2a: Porygon
+|-heal|p2a: Porygon|73/100
+|
+|upkeep
+|turn|25
+|
+|t:|1710811088
+|switch|p2a: Thwackey|Thwackey, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|move|p1a: Man in the Chair|Substitute|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|Substitute
+|-damage|p1a: Man in the Chair|58/100
+|
+|-sideend|p2: mcmuslim|move: Light Screen
+|upkeep
+|turn|26
+|
+|t:|1710811106
+|move|p2a: Thwackey|Grassy Glide|p1a: Man in the Chair
+|-crit|p1a: Man in the Chair
+|-end|p1a: Man in the Chair|Substitute
+|move|p1a: Man in the Chair|Shadow Ball|p2a: Thwackey
+|-damage|p2a: Thwackey|0 fnt
+|faint|p2a: Thwackey
+|
+|upkeep
+|
+|t:|1710811116
+|switch|p2a: Croconaw|Croconaw, F|79/100
+|turn|27
+|
+|t:|1710811120
+|move|p2a: Croconaw|Aqua Jet|p1a: Man in the Chair
+|-damage|p1a: Man in the Chair|38/100
+|-damage|p2a: Croconaw|69/100|[from] item: Life Orb
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Croconaw
+|-damage|p2a: Croconaw|0 fnt
+|-heal|p1a: Man in the Chair|91/100|[from] drain|[of] p2a: Croconaw
+|faint|p2a: Croconaw
+|
+|upkeep
+|
+|t:|1710811128
+|switch|p2a: Morgrem|Morgrem, M|84/100
+|turn|28
+|
+|t:|1710811133
+|move|p2a: Morgrem|Taunt|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|move: Taunt
+|move|p1a: Man in the Chair|Shadow Ball|p2a: Morgrem
+|-resisted|p2a: Morgrem
+|-damage|p2a: Morgrem|26/100
+|
+|-heal|p2a: Morgrem|32/100|[from] Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1710811142
+|move|p2a: Morgrem|Light Screen|p2a: Morgrem
+|-sidestart|p2: mcmuslim|move: Light Screen
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Morgrem
+|-supereffective|p2a: Morgrem
+|-damage|p2a: Morgrem|0 fnt
+|-heal|p1a: Man in the Chair|100/100|[from] drain|[of] p2a: Morgrem
+|faint|p2a: Morgrem
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cluntnpoop)
+|
+|t:|1710811228
+|switch|p2a: Porygon|Porygon|73/100
+|turn|30
+|
+|t:|1710811232
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|54/100
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-damage|p1a: Man in the Chair|78/100
+|
+|-end|p1a: Man in the Chair|move: Taunt
+|upkeep
+|turn|31
+|
+|t:|1710811240
+|move|p1a: Man in the Chair|Substitute|p1a: Man in the Chair
+|-start|p1a: Man in the Chair|Substitute
+|-damage|p1a: Man in the Chair|53/100
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-end|p1a: Man in the Chair|Substitute
+|
+|upkeep
+|turn|32
+|
+|t:|1710811248
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|34/100
+|-heal|p1a: Man in the Chair|72/100|[from] drain|[of] p2a: Porygon
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-damage|p1a: Man in the Chair|48/100
+|
+|upkeep
+|turn|33
+|
+|t:|1710811255
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|16/100
+|-heal|p1a: Man in the Chair|66/100|[from] drain|[of] p2a: Porygon
+|move|p2a: Porygon|Ice Beam|p1a: Man in the Chair
+|-damage|p1a: Man in the Chair|40/100
+|
+|upkeep
+|turn|34
+|
+|t:|1710811263
+|move|p1a: Man in the Chair|Draining Kiss|p2a: Porygon
+|-damage|p2a: Porygon|0 fnt
+|-heal|p1a: Man in the Chair|55/100|[from] drain|[of] p2a: Porygon
+|faint|p2a: Porygon
+|
+|win|cluntnpoop
+|l|☆cluntnpoop
+|player|p1|
+|j|☆cluntnpoop
+|player|p1|cluntnpoop|101

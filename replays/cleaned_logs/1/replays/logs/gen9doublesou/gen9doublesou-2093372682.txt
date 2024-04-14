@@ -1,0 +1,34 @@
+p1: Switched to Oricorio-Pom-Pom
+p1: Switched to Volcarona
+p2: Switched to Torkoal
+p2: Switched to Trevenant
+Turn 1:
+p1: Oricorio-Pom-Pom used Protect on Oricorio-Pom-Pom
+p1: Volcarona used Quiver Dance on Volcarona
+p1: Oricorio-Pom-Pom used Quiver Dance on Oricorio-Pom-Pom
+p2: Torkoal used Eruption on Oricorio-Pom-Pom
+p2: Trevenant used Trick Room on Trevenant
+Turn 2:
+p2: Torkoal used Eruption on Oricorio-Pom-Pom
+p1: Volcarona fainted
+p2: Trevenant used Shadow Claw on Oricorio-Pom-Pom
+p1: Oricorio-Pom-Pom fainted
+p1: Switched to Sylveon
+p1: Switched to Primarina
+Turn 3:
+p2: Switched to Arboliva
+p2: Trevenant used Horn Leech on Primarina
+p1: Primarina used Hyper Voice on Arboliva
+p1: Sylveon used Hyper Voice on Trevenant
+Turn 4:
+p1: Primarina used Protect on Primarina
+p2: Arboliva used Leech Seed on Sylveon
+p2: Trevenant used Horn Leech on Primarina
+p1: Sylveon used Tera Blast on Arboliva
+p2: Arboliva fainted
+p2: Switched to Ursaluna-Bloodmoon
+Turn 5:
+p2: Ursaluna-Bloodmoon used Hyper Voice on Primarina
+p1: Primarina fainted
+p2: Trevenant used Horn Leech on Sylveon
+p1: Sylveon used Hyper Voice on Trevenant

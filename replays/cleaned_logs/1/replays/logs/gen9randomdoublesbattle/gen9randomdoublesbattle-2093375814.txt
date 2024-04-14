@@ -1,0 +1,35 @@
+p1: Switched to Oricorio-Pa'u
+p1: Switched to Spectrier
+p2: Switched to Ludicolo
+p2: Switched to Blaziken
+Turn 1:
+p2: Blaziken used Protect on Blaziken
+p1: Spectrier used Nasty Plot on Spectrier
+p1: Oricorio-Pa'u used Quiver Dance on Oricorio-Pa'u
+p2: Ludicolo used Rain Dance on Ludicolo
+Turn 2:
+p2: Ludicolo used Muddy Water on Spectrier
+p1: Oricorio-Pa'u used Revelation Dance on Blaziken
+p2: Blaziken fainted
+p1: Spectrier used Draining Kiss on Ludicolo
+p2: Switched to Basculin-Blue-Striped
+Turn 3:
+p2: Basculin-Blue-Striped used Aqua Jet on Oricorio-Pa'u
+p2: Ludicolo used Muddy Water on Oricorio-Pa'u
+p1: Spectrier fainted
+p1: Oricorio-Pa'u used Hurricane on Ludicolo
+p2: Ludicolo fainted
+p1: Switched to Zekrom
+p2: Switched to Gallade
+Turn 4:
+p1: Oricorio-Pa'u used Protect on Oricorio-Pa'u
+p2: Basculin-Blue-Striped used Aqua Jet on Oricorio-Pa'u
+p2: Gallade used Sacred Sword on Zekrom
+p1: Zekrom used Bolt Strike on Basculin-Blue-Striped
+p2: Basculin-Blue-Striped fainted
+p2: Switched to Chien-Pao
+Turn 5:
+p1: Oricorio-Pa'u used Hurricane on Gallade
+p2: Gallade fainted
+p2: Chien-Pao used Lash Out on Oricorio-Pa'u
+p1: Zekrom used Bolt Strike on Chien-Pao

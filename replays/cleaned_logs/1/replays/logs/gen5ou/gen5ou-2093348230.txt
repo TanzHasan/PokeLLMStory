@@ -1,0 +1,91 @@
+p1: Switched to Rotom-Wash
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Landorus-Therian used U-turn on Rotom-Wash
+p2: Switched to Jellicent
+p1: Rotom-Wash used Hydro Pump on Jellicent
+Turn 2:
+p1: Switched to Ferrothorn
+p2: Jellicent used Will-O-Wisp on Ferrothorn
+Turn 3:
+p2: Jellicent used Taunt on Ferrothorn
+p1: Ferrothorn can't move
+Turn 4:
+p2: Switched to Ferrothorn
+p1: Switched to Rotom-Wash
+Turn 5:
+p1: Rotom-Wash used Trick on Ferrothorn
+p2: Ferrothorn used Spikes on Rotom-Wash
+Turn 6:
+p1: Rotom-Wash used Volt Switch on Ferrothorn
+p1: Switched to Scizor
+p2: Ferrothorn used Spikes on Scizor
+Turn 7:
+p1: Scizor used U-turn on Ferrothorn
+p1: Switched to Starmie
+p2: Ferrothorn used Spikes on Starmie
+Turn 8:
+p2: Switched to Jellicent
+p1: Starmie used Scald on Jellicent
+Turn 9:
+p1: Starmie used Thunder on Jellicent
+p2: Jellicent used Will-O-Wisp on Starmie
+Turn 10:
+p1: Switched to Rotom-Wash
+p2: Jellicent used Recover on Jellicent
+Turn 11:
+p1: Rotom-Wash used Thunder on Jellicent
+p2: Jellicent can't move
+Turn 12:
+p1: Rotom-Wash used Volt Switch on Jellicent
+p2: Jellicent fainted
+p1: Switched to Starmie
+p2: Switched to Landorus-Therian
+Turn 13:
+p1: Switched to Scizor
+p2: Landorus-Therian used U-turn on Scizor
+p2: Switched to Alakazam
+Turn 14:
+p1: Scizor used Bullet Punch on Alakazam
+p2: Alakazam used Hidden Power on Scizor
+p1: Scizor fainted
+p1: Switched to Latios
+Turn 15:
+p1: Latios used Surf on Alakazam
+p2: Alakazam fainted
+p2: Switched to Landorus-Therian
+Turn 16:
+p2: Switched to Ferrothorn
+p1: Latios used Surf on Ferrothorn
+Turn 17:
+p1: Switched to Starmie
+p2: Ferrothorn used Gyro Ball on Starmie
+Turn 18:
+p2: Switched to Tyranitar
+p1: Starmie used Rapid Spin on Tyranitar
+Turn 19:
+p1: Starmie used Scald on Tyranitar
+p2: Tyranitar used Pursuit on Starmie
+p1: Starmie fainted
+p1: Switched to Politoed
+Turn 20:
+p2: Switched to Ferrothorn
+p1: Politoed used Scald on Ferrothorn
+Turn 21:
+p1: Politoed used Scald on Ferrothorn
+p2: Ferrothorn fainted
+p2: Switched to Reuniclus
+Turn 22:
+p1: Politoed used Scald on Reuniclus
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 23:
+p1: Politoed used Scald on Reuniclus
+p2: Reuniclus fainted
+p2: Switched to Landorus-Therian
+Turn 24:
+p1: Switched to Ferrothorn
+p2: Landorus-Therian used Earthquake on Ferrothorn
+Turn 25:
+p2: Switched to Tyranitar
+p1: Ferrothorn used Leech Seed on Tyranitar
+Turn 26:

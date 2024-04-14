@@ -1,0 +1,57 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Landorus-Therian used Stealth Rock on Landorus-Therian
+p1: Landorus-Therian used Stealth Rock on Landorus-Therian
+Turn 2:
+p2: Switched to Serperior
+p1: Landorus-Therian used U-turn on Serperior
+p1: Switched to Beedrill
+Turn 3:
+p1: Beedrill used Protect on Beedrill
+p2: Serperior used Reflect on Serperior
+Turn 4:
+p2: Switched to Landorus-Therian
+p1: Beedrill used U-turn on Landorus-Therian
+p1: Switched to Rotom-Wash
+Turn 5:
+p2: Landorus-Therian used Explosion on Rotom-Wash
+p2: Landorus-Therian fainted
+p1: Rotom-Wash used Volt Switch on p2: Landorus
+p2: Switched to Serperior
+Turn 6:
+p2: Serperior used Light Screen on Serperior
+p1: Rotom-Wash used Volt Switch on Serperior
+p1: Switched to Beedrill-Mega
+Turn 7:
+p1: Beedrill-Mega used Poison Jab on Serperior
+p2: Serperior fainted
+p2: Switched to Bisharp
+Turn 8:
+p1: Beedrill-Mega used Drill Run on Bisharp
+p2: Bisharp used Swords Dance on Bisharp
+Turn 9:
+p1: Beedrill-Mega used U-turn on Bisharp
+p1: Switched to Landorus-Therian
+p2: Bisharp used Knock Off on Landorus-Therian
+p1: Landorus-Therian fainted
+p1: Switched to Weavile
+Turn 10:
+p1: Weavile used Ice Shard on Bisharp
+p2: Bisharp fainted
+p2: Switched to Volcarona
+Turn 11:
+p1: Switched to Tornadus-Therian
+p2: Volcarona used Quiver Dance on Volcarona
+Turn 12:
+p2: Volcarona used Quiver Dance on Volcarona
+p1: Tornadus-Therian used Hurricane on Volcarona
+Turn 13:
+p2: Volcarona used Flamethrower on Tornadus-Therian
+p1: Tornadus-Therian used Hurricane on Volcarona
+p1: Tornadus-Therian fainted
+p1: Switched to Weavile
+Turn 14:
+p1: Weavile used Ice Shard on Volcarona
+p2: Volcarona used Giga Drain on Weavile
+p1: Weavile fainted

@@ -1,0 +1,77 @@
+p1: Switched to Enamorus
+p2: Switched to Avalugg
+Turn 1:
+p1: Enamorus used Agility on Enamorus
+p2: Avalugg used Rain Dance on Avalugg
+Turn 2:
+p1: Enamorus used Agility on Enamorus
+p2: Avalugg used Avalanche on Enamorus
+Turn 3:
+p1: Enamorus used Moonblast on Avalugg
+p2: Avalugg used Avalanche on Enamorus
+p1: Enamorus fainted
+p1: Switched to Lucario
+Turn 4:
+p1: Lucario used Meteor Mash on Avalugg
+p2: Avalugg fainted
+p2: Switched to Infernape
+Turn 5:
+p2: Infernape used Fire Punch on Lucario
+p1: Lucario used Close Combat on Infernape
+p2: Infernape fainted
+p2: Switched to Fezandipiti
+Turn 6:
+p1: Switched to Incineroar
+p2: Fezandipiti used Alluring Voice on Incineroar
+Turn 7:
+p2: Switched to Blastoise
+p1: Incineroar used Knock Off on Blastoise
+Turn 8:
+p2: Blastoise used Flip Turn on Incineroar
+p2: Switched to Torterra
+p1: Incineroar used Will-O-Wisp on Torterra
+Turn 9:
+p1: Incineroar used Parting Shot on Torterra
+p1: Switched to Arboliva
+p2: Torterra used Facade on Arboliva
+Turn 10:
+p2: Torterra used Facade on Arboliva
+p1: Arboliva used Giga Drain on Torterra
+p2: Torterra fainted
+p2: Switched to Fezandipiti
+Turn 11:
+p2: Fezandipiti used Alluring Voice on Arboliva
+p1: Arboliva used Earth Power on Fezandipiti
+Turn 12:
+p2: Fezandipiti used Hex on Arboliva
+p1: Arboliva used Giga Drain on Fezandipiti
+Turn 13:
+p2: Fezandipiti used Light Screen on Fezandipiti
+p1: Arboliva used Earth Power on Fezandipiti
+p2: Fezandipiti fainted
+p2: Switched to Cresselia
+Turn 14:
+p1: Switched to Incineroar
+p2: Cresselia used Body Slam on Incineroar
+Turn 15:
+p2: Cresselia used Dazzling Gleam on Incineroar
+p1: Incineroar used Knock Off on Cresselia
+Turn 16:
+p2: Cresselia used Dazzling Gleam on Incineroar
+p1: Incineroar can't move
+Turn 17:
+p2: Switched to Blastoise
+p1: Incineroar used Knock Off on Blastoise
+Turn 18:
+p2: Blastoise used Liquidation on Incineroar
+p1: Incineroar fainted
+p1: Switched to Arboliva
+Turn 19:
+p2: Blastoise used Body Slam on Arboliva
+p1: Arboliva used Giga Drain on Blastoise
+p2: Blastoise fainted
+p2: Switched to Cresselia
+Turn 20:
+p2: Cresselia used Body Slam on Arboliva
+p1: Arboliva used Giga Drain on Cresselia
+p2: Cresselia fainted

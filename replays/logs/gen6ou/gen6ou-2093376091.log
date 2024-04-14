@@ -1,0 +1,221 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'orasz'.</div>
+|j|☆radical robert
+|j|☆ORASZ Ruffles
+|t:|1711946962
+|gametype|singles
+|player|p1|radical robert|swimmerf|1322
+|player|p2|ORASZ Ruffles|benga|1616
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|clearpoke
+|poke|p1|Cloyster, M|item
+|poke|p1|Aerodactyl, M|item
+|poke|p1|Scizor, M|item
+|poke|p1|Weavile, M|item
+|poke|p1|Volcarona, M|item
+|poke|p1|Thundurus-Therian, M|item
+|poke|p2|Gallade, M|item
+|poke|p2|Bisharp, F|item
+|poke|p2|Manaphy|item
+|poke|p2|Volcarona, M|item
+|poke|p2|Serperior, M|item
+|poke|p2|Landorus-Therian, M|item
+|teampreview
+|
+|t:|1711946967
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Weavile|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ORASZ Ruffles)
+|
+|t:|1711946969
+|move|p2a: Landorus|U-turn|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|7/100
+|
+|t:|1711946972
+|switch|p2a: Bisharp|Bisharp, F|100/100|[from] U-turn
+|move|p1a: Weavile|Icicle Crash|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711946977
+|move|p2a: Bisharp|Sucker Punch|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1711946986
+|switch|p1a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Aerodactyl|Pressure
+|turn|3
+|
+|t:|1711946994
+|move|p1a: Aerodactyl|Stealth Rock|p2a: Bisharp
+|-sidestart|p2: ORASZ Ruffles|move: Stealth Rock
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1711947002
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Aerodactyl|Taunt|p2a: Bisharp
+|-start|p2a: Bisharp|move: Taunt
+|
+|upkeep
+|turn|5
+|
+|t:|1711947023
+|move|p2a: Bisharp|Sucker Punch|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|0 fnt
+|-damage|p2a: Bisharp|68/100|[from] item: Rocky Helmet|[of] p1a: Aerodactyl
+|faint|p1a: Aerodactyl
+|
+|upkeep
+|
+|t:|1711947030
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|6
+|
+|t:|1711947042
+|detailschange|p1a: Scizor|Scizor-Mega, M
+|-mega|p1a: Scizor|Scizor|Scizorite
+|move|p2a: Bisharp|Sucker Punch|p1a: Scizor
+|-damage|p1a: Scizor|4/100
+|move|p1a: Scizor|Bug Bite|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1711947046
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|turn|7
+|
+|t:|1711947060
+|move|p2a: Landorus|Stealth Rock|p1a: Scizor
+|-sidestart|p1: radical robert|move: Stealth Rock
+|move|p1a: Scizor|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|59/100
+|-enditem|p2a: Landorus|Choice Scarf|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|8
+|
+|t:|1711947066
+|move|p1a: Scizor|Bullet Punch|p2a: Landorus
+|-damage|p2a: Landorus|30/100
+|move|p2a: Landorus|U-turn|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|t:|1711947072
+|switch|p2a: Serperior|Serperior, M|100/100|[from] U-turn
+|-damage|p2a: Serperior|88/100|[from] Stealth Rock
+|
+|upkeep
+|inactive|radical robert has 120 seconds left.
+|
+|t:|1711947111
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|-damage|p1a: Thundurus|75/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1711947117
+|move|p2a: Serperior|Taunt|p1a: Thundurus
+|-start|p1a: Thundurus|move: Taunt
+|cant|p1a: Thundurus|move: Taunt|Nasty Plot
+|
+|upkeep
+|turn|10
+|
+|t:|1711947119
+|move|p2a: Serperior|Light Screen|p2a: Serperior
+|-sidestart|p2: ORASZ Ruffles|move: Light Screen
+|move|p1a: Thundurus|Hidden Power|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|66/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711947128
+|move|p2a: Serperior|Leaf Storm|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|52/100
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Thundurus|Hidden Power|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|44/100
+|
+|-end|p1a: Thundurus|move: Taunt
+|upkeep
+|turn|12
+|
+|t:|1711947132
+|move|p2a: Serperior|Leaf Storm|p1a: Thundurus|[miss]
+|-miss|p2a: Serperior|p1a: Thundurus
+|move|p1a: Thundurus|Hidden Power|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|23/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711947135
+|move|p2a: Serperior|Leaf Storm|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|3/100
+|-boost|p2a: Serperior|spa|2
+|-enditem|p1a: Thundurus|Sitrus Berry|[eat]
+|-heal|p1a: Thundurus|28/100|[from] item: Sitrus Berry
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1711947137
+|move|p2a: Serperior|Leaf Storm|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|-boost|p2a: Serperior|spa|2
+|faint|p1a: Thundurus
+|
+|upkeep
+|-message|radical robert forfeited.
+|
+|win|ORASZ Ruffles
+|raw|radical robert's rating: 1331 &rarr; <strong>1325</strong><br />(-6 for losing)
+|raw|ORASZ Ruffles's rating: 1623 &rarr; <strong>1629</strong><br />(+6 for winning)
+|l|☆radical robert
+|player|p1|
+|l|☆ORASZ Ruffles
+|player|p2|

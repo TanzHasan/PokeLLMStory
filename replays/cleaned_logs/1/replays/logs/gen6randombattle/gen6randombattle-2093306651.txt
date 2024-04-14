@@ -1,0 +1,238 @@
+p1: Switched to Sudowoodo
+p2: Switched to Swalot
+Turn 1:
+p2: Switched to Furfrou-Diamond
+p1: Sudowoodo used Stealth Rock on Furfrou-Diamond
+Turn 2:
+p1: Switched to Volbeat
+p2: Furfrou-Diamond used Thunder Wave on Volbeat
+Turn 3:
+p2: Switched to Swalot
+p1: Volbeat can't move
+Turn 4:
+p1: Volbeat used Thunder Wave on Swalot
+p2: Swalot used Sludge Bomb on Volbeat
+Turn 5:
+p1: Volbeat can't move
+p2: Swalot can't move
+Turn 6:
+p1: Volbeat can't move
+p2: Swalot used Sludge Bomb on Volbeat
+Turn 7:
+p1: Volbeat used Roost on Volbeat
+p2: Swalot used Sludge Bomb on Volbeat
+Turn 8:
+p1: Volbeat can't move
+p2: Swalot used Sludge Bomb on Volbeat
+Turn 9:
+p1: Volbeat can't move
+p2: Swalot used Sludge Bomb on Volbeat
+Turn 10:
+p1: Switched to Sudowoodo
+p2: Swalot used Sludge Bomb on Sudowoodo
+Turn 11:
+p2: Switched to Furfrou-Diamond
+p1: Sudowoodo used Stone Edge on Furfrou-Diamond
+Turn 12:
+p1: Switched to Clefable
+p2: Furfrou-Diamond used Return on Clefable
+Turn 13:
+p2: Furfrou-Diamond used U-turn on Clefable
+p2: Switched to Swalot
+p1: Clefable used Aromatherapy on Clefable
+Turn 14:
+p1: Switched to Meowstic
+p2: Swalot used Sludge Bomb on Meowstic
+Turn 15:
+p2: Switched to Reuniclus
+p1: Meowstic used Psychic on Reuniclus
+Turn 16:
+p1: Meowstic used Thunder Wave on Reuniclus
+p2: Reuniclus used Shadow Ball on Meowstic
+Turn 17:
+p1: Switched to Shiftry
+p2: Reuniclus used Psyshock on Shiftry
+Turn 18:
+p2: Switched to Swalot
+p1: Shiftry used Knock Off on Swalot
+Turn 19:
+p1: Shiftry used Knock Off on Swalot
+p2: Swalot fainted
+p2: Switched to Furfrou-Diamond
+Turn 20:
+p1: Switched to Sudowoodo
+p2: Furfrou-Diamond used U-turn on Sudowoodo
+p2: Switched to Seviper
+Turn 21:
+p1: Switched to Mothim
+p2: Seviper used Earthquake on Mothim
+Turn 22:
+p1: Mothim used Air Slash on Seviper
+p2: Seviper used Flamethrower on Mothim
+p1: Mothim fainted
+p1: Switched to Volbeat
+Turn 23:
+p1: Volbeat used U-turn on Seviper
+p1: Switched to Sudowoodo
+p2: Seviper used Flamethrower on Sudowoodo
+Turn 24:
+p1: Sudowoodo used Sucker Punch on Seviper
+p2: Seviper used Earthquake on Sudowoodo
+p1: Sudowoodo fainted
+p1: Switched to Shiftry
+Turn 25:
+p1: Shiftry used Sucker Punch on Seviper
+p2: Seviper fainted
+p2: Switched to Furfrou-Diamond
+Turn 26:
+p2: Furfrou-Diamond used U-turn on Shiftry
+p2: Switched to Pinsir
+p1: Shiftry used Knock Off on Pinsir
+p1: Shiftry fainted
+p1: Switched to Volbeat
+Turn 27:
+p1: Volbeat used Thunder Wave on Pinsir
+p2: Pinsir used Quick Attack on Volbeat
+p1: Volbeat fainted
+p1: Switched to Clefable
+Turn 28:
+p2: Pinsir used Quick Attack on Clefable
+p1: Clefable used Soft-Boiled on Clefable
+Turn 29:
+p2: Pinsir used Quick Attack on Clefable
+p1: Clefable used Moonblast on Pinsir
+p2: Pinsir fainted
+p2: Switched to Furfrou-Diamond
+Turn 30:
+p2: Furfrou-Diamond used Rest on Furfrou-Diamond
+p1: Clefable used Thunder Wave on Furfrou-Diamond
+Turn 31:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Furfrou-Diamond can't move
+Turn 32:
+p1: Clefable used Moonblast on Furfrou-Diamond
+p2: Furfrou-Diamond used Return on Clefable
+Turn 33:
+p1: Clefable used Moonblast on Furfrou-Diamond
+p2: Furfrou-Diamond used Rest on Furfrou-Diamond
+Turn 34:
+p2: Furfrou-Diamond can't move
+p1: Clefable used Moonblast on Furfrou-Diamond
+Turn 35:
+p2: Furfrou-Diamond can't move
+p1: Clefable used Moonblast on Furfrou-Diamond
+Turn 36:
+p2: Furfrou-Diamond used Rest on Furfrou-Diamond
+p1: Clefable used Moonblast on Furfrou-Diamond
+Turn 37:
+p1: Switched to Meowstic
+p2: Furfrou-Diamond can't move
+Turn 38:
+p1: Switched to Clefable
+p2: Furfrou-Diamond can't move
+Turn 39:
+p2: Furfrou-Diamond used Thunder Wave on Clefable
+p1: Clefable used Moonblast on Furfrou-Diamond
+Turn 40:
+p2: Furfrou-Diamond used Rest on Furfrou-Diamond
+p1: Clefable used Aromatherapy on Clefable
+Turn 41:
+p1: Switched to Meowstic
+p2: Furfrou-Diamond can't move
+Turn 42:
+p1: Meowstic used Psychic on Furfrou-Diamond
+p2: Furfrou-Diamond can't move
+Turn 43:
+p1: Switched to Clefable
+p2: Furfrou-Diamond used Return on Clefable
+Turn 44:
+p2: Furfrou-Diamond used Return on Clefable
+p1: Clefable used Thunder Wave on Furfrou-Diamond
+Turn 45:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Furfrou-Diamond used U-turn on Clefable
+p2: Switched to Reuniclus
+Turn 46:
+p1: Clefable used Moonblast on Reuniclus
+p2: Reuniclus used Psyshock on Clefable
+Turn 47:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus used Recover on Reuniclus
+Turn 48:
+p1: Clefable used Moonblast on Reuniclus
+p2: Reuniclus used Psyshock on Clefable
+Turn 49:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus used Psyshock on Clefable
+Turn 50:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus used Psyshock on Clefable
+Turn 51:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus used Psyshock on Clefable
+Turn 52:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus can't move
+Turn 53:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Reuniclus used Shadow Ball on Clefable
+Turn 54:
+p1: Clefable used Moonblast on Reuniclus
+p2: Reuniclus can't move
+Turn 55:
+p1: Clefable used Moonblast on Reuniclus
+p2: Reuniclus can't move
+Turn 56:
+p1: Clefable used Moonblast on Reuniclus
+p2: Reuniclus fainted
+p2: Switched to Castform
+Turn 57:
+p2: Castform used Return on Clefable
+p1: Clefable used Thunder Wave on Castform
+Turn 58:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Castform used Return on Clefable
+Turn 59:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Castform used Thunder Wave on Clefable
+Turn 60:
+p2: Castform used Return on Clefable
+p1: Clefable used Aromatherapy on Clefable
+Turn 61:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Castform can't move
+Turn 62:
+p1: Clefable used Moonblast on Castform
+p2: Castform used Thunder Wave on Clefable
+Turn 63:
+p2: Castform used Return on Clefable
+p1: Clefable used Aromatherapy on Clefable
+Turn 64:
+p1: Clefable used Soft-Boiled on Clefable
+p2: Castform can't move
+Turn 65:
+p1: Clefable used Moonblast on Castform
+p2: Castform used Thunder Wave on Clefable
+Turn 66:
+p2: Castform used Return on Clefable
+p1: Clefable used Aromatherapy on Clefable
+Turn 67:
+p1: Clefable used Moonblast on Castform
+p2: Castform used Thunder Wave on Clefable
+Turn 68:
+p2: Castform can't move
+p1: Clefable used Aromatherapy on Clefable
+Turn 69:
+p1: Clefable used Moonblast on Castform
+p2: Castform can't move
+Turn 70:
+p1: Clefable used Moonblast on Castform
+p2: Castform fainted
+p2: Switched to Furfrou-Diamond
+Turn 71:
+p1: Clefable used Moonblast on Furfrou-Diamond
+p2: Furfrou-Diamond used Thunder Wave on Clefable
+Turn 72:
+p2: Furfrou-Diamond can't move
+p1: Clefable used Moonblast on Furfrou-Diamond
+p2: Furfrou-Diamond fainted

@@ -1,0 +1,92 @@
+p1: Switched to Seismitoad
+p2: Switched to Espeon
+Turn 1:
+p2: Switched to Leafeon
+p1: Seismitoad used Stealth Rock on Leafeon
+Turn 2:
+p1: Switched to Arbok
+p2: Leafeon used Toxic on Arbok
+Turn 3:
+p2: Leafeon used Knock Off on Arbok
+p1: Arbok used Coil on Arbok
+Turn 4:
+p2: Switched to Whiscash
+p1: Arbok used Coil on Arbok
+Turn 5:
+p1: Arbok used Earthquake on Whiscash
+p2: Whiscash used Earthquake on Arbok
+Turn 6:
+p1: Arbok used Earthquake on Whiscash
+p2: Whiscash fainted
+p2: Switched to Leafeon
+Turn 7:
+p1: Arbok used Sucker Punch on Leafeon
+p2: Leafeon used Leaf Blade on Arbok
+Turn 8:
+p2: Leafeon used Leaf Blade on Arbok
+p1: Arbok fainted
+p1: Switched to Accelgor
+Turn 9:
+p2: Switched to Passimian
+p1: Accelgor used Toxic Spikes on Passimian
+Turn 10:
+p1: Switched to Slowking
+p2: Passimian used Bulk Up on Passimian
+Turn 11:
+p2: Passimian used Bulk Up on Passimian
+p1: Slowking used Scald on Passimian
+Turn 12:
+p2: Passimian used Knock Off on Slowking
+p1: Slowking used Scald on Passimian
+Turn 13:
+p2: Passimian used Drain Punch on Slowking
+p1: Slowking used Slack Off on Slowking
+Turn 14:
+p2: Passimian used Bulk Up on Passimian
+p1: Slowking used Scald on Passimian
+p2: Passimian fainted
+p2: Switched to Leafeon
+Turn 15:
+p1: Switched to Accelgor
+p2: Leafeon used Synthesis on Leafeon
+Turn 16:
+p1: Accelgor used Encore on Leafeon
+p2: Leafeon used Synthesis on Leafeon
+Turn 17:
+p1: Accelgor used Bug Buzz on Leafeon
+p2: Leafeon fainted
+p2: Switched to Espeon
+Turn 18:
+p1: Accelgor used Bug Buzz on Espeon
+p2: Espeon fainted
+p2: Switched to Tapu Fini
+Turn 19:
+p1: Switched to Slowking
+p2: Tapu Fini used Calm Mind on Tapu Fini
+Turn 20:
+p2: Tapu Fini used Moonblast on Slowking
+p1: Slowking used Ice Beam on Tapu Fini
+Turn 21:
+p2: Tapu Fini used Calm Mind on Tapu Fini
+p1: Slowking used Slack Off on Slowking
+Turn 22:
+p2: Tapu Fini used Calm Mind on Tapu Fini
+p1: Slowking used Ice Beam on Tapu Fini
+Turn 23:
+p2: Tapu Fini used Moonblast on Slowking
+p1: Slowking used Ice Beam on Tapu Fini
+Turn 24:
+p1: Switched to Chimecho
+p2: Tapu Fini used Calm Mind on Tapu Fini
+Turn 25:
+p2: Tapu Fini used Surf on Chimecho
+p1: Chimecho used Knock Off on Tapu Fini
+Turn 26:
+p1: Switched to Slowking
+p2: Tapu Fini used Moonblast on Slowking
+p2: Tapu Fini fainted
+p2: Switched to Reshiram
+Turn 27:
+p2: Reshiram used Draco Meteor on Slowking
+p1: Slowking used Scald on Reshiram
+Turn 28:

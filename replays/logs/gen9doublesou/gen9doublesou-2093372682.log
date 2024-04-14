@@ -1,0 +1,162 @@
+|j|☆MarvelOk
+|j|☆DarkBeast1111111
+|t:|1711946387
+|gametype|doubles
+|player|p1|MarvelOk|bruno|1223
+|player|p2|DarkBeast1111111|brycenman|1207
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Oricorio-Pom-Pom, M|
+|poke|p1|Primarina, F|
+|poke|p1|Iron Bundle|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Sylveon, F|
+|poke|p1|Volcarona, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Trevenant, M|
+|poke|p2|Arboliva, M|
+|poke|p2|Ursaluna-Bloodmoon, M|
+|poke|p2|Whimsicott, M|
+|poke|p2|Exeggutor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MarvelOk)
+|
+|t:|1711946395
+|start
+|switch|p1a: Oricorio|Oricorio-Pom-Pom, M|100/100
+|switch|p1b: Volcarona|Volcarona, F|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|switch|p2b: Trevenant|Trevenant, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1711946408
+|move|p1a: Oricorio|Protect|p1a: Oricorio
+|-singleturn|p1a: Oricorio|Protect
+|move|p1b: Volcarona|Quiver Dance|p1b: Volcarona
+|-boost|p1b: Volcarona|spa|1
+|-boost|p1b: Volcarona|spd|1
+|-boost|p1b: Volcarona|spe|1
+|-activate|p1a: Oricorio|ability: Dancer
+|move|p1a: Oricorio|Quiver Dance|p1a: Oricorio|[from]ability: Dancer
+|-boost|p1a: Oricorio|spa|1
+|-boost|p1a: Oricorio|spd|1
+|-boost|p1a: Oricorio|spe|1
+|move|p2a: Torkoal|Eruption|p1a: Oricorio|[spread] p1b
+|-activate|p1a: Oricorio|move: Protect
+|-damage|p1b: Volcarona|51/100
+|move|p2b: Trevenant|Trick Room|p2b: Trevenant
+|-fieldstart|move: Trick Room|[of] p2b: Trevenant
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|DarkBeast1111111 has 120 seconds left.
+|
+|t:|1711946438
+|move|p2a: Torkoal|Eruption|p1a: Oricorio|[spread] p1a,p1b
+|-damage|p1a: Oricorio|24/100
+|-damage|p1b: Volcarona|0 fnt
+|-enditem|p1a: Oricorio|Sitrus Berry|[eat]
+|-heal|p1a: Oricorio|49/100|[from] item: Sitrus Berry
+|faint|p1b: Volcarona
+|move|p2b: Trevenant|Shadow Claw|p1a: Oricorio
+|-damage|p1a: Oricorio|0 fnt
+|faint|p1a: Oricorio
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|MarvelOk has 120 seconds left.
+|
+|t:|1711946450
+|switch|p1b: Sylveon|Sylveon, F, shiny|100/100
+|switch|p1a: Primarina|Primarina, F, shiny|100/100
+|turn|3
+|
+|t:|1711946476
+|switch|p2a: Arboliva|Arboliva, M|100/100
+|-terastallize|p1b: Sylveon|Fire
+|move|p2b: Trevenant|Horn Leech|p1a: Primarina
+|-supereffective|p1a: Primarina
+|-damage|p1a: Primarina|5/100
+|move|p1a: Primarina|Hyper Voice|p2a: Arboliva|[spread] p2a,p2b
+|-resisted|p2a: Arboliva
+|-resisted|p2b: Trevenant
+|-damage|p2a: Arboliva|93/100
+|-damage|p2b: Trevenant|92/100
+|move|p1b: Sylveon|Hyper Voice|p2b: Trevenant|[spread] p2a,p2b
+|-damage|p2a: Arboliva|52/100
+|-damage|p2b: Trevenant|41/100
+|-enditem|p2b: Trevenant|Sitrus Berry|[eat]
+|-heal|p2b: Trevenant|65/100|[from] item: Sitrus Berry
+|
+|-weather|SunnyDay|[upkeep]
+|-item|p2b: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|4
+|inactive|MarvelOk has 120 seconds left.
+|
+|t:|1711946523
+|move|p1a: Primarina|Protect|p1a: Primarina
+|-singleturn|p1a: Primarina|Protect
+|move|p2a: Arboliva|Leech Seed|p1b: Sylveon
+|-start|p1b: Sylveon|move: Leech Seed
+|move|p2b: Trevenant|Horn Leech|p1a: Primarina
+|-activate|p1a: Primarina|move: Protect
+|move|p1b: Sylveon|Tera Blast|p2a: Arboliva|[anim] Tera Blast Fire
+|-supereffective|p2a: Arboliva
+|-damage|p2a: Arboliva|0 fnt
+|faint|p2a: Arboliva
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711946535
+|switch|p2a: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|turn|5
+|
+|t:|1711946550
+|move|p2a: Ursaluna|Hyper Voice|p1a: Primarina|[spread] p1a,p1b
+|-damage|p1a: Primarina|0 fnt
+|-damage|p1b: Sylveon|72/100
+|faint|p1a: Primarina
+|-enditem|p2a: Ursaluna|Throat Spray
+|-boost|p2a: Ursaluna|spa|1|[from] item: Throat Spray
+|move|p2b: Trevenant|Horn Leech|p1b: Sylveon
+|-resisted|p1b: Sylveon
+|-damage|p1b: Sylveon|47/100
+|-heal|p2b: Trevenant|78/100|[from] drain|[of] p1b: Sylveon
+|move|p1b: Sylveon|Hyper Voice|p2b: Trevenant|[spread] p2a,p2b
+|-damage|p2a: Ursaluna|49/100
+|-damage|p2b: Trevenant|24/100
+|-enditem|p2b: Trevenant|Sitrus Berry|[eat]
+|-heal|p2b: Trevenant|49/100|[from] item: Sitrus Berry
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1b: Sylveon|35/100|[from] Leech Seed|[of] p2a: Ursaluna
+|-heal|p2a: Ursaluna|61/100|[silent]
+|-fieldend|move: Trick Room
+|-item|p2b: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p2b: Trevenant|Sitrus Berry|[eat]
+|-heal|p2b: Trevenant|74/100|[from] item: Sitrus Berry
+|inactive|MarvelOk has 120 seconds left.
+|-message|MarvelOk forfeited.
+|
+|win|DarkBeast1111111
+|raw|MarvelOk's rating: 1223 &rarr; <strong>1197</strong><br />(-26 for losing)
+|raw|DarkBeast1111111's rating: 1207 &rarr; <strong>1233</strong><br />(+26 for winning)
+|l|☆MarvelOk
+|player|p1|
+|l|☆DarkBeast1111111
+|player|p2|

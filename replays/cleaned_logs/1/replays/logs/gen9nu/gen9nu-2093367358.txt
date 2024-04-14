@@ -1,0 +1,97 @@
+p1: Switched to Rotom-Heat
+p2: Switched to Tentacruel
+Turn 1:
+p1: Rotom-Heat used Volt Switch on Tentacruel
+p1: Switched to Espeon
+p2: Tentacruel used Flip Turn on Espeon
+p2: Switched to Overqwil
+Turn 2:
+p1: Switched to Swampert
+p2: Overqwil used Barb Barrage on Swampert
+Turn 3:
+p2: Switched to Tentacruel
+p1: Swampert used Stealth Rock on Tentacruel
+Turn 4:
+p2: Tentacruel used Giga Drain on Swampert
+p1: Swampert used Earthquake on Tentacruel
+p2: Tentacruel fainted
+p2: Switched to Arboliva
+Turn 5:
+p1: Switched to Rotom-Heat
+p2: Arboliva used Tera Blast on Rotom-Heat
+Turn 6:
+p1: Rotom-Heat used Overheat on Arboliva
+p2: Arboliva used Tera Blast on Rotom-Heat
+Turn 7:
+p1: Switched to Emboar
+p2: Arboliva used Tera Blast on Emboar
+Turn 8:
+p1: Emboar used Close Combat on Arboliva
+p2: Arboliva used Strength Sap on Emboar
+Turn 9:
+p1: Switched to Dragalge
+p2: Arboliva used Earth Power on Dragalge
+Turn 10:
+p1: Dragalge used Sludge Bomb on Arboliva
+p2: Arboliva used Earth Power on Dragalge
+Turn 11:
+p1: Dragalge used Sludge Bomb on Arboliva
+p2: Arboliva used Strength Sap on Dragalge
+Turn 12:
+p1: Dragalge used Sludge Bomb on Arboliva
+p2: Arboliva used Earth Power on Dragalge
+Turn 13:
+p1: Dragalge used Sludge Bomb on Arboliva
+p2: Arboliva used Earth Power on Dragalge
+p1: Dragalge fainted
+p1: Switched to Rotom-Heat
+Turn 14:
+p1: Rotom-Heat used Volt Switch on Arboliva
+p2: Arboliva fainted
+p1: Switched to Swampert
+p2: Switched to Overqwil
+Turn 15:
+p2: Overqwil used Barb Barrage on Swampert
+p1: Swampert used Knock Off on Overqwil
+Turn 16:
+p2: Overqwil used Spikes on Swampert
+p1: Swampert used Earthquake on Overqwil
+Turn 17:
+p2: Overqwil used Liquidation on Swampert
+p1: Swampert used Knock Off on Overqwil
+Turn 18:
+p2: Overqwil used Barb Barrage on Swampert
+p1: Swampert used Earthquake on Overqwil
+p2: Overqwil fainted
+p2: Switched to Tornadus
+Turn 19:
+p2: Tornadus used Bulk Up on Tornadus
+p1: Swampert used Knock Off on Tornadus
+Turn 20:
+p2: Tornadus used Acrobatics on Swampert
+p1: Swampert fainted
+p1: Switched to Rotom-Heat
+Turn 21:
+p1: Rotom-Heat used Volt Switch on Tornadus
+p2: Tornadus fainted
+p1: Switched to Tsareena
+p2: Switched to Infernape
+Turn 22:
+p2: Infernape used Swords Dance on Infernape
+p1: Tsareena used Rapid Spin on Infernape
+Turn 23:
+p2: Infernape used Fire Punch on Tsareena
+p1: Tsareena fainted
+p1: Switched to Rotom-Heat
+Turn 24:
+p2: Infernape used Mach Punch on Rotom-Heat
+p1: Rotom-Heat fainted
+p1: Switched to Espeon
+Turn 25:
+p2: Infernape used Mach Punch on Espeon
+p1: Espeon used Psychic on Infernape
+p2: Infernape fainted
+p2: Switched to Vikavolt
+Turn 26:
+p1: Espeon used Psychic on Vikavolt
+p2: Vikavolt fainted

@@ -1,0 +1,47 @@
+p1: Switched to Indeedee
+p2: Switched to Samurott-Hisui
+Turn 1:
+p1: Indeedee used Dazzling Gleam on Samurott-Hisui
+p2: Samurott-Hisui used Ceaseless Edge on Indeedee
+Turn 2:
+p1: Indeedee used Dazzling Gleam on Samurott-Hisui
+p2: Samurott-Hisui fainted
+p2: Switched to Iron Moth
+Turn 3:
+p1: Switched to Hatterene
+p2: Iron Moth used Fiery Dance on Hatterene
+p1: Switched to Deoxys-Speed
+Turn 4:
+p2: Switched to Miasmaw
+p1: Deoxys-Speed used Expanding Force on Miasmaw
+p2: Miasmaw fainted
+p2: Switched to Ursaluna
+Turn 5:
+p1: Switched to Hatterene
+p2: Ursaluna used Crunch on Hatterene
+p1: Hatterene fainted
+p1: Switched to Miasmaw
+Turn 6:
+p1: Miasmaw used Swords Dance on Miasmaw
+p2: Ursaluna used Facade on Miasmaw
+p1: Miasmaw fainted
+p1: Switched to Hawlucha
+Turn 7:
+p2: Switched to Iron Valiant
+p1: Hawlucha used Close Combat on Iron Valiant
+Turn 8:
+p1: Hawlucha used Acrobatics on Iron Valiant
+p2: Iron Valiant used Moonblast on Hawlucha
+p1: Hawlucha fainted
+p1: Switched to Indeedee
+Turn 9:
+p2: Iron Valiant used Moonblast on Indeedee
+p1: Indeedee fainted
+p1: Switched to Deoxys-Speed
+Turn 10:
+p2: Iron Valiant used Moonblast on Deoxys-Speed
+p1: Deoxys-Speed fainted
+p1: Switched to Venomicon-Epilogue
+Turn 11:
+p2: Iron Valiant used Thunderbolt on Venomicon-Epilogue
+p1: Venomicon-Epilogue fainted

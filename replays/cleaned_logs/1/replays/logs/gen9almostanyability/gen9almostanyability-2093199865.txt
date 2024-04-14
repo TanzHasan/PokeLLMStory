@@ -1,0 +1,5 @@
+p1: Switched to Metagross
+p2: Switched to Goodra-Hisui
+Turn 1:
+p1: Metagross used Earthquake on Goodra-Hisui
+p2: Goodra-Hisui fainted

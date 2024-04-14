@@ -1,0 +1,214 @@
+|j|☆FuzzyJu
+|j|☆SquidSpring
+|t:|1711944248
+|gametype|singles
+|player|p1|FuzzyJu|clerk-boss|1000
+|player|p2|SquidSpring|iono|1121
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Feraligatr, M|
+|poke|p1|Pikachu, M|
+|poke|p1|Entei|
+|poke|p1|Muk-Alola, M|
+|poke|p1|Moltres|
+|poke|p1|Espeon, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Suicune|
+|poke|p2|Enamorus-Therian, F|
+|poke|p2|Breloom, F|
+|poke|p2|Zoroark-Hisui, M|
+|poke|p2|Mimikyu, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FuzzyJu)
+|c|☆SquidSpring|glhf
+|
+|t:|1711944269
+|start
+|switch|p1a: Pikachu|Pikachu, M|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|1
+|
+|t:|1711944278
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711944283
+|move|p2a: Zapdos|Nasty Plot|p2a: Zapdos
+|-boost|p2a: Zapdos|spa|2
+|move|p1a: Moltres|Air Slash|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1711944294
+|switch|p1a: Muk|Muk-Alola, M|100/100
+|move|p2a: Zapdos|Hyper Voice|p1a: Muk
+|-damage|p1a: Muk|54/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711944308
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|51/100
+|move|p1a: Muk|Knock Off|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|upkeep
+|turn|5
+|
+|t:|1711944315
+|move|p2a: Zapdos|Hyper Voice|p1a: Muk
+|-damage|p1a: Muk|5/100
+|move|p1a: Muk|Knock Off|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|replace|p2a: Zoroark|Zoroark-Hisui, M
+|-end|p2a: Zoroark|Illusion
+|-enditem|p2a: Zoroark|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Muk
+|faint|p2a: Zoroark
+|
+|upkeep
+|
+|t:|1711944328
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|6
+|
+|t:|1711944333
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|76/100
+|move|p1a: Muk|Knock Off|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711944338
+|move|p2a: Zapdos|Drill Peck|p1a: Muk
+|-damage|p1a: Muk|0 fnt
+|faint|p1a: Muk
+|
+|-heal|p2a: Zapdos|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711944346
+|switch|p1a: Espeon|Espeon, F|100/100
+|turn|8
+|
+|t:|1711944352
+|-terastallize|p2a: Zapdos|Steel
+|move|p1a: Espeon|Psychic|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|45/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|20/100
+|
+|-heal|p2a: Zapdos|27/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711944366
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Zapdos|Drill Peck|p1a: Moltres
+|-damage|p1a: Moltres|72/100
+|-status|p2a: Zapdos|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|
+|-heal|p2a: Zapdos|33/100 brn|[from] item: Leftovers
+|-damage|p2a: Zapdos|27/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711944370
+|move|p2a: Zapdos|Thunderous Kick|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|64/100
+|-unboost|p1a: Moltres|def|1
+|move|p1a: Moltres|Flamethrower|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|33/100 brn|[from] item: Leftovers
+|-damage|p2a: Zapdos|27/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711944380
+|move|p2a: Zapdos|Drill Peck|p1a: Moltres
+|-damage|p1a: Moltres|42/100
+|move|p1a: Moltres|Flamethrower|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1711944393
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|turn|12
+|
+|t:|1711944397
+|move|p1a: Moltres|U-turn|p2a: Enamorus
+|-resisted|p2a: Enamorus
+|-damage|p2a: Enamorus|97/100
+|
+|t:|1711944401
+|switch|p1a: Espeon|Espeon, F|100/100|[from] U-turn
+|move|p2a: Enamorus|Substitute|p2a: Enamorus
+|-start|p2a: Enamorus|Substitute
+|-damage|p2a: Enamorus|72/100
+|
+|-heal|p2a: Enamorus|78/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711944411
+|move|p1a: Espeon|Trick||[still]
+|-fail|p1a: Espeon
+|move|p2a: Enamorus|Calm Mind|p2a: Enamorus
+|-boost|p2a: Enamorus|spa|1
+|-boost|p2a: Enamorus|spd|1
+|
+|-heal|p2a: Enamorus|84/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711944415
+|move|p1a: Espeon|Trick||[still]
+|-fail|p1a: Espeon
+|move|p2a: Enamorus|Calm Mind|p2a: Enamorus
+|-boost|p2a: Enamorus|spa|1
+|-boost|p2a: Enamorus|spd|1
+|
+|-heal|p2a: Enamorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|-message|FuzzyJu forfeited.
+|
+|win|SquidSpring
+|raw|FuzzyJu's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|SquidSpring's rating: 1121 &rarr; <strong>1138</strong><br />(+17 for winning)
+|l|☆FuzzyJu
+|player|p1|

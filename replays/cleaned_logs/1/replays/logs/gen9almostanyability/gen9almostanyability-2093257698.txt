@@ -1,0 +1,184 @@
+p1: Switched to Slither Wing
+p2: Switched to Great Tusk
+Turn 1:
+p2: Great Tusk used Stealth Rock on Slither Wing
+p1: Slither Wing used U-turn on Great Tusk
+p1: Switched to Corviknight
+Turn 2:
+p2: Great Tusk used Knock Off on Corviknight
+p1: Corviknight used Defog on Great Tusk
+Turn 3:
+p2: Switched to Corviknight
+p1: Corviknight used U-turn on Corviknight
+p1: Switched to Moltres
+Turn 4:
+p2: Switched to Manaphy
+p1: Moltres used Brave Bird on Manaphy
+Turn 5:
+p2: Switched to Corviknight
+p1: Moltres used Will-O-Wisp on Corviknight
+Turn 6:
+p1: Switched to Corviknight
+p2: Corviknight used U-turn on Corviknight
+p2: Switched to Greninja
+Turn 7:
+p1: Switched to Muk-Alola
+p2: Greninja used Hydro Pump on Muk-Alola
+Turn 8:
+p2: Greninja used U-turn on Muk-Alola
+p2: Switched to Zamazenta
+p1: Muk-Alola used Knock Off on Zamazenta
+Turn 9:
+p1: Switched to Corviknight
+p2: Zamazenta used Close Combat on Corviknight
+Turn 10:
+p2: Zamazenta used Close Combat on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 11:
+p2: Switched to Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 12:
+p2: Corviknight used U-turn on Corviknight
+p2: Switched to Manaphy
+p1: Corviknight used U-turn on Manaphy
+p1: Switched to Slither Wing
+Turn 13:
+p2: Switched to Great Tusk
+p1: Slither Wing used Close Combat on Great Tusk
+Turn 14:
+p1: Switched to Corviknight
+p2: Great Tusk used Knock Off on Corviknight
+Turn 15:
+p2: Great Tusk used Stealth Rock on Corviknight
+p1: Corviknight used Brave Bird on Great Tusk
+Turn 16:
+p2: Switched to Manaphy
+p1: Corviknight used Defog on Manaphy
+Turn 17:
+p2: Manaphy used Scald on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 18:
+p2: Manaphy used Knock Off on Corviknight
+p1: Corviknight used U-turn on Manaphy
+p1: Switched to Slither Wing
+Turn 19:
+p2: Switched to Corviknight
+p1: Slither Wing used Close Combat on Corviknight
+Turn 20:
+p1: Slither Wing used Close Combat on Corviknight
+p2: Corviknight fainted
+p2: Switched to Dragonite
+Turn 21:
+p1: Switched to Corviknight
+p2: Dragonite used Extreme Speed on Corviknight
+Turn 22:
+p2: Dragonite used Thunderbolt on Corviknight
+p1: Corviknight fainted
+p1: Switched to Hippowdon
+Turn 23:
+p2: Switched to Manaphy
+p1: Switched to Slither Wing
+Turn 24:
+p1: Slither Wing used U-turn on Manaphy
+p1: Switched to Muk-Alola
+p2: Manaphy used U-turn on Muk-Alola
+p2: Switched to Zamazenta
+Turn 25:
+p1: Switched to Hippowdon
+p2: Zamazenta used Close Combat on Hippowdon
+Turn 26:
+p2: Switched to Manaphy
+p1: Hippowdon used Slack Off on Hippowdon
+Turn 27:
+p1: Switched to Gholdengo
+p2: Manaphy used Knock Off on Gholdengo
+Turn 28:
+p1: Gholdengo used Nasty Plot on Gholdengo
+p2: Manaphy used U-turn on Gholdengo
+p2: Switched to Greninja
+Turn 29:
+p2: Greninja used Dark Pulse on Gholdengo
+p1: Gholdengo fainted
+p1: Switched to Muk-Alola
+Turn 30:
+p2: Greninja used U-turn on Muk-Alola
+p2: Switched to Manaphy
+p1: Muk-Alola used Poison Fang on Manaphy
+Turn 31:
+p2: Manaphy used Knock Off on Muk-Alola
+p1: Muk-Alola used Poison Fang on Manaphy
+Turn 32:
+p2: Manaphy used Scald on Muk-Alola
+p1: Muk-Alola used Knock Off on Manaphy
+Turn 33:
+p2: Manaphy used U-turn on Muk-Alola
+p2: Switched to Zamazenta
+p1: Muk-Alola used Drain Punch on Zamazenta
+Turn 34:
+p1: Switched to Hippowdon
+p2: Zamazenta used Close Combat on Hippowdon
+Turn 35:
+p2: Switched to Manaphy
+p1: Hippowdon used Earthquake on Manaphy
+Turn 36:
+p2: Manaphy used U-turn on Hippowdon
+p2: Switched to Dragonite
+p1: Hippowdon used Rock Slide on Dragonite
+Turn 37:
+p2: Dragonite used Roost on Dragonite
+p1: Hippowdon used Slack Off on Hippowdon
+Turn 38:
+p2: Dragonite used Earthquake on Hippowdon
+p1: Hippowdon used Curse on Hippowdon
+Turn 39:
+p2: Switched to Manaphy
+p1: Hippowdon used Earthquake on Manaphy
+p2: Manaphy fainted
+p2: Switched to Greninja
+Turn 40:
+p1: Switched to Muk-Alola
+p2: Greninja used Hydro Pump on Muk-Alola
+Turn 41:
+p1: Switched to Slither Wing
+p2: Greninja used Hydro Pump on Slither Wing
+Turn 42:
+p1: Slither Wing used First Impression on Greninja
+p2: Greninja fainted
+p2: Switched to Dragonite
+Turn 43:
+p1: Switched to Muk-Alola
+p2: Dragonite used Earthquake on Muk-Alola
+p1: Muk-Alola fainted
+p1: Switched to Hippowdon
+Turn 44:
+p2: Switched to Great Tusk
+p1: Hippowdon used Curse on Hippowdon
+Turn 45:
+p2: Great Tusk used Stealth Rock on Hippowdon
+p1: Hippowdon used Earthquake on Great Tusk
+Turn 46:
+p2: Great Tusk used Knock Off on Hippowdon
+p1: Hippowdon used Earthquake on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Zamazenta
+Turn 47:
+p2: Zamazenta used Close Combat on Hippowdon
+p1: Hippowdon used Slack Off on Hippowdon
+Turn 48:
+p2: Zamazenta used Close Combat on Hippowdon
+p1: Hippowdon used Slack Off on Hippowdon
+Turn 49:
+p2: Zamazenta used Close Combat on Hippowdon
+p1: Hippowdon used Earthquake on Zamazenta
+Turn 50:
+p2: Zamazenta used Close Combat on Hippowdon
+p1: Hippowdon used Slack Off on Hippowdon
+Turn 51:
+p2: Zamazenta used Crunch on Hippowdon
+p1: Hippowdon used Earthquake on Zamazenta
+p2: Zamazenta fainted
+p2: Switched to Dragonite
+Turn 52:
+p2: Dragonite used Extreme Speed on Hippowdon
+p1: Hippowdon used Rock Slide on Dragonite
+p2: Dragonite fainted

@@ -1,0 +1,613 @@
+|j|☆theironpikachu
+|j|☆Penter
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1710899216
+|gametype|singles
+|player|p1|theironpikachu|may-masters|
+|player|p2|Penter|n-masters|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Scalemons Mod: Every Pokemon's stats, barring HP, are scaled to come as close to a BST of 600 as possible
+|clearpoke
+|poke|p1|Morgrem, M|
+|poke|p1|Sinistea|
+|poke|p1|Pikachu, F|
+|poke|p1|Meditite, M|
+|poke|p1|Naclstack, M|
+|poke|p1|Servine, M|
+|poke|p2|Sliggoo-Hisui, F|
+|poke|p2|Crocalor, F|
+|poke|p2|Hattrem, F|
+|poke|p2|Grovyle, F|
+|poke|p2|Thwackey, M|
+|poke|p2|Dunsparce, M|
+|teampreview
+|j|*Lady Monita ❆
+|inactive|theironpikachu also wants the timer to be on.
+|j| MarsWheel
+|j| happysh
+|c|☆theironpikachu|glhf
+|inactive|Penter has 120 seconds left.
+|j| Tanday777
+|inactive|Penter has 90 seconds left.
+|
+|t:|1710899282
+|start
+|switch|p1a: Morgrem|Morgrem, M|100/100
+|switch|p2a: Dunsparce|Dunsparce, M|100/100
+|turn|1
+|
+|t:|1710899306
+|move|p1a: Morgrem|Reflect|p1a: Morgrem
+|-sidestart|p1: theironpikachu|Reflect
+|move|p2a: Dunsparce|Glare|p1a: Morgrem
+|-status|p1a: Morgrem|par
+|
+|upkeep
+|turn|2
+|
+|t:|1710899322
+|move|p1a: Morgrem|Light Screen|p1a: Morgrem
+|-sidestart|p1: theironpikachu|move: Light Screen
+|move|p2a: Dunsparce|Earth Power|p1a: Morgrem
+|-damage|p1a: Morgrem|92/100 par
+|-unboost|p1a: Morgrem|spd|1
+|
+|upkeep
+|turn|3
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899372
+|switch|p2a: Sliggoo|Sliggoo-Hisui, F|100/100
+|switch|p1a: Servine|Servine, M|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1710899381
+|switch|p2a: Crocalor|Crocalor, F|100/100
+|move|p1a: Servine|Glare|p2a: Crocalor
+|-status|p2a: Crocalor|par
+|
+|upkeep
+|turn|5
+|
+|t:|1710899406
+|switch|p1a: Naclstack|Naclstack, M|100/100
+|cant|p2a: Crocalor|par
+|
+|upkeep
+|turn|6
+|l| Tanday777
+|
+|t:|1710899417
+|switch|p2a: Hattrem|Hattrem, F|100/100
+|move|p1a: Naclstack|Stealth Rock|p2a: Hattrem
+|move|p2a: Hattrem|Stealth Rock|p1a: Naclstack|[from]ability: Magic Bounce
+|-sidestart|p1: theironpikachu|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1710899426
+|switch|p1a: Servine|Servine, M|100/100
+|-damage|p1a: Servine|88/100|[from] Stealth Rock
+|move|p2a: Hattrem|Calm Mind|p2a: Hattrem
+|-boost|p2a: Hattrem|spa|1
+|-boost|p2a: Hattrem|spd|1
+|
+|-heal|p1a: Servine|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899439
+|move|p1a: Servine|Leaf Storm|p2a: Hattrem|[miss]
+|-miss|p1a: Servine|p2a: Hattrem
+|move|p2a: Hattrem|Calm Mind|p2a: Hattrem
+|-boost|p2a: Hattrem|spa|1
+|-boost|p2a: Hattrem|spd|1
+|
+|-heal|p1a: Servine|100/100|[from] item: Leftovers
+|-sideend|p1: theironpikachu|Reflect
+|upkeep
+|turn|9
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899445
+|move|p1a: Servine|Leaf Storm|p2a: Hattrem
+|-damage|p2a: Hattrem|77/100
+|-boost|p1a: Servine|spa|2
+|move|p2a: Hattrem|Calm Mind|p2a: Hattrem
+|-boost|p2a: Hattrem|spa|1
+|-boost|p2a: Hattrem|spd|1
+|
+|-sideend|p1: theironpikachu|move: Light Screen
+|upkeep
+|turn|10
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710899477
+|move|p1a: Servine|Leaf Storm|p2a: Hattrem
+|-damage|p2a: Hattrem|42/100
+|-boost|p1a: Servine|spa|2
+|move|p2a: Hattrem|Psychic|p1a: Servine
+|-damage|p1a: Servine|0 fnt
+|faint|p1a: Servine
+|
+|upkeep
+|
+|t:|1710899480
+|switch|p1a: Pikachu|Pikachu, F|100/100
+|-damage|p1a: Pikachu|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1710899489
+|switch|p2a: Crocalor|Crocalor, F|100/100 par
+|move|p1a: Pikachu|Knock Off|p2a: Crocalor
+|-damage|p2a: Crocalor|59/100 par
+|-enditem|p2a: Crocalor|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Pikachu
+|
+|upkeep
+|turn|12
+|
+|t:|1710899496
+|move|p1a: Pikachu|Volt Switch|p2a: Crocalor
+|-damage|p2a: Crocalor|22/100 par
+|
+|t:|1710899498
+|switch|p1a: Naclstack|Naclstack, M|100/100|[from] Volt Switch
+|-damage|p1a: Naclstack|88/100|[from] Stealth Rock
+|cant|p2a: Crocalor|par
+|
+|-heal|p1a: Naclstack|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆theironpikachu|my b
+|
+|t:|1710899506
+|switch|p2a: Dunsparce|Dunsparce, M|100/100
+|move|p1a: Naclstack|Salt Cure|p2a: Dunsparce
+|-damage|p2a: Dunsparce|91/100
+|-start|p2a: Dunsparce|Salt Cure
+|
+|-heal|p1a: Naclstack|100/100|[from] item: Leftovers
+|-damage|p2a: Dunsparce|79/100|[from] Salt Cure
+|upkeep
+|turn|14
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710899542
+|move|p2a: Dunsparce|Earth Power|p1a: Naclstack
+|-supereffective|p1a: Naclstack
+|-damage|p1a: Naclstack|59/100
+|move|p1a: Naclstack|Salt Cure|p2a: Dunsparce
+|-damage|p2a: Dunsparce|69/100
+|
+|-heal|p1a: Naclstack|65/100|[from] item: Leftovers
+|-damage|p2a: Dunsparce|57/100|[from] Salt Cure
+|upkeep
+|turn|15
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710899549
+|switch|p2a: Crocalor|Crocalor, F|22/100 par
+|move|p1a: Naclstack|Stealth Rock|p2a: Crocalor
+|-sidestart|p2: Penter|move: Stealth Rock
+|
+|-heal|p1a: Naclstack|71/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1710899552
+|move|p1a: Naclstack|Salt Cure|p2a: Crocalor
+|-supereffective|p2a: Crocalor
+|-damage|p2a: Crocalor|0 fnt
+|faint|p2a: Crocalor
+|
+|-heal|p1a: Naclstack|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1710899573
+|switch|p2a: Thwackey|Thwackey, M|100/100
+|-damage|p2a: Thwackey|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|turn|17
+|inactive|theironpikachu has 120 seconds left.
+|inactive|theironpikachu has 90 seconds left.
+|
+|t:|1710899636
+|move|p2a: Thwackey|Wood Hammer|p1a: Naclstack
+|-supereffective|p1a: Naclstack
+|-damage|p1a: Naclstack|0 fnt
+|faint|p1a: Naclstack
+|-damage|p2a: Thwackey|62/100|[from] Recoil
+|
+|-heal|p2a: Thwackey|68/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1710899639
+|switch|p1a: Morgrem|Morgrem, M|92/100 par
+|-damage|p1a: Morgrem|80/100 par|[from] Stealth Rock
+|turn|18
+|
+|t:|1710899661
+|switch|p2a: Hattrem|Hattrem, F|42/100
+|-damage|p2a: Hattrem|29/100|[from] Stealth Rock
+|move|p1a: Morgrem|Reflect|p1a: Morgrem
+|-sidestart|p1: theironpikachu|Reflect
+|
+|-heal|p2a: Hattrem|35/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|86/100 par|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1710899667
+|move|p1a: Morgrem|Light Screen|p1a: Morgrem
+|-sidestart|p1: theironpikachu|move: Light Screen
+|move|p2a: Hattrem|Calm Mind|p2a: Hattrem
+|-boost|p2a: Hattrem|spa|1
+|-boost|p2a: Hattrem|spd|1
+|
+|-heal|p2a: Hattrem|41/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|92/100 par|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1710899675
+|cant|p1a: Morgrem|par
+|move|p2a: Hattrem|Calm Mind|p2a: Hattrem
+|-boost|p2a: Hattrem|spa|1
+|-boost|p2a: Hattrem|spd|1
+|
+|-heal|p2a: Hattrem|47/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|98/100 par|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1710899679
+|move|p1a: Morgrem|Parting Shot|p2a: Hattrem
+|move|p2a: Hattrem|Parting Shot|p1a: Morgrem|[from]ability: Magic Bounce
+|-unboost|p1a: Morgrem|atk|1
+|-unboost|p1a: Morgrem|spa|1
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899711
+|switch|p2a: Sliggoo|Sliggoo-Hisui, F|100/100|[from] Parting Shot
+|-damage|p2a: Sliggoo|95/100|[from] Stealth Rock
+|
+|-heal|p2a: Sliggoo|100/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|100/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|22
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710899743
+|move|p1a: Morgrem|Parting Shot|p2a: Sliggoo
+|-unboost|p2a: Sliggoo|atk|1
+|-unboost|p2a: Sliggoo|spa|1
+|
+|t:|1710899746
+|switch|p1a: Meditite|Meditite, M|100/100|[from] Parting Shot
+|-damage|p1a: Meditite|95/100|[from] Stealth Rock
+|move|p2a: Sliggoo|Acid Spray|p1a: Meditite
+|-damage|p1a: Meditite|90/100
+|-unboost|p1a: Meditite|spd|2
+|
+|upkeep
+|turn|23
+|
+|t:|1710899757
+|switch|p2a: Dunsparce|Dunsparce, M|57/100
+|-damage|p2a: Dunsparce|45/100|[from] Stealth Rock
+|move|p1a: Meditite|High Jump Kick|p2a: Dunsparce
+|-supereffective|p2a: Dunsparce
+|-damage|p2a: Dunsparce|0 fnt
+|faint|p2a: Dunsparce
+|
+|upkeep
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899795
+|switch|p2a: Thwackey|Thwackey, M|68/100
+|-damage|p2a: Thwackey|56/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|turn|24
+|n| mr grain munch|happysh
+|
+|t:|1710899805
+|switch|p2a: Grovyle|Grovyle, F|100/100
+|-damage|p2a: Grovyle|88/100|[from] Stealth Rock
+|-enditem|p2a: Grovyle|Grassy Seed
+|-boost|p2a: Grovyle|def|1|[from] item: Grassy Seed
+|move|p1a: Meditite|High Jump Kick|p2a: Grovyle
+|-damage|p2a: Grovyle|0 fnt
+|faint|p2a: Grovyle
+|
+|-heal|p1a: Meditite|96/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1710899822
+|switch|p2a: Hattrem|Hattrem, F|47/100
+|-damage|p2a: Hattrem|35/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1710899835
+|move|p1a: Meditite|High Jump Kick|p2a: Hattrem|[miss]
+|-miss|p1a: Meditite|p2a: Hattrem
+|-damage|p1a: Meditite|46/100|[from] highjumpkick
+|move|p2a: Hattrem|Draining Kiss|p1a: Meditite
+|-supereffective|p1a: Meditite
+|-damage|p1a: Meditite|1/100
+|-heal|p2a: Hattrem|56/100|[from] drain|[of] p1a: Meditite
+|
+|-heal|p1a: Meditite|7/100|[from] Grassy Terrain
+|-heal|p2a: Hattrem|62/100|[from] Grassy Terrain
+|-sideend|p1: theironpikachu|Reflect
+|upkeep
+|turn|26
+|
+|t:|1710899845
+|move|p1a: Meditite|High Jump Kick|p2a: Hattrem
+|-resisted|p2a: Hattrem
+|-damage|p2a: Hattrem|26/100
+|-damage|p1a: Meditite|0 fnt|[from] item: Rocky Helmet|[of] p2a: Hattrem
+|faint|p1a: Meditite
+|move|p2a: Hattrem|Draining Kiss|p1: Meditite|[notarget]
+|-fail|p2a: Hattrem
+|
+|-heal|p2a: Hattrem|32/100|[from] Grassy Terrain
+|-sideend|p1: theironpikachu|move: Light Screen
+|upkeep
+|
+|t:|1710899849
+|switch|p1a: Pikachu|Pikachu, F|88/100
+|-damage|p1a: Pikachu|76/100|[from] Stealth Rock
+|turn|27
+|inactive|Penter has 120 seconds left.
+|
+|t:|1710899859
+|switch|p2a: Sliggoo|Sliggoo-Hisui, F|100/100
+|-damage|p2a: Sliggoo|95/100|[from] Stealth Rock
+|move|p1a: Pikachu|Knock Off|p2a: Sliggoo
+|-damage|p2a: Sliggoo|49/100
+|-ability|p2a: Sliggoo|Gooey
+|-unboost|p1a: Pikachu|spe|1
+|-enditem|p2a: Sliggoo|Leftovers|[from] move: Knock Off|[of] p1a: Pikachu
+|
+|-heal|p1a: Pikachu|82/100|[from] Grassy Terrain
+|-heal|p2a: Sliggoo|55/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|inactive|theironpikachu has 120 seconds left.
+|inactive|theironpikachu has 90 seconds left.
+|
+|t:|1710899945
+|move|p1a: Pikachu|Volt Switch|p2a: Sliggoo
+|-resisted|p2a: Sliggoo
+|-damage|p2a: Sliggoo|41/100
+|
+|t:|1710899949
+|switch|p1a: Morgrem|Morgrem, M|100/100 par|[from] Volt Switch
+|-damage|p1a: Morgrem|88/100 par|[from] Stealth Rock
+|move|p2a: Sliggoo|Acid Spray|p1a: Morgrem
+|-supereffective|p1a: Morgrem
+|-damage|p1a: Morgrem|72/100 par
+|-unboost|p1a: Morgrem|spd|2
+|
+|-heal|p2a: Sliggoo|47/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|78/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1710899962
+|move|p1a: Morgrem|Light Screen|p1a: Morgrem
+|-sidestart|p1: theironpikachu|move: Light Screen
+|move|p2a: Sliggoo|Flash Cannon|p1a: Morgrem
+|-supereffective|p1a: Morgrem
+|-damage|p1a: Morgrem|29/100 par
+|-unboost|p1a: Morgrem|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1710899976
+|move|p1a: Morgrem|Reflect|p1a: Morgrem
+|-sidestart|p1: theironpikachu|Reflect
+|move|p2a: Sliggoo|Rest|p2a: Sliggoo
+|-status|p2a: Sliggoo|slp|[from] move: Rest
+|-heal|p2a: Sliggoo|100/100 slp|[silent]
+|
+|upkeep
+|turn|31
+|
+|t:|1710899983
+|switch|p2a: Hattrem|Hattrem, F|32/100
+|-damage|p2a: Hattrem|20/100|[from] Stealth Rock
+|move|p1a: Morgrem|Parting Shot|p2a: Hattrem
+|move|p2a: Hattrem|Parting Shot|p1a: Morgrem|[from]ability: Magic Bounce
+|-unboost|p1a: Morgrem|atk|1
+|-unboost|p1a: Morgrem|spa|1
+|
+|t:|1710900000
+|switch|p2a: Thwackey|Thwackey, M|56/100|[from] Parting Shot
+|-damage|p2a: Thwackey|43/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|
+|-heal|p2a: Thwackey|49/100|[from] Grassy Terrain
+|-heal|p1a: Morgrem|35/100 par|[from] Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1710900006
+|switch|p2a: Hattrem|Hattrem, F|20/100
+|-damage|p2a: Hattrem|7/100|[from] Stealth Rock
+|move|p1a: Morgrem|Parting Shot|p2a: Hattrem
+|move|p2a: Hattrem|Parting Shot|p1a: Morgrem|[from]ability: Magic Bounce
+|-unboost|p1a: Morgrem|atk|1
+|-unboost|p1a: Morgrem|spa|1
+|c|☆theironpikachu|moment
+|
+|t:|1710900020
+|switch|p2a: Sliggoo|Sliggoo-Hisui, F|100/100 slp|[from] Parting Shot
+|-damage|p2a: Sliggoo|95/100 slp|[from] Stealth Rock
+|
+|-heal|p2a: Sliggoo|100/100 slp|[from] Grassy Terrain
+|-heal|p1a: Morgrem|41/100 par|[from] Grassy Terrain
+|upkeep
+|turn|33
+|
+|t:|1710900035
+|move|p1a: Morgrem|Parting Shot|p2a: Sliggoo
+|-unboost|p2a: Sliggoo|atk|1
+|-unboost|p2a: Sliggoo|spa|1
+|
+|t:|1710900040
+|switch|p1a: Sinistea|Sinistea|100/100|[from] Parting Shot
+|-damage|p1a: Sinistea|88/100|[from] Stealth Rock
+|cant|p2a: Sliggoo|slp
+|move|p2a: Sliggoo|Sleep Talk|p2a: Sliggoo
+|move|p2a: Sliggoo|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Sliggoo
+|
+|-heal|p1a: Sinistea|94/100|[from] Grassy Terrain
+|upkeep
+|turn|34
+|
+|t:|1710900049
+|move|p1a: Sinistea|Shell Smash|p1a: Sinistea
+|-unboost|p1a: Sinistea|def|1
+|-unboost|p1a: Sinistea|spd|1
+|-boost|p1a: Sinistea|atk|2
+|-boost|p1a: Sinistea|spa|2
+|-boost|p1a: Sinistea|spe|2
+|cant|p2a: Sliggoo|slp
+|move|p2a: Sliggoo|Sleep Talk|p2a: Sliggoo
+|move|p2a: Sliggoo|Acid Spray|p1a: Sinistea|[from]move: Sleep Talk
+|-resisted|p1a: Sinistea
+|-damage|p1a: Sinistea|91/100
+|-unboost|p1a: Sinistea|spd|2
+|
+|-heal|p1a: Sinistea|96/100|[from] Grassy Terrain
+|upkeep
+|turn|35
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710900067
+|move|p1a: Sinistea|Shadow Ball|p2a: Sliggoo
+|-damage|p2a: Sliggoo|35/100 slp
+|-curestatus|p2a: Sliggoo|slp|[msg]
+|move|p2a: Sliggoo|Flash Cannon|p1a: Sinistea
+|-damage|p1a: Sinistea|59/100
+|
+|-heal|p1a: Sinistea|65/100|[from] Grassy Terrain
+|-heal|p2a: Sliggoo|41/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|36
+|
+|t:|1710900075
+|switch|p2a: Hattrem|Hattrem, F|7/100
+|-damage|p2a: Hattrem|0 fnt|[from] Stealth Rock
+|faint|p2a: Hattrem
+|move|p1a: Sinistea|Shadow Ball|p2: Hattrem|[notarget]
+|-fail|p1a: Sinistea
+|
+|-sideend|p1: theironpikachu|move: Light Screen
+|upkeep
+|
+|t:|1710900080
+|switch|p2a: Sliggoo|Sliggoo-Hisui, F|41/100
+|-damage|p2a: Sliggoo|35/100|[from] Stealth Rock
+|turn|37
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710900109
+|move|p1a: Sinistea|Shadow Ball|p2a: Sliggoo
+|-damage|p2a: Sliggoo|0 fnt
+|faint|p2a: Sliggoo
+|
+|-sideend|p1: theironpikachu|Reflect
+|upkeep
+|
+|t:|1710900116
+|switch|p2a: Thwackey|Thwackey, M|49/100
+|-damage|p2a: Thwackey|37/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Thwackey
+|turn|38
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1710900142
+|move|p2a: Thwackey|Grassy Glide|p1a: Sinistea
+|-damage|p1a: Sinistea|0 fnt
+|faint|p1a: Sinistea
+|
+|-heal|p2a: Thwackey|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1710900145
+|switch|p1a: Pikachu|Pikachu, F|82/100
+|-damage|p1a: Pikachu|70/100|[from] Stealth Rock
+|turn|39
+|
+|t:|1710900148
+|move|p1a: Pikachu|Fake Out|p2a: Thwackey
+|-damage|p2a: Thwackey|19/100
+|cant|p2a: Thwackey|flinch
+|
+|-heal|p1a: Pikachu|76/100|[from] Grassy Terrain
+|-heal|p2a: Thwackey|25/100|[from] Grassy Terrain
+|upkeep
+|turn|40
+|
+|t:|1710900151
+|switch|p1a: Morgrem|Morgrem, M|41/100 par
+|-damage|p1a: Morgrem|28/100 par|[from] Stealth Rock
+|move|p2a: Thwackey|Grassy Glide|p1a: Morgrem
+|-damage|p1a: Morgrem|0 fnt
+|faint|p1a: Morgrem
+|
+|-heal|p2a: Thwackey|31/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1710900153
+|switch|p1a: Pikachu|Pikachu, F|76/100
+|-damage|p1a: Pikachu|64/100|[from] Stealth Rock
+|turn|41
+|
+|t:|1710900156
+|move|p1a: Pikachu|Fake Out|p2a: Thwackey
+|-damage|p2a: Thwackey|6/100
+|cant|p2a: Thwackey|flinch
+|
+|-heal|p1a: Pikachu|70/100|[from] Grassy Terrain
+|-heal|p2a: Thwackey|12/100|[from] Grassy Terrain
+|upkeep
+|turn|42
+|c|☆Penter|gorilla
+|inactive|theironpikachu has 120 seconds left.
+|c|☆theironpikachu|D;
+|
+|t:|1710900196
+|move|p2a: Thwackey|Grassy Glide|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|win|Penter
+|n|☆theironpikachu|theironpikachu
+|n|☆Penter|penter
+|n|*Lady Monita ❆|ladymonita
+|n| MarsWheel|marswheel
+|n| mr grain munch|mrgrainmunch

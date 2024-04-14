@@ -1,0 +1,69 @@
+p1: Switched to Impidimp
+p2: Switched to Shroodle
+Turn 1:
+p2: Shroodle used Rain Dance on Shroodle
+p1: Impidimp used Reflect on Impidimp
+Turn 2:
+p2: Shroodle used Copycat on Shroodle
+p2: Shroodle used Reflect on Shroodle
+p1: Impidimp used Parting Shot on Shroodle
+p1: Switched to Magby
+Turn 3:
+p2: Shroodle used Parting Shot on Magby
+p2: Switched to Horsea
+p1: Magby used Belly Drum on Magby
+Turn 4:
+p1: Magby used Mach Punch on Horsea
+p2: Horsea used Weather Ball on Magby
+p1: Magby fainted
+p1: Switched to Mienfoo
+Turn 5:
+p2: Switched to Glimmet
+p1: Mienfoo used Fake Out on Glimmet
+p2: Switched to Horsea
+Turn 6:
+p1: Switched to Stunky
+p2: Horsea used Weather Ball on Stunky
+p1: Stunky fainted
+p1: Switched to Mienfoo
+Turn 7:
+p1: Mienfoo used Fake Out on Horsea
+p2: Horsea can't move
+Turn 8:
+p2: Horsea used Weather Ball on Mienfoo
+p1: Mienfoo used High Jump Kick on Horsea
+p2: Horsea fainted
+p2: Switched to Shroodle
+Turn 9:
+p2: Shroodle used Knock Off on Mienfoo
+p1: Mienfoo fainted
+p1: Switched to Impidimp
+Turn 10:
+p2: Shroodle used Rain Dance on Shroodle
+p1: Impidimp used Reflect on Impidimp
+Turn 11:
+p2: Switched to Lotad
+p1: Impidimp used Light Screen on Impidimp
+Turn 12:
+p1: Impidimp used Parting Shot on Lotad
+p1: Switched to Minccino
+p2: Lotad used Weather Ball on Minccino
+Turn 13:
+p2: Lotad used Weather Ball on Minccino
+p1: Minccino fainted
+p1: Switched to Gastly
+Turn 14:
+p1: Gastly used Shadow Ball on Lotad
+p2: Lotad used Weather Ball on Gastly
+p2: Lotad fainted
+p2: Switched to Buizel
+Turn 15:
+p2: Buizel used Wave Crash on Gastly
+p1: Gastly fainted
+p1: Switched to Impidimp
+Turn 16:
+p2: Buizel used Wave Crash on Impidimp
+p1: Impidimp used Dazzling Gleam on Buizel
+Turn 17:
+p2: Buizel used Wave Crash on Impidimp
+p1: Impidimp fainted

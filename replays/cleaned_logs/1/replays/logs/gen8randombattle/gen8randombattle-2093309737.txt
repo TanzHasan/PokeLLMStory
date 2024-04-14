@@ -1,0 +1,120 @@
+p1: Switched to Zarude-Dada
+p2: Switched to Pyukumuku
+Turn 1:
+p2: Switched to Whimsicott
+p1: Zarude-Dada used Bulk Up on Zarude-Dada
+Turn 2:
+p1: Switched to Politoed
+p2: Whimsicott used Moonblast on Politoed
+Turn 3:
+p2: Whimsicott used U-turn on Politoed
+p2: Switched to Tsareena
+p1: Politoed used Toxic on Tsareena
+Turn 4:
+p1: Switched to Zarude-Dada
+p2: Tsareena used Power Whip on Zarude-Dada
+Turn 5:
+p1: Zarude-Dada used Bulk Up on Zarude-Dada
+p2: Tsareena used Triple Axel on Zarude-Dada
+Turn 6:
+p2: Switched to Whimsicott
+p1: Zarude-Dada used Jungle Healing on Zarude-Dada
+Turn 7:
+p1: Switched to Politoed
+p2: Whimsicott used Energy Ball on Politoed
+Turn 8:
+p1: Switched to Lopunny
+p2: Whimsicott used U-turn on Lopunny
+p2: Switched to Landorus-Therian
+Turn 9:
+p1: Lopunny used Facade on Landorus-Therian
+p2: Landorus-Therian used Stealth Rock on Lopunny
+Turn 10:
+p1: Lopunny used Facade on Landorus-Therian
+p2: Landorus-Therian used Earthquake on Lopunny
+p2: Landorus-Therian fainted
+p2: Switched to Cresselia
+Turn 11:
+p2: Switched to Tsareena
+p1: Lopunny used Healing Wish on Lopunny
+p1: Lopunny fainted
+p1: Switched to Politoed
+Turn 12:
+p1: Switched to Thievul
+p2: Tsareena used Power Whip on Thievul
+Turn 13:
+p1: Thievul used Psychic on Tsareena
+p2: Tsareena used U-turn on Thievul
+p2: Switched to Metagross
+Turn 14:
+p1: Thievul used Dark Pulse on Metagross
+p2: Metagross fainted
+p2: Switched to Whimsicott
+Turn 15:
+p2: Whimsicott used Moonblast on Thievul
+p1: Thievul fainted
+p1: Switched to Dragalge
+Turn 16:
+p2: Whimsicott used U-turn on Dragalge
+p2: Switched to Tsareena
+p1: Dragalge used Sludge Wave on Tsareena
+p2: Tsareena fainted
+p2: Switched to Cresselia
+Turn 17:
+p1: Switched to Politoed
+p2: Cresselia used Calm Mind on Cresselia
+Turn 18:
+p2: Cresselia used Max Starfall on Politoed
+p1: Politoed used Toxic on Cresselia
+Turn 19:
+p2: Cresselia used Max Mindstorm on Politoed
+p1: Politoed fainted
+p1: Switched to Zarude-Dada
+Turn 20:
+p1: Zarude-Dada used Max Darkness on Cresselia
+p2: Cresselia used Max Starfall on Zarude-Dada
+Turn 21:
+p2: Switched to Whimsicott
+p1: Zarude-Dada used Max Darkness on Whimsicott
+Turn 22:
+p2: Whimsicott used Moonblast on Zarude-Dada
+p1: Zarude-Dada fainted
+p1: Switched to Dragalge
+Turn 23:
+p2: Whimsicott used U-turn on Dragalge
+p2: Switched to Cresselia
+p1: Dragalge used Sludge Wave on Cresselia
+Turn 24:
+p1: Switched to Druddigon
+p2: Cresselia used Moonlight on Cresselia
+Turn 25:
+p2: Switched to Pyukumuku
+p1: Druddigon used Outrage on Pyukumuku
+Turn 26:
+p2: Switched to Whimsicott
+p1: Druddigon used Outrage on Whimsicott
+Turn 27:
+p2: Whimsicott used Moonblast on Druddigon
+p1: Druddigon used Glare on Whimsicott
+Turn 28:
+p1: Switched to Dragalge
+p2: Whimsicott used Moonblast on Dragalge
+Turn 29:
+p2: Switched to Cresselia
+p1: Dragalge used Draco Meteor on Cresselia
+Turn 30:
+p1: Switched to Druddigon
+p2: Cresselia used Moonlight on Cresselia
+Turn 31:
+p2: Switched to Pyukumuku
+p1: Druddigon used Outrage on Pyukumuku
+p2: Pyukumuku fainted
+p1: Druddigon fainted
+p1: Switched to Dragalge
+p2: Switched to Cresselia
+Turn 32:
+p2: Cresselia used Moonlight on Cresselia
+p1: Dragalge used Draco Meteor on Cresselia
+Turn 33:
+p2: Cresselia used Psyshock on Dragalge
+p1: Dragalge fainted

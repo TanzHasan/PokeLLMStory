@@ -1,0 +1,340 @@
+|j|☆Pokemon League 6
+|j|☆froslass2thestars
+|t:|1711944408
+|gametype|singles
+|player|p1|Pokemon League 6|ruinmaniac|1353
+|player|p2|froslass2thestars|psychic-gen4|1413
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Talonflame, M|
+|poke|p1|Shaymin|
+|poke|p1|Mew|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Infernape, M|
+|poke|p1|Minior|
+|poke|p2|Arcanine, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Altaria, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Muk-Alola, F|
+|poke|p2|Rhyperior, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by froslass2thestars)
+|
+|t:|1711944421
+|start
+|switch|p1a: Infernape|Infernape, M, shiny|100/100
+|switch|p2a: Muk|Muk-Alola, F|100/100
+|turn|1
+|
+|t:|1711944427
+|move|p1a: Infernape|Stealth Rock|p2a: Muk
+|-sidestart|p2: froslass2thestars|move: Stealth Rock
+|move|p2a: Muk|Poison Jab|p1a: Infernape
+|-damage|p1a: Infernape|39/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711944437
+|move|p1a: Infernape|Endeavor|p2a: Muk
+|-damage|p2a: Muk|33/100
+|move|p2a: Muk|Poison Jab|p1a: Infernape
+|-crit|p1a: Infernape
+|-damage|p1a: Infernape|0 fnt
+|faint|p1a: Infernape
+|
+|upkeep
+|
+|t:|1711944448
+|switch|p1a: Minior|Minior, shiny|100/100
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|turn|3
+|
+|t:|1711944458
+|move|p1a: Minior|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|upkeep
+|
+|t:|1711944463
+|switch|p2a: Rhyperior|Rhyperior, M|100/100
+|-damage|p2a: Rhyperior|94/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1711944468
+|switch|p1a: Shaymin|Shaymin, shiny|100/100
+|move|p2a: Rhyperior|Stealth Rock|p1a: Shaymin
+|-sidestart|p1: Pokemon League 6|move: Stealth Rock
+|
+|-heal|p2a: Rhyperior|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711944474
+|switch|p2a: Altaria|Altaria, F|100/100
+|move|p1a: Shaymin|Seed Flare|p2a: Altaria|[miss]
+|-miss|p1a: Shaymin|p2a: Altaria
+|
+|upkeep
+|turn|6
+|
+|t:|1711944479
+|move|p1a: Shaymin|Seed Flare|p2a: Altaria
+|-resisted|p2a: Altaria
+|-damage|p2a: Altaria|89/100
+|-unboost|p2a: Altaria|spd|2
+|move|p2a: Altaria|Brave Bird|p1a: Shaymin
+|-supereffective|p1a: Shaymin
+|-damage|p1a: Shaymin|34/100
+|-damage|p2a: Altaria|67/100|[from] Recoil
+|
+|upkeep
+|turn|7
+|
+|t:|1711944486
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Shaymin|Seed Flare|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|39/100
+|-unboost|p2a: Slowbro|spd|2
+|
+|upkeep
+|turn|8
+|
+|t:|1711944493
+|switch|p2a: Altaria|Altaria, F|67/100
+|move|p1a: Shaymin|Seed Flare|p2a: Altaria
+|-resisted|p2a: Altaria
+|-damage|p2a: Altaria|54/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711944500
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p1a: Grimmsnarl|88/100|[from] Stealth Rock
+|move|p2a: Altaria|Roost|p2a: Altaria
+|-heal|p2a: Altaria|100/100
+|-singleturn|p2a: Altaria|move: Roost
+|
+|-heal|p1a: Grimmsnarl|94/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711944505
+|move|p2a: Altaria|Will-O-Wisp|p1a: Grimmsnarl
+|-status|p1a: Grimmsnarl|brn
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Altaria
+|-supereffective|p2a: Altaria
+|-damage|p2a: Altaria|80/100
+|-unboost|p2a: Altaria|spa|1
+|
+|-heal|p1a: Grimmsnarl|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711944517
+|switch|p2a: Rhyperior|Rhyperior, M|100/100
+|-damage|p2a: Rhyperior|94/100|[from] Stealth Rock
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Pokemon League 6|Reflect
+|
+|-heal|p1a: Grimmsnarl|100/100 brn|[from] item: Leftovers
+|-heal|p2a: Rhyperior|100/100|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711944521
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: Pokemon League 6|move: Light Screen
+|move|p2a: Rhyperior|Iron Defense|p2a: Rhyperior
+|-boost|p2a: Rhyperior|def|2
+|
+|-heal|p1a: Grimmsnarl|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711944525
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Rhyperior
+|-unboost|p2a: Rhyperior|atk|1
+|-unboost|p2a: Rhyperior|spa|1
+|
+|t:|1711944528
+|switch|p1a: Shaymin|Shaymin, shiny|34/100|[from] Parting Shot
+|-damage|p1a: Shaymin|22/100|[from] Stealth Rock
+|move|p2a: Rhyperior|Body Press|p1a: Shaymin
+|-damage|p1a: Shaymin|0 fnt
+|faint|p1a: Shaymin
+|
+|upkeep
+|
+|t:|1711944535
+|switch|p1a: Mew|Mew, shiny|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1711944543
+|switch|p2a: Sylveon|Sylveon, M|100/100
+|-damage|p2a: Sylveon|88/100|[from] Stealth Rock
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|
+|-heal|p2a: Sylveon|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711944547
+|move|p1a: Mew|Psyshock|p2a: Sylveon
+|-damage|p2a: Sylveon|33/100
+|move|p2a: Sylveon|Roar|p1a: Mew
+|drag|p1a: Talonflame|Talonflame, M, shiny|100/100
+|
+|-heal|p2a: Sylveon|39/100|[from] item: Leftovers
+|-sideend|p1: Pokemon League 6|Reflect
+|upkeep
+|turn|16
+|
+|t:|1711944556
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|move|p1a: Talonflame|Defog|p2a: Arcanine
+|-unboost|p2a: Arcanine|evasion|1
+|-sideend|p2: froslass2thestars|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|-sideend|p1: Pokemon League 6|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|
+|-sideend|p1: Pokemon League 6|move: Light Screen
+|upkeep
+|turn|17
+|
+|t:|1711944561
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|94/100 brn
+|move|p2a: Arcanine|Curse|p2a: Arcanine
+|-unboost|p2a: Arcanine|spe|1
+|-boost|p2a: Arcanine|atk|1
+|-boost|p2a: Arcanine|def|1
+|
+|-heal|p1a: Grimmsnarl|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1711944566
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Pokemon League 6|Reflect
+|move|p2a: Arcanine|Curse|p2a: Arcanine
+|-unboost|p2a: Arcanine|spe|1
+|-boost|p2a: Arcanine|atk|1
+|-boost|p2a: Arcanine|def|1
+|
+|-heal|p1a: Grimmsnarl|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Grimmsnarl|94/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1711944570
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Arcanine
+|-unboost|p2a: Arcanine|atk|1
+|-unboost|p2a: Arcanine|spa|1
+|
+|t:|1711944577
+|switch|p1a: Minior|Minior, shiny|100/100|[from] Parting Shot
+|-formechange|p1a: Minior|Minior-Meteor||[from] ability: Shields Down
+|move|p2a: Arcanine|Curse|p2a: Arcanine
+|-unboost|p2a: Arcanine|spe|1
+|-boost|p2a: Arcanine|atk|1
+|-boost|p2a: Arcanine|def|1
+|
+|upkeep
+|turn|20
+|
+|t:|1711944583
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|-enditem|p1a: Minior|White Herb
+|-clearnegativeboost|p1a: Minior|[silent]
+|move|p2a: Arcanine|Curse|p2a: Arcanine
+|-unboost|p2a: Arcanine|spe|1
+|-boost|p2a: Arcanine|atk|1
+|-boost|p2a: Arcanine|def|1
+|
+|upkeep
+|turn|21
+|
+|t:|1711944593
+|move|p1a: Minior|Rock Slide|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|61/100
+|move|p2a: Arcanine|Curse|p2a: Arcanine
+|-unboost|p2a: Arcanine|spe|1
+|-boost|p2a: Arcanine|atk|1
+|-boost|p2a: Arcanine|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1711944599
+|-terastallize|p2a: Arcanine|Normal
+|move|p1a: Minior|Earthquake|p2a: Arcanine
+|-damage|p2a: Arcanine|47/100
+|move|p2a: Arcanine|Morning Sun|p2a: Arcanine
+|-heal|p2a: Arcanine|97/100
+|
+|-sideend|p1: Pokemon League 6|Reflect
+|upkeep
+|turn|23
+|
+|t:|1711944608
+|move|p1a: Minior|Shell Smash|p1a: Minior
+|-unboost|p1a: Minior|def|1
+|-unboost|p1a: Minior|spd|1
+|-boost|p1a: Minior|atk|2
+|-boost|p1a: Minior|spa|2
+|-boost|p1a: Minior|spe|2
+|move|p2a: Arcanine|Flare Blitz|p1a: Minior
+|-resisted|p1a: Minior
+|-damage|p1a: Minior|0 fnt
+|faint|p1a: Minior
+|-damage|p2a: Arcanine|75/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1711944617
+|switch|p1a: Talonflame|Talonflame, M, shiny|100/100
+|turn|24
+|
+|t:|1711944621
+|move|p2a: Arcanine|Extreme Speed|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|
+|upkeep
+|-message|Pokemon League 6 forfeited.
+|
+|win|froslass2thestars
+|raw|Pokemon League 6's rating: 1353 &rarr; <strong>1336</strong><br />(-17 for losing)
+|raw|froslass2thestars's rating: 1413 &rarr; <strong>1430</strong><br />(+17 for winning)
+|l|☆Pokemon League 6
+|player|p1|

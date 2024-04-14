@@ -1,0 +1,212 @@
+|j|☆quiero mi macro
+|j|☆ogtru
+|t:|1711946284
+|gametype|doubles
+|player|p1|quiero mi macro|170|1444
+|player|p2|ogtru|riley|1561
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711946284
+|start
+|switch|p1a: Volbeat|Volbeat, L87, M|252/252
+|switch|p1b: Solgaleo|Solgaleo, L75|329/329
+|switch|p2a: Braviary|Braviary-Hisui, L84, M|322/322
+|switch|p2b: Eternatus|Eternatus, L71|316/316
+|-ability|p2b: Eternatus|Pressure
+|turn|1
+|
+|t:|1711946309
+|move|p1a: Volbeat|Tailwind|p1a: Volbeat
+|-sidestart|p1: quiero mi macro|move: Tailwind
+|move|p1b: Solgaleo|Psychic Fangs|p2b: Eternatus
+|-supereffective|p2b: Eternatus
+|-crit|p2b: Eternatus
+|-damage|p2b: Eternatus|0 fnt
+|faint|p2b: Eternatus
+|move|p2a: Braviary|Hurricane|p1a: Volbeat
+|-supereffective|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by quiero mi macro)
+|
+|t:|1711946327
+|switch|p2b: Magnezone|Magnezone, L84|255/255
+|switch|p1a: Murkrow|Murkrow, L88, M|249/249
+|turn|2
+|
+|t:|1711946346
+|-terastallize|p1a: Murkrow|Ghost
+|move|p2a: Braviary|Protect|p2a: Braviary
+|-singleturn|p2a: Braviary|Protect
+|move|p1a: Murkrow|Brave Bird|p2a: Braviary
+|-activate|p2a: Braviary|move: Protect
+|move|p1b: Solgaleo|Flare Blitz|p2b: Magnezone
+|-supereffective|p2b: Magnezone
+|-damage|p2b: Magnezone|111/255
+|-enditem|p2b: Magnezone|Sitrus Berry|[eat]
+|-heal|p2b: Magnezone|174/255|[from] item: Sitrus Berry
+|-damage|p1b: Solgaleo|281/329|[from] Recoil
+|move|p2b: Magnezone|Thunderbolt|p1a: Murkrow
+|-damage|p1a: Murkrow|113/249
+|
+|upkeep
+|turn|3
+|
+|t:|1711946373
+|switch|p2a: Hitmontop|Hitmontop, L88, M|231/231
+|-ability|p2a: Hitmontop|Intimidate|boost
+|-unboost|p1a: Murkrow|atk|1
+|-fail|p1b: Solgaleo|unboost|[from] ability: Full Metal Body|[of] p1b: Solgaleo
+|move|p1a: Murkrow|Brave Bird|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|85/231
+|-damage|p1a: Murkrow|65/249|[from] Recoil
+|move|p1b: Solgaleo|Flare Blitz|p2b: Magnezone
+|-supereffective|p2b: Magnezone
+|-damage|p2b: Magnezone|36/255
+|-damage|p1b: Solgaleo|235/329|[from] Recoil
+|move|p2b: Magnezone|Thunderbolt|p1a: Murkrow
+|-damage|p1a: Murkrow|0 fnt
+|faint|p1a: Murkrow
+|
+|upkeep
+|inactive|quiero mi macro has 120 seconds left.
+|
+|t:|1711946391
+|switch|p1a: Clefable|Clefable, L86, M|304/304
+|turn|4
+|
+|t:|1711946405
+|move|p2a: Hitmontop|Fake Out|p1b: Solgaleo
+|-resisted|p1b: Solgaleo
+|-damage|p1b: Solgaleo|219/329
+|move|p1a: Clefable|Follow Me|p1a: Clefable
+|-singleturn|p1a: Clefable|move: Follow Me
+|cant|p1b: Solgaleo|flinch
+|move|p2b: Magnezone|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|106/304
+|-enditem|p1a: Clefable|Sitrus Berry|[eat]
+|-heal|p1a: Clefable|182/304|[from] item: Sitrus Berry
+|
+|-sideend|p1: quiero mi macro|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1711946424
+|move|p2a: Hitmontop|Sucker Punch|p1b: Solgaleo
+|-supereffective|p1b: Solgaleo
+|-damage|p1b: Solgaleo|119/329
+|move|p1b: Solgaleo|Psychic Fangs|p2a: Hitmontop
+|-supereffective|p2a: Hitmontop
+|-damage|p2a: Hitmontop|0 fnt
+|faint|p2a: Hitmontop
+|move|p1a: Clefable|Heal Pulse|p1b: Solgaleo
+|-heal|p1b: Solgaleo|284/329
+|move|p2b: Magnezone|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1711946436
+|switch|p2a: Basculin|Basculin-Blue-Striped, L87, F|264/264
+|switch|p1a: Ninetales|Ninetales, L82, M|254/254
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|6
+|
+|t:|1711946449
+|move|p2a: Basculin|Wave Crash|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-damage|p2a: Basculin|180/264|[from] Recoil
+|move|p1b: Solgaleo|Flare Blitz|p2b: Magnezone
+|-supereffective|p2b: Magnezone
+|-damage|p2b: Magnezone|0 fnt
+|faint|p2b: Magnezone
+|-damage|p1b: Solgaleo|272/329|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711946458
+|switch|p1a: Whiscash|Whiscash, L87, F|333/333
+|switch|p2b: Samurott|Samurott, L88, M|310/310
+|turn|7
+|
+|t:|1711946472
+|move|p2a: Basculin|Wave Crash|p1b: Solgaleo
+|-damage|p1b: Solgaleo|156/329
+|-damage|p2a: Basculin|142/264|[from] Recoil
+|move|p1b: Solgaleo|Knock Off|p2a: Basculin
+|-damage|p2a: Basculin|61/264
+|-enditem|p2a: Basculin|Choice Band|[from] move: Knock Off|[of] p1b: Solgaleo
+|move|p2b: Samurott|Liquidation|p1b: Solgaleo
+|-damage|p1b: Solgaleo|94/329
+|-damage|p2b: Samurott|279/310|[from] item: Life Orb
+|move|p1a: Whiscash|Stealth Rock|p2b: Samurott
+|-sidestart|p2: ogtru|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711946494
+|move|p2a: Basculin|Wave Crash|p1b: Solgaleo
+|-damage|p1b: Solgaleo|14/329
+|-damage|p2a: Basculin|35/264|[from] Recoil
+|move|p1b: Solgaleo|Psychic Fangs|p2b: Samurott
+|-damage|p2b: Samurott|183/310
+|move|p2b: Samurott|Swords Dance|p2b: Samurott
+|-boost|p2b: Samurott|atk|2
+|move|p1a: Whiscash|Muddy Water|p2b: Samurott|[spread] p2a
+|-miss|p1a: Whiscash|p2b: Samurott
+|-resisted|p2a: Basculin
+|-damage|p2a: Basculin|13/264
+|-unboost|p2a: Basculin|accuracy|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1711946510
+|move|p2a: Basculin|Wave Crash|p1b: Solgaleo
+|-damage|p1b: Solgaleo|0 fnt
+|faint|p1b: Solgaleo
+|-damage|p2a: Basculin|8/264|[from] Recoil
+|move|p2b: Samurott|Liquidation|p1a: Whiscash
+|-damage|p1a: Whiscash|187/333
+|-unboost|p1a: Whiscash|def|1
+|-damage|p2b: Samurott|152/310|[from] item: Life Orb
+|move|p1a: Whiscash|Muddy Water|p2b: Samurott|[spread] p2a
+|-miss|p1a: Whiscash|p2b: Samurott
+|-resisted|p2a: Basculin
+|-damage|p2a: Basculin|0 fnt
+|faint|p2a: Basculin
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711946519
+|switch|p2a: Braviary|Braviary-Hisui, L84, M|322/322
+|-damage|p2a: Braviary|242/322|[from] Stealth Rock
+|turn|10
+|-message|quiero mi macro forfeited.
+|
+|win|ogtru
+|raw|quiero mi macro's rating: 1444 &rarr; <strong>1430</strong><br />(-14 for losing)
+|raw|ogtru's rating: 1561 &rarr; <strong>1575</strong><br />(+14 for winning)
+|l|☆quiero mi macro
+|player|p1|

@@ -1,0 +1,82 @@
+p1: Switched to Deoxys-Speed
+p2: Switched to Pincurchin
+Turn 1:
+p1: Deoxys-Speed used Psycho Boost on Pincurchin
+p2: Pincurchin used Thunder Wave on Deoxys-Speed
+Turn 2:
+p2: Switched to Iron Jugulis
+p1: Deoxys-Speed used Fire Punch on Iron Jugulis
+Turn 3:
+p1: Switched to Tyranitar
+p2: Iron Jugulis failed to use Meteor Beam
+Turn 4:
+p2: Switched to Iron Leaves
+p1: Switched to Deoxys-Speed
+Turn 5:
+p2: Iron Leaves used Leaf Blade on Deoxys-Speed
+p1: Deoxys-Speed fainted
+p1: Switched to Latios
+Turn 6:
+p1: Latios used Flip Turn on Iron Leaves
+p1: Switched to Mandibuzz
+p2: Iron Leaves used Psyblade on Mandibuzz
+Turn 7:
+p2: Switched to Pikachu
+p1: Mandibuzz used Foul Play on Pikachu
+Turn 8:
+p1: Switched to Excadrill
+p2: Pikachu used Fake Out on Excadrill
+Turn 9:
+p1: Switched to Mandibuzz
+p2: Pikachu used Knock Off on Mandibuzz
+p2: Pikachu fainted
+p2: Switched to Pincurchin
+Turn 10:
+p1: Mandibuzz used Foul Play on Pincurchin
+p2: Pincurchin fainted
+p2: Switched to Iron Moth
+Turn 11:
+p1: Switched to Tyranitar
+p2: Iron Moth used Fire Blast on Tyranitar
+Turn 12:
+p2: Iron Moth used Energy Ball on Tyranitar
+p1: Tyranitar fainted
+p1: Switched to Excadrill
+Turn 13:
+p1: Excadrill used Rock Slide on Iron Moth
+p2: Iron Moth fainted
+p2: Switched to Hawlucha
+Turn 14:
+p2: Hawlucha used High Jump Kick on Excadrill
+p1: Excadrill fainted
+p1: Switched to Mandibuzz
+Turn 15:
+p2: Hawlucha used Taunt on Mandibuzz
+p1: Mandibuzz can't move
+Turn 16:
+p2: Hawlucha used High Jump Kick on Mandibuzz
+p1: Mandibuzz used Foul Play on Hawlucha
+Turn 17:
+p2: Hawlucha used High Jump Kick on Mandibuzz
+p1: Mandibuzz used Foul Play on Hawlucha
+Turn 18:
+p2: Hawlucha used High Jump Kick on Mandibuzz
+p1: Mandibuzz fainted
+p2: Hawlucha fainted
+p2: Switched to Iron Jugulis
+p1: Switched to Latios
+Turn 19:
+p1: Latios used Draco Meteor on Iron Jugulis
+p2: Iron Jugulis fainted
+p2: Switched to Iron Leaves
+Turn 20:
+p1: Switched to Quaquaval
+p2: Iron Leaves used Leaf Blade on Quaquaval
+p1: Quaquaval fainted
+p1: Switched to Latios
+Turn 21:
+p1: Latios used Draco Meteor on Iron Leaves
+p2: Iron Leaves used Leaf Blade on Latios
+Turn 22:
+p1: Latios used Luster Purge on Iron Leaves
+p2: Iron Leaves fainted

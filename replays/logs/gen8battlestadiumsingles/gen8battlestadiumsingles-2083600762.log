@@ -1,0 +1,253 @@
+|j|☆magolor kirby
+|j|☆Yunanan
+|t:|1710769778
+|gametype|singles
+|player|p1|magolor kirby|dawn|
+|player|p2|Yunanan|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Rotom-Heat, L50|
+|poke|p1|Obstagoon, L50, M|
+|poke|p1|Togekiss, L50, F|
+|poke|p1|Ferrothorn, L50, F|
+|poke|p1|Landorus-Therian, L50, M|
+|poke|p1|Inteleon, L50, F|
+|poke|p2|Swampert, L50, F|
+|poke|p2|Zapdos, L50|
+|poke|p2|Umbreon, L50, M|
+|poke|p2|Toxapex, L50, M|
+|poke|p2|Porygon2, L50|
+|poke|p2|Venusaur, L50, M|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by magolor kirby)
+|inactive|Yunanan also wants the timer to be on.
+|inactive|magolor kirby has 60 seconds left.
+|inactive|Yunanan has 60 seconds left.
+|inactive|Yunanan has 30 seconds left.
+|
+|t:|1710769844
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, L50, F|100/100
+|switch|p2a: Mois|Umbreon, L50, M|100/100
+|turn|1
+|
+|t:|1710769858
+|move|p2a: Mois|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|move: Taunt|Curse
+|
+|upkeep
+|turn|2
+|
+|t:|1710769863
+|switch|p2a: ライハ|Zapdos, L50|100/100
+|move|p1a: Ferrothorn|Body Press|p2a: ライハ
+|-resisted|p2a: ライハ
+|-damage|p2a: ライハ|90/100
+|-damage|p1a: Ferrothorn|84/100|[from] item: Rocky Helmet|[of] p2a: ライハ
+|-status|p1a: Ferrothorn|par|[from] ability: Static|[of] p2a: ライハ
+|
+|-heal|p1a: Ferrothorn|90/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1710769873
+|switch|p1a: Rotom|Rotom-Heat, L50|100/100
+|move|p2a: ライハ|Volt Switch|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|88/100
+|c|☆magolor kirby|ナイス麻痺
+|
+|t:|1710769878
+|switch|p2a: Mois|Umbreon, L50, M|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1710769885
+|move|p1a: Rotom|Discharge|p2a: Mois
+|-damage|p2a: Mois|79/100
+|move|p2a: Mois|Wish|p2a: Mois
+|
+|-heal|p2a: Mois|85/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1710769891
+|move|p1a: Rotom|Discharge|p2a: Mois
+|-damage|p2a: Mois|65/100
+|-status|p2a: Mois|par
+|cant|p2a: Mois|par
+|
+|-heal|p2a: Mois|100/100 par|[from] move: Wish|[wisher] Mois
+|upkeep
+|turn|6
+|
+|t:|1710769899
+|move|p1a: Rotom|Volt Switch|p2a: Mois
+|-damage|p2a: Mois|82/100 par
+|
+|t:|1710769903
+|switch|p1a: Ferrothorn|Ferrothorn, L50, F|90/100 par|[from] Volt Switch
+|move|p2a: Mois|Wish|p2a: Mois
+|
+|-heal|p2a: Mois|88/100 par|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|96/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1710769908
+|switch|p2a: ライハ|Zapdos, L50|90/100
+|cant|p1a: Ferrothorn|par
+|
+|-heal|p2a: ライハ|100/100|[from] move: Wish|[wisher] Mois
+|-heal|p1a: Ferrothorn|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1710769913
+|move|p2a: ライハ|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|3/100 par
+|move|p1a: Ferrothorn|Leech Seed|p2a: ライハ
+|-start|p2a: ライハ|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|9/100 par|[from] item: Leftovers
+|-damage|p2a: ライハ|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|23/100 par|[silent]
+|upkeep
+|turn|9
+|
+|t:|1710769922
+|move|p2a: ライハ|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|9/100 par
+|
+|t:|1710769925
+|switch|p2a: Mois|Umbreon, L50, M|88/100 par|[from] Volt Switch
+|move|p1a: Ferrothorn|Leech Seed|p2a: Mois
+|-start|p2a: Mois|move: Leech Seed
+|
+|-heal|p2a: Mois|94/100 par|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|15/100 par|[from] item: Leftovers
+|-damage|p2a: Mois|82/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|29/100 par|[silent]
+|upkeep
+|turn|10
+|
+|t:|1710769935
+|switch|p2a: ライハ|Zapdos, L50|88/100
+|move|p1a: Ferrothorn|Body Press|p2a: ライハ
+|-resisted|p2a: ライハ
+|-damage|p2a: ライハ|77/100
+|-damage|p1a: Ferrothorn|13/100 par|[from] item: Rocky Helmet|[of] p2a: ライハ
+|
+|-heal|p1a: Ferrothorn|19/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1710769942
+|switch|p1a: Rotom|Rotom-Heat, L50|88/100
+|move|p2a: ライハ|Hurricane|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|66/100
+|-start|p1a: Rotom|confusion
+|
+|upkeep
+|turn|12
+|
+|t:|1710769948
+|-activate|p1a: Rotom|confusion
+|move|p1a: Rotom|Volt Switch|p2a: ライハ
+|-damage|p2a: ライハ|48/100
+|
+|t:|1710769952
+|switch|p1a: Ferrothorn|Ferrothorn, L50, F|19/100 par|[from] Volt Switch
+|move|p2a: ライハ|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|5/100 par
+|
+|t:|1710769955
+|switch|p2a: Mois|Umbreon, L50, M|82/100 par|[from] Volt Switch
+|
+|-heal|p2a: Mois|88/100 par|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|12/100 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1710769962
+|move|p2a: Mois|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|par
+|
+|-heal|p2a: Mois|94/100 par|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|18/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1710769967
+|switch|p1a: Rotom|Rotom-Heat, L50|66/100
+|move|p2a: Mois|Wish|p2a: Mois
+|
+|-heal|p2a: Mois|99/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1710769981
+|move|p1a: Rotom|Volt Switch|p2a: Mois
+|-damage|p2a: Mois|83/100 par
+|
+|t:|1710769983
+|switch|p1a: Ferrothorn|Ferrothorn, L50, F|18/100 par|[from] Volt Switch
+|move|p2a: Mois|Foul Play|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Mois|70/100 par|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Mois|100/100 par|[from] move: Wish|[wisher] Mois
+|upkeep
+|
+|t:|1710769985
+|switch|p1a: Inteleon|Inteleon, L50, F|100/100
+|turn|16
+|
+|t:|1710769991
+|switch|p2a: ロリコン2|Porygon2, L50|100/100
+|-ability|p2a: ロリコン2|Sniper|[from] ability: Trace|[of] p1a: Inteleon
+|move|p1a: Inteleon|Focus Energy|p1a: Inteleon
+|-start|p1a: Inteleon|move: Focus Energy
+|
+|upkeep
+|turn|17
+|
+|t:|1710769998
+|-start|p1a: Inteleon|Dynamax|Gmax
+|-heal|p1a: Inteleon|100/100|[silent]
+|move|p1a: Inteleon|G-Max Hydrosnipe|p2a: ロリコン2
+|-crit|p2a: ロリコン2
+|-damage|p2a: ロリコン2|0 fnt
+|faint|p2a: ロリコン2
+|
+|upkeep
+|
+|t:|1710770004
+|switch|p2a: Mois|Umbreon, L50, M|100/100 par
+|turn|18
+|
+|t:|1710770010
+|move|p1a: Inteleon|G-Max Hydrosnipe|p2a: Mois
+|-crit|p2a: Mois
+|-damage|p2a: Mois|0 fnt
+|faint|p2a: Mois
+|
+|upkeep
+|-message|Yunanan forfeited.
+|
+|win|magolor kirby
+|l|☆Yunanan
+|player|p2|

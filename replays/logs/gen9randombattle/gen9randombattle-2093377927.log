@@ -1,0 +1,150 @@
+|j|☆mjsalzano
+|j|☆tynewname
+|t:|1711947270
+|gametype|singles
+|player|p1|mjsalzano|riley|1498
+|player|p2|tynewname|lance|1459
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711947270
+|start
+|switch|p1a: Galvantula|Galvantula, L82, F|249/249
+|switch|p2a: Ceruledge|Ceruledge, L78, M|245/245
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tynewname)
+|inactive|mjsalzano also wants the timer to be on.
+|
+|t:|1711947287
+|switch|p1a: Garchomp|Garchomp, L74, M|282/282
+|move|p2a: Ceruledge|Swords Dance|p2a: Ceruledge
+|-boost|p2a: Ceruledge|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711947293
+|-terastallize|p2a: Ceruledge|Fighting
+|move|p1a: Garchomp|Earthquake|p2a: Ceruledge
+|-damage|p2a: Ceruledge|133/245
+|-ability|p2a: Ceruledge|Weak Armor|boost
+|-unboost|p2a: Ceruledge|def|1
+|-boost|p2a: Ceruledge|spe|2
+|move|p2a: Ceruledge|Poltergeist|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Poltergeist|Loaded Dice
+|-damage|p1a: Garchomp|36/282
+|
+|upkeep
+|turn|3
+|
+|t:|1711947303
+|move|p2a: Ceruledge|Bitter Blade|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-heal|p2a: Ceruledge|151/245|[from] drain|[of] p1a: Garchomp
+|-damage|p2a: Ceruledge|121/245|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1711947312
+|switch|p1a: Revavroom|Revavroom, L79, M|256/256
+|turn|4
+|
+|t:|1711947317
+|move|p2a: Ceruledge|Close Combat|p1a: Revavroom
+|-damage|p1a: Revavroom|0 fnt
+|-unboost|p2a: Ceruledge|def|1
+|-unboost|p2a: Ceruledge|spd|1
+|faint|p1a: Revavroom
+|
+|upkeep
+|
+|t:|1711947322
+|switch|p1a: Gardevoir|Gardevoir, L83, F|249/249
+|-ability|p1a: Gardevoir|Weak Armor|[from] ability: Trace|[of] p2a: Ceruledge
+|turn|5
+|
+|t:|1711947333
+|move|p2a: Ceruledge|Poltergeist|p1a: Gardevoir
+|-activate|p1a: Gardevoir|move: Poltergeist|Choice Scarf
+|-supereffective|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1711947341
+|switch|p1a: Cobalion|Cobalion, L80|277/277
+|turn|6
+|
+|t:|1711947347
+|-terastallize|p1a: Cobalion|Fighting
+|move|p2a: Ceruledge|Bitter Blade|p1a: Cobalion
+|-damage|p1a: Cobalion|117/277
+|-heal|p2a: Ceruledge|201/245|[from] drain|[of] p1a: Cobalion
+|move|p1a: Cobalion|Close Combat|p2a: Ceruledge
+|-damage|p2a: Ceruledge|0 fnt
+|-unboost|p1a: Cobalion|def|1
+|-unboost|p1a: Cobalion|spd|1
+|faint|p2a: Ceruledge
+|-damage|p1a: Cobalion|90/277|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711947352
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|7
+|
+|t:|1711947355
+|switch|p1a: Galvantula|Galvantula, L82, F|249/249
+|move|p2a: Hippowdon|Earthquake|p1a: Galvantula
+|-damage|p1a: Galvantula|108/249
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Galvantula|93/249|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1711947357
+|move|p1a: Galvantula|Sticky Web|p2a: Hippowdon
+|-sidestart|p2: tynewname|move: Sticky Web
+|move|p2a: Hippowdon|Earthquake|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711947362
+|switch|p1a: Cobalion|Cobalion, L80, tera:Fighting|90/277
+|turn|9
+|
+|t:|1711947368
+|move|p1a: Cobalion|Close Combat|p2a: Hippowdon
+|-damage|p2a: Hippowdon|163/311
+|-unboost|p1a: Cobalion|def|1
+|-unboost|p1a: Cobalion|spd|1
+|-damage|p1a: Cobalion|63/277|[from] item: Life Orb
+|move|p2a: Hippowdon|Earthquake|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|182/311|[from] item: Leftovers
+|upkeep
+|-message|mjsalzano forfeited.
+|
+|win|tynewname
+|raw|mjsalzano's rating: 1498 &rarr; <strong>1476</strong><br />(-22 for losing)
+|raw|tynewname's rating: 1459 &rarr; <strong>1481</strong><br />(+22 for winning)
+|l|☆mjsalzano
+|player|p1|

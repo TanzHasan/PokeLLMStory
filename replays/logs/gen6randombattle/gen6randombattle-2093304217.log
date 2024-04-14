@@ -1,0 +1,366 @@
+|j|☆Hackr6726
+|j|☆twinkeater123yes
+|t:|1711936908
+|gametype|singles
+|player|p1|Hackr6726|gambler|
+|player|p2|twinkeater123yes|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711936908
+|start
+|switch|p1a: Raichu|Raichu, L87, M|246/246
+|switch|p2a: Minun|Minun, L91, M|257/257
+|turn|1
+|
+|t:|1711936919
+|move|p1a: Raichu|Nasty Plot|p1a: Raichu
+|-boost|p1a: Raichu|spa|2
+|move|p2a: Minun|Hidden Power|p1a: Raichu
+|-damage|p1a: Raichu|207/246
+|
+|upkeep
+|turn|2
+|
+|t:|1711936930
+|switch|p2a: Muk|Muk, L88, M|328/328
+|move|p1a: Raichu|Surf|p2a: Muk
+|-damage|p2a: Muk|175/328
+|-damage|p1a: Raichu|183/246|[from] item: Life Orb
+|
+|-heal|p2a: Muk|195/328|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1711936940
+|move|p1a: Raichu|Thunderbolt|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|-damage|p1a: Raichu|159/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711936945
+|switch|p2a: Heliolisk|Heliolisk, L83, M|239/239
+|turn|4
+|
+|t:|1711936951
+|move|p1a: Raichu|Surf|p2a: Heliolisk
+|-immune|p2a: Heliolisk|[from] ability: Dry Skin
+|move|p2a: Heliolisk|Thunderbolt|p1a: Raichu
+|-ability|p1a: Raichu|Lightning Rod|boost
+|-boost|p1a: Raichu|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711936958
+|move|p1a: Raichu|Thunderbolt|p2a: Heliolisk
+|-resisted|p2a: Heliolisk
+|-damage|p2a: Heliolisk|83/239
+|-damage|p1a: Raichu|135/246|[from] item: Life Orb
+|move|p2a: Heliolisk|Hyper Voice|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|-damage|p2a: Heliolisk|60/239|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711936970
+|switch|p1a: Flygon|Flygon, L84, F|272/272
+|turn|6
+|
+|t:|1711936975
+|move|p2a: Heliolisk|Hyper Voice|p1a: Flygon
+|-damage|p1a: Flygon|139/272
+|-damage|p2a: Heliolisk|37/239|[from] item: Life Orb
+|move|p1a: Flygon|Earthquake|p2a: Heliolisk
+|-supereffective|p2a: Heliolisk
+|-damage|p2a: Heliolisk|0 fnt
+|faint|p2a: Heliolisk
+|
+|-heal|p1a: Flygon|156/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1711936988
+|switch|p2a: Linoone|Linoone, L84, F|268/268
+|turn|7
+|
+|t:|1711936994
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|272/272
+|-singleturn|p1a: Flygon|move: Roost
+|move|p2a: Linoone|Shadow Claw|p1a: Flygon
+|-damage|p1a: Flygon|229/272
+|
+|-heal|p1a: Flygon|246/272|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711937006
+|move|p2a: Linoone|Seed Bomb|p1a: Flygon
+|-damage|p1a: Flygon|202/272
+|move|p1a: Flygon|Draco Meteor|p2a: Linoone
+|-damage|p2a: Linoone|126/268
+|-unboost|p1a: Flygon|spa|2
+|-enditem|p2a: Linoone|Sitrus Berry|[eat]
+|-heal|p2a: Linoone|193/268|[from] item: Sitrus Berry
+|
+|-heal|p1a: Flygon|219/272|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711937017
+|switch|p2a: Exeggutor|Exeggutor, L92, M|324/324
+|move|p1a: Flygon|Earthquake|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|270/324
+|
+|-heal|p1a: Flygon|236/272|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711937031
+|switch|p1a: Moltres|Moltres, L82|282/282
+|move|p2a: Exeggutor|Psychic|p1a: Moltres
+|-damage|p1a: Moltres|138/282
+|
+|-heal|p1a: Moltres|155/282|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711937041
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|282/282
+|-singleturn|p1a: Moltres|move: Roost
+|move|p2a: Exeggutor|Psychic|p1a: Moltres
+|-damage|p1a: Moltres|147/282
+|
+|-heal|p1a: Moltres|164/282|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711937051
+|move|p1a: Moltres|Fire Blast|p2a: Exeggutor
+|-supereffective|p2a: Exeggutor
+|-damage|p2a: Exeggutor|0 fnt
+|faint|p2a: Exeggutor
+|
+|-heal|p1a: Moltres|181/282|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937059
+|switch|p2a: Minun|Minun, L91, M|257/257
+|turn|13
+|
+|t:|1711937068
+|move|p2a: Minun|Thunderbolt|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|5/282
+|-status|p1a: Moltres|par
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|146/282 par
+|-singleturn|p1a: Moltres|move: Roost
+|
+|-heal|p1a: Moltres|163/282 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711937078
+|switch|p1a: Flygon|Flygon, L84, F|236/272
+|move|p2a: Minun|Thunderbolt|p1a: Flygon
+|-immune|p1a: Flygon
+|
+|-heal|p1a: Flygon|253/272|[from] item: Leftovers
+|upkeep
+|turn|15
+|c|☆Hackr6726|ggs kid
+|
+|t:|1711937090
+|move|p2a: Minun|Hidden Power|p1a: Flygon
+|-supereffective|p1a: Flygon
+|-damage|p1a: Flygon|89/272
+|move|p1a: Flygon|Earthquake|p2a: Minun
+|-supereffective|p2a: Minun
+|-damage|p2a: Minun|0 fnt
+|faint|p2a: Minun
+|
+|-heal|p1a: Flygon|106/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937098
+|switch|p2a: Mismagius|Mismagius, L85, M|241/241
+|turn|16
+|
+|t:|1711937108
+|move|p2a: Mismagius|Trick|p1a: Flygon
+|-activate|p2a: Mismagius|move: Trick|[of] p1a: Flygon
+|-item|p1a: Flygon|Choice Specs|[from] move: Trick
+|-item|p2a: Mismagius|Leftovers|[from] move: Trick
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|242/272
+|-singleturn|p1a: Flygon|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1711937121
+|switch|p1a: Swalot|Swalot, L89, F|323/323
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|291/323
+|
+|-heal|p1a: Swalot|311/323|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|t:|1711937129
+|move|p2a: Mismagius|Thunderbolt|p1a: Swalot
+|-damage|p1a: Swalot|239/323
+|move|p1a: Swalot|Encore|p2a: Mismagius
+|-start|p2a: Mismagius|Encore
+|
+|-heal|p1a: Swalot|259/323|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|t:|1711937139
+|switch|p1a: Flygon|Flygon, L84, F|242/272
+|move|p2a: Mismagius|Thunderbolt|p1a: Flygon
+|-immune|p1a: Flygon
+|
+|upkeep
+|turn|20
+|
+|t:|1711937148
+|switch|p2a: Linoone|Linoone, L84, F|193/268
+|move|p1a: Flygon|Draco Meteor|p2a: Linoone
+|-damage|p2a: Linoone|0 fnt
+|-unboost|p1a: Flygon|spa|2
+|faint|p2a: Linoone
+|
+|upkeep
+|
+|t:|1711937158
+|switch|p2a: Mismagius|Mismagius, L85, M|241/241
+|turn|21
+|
+|t:|1711937163
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Flygon
+|-supereffective|p1a: Flygon
+|-damage|p1a: Flygon|116/272
+|move|p1a: Flygon|Draco Meteor|p2a: Mismagius
+|-damage|p2a: Mismagius|165/241
+|-unboost|p1a: Flygon|spa|2
+|
+|-heal|p2a: Mismagius|180/241|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711937173
+|switch|p1a: Swalot|Swalot, L89, F|259/323
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Swalot
+|-resisted|p1a: Swalot
+|-damage|p1a: Swalot|228/323
+|
+|-heal|p2a: Mismagius|195/241|[from] item: Leftovers
+|-heal|p1a: Swalot|248/323|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1711937183
+|move|p2a: Mismagius|Shadow Ball|p1a: Swalot
+|-damage|p1a: Swalot|155/323
+|move|p1a: Swalot|Encore|p2a: Mismagius
+|-start|p2a: Mismagius|Encore
+|
+|-heal|p2a: Mismagius|210/241|[from] item: Leftovers
+|-heal|p1a: Swalot|175/323|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1711937192
+|switch|p1a: Blissey|Blissey, L84, F|566/566
+|move|p2a: Mismagius|Shadow Ball|p1a: Blissey
+|-immune|p1a: Blissey
+|
+|-heal|p2a: Mismagius|225/241|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711937201
+|move|p2a: Mismagius|Shadow Ball|p1a: Blissey
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Toxic|p2a: Mismagius
+|-status|p2a: Mismagius|tox
+|
+|-heal|p2a: Mismagius|240/241 tox|[from] item: Leftovers
+|-damage|p2a: Mismagius|225/241 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1711937211
+|move|p2a: Mismagius|Shadow Ball|p1a: Blissey
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Stealth Rock|p2a: Mismagius
+|-sidestart|p2: twinkeater123yes|move: Stealth Rock
+|
+|-heal|p2a: Mismagius|240/241 tox|[from] item: Leftovers
+|-damage|p2a: Mismagius|210/241 tox|[from] psn
+|-end|p2a: Mismagius|Encore
+|upkeep
+|turn|27
+|
+|t:|1711937222
+|switch|p1a: Swalot|Swalot, L89, F|175/323
+|move|p2a: Mismagius|Thunderbolt|p1a: Swalot
+|-damage|p1a: Swalot|101/323
+|
+|-heal|p2a: Mismagius|225/241 tox|[from] item: Leftovers
+|-heal|p1a: Swalot|121/323|[from] item: Black Sludge
+|-damage|p2a: Mismagius|180/241 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1711937232
+|move|p2a: Mismagius|Thunderbolt|p1a: Swalot
+|-damage|p1a: Swalot|49/323
+|move|p1a: Swalot|Encore|p2a: Mismagius
+|-start|p2a: Mismagius|Encore
+|
+|-heal|p2a: Mismagius|195/241 tox|[from] item: Leftovers
+|-heal|p1a: Swalot|69/323|[from] item: Black Sludge
+|-damage|p2a: Mismagius|135/241 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1711937241
+|switch|p1a: Flygon|Flygon, L84, F|116/272
+|move|p2a: Mismagius|Thunderbolt|p1a: Flygon
+|-immune|p1a: Flygon
+|
+|-heal|p2a: Mismagius|150/241 tox|[from] item: Leftovers
+|-damage|p2a: Mismagius|75/241 tox|[from] psn
+|upkeep
+|turn|30
+|c|☆Hackr6726|i love toying with u
+|
+|t:|1711937251
+|move|p2a: Mismagius|Thunderbolt|p1a: Flygon
+|-immune|p1a: Flygon
+|move|p1a: Flygon|Roost|p1a: Flygon
+|-heal|p1a: Flygon|252/272
+|-singleturn|p1a: Flygon|move: Roost
+|
+|-heal|p2a: Mismagius|90/241 tox|[from] item: Leftovers
+|-damage|p2a: Mismagius|0 fnt|[from] psn
+|faint|p2a: Mismagius
+|
+|win|Hackr6726
+|upkeep
+|c|☆Hackr6726|HAHAHA

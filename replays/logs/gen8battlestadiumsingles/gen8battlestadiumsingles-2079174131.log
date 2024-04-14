@@ -1,0 +1,167 @@
+|j|☆Zapdos-poke0405
+|j|☆Frangelion9673
+|t:|1710242153
+|gametype|singles
+|player|p1|Zapdos-poke0405|skyla|
+|player|p2|Frangelion9673|rosa|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Zygarde, L50|
+|poke|p1|Mimikyu, L50, M|
+|poke|p1|Toxapex, L50, F|
+|poke|p1|Celesteela, L50|
+|poke|p1|Tapu Koko, L50|
+|poke|p1|Seismitoad, L50, F|
+|poke|p2|Dragapult, L50, F|
+|poke|p2|Hippowdon, L50, F|
+|poke|p2|Yveltal, L50|
+|poke|p2|Darmanitan-Galar, L50, M|
+|poke|p2|Zapdos, L50|
+|poke|p2|Tapu Fini, L50|
+|teampreview|3
+|
+|t:|1710242226
+|start
+|switch|p1a: Seismitoad|Seismitoad, L50, F, shiny|100/100
+|switch|p2a: Darmanitan|Darmanitan-Galar, L50, M|100/100
+|turn|1
+|
+|t:|1710242262
+|-start|p1a: Seismitoad|Dynamax|
+|-heal|p1a: Seismitoad|100/100|[silent]
+|move|p2a: Darmanitan|Icicle Crash|p1a: Seismitoad
+|-damage|p1a: Seismitoad|58/100
+|move|p1a: Seismitoad|Max Geyser|p2a: Darmanitan
+|-damage|p2a: Darmanitan|0 fnt
+|-weather|RainDance
+|faint|p2a: Darmanitan
+|-damage|p1a: Seismitoad|53/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1710242283
+|switch|p2a: Dragapult|Dragapult, L50, F|100/100
+|turn|2
+|
+|t:|1710242311
+|switch|p2a: Hippowdon|Hippowdon, L50, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Seismitoad|Max Guard||[still]
+|-fail|p1a: Seismitoad
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1710242342
+|-start|p2a: Hippowdon|Dynamax|
+|-heal|p2a: Hippowdon|100/100|[silent]
+|move|p2a: Hippowdon|Max Guard|p2a: Hippowdon
+|-singleturn|p2a: Hippowdon|Max Guard
+|move|p1a: Seismitoad|Max Geyser|p2a: Hippowdon
+|-activate|p2a: Hippowdon|move: Max Guard
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-end|p1a: Seismitoad|Dynamax
+|-heal|p1a: Seismitoad|53/100|[silent]
+|turn|4
+|
+|t:|1710242394
+|move|p1a: Seismitoad|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Max Quake|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|-boost|p2a: Hippowdon|spd|1
+|faint|p1a: Seismitoad
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|97/100 tox|[from] psn
+|upkeep
+|
+|t:|1710242406
+|switch|p1a: Mimikyu|Mimikyu, L50, M, shiny|100/100
+|turn|5
+|
+|t:|1710242470
+|move|p1a: Mimikyu|Curse|p2a: Hippowdon
+|-start|p2a: Hippowdon|Curse|[of] p1a: Mimikyu
+|-damage|p1a: Mimikyu|51/100
+|move|p2a: Hippowdon|Max Quake|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|51/100
+|-boost|p2a: Hippowdon|spd|1
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, L50, M, shiny
+|-damage|p1a: Mimikyu|39/100|[from] pokemon: Mimikyu-Busted
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mimikyu|33/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|91/100 tox|[from] psn
+|-damage|p2a: Hippowdon|79/100 tox|[from] Curse
+|upkeep
+|-end|p2a: Hippowdon|Dynamax
+|-heal|p2a: Hippowdon|79/100 tox|[silent]
+|turn|6
+|
+|t:|1710242506
+|switch|p1a: Tapu Koko|Tapu Koko, L50, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Hippowdon|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|6/100
+|-enditem|p1a: Tapu Koko|Sitrus Berry|[eat]
+|-heal|p1a: Tapu Koko|30/100|[from] item: Sitrus Berry
+|
+|-weather|none
+|-damage|p2a: Hippowdon|61/100 tox|[from] psn
+|-damage|p2a: Hippowdon|36/100 tox|[from] Curse
+|upkeep
+|-enditem|p2a: Hippowdon|Sitrus Berry|[eat]
+|-heal|p2a: Hippowdon|61/100 tox|[from] item: Sitrus Berry
+|turn|7
+|
+|t:|1710242525
+|move|p1a: Tapu Koko|Nature's Madness|p2a: Hippowdon
+|-damage|p2a: Hippowdon|31/100 tox
+|move|p2a: Hippowdon|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|-damage|p2a: Hippowdon|7/100 tox|[from] psn
+|-damage|p2a: Hippowdon|0 fnt|[from] Curse
+|faint|p2a: Hippowdon
+|upkeep
+|
+|t:|1710242536
+|switch|p1a: Mimikyu|Mimikyu-Busted, L50, M, shiny|33/100
+|switch|p2a: Dragapult|Dragapult, L50, F|100/100
+|turn|8
+|
+|t:|1710242543
+|move|p1a: Mimikyu|Play Rough|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|1/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|9
+|
+|t:|1710242550
+|move|p1a: Mimikyu|Play Rough|p2a: Dragapult|[miss]
+|-miss|p1a: Mimikyu|p2a: Dragapult
+|move|p2a: Dragapult|Phantom Force|p1a: Mimikyu|[from]lockedmove
+|-supereffective|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|-damage|p2a: Dragapult|0 fnt|[from] item: Life Orb
+|faint|p2a: Dragapult
+|
+|win|Frangelion9673

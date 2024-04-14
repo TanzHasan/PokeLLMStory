@@ -1,0 +1,281 @@
+|j|☆exithe
+|j|☆trick or dies
+|t:|1711923465
+|gametype|singles
+|player|p1|exithe|kris-gen2|
+|player|p2|trick or dies|grimsley-gen7|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Equilibra|
+|poke|p1|Hemogoblin, M|
+|poke|p1|Clefable, M|
+|poke|p1|Kyurem|
+|poke|p2|Hemogoblin, F|
+|poke|p2|Raging Bolt|
+|poke|p2|Great Tusk|
+|poke|p2|Caribolt, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Glimmora, M|
+|teampreview
+|c|☆exithe|aaah
+|c|☆trick or dies|Gl
+|c|☆exithe|two mada teams
+|c|☆exithe|u2
+|j|@Da Pizza Man
+|
+|t:|1711923530
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|c|☆trick or dies|Correct! Yeah nicked this from the Bellofigo teamcord
+|c|☆exithe|i know bc i have it asw LOL
+|
+|t:|1711923585
+|move|p1a: Kyurem|Earth Power|p2a: Volcarona
+|-damage|p2a: Volcarona|64/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711923602
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Kyurem|Earth Power|p2a: Volcarona
+|-damage|p2a: Volcarona|48/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711923606
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Volcarona|Flamethrower|p1a: Clefable
+|-damage|p1a: Clefable|11/100
+|
+|-heal|p1a: Clefable|17/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711923621
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Volcarona|Psychic|p1a: Volcanion
+|-damage|p1a: Volcanion|29/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711923631
+|switch|p1a: Clefable|Clefable, M|17/100
+|move|p2a: Volcarona|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1711923635
+|switch|p1a: Hemogoblin|Hemogoblin, M|100/100
+|turn|6
+|c|☆trick or dies|T
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by trick or dies)
+|
+|t:|1711923693
+|-terastallize|p1a: Hemogoblin|Fairy
+|move|p2a: Volcarona|Psychic|p1a: Hemogoblin
+|-damage|p1a: Hemogoblin|34/100
+|move|p1a: Hemogoblin|Bitter Blade|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-heal|p1a: Hemogoblin|53/100|[from] drain|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1711923716
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|7
+|
+|t:|1711923724
+|switch|p1a: Equilibra|Equilibra|100/100
+|move|p2a: Glimmora|Stealth Rock|p1a: Equilibra
+|-sidestart|p1: exithe|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1711923731
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-enditem|p2a: Great Tusk|Booster Energy
+|-activate|p2a: Great Tusk|ability: Protosynthesis|[fromitem]
+|-start|p2a: Great Tusk|protosynthesisatk
+|move|p1a: Equilibra|Earth Power|p2a: Great Tusk
+|-damage|p2a: Great Tusk|41/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711923753
+|move|p1a: Equilibra|Protect|p1a: Equilibra
+|-singleturn|p1a: Equilibra|Protect
+|move|p2a: Great Tusk|Temper Flare|p1a: Equilibra
+|-activate|p1a: Equilibra|move: Protect
+|
+|upkeep
+|turn|10
+|inactive|exithe has 120 seconds left.
+|c|☆trick or dies|!dt temper flare
+|raw|<ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/temperflare">Temper Flare</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Fire.png" alt="Fire" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Physical.png" alt="Physical" width="32" height="14"></span> <span class="col labelcol"><em>Power</em><br>75</span> <span class="col widelabelcol"><em>Accuracy</em><br>100%</span> <span class="col pplabelcol"><em>PP</em><br>16</span> <span class="col movedesccol">Power doubles if the user's last move failed.</span> </li><li style="clear:both"></li></ul>
+|raw|<font size="1"><font color="#686868">Priority:</font> 0&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 9&nbsp;|&ThickSpace;&#10003; Contact&nbsp;|&ThickSpace;<font color="#686868">Z-Power:</font> 140&nbsp;|&ThickSpace;<font color="#686868">Dynamax Power:</font> 130&nbsp;|&ThickSpace;<font color="#686868">Target:</font> One Adjacent Pokémon</font>
+
+|inactive|trick or dies has 120 seconds left.
+|c|☆exithe|yippe
+|c|☆trick or dies|Double damage now I suppose
+|inactive|exithe has 90 seconds left.
+|
+|t:|1711923807
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Great Tusk|Temper Flare|p1a: Kyurem
+|-damage|p1a: Kyurem|69/100
+|
+|upkeep
+|turn|11
+|inactive|trick or dies has 120 seconds left.
+|c|☆exithe|oh that mf did nothing
+|inactive|exithe has 90 seconds left.
+|
+|t:|1711923818
+|move|p1a: Kyurem|Ice Beam|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1711923836
+|switch|p2a: Hemogoblin|Hemogoblin, F|100/100
+|turn|12
+|
+|t:|1711923840
+|move|p1a: Kyurem|Earth Power|p2a: Hemogoblin
+|-supereffective|p2a: Hemogoblin
+|-damage|p2a: Hemogoblin|38/100
+|move|p2a: Hemogoblin|Bitter Blade|p1a: Kyurem
+|-damage|p1a: Kyurem|27/100
+|-heal|p2a: Hemogoblin|60/100|[from] drain|[of] p1a: Kyurem
+|
+|upkeep
+|turn|13
+|inactive|trick or dies has 120 seconds left.
+|
+|t:|1711923850
+|move|p1a: Kyurem|Earth Power|p2a: Hemogoblin
+|-supereffective|p2a: Hemogoblin
+|-damage|p2a: Hemogoblin|0 fnt
+|faint|p2a: Hemogoblin
+|
+|upkeep
+|c|☆exithe|sacs for days
+|
+|t:|1711923877
+|switch|p2a: Caribolt|Caribolt, M|100/100
+|turn|14
+|inactive|exithe has 120 seconds left.
+|
+|t:|1711923888
+|move|p2a: Caribolt|Hyper Drill|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|2/100
+|move|p1a: Kyurem|Ice Beam|p2a: Caribolt
+|-supereffective|p2a: Caribolt
+|-damage|p2a: Caribolt|0 fnt
+|faint|p2a: Caribolt
+|
+|upkeep
+|
+|t:|1711923900
+|switch|p2a: Glimmora|Glimmora, M|100/100
+|turn|15
+|
+|t:|1711923907
+|move|p1a: Kyurem|Earth Power|p2a: Glimmora
+|-supereffective|p2a: Glimmora
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-unboost|p2a: Glimmora|spd|1
+|move|p2a: Glimmora|Mortal Spin|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|upkeep
+|
+|t:|1711923916
+|switch|p1a: Hemogoblin|Hemogoblin, M, tera:Fairy|53/100
+|turn|16
+|
+|t:|1711923919
+|move|p1a: Hemogoblin|Extreme Speed|p2a: Glimmora
+|-resisted|p2a: Glimmora
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: exithe|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|upkeep
+|
+|t:|1711923922
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|turn|17
+|inactive|trick or dies has 120 seconds left.
+|
+|t:|1711923934
+|-terastallize|p2a: Raging Bolt|Fairy
+|move|p1a: Hemogoblin|Extreme Speed|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|42/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1711923941
+|move|p1a: Hemogoblin|Extreme Speed|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|win|exithe
+|n|☆exithe|exithe
+|n|☆trick or dies|trickordies
+|n| Da Pizza Man|dapizzaman
+|c|☆exithe|gg
+|c|☆trick or dies|Gg
+|l|☆trick or dies
+|player|p2|
+|l|☆exithe
+|player|p1|
+|j|☆exithe
+|player|p1|exithe|kris-gen2

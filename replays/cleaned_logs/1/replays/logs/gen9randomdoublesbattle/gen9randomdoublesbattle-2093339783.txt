@@ -1,0 +1,72 @@
+p1: Switched to Swalot
+p1: Switched to Flareon
+p2: Switched to Hydreigon
+p2: Switched to Alomomola
+Turn 1:
+p1: Flareon used Protect on Flareon
+p2: Hydreigon used Dark Pulse on Swalot
+p2: Alomomola used Scald on Swalot
+p1: Swalot used Poison Gas on Alomomola
+Turn 2:
+p1: Switched to Sceptile
+p2: Hydreigon used Draco Meteor on Sceptile
+p2: Alomomola used Scald on Sceptile
+p1: Swalot used Gunk Shot on Alomomola
+Turn 3:
+p2: Switched to Vileplume
+p1: Sceptile used Leaf Storm on Alomomola
+p2: Alomomola fainted
+p1: Swalot used Knock Off on Vileplume
+p2: Switched to Spectrier
+Turn 4:
+p1: Switched to Flareon
+p2: Spectrier used Shadow Ball on Flareon
+p1: Swalot used Knock Off on Spectrier
+p2: Vileplume used Stun Spore on Swalot
+Turn 5:
+p2: Spectrier used Protect on Spectrier
+p1: Flareon used Flare Blitz on Vileplume
+p2: Vileplume fainted
+p1: Swalot used Knock Off on Spectrier
+p2: Switched to Hydreigon
+Turn 6:
+p1: Flareon used Quick Attack on Hydreigon
+p2: Spectrier used Shadow Ball on Swalot
+p2: Hydreigon used Dark Pulse on Flareon
+p1: Flareon fainted
+p1: Swalot used Knock Off on Spectrier
+p2: Spectrier fainted
+p2: Switched to Iron Boulder
+p1: Switched to Weavile
+Turn 7:
+p2: Iron Boulder used Mighty Cleave on Weavile
+p1: Weavile fainted
+p2: Hydreigon used Dark Pulse on Swalot
+p1: Swalot used Knock Off on Iron Boulder
+p2: Hydreigon fainted
+p1: Switched to Sceptile
+p2: Switched to Solgaleo
+Turn 8:
+p2: Iron Boulder used Mighty Cleave on Sceptile
+p1: Sceptile fainted
+p2: Solgaleo used Sunsteel Strike on Swalot
+p1: Swalot fainted
+p1: Switched to Mewtwo
+p1: Switched to Eiscue
+Turn 9:
+p2: Iron Boulder used Mighty Cleave on Eiscue
+p1: Eiscue used Belly Drum on Eiscue
+p1: Mewtwo used Psystrike on Iron Boulder
+p2: Iron Boulder fainted
+p2: Solgaleo used Knock Off on Mewtwo
+Turn 10:
+p1: Eiscue used Liquidation on Solgaleo
+p1: Mewtwo used Aura Sphere on Solgaleo
+p2: Solgaleo used Sunsteel Strike on Eiscue
+p1: Eiscue fainted
+Turn 11:
+p1: Mewtwo used Aura Sphere on Solgaleo
+p2: Solgaleo used Sunsteel Strike on Mewtwo
+Turn 12:
+p1: Mewtwo used Aura Sphere on Solgaleo
+p2: Solgaleo fainted

@@ -1,0 +1,253 @@
+|j|☆endertile
+|j|☆AllHailDudunsparce
+|t:|1711935144
+|gametype|singles
+|player|p1|endertile|169|1055
+|player|p2|AllHailDudunsparce|ghetsis-gen5bw|1112
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Almost Any Ability
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|1 Ability Clause: Limit 1 of each ability
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Excadrill, F|
+|poke|p1|Infernape, F|
+|poke|p1|Porygon-Z|
+|poke|p1|Blastoise, M|
+|poke|p1|Chesnaught, M|
+|poke|p1|Iron Jugulis|
+|poke|p2|Deoxys-Speed|
+|poke|p2|Dudunsparce-*, F|
+|poke|p2|Great Tusk|
+|poke|p2|Metagross|
+|poke|p2|Garganacl, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AllHailDudunsparce)
+|
+|t:|1711935169
+|start
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|switch|p2a: Dudunsparce|Dudunsparce-Three-Segment, F, shiny|100/100
+|turn|1
+|
+|t:|1711935179
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Dudunsparce|Lunge|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|82/100
+|-unboost|p1a: Excadrill|atk|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711935189
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Sword of Ruin
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1711935201
+|move|p2a: Landorus|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1711935209
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|turn|4
+|
+|t:|1711935213
+|move|p2a: Landorus|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|31/100
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|
+|upkeep
+|turn|5
+|
+|t:|1711935228
+|move|p2a: Landorus|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1711935236
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|turn|6
+|l|☆endertile
+|inactive|endertile disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|AllHailDudunsparce has 120 seconds left.
+|
+|t:|1711935271
+|move|p2a: Landorus|Earthquake|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-damage|p1a: Chesnaught|68/100
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|
+|-heal|p1a: Chesnaught|74/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|AllHailDudunsparce has 120 seconds left.
+|j|☆endertile
+|inactive|endertile reconnected and has 125 seconds left.
+|player|p1|endertile|169
+|inactive|endertile has 120 seconds left.
+|
+|t:|1711935304
+|switch|p2a: Metagross|Metagross|100/100
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|
+|-heal|p1a: Chesnaught|81/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|AllHailDudunsparce has 120 seconds left.
+|inactive|endertile has 120 seconds left.
+|
+|t:|1711935314
+|move|p2a: Metagross|Psychic Fangs|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|35/100
+|move|p1a: Chesnaught|Drain Punch|p2a: Metagross
+|-damage|p2a: Metagross|54/100
+|-heal|p1a: Chesnaught|58/100|[from] drain|[of] p2a: Metagross
+|
+|-heal|p1a: Chesnaught|65/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|endertile has 120 seconds left.
+|
+|t:|1711935336
+|move|p2a: Metagross|Psychic Fangs|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-damage|p1a: Chesnaught|18/100
+|move|p1a: Chesnaught|Earthquake|p2a: Metagross
+|-supereffective|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|-heal|p1a: Chesnaught|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711935345
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|10
+|inactive|endertile has 120 seconds left.
+|
+|t:|1711935354
+|move|p2a: Great Tusk|Close Combat|p1a: Chesnaught
+|-crit|p1a: Chesnaught
+|-damage|p1a: Chesnaught|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Chesnaught
+|
+|upkeep
+|inactive|endertile has 120 seconds left.
+|
+|t:|1711935361
+|switch|p1a: Iron Jugulis|Iron Jugulis|100/100
+|turn|11
+|
+|t:|1711935365
+|switch|p2a: Garganacl|Garganacl, M|100/100
+|move|p1a: Iron Jugulis|Air Slash|p2a: Garganacl
+|-resisted|p2a: Garganacl
+|-damage|p2a: Garganacl|83/100
+|
+|-heal|p2a: Garganacl|89/100|[from] item: Leftovers
+|-status|p1a: Iron Jugulis|brn|[from] item: Flame Orb
+|upkeep
+|turn|12
+|
+|t:|1711935379
+|move|p1a: Iron Jugulis|Earth Power|p2a: Garganacl
+|-supereffective|p2a: Garganacl
+|-damage|p2a: Garganacl|6/100
+|move|p2a: Garganacl|Salt Cure|p1a: Iron Jugulis
+|-supereffective|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|69/100 brn
+|-start|p1a: Iron Jugulis|Salt Cure
+|
+|-heal|p2a: Garganacl|12/100|[from] item: Leftovers
+|-damage|p1a: Iron Jugulis|63/100 brn|[from] brn
+|-damage|p1a: Iron Jugulis|51/100 brn|[from] Salt Cure
+|upkeep
+|turn|13
+|
+|t:|1711935390
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Sword of Ruin
+|move|p1a: Iron Jugulis|Dark Pulse|p2a: Landorus
+|-damage|p2a: Landorus|23/100
+|
+|-damage|p1a: Iron Jugulis|45/100 brn|[from] brn
+|-damage|p1a: Iron Jugulis|32/100 brn|[from] Salt Cure
+|upkeep
+|turn|14
+|
+|t:|1711935399
+|move|p2a: Landorus|Brick Break|p1a: Iron Jugulis
+|-damage|p1a: Iron Jugulis|0 fnt
+|faint|p1a: Iron Jugulis
+|
+|upkeep
+|
+|t:|1711935407
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|-ability|p1a: Porygon-Z|Beads of Ruin
+|turn|15
+|
+|t:|1711935413
+|move|p2a: Landorus|Brick Break|p1a: Porygon-Z
+|-supereffective|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|
+|upkeep
+|
+|t:|1711935416
+|switch|p1a: Infernape|Infernape, F|100/100
+|turn|16
+|
+|t:|1711935419
+|move|p2a: Landorus|Brick Break|p1a: Infernape
+|-damage|p1a: Infernape|40/100
+|move|p1a: Infernape|Rock Slide|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|-message|endertile forfeited.
+|
+|win|AllHailDudunsparce
+|raw|endertile's rating: 1055 &rarr; <strong>1040</strong><br />(-15 for losing)
+|raw|AllHailDudunsparce's rating: 1112 &rarr; <strong>1133</strong><br />(+21 for winning)
+|l|☆endertile
+|player|p1|

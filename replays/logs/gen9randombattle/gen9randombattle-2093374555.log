@@ -1,0 +1,170 @@
+|j|☆tab_7
+|j|☆Aoz0raSenpai
+|t:|1711946706
+|gametype|singles
+|player|p1|tab_7|101|1504
+|player|p2|Aoz0raSenpai|caitlin|1527
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946706
+|start
+|switch|p1a: Fezandipiti|Fezandipiti, L81, M|275/275
+|switch|p2a: Seviper|Seviper, L93, M|287/287
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aoz0raSenpai)
+|
+|t:|1711946717
+|move|p1a: Fezandipiti|U-turn|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|261/287
+|
+|t:|1711946727
+|switch|p1a: Deoxys|Deoxys-Defense, L86|226/226|[from] U-turn
+|-ability|p1a: Deoxys|Pressure
+|move|p2a: Seviper|Swords Dance|p2a: Seviper
+|-boost|p2a: Seviper|atk|2
+|
+|-heal|p2a: Seviper|278/287|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711946746
+|-terastallize|p2a: Seviper|Grass
+|move|p1a: Deoxys|Psychic Noise|p2a: Seviper
+|-damage|p2a: Seviper|196/287
+|-start|p2a: Seviper|move: Heal Block
+|move|p2a: Seviper|Trailblaze|p1a: Deoxys
+|-damage|p1a: Deoxys|133/226
+|-boost|p2a: Seviper|spe|1
+|
+|-heal|p1a: Deoxys|147/226|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|tab_7 has 120 seconds left.
+|inactive|Aoz0raSenpai has 120 seconds left.
+|l|☆Aoz0raSenpai
+|inactive|Aoz0raSenpai disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆Aoz0raSenpai
+|inactive|Aoz0raSenpai reconnected and has 110 seconds left.
+|player|p2|Aoz0raSenpai|caitlin
+|
+|t:|1711946792
+|move|p2a: Seviper|Gunk Shot|p1a: Deoxys|[miss]
+|-miss|p2a: Seviper|p1a: Deoxys
+|move|p1a: Deoxys|Teleport|p1a: Deoxys
+|inactive|tab_7 has 120 seconds left.
+|
+|t:|1711946798
+|switch|p1a: Tentacruel|Tentacruel, L85, M|275/275|[from] Teleport
+|
+|-end|p2a: Seviper|move: Heal Block
+|upkeep
+|turn|4
+|
+|t:|1711946806
+|move|p2a: Seviper|Earthquake|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|-heal|p2a: Seviper|213/287|[from] item: Leftovers
+|upkeep
+|inactive|tab_7 has 120 seconds left.
+|
+|t:|1711946829
+|switch|p1a: Politoed|Politoed, L88, F|302/302
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|5
+|
+|t:|1711946842
+|move|p2a: Seviper|Trailblaze|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|-boost|p2a: Seviper|spe|1
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Seviper|230/287|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946851
+|switch|p1a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|turn|6
+|
+|t:|1711946855
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: tab_7|Reflect
+|move|p2a: Seviper|Gunk Shot|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Seviper|247/287|[from] item: Leftovers
+|upkeep
+|inactive|tab_7 has 120 seconds left.
+|
+|t:|1711946871
+|switch|p1a: Deoxys|Deoxys-Defense, L86|147/226
+|-ability|p1a: Deoxys|Pressure
+|turn|7
+|
+|t:|1711946874
+|move|p2a: Seviper|Swords Dance|p2a: Seviper
+|-boost|p2a: Seviper|atk|2
+|move|p1a: Deoxys|Psychic Noise|p2a: Seviper
+|-damage|p2a: Seviper|162/287
+|-start|p2a: Seviper|move: Heal Block
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Deoxys|161/226|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711946882
+|move|p2a: Seviper|Gunk Shot|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Seviper|move: Heal Block
+|upkeep
+|
+|t:|1711946887
+|switch|p1a: Rampardos|Rampardos, L90, M|321/321
+|turn|9
+|
+|t:|1711946897
+|move|p2a: Seviper|Trailblaze|p1a: Rampardos
+|-supereffective|p1a: Rampardos
+|-damage|p1a: Rampardos|0 fnt
+|-boost|p2a: Seviper|spe|1
+|faint|p1a: Rampardos
+|
+|-weather|none
+|-heal|p2a: Seviper|179/287|[from] item: Leftovers
+|upkeep
+|l|☆tab_7
+|inactive|tab_7 disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|tab_7 has 30 seconds to reconnect!
+|inactive|tab_7 has 20 seconds to reconnect!
+|inactive|tab_7 has 15 seconds to reconnect!
+|inactive|tab_7 has 10 seconds to reconnect!
+|inactive|tab_7 has 5 seconds to reconnect!
+|-message|tab_7 lost due to inactivity.
+|
+|win|Aoz0raSenpai
+|raw|tab_7's rating: 1504 &rarr; <strong>1485</strong><br />(-19 for losing)
+|raw|Aoz0raSenpai's rating: 1527 &rarr; <strong>1546</strong><br />(+19 for winning)
+|c|☆Aoz0raSenpai|!showteam
+|c| Aoz0raSenpai|/raw <div class="infobox"><details><summary>View team</summary>Seviper @ Leftovers  <br />Ability: Infiltrator  <br />Level: 93  <br />Tera Type: Grass  <br />EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />- Earthquake  <br />- Swords Dance  <br />- Trailblaze  <br />- Gunk Shot  <br /><br />Pecharunt @ Leftovers  <br />Ability: Poison Puppeteer  <br />Level: 77  <br />Tera Type: Dark  <br />EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />IVs: 0 Atk  <br />- Recover  <br />- Nasty Plot  <br />- Shadow Ball  <br />- Malignant Chain  <br /><br />Arceus (Arceus-Fairy) @ Pixie Plate  <br />Ability: Multitype  <br />Level: 69  <br />Tera Type: Ground  <br />EVs: 85 HP &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />IVs: 0 Atk  <br />- Calm Mind  <br />- Recover  <br />- Earth Power  <br />- Judgment  <br /><br />Forretress @ Leftovers  <br />Ability: Sturdy  <br />Level: 84  <br />Tera Type: Water  <br />EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />- Toxic Spikes  <br />- Rapid Spin  <br />- Stealth Rock  <br />- Iron Head  <br /><br />Torterra @ Loaded Dice  <br />Ability: Overgrow  <br />Level: 79  <br />Tera Type: Ground  <br />EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />- Rock Blast  <br />- Bullet Seed  <br />- Shell Smash  <br />- Headlong Rush  <br /><br />Honchkrow @ Heavy-Duty Boots  <br />Ability: Moxie  <br />Level: 86  <br />Tera Type: Flying  <br />EVs: 85 HP &#x2f; 85 Atk &#x2f; 85 Def &#x2f; 85 SpA &#x2f; 85 SpD &#x2f; 85 Spe  <br />- U-turn  <br />- Brave Bird  <br />- Sucker Punch  <br />- Heat Wave  <br /><br /></details></div>

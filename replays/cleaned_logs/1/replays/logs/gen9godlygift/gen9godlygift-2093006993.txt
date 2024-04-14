@@ -1,0 +1,104 @@
+p1: Switched to Alomomola
+p2: Switched to Necrozma-Dusk-Mane
+Turn 1:
+p2: Switched to Zapdos
+p1: Switched to Corviknight
+Turn 2:
+p1: Switched to Arceus-Ground
+p2: Zapdos used U-turn on Arceus-Ground
+p2: Switched to Chien-Pao
+Turn 3:
+p1: Switched to Clefable
+p2: Chien-Pao used Icicle Crash on Clefable
+Turn 4:
+p2: Switched to Zapdos
+p1: Switched to Alomomola
+Turn 5:
+p2: Zapdos used Discharge on Alomomola
+p1: Alomomola used Flip Turn on Zapdos
+p1: Switched to Dragapult
+Turn 6:
+p1: Dragapult used Shadow Ball on Zapdos
+p2: Zapdos used Discharge on Dragapult
+Turn 7:
+p1: Switched to Iron Hands
+p2: Zapdos used Roost on Zapdos
+Turn 8:
+p1: Iron Hands used Ice Punch on Zapdos
+p2: Zapdos used Hurricane on Iron Hands
+Turn 9:
+p1: Iron Hands used Swords Dance on Iron Hands
+p2: Zapdos used U-turn on Iron Hands
+p2: Switched to Dragapult
+Turn 10:
+p1: Switched to Alomomola
+p2: Dragapult used Draco Meteor on Alomomola
+Turn 11:
+p2: Switched to Zapdos
+p1: Alomomola used Flip Turn on Zapdos
+p1: Switched to Iron Hands
+Turn 12:
+p2: Switched to Hatterene
+p1: Iron Hands used Swords Dance on Iron Hands
+Turn 13:
+p1: Iron Hands used Thunder Punch on Hatterene
+p2: Hatterene used Draining Kiss on Iron Hands
+Turn 14:
+p1: Switched to Alomomola
+p2: Hatterene can't move
+Turn 15:
+p1: Alomomola used Flip Turn on Hatterene
+p1: Switched to Arceus-Ground
+p2: Hatterene can't move
+Turn 16:
+p2: Switched to Zapdos
+p1: Arceus-Ground used Calm Mind on Arceus-Ground
+Turn 17:
+p2: Switched to Chien-Pao
+p1: Arceus-Ground used Power Gem on Chien-Pao
+p2: Chien-Pao fainted
+p2: Switched to Necrozma-Dusk-Mane
+Turn 18:
+p1: Arceus-Ground used Judgment on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane used Sunsteel Strike on Arceus-Ground
+Turn 19:
+p1: Arceus-Ground used Recover on Arceus-Ground
+p2: Necrozma-Dusk-Mane used Sunsteel Strike on Arceus-Ground
+Turn 20:
+p1: Arceus-Ground used Judgment on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane fainted
+p2: Switched to Dragapult
+Turn 21:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Recover on Arceus-Ground
+Turn 22:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Calm Mind on Arceus-Ground
+Turn 23:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Recover on Arceus-Ground
+Turn 24:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Calm Mind on Arceus-Ground
+Turn 25:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Recover on Arceus-Ground
+Turn 26:
+p2: Dragapult used Shadow Ball on Arceus-Ground
+p1: Arceus-Ground used Judgment on Dragapult
+p2: Dragapult fainted
+p2: Switched to Great Tusk
+Turn 27:
+p1: Arceus-Ground used Recover on Arceus-Ground
+p2: Great Tusk used Close Combat on Arceus-Ground
+Turn 28:
+p1: Arceus-Ground used Judgment on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Hatterene
+Turn 29:
+p1: Arceus-Ground used Judgment on Hatterene
+p2: Hatterene fainted
+p2: Switched to Zapdos
+Turn 30:
+p1: Arceus-Ground used Power Gem on Zapdos
+p2: Zapdos fainted

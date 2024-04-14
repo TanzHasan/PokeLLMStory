@@ -1,0 +1,238 @@
+|j|☆VBix
+|j|☆datblackbattler
+|t:|1711944477
+|gametype|singles
+|player|p1|VBix|2|1206
+|player|p2|datblackbattler|2|1514
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Galvantula, F|
+|poke|p1|Magnezone|
+|poke|p1|Entei|
+|poke|p1|Staraptor, F|
+|poke|p1|Gardevoir, M|
+|poke|p1|Basculegion, M|
+|poke|p2|Necrozma|
+|poke|p2|Cetitan, F|
+|poke|p2|Gengar, F|
+|poke|p2|Maushold|
+|poke|p2|Magnezone|
+|poke|p2|Forretress, F|
+|teampreview
+|
+|t:|1711944520
+|start
+|switch|p1a: Entei|Entei|100/100
+|switch|p2a: Maushold|Maushold|100/100
+|turn|1
+|
+|t:|1711944526
+|switch|p1a: Basculegion|Basculegion, M|100/100
+|move|p2a: Maushold|Population Bomb|p1a: Basculegion
+|-immune|p1a: Basculegion
+|
+|upkeep
+|turn|2
+|
+|t:|1711944551
+|switch|p2a: Forretress|Forretress, F|100/100
+|move|p1a: Basculegion|Flip Turn|p2a: Forretress
+|-damage|p2a: Forretress|65/100
+|
+|t:|1711944565
+|switch|p1a: Entei|Entei|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|3
+|
+|t:|1711944571
+|move|p1a: Entei|Sacred Fire|p2a: Forretress
+|-supereffective|p2a: Forretress
+|-damage|p2a: Forretress|0 fnt
+|faint|p2a: Forretress
+|
+|upkeep
+|
+|t:|1711944573
+|switch|p2a: Maushold|Maushold|100/100
+|turn|4
+|
+|t:|1711944576
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|move|p1a: Entei|Sacred Fire|p2a: Maushold
+|-damage|p2a: Maushold|0 fnt
+|faint|p2a: Maushold
+|
+|upkeep
+|
+|t:|1711944583
+|switch|p2a: Necrozma|Necrozma|100/100
+|turn|5
+|
+|t:|1711944589
+|move|p1a: Entei|Sacred Fire|p2a: Necrozma
+|-damage|p2a: Necrozma|46/100
+|move|p2a: Necrozma|Photon Geyser|p1a: Entei
+|-damage|p1a: Entei|50/100
+|
+|-heal|p2a: Necrozma|52/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711944594
+|move|p1a: Entei|Sacred Fire|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1711944598
+|switch|p2a: Gengar|Gengar, F|100/100
+|turn|7
+|
+|t:|1711944604
+|switch|p1a: Staraptor|Staraptor, F|100/100
+|move|p2a: Gengar|Sludge Wave|p1a: Staraptor
+|-damage|p1a: Staraptor|13/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711944612
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Staraptor|Brave Bird|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|67/100
+|-damage|p1a: Staraptor|3/100|[from] Recoil
+|
+|upkeep
+|turn|9
+|
+|t:|1711944619
+|move|p1a: Staraptor|Brave Bird|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|33/100
+|-damage|p1a: Staraptor|0 fnt|[from] Recoil
+|faint|p1a: Staraptor
+|move|p2a: Magnezone|Volt Switch|p1: Staraptor|[notarget]
+|-fail|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1711944623
+|switch|p1a: Galvantula|Galvantula, F|100/100
+|turn|10
+|
+|t:|1711944627
+|move|p1a: Galvantula|Sticky Web|p2a: Magnezone
+|-sidestart|p2: datblackbattler|move: Sticky Web
+|move|p2a: Magnezone|Volt Switch|p1a: Galvantula
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|49/100
+|
+|t:|1711944629
+|switch|p2a: Gengar|Gengar, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|11
+|
+|t:|1711944632
+|move|p2a: Gengar|Shadow Ball|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|upkeep
+|
+|t:|1711944640
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|-ability|p1a: Gardevoir|Cursed Body|[from] ability: Trace|[of] p2a: Gengar
+|turn|12
+|
+|t:|1711944659
+|-terastallize|p2a: Gengar|Normal
+|move|p1a: Gardevoir|Psyshock|p2a: Gengar
+|-damage|p2a: Gengar|8/100
+|move|p2a: Gengar|Sludge Wave|p1a: Gardevoir
+|-supereffective|p1a: Gardevoir
+|-damage|p1a: Gardevoir|1/100
+|-start|p2a: Gengar|Disable|Sludge Wave|[from] ability: Cursed Body|[of] p1a: Gardevoir
+|
+|upkeep
+|turn|13
+|
+|t:|1711944672
+|switch|p2a: Magnezone|Magnezone|33/100
+|-activate|p2a: Magnezone|move: Sticky Web
+|-unboost|p2a: Magnezone|spe|1
+|move|p1a: Gardevoir|Psyshock|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|10/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711944676
+|move|p1a: Gardevoir|Psyshock|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1711944678
+|switch|p2a: Cetitan|Cetitan, F|100/100
+|-activate|p2a: Cetitan|move: Sticky Web
+|-unboost|p2a: Cetitan|spe|1
+|turn|15
+|
+|t:|1711944685
+|move|p2a: Cetitan|Ice Shard|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1711944688
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|16
+|
+|t:|1711944691
+|move|p1a: Magnezone|Flash Cannon|p2a: Cetitan
+|-supereffective|p2a: Cetitan
+|-damage|p2a: Cetitan|0 fnt
+|faint|p2a: Cetitan
+|
+|upkeep
+|
+|t:|1711944695
+|switch|p2a: Gengar|Gengar, F, tera:Normal|8/100
+|turn|17
+|
+|t:|1711944701
+|move|p2a: Gengar|Shadow Ball|p1a: Magnezone
+|-damage|p1a: Magnezone|46/100
+|-unboost|p1a: Magnezone|spd|1
+|move|p1a: Magnezone|Flash Cannon|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|win|VBix
+|raw|VBix's rating: 1206 &rarr; <strong>1249</strong><br />(+43 for winning)
+|raw|datblackbattler's rating: 1514 &rarr; <strong>1480</strong><br />(-34 for losing)
+|l|☆datblackbattler
+|player|p2|
+|l|☆VBix
+|player|p1|

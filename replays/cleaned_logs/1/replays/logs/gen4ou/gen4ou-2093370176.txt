@@ -1,0 +1,127 @@
+p1: Switched to Snorlax
+p2: Switched to Shedinja
+Turn 1:
+p1: Switched to Steelix
+p2: Shedinja used Confuse Ray on Steelix
+Turn 2:
+p2: Switched to Blaziken
+p1: Steelix used Stone Edge on Blaziken
+Turn 3:
+p1: Switched to Pelipper
+p2: Blaziken used Vacuum Wave on Pelipper
+Turn 4:
+p2: Blaziken used Fire Blast on Pelipper
+p1: Pelipper used Tailwind on Pelipper
+Turn 5:
+p2: Switched to Shedinja
+p1: Pelipper used Surf on Shedinja
+Turn 6:
+p1: Pelipper used Roost on Pelipper
+p2: Shedinja used Confuse Ray on Pelipper
+Turn 7:
+p1: Pelipper used Hydro Pump on Shedinja
+p2: Shedinja used Swords Dance on Shedinja
+Turn 8:
+p1: Switched to Steelix
+p2: Shedinja used Swords Dance on Shedinja
+Turn 9:
+p2: Shedinja used Confuse Ray on Steelix
+Turn 10:
+p2: Shedinja used Shadow Sneak on Steelix
+Turn 11:
+p2: Shedinja used Sucker Punch on Steelix
+p1: Steelix used Rock Polish on Steelix
+Turn 12:
+p1: Steelix used Earthquake on Shedinja
+p2: Shedinja used Swords Dance on Shedinja
+Turn 13:
+p2: Shedinja used Shadow Sneak on Steelix
+p1: Steelix used Stone Edge on Shedinja
+Turn 14:
+p2: Shedinja used Shadow Sneak on Steelix
+p1: Steelix used Stone Edge on Shedinja
+p2: Shedinja fainted
+p2: Switched to Blaziken
+Turn 15:
+p2: Blaziken used Fire Blast on Steelix
+p1: Steelix fainted
+p1: Switched to Pelipper
+Turn 16:
+p2: Blaziken used Fire Blast on Pelipper
+p1: Pelipper used Hydro Pump on Blaziken
+p2: Blaziken fainted
+p2: Switched to Skarmory
+Turn 17:
+p1: Pelipper used Roost on Pelipper
+p2: Skarmory used Stealth Rock on Pelipper
+Turn 18:
+p1: Pelipper used Tailwind on Pelipper
+p2: Skarmory used Spikes on Pelipper
+Turn 19:
+p1: Pelipper used Surf on Skarmory
+p2: Skarmory used Toxic on Pelipper
+Turn 20:
+p1: Pelipper used Surf on Skarmory
+p2: Skarmory used Toxic on Pelipper
+Turn 21:
+p1: Pelipper used Surf on Skarmory
+p2: Skarmory fainted
+p2: Switched to Dragonite
+Turn 22:
+p2: Dragonite used Extreme Speed on Pelipper
+p1: Pelipper used Tailwind on Pelipper
+Turn 23:
+p2: Dragonite used Extreme Speed on Pelipper
+p1: Pelipper fainted
+p1: Switched to Alakazam
+Turn 24:
+p1: Switched to Snorlax
+p2: Dragonite used Extreme Speed on Snorlax
+Turn 25:
+p2: Dragonite used Extreme Speed on Snorlax
+p1: Snorlax used Body Slam on Dragonite
+Turn 26:
+p2: Dragonite used Extreme Speed on Snorlax
+p1: Snorlax fainted
+p1: Switched to Clefable
+Turn 27:
+p2: Dragonite used Extreme Speed on Clefable
+p1: Clefable used Reflect on Clefable
+Turn 28:
+p2: Dragonite used Extreme Speed on Clefable
+p1: Clefable used Psychic on Dragonite
+Turn 29:
+p2: Dragonite used Extreme Speed on Clefable
+p1: Clefable used Psychic on Dragonite
+Turn 30:
+p2: Switched to Togekiss
+p1: Clefable used Psychic on Togekiss
+Turn 31:
+p2: Togekiss used Air Slash on Clefable
+p1: Clefable used Light Screen on Clefable
+Turn 32:
+p1: Switched to Staraptor
+p2: Togekiss used Air Slash on Staraptor
+p1: Staraptor fainted
+p1: Switched to Alakazam
+Turn 33:
+p1: Alakazam used Psychic on Togekiss
+p2: Togekiss used Air Slash on Alakazam
+Turn 34:
+p1: Alakazam used Psychic on Togekiss
+p2: Togekiss fainted
+p2: Switched to Dragonite
+Turn 35:
+p1: Alakazam used Psychic on Dragonite
+p2: Dragonite fainted
+p2: Switched to Hitmonlee
+Turn 36:
+p2: Hitmonlee used Bullet Punch on Alakazam
+p1: Alakazam fainted
+p1: Switched to Clefable
+Turn 37:
+p2: Hitmonlee used Bullet Punch on Clefable
+p1: Clefable used Reflect on Clefable
+Turn 38:
+p2: Hitmonlee used High Jump Kick on Clefable
+p1: Clefable fainted

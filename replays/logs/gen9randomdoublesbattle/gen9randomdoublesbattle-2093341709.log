@@ -1,0 +1,223 @@
+|j|☆lagaysha
+|j|☆TwoInchesofTerror
+|t:|1711941700
+|gametype|doubles
+|player|p1|lagaysha|1|1509
+|player|p2|TwoInchesofTerror|backersf|1496
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711941700
+|start
+|switch|p1a: Sandaconda|Sandaconda, L87, F|267/267
+|switch|p1b: Wyrdeer|Wyrdeer, L85, M|314/314
+|switch|p2a: Crawdaunt|Crawdaunt, L85, F|246/246
+|switch|p2b: Blastoise|Blastoise, L83, F|267/267
+|-ability|p1b: Wyrdeer|Intimidate|boost
+|-unboost|p2a: Crawdaunt|atk|1
+|-unboost|p2b: Blastoise|atk|1
+|-enditem|p2b: Blastoise|White Herb
+|-clearnegativeboost|p2b: Blastoise|[silent]
+|turn|1
+|
+|t:|1711941732
+|switch|p1a: Hydrapple|Hydrapple, L83, M|312/312
+|move|p2b: Blastoise|Shell Smash|p2b: Blastoise
+|-unboost|p2b: Blastoise|def|1
+|-unboost|p2b: Blastoise|spd|1
+|-boost|p2b: Blastoise|atk|2
+|-boost|p2b: Blastoise|spa|2
+|-boost|p2b: Blastoise|spe|2
+|move|p1b: Wyrdeer|Thunderbolt|p2b: Blastoise
+|-supereffective|p2b: Blastoise
+|-damage|p2b: Blastoise|89/267
+|move|p2a: Crawdaunt|Knock Off|p1b: Wyrdeer
+|-supereffective|p1b: Wyrdeer
+|-damage|p1b: Wyrdeer|0 fnt
+|-enditem|p1b: Wyrdeer|Assault Vest|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1b: Wyrdeer
+|-damage|p2a: Crawdaunt|222/246|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711941758
+|switch|p1b: Zebstrika|Zebstrika, L88, F|275/275
+|turn|2
+|
+|t:|1711941781
+|move|p2a: Crawdaunt|Protect|p2a: Crawdaunt
+|-singleturn|p2a: Crawdaunt|Protect
+|move|p2b: Blastoise|Dragon Pulse|p1a: Hydrapple
+|-supereffective|p1a: Hydrapple
+|-damage|p1a: Hydrapple|98/312
+|move|p1b: Zebstrika|Thunderbolt|p2b: Blastoise
+|-supereffective|p2b: Blastoise
+|-damage|p2b: Blastoise|0 fnt
+|faint|p2b: Blastoise
+|-damage|p1b: Zebstrika|248/275|[from] item: Life Orb
+|move|p1a: Hydrapple|Leaf Storm|p2a: Crawdaunt
+|-activate|p2a: Crawdaunt|move: Protect
+|
+|upkeep
+|
+|t:|1711941795
+|switch|p2b: Ariados|Ariados, L99, M|296/296
+|turn|3
+|
+|t:|1711941811
+|move|p1b: Zebstrika|Overheat|p2b: Ariados
+|-supereffective|p2b: Ariados
+|-damage|p2b: Ariados|70/296
+|-unboost|p1b: Zebstrika|spa|2
+|-enditem|p2b: Ariados|Sitrus Berry|[eat]
+|-heal|p2b: Ariados|144/296|[from] item: Sitrus Berry
+|-damage|p1b: Zebstrika|221/275|[from] item: Life Orb
+|move|p2a: Crawdaunt|Knock Off|p1b: Zebstrika
+|-damage|p1b: Zebstrika|34/275
+|-enditem|p1b: Zebstrika|Life Orb|[from] move: Knock Off|[of] p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|198/246|[from] item: Life Orb
+|move|p2b: Ariados|Sticky Web|p1a: Hydrapple
+|-sidestart|p1: lagaysha|move: Sticky Web
+|move|p1a: Hydrapple|Leaf Storm|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Hydrapple|spa|2
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1711941826
+|switch|p2a: Alcremie|Alcremie-Mint-Cream, L88, F|258/258
+|turn|4
+|
+|t:|1711941836
+|switch|p1a: Sandaconda|Sandaconda, L87, F|267/267
+|-activate|p1a: Sandaconda|move: Sticky Web
+|-unboost|p1a: Sandaconda|spe|1
+|move|p1b: Zebstrika|High Horsepower|p2b: Ariados
+|-damage|p2b: Ariados|73/296
+|move|p2a: Alcremie|Alluring Voice|p1a: Sandaconda
+|-damage|p1a: Sandaconda|149/267
+|move|p2b: Ariados|Megahorn|p1a: Sandaconda
+|-damage|p1a: Sandaconda|29/267
+|-enditem|p1a: Sandaconda|Sitrus Berry|[eat]
+|-heal|p1a: Sandaconda|95/267|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1711941858
+|move|p1b: Zebstrika|Overheat|p2b: Ariados
+|-supereffective|p2b: Ariados
+|-damage|p2b: Ariados|0 fnt
+|-unboost|p1b: Zebstrika|spa|2
+|faint|p2b: Ariados
+|move|p2a: Alcremie|Alluring Voice|p1a: Sandaconda
+|-damage|p1a: Sandaconda|0 fnt
+|faint|p1a: Sandaconda
+|
+|upkeep
+|
+|t:|1711941870
+|switch|p1a: Muk|Muk-Alola, L83, M|310/310
+|switch|p2b: Tornadus|Tornadus, L77, M|248/248
+|-activate|p1a: Muk|move: Sticky Web
+|-unboost|p1a: Muk|spe|1
+|turn|6
+|
+|t:|1711941889
+|switch|p1b: Hydrapple|Hydrapple, L83, M|202/312
+|-activate|p1b: Hydrapple|move: Sticky Web
+|-unboost|p1b: Hydrapple|spe|1
+|-terastallize|p2a: Alcremie|Steel
+|move|p2b: Tornadus|Tailwind|p2b: Tornadus
+|-sidestart|p2: TwoInchesofTerror|move: Tailwind
+|move|p2a: Alcremie|Decorate|p2b: Tornadus
+|-boost|p2b: Tornadus|atk|2
+|-boost|p2b: Tornadus|spa|2
+|move|p1a: Muk|Gunk Shot|p2a: Alcremie
+|-immune|p2a: Alcremie
+|
+|upkeep
+|turn|7
+|
+|t:|1711941915
+|move|p2b: Tornadus|Bleakwind Storm|p1a: Muk|[spread] p1a,p1b
+|-supereffective|p1b: Hydrapple
+|-damage|p1a: Muk|157/310
+|-damage|p1b: Hydrapple|0 fnt
+|-unboost|p1a: Muk|spe|1
+|faint|p1b: Hydrapple
+|-ability|p1a: Muk|Regenerator|[from] ability: Power of Alchemy|[of] p1b: Hydrapple
+|move|p2a: Alcremie|Alluring Voice|p1a: Muk
+|-damage|p1a: Muk|67/310
+|-enditem|p1a: Muk|Sitrus Berry|[eat]
+|-heal|p1a: Muk|144/310|[from] item: Sitrus Berry
+|move|p1a: Muk|Knock Off|p2b: Tornadus
+|-damage|p2b: Tornadus|104/248
+|-enditem|p2b: Tornadus|Sitrus Berry|[from] move: Knock Off|[of] p1a: Muk
+|
+|upkeep
+|
+|t:|1711941929
+|switch|p1b: Zebstrika|Zebstrika, L88, F|34/275
+|-activate|p1b: Zebstrika|move: Sticky Web
+|-unboost|p1b: Zebstrika|spe|1
+|turn|8
+|
+|t:|1711941944
+|move|p2b: Tornadus|Bleakwind Storm|p1a: Muk|[spread] p1a,p1b
+|-resisted|p1b: Zebstrika
+|-damage|p1a: Muk|0 fnt
+|-damage|p1b: Zebstrika|0 fnt
+|faint|p1a: Muk
+|faint|p1b: Zebstrika
+|move|p2a: Alcremie|Alluring Voice|p1: Muk|[notarget]
+|-fail|p2a: Alcremie
+|
+|upkeep
+|
+|t:|1711941951
+|switch|p1b: Enamorus|Enamorus-Therian, L83, F|256/256
+|turn|9
+|
+|t:|1711941961
+|move|p2b: Tornadus|Bleakwind Storm|p1b: Enamorus
+|-damage|p1b: Enamorus|42/256
+|-unboost|p1b: Enamorus|spe|1
+|-enditem|p1b: Enamorus|Sitrus Berry|[eat]
+|-heal|p1b: Enamorus|106/256|[from] item: Sitrus Berry
+|move|p2a: Alcremie|Decorate|p2b: Tornadus
+|-boost|p2b: Tornadus|atk|2
+|-boost|p2b: Tornadus|spa|2
+|move|p1b: Enamorus|Springtide Storm|p2a: Alcremie|[spread] p2a,p2b
+|-resisted|p2a: Alcremie
+|-damage|p2a: Alcremie|219/258
+|-damage|p2b: Tornadus|0 fnt
+|faint|p2b: Tornadus
+|
+|-sideend|p2: TwoInchesofTerror|move: Tailwind
+|upkeep
+|
+|t:|1711941964
+|switch|p2b: Arceus|Arceus-Ice, L72|291/291
+|turn|10
+|
+|t:|1711941976
+|move|p2b: Arceus|Judgment|p1b: Enamorus
+|-supereffective|p1b: Enamorus
+|-damage|p1b: Enamorus|0 fnt
+|faint|p1b: Enamorus
+|
+|win|TwoInchesofTerror
+|raw|lagaysha's rating: 1509 &rarr; <strong>1488</strong><br />(-21 for losing)
+|raw|TwoInchesofTerror's rating: 1496 &rarr; <strong>1517</strong><br />(+21 for winning)
+|l|☆lagaysha
+|player|p1|

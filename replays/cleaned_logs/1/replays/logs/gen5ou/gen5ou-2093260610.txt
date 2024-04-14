@@ -1,0 +1,125 @@
+p1: Switched to Politoed
+p2: Switched to Garchomp
+Turn 1:
+p2: Switched to Kyurem-Black
+p1: Politoed used Hydro Pump on Kyurem-Black
+Turn 2:
+p1: Switched to Ferrothorn
+p2: Kyurem-Black used Fusion Bolt on Ferrothorn
+Turn 3:
+p2: Kyurem-Black failed to use Freeze Shock
+p1: Ferrothorn used Spikes on Kyurem-Black
+Turn 4:
+p2: Kyurem-Black used Outrage on Ferrothorn
+p1: Ferrothorn used Leech Seed on Kyurem-Black
+Turn 5:
+p2: Kyurem-Black used Outrage on Ferrothorn
+p1: Ferrothorn used Spikes on Kyurem-Black
+Turn 6:
+p1: Switched to Politoed
+p2: Kyurem-Black used Outrage on Politoed
+p1: Politoed fainted
+p1: Switched to Starmie
+Turn 7:
+p1: Starmie used Thunder on Kyurem-Black
+p2: Kyurem-Black fainted
+p2: Switched to Latios
+Turn 8:
+p1: Switched to Ferrothorn
+p2: Latios used Draco Meteor on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Jirachi
+Turn 9:
+p2: Switched to Starmie
+p1: Jirachi used Substitute on Jirachi
+Turn 10:
+p2: Starmie used Rapid Spin on Jirachi
+p1: Jirachi used Calm Mind on Jirachi
+Turn 11:
+p2: Starmie used Hydro Pump on Jirachi
+p1: Jirachi used Calm Mind on Jirachi
+Turn 12:
+p2: Starmie used Hydro Pump on Jirachi
+p1: Jirachi used Thunder on Starmie
+p2: Starmie fainted
+p2: Switched to Garchomp
+Turn 13:
+p2: Garchomp used Swords Dance on Garchomp
+p1: Jirachi used Icy Wind on Garchomp
+Turn 14:
+p2: Switched to Politoed
+p1: Jirachi used Icy Wind on Politoed
+Turn 15:
+p1: Jirachi used Thunder on Politoed
+p2: Politoed fainted
+p2: Switched to Garchomp
+Turn 16:
+p1: Switched to Tentacruel
+p2: Garchomp used Earthquake on Tentacruel
+Turn 17:
+p2: Garchomp used Earthquake on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Starmie
+Turn 18:
+p2: Switched to Ferrothorn
+p1: Starmie used Hydro Pump on Ferrothorn
+Turn 19:
+p1: Switched to Jirachi
+p2: Ferrothorn used Power Whip on Jirachi
+Turn 20:
+p2: Switched to Latios
+p1: Jirachi used Substitute on Jirachi
+Turn 21:
+p2: Latios used Surf on Jirachi
+p1: Jirachi used Thunder on Latios
+Turn 22:
+p1: Switched to Starmie
+p2: Latios used Surf on Starmie
+Turn 23:
+p2: Latios used Surf on Starmie
+p1: Starmie fainted
+p1: Switched to Mamoswine
+Turn 24:
+p1: Mamoswine used Ice Shard on Latios
+p2: Latios fainted
+p2: Switched to Ferrothorn
+Turn 25:
+p1: Switched to Jirachi
+p2: Ferrothorn used Power Whip on Jirachi
+Turn 26:
+p2: Switched to Garchomp
+p1: Jirachi used Substitute on Jirachi
+Turn 27:
+p2: Garchomp used Earthquake on Jirachi
+p1: Jirachi used Icy Wind on Garchomp
+p2: Garchomp fainted
+p2: Switched to Ferrothorn
+Turn 28:
+p1: Jirachi used Substitute on Jirachi
+p2: Ferrothorn used Gyro Ball on Jirachi
+Turn 29:
+p1: Jirachi used Calm Mind on Jirachi
+p2: Ferrothorn used Gyro Ball on Jirachi
+Turn 30:
+p1: Jirachi used Substitute on Jirachi
+p2: Ferrothorn used Gyro Ball on Jirachi
+Turn 31:
+p1: Jirachi used Thunder on Ferrothorn
+p2: Ferrothorn used Gyro Ball on Jirachi
+Turn 32:
+p1: Jirachi used Thunder on Ferrothorn
+p2: Ferrothorn can't move
+Turn 33:
+p1: Jirachi used Thunder on Ferrothorn
+p2: Ferrothorn used Gyro Ball on Jirachi
+Turn 34:
+p1: Jirachi used Thunder on Ferrothorn
+p2: Ferrothorn can't move
+Turn 35:
+p1: Jirachi used Thunder on Ferrothorn
+p2: Ferrothorn used Gyro Ball on Jirachi
+p1: Jirachi fainted
+p1: Switched to Mamoswine
+Turn 36:
+p1: Mamoswine used Earthquake on Ferrothorn
+p2: Ferrothorn fainted

@@ -1,0 +1,353 @@
+|j|☆SteamBuns
+|j|☆Death2thewest
+|t:|1711876989
+|gametype|singles
+|player|p1|SteamBuns|yellow|
+|player|p2|Death2thewest|#death2thewest|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kerfluffle, F|
+|poke|p1|Ting-Lu|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Cinderace, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Skarmory, F|
+|poke|p2|Revavroom, F|
+|poke|p2|Roaring Moon|
+|poke|p2|Hemogoblin, M|
+|poke|p2|Kingambit, F|
+|poke|p2|Great Tusk|
+|poke|p2|Primarina, F|
+|teampreview
+|c|☆Death2thewest|Glhf
+|c|☆SteamBuns|hf
+|c|☆SteamBuns|I just rolled my wish on mudae and got sniped
+|l|☆Death2thewest
+|player|p2|
+|j|☆Death2thewest
+|player|p2|Death2thewest|#death2thewest
+|j| turnup1
+|c|☆Death2thewest|Sorry for that dc and all future ones
+|c|☆SteamBuns|its ok
+|c| turnup1|i sniped it
+|c|☆Death2thewest|I have no idea what that means btw
+|c|☆Death2thewest|And I don't want to know
+|c|☆Death2thewest|The less I know about mudae the better
+|c|☆SteamBuns|you;re smarter than me
+|c|☆SteamBuns|turnup1 keep yourself safe
+|c|☆Death2thewest|Not really, I loaded 5 physical attackers into a skarm
+|c|☆Death2thewest|Feeling like jho offler rn
+|c|☆SteamBuns|you never wanna feel that way...
+|j| liyar bor
+|
+|t:|1711877162
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Tiocfaidh ár lá|Revavroom, F|100/100
+|turn|1
+|c|☆SteamBuns|what does this do
+|c|☆Death2thewest|He go vroom
+|j| Joeshh
+|c|☆Death2thewest|He a car
+|c|☆SteamBuns|oh shift gear bot with temper flare I guess
+|c| Joeshh|Goes fast
+|n| trick or dies|liyarbor
+|c|☆Death2thewest|Stop reading his moveset
+|c|☆SteamBuns|hey joe josh
+|
+|t:|1711877245
+|move|p2a: Tiocfaidh ár lá|High Horsepower|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-damage|p2a: Tiocfaidh ár lá|91/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆SteamBuns|AHH
+|c|☆Death2thewest|Epic
+|c| Joeshh|That do be me josh joe
+|c|☆Death2thewest|Idk if that mattered
+|c| Joeshh|Oh my
+|c| turnup1|Blessed are the meek, for they will inherit the earth. Blessed are those who hunger and thirst for righteousness, for they will be filled. Blessed are the merciful, for they will be shown mercy. Blessed are the pure in heart, for they will see God.
+|
+|t:|1711877270
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|turn|2
+|c|☆Death2thewest|Depends on your spread
+|l| trick or dies
+|c|☆Death2thewest|I'm scarf btw you should switch out
+|j| trick or dies
+|l| Joeshh
+|c|☆SteamBuns|crap
+|c|☆SteamBuns|thx fot the heads up
+|
+|t:|1711877402
+|move|p1a: Cinderace|Pyro Ball|p2a: Tiocfaidh ár lá
+|-supereffective|p2a: Tiocfaidh ár lá
+|-damage|p2a: Tiocfaidh ár lá|0 fnt
+|faint|p2a: Tiocfaidh ár lá
+|
+|upkeep
+|l| trick or dies
+|c|☆Death2thewest|!pick wisp, gunk shot
+|c| Death2thewest|/raw <div class="infobox"><em>We randomly picked:</em> wisp</div>
+|c|☆Death2thewest|Hmm
+|c|☆Death2thewest|!pick wisp, gunk shot, both, neither
+|c| Death2thewest|/raw <div class="infobox"><em>We randomly picked:</em> wisp</div>
+|c|☆Death2thewest|Hmm
+|
+|t:|1711877551
+|switch|p2a: Fields Of Athenry|Great Tusk|100/100
+|-enditem|p2a: Fields Of Athenry|Booster Energy
+|-activate|p2a: Fields Of Athenry|ability: Protosynthesis|[fromitem]
+|-start|p2a: Fields Of Athenry|protosynthesisspe
+|turn|3
+|j| Amamama
+|
+|t:|1711877642
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Fields Of Athenry|Bulk Up|p2a: Fields Of Athenry
+|-boost|p2a: Fields Of Athenry|atk|1
+|-boost|p2a: Fields Of Athenry|def|1
+|
+|upkeep
+|turn|4
+|c|☆Death2thewest|This game is too hard when you've just woken up
+|
+|t:|1711877671
+|move|p2a: Fields Of Athenry|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|51/100
+|-unboost|p2a: Fields Of Athenry|def|1
+|-unboost|p2a: Fields Of Athenry|spd|1
+|-damage|p2a: Fields Of Athenry|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|5
+|c|☆SteamBuns|true
+|
+|t:|1711877690
+|-end|p2a: Fields Of Athenry|Protosynthesis|[silent]
+|switch|p2a: Kinky Boots|Primarina, F|100/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|6
+|l| Amamama
+|
+|t:|1711877777
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Kinky Boots|Moonblast|p1a: Ogerpon
+|-damage|p1a: Ogerpon|40/100
+|
+|upkeep
+|turn|7
+|l|☆Death2thewest
+|player|p2|
+|j|☆Death2thewest
+|player|p2|Death2thewest|#death2thewest
+|c|☆Death2thewest|Ah
+|c|☆Death2thewest|That's why nothing was happened
+|
+|t:|1711877974
+|switch|p2a: MenBehindTheWire|Kingambit, F|100/100
+|-activate|p2a: MenBehindTheWire|ability: Supreme Overlord
+|-start|p2a: MenBehindTheWire|fallen1|[silent]
+|-item|p2a: MenBehindTheWire|Air Balloon
+|move|p1a: Ogerpon|Power Whip|p2a: MenBehindTheWire
+|-resisted|p2a: MenBehindTheWire
+|-damage|p2a: MenBehindTheWire|72/100
+|-enditem|p2a: MenBehindTheWire|Air Balloon
+|
+|upkeep
+|turn|8
+|c|☆SteamBuns|lol
+|
+|t:|1711878007
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: MenBehindTheWire|Kowtow Cleave|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|87/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711878044
+|move|p2a: MenBehindTheWire|Iron Head|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|62/100
+|move|p1a: Ting-Lu|Spikes|p2a: MenBehindTheWire
+|-sidestart|p2: Death2thewest|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1711878092
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: MenBehindTheWire|Iron Head|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|84/100
+|-damage|p2a: MenBehindTheWire|56/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|upkeep
+|turn|11
+|
+|t:|1711878111
+|switch|p1a: Kerfluffle|Kerfluffle, F|100/100
+|move|p2a: MenBehindTheWire|Kowtow Cleave|p1a: Kerfluffle
+|-resisted|p1a: Kerfluffle
+|-damage|p1a: Kerfluffle|85/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711878178
+|move|p1a: Kerfluffle|Aura Sphere|p2a: MenBehindTheWire
+|-supereffective|p2a: MenBehindTheWire
+|-damage|p2a: MenBehindTheWire|0 fnt
+|faint|p2a: MenBehindTheWire
+|-end|p2a: MenBehindTheWire|fallen1|[silent]
+|
+|upkeep
+|
+|t:|1711878192
+|switch|p2a: Amhrán Na Bhfiann|Hemogoblin, M|100/100
+|turn|13
+|c|☆Death2thewest|!pick sludge bomb, no
+|c| Death2thewest|/raw <div class="infobox"><em>We randomly picked:</em> no</div>
+|
+|t:|1711878246
+|switch|p1a: Cinderace|Cinderace, F|100/100
+|move|p2a: Amhrán Na Bhfiann|Extreme Speed|p1a: Cinderace
+|-resisted|p1a: Cinderace
+|-damage|p1a: Cinderace|69/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711878258
+|switch|p2a: Fields Of Athenry|Great Tusk|84/100
+|-damage|p2a: Fields Of Athenry|71/100|[from] Spikes
+|move|p1a: Cinderace|Gunk Shot|p2a: Fields Of Athenry
+|-start|p1a: Cinderace|typechange|Poison|[from] ability: Libero
+|-resisted|p2a: Fields Of Athenry
+|-damage|p2a: Fields Of Athenry|52/100
+|-status|p2a: Fields Of Athenry|psn
+|
+|-damage|p2a: Fields Of Athenry|40/100 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1711878283
+|move|p1a: Cinderace|U-turn|p2a: Fields Of Athenry
+|-resisted|p2a: Fields Of Athenry
+|-damage|p2a: Fields Of Athenry|33/100 psn
+|
+|t:|1711878345
+|switch|p1a: Kerfluffle|Kerfluffle, F|85/100|[from] U-turn
+|move|p2a: Fields Of Athenry|Close Combat|p1a: Kerfluffle
+|-resisted|p1a: Kerfluffle
+|-damage|p1a: Kerfluffle|59/100
+|-unboost|p2a: Fields Of Athenry|def|1
+|-unboost|p2a: Fields Of Athenry|spd|1
+|
+|-damage|p2a: Fields Of Athenry|21/100 psn|[from] psn
+|upkeep
+|turn|16
+|c|☆Death2thewest|That was surely an unnecessary risk lmao
+|c|☆SteamBuns|i was 100% confident
+|c|☆Death2thewest|Bro is flexing
+|
+|t:|1711878434
+|move|p1a: Kerfluffle|Moonblast|p2a: Fields Of Athenry
+|-supereffective|p2a: Fields Of Athenry
+|-damage|p2a: Fields Of Athenry|0 fnt
+|faint|p2a: Fields Of Athenry
+|-end|p2a: Fields Of Athenry|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1711878508
+|switch|p2a: Amhrán Na Bhfiann|Hemogoblin, M|100/100
+|turn|17
+|
+|t:|1711878572
+|move|p1a: Kerfluffle|Parting Shot|p2a: Amhrán Na Bhfiann
+|-unboost|p2a: Amhrán Na Bhfiann|atk|1
+|-unboost|p2a: Amhrán Na Bhfiann|spa|1
+|
+|t:|1711878588
+|switch|p1a: Cinderace|Cinderace, F|69/100|[from] Parting Shot
+|move|p2a: Amhrán Na Bhfiann|Bulk Up|p2a: Amhrán Na Bhfiann
+|-boost|p2a: Amhrán Na Bhfiann|atk|1
+|-boost|p2a: Amhrán Na Bhfiann|def|1
+|
+|upkeep
+|turn|18
+|
+|t:|1711878715
+|-terastallize|p1a: Cinderace|Fire
+|-terastallize|p2a: Amhrán Na Bhfiann|Water
+|move|p1a: Cinderace|Gunk Shot|p2a: Amhrán Na Bhfiann
+|-damage|p2a: Amhrán Na Bhfiann|73/100
+|move|p2a: Amhrán Na Bhfiann|Bulk Up|p2a: Amhrán Na Bhfiann
+|-boost|p2a: Amhrán Na Bhfiann|atk|1
+|-boost|p2a: Amhrán Na Bhfiann|def|1
+|
+|upkeep
+|turn|19
+|c|☆Death2thewest|Oh?
+|c|☆SteamBuns|I appear to have lost
+|
+|t:|1711878837
+|move|p1a: Cinderace|Gunk Shot|p2a: Amhrán Na Bhfiann
+|-damage|p2a: Amhrán Na Bhfiann|50/100
+|move|p2a: Amhrán Na Bhfiann|Tera Blast|p1a: Cinderace|[anim] Tera Blast Water
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1711878853
+|switch|p1a: Ting-Lu|Ting-Lu|62/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|turn|20
+|c|☆Death2thewest|I'll be honest I'm unclear on what that tera was supposed to achieve
+|c|☆SteamBuns|live bitter blade
+|
+|t:|1711878878
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|40/100
+|move|p2a: Amhrán Na Bhfiann|Extreme Speed|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|c|☆SteamBuns|gg
+|-message|SteamBuns forfeited.
+|
+|win|Death2thewest
+|c|☆Death2thewest|Gg
+|l|☆Death2thewest
+|player|p2|
+|j|☆Death2thewest
+|player|p2|Death2thewest|#death2thewest
+|l| turnup1
+|j| turnup1
+|l|☆SteamBuns
+|player|p1|
+|l| turnup1

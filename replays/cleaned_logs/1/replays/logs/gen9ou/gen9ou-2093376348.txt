@@ -1,0 +1,15 @@
+p1: Switched to Iron Treads
+p2: Switched to Great Tusk
+Turn 1:
+p1: Iron Treads used Stealth Rock on Great Tusk
+p2: Great Tusk used Rapid Spin on Iron Treads
+Turn 2:
+p2: Great Tusk used Earthquake on Iron Treads
+p1: Iron Treads used Stealth Rock on Great Tusk
+Turn 3:
+p1: Switched to Gholdengo
+p2: Great Tusk used Knock Off on Gholdengo
+Turn 4:
+p1: Switched to Iron Treads
+p2: Great Tusk used Rapid Spin on Iron Treads
+Turn 5:

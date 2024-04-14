@@ -1,0 +1,334 @@
+|j|☆coalmander
+|j|☆Daedra
+|t:|1711936836
+|gametype|singles
+|player|p1|coalmander|lucas|1283
+|player|p2|Daedra|delinquent|1343
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Swampert, F|
+|poke|p1|Jolteon, F|
+|poke|p1|Hitmontop, M|
+|poke|p1|Lycanroc-Dusk, F|
+|poke|p1|Sableye, F|
+|poke|p1|Honchkrow, M|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Empoleon, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Cyclizar, M|
+|poke|p2|Moltres|
+|poke|p2|Conkeldurr, M|
+|teampreview
+|
+|t:|1711936852
+|start
+|switch|p1a: Lycanroc|Lycanroc-Dusk, F|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Daedra)
+|
+|t:|1711936865
+|switch|p1a: Sableye|Sableye, F|100/100
+|move|p2a: Zapdos|U-turn|p1a: Sableye
+|-damage|p1a: Sableye|70/100
+|
+|t:|1711936878
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100|[from] U-turn
+|
+|-heal|p1a: Sableye|76/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711936889
+|move|p1a: Sableye|Will-O-Wisp|p2a: Thundurus
+|-status|p2a: Thundurus|brn
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|
+|-heal|p1a: Sableye|82/100|[from] item: Leftovers
+|-damage|p2a: Thundurus|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711936894
+|switch|p1a: Jolteon|Jolteon, F|100/100
+|move|p2a: Thundurus|Sludge Wave|p1a: Jolteon
+|-damage|p1a: Jolteon|15/100
+|
+|-damage|p2a: Thundurus|88/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711936902
+|switch|p1a: Swampert|Swampert, F|100/100
+|move|p2a: Thundurus|Sludge Wave|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|75/100
+|
+|-heal|p1a: Swampert|81/100|[from] item: Leftovers
+|-damage|p2a: Thundurus|82/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1711936912
+|-terastallize|p2a: Thundurus|Flying
+|move|p2a: Thundurus|Tera Blast|p1a: Swampert|[anim] Tera Blast Flying
+|-damage|p1a: Swampert|5/100
+|move|p1a: Swampert|Stealth Rock|p2a: Thundurus
+|-sidestart|p2: Daedra|move: Stealth Rock
+|
+|-heal|p1a: Swampert|11/100|[from] item: Leftovers
+|-damage|p2a: Thundurus|76/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1711936923
+|move|p2a: Thundurus|Sludge Wave|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-damage|p2a: Thundurus|70/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936927
+|switch|p1a: Lycanroc|Lycanroc-Dusk, F|100/100
+|turn|7
+|
+|t:|1711936949
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|-damage|p2a: Conkeldurr|94/100|[from] Stealth Rock
+|move|p1a: Lycanroc|Close Combat|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|20/100
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|8
+|
+|t:|1711936958
+|switch|p1a: Sableye|Sableye, F|82/100
+|move|p2a: Conkeldurr|Mach Punch|p1a: Sableye
+|-immune|p1a: Sableye
+|
+|-heal|p1a: Sableye|88/100|[from] item: Leftovers
+|-damage|p2a: Conkeldurr|14/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711936967
+|move|p2a: Conkeldurr|Knock Off|p1a: Sableye
+|-damage|p1a: Sableye|9/100
+|-enditem|p1a: Sableye|Leftovers|[from] move: Knock Off|[of] p2a: Conkeldurr
+|move|p1a: Sableye|Foul Play|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1711936976
+|switch|p2a: Thundurus|Thundurus-Therian, M, tera:Flying|70/100 brn
+|turn|10
+|
+|t:|1711936985
+|move|p1a: Sableye|Taunt|p2a: Thundurus
+|-start|p2a: Thundurus|move: Taunt
+|move|p2a: Thundurus|Thunderbolt|p1a: Sableye
+|-crit|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|
+|-damage|p2a: Thundurus|64/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936992
+|switch|p1a: Honchkrow|Honchkrow, M|100/100
+|turn|11
+|
+|t:|1711936995
+|switch|p1a: Jolteon|Jolteon, F|15/100
+|move|p2a: Thundurus|Thunderbolt|p1a: Jolteon
+|-heal|p1a: Jolteon|39/100|[from] ability: Volt Absorb|[of] p2a: Thundurus
+|
+|-damage|p2a: Thundurus|58/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711937002
+|-terastallize|p1a: Jolteon|Ice
+|move|p1a: Jolteon|Tera Blast|p2a: Thundurus|[anim] Tera Blast Ice
+|-supereffective|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1711937007
+|switch|p2a: Moltres|Moltres|100/100
+|turn|13
+|
+|t:|1711937013
+|switch|p1a: Hitmontop|Hitmontop, M|100/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Moltres|atk|1
+|move|p2a: Moltres|Flamethrower|p1a: Hitmontop
+|-damage|p1a: Hitmontop|61/100
+|
+|-heal|p1a: Hitmontop|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711937035
+|switch|p1a: Lycanroc|Lycanroc-Dusk, F|100/100
+|move|p2a: Moltres|Will-O-Wisp|p1a: Lycanroc
+|-status|p1a: Lycanroc|brn
+|
+|-damage|p1a: Lycanroc|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711937051
+|switch|p2a: Empoleon|Empoleon, F|100/100
+|-damage|p2a: Empoleon|94/100|[from] Stealth Rock
+|move|p1a: Lycanroc|Close Combat|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|22/100
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|
+|-heal|p2a: Empoleon|28/100|[from] item: Leftovers
+|-damage|p1a: Lycanroc|88/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1711937057
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Lycanroc|Close Combat|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|86/100
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|
+|-damage|p1a: Lycanroc|82/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711937063
+|switch|p1a: Hitmontop|Hitmontop, M|67/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Moltres|atk|1
+|move|p2a: Moltres|Flamethrower|p1a: Hitmontop
+|-damage|p1a: Hitmontop|25/100
+|
+|-heal|p1a: Hitmontop|32/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711937072
+|switch|p1a: Lycanroc|Lycanroc-Dusk, F|82/100 brn
+|move|p2a: Moltres|Flamethrower|p1a: Lycanroc
+|-resisted|p1a: Lycanroc
+|-damage|p1a: Lycanroc|48/100 brn
+|
+|-damage|p1a: Lycanroc|42/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1711937079
+|move|p1a: Lycanroc|Accelerock|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|31/100
+|move|p2a: Moltres|Flamethrower|p1a: Lycanroc
+|-resisted|p1a: Lycanroc
+|-damage|p1a: Lycanroc|9/100 brn
+|
+|-damage|p1a: Lycanroc|3/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1711937088
+|move|p1a: Lycanroc|Accelerock|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-damage|p1a: Lycanroc|0 fnt|[from] brn
+|faint|p1a: Lycanroc
+|upkeep
+|
+|t:|1711937097
+|switch|p1a: Jolteon|Jolteon, F, tera:Ice|39/100
+|switch|p2a: Cyclizar|Cyclizar, M|100/100
+|turn|21
+|
+|t:|1711937105
+|move|p1a: Jolteon|Tera Blast|p2a: Cyclizar|[anim] Tera Blast Ice
+|-supereffective|p2a: Cyclizar
+|-damage|p2a: Cyclizar|0 fnt
+|faint|p2a: Cyclizar
+|
+|upkeep
+|
+|t:|1711937107
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-damage|p2a: Zapdos|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1711937112
+|move|p1a: Jolteon|Tera Blast|p2a: Zapdos|[anim] Tera Blast Ice
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1711937116
+|switch|p2a: Empoleon|Empoleon, F|28/100
+|-damage|p2a: Empoleon|22/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1711937121
+|switch|p1a: Hitmontop|Hitmontop, M|32/100
+|-ability|p1a: Hitmontop|Intimidate|boost
+|-unboost|p2a: Empoleon|atk|1
+|-ability|p2a: Empoleon|Competitive|boost
+|-boost|p2a: Empoleon|spa|2
+|move|p2a: Empoleon|Flash Cannon|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|
+|-heal|p2a: Empoleon|28/100|[from] item: Leftovers
+|upkeep
+|c|☆Daedra|tera choice is crazy
+|
+|t:|1711937129
+|switch|p1a: Jolteon|Jolteon, F, tera:Ice|39/100
+|turn|24
+|
+|t:|1711937131
+|move|p1a: Jolteon|Thunderbolt|p2a: Empoleon
+|-supereffective|p2a: Empoleon
+|-damage|p2a: Empoleon|0 fnt
+|faint|p2a: Empoleon
+|
+|win|coalmander
+|raw|coalmander's rating: 1283 &rarr; <strong>1312</strong><br />(+29 for winning)
+|raw|Daedra's rating: 1343 &rarr; <strong>1320</strong><br />(-23 for losing)
+|l|☆Daedra
+|player|p2|
+|c|☆coalmander|indeed
+|l|☆coalmander
+|player|p1|

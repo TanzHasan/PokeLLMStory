@@ -1,0 +1,79 @@
+p1: Switched to Sandslash
+p2: Switched to Alakazam
+Turn 1:
+p2: Alakazam used Reflect on Alakazam
+p1: Sandslash used Sandstorm on Sandslash
+Turn 2:
+p2: Alakazam used Shadow Ball on Sandslash
+p1: Sandslash used Stealth Rock on Alakazam
+Turn 3:
+p1: Switched to Scizor
+p2: Alakazam used Shadow Ball on Scizor
+Turn 4:
+p1: Scizor used Bullet Punch on Alakazam
+p2: Alakazam used Hidden Power on Scizor
+p1: Scizor fainted
+p1: Switched to Lycanroc-Dusk
+Turn 5:
+p1: Lycanroc-Dusk used Sucker Punch on Alakazam
+p2: Alakazam fainted
+p2: Switched to Aggron
+Turn 6:
+p1: Switched to Sandslash
+p2: Aggron used Block on Sandslash
+Turn 7:
+p1: Sandslash used Earthquake on Aggron
+p2: Aggron used Hone Claws on Aggron
+Turn 8:
+p1: Sandslash used Earthquake on Aggron
+p2: Aggron used Avalanche on Sandslash
+p1: Sandslash fainted
+p1: Switched to Swanna
+Turn 9:
+p1: Swanna used Surf on Aggron
+p2: Aggron fainted
+p2: Switched to Goodra
+Turn 10:
+p1: Swanna used Ice Beam on Goodra
+p2: Goodra used Thunder on Swanna
+Turn 11:
+p2: Goodra used Dragon Pulse on Swanna
+p1: Swanna fainted
+p1: Switched to Lycanroc-Dusk
+Turn 12:
+p1: Lycanroc-Dusk used Outrage on Goodra
+p2: Goodra fainted
+p2: Switched to Empoleon
+Turn 13:
+p1: Lycanroc-Dusk used Outrage on Empoleon
+p2: Empoleon used Swords Dance on Empoleon
+Turn 14:
+p2: Empoleon used Aqua Jet on Lycanroc-Dusk
+p1: Lycanroc-Dusk fainted
+p1: Switched to Rapidash
+Turn 15:
+p2: Empoleon used Aqua Jet on Rapidash
+p1: Rapidash fainted
+p1: Switched to Serperior
+Turn 16:
+p1: Serperior used Glare on Empoleon
+p2: Empoleon used Steel Wing on Serperior
+Turn 17:
+p2: Empoleon can't move
+p1: Serperior used Leaf Storm on Empoleon
+Turn 18:
+p2: Empoleon used Aqua Jet on Serperior
+p1: Serperior used Leaf Storm on Empoleon
+Turn 19:
+p2: Empoleon can't move
+p1: Serperior used Leaf Storm on Empoleon
+p2: Empoleon fainted
+p2: Switched to Dusknoir
+Turn 20:
+p2: Dusknoir used Shadow Sneak on Serperior
+p1: Serperior used Leaf Storm on Dusknoir
+p2: Dusknoir fainted
+p2: Switched to Primeape
+Turn 21:
+p1: Serperior used Leaf Storm on Primeape
+p2: Primeape fainted

@@ -1,0 +1,92 @@
+p1: Switched to Victreebel
+p2: Switched to Flaaffy
+Turn 1:
+p1: Victreebel used Sludge Bomb on Flaaffy
+p2: Flaaffy used Toxic on Victreebel
+Turn 2:
+p2: Switched to Sandslash
+p1: Victreebel used Curse on Victreebel
+Turn 3:
+p2: Sandslash used Substitute on Sandslash
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 4:
+p2: Sandslash used Swords Dance on Sandslash
+p1: Victreebel used Encore on Sandslash
+Turn 5:
+p2: Switched to Forretress
+p1: Victreebel used Return on Forretress
+Turn 6:
+p2: Forretress used Hidden Power on Victreebel
+p1: Victreebel used Return on Forretress
+Turn 7:
+p2: Forretress used Double-Edge on Victreebel
+p1: Victreebel used Curse on Victreebel
+Turn 8:
+p2: Switched to Sandslash
+p1: Victreebel used Curse on Victreebel
+Turn 9:
+p2: Sandslash used Substitute on Sandslash
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 10:
+p2: Sandslash used Hidden Power on Victreebel
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 11:
+p2: Switched to Forretress
+p1: Victreebel used Encore on Forretress
+Turn 12:
+p2: Forretress used Double-Edge on Victreebel
+p1: Victreebel used Return on Forretress
+Turn 13:
+p2: Switched to Kingdra
+p1: Victreebel used Curse on Victreebel
+Turn 14:
+p2: Kingdra used Surf on Victreebel
+p1: Victreebel used Sludge Bomb on Kingdra
+p2: Kingdra fainted
+p2: Switched to Sandslash
+Turn 15:
+p2: Sandslash used Earthquake on Victreebel
+p1: Victreebel used Return on Sandslash
+p2: Sandslash fainted
+p2: Switched to Forretress
+Turn 16:
+p2: Forretress used Self-Destruct on Victreebel
+p2: Forretress fainted
+p2: Switched to Golduck
+Turn 17:
+p1: Switched to Haunter
+p2: Golduck used Substitute on Golduck
+Turn 18:
+p1: Haunter used Curse on Golduck
+p2: Golduck used Confusion on Haunter
+Turn 19:
+p1: Haunter used Perish Song on Haunter
+p2: Golduck used Confusion on Haunter
+p1: Haunter fainted
+p1: Switched to Crobat
+Turn 20:
+p2: Switched to Farfetch’d
+p1: Crobat used Double-Edge on Farfetch’d
+Turn 21:
+p1: Crobat used Double-Edge on Farfetch’d
+p2: Farfetch’d fainted
+p2: Switched to Golduck
+Turn 22:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Substitute on Golduck
+Turn 23:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Confusion on Crobat
+Turn 24:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Double-Edge on Crobat
+Turn 25:
+p1: Crobat used Confuse Ray on Golduck
+p2: Golduck used Surf on Crobat
+Turn 26:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck fainted
+p2: Switched to Flaaffy
+Turn 27:
+p1: Crobat used Double-Edge on Flaaffy
+p2: Flaaffy fainted

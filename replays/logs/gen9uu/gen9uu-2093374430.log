@@ -1,0 +1,236 @@
+|j|☆YungBludPersaud
+|j|☆tortoiseshell
+|t:|1711946685
+|gametype|singles
+|player|p1|YungBludPersaud|gambler|1145
+|player|p2|tortoiseshell|265|1164
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Eelektross, M|
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Tatsugiri-Droopy, F|
+|poke|p1|Sinistcha-Masterpiece|
+|poke|p1|Arbok, F|
+|poke|p1|Donphan, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Latios, M|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Skeledirge, F|
+|poke|p2|Ogerpon, F|
+|teampreview
+|
+|t:|1711946700
+|start
+|switch|p1a: Eelektross|Eelektross, M, shiny|100/100
+|switch|p2a: Ogerpon|Ogerpon, F|100/100
+|turn|1
+|
+|t:|1711946710
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Eelektross|Coil|p1a: Eelektross
+|-boost|p1a: Eelektross|atk|1
+|-boost|p1a: Eelektross|def|1
+|-boost|p1a: Eelektross|accuracy|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by YungBludPersaud)
+|
+|t:|1711946718
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Eelektross
+|-damage|p1a: Eelektross|17/100
+|-damage|p2a: Ogerpon|91/100|[from] item: Life Orb
+|move|p1a: Eelektross|Knock Off|p2a: Ogerpon
+|-damage|p2a: Ogerpon|24/100
+|-enditem|p2a: Ogerpon|Life Orb|[from] move: Knock Off|[of] p1a: Eelektross
+|
+|-heal|p1a: Eelektross|23/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711946731
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Eelektross
+|-damage|p1a: Eelektross|0 fnt
+|faint|p1a: Eelektross
+|
+|upkeep
+|
+|t:|1711946742
+|switch|p1a: Donphan|Donphan, M, shiny|100/100
+|turn|4
+|
+|t:|1711946747
+|move|p1a: Donphan|Ice Shard|p2a: Ogerpon
+|-supereffective|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|
+|upkeep
+|
+|t:|1711946755
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|5
+|
+|t:|1711946761
+|move|p2a: Rotom|Hydro Pump|p1a: Donphan
+|-supereffective|p1a: Donphan
+|-ability|p1a: Donphan|Sturdy
+|-damage|p1a: Donphan|1/100
+|move|p1a: Donphan|Stealth Rock|p2a: Rotom
+|-sidestart|p2: tortoiseshell|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1711946770
+|move|p2a: Rotom|Hydro Pump|p1a: Donphan|[miss]
+|-miss|p2a: Rotom|p1a: Donphan
+|move|p1a: Donphan|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|71/100
+|-enditem|p2a: Rotom|Leftovers|[from] move: Knock Off|[of] p1a: Donphan
+|
+|upkeep
+|turn|7
+|
+|t:|1711946778
+|switch|p1a: Tatsugiri|Tatsugiri-Droopy, F, shiny|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Tatsugiri
+|-ability|p1a: Tatsugiri|Storm Drain|boost
+|-boost|p1a: Tatsugiri|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1711946788
+|move|p1a: Tatsugiri|Substitute|p1a: Tatsugiri
+|-start|p1a: Tatsugiri|Substitute
+|-damage|p1a: Tatsugiri|76/100
+|move|p2a: Rotom|Volt Switch|p1a: Tatsugiri
+|-end|p1a: Tatsugiri|Substitute
+|
+|t:|1711946796
+|switch|p2a: Latios|Latios, M|100/100|[from] Volt Switch
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1711946806
+|move|p2a: Latios|Luster Purge|p1a: Tatsugiri
+|-damage|p1a: Tatsugiri|0 fnt
+|faint|p1a: Tatsugiri
+|
+|upkeep
+|
+|t:|1711946812
+|switch|p1a: Donphan|Donphan, M, shiny|1/100
+|turn|10
+|
+|t:|1711946816
+|move|p1a: Donphan|Ice Shard|p2a: Latios
+|-supereffective|p2a: Latios
+|-crit|p2a: Latios
+|-damage|p2a: Latios|26/100
+|move|p2a: Latios|Luster Purge|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|faint|p1a: Donphan
+|
+|upkeep
+|
+|t:|1711946827
+|switch|p1a: Sinistcha|Sinistcha-Masterpiece, shiny|100/100
+|turn|11
+|
+|t:|1711946832
+|move|p2a: Latios|Luster Purge|p1a: Sinistcha
+|-crit|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|upkeep
+|
+|t:|1711946837
+|switch|p1a: Arbok|Arbok, F, shiny|100/100
+|turn|12
+|
+|t:|1711946842
+|-terastallize|p1a: Arbok|Ground
+|move|p2a: Latios|Luster Purge|p1a: Arbok
+|-damage|p1a: Arbok|4/100
+|move|p1a: Arbok|Scale Shot|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|12/100
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|-hitcount|p2: Latios|2
+|-unboost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|spe|1
+|
+|-heal|p1a: Arbok|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946856
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|13
+|
+|t:|1711946864
+|move|p1a: Arbok|Poison Jab|p2a: Tornadus
+|-damage|p2a: Tornadus|68/100
+|-status|p2a: Tornadus|psn
+|move|p2a: Tornadus|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|-enditem|p1a: Arbok|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|faint|p1a: Arbok
+|
+|-damage|p2a: Tornadus|56/100 psn|[from] psn
+|upkeep
+|
+|t:|1711946875
+|switch|p1a: Arcanine|Arcanine-Hisui, M, shiny|100/100
+|turn|14
+|
+|t:|1711946880
+|move|p2a: Tornadus|Knock Off|p1a: Arcanine
+|-damage|p1a: Arcanine|76/100
+|-enditem|p1a: Arcanine|Muscle Band|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Arcanine|Head Smash|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1711946893
+|switch|p2a: Rotom|Rotom-Wash|71/100
+|-damage|p2a: Rotom|59/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1711946898
+|move|p1a: Arcanine|Head Smash|p2a: Rotom
+|-damage|p2a: Rotom|2/100
+|move|p2a: Rotom|Hydro Pump|p1a: Arcanine
+|-supereffective|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|
+|win|tortoiseshell
+|raw|YungBludPersaud's rating: 1145 &rarr; <strong>1121</strong><br />(-24 for losing)
+|raw|tortoiseshell's rating: 1164 &rarr; <strong>1188</strong><br />(+24 for winning)
+|l|☆YungBludPersaud
+|player|p1|
+|l|☆tortoiseshell
+|player|p2|

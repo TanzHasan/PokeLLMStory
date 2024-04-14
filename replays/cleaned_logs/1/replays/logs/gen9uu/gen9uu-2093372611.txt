@@ -1,0 +1,75 @@
+p1: Switched to Ninetales-Alola
+p2: Switched to Sandy Shocks
+Turn 1:
+p1: Ninetales-Alola used Blizzard on Sandy Shocks
+p2: Sandy Shocks fainted
+p2: Switched to Skeledirge
+Turn 2:
+p1: Switched to Slowking
+p2: Skeledirge used Torch Song on Slowking
+Turn 3:
+p2: Skeledirge used Will-O-Wisp on Slowking
+p1: Slowking used Scald on Skeledirge
+Turn 4:
+p2: Skeledirge used Hex on Slowking
+p1: Slowking fainted
+p1: Switched to Lokix
+Turn 5:
+p2: Switched to Mandibuzz
+p1: Lokix used Knock Off on Mandibuzz
+Turn 6:
+p1: Switched to Excadrill
+p2: Mandibuzz used Toxic on Excadrill
+Turn 7:
+p1: Excadrill used Swords Dance on Excadrill
+p2: Mandibuzz used Foul Play on Excadrill
+p1: Excadrill fainted
+p1: Switched to Deoxys-Speed
+Turn 8:
+p2: Switched to Skeledirge
+p1: Deoxys-Speed failed to use Counter
+Turn 9:
+p1: Deoxys-Speed used Stealth Rock on Skeledirge
+p2: Skeledirge used Will-O-Wisp on Deoxys-Speed
+Turn 10:
+p1: Deoxys-Speed used Spikes on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 11:
+p1: Deoxys-Speed used Spikes on Skeledirge
+p2: Skeledirge used Torch Song on Deoxys-Speed
+Turn 12:
+p1: Deoxys-Speed used Psycho Boost on Skeledirge
+p2: Skeledirge used Torch Song on Deoxys-Speed
+p1: Deoxys-Speed fainted
+p1: Switched to Lokix
+Turn 13:
+p2: Switched to Mandibuzz
+p1: Lokix used Knock Off on Mandibuzz
+Turn 14:
+p1: Lokix used U-turn on Mandibuzz
+p2: Mandibuzz fainted
+p1: Switched to Tornadus-Therian
+p2: Switched to Iron Leaves
+Turn 15:
+p2: Iron Leaves used Swords Dance on Iron Leaves
+p1: Tornadus-Therian used Hurricane on Iron Leaves
+Turn 16:
+p2: Iron Leaves used Psyblade on Tornadus-Therian
+p1: Tornadus-Therian fainted
+p1: Switched to Lokix
+Turn 17:
+p1: Lokix used First Impression on Iron Leaves
+p2: Iron Leaves used Leaf Blade on Lokix
+Turn 18:
+p2: Iron Leaves used Leaf Blade on Lokix
+p1: Lokix fainted
+p1: Switched to Ninetales-Alola
+Turn 19:
+p2: Iron Leaves used Psyblade on Ninetales-Alola
+p1: Ninetales-Alola used Freeze-Dry on Iron Leaves
+p2: Iron Leaves fainted
+p2: Switched to Skeledirge
+Turn 20:
+p1: Ninetales-Alola used Blizzard on Skeledirge
+p2: Skeledirge used Torch Song on Ninetales-Alola
+p1: Ninetales-Alola fainted

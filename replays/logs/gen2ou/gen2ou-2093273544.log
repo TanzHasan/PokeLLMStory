@@ -1,0 +1,440 @@
+|j|☆Tharealistjr
+|j|☆Congnar
+|t:|1711933139
+|gametype|singles
+|player|p1|Tharealistjr|265|
+|player|p2|Congnar|harlequin|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711933139
+|start
+|switch|p1a: Misdreavus|Misdreavus, M|100/100
+|switch|p2a: Slowking|Slowking, M|100/100
+|turn|1
+|j| freekruler99
+|j| LuckiLlamas
+|
+|t:|1711933156
+|move|p1a: Misdreavus|Thunderbolt|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|67/100
+|move|p2a: Slowking|Amnesia|p2a: Slowking
+|-boost|p2a: Slowking|spd|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711933164
+|move|p1a: Misdreavus|Thunderbolt|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|50/100
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Surf|p1a: Misdreavus
+|-damage|p1a: Misdreavus|64/100
+|
+|-heal|p1a: Misdreavus|70/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711933174
+|move|p1a: Misdreavus|Mean Look|p2a: Slowking
+|-activate|p2a: Slowking|trapped
+|move|p2a: Slowking|Rest|p2a: Slowking
+|-status|p2a: Slowking|slp|[from] move: Rest
+|-heal|p2a: Slowking|100/100 slp|[silent]
+|-enditem|p2a: Slowking|Mint Berry|[eat]
+|-curestatus|p2a: Slowking|slp|[msg]
+|
+|-heal|p1a: Misdreavus|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711933185
+|move|p1a: Misdreavus|Perish Song|p1a: Misdreavus
+|-start|p1a: Misdreavus|perish3|[silent]
+|-start|p2a: Slowking|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|move|p2a: Slowking|Psychic|p1a: Misdreavus
+|-damage|p1a: Misdreavus|38/100
+|
+|-start|p1a: Misdreavus|perish3
+|-start|p2a: Slowking|perish3
+|-heal|p1a: Misdreavus|44/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711933195
+|move|p1a: Misdreavus|Perish Song|p1a: Misdreavus
+|-fail|p1a: Misdreavus
+|move|p2a: Slowking|Psychic|p1a: Misdreavus
+|-damage|p1a: Misdreavus|7/100
+|
+|-start|p1a: Misdreavus|perish2
+|-start|p2a: Slowking|perish2
+|-heal|p1a: Misdreavus|14/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711933205
+|move|p1a: Misdreavus|Pain Split|p2a: Slowking
+|-sethp|p2a: Slowking|56/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Misdreavus|65/100|[from] move: Pain Split
+|move|p2a: Slowking|Psychic|p1a: Misdreavus
+|-damage|p1a: Misdreavus|26/100
+|
+|-start|p1a: Misdreavus|perish1
+|-start|p2a: Slowking|perish1
+|-heal|p1a: Misdreavus|32/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711933223
+|switch|p1a: Water dude|Feraligatr, M|100/100
+|move|p2a: Slowking|Surf|p1a: Water dude
+|-resisted|p1a: Water dude
+|-damage|p1a: Water dude|84/100
+|
+|-start|p2a: Slowking|perish0
+|-heal|p1a: Water dude|90/100|[from] item: Leftovers
+|faint|p2a: Slowking
+|upkeep
+|
+|t:|1711933239
+|switch|p2a: Hitmonlee|Hitmonlee, M|100/100
+|turn|8
+|
+|t:|1711933266
+|switch|p1a: Scyther|Scyther, M|100/100
+|move|p2a: Hitmonlee|Curse|p2a: Hitmonlee
+|-unboost|p2a: Hitmonlee|spe|1
+|-boost|p2a: Hitmonlee|atk|1
+|-boost|p2a: Hitmonlee|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1711933278
+|move|p1a: Scyther|Agility|p1a: Scyther
+|-boost|p1a: Scyther|spe|2
+|move|p2a: Hitmonlee|Body Slam|p1a: Scyther
+|-damage|p1a: Scyther|63/100
+|-status|p1a: Scyther|par
+|-enditem|p1a: Scyther|Miracle Berry|[eat]
+|-curestatus|p1a: Scyther|par|[msg]
+|
+|upkeep
+|turn|10
+|
+|t:|1711933293
+|move|p1a: Scyther|Baton Pass|p1a: Scyther
+|
+|t:|1711933301
+|switch|p1a: Misdreavus|Misdreavus, M|32/100|[from] Baton Pass
+|move|p2a: Hitmonlee|Body Slam|p1a: Misdreavus
+|-immune|p1a: Misdreavus
+|
+|-heal|p1a: Misdreavus|39/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711933312
+|switch|p2a: Steelix|Steelix, M|100/100
+|move|p1a: Misdreavus|Pain Split|p2a: Steelix
+|-sethp|p2a: Steelix|68/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Misdreavus|73/100|[from] move: Pain Split
+|
+|-heal|p1a: Misdreavus|79/100|[from] item: Leftovers
+|-heal|p2a: Steelix|74/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711933332
+|move|p1a: Misdreavus|Mean Look|p2a: Steelix
+|-activate|p2a: Steelix|trapped
+|move|p2a: Steelix|Roar|p1a: Misdreavus
+|drag|p1a: Machamp|Machamp, M|100/100
+|
+|-heal|p2a: Steelix|80/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆Congnar|!data mean look
+|raw|<ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/meanlook">Mean Look</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Normal.png" alt="Normal" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Status.png" alt="Status" width="32" height="14"></span> <span class="col widelabelcol"><em>Accuracy</em><br>—</span> <span class="col pplabelcol"><em>PP</em><br>8</span> <span class="col movedesccol">Prevents the target from switching out.</span> </li><li style="clear:both"></li></ul>
+
+|
+|t:|1711933350
+|move|p1a: Machamp|Cross Chop|p2a: Steelix|[miss]
+|-miss|p1a: Machamp
+|move|p2a: Steelix|Explosion|p1a: Machamp
+|-damage|p1a: Machamp|0 fnt
+|faint|p2a: Steelix
+|faint|p1a: Machamp
+|
+|t:|1711933365
+|switch|p1a: Scyther|Scyther, M|63/100
+|switch|p2a: Starmie|Starmie|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711933393
+|switch|p1a: Water dude|Feraligatr, M|90/100
+|move|p2a: Starmie|Thunderbolt|p1a: Water dude
+|-supereffective|p1a: Water dude
+|-damage|p1a: Water dude|45/100
+|
+|-heal|p1a: Water dude|51/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711933404
+|switch|p1a: Dugtrio|Dugtrio, M|100/100
+|move|p2a: Starmie|Thunderbolt|p1a: Dugtrio
+|-immune|p1a: Dugtrio
+|
+|upkeep
+|turn|16
+|
+|t:|1711933416
+|move|p1a: Dugtrio|Substitute|p1a: Dugtrio
+|-start|p1a: Dugtrio|Substitute
+|-damage|p1a: Dugtrio|76/100
+|move|p2a: Starmie|Surf|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-end|p1a: Dugtrio|Substitute
+|
+|upkeep
+|turn|17
+|
+|t:|1711933426
+|move|p1a: Dugtrio|Hidden Power|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|69/100
+|move|p2a: Starmie|Surf|p1a: Dugtrio
+|-supereffective|p1a: Dugtrio
+|-damage|p1a: Dugtrio|0 fnt
+|faint|p1a: Dugtrio
+|
+|t:|1711933435
+|switch|p1a: Misdreavus|Misdreavus, M|79/100
+|
+|-heal|p1a: Misdreavus|85/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711933455
+|switch|p2a: Hitmonlee|Hitmonlee, M|100/100
+|move|p1a: Misdreavus|Thunderbolt|p2a: Hitmonlee
+|-crit|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|57/100
+|
+|-heal|p1a: Misdreavus|92/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711933466
+|move|p2a: Hitmonlee|Rest|p2a: Hitmonlee
+|-status|p2a: Hitmonlee|slp|[from] move: Rest
+|-heal|p2a: Hitmonlee|100/100 slp|[silent]
+|-enditem|p2a: Hitmonlee|Miracle Berry|[eat]
+|-curestatus|p2a: Hitmonlee|slp|[msg]
+|move|p1a: Misdreavus|Mean Look|p2a: Hitmonlee
+|-activate|p2a: Hitmonlee|trapped
+|
+|-heal|p1a: Misdreavus|98/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711933476
+|move|p2a: Hitmonlee|Curse|p2a: Hitmonlee
+|-unboost|p2a: Hitmonlee|spe|1
+|-boost|p2a: Hitmonlee|atk|1
+|-boost|p2a: Hitmonlee|def|1
+|move|p1a: Misdreavus|Perish Song|p1a: Misdreavus
+|-start|p1a: Misdreavus|perish3|[silent]
+|-start|p2a: Hitmonlee|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-start|p1a: Misdreavus|perish3
+|-start|p2a: Hitmonlee|perish3
+|-heal|p1a: Misdreavus|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711933493
+|move|p1a: Misdreavus|Thunderbolt|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|80/100
+|move|p2a: Hitmonlee|Curse|p2a: Hitmonlee
+|-unboost|p2a: Hitmonlee|spe|1
+|-boost|p2a: Hitmonlee|atk|1
+|-boost|p2a: Hitmonlee|def|1
+|
+|-start|p1a: Misdreavus|perish2
+|-start|p2a: Hitmonlee|perish2
+|upkeep
+|turn|22
+|
+|t:|1711933506
+|move|p1a: Misdreavus|Thunderbolt|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|58/100
+|move|p2a: Hitmonlee|Curse|p2a: Hitmonlee
+|-unboost|p2a: Hitmonlee|spe|1
+|-boost|p2a: Hitmonlee|atk|1
+|-boost|p2a: Hitmonlee|def|1
+|
+|-start|p1a: Misdreavus|perish1
+|-start|p2a: Hitmonlee|perish1
+|upkeep
+|turn|23
+|
+|t:|1711933518
+|switch|p1a: Water dude|Feraligatr, M|51/100
+|move|p2a: Hitmonlee|Body Slam|p1a: Water dude
+|-damage|p1a: Water dude|2/100
+|
+|-start|p2a: Hitmonlee|perish0
+|-heal|p1a: Water dude|8/100|[from] item: Leftovers
+|faint|p2a: Hitmonlee
+|upkeep
+|
+|t:|1711933527
+|switch|p2a: Starmie|Starmie|69/100
+|turn|24
+|
+|t:|1711933531
+|move|p2a: Starmie|Thunderbolt|p1a: Water dude
+|-crit|p1a: Water dude
+|-supereffective|p1a: Water dude
+|-damage|p1a: Water dude|0 fnt
+|faint|p1a: Water dude
+|
+|t:|1711933537
+|switch|p1a: Misdreavus|Misdreavus, M|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1711933545
+|move|p2a: Starmie|Surf|p1a: Misdreavus
+|-damage|p1a: Misdreavus|62/100
+|move|p1a: Misdreavus|Mean Look|p2a: Starmie
+|-activate|p2a: Starmie|trapped
+|
+|-heal|p1a: Misdreavus|68/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711933555
+|move|p2a: Starmie|Surf|p1a: Misdreavus
+|-damage|p1a: Misdreavus|32/100
+|move|p1a: Misdreavus|Pain Split|p2a: Starmie
+|-sethp|p2a: Starmie|51/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Misdreavus|51/100|[from] move: Pain Split
+|
+|-heal|p1a: Misdreavus|57/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|j| SlickeRickstA26
+|
+|t:|1711933591
+|move|p2a: Starmie|Surf|p1a: Misdreavus
+|-damage|p1a: Misdreavus|19/100
+|move|p1a: Misdreavus|Thunderbolt|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|4/100
+|
+|-heal|p1a: Misdreavus|26/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711933608
+|switch|p1a: Scyther|Scyther, M|63/100
+|move|p2a: Starmie|Surf|p1a: Scyther
+|-damage|p1a: Scyther|27/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711933615
+|move|p2a: Starmie|Thunderbolt|p1a: Scyther
+|-supereffective|p1a: Scyther
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|
+|t:|1711933631
+|switch|p1a: Pikachu|Pikachu, M|100/100
+|
+|upkeep
+|turn|30
+|
+|t:|1711933639
+|move|p2a: Starmie|Surf|p1a: Pikachu
+|-damage|p1a: Pikachu|31/100
+|move|p1a: Pikachu|Thunderbolt|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p2a: Starmie
+|
+|t:|1711933645
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|
+|upkeep
+|turn|31
+|
+|t:|1711933653
+|move|p2a: Aerodactyl|Earthquake|p1a: Pikachu
+|-supereffective|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|faint|p1a: Pikachu
+|
+|t:|1711933659
+|switch|p1a: Misdreavus|Misdreavus, M|26/100
+|
+|-heal|p1a: Misdreavus|32/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711933668
+|move|p2a: Aerodactyl|Substitute|p2a: Aerodactyl
+|-start|p2a: Aerodactyl|Substitute
+|-damage|p2a: Aerodactyl|76/100
+|move|p1a: Misdreavus|Pain Split|p2a: Aerodactyl
+|-activate|p2a: Aerodactyl|Substitute|[block] Pain Split
+|
+|-heal|p2a: Aerodactyl|82/100|[from] item: Leftovers
+|-heal|p1a: Misdreavus|38/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711933679
+|move|p2a: Aerodactyl|Earthquake|p1a: Misdreavus
+|-damage|p1a: Misdreavus|4/100
+|move|p1a: Misdreavus|Thunderbolt|p2a: Aerodactyl
+|-supereffective|p2a: Aerodactyl
+|-end|p2a: Aerodactyl|Substitute
+|
+|-heal|p2a: Aerodactyl|88/100|[from] item: Leftovers
+|-heal|p1a: Misdreavus|10/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711933690
+|move|p2a: Aerodactyl|Earthquake|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|win|Congnar
+|l| LuckiLlamas
+|c|☆Congnar|good game!
+|l|☆Tharealistjr
+|player|p1|

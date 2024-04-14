@@ -1,0 +1,66 @@
+p1: Switched to Entei
+p2: Switched to Maushold
+Turn 1:
+p1: Switched to Basculegion
+p2: Maushold used Population Bomb on Basculegion
+Turn 2:
+p2: Switched to Forretress
+p1: Basculegion used Flip Turn on Forretress
+p1: Switched to Entei
+Turn 3:
+p1: Entei used Sacred Fire on Forretress
+p2: Forretress fainted
+p2: Switched to Maushold
+Turn 4:
+p2: Maushold used Tidy Up on Maushold
+p1: Entei used Sacred Fire on Maushold
+p2: Maushold fainted
+p2: Switched to Necrozma
+Turn 5:
+p1: Entei used Sacred Fire on Necrozma
+p2: Necrozma used Photon Geyser on Entei
+Turn 6:
+p1: Entei used Sacred Fire on Necrozma
+p2: Necrozma fainted
+p2: Switched to Gengar
+Turn 7:
+p1: Switched to Staraptor
+p2: Gengar used Sludge Wave on Staraptor
+Turn 8:
+p2: Switched to Magnezone
+p1: Staraptor used Brave Bird on Magnezone
+Turn 9:
+p1: Staraptor used Brave Bird on Magnezone
+p1: Staraptor fainted
+p2: Magnezone used Volt Switch on p1: Staraptor
+p1: Switched to Galvantula
+Turn 10:
+p1: Galvantula used Sticky Web on Magnezone
+p2: Magnezone used Volt Switch on Galvantula
+p2: Switched to Gengar
+Turn 11:
+p2: Gengar used Shadow Ball on Galvantula
+p1: Galvantula fainted
+p1: Switched to Gardevoir
+Turn 12:
+p1: Gardevoir used Psyshock on Gengar
+p2: Gengar used Sludge Wave on Gardevoir
+Turn 13:
+p2: Switched to Magnezone
+p1: Gardevoir used Psyshock on Magnezone
+Turn 14:
+p1: Gardevoir used Psyshock on Magnezone
+p2: Magnezone fainted
+p2: Switched to Cetitan
+Turn 15:
+p2: Cetitan used Ice Shard on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Magnezone
+Turn 16:
+p1: Magnezone used Flash Cannon on Cetitan
+p2: Cetitan fainted
+p2: Switched to Gengar
+Turn 17:
+p2: Gengar used Shadow Ball on Magnezone
+p1: Magnezone used Flash Cannon on Gengar
+p2: Gengar fainted

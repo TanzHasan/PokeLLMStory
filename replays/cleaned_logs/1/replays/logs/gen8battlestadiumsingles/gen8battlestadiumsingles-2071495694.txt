@@ -1,0 +1,30 @@
+p1: Switched to Dragapult
+p2: Switched to Urshifu
+Turn 1:
+p1: Switched to Naganadel
+p2: Urshifu used Wicked Blow on Naganadel
+p1: Naganadel fainted
+p1: Switched to Dragapult
+Turn 2:
+p1: Dragapult used Draco Meteor on Urshifu
+p2: Urshifu used Wicked Blow on Dragapult
+p1: Dragapult fainted
+p1: Switched to Corsola-Galar
+Turn 3:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar used Strength Sap on Urshifu
+Turn 4:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar used Strength Sap on Urshifu
+Turn 5:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar used Strength Sap on Urshifu
+Turn 6:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar used Strength Sap on Urshifu
+Turn 7:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar used Strength Sap on Urshifu
+Turn 8:
+p2: Urshifu used Wicked Blow on Corsola-Galar
+p1: Corsola-Galar fainted

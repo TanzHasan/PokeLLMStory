@@ -1,0 +1,53 @@
+p1: Switched to Jellicent
+p2: Switched to Durant
+Turn 1:
+p2: Switched to Dragonair
+p1: Switched to Honchkrow
+Turn 2:
+p1: Switched to Ferrothorn
+p2: Dragonair used Dragon Dance on Dragonair
+Turn 3:
+p2: Switched to Durant
+p1: Ferrothorn used Stealth Rock on Durant
+Turn 4:
+p2: Durant used Superpower on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Jellicent
+Turn 5:
+p2: Switched to Dragonair
+p1: Jellicent used Toxic on Dragonair
+Turn 6:
+p2: Dragonair used Dragon Dance on Dragonair
+p1: Jellicent used Scald on Dragonair
+Turn 7:
+p2: Dragonair used Dragon Dance on Dragonair
+p1: Jellicent used Shadow Ball on Dragonair
+Turn 8:
+p2: Dragonair used Rest on Dragonair
+p1: Jellicent failed to use Recover
+Turn 9:
+p1: Switched to Articuno
+p2: Dragonair can't move
+p2: Dragonair used Sleep Talk on Dragonair
+p2: Dragonair used Dragon Dance on Dragonair
+Turn 10:
+p2: Dragonair can't move
+p2: Dragonair used Sleep Talk on Dragonair
+p2: Dragonair failed to use Rest
+p1: Articuno used Ice Beam on Dragonair
+Turn 11:
+p2: Dragonair used Outrage on Articuno
+p1: Articuno fainted
+p1: Switched to Absol
+Turn 12:
+p1: Absol used Sucker Punch on Dragonair
+p2: Dragonair fainted
+p2: Switched to Durant
+Turn 13:
+p2: Durant used X-Scissor on Absol
+p1: Absol fainted
+p1: Switched to Honchkrow
+Turn 14:
+p2: Switched to Steelix
+p1: Honchkrow used Brave Bird on Steelix
+Turn 15:

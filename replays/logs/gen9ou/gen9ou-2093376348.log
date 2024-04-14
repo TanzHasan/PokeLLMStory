@@ -1,0 +1,96 @@
+|j|☆Legendary Levi
+|j|☆LaBaleada
+|t:|1711947004
+|gametype|singles
+|player|p1|Legendary Levi|102|1730
+|player|p2|LaBaleada|170|1697
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kingambit, M|
+|poke|p1|Glimmora, M|
+|poke|p1|Iron Valiant|
+|poke|p1|Iron Treads|
+|poke|p1|Gholdengo|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p2|Chandelure, F|
+|poke|p2|Serperior, M|
+|poke|p2|Kyurem|
+|poke|p2|Clefable, F|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Great Tusk|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LaBaleada)
+|j| x_Zavi
+|inactive|LaBaleada has 120 seconds left.
+|
+|t:|1711947056
+|start
+|switch|p1a: Iron Treads|Iron Treads|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|1
+|
+|t:|1711947064
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: LaBaleada|move: Stealth Rock
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|94/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: LaBaleada|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|2
+|
+|t:|1711947073
+|move|p2a: Great Tusk|Earthquake|p1a: Iron Treads
+|-supereffective|p1a: Iron Treads
+|-damage|p1a: Iron Treads|20/100
+|move|p1a: Iron Treads|Stealth Rock|p2a: Great Tusk
+|-sidestart|p2: LaBaleada|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1711947082
+|-end|p1a: Iron Treads|Quark Drive|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|move|p2a: Great Tusk|Knock Off|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|58/100
+|-enditem|p1a: Gholdengo|Air Balloon
+|
+|upkeep
+|turn|4
+|
+|t:|1711947095
+|switch|p1a: Iron Treads|Iron Treads|20/100
+|move|p2a: Great Tusk|Rapid Spin|p1a: Iron Treads
+|-resisted|p1a: Iron Treads
+|-damage|p1a: Iron Treads|14/100
+|-boost|p2a: Great Tusk|spe|1
+|-sideend|p2: LaBaleada|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Great Tusk
+|
+|upkeep
+|turn|5
+|-message|Legendary Levi forfeited.
+|
+|win|LaBaleada
+|raw|Legendary Levi's rating: 1730 &rarr; <strong>1708</strong><br />(-22 for losing)
+|raw|LaBaleada's rating: 1697 &rarr; <strong>1719</strong><br />(+22 for winning)
+|l|☆Legendary Levi
+|player|p1|
+|l|☆LaBaleada
+|player|p2|
+|l| x_Zavi

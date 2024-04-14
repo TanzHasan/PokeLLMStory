@@ -1,0 +1,65 @@
+p1: Switched to Ferrothorn
+p2: Switched to Umbreon
+Turn 1:
+p2: Umbreon used Taunt on Ferrothorn
+p1: Ferrothorn can't move
+Turn 2:
+p2: Switched to Zapdos
+p1: Ferrothorn used Body Press on Zapdos
+Turn 3:
+p1: Switched to Rotom-Heat
+p2: Zapdos used Volt Switch on Rotom-Heat
+p2: Switched to Umbreon
+Turn 4:
+p1: Rotom-Heat used Discharge on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 5:
+p1: Rotom-Heat used Discharge on Umbreon
+p2: Umbreon can't move
+Turn 6:
+p1: Rotom-Heat used Volt Switch on Umbreon
+p1: Switched to Ferrothorn
+p2: Umbreon used Wish on Umbreon
+Turn 7:
+p2: Switched to Zapdos
+p1: Ferrothorn can't move
+Turn 8:
+p2: Zapdos used Heat Wave on Ferrothorn
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 9:
+p2: Zapdos used Volt Switch on Ferrothorn
+p2: Switched to Umbreon
+p1: Ferrothorn used Leech Seed on Umbreon
+Turn 10:
+p2: Switched to Zapdos
+p1: Ferrothorn used Body Press on Zapdos
+Turn 11:
+p1: Switched to Rotom-Heat
+p2: Zapdos used Hurricane on Rotom-Heat
+Turn 12:
+p1: Rotom-Heat used Volt Switch on Zapdos
+p1: Switched to Ferrothorn
+p2: Zapdos used Volt Switch on Ferrothorn
+p2: Switched to Umbreon
+Turn 13:
+p2: Umbreon used Taunt on Ferrothorn
+p1: Ferrothorn can't move
+Turn 14:
+p1: Switched to Rotom-Heat
+p2: Umbreon used Wish on Umbreon
+Turn 15:
+p1: Rotom-Heat used Volt Switch on Umbreon
+p1: Switched to Ferrothorn
+p2: Umbreon used Foul Play on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Inteleon
+Turn 16:
+p2: Switched to Porygon2
+p1: Inteleon used Focus Energy on Inteleon
+Turn 17:
+p1: Inteleon used G-Max Hydrosnipe on Porygon2
+p2: Porygon2 fainted
+p2: Switched to Umbreon
+Turn 18:
+p1: Inteleon used G-Max Hydrosnipe on Umbreon
+p2: Umbreon fainted

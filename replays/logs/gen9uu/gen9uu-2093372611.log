@@ -1,0 +1,285 @@
+|j|☆logan001
+|j|☆IronM0th
+|t:|1711946376
+|gametype|singles
+|player|p1|logan001|169|1040
+|player|p2|IronM0th|170|1148
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lokix, M|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Deoxys-Speed|
+|poke|p1|Excadrill, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Slowking, M|
+|poke|p2|Iron Leaves|
+|poke|p2|Sandy Shocks|
+|poke|p2|Kommo-o, M|
+|poke|p2|Skeledirge, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Slowking, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by logan001)
+|
+|t:|1711946392
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Sandy Shocks|Sandy Shocks|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1711946397
+|move|p1a: Ninetales|Blizzard|p2a: Sandy Shocks
+|-supereffective|p2a: Sandy Shocks
+|-damage|p2a: Sandy Shocks|0 fnt
+|faint|p2a: Sandy Shocks
+|-end|p2a: Sandy Shocks|Protosynthesis|[silent]
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711946403
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|turn|2
+|
+|t:|1711946417
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Skeledirge|Torch Song|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711946424
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Slowking
+|-status|p1a: Slowking|brn
+|move|p1a: Slowking|Scald|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|64/100
+|
+|-weather|Snow|[upkeep]
+|-damage|p1a: Slowking|83/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711946431
+|move|p2a: Skeledirge|Hex|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711946434
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|5
+|
+|t:|1711946440
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Lokix|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-crit|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|67/100
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Lokix
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1711946462
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Mandibuzz|Toxic|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|7
+|
+|t:|1711946468
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Mandibuzz|Foul Play|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1711946475
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-ability|p1a: Deoxys|Pressure
+|turn|8
+|
+|t:|1711946482
+|switch|p2a: Skeledirge|Skeledirge, F|64/100
+|move|p1a: Deoxys|Counter||[still]
+|-fail|p1a: Deoxys
+|
+|upkeep
+|turn|9
+|
+|t:|1711946488
+|move|p1a: Deoxys|Stealth Rock|p2a: Skeledirge
+|-sidestart|p2: IronM0th|move: Stealth Rock
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Deoxys|[miss]
+|-miss|p2a: Skeledirge|p1a: Deoxys
+|
+|upkeep
+|turn|10
+|
+|t:|1711946492
+|move|p1a: Deoxys|Spikes|p2a: Skeledirge
+|-sidestart|p2: IronM0th|Spikes
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711946495
+|move|p1a: Deoxys|Spikes|p2a: Skeledirge
+|-sidestart|p2: IronM0th|Spikes
+|move|p2a: Skeledirge|Torch Song|p1a: Deoxys
+|-damage|p1a: Deoxys|54/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|12
+|
+|t:|1711946501
+|move|p1a: Deoxys|Psycho Boost|p2a: Skeledirge
+|-damage|p2a: Skeledirge|62/100
+|-unboost|p1a: Deoxys|spa|2
+|move|p2a: Skeledirge|Torch Song|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Deoxys
+|
+|upkeep
+|
+|t:|1711946506
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|13
+|
+|t:|1711946514
+|switch|p2a: Mandibuzz|Mandibuzz, F|67/100
+|-damage|p2a: Mandibuzz|42/100|[from] Stealth Rock
+|move|p1a: Lokix|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|26/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711946521
+|move|p1a: Lokix|U-turn|p2a: Mandibuzz
+|-crit|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|
+|t:|1711946524
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from] U-turn
+|
+|upkeep
+|
+|t:|1711946542
+|switch|p2a: Iron Leaves|Iron Leaves|100/100
+|-damage|p2a: Iron Leaves|88/100|[from] Stealth Rock
+|-damage|p2a: Iron Leaves|72/100|[from] Spikes
+|-enditem|p2a: Iron Leaves|Booster Energy
+|-activate|p2a: Iron Leaves|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Leaves|quarkdrivespe
+|turn|15
+|
+|t:|1711946549
+|-terastallize|p2a: Iron Leaves|Ground
+|move|p2a: Iron Leaves|Swords Dance|p2a: Iron Leaves
+|-boost|p2a: Iron Leaves|atk|2
+|move|p1a: Tornadus|Hurricane|p2a: Iron Leaves|[miss]
+|-miss|p1a: Tornadus|p2a: Iron Leaves
+|
+|upkeep
+|turn|16
+|
+|t:|1711946559
+|move|p2a: Iron Leaves|Psyblade|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1711946562
+|switch|p1a: Lokix|Lokix, M|100/100
+|turn|17
+|
+|t:|1711946568
+|-terastallize|p1a: Lokix|Bug
+|move|p1a: Lokix|First Impression|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|6/100
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Lokix
+|-resisted|p1a: Lokix
+|-crit|p1a: Lokix
+|-damage|p1a: Lokix|9/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711946578
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Lokix
+|-resisted|p1a: Lokix
+|-damage|p1a: Lokix|0 fnt
+|faint|p1a: Lokix
+|
+|upkeep
+|
+|t:|1711946581
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|19
+|
+|t:|1711946585
+|move|p2a: Iron Leaves|Psyblade|p1a: Ninetales
+|-damage|p1a: Ninetales|22/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Iron Leaves
+|-supereffective|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|c|☆logan001|Gg
+|
+|t:|1711946589
+|switch|p2a: Skeledirge|Skeledirge, F|62/100
+|turn|20
+|
+|t:|1711946591
+|move|p1a: Ninetales|Blizzard|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|44/100
+|move|p2a: Skeledirge|Torch Song|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Ninetales
+|
+|win|IronM0th
+|raw|logan001's rating: 1040 &rarr; <strong>1029</strong><br />(-11 for losing)
+|raw|IronM0th's rating: 1148 &rarr; <strong>1165</strong><br />(+17 for winning)
+|l|☆logan001
+|player|p1|

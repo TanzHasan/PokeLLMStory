@@ -1,0 +1,109 @@
+p1: Switched to Smeargle
+p2: Switched to Salazzle
+Turn 1:
+p2: Salazzle used Substitute on Salazzle
+p1: Smeargle used Nuzzle on Salazzle
+Turn 2:
+p2: Salazzle used Toxic on Smeargle
+p1: Smeargle used Sticky Web on Salazzle
+Turn 3:
+p2: Salazzle used Flamethrower on Smeargle
+p1: Smeargle used Nuzzle on Salazzle
+Turn 4:
+p2: Salazzle used Flamethrower on Smeargle
+p1: Smeargle fainted
+p1: Switched to Terrakion
+Turn 5:
+p2: Salazzle used Toxic on Terrakion
+p1: Terrakion used Earthquake on Salazzle
+Turn 6:
+p2: Salazzle used Substitute on Salazzle
+p1: Terrakion used Earthquake on Salazzle
+Turn 7:
+p2: Salazzle used Protect on Salazzle
+p1: Terrakion used Earthquake on Salazzle
+Turn 8:
+p2: Salazzle used Substitute on Salazzle
+p1: Terrakion used Earthquake on Salazzle
+Turn 9:
+p2: Salazzle used Protect on Salazzle
+p1: Terrakion used Earthquake on Salazzle
+Turn 10:
+p2: Salazzle used Flamethrower on Terrakion
+p1: Terrakion fainted
+p1: Switched to Xerneas
+Turn 11:
+p2: Salazzle used Toxic on Xerneas
+p1: Xerneas failed to use Geomancy
+Turn 12:
+p2: Salazzle used Protect on Salazzle
+p1: Xerneas used Psyshock on Salazzle
+Turn 13:
+p2: Switched to Ditto
+p1: Xerneas used Psyshock on Ditto
+Turn 14:
+p2: Ditto used Moonblast on Xerneas
+p1: Xerneas used Moonblast on Ditto
+p2: Ditto fainted
+p1: Xerneas fainted
+p1: Switched to Kecleon
+p2: Switched to Purugly
+Turn 15:
+p2: Purugly used Fake Out on Kecleon
+p1: Kecleon can't move
+Turn 16:
+p2: Purugly used Return on Kecleon
+p1: Kecleon used Stealth Rock on Purugly
+Turn 17:
+p2: Purugly used Knock Off on Kecleon
+p1: Kecleon used Drain Punch on Purugly
+Turn 18:
+p1: Kecleon used Shadow Sneak on Purugly
+p2: Purugly used Stomping Tantrum on Kecleon
+Turn 19:
+p2: Purugly used Knock Off on Kecleon
+p1: Kecleon fainted
+p1: Switched to Klefki
+Turn 20:
+p1: Klefki used Play Rough on Purugly
+p2: Purugly fainted
+p2: Switched to Salazzle
+Turn 21:
+p1: Klefki used Thunder Wave on Salazzle
+p2: Salazzle used Toxic on Klefki
+Turn 22:
+p1: Klefki used Play Rough on Salazzle
+p2: Salazzle used Flamethrower on Klefki
+Turn 23:
+p2: Salazzle can't move
+p1: Klefki used Play Rough on Salazzle
+p1: Klefki fainted
+p1: Switched to Jumpluff
+Turn 24:
+p1: Jumpluff used Acrobatics on Salazzle
+p2: Salazzle used Flamethrower on Jumpluff
+Turn 25:
+p2: Switched to Suicune
+p1: Jumpluff used Acrobatics on Suicune
+Turn 26:
+p1: Jumpluff used Sleep Powder on Suicune
+p2: Suicune used Rest on Suicune
+Turn 27:
+p1: Jumpluff used Encore on Suicune
+p2: Suicune can't move
+Turn 28:
+p1: Jumpluff used Strength Sap on Suicune
+p2: Suicune can't move
+Turn 29:
+p1: Jumpluff used Acrobatics on Suicune
+p2: Suicune used Rest on Suicune
+Turn 30:
+p1: Jumpluff used Encore on Suicune
+p2: Suicune can't move
+Turn 31:
+p1: Jumpluff used Acrobatics on Suicune
+p2: Suicune can't move
+Turn 32:
+p1: Jumpluff used Acrobatics on Suicune
+p2: Suicune used Rest on Suicune
+Turn 33:

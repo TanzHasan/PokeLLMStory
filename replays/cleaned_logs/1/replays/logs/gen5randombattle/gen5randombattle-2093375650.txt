@@ -1,0 +1,104 @@
+p1: Switched to Lumineon
+p2: Switched to Noctowl
+Turn 1:
+p2: Switched to Toxicroak
+p1: Lumineon used Toxic on Toxicroak
+Turn 2:
+p1: Lumineon used U-turn on Toxicroak
+p1: Switched to Nidoqueen
+p2: Toxicroak used Swords Dance on Toxicroak
+Turn 3:
+p2: Switched to Milotic
+p1: Nidoqueen used Earth Power on Milotic
+Turn 4:
+p1: Switched to Lumineon
+p2: Milotic used Scald on Lumineon
+Turn 5:
+p1: Lumineon used Toxic on Milotic
+p2: Milotic used Toxic on Lumineon
+Turn 6:
+p2: Switched to Toxicroak
+p1: Lumineon used U-turn on Toxicroak
+p1: Switched to Mesprit
+Turn 7:
+p2: Switched to Milotic
+p1: Mesprit used Psychic on Milotic
+Turn 8:
+p1: Switched to Spiritomb
+p2: Milotic used Recover on Milotic
+Turn 9:
+p2: Milotic used Toxic on Spiritomb
+p1: Spiritomb used Calm Mind on Spiritomb
+Turn 10:
+p1: Spiritomb used Calm Mind on Spiritomb
+p2: Milotic used Dragon Tail on Spiritomb
+Turn 11:
+p1: Mesprit used Thunderbolt on Milotic
+p2: Milotic fainted
+p2: Switched to Yanmega
+Turn 12:
+p2: Yanmega used Bug Buzz on Mesprit
+p1: Mesprit used Thunderbolt on Yanmega
+p2: Yanmega fainted
+p2: Switched to Noctowl
+Turn 13:
+p2: Noctowl used Air Slash on Mesprit
+p1: Mesprit fainted
+p1: Switched to Nidoqueen
+Turn 14:
+p2: Noctowl used Air Slash on Nidoqueen
+p1: Nidoqueen can't move
+Turn 15:
+p2: Noctowl used Air Slash on Nidoqueen
+p1: Nidoqueen used Stealth Rock on Noctowl
+Turn 16:
+p2: Noctowl used Air Slash on Nidoqueen
+p1: Nidoqueen used Ice Beam on Noctowl
+Turn 17:
+p2: Noctowl used Roost on Noctowl
+p1: Nidoqueen used Ice Beam on Noctowl
+Turn 18:
+p2: Noctowl used Air Slash on Nidoqueen
+p1: Nidoqueen fainted
+p1: Switched to Lumineon
+Turn 19:
+p2: Switched to Toxicroak
+p1: Lumineon used Ice Beam on Toxicroak
+Turn 20:
+p1: Lumineon used U-turn on Toxicroak
+p1: Switched to Banette
+p2: Toxicroak used Swords Dance on Toxicroak
+Turn 21:
+p2: Toxicroak used Substitute on Toxicroak
+p1: Banette used Shadow Claw on Toxicroak
+Turn 22:
+p1: Banette used Shadow Sneak on Toxicroak
+p2: Toxicroak used Poison Jab on Banette
+Turn 23:
+p2: Switched to Noctowl
+p1: Banette used Thunder Wave on Noctowl
+Turn 24:
+p1: Banette used Hidden Power on Noctowl
+p2: Noctowl used Toxic on Banette
+Turn 25:
+p1: Switched to Samurott
+p2: Noctowl used Roost on Noctowl
+Turn 26:
+p1: Samurott used Superpower on Noctowl
+p2: Noctowl used Toxic on Samurott
+Turn 27:
+p1: Switched to Spiritomb
+p2: Noctowl used Roost on Noctowl
+Turn 28:
+p2: Switched to Sawsbuck
+p1: Spiritomb used Calm Mind on Spiritomb
+Turn 29:
+p2: Sawsbuck used Substitute on Sawsbuck
+p1: Spiritomb used Dark Pulse on Sawsbuck
+Turn 30:
+p2: Sawsbuck used Substitute on Sawsbuck
+p1: Spiritomb used Dark Pulse on Sawsbuck
+Turn 31:
+p2: Sawsbuck used Horn Leech on Spiritomb
+p1: Spiritomb used Rest on Spiritomb
+Turn 32:

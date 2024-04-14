@@ -1,0 +1,475 @@
+|j|☆SteamBuns
+|j|☆Death2thewest
+|t:|1711878916
+|gametype|singles
+|player|p1|SteamBuns|yellow|
+|player|p2|Death2thewest|#death2thewest|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Colossoil, M|
+|poke|p1|Jumbao, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Latios, M|
+|poke|p1|Ceruledge, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Mollux, M|
+|poke|p2|Sinistcha|
+|poke|p2|Cresceidon, F|
+|poke|p2|Great Tusk|
+|poke|p2|Bronzong|
+|teampreview
+|c|☆Death2thewest|Well this is certainly a matchup
+|c|☆SteamBuns|yes
+|j| turnup1
+|l|☆Death2thewest
+|player|p2|
+|j|☆Death2thewest
+|player|p2|Death2thewest|#death2thewest
+|c|☆Death2thewest|I'd love to know what your thought process is when you build
+|c|☆Death2thewest|Because I can't fathom putting these 6 mons together lmao
+|c|☆SteamBuns|lol
+|c|☆SteamBuns|did u see my teams last week
+|
+|t:|1711879116
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Fan the flames|Cresceidon, F|100/100
+|turn|1
+|c|☆Death2thewest|I did
+|c|☆Death2thewest|I wish I hadn't
+|c|☆SteamBuns|apologies
+|
+|t:|1711879164
+|move|p1a: Latios|Flip Turn|p2a: Fan the flames
+|-resisted|p2a: Fan the flames
+|-damage|p2a: Fan the flames|98/100
+|
+|t:|1711879180
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from] Flip Turn
+|move|p2a: Fan the flames|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|92/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711879234
+|move|p2a: Fan the flames|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|-status|p1a: Toxapex|brn
+|move|p1a: Toxapex|Toxic|p2a: Fan the flames
+|-status|p2a: Fan the flames|tox
+|
+|-damage|p2a: Fan the flames|92/100 tox|[from] psn
+|-damage|p1a: Toxapex|78/100 brn|[from] brn
+|upkeep
+|turn|3
+|c|☆Death2thewest|You weren't supposed to do that
+|c|☆SteamBuns|:)
+|
+|t:|1711879262
+|move|p2a: Fan the flames|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|70/100 brn
+|move|p1a: Toxapex|Toxic|p2a: Fan the flames
+|-fail|p2a: Fan the flames|tox
+|
+|-damage|p2a: Fan the flames|80/100 tox|[from] psn
+|-damage|p1a: Toxapex|64/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711879273
+|switch|p2a: WaitingToLetMeKnow|Bronzong|100/100
+|move|p1a: Toxapex|Surf|p2a: WaitingToLetMeKnow
+|-crit|p2a: WaitingToLetMeKnow
+|-damage|p2a: WaitingToLetMeKnow|76/100
+|
+|-heal|p2a: WaitingToLetMeKnow|82/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|57/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1711879285
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: WaitingToLetMeKnow|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: SteamBuns|move: Stealth Rock
+|
+|-heal|p2a: WaitingToLetMeKnow|89/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711879324
+|switch|p2a: Burning Glow|Mollux, M|100/100
+|move|p1a: Skarmory|Stealth Rock|p2a: Burning Glow
+|-sidestart|p2: Death2thewest|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1711879346
+|switch|p2a: Building It Up|Great Tusk|100/100
+|-damage|p2a: Building It Up|98/100|[from] Stealth Rock
+|switch|p1a: Colossoil|Colossoil, M|100/100
+|-damage|p1a: Colossoil|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Building It Up|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711879385
+|move|p1a: Colossoil|Knock Off|p2a: Building It Up
+|-resisted|p2a: Building It Up
+|-damage|p2a: Building It Up|89/100
+|-enditem|p2a: Building It Up|Leftovers|[from] move: Knock Off|[of] p1a: Colossoil
+|move|p2a: Building It Up|Knock Off|p1a: Colossoil
+|-resisted|p1a: Colossoil
+|-damage|p1a: Colossoil|80/100
+|-enditem|p1a: Colossoil|Assault Vest|[from] move: Knock Off|[of] p2a: Building It Up
+|
+|upkeep
+|turn|9
+|
+|t:|1711879413
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|move|p2a: Building It Up|Rapid Spin|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|84/100
+|-boost|p2a: Building It Up|spe|1
+|-damage|p2a: Building It Up|72/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-sideend|p2: Death2thewest|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Building It Up
+|
+|upkeep
+|turn|10
+|
+|t:|1711879470
+|move|p2a: Building It Up|Knock Off|p1a: Skarmory
+|-crit|p1a: Skarmory
+|-damage|p1a: Skarmory|59/100
+|-damage|p2a: Building It Up|56/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-enditem|p1a: Skarmory|Rocky Helmet|[from] move: Knock Off|[of] p2a: Building It Up
+|move|p1a: Skarmory|Stealth Rock|p2a: Building It Up
+|-sidestart|p2: Death2thewest|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1711879498
+|-end|p2a: Building It Up|Protosynthesis|[silent]
+|switch|p2a: BreakItBackDown|Dragapult, F|100/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1711879513
+|switch|p1a: Toxapex|Toxapex, F|91/100 brn
+|move|p2a: BreakItBackDown|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100 brn
+|
+|t:|1711879517
+|switch|p2a: WaitingToLetMeKnow|Bronzong|89/100|[from] U-turn
+|-damage|p2a: WaitingToLetMeKnow|82/100|[from] Stealth Rock
+|
+|-heal|p2a: WaitingToLetMeKnow|89/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|78/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711879566
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|move|p2a: WaitingToLetMeKnow|Body Press|p1a: Skarmory
+|-damage|p1a: Skarmory|70/100
+|
+|-heal|p2a: WaitingToLetMeKnow|95/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711879594
+|switch|p1a: Ceruledge|Ceruledge, F|100/100
+|move|p2a: WaitingToLetMeKnow|Psychic Noise|p1a: Ceruledge
+|-damage|p1a: Ceruledge|79/100
+|-start|p1a: Ceruledge|move: Heal Block
+|
+|-heal|p2a: WaitingToLetMeKnow|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711879630
+|switch|p1a: Skarmory|Skarmory, M|70/100
+|-damage|p1a: Skarmory|58/100|[from] Stealth Rock
+|switch|p2a: Building It Up|Great Tusk|56/100
+|-damage|p2a: Building It Up|53/100|[from] Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1711879662
+|-end|p2a: Building It Up|Protosynthesis|[silent]
+|switch|p2a: BreakItBackDown|Dragapult, F|100/100
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1711879695
+|switch|p1a: Jumbao|Jumbao, M|100/100
+|-ability|p1a: Jumbao|Infiltrator|[from] ability: Trace|[of] p2a: BreakItBackDown
+|move|p2a: BreakItBackDown|U-turn|p1a: Jumbao
+|-damage|p1a: Jumbao|84/100
+|c|☆Death2thewest|Not the boots bao come on now
+|c|☆Death2thewest|It is 2024
+|c|☆SteamBuns|what do you want me to give it
+|c|☆Death2thewest|Delete it from your builder
+|c|☆Death2thewest|But scarf ig
+|c|☆SteamBuns|can't think of a worse mon than scarf bao
+|c|☆SteamBuns|tbh
+|
+|t:|1711879797
+|switch|p2a: Burning Glow|Mollux, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|18
+|c|☆Death2thewest|I can
+|c|☆Death2thewest|Boots bao
+|
+|t:|1711879823
+|switch|p1a: Colossoil|Colossoil, M|80/100
+|-damage|p1a: Colossoil|74/100|[from] Stealth Rock
+|switch|p2a: Fan the flames|Cresceidon, F|80/100 tox
+|
+|-damage|p2a: Fan the flames|74/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711879839
+|switch|p1a: Jumbao|Jumbao, M|84/100
+|-ability|p1a: Jumbao|Multiscale|[from] ability: Trace|[of] p2a: Fan the flames
+|move|p2a: Fan the flames|Moonblast|p1a: Jumbao
+|-damage|p1a: Jumbao|57/100
+|
+|-damage|p2a: Fan the flames|61/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711879844
+|switch|p2a: Burning Glow|Mollux, M|100/100
+|move|p1a: Jumbao|Wish|p1a: Jumbao
+|
+|upkeep
+|turn|21
+|c|☆Death2thewest|Loading no ghost resists was not the play
+|
+|t:|1711879887
+|switch|p1a: Colossoil|Colossoil, M|74/100
+|-damage|p1a: Colossoil|68/100|[from] Stealth Rock
+|switch|p2a: Fan the flames|Cresceidon, F|61/100 tox
+|
+|-heal|p1a: Colossoil|100/100|[from] move: Wish|[wisher] Jumbao
+|-damage|p2a: Fan the flames|55/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711879955
+|move|p2a: Fan the flames|Recover|p2a: Fan the flames
+|-heal|p2a: Fan the flames|100/100 tox
+|move|p1a: Colossoil|Rapid Spin|p2a: Fan the flames
+|-damage|p2a: Fan the flames|94/100 tox
+|-boost|p1a: Colossoil|spe|1
+|-sideend|p1: SteamBuns|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Colossoil
+|
+|-damage|p2a: Fan the flames|82/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711879973
+|move|p1a: Colossoil|Knock Off|p2a: Fan the flames
+|-resisted|p2a: Fan the flames
+|-damage|p2a: Fan the flames|61/100 tox
+|-enditem|p2a: Fan the flames|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Colossoil
+|move|p2a: Fan the flames|Moonblast|p1a: Colossoil
+|-supereffective|p1a: Colossoil
+|-damage|p1a: Colossoil|44/100
+|-unboost|p1a: Colossoil|spa|1
+|
+|-damage|p2a: Fan the flames|43/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1711880034
+|move|p1a: Colossoil|Headlong Rush|p2a: Fan the flames
+|-damage|p2a: Fan the flames|0 fnt
+|-unboost|p1a: Colossoil|def|1
+|-unboost|p1a: Colossoil|spd|1
+|faint|p2a: Fan the flames
+|
+|upkeep
+|c|☆Death2thewest|I hate it here
+|
+|t:|1711880055
+|switch|p2a: Building It Up|Great Tusk|53/100
+|-damage|p2a: Building It Up|50/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1711880083
+|move|p1a: Colossoil|U-turn|p2a: Building It Up
+|-resisted|p2a: Building It Up
+|-damage|p2a: Building It Up|44/100
+|
+|t:|1711880134
+|switch|p1a: Jumbao|Jumbao, M|57/100|[from] U-turn
+|move|p2a: Building It Up|Ice Spinner|p1a: Jumbao
+|-supereffective|p1a: Jumbao
+|-damage|p1a: Jumbao|18/100
+|
+|upkeep
+|turn|26
+|
+|t:|1711880162
+|-end|p2a: Building It Up|Protosynthesis|[silent]
+|switch|p2a: Burning Glow|Mollux, M|100/100
+|-ability|p1a: Jumbao|Dry Skin|[from] ability: Trace|[of] p2a: Burning Glow
+|move|p1a: Jumbao|Moonblast|p2a: Burning Glow
+|-resisted|p2a: Burning Glow
+|-damage|p2a: Burning Glow|94/100
+|
+|upkeep
+|turn|27
+|
+|t:|1711880257
+|switch|p2a: Building It Up|Great Tusk|44/100
+|-damage|p2a: Building It Up|41/100|[from] Stealth Rock
+|move|p1a: Jumbao|Wish|p1a: Jumbao
+|
+|upkeep
+|turn|28
+|c|☆Death2thewest|Fuck sake
+|
+|t:|1711880295
+|move|p1a: Jumbao|Moonblast|p2a: Building It Up
+|-supereffective|p2a: Building It Up
+|-damage|p2a: Building It Up|0 fnt
+|faint|p2a: Building It Up
+|-end|p2a: Building It Up|Protosynthesis|[silent]
+|
+|-heal|p1a: Jumbao|68/100|[from] move: Wish|[wisher] Jumbao
+|upkeep
+|c|☆Death2thewest|Get one predict right challenge (difficulty: impossible)
+|
+|t:|1711880324
+|switch|p2a: Burning Glow|Mollux, M|94/100
+|turn|29
+|
+|t:|1711880399
+|move|p1a: Jumbao|Wish|p1a: Jumbao
+|move|p2a: Burning Glow|Lava Plume|p1a: Jumbao
+|-supereffective|p1a: Jumbao
+|-damage|p1a: Jumbao|0 fnt
+|faint|p1a: Jumbao
+|
+|upkeep
+|
+|t:|1711880402
+|switch|p1a: Colossoil|Colossoil, M|44/100
+|turn|30
+|
+|t:|1711880472
+|switch|p2a: WaitingToLetMeKnow|Bronzong|100/100
+|-damage|p2a: WaitingToLetMeKnow|94/100|[from] Stealth Rock
+|move|p1a: Colossoil|Knock Off|p2a: WaitingToLetMeKnow
+|-supereffective|p2a: WaitingToLetMeKnow
+|-damage|p2a: WaitingToLetMeKnow|28/100
+|-enditem|p2a: WaitingToLetMeKnow|Leftovers|[from] move: Knock Off|[of] p1a: Colossoil
+|
+|-heal|p1a: Colossoil|92/100|[from] move: Wish|[wisher] Jumbao
+|upkeep
+|turn|31
+|
+|t:|1711880497
+|move|p1a: Colossoil|U-turn|p2a: WaitingToLetMeKnow
+|-damage|p2a: WaitingToLetMeKnow|12/100
+|
+|t:|1711880499
+|switch|p1a: Ceruledge|Ceruledge, F|79/100|[from] U-turn
+|move|p2a: WaitingToLetMeKnow|Body Press|p1a: Ceruledge
+|-immune|p1a: Ceruledge
+|
+|upkeep
+|turn|32
+|
+|t:|1711880515
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|move|p2a: WaitingToLetMeKnow|Psychic Noise|p1a: Ceruledge
+|-damage|p1a: Ceruledge|54/100
+|-start|p1a: Ceruledge|move: Heal Block
+|
+|upkeep
+|turn|33
+|
+|t:|1711880583
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|move|p2a: WaitingToLetMeKnow|Psychic Noise|p1a: Ceruledge
+|-damage|p1a: Ceruledge|29/100
+|-fail|p1a: Ceruledge|move: Heal Block
+|
+|-end|p1a: Ceruledge|move: Heal Block
+|upkeep
+|turn|34
+|
+|t:|1711880598
+|move|p1a: Ceruledge|Bitter Blade|p2a: WaitingToLetMeKnow
+|-supereffective|p2a: WaitingToLetMeKnow
+|-damage|p2a: WaitingToLetMeKnow|0 fnt
+|-heal|p1a: Ceruledge|35/100|[from] drain|[of] p2a: WaitingToLetMeKnow
+|faint|p2a: WaitingToLetMeKnow
+|
+|upkeep
+|
+|t:|1711880622
+|switch|p2a: BreakItBackDown|Dragapult, F|100/100
+|turn|35
+|
+|t:|1711880631
+|move|p1a: Ceruledge|Shadow Sneak|p2a: BreakItBackDown
+|-supereffective|p2a: BreakItBackDown
+|-damage|p2a: BreakItBackDown|0 fnt
+|faint|p2a: BreakItBackDown
+|
+|upkeep
+|c|☆Death2thewest|Ok
+|
+|t:|1711880640
+|switch|p2a: Burn It Down|Sinistcha|100/100
+|-damage|p2a: Burn It Down|88/100|[from] Stealth Rock
+|turn|36
+|c|☆Death2thewest|Gg
+|-message|Death2thewest forfeited.
+|
+|win|SteamBuns
+|c|☆SteamBuns|gg
+|l|☆SteamBuns
+|player|p1|
+|l| turnup1

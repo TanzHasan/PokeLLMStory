@@ -1,0 +1,101 @@
+p1: Switched to Serperior
+p2: Switched to Lycanroc-Midnight
+Turn 1:
+p2: Lycanroc-Midnight failed to use Sucker Punch
+p1: Serperior used Leech Seed on Lycanroc-Midnight
+Turn 2:
+p1: Serperior used Substitute on Serperior
+p2: Lycanroc-Midnight used Stomping Tantrum on Serperior
+Turn 3:
+p1: Switched to Rotom-Frost
+p2: Lycanroc-Midnight used Stone Edge on Rotom-Frost
+p1: Rotom-Frost fainted
+p1: Switched to Vileplume
+Turn 4:
+p2: Lycanroc-Midnight failed to use Sucker Punch
+p1: Vileplume used Strength Sap on Lycanroc-Midnight
+Turn 5:
+p2: Lycanroc-Midnight used Stone Edge on Vileplume
+p1: Vileplume used Strength Sap on Lycanroc-Midnight
+Turn 6:
+p2: Lycanroc-Midnight used Stone Edge on Vileplume
+p1: Vileplume used Strength Sap on Lycanroc-Midnight
+p2: Lycanroc-Midnight fainted
+p2: Switched to Lunala
+Turn 7:
+p1: Switched to Gothitelle
+p2: Lunala used Moongeist Beam on Gothitelle
+Turn 8:
+p2: Lunala used Psyshock on Gothitelle
+p1: Gothitelle used Signal Beam on Lunala
+Turn 9:
+p2: Lunala used Moongeist Beam on Gothitelle
+p1: Gothitelle fainted
+p1: Switched to Vileplume
+Turn 10:
+p2: Lunala used Moongeist Beam on Vileplume
+p1: Vileplume used Strength Sap on Lunala
+Turn 11:
+p2: Lunala used Moongeist Beam on Vileplume
+p1: Vileplume used Sludge Bomb on Lunala
+Turn 12:
+p2: Lunala used Psyshock on Vileplume
+p1: Vileplume used Sludge Bomb on Lunala
+Turn 13:
+p2: Lunala used Psyshock on Vileplume
+p1: Vileplume fainted
+p1: Switched to Slaking
+Turn 14:
+p1: Slaking used Earthquake on Lunala
+p2: Lunala used Moongeist Beam on Slaking
+Turn 15:
+p1: Slaking can't move
+p2: Lunala used Psyshock on Slaking
+p2: Lunala fainted
+p2: Switched to Bouffalant
+Turn 16:
+p1: Switched to Serperior
+p2: Bouffalant used Earthquake on Serperior
+Turn 17:
+p1: Serperior used Leech Seed on Bouffalant
+p2: Bouffalant used Earthquake on Serperior
+Turn 18:
+p1: Serperior used Substitute on Serperior
+p2: Bouffalant used Earthquake on Serperior
+Turn 19:
+p1: Switched to Kyogre
+p2: Bouffalant used Earthquake on Kyogre
+Turn 20:
+p1: Kyogre used Origin Pulse on Bouffalant
+p2: Bouffalant used Earthquake on Kyogre
+p1: Kyogre fainted
+p1: Switched to Slaking
+Turn 21:
+p1: Slaking used Earthquake on Bouffalant
+p2: Bouffalant fainted
+p2: Switched to Noctowl
+Turn 22:
+p1: Switched to Serperior
+p2: Noctowl used Hurricane on Serperior
+p1: Serperior fainted
+p1: Switched to Slaking
+Turn 23:
+p1: Slaking used Retaliate on Noctowl
+p2: Noctowl used Toxic on Slaking
+Turn 24:
+p1: Slaking can't move
+p2: Noctowl used Hurricane on Slaking
+Turn 25:
+p1: Slaking used Retaliate on Noctowl
+p2: Noctowl fainted
+p2: Switched to Oricorio-Pom-Pom
+Turn 26:
+p1: Slaking can't move
+p2: Oricorio-Pom-Pom used Revelation Dance on Slaking
+Turn 27:
+p1: Slaking used Retaliate on Oricorio-Pom-Pom
+p2: Oricorio-Pom-Pom used Hurricane on Slaking
+Turn 28:
+p1: Slaking can't move
+p2: Oricorio-Pom-Pom used Revelation Dance on Slaking
+p1: Slaking fainted

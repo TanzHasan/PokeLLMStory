@@ -1,0 +1,119 @@
+p1: Switched to Latios
+p2: Switched to Cresceidon
+Turn 1:
+p1: Latios used Flip Turn on Cresceidon
+p1: Switched to Toxapex
+p2: Cresceidon used Moonblast on Toxapex
+Turn 2:
+p2: Cresceidon used Scald on Toxapex
+p1: Toxapex used Toxic on Cresceidon
+Turn 3:
+p2: Cresceidon used Scald on Toxapex
+p1: Toxapex used Toxic on Cresceidon
+Turn 4:
+p2: Switched to Bronzong
+p1: Toxapex used Surf on Bronzong
+Turn 5:
+p1: Switched to Skarmory
+p2: Bronzong used Stealth Rock on Skarmory
+Turn 6:
+p2: Switched to Mollux
+p1: Skarmory used Stealth Rock on Mollux
+Turn 7:
+p2: Switched to Great Tusk
+p1: Switched to Colossoil
+Turn 8:
+p1: Colossoil used Knock Off on Great Tusk
+p2: Great Tusk used Knock Off on Colossoil
+Turn 9:
+p1: Switched to Skarmory
+p2: Great Tusk used Rapid Spin on Skarmory
+Turn 10:
+p2: Great Tusk used Knock Off on Skarmory
+p1: Skarmory used Stealth Rock on Great Tusk
+Turn 11:
+p2: Switched to Dragapult
+p1: Skarmory used Roost on Skarmory
+Turn 12:
+p1: Switched to Toxapex
+p2: Dragapult used U-turn on Toxapex
+p2: Switched to Bronzong
+Turn 13:
+p1: Switched to Skarmory
+p2: Bronzong used Body Press on Skarmory
+Turn 14:
+p1: Switched to Ceruledge
+p2: Bronzong used Psychic Noise on Ceruledge
+Turn 15:
+p1: Switched to Skarmory
+p2: Switched to Great Tusk
+Turn 16:
+p2: Switched to Dragapult
+p1: Skarmory used Roost on Skarmory
+Turn 17:
+p1: Switched to Jumbao
+p2: Dragapult used U-turn on Jumbao
+p2: Switched to Mollux
+Turn 18:
+p1: Switched to Colossoil
+p2: Switched to Cresceidon
+Turn 19:
+p1: Switched to Jumbao
+p2: Cresceidon used Moonblast on Jumbao
+Turn 20:
+p2: Switched to Mollux
+p1: Jumbao used Wish on Jumbao
+Turn 21:
+p1: Switched to Colossoil
+p2: Switched to Cresceidon
+Turn 22:
+p2: Cresceidon used Recover on Cresceidon
+p1: Colossoil used Rapid Spin on Cresceidon
+Turn 23:
+p1: Colossoil used Knock Off on Cresceidon
+p2: Cresceidon used Moonblast on Colossoil
+Turn 24:
+p1: Colossoil used Headlong Rush on Cresceidon
+p2: Cresceidon fainted
+p2: Switched to Great Tusk
+Turn 25:
+p1: Colossoil used U-turn on Great Tusk
+p1: Switched to Jumbao
+p2: Great Tusk used Ice Spinner on Jumbao
+Turn 26:
+p2: Switched to Mollux
+p1: Jumbao used Moonblast on Mollux
+Turn 27:
+p2: Switched to Great Tusk
+p1: Jumbao used Wish on Jumbao
+Turn 28:
+p1: Jumbao used Moonblast on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Mollux
+Turn 29:
+p1: Jumbao used Wish on Jumbao
+p2: Mollux used Lava Plume on Jumbao
+p1: Jumbao fainted
+p1: Switched to Colossoil
+Turn 30:
+p2: Switched to Bronzong
+p1: Colossoil used Knock Off on Bronzong
+Turn 31:
+p1: Colossoil used U-turn on Bronzong
+p1: Switched to Ceruledge
+p2: Bronzong used Body Press on Ceruledge
+Turn 32:
+p1: Ceruledge used Bulk Up on Ceruledge
+p2: Bronzong used Psychic Noise on Ceruledge
+Turn 33:
+p1: Ceruledge used Bulk Up on Ceruledge
+p2: Bronzong used Psychic Noise on Ceruledge
+Turn 34:
+p1: Ceruledge used Bitter Blade on Bronzong
+p2: Bronzong fainted
+p2: Switched to Dragapult
+Turn 35:
+p1: Ceruledge used Shadow Sneak on Dragapult
+p2: Dragapult fainted
+p2: Switched to Sinistcha
+Turn 36:

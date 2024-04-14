@@ -1,0 +1,259 @@
+|j|☆waha8
+|j|☆Psyath
+|t:|1711946793
+|gametype|singles
+|player|p1|waha8|169|1423
+|player|p2|Psyath|sabrina-masters|1419
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Gallade, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Haxorus, F|
+|poke|p1|Hawlucha, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Kingambit, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Dondozo, F|
+|teampreview
+|
+|t:|1711946801
+|start
+|switch|p1a: Mavis|Ninetales-Alola, F|100/100
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Mavis
+|turn|1
+|
+|t:|1711946811
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|move|p1a: Mavis|Moonblast|p2a: Kingambit
+|-damage|p2a: Kingambit|63/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711946817
+|move|p1a: Mavis|Aurora Veil|p1a: Mavis
+|-sidestart|p1: waha8|move: Aurora Veil
+|move|p2a: Kingambit|Iron Head|p1a: Mavis
+|-supereffective|p1a: Mavis
+|-damage|p1a: Mavis|10/100
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711946823
+|move|p1a: Mavis|Encore|p2a: Kingambit
+|-start|p2a: Kingambit|Encore
+|move|p2a: Kingambit|Iron Head|p1a: Mavis
+|-supereffective|p1a: Mavis
+|-damage|p1a: Mavis|0 fnt
+|faint|p1a: Mavis
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|
+|t:|1711946830
+|switch|p1a: DoNotCare|Haxorus, F|100/100
+|-ability|p1a: DoNotCare|Mold Breaker
+|turn|4
+|
+|t:|1711946852
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: DoNotCare|Dragon Dance|p1a: DoNotCare
+|-boost|p1a: DoNotCare|atk|1
+|-boost|p1a: DoNotCare|spe|1
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711946858
+|move|p1a: DoNotCare|Dragon Dance|p1a: DoNotCare
+|-boost|p1a: DoNotCare|atk|1
+|-boost|p1a: DoNotCare|spe|1
+|move|p2a: Zapdos|Discharge|p1a: DoNotCare
+|-resisted|p1a: DoNotCare
+|-damage|p1a: DoNotCare|87/100
+|-status|p1a: DoNotCare|par
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1711946869
+|cant|p1a: DoNotCare|par
+|move|p2a: Zapdos|Volt Switch|p1a: DoNotCare
+|-resisted|p1a: DoNotCare
+|-damage|p1a: DoNotCare|75/100 par
+|
+|t:|1711946877
+|switch|p2a: Dondozo|Dondozo, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|7
+|
+|t:|1711946883
+|cant|p1a: DoNotCare|par
+|move|p2a: Dondozo|Body Press|p1a: DoNotCare
+|-damage|p1a: DoNotCare|58/100 par
+|
+|upkeep
+|turn|8
+|
+|t:|1711946888
+|move|p1a: DoNotCare|Outrage|p2a: Dondozo
+|-damage|p2a: Dondozo|0 fnt
+|faint|p2a: Dondozo
+|-damage|p1a: DoNotCare|48/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946894
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|9
+|
+|t:|1711946906
+|move|p2a: Great Tusk|Rapid Spin|p1a: DoNotCare
+|-damage|p1a: DoNotCare|39/100 par
+|-boost|p2a: Great Tusk|spe|1
+|move|p1a: DoNotCare|Outrage|p2a: Great Tusk|[from]lockedmove
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-damage|p1a: DoNotCare|29/100 par|[from] item: Life Orb
+|
+|-sideend|p1: waha8|move: Aurora Veil
+|upkeep
+|
+|t:|1711946912
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|10
+|
+|t:|1711946919
+|move|p2a: Dragapult|Shadow Ball|p1a: DoNotCare
+|-damage|p1a: DoNotCare|0 fnt
+|faint|p1a: DoNotCare
+|
+|upkeep
+|
+|t:|1711946923
+|switch|p1a: DeeDee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DeeDee
+|turn|11
+|
+|t:|1711946927
+|switch|p2a: Kingambit|Kingambit, M|63/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Kingambit
+|-damage|p2a: Kingambit|38/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711946940
+|move|p1a: DeeDee|Dazzling Gleam|p2a: Kingambit
+|-damage|p2a: Kingambit|10/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: DeeDee
+|-supereffective|p1a: DeeDee
+|-damage|p1a: DeeDee|0 fnt
+|faint|p1a: DeeDee
+|
+|upkeep
+|
+|t:|1711946948
+|switch|p1a: Lee|Gallade, M|100/100
+|turn|13
+|
+|t:|1711946954
+|-end|p2a: Kingambit|fallen2|[silent]
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Lee|Agility|p1a: Lee
+|-boost|p1a: Lee|spe|2
+|
+|upkeep
+|turn|14
+|
+|t:|1711946960
+|move|p1a: Lee|Psycho Cut|p2a: Zapdos
+|-damage|p2a: Zapdos|12/100
+|-damage|p1a: Lee|91/100|[from] item: Life Orb
+|move|p2a: Zapdos|Discharge|p1a: Lee
+|-damage|p1a: Lee|58/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711946966
+|switch|p2a: Kingambit|Kingambit, M|10/100
+|-activate|p2a: Kingambit|ability: Supreme Overlord
+|-start|p2a: Kingambit|fallen2|[silent]
+|move|p1a: Lee|Sacred Sword|p2a: Kingambit
+|-supereffective|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-end|p2a: Kingambit|fallen2|[silent]
+|-damage|p1a: Lee|48/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946985
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|16
+|
+|t:|1711946990
+|move|p1a: Lee|Psycho Cut|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-damage|p1a: Lee|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946999
+|switch|p2a: Zapdos|Zapdos|12/100
+|turn|17
+|
+|t:|1711947006
+|move|p1a: Lee|Psycho Cut|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Lee|29/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711947009
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1711947014
+|-terastallize|p2a: Dragapult|Fairy
+|move|p1a: Lee|Psycho Cut|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Lee|19/100|[from] item: Life Orb
+|
+|win|waha8
+|raw|waha8's rating: 1423 &rarr; <strong>1443</strong><br />(+20 for winning)
+|raw|Psyath's rating: 1419 &rarr; <strong>1399</strong><br />(-20 for losing)
+|l|☆Psyath
+|player|p2|

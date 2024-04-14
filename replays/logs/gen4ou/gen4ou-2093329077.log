@@ -1,0 +1,316 @@
+|j|☆Magolorian10
+|j|☆i mean yeah but
+|t:|1711940040
+|gametype|singles
+|player|p1|Magolorian10|red|1444
+|player|p2|i mean yeah but|1|1336
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711940040
+|start
+|switch|p1a: Bronzong|Bronzong|100/100
+|switch|p2a: Macho man|Machamp, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by i mean yeah but)
+|inactive|i mean yeah but has 120 seconds left.
+|
+|t:|1711940070
+|move|p2a: Macho man|Dynamic Punch|p1a: Bronzong
+|-damage|p1a: Bronzong|58/100
+|-start|p1a: Bronzong|confusion
+|-activate|p1a: Bronzong|confusion
+|move|p1a: Bronzong|Stealth Rock|p2a: Macho man
+|-sidestart|p2: i mean yeah but|move: Stealth Rock
+|
+|-heal|p1a: Bronzong|64/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711940079
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Macho man|Payback|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100
+|
+|-heal|p1a: Zapdos|79/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711940086
+|move|p1a: Zapdos|Discharge|p2a: Macho man
+|-damage|p2a: Macho man|68/100
+|-status|p2a: Macho man|par
+|-enditem|p2a: Macho man|Lum Berry|[eat]
+|-curestatus|p2a: Macho man|par|[msg]
+|move|p2a: Macho man|Dynamic Punch|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|57/100
+|-start|p1a: Zapdos|confusion
+|
+|-heal|p1a: Zapdos|63/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711940097
+|-activate|p1a: Zapdos|confusion
+|-damage|p1a: Zapdos|58/100|[from] confusion
+|move|p2a: Macho man|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|14/100
+|
+|-heal|p1a: Zapdos|20/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711940104
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|70/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Macho man|Dynamic Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100
+|
+|-heal|p1a: Zapdos|33/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711940113
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|83/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Macho man|Ice Punch|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|40/100
+|
+|-heal|p1a: Zapdos|46/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711940121
+|-end|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|96/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Macho man|Dynamic Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|-start|p1a: Zapdos|confusion
+|
+|-heal|p1a: Zapdos|57/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711940132
+|-activate|p1a: Zapdos|confusion
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Macho man|Ice Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|
+|-heal|p1a: Zapdos|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711940140
+|switch|p1a: Bronzong|Bronzong|64/100
+|move|p2a: Macho man|Ice Punch|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|54/100
+|
+|-heal|p1a: Bronzong|60/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711940146
+|move|p2a: Macho man|Dynamic Punch|p1a: Bronzong
+|-damage|p1a: Bronzong|11/100
+|-start|p1a: Bronzong|confusion
+|-activate|p1a: Bronzong|confusion
+|move|p1a: Bronzong|Gyro Ball|p2a: Macho man
+|-damage|p2a: Macho man|46/100
+|
+|-heal|p1a: Bronzong|17/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711940159
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Macho man|Ice Punch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Macho man|40/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1711940169
+|switch|p1a: Zapdos|Zapdos|85/100
+|-ability|p1a: Zapdos|Pressure
+|switch|p2a: scis or that|Scizor, F|100/100
+|-damage|p2a: scis or that|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|79/100|[from] Sandstorm
+|-heal|p1a: Zapdos|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711940176
+|switch|p2a: heapster|Heatran, M, shiny|100/100
+|-damage|p2a: heapster|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Discharge|p2a: heapster
+|-damage|p2a: heapster|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|79/100|[from] Sandstorm
+|-heal|p1a: Zapdos|85/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|i mean yeah but has 120 seconds left.
+|inactive|i mean yeah but has 90 seconds left.
+|j| dummybetatester
+|inactive|i mean yeah but has 60 seconds left.
+|
+|t:|1711940269
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: heapster|Fire Blast|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711940280
+|switch|p1a: Latias|Latias, F|100/100
+|move|p2a: heapster|Stealth Rock|p1a: Latias
+|-sidestart|p1: Magolorian10|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|94/100|[from] Sandstorm
+|-heal|p1a: Latias|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|i mean yeah but has 60 seconds left.
+|
+|t:|1711940316
+|switch|p1a: Bronzong|Bronzong|17/100
+|-damage|p1a: Bronzong|11/100|[from] Stealth Rock
+|move|p2a: heapster|Explosion|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p2a: heapster
+|faint|p1a: Bronzong
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711940341
+|switch|p2a: Lat's go|Latias, F|100/100
+|switch|p1a: Zapdos|Zapdos|85/100
+|-damage|p2a: Lat's go|88/100|[from] Stealth Rock
+|-damage|p1a: Zapdos|60/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|turn|17
+|inactive|i mean yeah but has 30 seconds left.
+|
+|t:|1711940362
+|switch|p1a: Tyranitar|Tyranitar, M|74/100
+|-damage|p1a: Tyranitar|61/100|[from] Stealth Rock
+|move|p2a: Lat's go|Draco Meteor|p1a: Tyranitar
+|-damage|p1a: Tyranitar|19/100
+|-unboost|p2a: Lat's go|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lat's go|82/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1711940370
+|move|p1a: Tyranitar|Pursuit|p2a: Lat's go
+|-supereffective|p2a: Lat's go
+|-damage|p2a: Lat's go|33/100
+|move|p2a: Lat's go|Grass Knot|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lat's go|27/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711940378
+|switch|p1a: Clefable|Clefable, F|63/100
+|turn|19
+|inactive|i mean yeah but has 30 seconds left.
+|inactive|i mean yeah but has 20 seconds left.
+|inactive|i mean yeah but has 15 seconds left.
+|
+|t:|1711940414
+|switch|p2a: Macho man|Machamp, F|40/100
+|-damage|p2a: Macho man|34/100|[from] Stealth Rock
+|move|p1a: Clefable|Thunder Wave|p2a: Macho man
+|-status|p2a: Macho man|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Macho man|28/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|69/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|i mean yeah but has 25 seconds left this turn.
+|
+|t:|1711940436
+|switch|p1a: Zapdos|Zapdos|60/100
+|-damage|p1a: Zapdos|35/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|switch|p2a: scis or that|Scizor, F|88/100
+|-damage|p2a: scis or that|76/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|29/100|[from] Sandstorm
+|-heal|p1a: Zapdos|35/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|i mean yeah but has 30 seconds left.
+|inactive|i mean yeah but has 20 seconds left.
+|inactive|i mean yeah but has 15 seconds left.
+|
+|t:|1711940457
+|switch|p2a: Macho man|Machamp, F|28/100 par
+|-damage|p2a: Macho man|21/100 par|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|85/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|79/100|[from] Sandstorm
+|-damage|p2a: Macho man|15/100 par|[from] Sandstorm
+|-heal|p1a: Zapdos|85/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|i mean yeah but has 25 seconds left this turn.
+|inactive|i mean yeah but has 20 seconds left.
+|inactive|i mean yeah but has 15 seconds left.
+|inactive|i mean yeah but has 10 seconds left.
+|inactive|i mean yeah but has 5 seconds left.
+|-message|i mean yeah but lost due to inactivity.
+|
+|win|Magolorian10
+|raw|Magolorian10's rating: 1444 &rarr; <strong>1458</strong><br />(+14 for winning)
+|raw|i mean yeah but's rating: 1336 &rarr; <strong>1322</strong><br />(-14 for losing)

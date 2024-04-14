@@ -1,0 +1,12 @@
+p1: Switched to Arbok
+p2: Switched to Alcremie-Salted-Cream
+Turn 1:
+p1: Arbok used Coil on Arbok
+p2: Alcremie-Salted-Cream used Acid Armor on Alcremie-Salted-Cream
+Turn 2:
+p1: Arbok used Knock Off on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Acid Armor on Alcremie-Salted-Cream
+Turn 3:
+p1: Arbok used Coil on Arbok
+p2: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
+Turn 4:

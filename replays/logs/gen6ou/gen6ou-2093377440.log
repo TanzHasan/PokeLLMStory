@@ -1,0 +1,79 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'orasz'.</div>
+|j|☆greninja the g
+|j|☆ORASZ Ruffles
+|t:|1711947186
+|gametype|singles
+|player|p1|greninja the g|archie-gen6|1332
+|player|p2|ORASZ Ruffles|benga|1623
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|clearpoke
+|poke|p1|Shuckle, F|item
+|poke|p1|Medicham, F|item
+|poke|p1|Dragonite, M|item
+|poke|p1|Serperior, M|item
+|poke|p1|Bisharp, M|item
+|poke|p1|Manaphy|item
+|poke|p2|Medicham, M|item
+|poke|p2|Bisharp, M|item
+|poke|p2|Seismitoad, M|item
+|poke|p2|Slowbro, M|item
+|poke|p2|Chansey, F|item
+|poke|p2|Zapdos|item
+|teampreview
+|
+|t:|1711947199
+|start
+|switch|p1a: Shuckle|Shuckle, F|100/100
+|switch|p2a: Naruto|Medicham, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ORASZ Ruffles)
+|
+|t:|1711947204
+|detailschange|p2a: Naruto|Medicham-Mega, M
+|-mega|p2a: Naruto|Medicham|Medichamite
+|move|p2a: Naruto|Fake Out|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|94/100
+|cant|p1a: Shuckle|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1711947211
+|move|p2a: Naruto|Zen Headbutt|p1a: Shuckle
+|-damage|p1a: Shuckle|53/100
+|cant|p1a: Shuckle|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1711947214
+|move|p2a: Naruto|High Jump Kick|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|
+|upkeep
+|c|☆greninja the g|dude
+|j| ORASZ Fakersao
+|-message|greninja the g forfeited.
+|
+|win|ORASZ Ruffles
+|raw|greninja the g's rating: 1332 &rarr; <strong>1326</strong><br />(-6 for losing)
+|raw|ORASZ Ruffles's rating: 1629 &rarr; <strong>1635</strong><br />(+6 for winning)
+|l|☆greninja the g
+|player|p1|
+|l|☆ORASZ Ruffles
+|player|p2|

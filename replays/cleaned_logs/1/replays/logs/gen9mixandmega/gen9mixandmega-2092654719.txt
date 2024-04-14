@@ -1,0 +1,80 @@
+p1: Switched to Inteleon
+p2: Switched to Swalot
+Turn 1:
+p2: Switched to Sinistcha
+p1: Inteleon used Scald on Sinistcha
+Turn 2:
+p1: Switched to Weezing-Galar
+p2: Sinistcha used Matcha Gotcha on Weezing-Galar
+Turn 3:
+p2: Switched to Swalot
+p1: Weezing-Galar used Toxic on Swalot
+Turn 4:
+p2: Swalot used Swords Dance on Swalot
+p1: Weezing-Galar used Will-O-Wisp on Swalot
+Turn 5:
+p2: Swalot used Encore on Weezing-Galar
+p1: Weezing-Galar used Will-O-Wisp on Swalot
+Turn 6:
+p1: Switched to Salamence
+p2: Swalot used Swords Dance on Swalot
+Turn 7:
+p1: Switched to Weezing-Galar
+p2: Swalot used Gunk Shot on Weezing-Galar
+Turn 8:
+p2: Swalot used Gunk Shot on Weezing-Galar
+p1: Weezing-Galar used Haze on Weezing-Galar
+Turn 9:
+p2: Swalot used Swords Dance on Swalot
+p1: Weezing-Galar used Pain Split on Swalot
+Turn 10:
+p2: Swalot used Gunk Shot on Weezing-Galar
+p1: Weezing-Galar used Haze on Weezing-Galar
+Turn 11:
+p2: Swalot used Swords Dance on Swalot
+p1: Weezing-Galar used Haze on Weezing-Galar
+Turn 12:
+p2: Swalot used Gunk Shot on Weezing-Galar
+p1: Weezing-Galar used Haze on Weezing-Galar
+Turn 13:
+p1: Switched to Kingambit
+p2: Swalot used Gunk Shot on Kingambit
+Turn 14:
+p1: Switched to Weezing-Galar
+p2: Swalot used Earthquake on Weezing-Galar
+Turn 15:
+p2: Swalot used Gunk Shot on Weezing-Galar
+p1: Weezing-Galar used Haze on Weezing-Galar
+p2: Swalot fainted
+p2: Switched to Staraptor
+Turn 16:
+p2: Staraptor used Double-Edge on Weezing-Galar
+p1: Weezing-Galar fainted
+p1: Switched to Gastrodon
+Turn 17:
+p2: Staraptor used Double-Edge on Gastrodon
+p1: Gastrodon used Ice Beam on Staraptor
+p2: Staraptor fainted
+p2: Switched to Noivern
+Turn 18:
+p2: Noivern used Boomburst on Gastrodon
+p1: Gastrodon fainted
+p1: Switched to Kingambit
+Turn 19:
+p2: Noivern used Boomburst on Kingambit
+p1: Kingambit used Iron Head on Noivern
+p2: Noivern fainted
+p2: Switched to Skeledirge
+Turn 20:
+p1: Kingambit used Sucker Punch on Skeledirge
+p2: Skeledirge fainted
+p2: Switched to Sinistcha
+Turn 21:
+p1: Kingambit failed to use Sucker Punch
+p2: Sinistcha used Strength Sap on Kingambit
+Turn 22:
+p1: Kingambit used Sucker Punch on Sinistcha
+p2: Sinistcha used Matcha Gotcha on Kingambit
+Turn 23:
+p1: Kingambit used Kowtow Cleave on Sinistcha
+p2: Sinistcha fainted

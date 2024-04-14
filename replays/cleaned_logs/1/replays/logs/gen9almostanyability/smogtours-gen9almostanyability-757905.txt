@@ -1,0 +1,129 @@
+p1: Switched to Gholdengo
+p2: Switched to Ting-Lu
+Turn 1:
+p1: Gholdengo used Trick on Ting-Lu
+p2: Ting-Lu used Spikes on Gholdengo
+Turn 2:
+p2: Switched to Empoleon
+p1: Gholdengo used Shadow Ball on Empoleon
+Turn 3:
+p1: Switched to Manaphy
+p2: Empoleon used Knock Off on Manaphy
+Turn 4:
+p1: Manaphy used Scald on Empoleon
+p2: Empoleon used Stealth Rock on Manaphy
+Turn 5:
+p1: Manaphy used Scald on Empoleon
+p2: Empoleon used Flip Turn on Manaphy
+p2: Switched to Meowscarada
+Turn 6:
+p1: Switched to Corviknight
+p2: Meowscarada used Dark Pulse on Corviknight
+Turn 7:
+p1: Switched to Kingambit
+p2: Meowscarada used Dark Pulse on Kingambit
+Turn 8:
+p2: Switched to Corviknight
+p1: Kingambit used Swords Dance on Kingambit
+Turn 9:
+p1: Switched to Zapdos
+p2: Corviknight used U-turn on Zapdos
+p2: Switched to Zamazenta
+Turn 10:
+p1: Switched to Manaphy
+p2: Zamazenta used Stone Edge on Manaphy
+Turn 11:
+p2: Switched to Pecharunt
+p1: Manaphy used U-turn on Pecharunt
+p1: Switched to Heatran
+Turn 12:
+p1: Heatran used Stealth Rock on Pecharunt
+p2: Pecharunt used Parting Shot on Heatran
+p2: Switched to Zamazenta
+Turn 13:
+p1: Switched to Corviknight
+p2: Zamazenta used Close Combat on Corviknight
+p1: Corviknight fainted
+p1: Switched to Zapdos
+Turn 14:
+p2: Switched to Ting-Lu
+p1: Zapdos used Thunder on Ting-Lu
+Turn 15:
+p1: Zapdos used Weather Ball on Ting-Lu
+p2: Ting-Lu used Spikes on Zapdos
+Turn 16:
+p2: Switched to Corviknight
+p1: Zapdos used Thunder on Corviknight
+Turn 17:
+p2: Switched to Ting-Lu
+p1: Zapdos used Thunder on Ting-Lu
+Turn 18:
+p1: Zapdos used Hurricane on Ting-Lu
+p2: Ting-Lu used Ruination on Zapdos
+Turn 19:
+p2: Switched to Pecharunt
+p1: Zapdos used Roost on Zapdos
+Turn 20:
+p1: Switched to Manaphy
+p2: Pecharunt used Parting Shot on Manaphy
+p2: Switched to Meowscarada
+Turn 21:
+p1: Switched to Kingambit
+p2: Meowscarada used Knock Off on Kingambit
+Turn 22:
+p2: Switched to Ting-Lu
+p1: Kingambit failed to use Sucker Punch
+Turn 23:
+p2: Ting-Lu used Earthquake on Kingambit
+p1: Kingambit fainted
+p1: Switched to Zapdos
+Turn 24:
+p2: Switched to Corviknight
+p1: Zapdos used Thunder on Corviknight
+p2: Corviknight fainted
+p2: Switched to Zamazenta
+Turn 25:
+p1: Switched to Manaphy
+p2: Zamazenta used Crunch on Manaphy
+Turn 26:
+p2: Switched to Ting-Lu
+p1: Manaphy used U-turn on Ting-Lu
+p1: Switched to Zapdos
+Turn 27:
+p2: Switched to Empoleon
+p1: Zapdos used Weather Ball on Empoleon
+Turn 28:
+p1: Zapdos used Thunder on Empoleon
+p2: Empoleon used Flip Turn on Zapdos
+p2: Switched to Meowscarada
+Turn 29:
+p1: Switched to Manaphy
+p2: Meowscarada used Knock Off on Manaphy
+Turn 30:
+p2: Meowscarada used Knock Off on Manaphy
+p1: Manaphy fainted
+p1: Switched to Heatran
+Turn 31:
+p2: Switched to Pecharunt
+p1: Heatran used Magma Storm on Pecharunt
+Turn 32:
+p1: Heatran failed to use Solar Beam
+p2: Pecharunt used Shadow Ball on Heatran
+Turn 33:
+p1: Switched to Zapdos
+p2: Pecharunt used Parting Shot on Zapdos
+p2: Switched to Meowscarada
+Turn 34:
+p1: Switched to Heatran
+p2: Meowscarada used Knock Off on Heatran
+p1: Heatran fainted
+p1: Switched to Gholdengo
+Turn 35:
+p2: Meowscarada used Knock Off on Gholdengo
+p1: Gholdengo fainted
+p2: Meowscarada fainted
+p2: Switched to Zamazenta
+p1: Switched to Zapdos
+Turn 36:
+p2: Zamazenta used Stone Edge on Zapdos
+p1: Zapdos fainted

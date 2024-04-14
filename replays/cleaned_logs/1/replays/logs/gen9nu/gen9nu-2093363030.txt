@@ -1,0 +1,95 @@
+p1: Switched to Thundurus
+p2: Switched to Infernape
+Turn 1:
+p1: Thundurus used Volt Switch on Infernape
+p1: Switched to Hitmontop
+p2: Infernape used Flare Blitz on Hitmontop
+p2: Infernape fainted
+p2: Switched to Talonflame
+Turn 2:
+p1: Switched to Gastrodon-East
+p2: Talonflame used Air Slash on Gastrodon-East
+Turn 3:
+p2: Switched to Whimsicott
+p1: Gastrodon-East used Stealth Rock on Whimsicott
+Turn 4:
+p1: Switched to Arcanine
+p2: Whimsicott used Moonblast on Arcanine
+Turn 5:
+p2: Whimsicott used Stun Spore on Arcanine
+p1: Arcanine used Will-O-Wisp on Whimsicott
+Turn 6:
+p1: Switched to Thundurus
+p2: Whimsicott used Stun Spore on Thundurus
+Turn 7:
+p2: Whimsicott used Moonblast on Thundurus
+p1: Thundurus used Sludge Wave on Whimsicott
+p2: Whimsicott fainted
+p2: Switched to Talonflame
+Turn 8:
+p1: Switched to Gastrodon-East
+p2: Talonflame used Defog on Gastrodon-East
+Turn 9:
+p2: Switched to Shaymin
+p1: Gastrodon-East used Stealth Rock on Shaymin
+Turn 10:
+p1: Switched to Arcanine
+p2: Shaymin used Seed Flare on Arcanine
+Turn 11:
+p1: Switched to Thundurus
+p2: Shaymin used Earth Power on Thundurus
+Turn 12:
+p1: Thundurus used Sludge Wave on Shaymin
+p2: Shaymin used Seed Flare on Thundurus
+Turn 13:
+p2: Shaymin used Quick Attack on Thundurus
+p1: Thundurus used Sludge Wave on Shaymin
+p2: Shaymin fainted
+p2: Switched to Talonflame
+Turn 14:
+p2: Talonflame used Air Slash on Thundurus
+p1: Thundurus fainted
+p1: Switched to Drednaw
+Turn 15:
+p2: Talonflame used Defog on Drednaw
+p1: Drednaw used Shell Smash on Drednaw
+Turn 16:
+p2: Talonflame used Air Slash on Drednaw
+p1: Drednaw used Shell Smash on Drednaw
+Turn 17:
+p2: Talonflame used Air Slash on Drednaw
+p1: Drednaw used Liquidation on Talonflame
+p2: Talonflame fainted
+p2: Switched to Mew
+Turn 18:
+p1: Drednaw used Crunch on Mew
+p2: Mew used Drain Punch on Drednaw
+p1: Drednaw fainted
+p1: Switched to Mienshao
+Turn 19:
+p1: Mienshao used U-turn on Mew
+p2: Mew fainted
+p1: Switched to Gastrodon-East
+p2: Switched to Minior
+Turn 20:
+p2: Minior used Shell Smash on Minior
+p1: Gastrodon-East used Clear Smog on Minior
+Turn 21:
+p2: Minior used Shell Smash on Minior
+p1: Gastrodon-East used Clear Smog on Minior
+Turn 22:
+p2: Minior used Acrobatics on Gastrodon-East
+p1: Gastrodon-East used Clear Smog on Minior
+Turn 23:
+p2: Minior used Shell Smash on Minior
+p1: Gastrodon-East used Clear Smog on Minior
+Turn 24:
+p2: Minior used Acrobatics on Gastrodon-East
+p1: Gastrodon-East fainted
+p1: Switched to Hitmontop
+Turn 25:
+p1: Hitmontop used Fake Out on Minior
+p2: Minior can't move
+Turn 26:
+p1: Hitmontop used Sucker Punch on Minior
+p2: Minior fainted

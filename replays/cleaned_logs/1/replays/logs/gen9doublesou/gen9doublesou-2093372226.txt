@@ -1,0 +1,81 @@
+p1: Switched to Indeedee
+p1: Switched to Talonflame
+p2: Switched to Incineroar
+p2: Switched to Scream Tail
+Turn 1:
+p2: Scream Tail used Helping Hand on Incineroar
+p1: Talonflame used Tailwind on Talonflame
+p1: Indeedee used Shadow Ball on Scream Tail
+p2: Incineroar used Knock Off on Indeedee
+p1: Indeedee fainted
+p1: Switched to Chien-Pao
+Turn 2:
+p1: Chien-Pao used Protect on Chien-Pao
+p1: Talonflame used Will-O-Wisp on Scream Tail
+p2: Scream Tail used Dazzling Gleam on Talonflame
+p2: Incineroar used Flare Blitz on Chien-Pao
+Turn 3:
+p1: Chien-Pao used Sacred Sword on Incineroar
+p1: Talonflame used Roost on Talonflame
+p2: Scream Tail used Noble Roar on Talonflame
+p2: Incineroar used Flare Blitz on Chien-Pao
+p1: Chien-Pao fainted
+p1: Switched to Chi-Yu
+Turn 4:
+p2: Switched to Gyarados
+p1: Talonflame used Protect on Talonflame
+p1: Chi-Yu used Dark Pulse on Gyarados
+p2: Scream Tail used Noble Roar on Talonflame
+Turn 5:
+p1: Talonflame used Tailwind on Talonflame
+p1: Chi-Yu used Dark Pulse on Gyarados
+p2: Gyarados fainted
+p2: Scream Tail used Noble Roar on Chi-Yu
+p2: Switched to Falinks
+Turn 6:
+p1: Chi-Yu used Dark Pulse on Scream Tail
+p1: Talonflame used Will-O-Wisp on Falinks
+p2: Scream Tail used Noble Roar on Chi-Yu
+p2: Falinks used No Retreat on Falinks
+Turn 7:
+p1: Switched to Lilligant-Hisui
+p1: Switched to Torkoal
+p2: Scream Tail used Helping Hand on Falinks
+p2: Falinks used Rock Slide on Lilligant-Hisui
+Turn 8:
+p1: Lilligant-Hisui used After You on Torkoal
+p1: Torkoal used Eruption on Scream Tail
+p2: Scream Tail fainted
+p2: Falinks used Rock Slide on Torkoal
+p2: Switched to Incineroar
+Turn 9:
+p1: Switched to Talonflame
+p1: Switched to Chi-Yu
+p2: Incineroar used Fake Out on Talonflame
+p2: Falinks used Close Combat on Chi-Yu
+p1: Chi-Yu fainted
+p1: Switched to Lilligant-Hisui
+Turn 10:
+p1: Lilligant-Hisui used Close Combat on Incineroar
+p2: Incineroar fainted
+p1: Talonflame used Tailwind on Talonflame
+p2: Falinks used Rock Slide on Lilligant-Hisui
+p2: Switched to Latios
+Turn 11:
+p1: Lilligant-Hisui used Close Combat on Falinks
+p2: Falinks fainted
+p1: Talonflame used Roost on Talonflame
+p2: Latios used Psych Up on p2: Falinks
+p2: Switched to Primarina
+Turn 12:
+p1: Switched to Torkoal
+p1: Talonflame used Will-O-Wisp on Latios
+p2: Latios used Luster Purge on Talonflame
+p2: Primarina used Hyper Voice on Talonflame
+p1: Talonflame fainted
+p1: Switched to Lilligant-Hisui
+Turn 13:
+p1: Lilligant-Hisui used Petal Blizzard on Primarina
+p1: Torkoal fainted
+p2: Latios used Luster Purge on Lilligant-Hisui
+p1: Lilligant-Hisui fainted

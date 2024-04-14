@@ -1,0 +1,28 @@
+p1: Switched to Greedent
+p2: Switched to Trevenant
+Turn 1:
+p2: Trevenant used Toxic on Greedent
+p1: Greedent used Swords Dance on Greedent
+Turn 2:
+p2: Trevenant used Protect on Trevenant
+p1: Greedent used Swords Dance on Greedent
+Turn 3:
+p2: Switched to Wo-Chien
+p1: Greedent used Knock Off on Wo-Chien
+Turn 4:
+p2: Wo-Chien used Knock Off on Greedent
+p1: Greedent used Swords Dance on Greedent
+Turn 5:
+p2: Wo-Chien used Protect on Wo-Chien
+p1: Greedent used Body Slam on Wo-Chien
+p1: Greedent fainted
+p1: Switched to Iron Bundle
+Turn 6:
+p2: Switched to Sandslash-Alola
+p1: Iron Bundle used Freeze-Dry on Sandslash-Alola
+Turn 7:
+p1: Switched to Gallade
+p2: Sandslash-Alola used Rapid Spin on Gallade
+Turn 8:
+p2: Sandslash-Alola used Triple Axel on Gallade
+p1: Gallade fainted

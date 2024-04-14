@@ -1,0 +1,74 @@
+p1: Switched to Garchomp
+p2: Switched to Rotom-Wash
+Turn 1:
+p2: Rotom-Wash used Trick on Garchomp
+p1: Garchomp used Swords Dance on Garchomp
+Turn 2:
+p1: Switched to Dragonite
+p2: Switched to Politoed
+Turn 3:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Politoed used Encore on Dragonite
+Turn 4:
+p1: Switched to Garchomp
+p2: Switched to Starmie
+Turn 5:
+p2: Switched to Ferrothorn
+p1: Garchomp used Dragon Claw on Ferrothorn
+Turn 6:
+p1: Switched to Ferrothorn
+p2: Ferrothorn used Stealth Rock on Ferrothorn
+Turn 7:
+p1: Switched to Mamoswine
+p2: Ferrothorn used Thunder Wave on Mamoswine
+Turn 8:
+p2: Ferrothorn used Protect on Ferrothorn
+p1: Mamoswine used Icicle Crash on Ferrothorn
+Turn 9:
+p1: Mamoswine used Icicle Crash on Ferrothorn
+p2: Ferrothorn used Leech Seed on Mamoswine
+Turn 10:
+p1: Mamoswine used Earthquake on Ferrothorn
+p2: Ferrothorn used Thunder Wave on Mamoswine
+Turn 11:
+p1: Switched to Volcarona
+p2: Ferrothorn failed to use Protect
+Turn 12:
+p2: Switched to Latios
+p1: Volcarona used Fiery Dance on Latios
+Turn 13:
+p1: Switched to Garchomp
+p2: Latios used Surf on Garchomp
+Turn 14:
+p2: Latios used Surf on Garchomp
+p1: Garchomp fainted
+p1: Switched to Cloyster
+Turn 15:
+p2: Latios used Surf on Cloyster
+p1: Cloyster used Shell Smash on Cloyster
+Turn 16:
+p2: Switched to Scizor
+p1: Cloyster used Icicle Spear on Scizor
+Turn 17:
+p1: Switched to Ferrothorn
+p2: Scizor used Bullet Punch on Ferrothorn
+Turn 18:
+p2: Switched to Ferrothorn
+p1: Ferrothorn used Toxic on Ferrothorn
+Turn 19:
+p1: Switched to Volcarona
+p2: Ferrothorn used Thunder Wave on Volcarona
+Turn 20:
+p2: Switched to Rotom-Wash
+p1: Volcarona can't move
+Turn 21:
+p2: Rotom-Wash used Thunder on Volcarona
+p1: Volcarona fainted
+p1: Switched to Mamoswine
+Turn 22:
+p2: Rotom-Wash used Trick on Mamoswine
+p1: Mamoswine used Icicle Crash on Rotom-Wash
+Turn 23:
+p2: Switched to Ferrothorn
+p1: Mamoswine used Superpower on Ferrothorn
+Turn 24:

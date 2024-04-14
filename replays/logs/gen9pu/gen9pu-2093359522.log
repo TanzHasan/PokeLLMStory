@@ -1,0 +1,267 @@
+|j|☆GG WENTWORTH
+|j|☆Ermacro
+|t:|1711944273
+|gametype|singles
+|player|p1|GG WENTWORTH|petrel|1111
+|player|p2|Ermacro|whitney|1274
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Morpeko, F|
+|poke|p1|Scyther, M|
+|poke|p1|Decidueye-Hisui, M|
+|poke|p1|Charizard, M|
+|poke|p1|Lapras, M|
+|poke|p1|Hoopa|
+|poke|p2|Porygon2|
+|poke|p2|Dudunsparce-*, M|
+|poke|p2|Ampharos, F|
+|poke|p2|Shaymin|
+|poke|p2|Glastrier|
+|poke|p2|Carbink|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ermacro)
+|
+|t:|1711944306
+|start
+|switch|p1a: Lawful Hood🏰🏹|Decidueye-Hisui, M, shiny|100/100
+|switch|p2a: Carbink|Carbink, shiny|100/100
+|turn|1
+|
+|t:|1711944332
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2a: Carbink
+|-damage|p2a: Carbink|73/100
+|-unboost|p2a: Carbink|def|1
+|move|p2a: Carbink|Trick Room|p2a: Carbink
+|-fieldstart|move: Trick Room|[of] p2a: Carbink
+|
+|upkeep
+|turn|2
+|
+|t:|1711944340
+|move|p2a: Carbink|Misty Explosion|p1a: Lawful Hood🏰🏹
+|-supereffective|p1a: Lawful Hood🏰🏹
+|-damage|p1a: Lawful Hood🏰🏹|62/100
+|faint|p2a: Carbink
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2: Carbink|[notarget]
+|-fail|p1a: Lawful Hood🏰🏹
+|
+|upkeep
+|
+|t:|1711944349
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|3
+|
+|t:|1711944360
+|switch|p1a: TORPEDO ➖💥|Morpeko, F|100/100
+|-terastallize|p2a: Glastrier|Dragon
+|move|p2a: Glastrier|Swords Dance|p2a: Glastrier
+|-boost|p2a: Glastrier|atk|2
+|
+|-formechange|p1a: TORPEDO ➖💥|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|4
+|
+|t:|1711944372
+|move|p1a: TORPEDO ➖💥|Fake Out|p2a: Glastrier
+|-damage|p2a: Glastrier|95/100
+|cant|p2a: Glastrier|flinch
+|
+|-formechange|p1a: TORPEDO ➖💥|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|5
+|
+|t:|1711944384
+|move|p2a: Glastrier|Icicle Crash|p1a: TORPEDO ➖💥
+|-damage|p1a: TORPEDO ➖💥|0 fnt
+|faint|p1a: TORPEDO ➖💥
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1711944389
+|switch|p1a: LAPASAURUS REX🦖|Lapras, M|100/100
+|turn|6
+|
+|t:|1711944398
+|move|p1a: LAPASAURUS REX🦖|Icicle Spear|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|81/100
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|66/100
+|-supereffective|p2a: Glastrier
+|-crit|p2a: Glastrier
+|-damage|p2a: Glastrier|42/100
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|26/100
+|-hitcount|p2a: Glastrier|4
+|move|p2a: Glastrier|High Horsepower|p1a: LAPASAURUS REX🦖
+|-damage|p1a: LAPASAURUS REX🦖|9/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711944411
+|move|p1a: LAPASAURUS REX🦖|Icicle Spear|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|11/100
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|-hitcount|p2: Glastrier|2
+|
+|upkeep
+|
+|t:|1711944430
+|switch|p2a: Dudunsparce|Dudunsparce, M|100/100
+|turn|8
+|
+|t:|1711944450
+|move|p1a: LAPASAURUS REX🦖|Icicle Spear|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|88/100
+|-damage|p2a: Dudunsparce|76/100
+|-damage|p2a: Dudunsparce|64/100
+|-damage|p2a: Dudunsparce|54/100
+|-damage|p2a: Dudunsparce|43/100
+|-hitcount|p2a: Dudunsparce|5
+|move|p2a: Dudunsparce|Agility|p2a: Dudunsparce
+|-boost|p2a: Dudunsparce|spe|2
+|
+|upkeep
+|turn|9
+|
+|t:|1711944464
+|switch|p1a: Lawful Hood🏰🏹|Decidueye-Hisui, M, shiny|62/100
+|move|p2a: Dudunsparce|Boomburst|p1a: Lawful Hood🏰🏹
+|-damage|p1a: Lawful Hood🏰🏹|10/100
+|-enditem|p2a: Dudunsparce|Throat Spray
+|-boost|p2a: Dudunsparce|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|turn|10
+|
+|t:|1711944476
+|move|p2a: Dudunsparce|Shadow Ball|p1a: Lawful Hood🏰🏹
+|-damage|p1a: Lawful Hood🏰🏹|0 fnt
+|faint|p1a: Lawful Hood🏰🏹
+|
+|upkeep
+|
+|t:|1711944488
+|switch|p1a: $PECIAL K 📦|Charizard, M|100/100
+|turn|11
+|
+|t:|1711944509
+|move|p2a: Dudunsparce|Boomburst|p1a: $PECIAL K 📦
+|-enditem|p1a: $PECIAL K 📦|Focus Sash
+|-damage|p1a: $PECIAL K 📦|1/100
+|move|p1a: $PECIAL K 📦|Flamethrower|p2a: Dudunsparce
+|-damage|p2a: Dudunsparce|0 fnt
+|faint|p2a: Dudunsparce
+|
+|upkeep
+|
+|t:|1711944524
+|switch|p2a: Ampharos|Ampharos, F, shiny|100/100
+|turn|12
+|
+|t:|1711944531
+|move|p1a: $PECIAL K 📦|Scorching Sands|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-damage|p2a: Ampharos|49/100
+|-status|p2a: Ampharos|brn
+|move|p2a: Ampharos|Agility|p2a: Ampharos
+|-boost|p2a: Ampharos|spe|2
+|
+|-damage|p2a: Ampharos|43/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711944543
+|move|p2a: Ampharos|Meteor Beam||[still]
+|-prepare|p2a: Ampharos|Meteor Beam
+|-boost|p2a: Ampharos|spa|1
+|-enditem|p2a: Ampharos|Power Herb
+|-anim|p2a: Ampharos|Meteor Beam|p1a: $PECIAL K 📦|[miss]
+|-miss|p2a: Ampharos|p1a: $PECIAL K 📦
+|move|p1a: $PECIAL K 📦|Scorching Sands|p2a: Ampharos
+|-supereffective|p2a: Ampharos
+|-damage|p2a: Ampharos|0 fnt
+|faint|p2a: Ampharos
+|
+|upkeep
+|
+|t:|1711944556
+|switch|p2a: Porygon2|Porygon2, shiny|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|14
+|
+|t:|1711944567
+|move|p1a: $PECIAL K 📦|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|63/100
+|move|p2a: Porygon2|Charge Beam|p1a: $PECIAL K 📦|[miss]
+|-miss|p2a: Porygon2|p1a: $PECIAL K 📦
+|
+|upkeep
+|turn|15
+|
+|t:|1711944582
+|move|p1a: $PECIAL K 📦|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|25/100
+|move|p2a: Porygon2|Charge Beam|p1a: $PECIAL K 📦
+|-supereffective|p1a: $PECIAL K 📦
+|-damage|p1a: $PECIAL K 📦|0 fnt
+|-boost|p2a: Porygon2|spa|1
+|faint|p1a: $PECIAL K 📦
+|
+|upkeep
+|
+|t:|1711944595
+|switch|p1a: HOL ON PLAYA 📋👔|Hoopa|100/100
+|turn|16
+|
+|t:|1711944618
+|move|p1a: HOL ON PLAYA 📋👔|Psychic|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|upkeep
+|
+|t:|1711944624
+|switch|p2a: Shaymin|Shaymin|100/100
+|turn|17
+|
+|t:|1711944638
+|-terastallize|p1a: HOL ON PLAYA 📋👔|Stellar
+|move|p1a: HOL ON PLAYA 📋👔|Psychic|p2a: Shaymin
+|-damage|p2a: Shaymin|35/100
+|move|p2a: Shaymin|Seed Flare|p1a: HOL ON PLAYA 📋👔
+|-damage|p1a: HOL ON PLAYA 📋👔|42/100
+|-damage|p2a: Shaymin|25/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1711944650
+|move|p1a: HOL ON PLAYA 📋👔|Psychic|p2a: Shaymin
+|-damage|p2a: Shaymin|0 fnt
+|faint|p2a: Shaymin
+|
+|win|GG WENTWORTH
+|raw|GG WENTWORTH's rating: 1111 &rarr; <strong>1147</strong><br />(+36 for winning)
+|raw|Ermacro's rating: 1274 &rarr; <strong>1238</strong><br />(-36 for losing)
+|l|☆Ermacro
+|player|p2|

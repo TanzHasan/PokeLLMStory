@@ -1,0 +1,482 @@
+|j|☆Palitor
+|j|☆yerpptheder
+|t:|1711937599
+|gametype|singles
+|player|p1|Palitor|brawly|1257
+|player|p2|yerpptheder|miku-ground|1118
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711937599
+|start
+|switch|p1a: Zarude|Zarude-Dada, L78|292/292
+|switch|p2a: Pyukumuku|Pyukumuku, L85, F|232/232
+|turn|1
+|
+|t:|1711937614
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711937647
+|switch|p1a: Politoed|Politoed, L86, F|295/295
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Whimsicott|Moonblast|p1a: Politoed
+|-damage|p1a: Politoed|220/295
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711937659
+|move|p2a: Whimsicott|U-turn|p1a: Politoed
+|-damage|p1a: Politoed|180/295
+|
+|t:|1711937660
+|switch|p2a: Tsareena|Tsareena, L84, F|258/258|[from] U-turn
+|move|p1a: Politoed|Toxic|p2a: Tsareena
+|-status|p2a: Tsareena|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Tsareena|242/258 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711937679
+|switch|p1a: Zarude|Zarude-Dada, L78|292/292
+|move|p2a: Tsareena|Power Whip|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|223/292
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zarude|241/292|[from] item: Leftovers
+|-damage|p2a: Tsareena|210/258 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711937691
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|move|p2a: Tsareena|Triple Axel|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|217/292
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|173/292
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|107/292
+|-hitcount|p1a: Zarude|3
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zarude|125/292|[from] item: Leftovers
+|-damage|p2a: Tsareena|162/258 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711937707
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|move|p1a: Zarude|Jungle Healing|p1a: Zarude
+|-heal|p1a: Zarude|198/292
+|
+|-weather|none
+|-heal|p1a: Zarude|216/292|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711937722
+|switch|p1a: Politoed|Politoed, L86, F|180/295
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Whimsicott|Energy Ball|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|30/295
+|-unboost|p1a: Politoed|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|inactive|Palitor has 120 seconds left.
+|
+|t:|1711937760
+|switch|p1a: Lopunny|Lopunny, L93, F|272/272
+|move|p2a: Whimsicott|U-turn|p1a: Lopunny
+|-damage|p1a: Lopunny|235/272
+|
+|t:|1711937766
+|switch|p2a: Landorus|Landorus-Therian, L72, M|247/247|[from] U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Lopunny|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-status|p1a: Lopunny|tox|[from] item: Toxic Orb
+|upkeep
+|turn|9
+|
+|t:|1711937794
+|move|p1a: Lopunny|Facade|p2a: Landorus
+|-damage|p2a: Landorus|124/247
+|move|p2a: Landorus|Stealth Rock|p1a: Lopunny
+|-sidestart|p1: Palitor|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Lopunny|218/272 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711937803
+|move|p1a: Lopunny|Facade|p2a: Landorus
+|-damage|p2a: Landorus|16/247
+|move|p2a: Landorus|Earthquake|p1a: Lopunny
+|-damage|p1a: Lopunny|78/272 tox
+|-damage|p2a: Landorus|0 fnt|[from] item: Life Orb
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Lopunny|44/272 tox|[from] psn
+|upkeep
+|
+|t:|1711937818
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|turn|11
+|inactive|Palitor has 90 seconds left.
+|
+|t:|1711937845
+|switch|p2a: Tsareena|Tsareena, L84, F|162/258 tox
+|move|p1a: Lopunny|Healing Wish|p1a: Lopunny
+|faint|p1a: Lopunny
+|
+|-weather|none
+|-damage|p2a: Tsareena|146/258 tox|[from] psn
+|upkeep
+|inactive|Palitor has 90 seconds left.
+|
+|t:|1711937857
+|switch|p1a: Politoed|Politoed, L86, F|30/295
+|-heal|p1a: Politoed|295/295|[from] move: Healing Wish
+|-damage|p1a: Politoed|259/295|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|12
+|inactive|Palitor has 90 seconds left.
+|
+|t:|1711937877
+|switch|p1a: Thievul|Thievul, L89, F|269/269
+|-damage|p1a: Thievul|236/269|[from] Stealth Rock
+|move|p2a: Tsareena|Power Whip|p1a: Thievul|[miss]
+|-miss|p2a: Tsareena|p1a: Thievul
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Thievul|252/269|[from] item: Leftovers
+|-damage|p2a: Tsareena|114/258 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711937900
+|move|p1a: Thievul|Psychic|p2a: Tsareena
+|-damage|p2a: Tsareena|69/258 tox
+|move|p2a: Tsareena|U-turn|p1a: Thievul
+|-supereffective|p1a: Thievul
+|-damage|p1a: Thievul|98/269
+|
+|t:|1711937911
+|switch|p2a: Metagross|Metagross, L78|253/253|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Thievul|114/269|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711937933
+|move|p1a: Thievul|Dark Pulse|p2a: Metagross
+|-supereffective|p2a: Metagross
+|-crit|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Thievul|130/269|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937936
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|turn|15
+|
+|t:|1711937946
+|move|p2a: Whimsicott|Moonblast|p1a: Thievul
+|-supereffective|p1a: Thievul
+|-damage|p1a: Thievul|0 fnt
+|faint|p1a: Thievul
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711937955
+|switch|p1a: Dragalge|Dragalge, L87, F|255/255
+|-damage|p1a: Dragalge|224/255|[from] Stealth Rock
+|turn|16
+|
+|t:|1711937963
+|move|p2a: Whimsicott|U-turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|207/255
+|
+|t:|1711937965
+|switch|p2a: Tsareena|Tsareena, L84, F|69/258 tox|[from] U-turn
+|move|p1a: Dragalge|Sludge Wave|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|-weather|none
+|-heal|p1a: Dragalge|222/255|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711937968
+|switch|p2a: Cresselia|Cresselia, L80, F|323/323
+|turn|17
+|inactive|Palitor has 90 seconds left.
+|
+|t:|1711937993
+|switch|p1a: Politoed|Politoed, L86, F|259/295
+|-damage|p1a: Politoed|223/295|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Cresselia|Calm Mind|p2a: Cresselia
+|-boost|p2a: Cresselia|spa|1
+|-boost|p2a: Cresselia|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1711938004
+|-start|p2a: Cresselia|Dynamax|
+|-heal|p2a: Cresselia|646/646|[silent]
+|move|p2a: Cresselia|Max Starfall|p1a: Politoed
+|-damage|p1a: Politoed|130/295
+|-fieldstart|move: Misty Terrain
+|move|p1a: Politoed|Toxic|p2a: Cresselia
+|-status|p2a: Cresselia|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Cresselia|626/646 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711938017
+|move|p2a: Cresselia|Max Mindstorm|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|-fieldstart|move: Psychic Terrain
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Cresselia|646/646 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|606/646 tox|[from] psn
+|upkeep
+|inactive|Palitor has 60 seconds left.
+|
+|t:|1711938039
+|switch|p1a: Zarude|Zarude-Dada, L78|216/292
+|-damage|p1a: Zarude|180/292|[from] Stealth Rock
+|turn|20
+|inactive|Palitor has 60 seconds left.
+|
+|t:|1711938046
+|-start|p1a: Zarude|Dynamax|
+|-heal|p1a: Zarude|360/584|[silent]
+|move|p1a: Zarude|Max Darkness|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|366/646 tox
+|-unboost|p2a: Cresselia|spd|1
+|move|p2a: Cresselia|Max Starfall|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|134/584
+|-fieldstart|move: Misty Terrain
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zarude|152/584|[from] item: Leftovers
+|-heal|p2a: Cresselia|386/646 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|326/646 tox|[from] psn
+|upkeep
+|-end|p2a: Cresselia|Dynamax
+|-heal|p2a: Cresselia|163/323 tox|[silent]
+|turn|21
+|inactive|Palitor has 60 seconds left.
+|
+|t:|1711938066
+|switch|p2a: Whimsicott|Whimsicott, L84, F|238/238
+|move|p1a: Zarude|Max Darkness|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|159/238
+|-unboost|p2a: Whimsicott|spd|1
+|
+|-weather|none
+|-heal|p2a: Whimsicott|173/238|[from] item: Leftovers
+|-heal|p1a: Zarude|170/584|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711938083
+|move|p2a: Whimsicott|Moonblast|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|-heal|p2a: Whimsicott|187/238|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938091
+|switch|p1a: Dragalge|Dragalge, L87, F|222/255
+|-damage|p1a: Dragalge|191/255|[from] Stealth Rock
+|turn|23
+|
+|t:|1711938097
+|move|p2a: Whimsicott|U-turn|p1a: Dragalge
+|-resisted|p1a: Dragalge
+|-damage|p1a: Dragalge|172/255
+|
+|t:|1711938099
+|switch|p2a: Cresselia|Cresselia, L80, F|163/323 tox|[from] U-turn
+|move|p1a: Dragalge|Sludge Wave|p2a: Cresselia
+|-damage|p2a: Cresselia|47/323 tox
+|
+|-heal|p2a: Cresselia|67/323 tox|[from] item: Leftovers
+|-heal|p1a: Dragalge|187/255|[from] item: Black Sludge
+|-damage|p2a: Cresselia|47/323 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|Palitor has 60 seconds left.
+|
+|t:|1711938119
+|switch|p1a: Druddigon|Druddigon, L84, M|267/267
+|-damage|p1a: Druddigon|234/267|[from] Stealth Rock
+|-ability|p1a: Druddigon|Mold Breaker
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|208/323 tox
+|
+|-heal|p2a: Cresselia|228/323 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|188/323 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|25
+|
+|t:|1711938138
+|switch|p2a: Pyukumuku|Pyukumuku, L85, F|232/232
+|move|p1a: Druddigon|Outrage|p2a: Pyukumuku
+|-damage|p2a: Pyukumuku|102/232
+|-damage|p1a: Druddigon|208/267|[from] item: Life Orb
+|
+|-heal|p2a: Pyukumuku|116/232|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711938153
+|switch|p2a: Whimsicott|Whimsicott, L84, F|187/238
+|move|p1a: Druddigon|Outrage|p2a: Whimsicott|[from]lockedmove
+|-immune|p2a: Whimsicott
+|
+|-heal|p2a: Whimsicott|201/238|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711938169
+|move|p2a: Whimsicott|Moonblast|p1a: Druddigon
+|-supereffective|p1a: Druddigon
+|-damage|p1a: Druddigon|44/267
+|move|p1a: Druddigon|Glare|p2a: Whimsicott
+|-status|p2a: Whimsicott|par
+|
+|-heal|p2a: Whimsicott|215/238 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711938182
+|switch|p1a: Dragalge|Dragalge, L87, F|187/255
+|-damage|p1a: Dragalge|156/255|[from] Stealth Rock
+|move|p2a: Whimsicott|Moonblast|p1a: Dragalge
+|-damage|p1a: Dragalge|95/255
+|
+|-heal|p1a: Dragalge|110/255|[from] item: Black Sludge
+|-heal|p2a: Whimsicott|229/238 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938204
+|switch|p2a: Cresselia|Cresselia, L80, F|188/323 tox
+|move|p1a: Dragalge|Draco Meteor|p2a: Cresselia
+|-damage|p2a: Cresselia|34/323 tox
+|-unboost|p1a: Dragalge|spa|2
+|
+|-heal|p2a: Cresselia|54/323 tox|[from] item: Leftovers
+|-heal|p1a: Dragalge|125/255|[from] item: Black Sludge
+|-damage|p2a: Cresselia|34/323 tox|[from] psn
+|upkeep
+|turn|30
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938216
+|switch|p1a: Druddigon|Druddigon, L84, M|44/267
+|-damage|p1a: Druddigon|11/267|[from] Stealth Rock
+|-ability|p1a: Druddigon|Mold Breaker
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|195/323 tox
+|
+|-heal|p2a: Cresselia|215/323 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|175/323 tox|[from] psn
+|upkeep
+|turn|31
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938231
+|switch|p2a: Pyukumuku|Pyukumuku, L85, F|116/232
+|move|p1a: Druddigon|Outrage|p2a: Pyukumuku
+|-damage|p2a: Pyukumuku|0 fnt
+|faint|p2a: Pyukumuku
+|-damage|p1a: Druddigon|0 fnt|[from] item: Life Orb
+|faint|p1a: Druddigon
+|
+|upkeep
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938241
+|switch|p1a: Dragalge|Dragalge, L87, F|125/255
+|switch|p2a: Cresselia|Cresselia, L80, F|175/323 tox
+|-damage|p1a: Dragalge|94/255|[from] Stealth Rock
+|turn|32
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938250
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|323/323 tox
+|move|p1a: Dragalge|Draco Meteor|p2a: Cresselia
+|-damage|p2a: Cresselia|179/323 tox
+|-unboost|p1a: Dragalge|spa|2
+|
+|-heal|p2a: Cresselia|199/323 tox|[from] item: Leftovers
+|-heal|p1a: Dragalge|109/255|[from] item: Black Sludge
+|-damage|p2a: Cresselia|179/323 tox|[from] psn
+|upkeep
+|turn|33
+|inactive|Palitor has 30 seconds left.
+|
+|t:|1711938262
+|move|p2a: Cresselia|Psyshock|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|
+|win|yerpptheder
+|raw|Palitor's rating: 1257 &rarr; <strong>1222</strong><br />(-35 for losing)
+|raw|yerpptheder's rating: 1118 &rarr; <strong>1153</strong><br />(+35 for winning)
+|l|☆Palitor
+|player|p1|

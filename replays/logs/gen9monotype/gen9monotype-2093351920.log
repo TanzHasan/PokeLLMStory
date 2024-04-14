@@ -1,0 +1,186 @@
+|j|☆Whitespaniard
+|j|☆Liliacae
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711943126
+|gametype|singles
+|player|p1|Whitespaniard|cynthia|
+|player|p2|Liliacae|caitlin|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Monotype
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Same Type Clause: Pokémon in a team must share a type
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Gardevoir, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Indeedee, M|
+|poke|p1|Armarouge, F|
+|poke|p1|Iron Boulder|
+|poke|p2|Tyranitar, M|
+|poke|p2|Ogerpon-Cornerstone, F|
+|poke|p2|Rhyperior, F|
+|poke|p2|Iron Boulder|
+|poke|p2|Terrakion|
+|poke|p2|Coalossal, F|
+|teampreview
+|inactive|Whitespaniard also wants the timer to be on.
+|j| endallbeallball
+|inactive|Whitespaniard has 120 seconds left.
+|inactive|Liliacae has 120 seconds left.
+|c|☆Whitespaniard|Looks like a normal mono game
+|
+|t:|1711943181
+|start
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-ability|p1a: Deoxys|Pressure
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|inactive|Liliacae has 120 seconds left.
+|
+|t:|1711943218
+|move|p1a: Deoxys|Focus Blast|p2a: Tyranitar|[miss]
+|-miss|p1a: Deoxys|p2a: Tyranitar
+|move|p2a: Tyranitar|Knock Off|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|-enditem|p1a: Deoxys|Choice Specs|[from] move: Knock Off|[of] p2a: Tyranitar
+|faint|p1a: Deoxys
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|j|+mauby ♆
+|
+|t:|1711943227
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|turn|2
+|
+|t:|1711943237
+|move|p1a: Iron Boulder|Close Combat|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|Liliacae has 120 seconds left.
+|
+|t:|1711943253
+|switch|p2a: Rhyperior|Rhyperior, F|100/100
+|turn|3
+|
+|t:|1711943261
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|move|p2a: Rhyperior|Earthquake|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711943279
+|switch|p1a: Gardevoir|Gardevoir, F|100/100
+|-ability|p1a: Gardevoir|Solid Rock|[from] ability: Trace|[of] p2a: Rhyperior
+|turn|4
+|
+|t:|1711943303
+|move|p1a: Gardevoir|Moonblast|p2a: Rhyperior
+|-damage|p2a: Rhyperior|53/100
+|-unboost|p2a: Rhyperior|spa|1
+|move|p2a: Rhyperior|Earthquake|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711943309
+|switch|p1a: Iron Boulder|Iron Boulder|100/100
+|turn|5
+|
+|t:|1711943315
+|move|p1a: Iron Boulder|Close Combat|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|14/100
+|-unboost|p1a: Iron Boulder|def|1
+|-unboost|p1a: Iron Boulder|spd|1
+|move|p2a: Rhyperior|Earthquake|p1a: Iron Boulder
+|-supereffective|p1a: Iron Boulder
+|-damage|p1a: Iron Boulder|0 fnt
+|faint|p1a: Iron Boulder
+|-end|p1a: Iron Boulder|Quark Drive|[silent]
+|
+|-weather|none
+|upkeep
+|
+|t:|1711943319
+|switch|p1a: Armarouge|Armarouge, F|100/100
+|turn|6
+|inactive|Whitespaniard has 120 seconds left.
+|
+|t:|1711943350
+|move|p1a: Armarouge|Flamethrower|p2a: Rhyperior
+|-resisted|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|upkeep
+|
+|t:|1711943362
+|switch|p2a: Terrakion|Terrakion|100/100
+|turn|7
+|
+|t:|1711943375
+|move|p2a: Terrakion|Stone Edge|p1a: Armarouge
+|-supereffective|p1a: Armarouge
+|-damage|p1a: Armarouge|0 fnt
+|faint|p1a: Armarouge
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1711943377
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|8
+|c|☆Whitespaniard|gg
+|
+|t:|1711943384
+|move|p2a: Terrakion|Stone Edge|p1a: Slowking
+|-damage|p1a: Slowking|20/100
+|move|p1a: Slowking|Sludge Bomb|p2a: Terrakion
+|-resisted|p2a: Terrakion
+|-damage|p2a: Terrakion|82/100
+|-status|p2a: Terrakion|psn
+|
+|-heal|p1a: Slowking|26/100|[from] item: Black Sludge
+|-damage|p2a: Terrakion|70/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711943392
+|move|p2a: Terrakion|Stone Edge|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|win|Liliacae
+|n|☆Whitespaniard|whitespaniard
+|n|☆Liliacae|liliacae
+|n| endallbeallball|endallbeallball
+|n| mauby ♆|mauby
+|l|☆Whitespaniard
+|player|p1|

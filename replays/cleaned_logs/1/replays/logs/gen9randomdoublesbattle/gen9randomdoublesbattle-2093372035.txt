@@ -1,0 +1,63 @@
+p1: Switched to Volbeat
+p1: Switched to Solgaleo
+p2: Switched to Braviary-Hisui
+p2: Switched to Eternatus
+Turn 1:
+p1: Volbeat used Tailwind on Volbeat
+p1: Solgaleo used Psychic Fangs on Eternatus
+p2: Eternatus fainted
+p2: Braviary-Hisui used Hurricane on Volbeat
+p1: Volbeat fainted
+p2: Switched to Magnezone
+p1: Switched to Murkrow
+Turn 2:
+p2: Braviary-Hisui used Protect on Braviary-Hisui
+p1: Murkrow used Brave Bird on Braviary-Hisui
+p1: Solgaleo used Flare Blitz on Magnezone
+p2: Magnezone used Thunderbolt on Murkrow
+Turn 3:
+p2: Switched to Hitmontop
+p1: Murkrow used Brave Bird on Hitmontop
+p1: Solgaleo used Flare Blitz on Magnezone
+p2: Magnezone used Thunderbolt on Murkrow
+p1: Murkrow fainted
+p1: Switched to Clefable
+Turn 4:
+p2: Hitmontop used Fake Out on Solgaleo
+p1: Clefable used Follow Me on Clefable
+p1: Solgaleo can't move
+p2: Magnezone used Flash Cannon on Clefable
+Turn 5:
+p2: Hitmontop used Sucker Punch on Solgaleo
+p1: Solgaleo used Psychic Fangs on Hitmontop
+p2: Hitmontop fainted
+p1: Clefable used Heal Pulse on Solgaleo
+p2: Magnezone used Flash Cannon on Clefable
+p1: Clefable fainted
+p2: Switched to Basculin-Blue-Striped
+p1: Switched to Ninetales
+Turn 6:
+p2: Basculin-Blue-Striped used Wave Crash on Ninetales
+p1: Ninetales fainted
+p1: Solgaleo used Flare Blitz on Magnezone
+p2: Magnezone fainted
+p1: Switched to Whiscash
+p2: Switched to Samurott
+Turn 7:
+p2: Basculin-Blue-Striped used Wave Crash on Solgaleo
+p1: Solgaleo used Knock Off on Basculin-Blue-Striped
+p2: Samurott used Liquidation on Solgaleo
+p1: Whiscash used Stealth Rock on Samurott
+Turn 8:
+p2: Basculin-Blue-Striped used Wave Crash on Solgaleo
+p1: Solgaleo used Psychic Fangs on Samurott
+p2: Samurott used Swords Dance on Samurott
+p1: Whiscash used Muddy Water on Samurott
+Turn 9:
+p2: Basculin-Blue-Striped used Wave Crash on Solgaleo
+p1: Solgaleo fainted
+p2: Samurott used Liquidation on Whiscash
+p1: Whiscash used Muddy Water on Samurott
+p2: Basculin-Blue-Striped fainted
+p2: Switched to Braviary-Hisui
+Turn 10:

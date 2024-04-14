@@ -1,0 +1,95 @@
+p1: Switched to Charizard
+p2: Switched to Sandslash
+Turn 1:
+p1: Charizard failed to use Solar Beam
+p2: Sandslash fainted
+p2: Switched to Lycanroc-Dusk
+Turn 2:
+p1: Switched to Gliscor
+p2: Lycanroc-Dusk used Stone Edge on Gliscor
+Turn 3:
+p2: Switched to Swanna
+p1: Gliscor used Toxic on Swanna
+Turn 4:
+p1: Switched to Tapu Fini
+p2: Swanna used Ice Beam on Tapu Fini
+Turn 5:
+p1: Switched to Charizard-Mega-Y
+p2: Swanna used Tailwind on Swanna
+Turn 6:
+p2: Swanna used Surf on Charizard-Mega-Y
+p1: Charizard-Mega-Y used Ancient Power on Swanna
+p2: Swanna fainted
+p2: Switched to Serperior
+Turn 7:
+p2: Serperior used Dragon Pulse on Charizard-Mega-Y
+p1: Charizard-Mega-Y used Fire Blast on Serperior
+p2: Serperior fainted
+p2: Switched to Lycanroc-Dusk
+Turn 8:
+p2: Lycanroc-Dusk used Outrage on Charizard-Mega-Y
+p1: Charizard-Mega-Y fainted
+p1: Switched to Tapu Fini
+Turn 9:
+p2: Lycanroc-Dusk used Outrage on Tapu Fini
+p1: Tapu Fini used Surf on Lycanroc-Dusk
+Turn 10:
+p2: Lycanroc-Dusk used Outrage on Tapu Fini
+p1: Tapu Fini used Surf on Lycanroc-Dusk
+p2: Lycanroc-Dusk fainted
+p2: Switched to Scizor
+Turn 11:
+p1: Tapu Fini used Surf on Scizor
+p2: Scizor used Swords Dance on Scizor
+Turn 12:
+p1: Tapu Fini used Surf on Scizor
+p2: Scizor used Roost on Scizor
+Turn 13:
+p1: Switched to Rotom-Wash
+p2: Scizor used Bullet Punch on Rotom-Wash
+Turn 14:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Knock Off on Rotom-Wash
+Turn 15:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Roost on Scizor
+Turn 16:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Roost on Scizor
+Turn 17:
+p1: Rotom-Wash used Defog on Scizor
+p2: Scizor used Roost on Scizor
+Turn 18:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Swords Dance on Scizor
+Turn 19:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Roost on Scizor
+Turn 20:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Roost on Scizor
+Turn 21:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Roost on Scizor
+Turn 22:
+p1: Rotom-Wash used Hydro Pump on Scizor
+p2: Scizor used Swords Dance on Scizor
+Turn 23:
+p1: Rotom-Wash used Volt Switch on Scizor
+p1: Switched to Darmanitan
+p2: Scizor used Roost on Scizor
+Turn 24:
+p2: Scizor used Bullet Punch on Darmanitan
+p1: Darmanitan fainted
+p1: Switched to Tapu Fini
+Turn 25:
+p2: Scizor used Bullet Punch on Tapu Fini
+p1: Tapu Fini fainted
+p1: Switched to Rotom-Wash
+Turn 26:
+p1: Rotom-Wash used Volt Switch on Scizor
+p1: Switched to Ferrothorn
+p2: Scizor used Roost on Scizor
+Turn 27:
+p2: Scizor used Knock Off on Ferrothorn
+p1: Ferrothorn fainted

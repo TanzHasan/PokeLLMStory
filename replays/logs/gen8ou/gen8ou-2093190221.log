@@ -1,0 +1,102 @@
+|j|☆tatotwat
+|j|☆dct1 staller
+|t:|1711923113
+|gametype|singles
+|player|p1|tatotwat|pokemonbreederf|
+|player|p2|dct1 staller|red|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magmortar, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Melmetal|
+|poke|p2|Tapu Koko|
+|poke|p2|Victini|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Bisharp, M|
+|teampreview
+|
+|t:|1711923134
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|turn|1
+|
+|t:|1711923141
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Tapu Fini|Trick|p2a: Ferrothorn
+|-activate|p1a: Tapu Fini|move: Trick|[of] p2a: Ferrothorn
+|-item|p2a: Ferrothorn|Choice Scarf|[from] move: Trick
+|-item|p1a: Tapu Fini|Rocky Helmet|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1711923150
+|move|p1a: Tapu Fini|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|90/100
+|move|p2a: Ferrothorn|Spikes|p1a: Tapu Fini
+|-sidestart|p1: tatotwat|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1711923155
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Tapu Fini|Defog|p2a: Bisharp
+|-unboost|p2a: Bisharp|evasion|1
+|-ability|p2a: Bisharp|Defiant|boost
+|-boost|p2a: Bisharp|atk|2
+|-sideend|p1: tatotwat|Spikes|[from] move: Defog|[of] p1a: Tapu Fini
+|-fieldend|Misty Terrain
+|
+|upkeep
+|turn|4
+|
+|t:|1711923164
+|move|p1a: Tapu Fini|Scald|p2a: Bisharp
+|-damage|p2a: Bisharp|60/100
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|20/100
+|-damage|p2a: Bisharp|43/100|[from] item: Rocky Helmet|[of] p1a: Tapu Fini
+|
+|upkeep
+|turn|5
+|
+|t:|1711923181
+|switch|p1a: Magmortar|Magmortar, M|100/100
+|move|p2a: Bisharp|Iron Head|p1a: Magmortar
+|-resisted|p1a: Magmortar
+|-damage|p1a: Magmortar|29/100
+|-status|p2a: Bisharp|brn|[from] ability: Flame Body|[of] p1a: Magmortar
+|
+|-damage|p2a: Bisharp|37/100 brn|[from] brn
+|upkeep
+|turn|6
+|-message|dct1 staller forfeited.
+|
+|win|tatotwat
+|n|☆tatotwat|tatotwat
+|n|☆dct1 staller|dct1staller
+|l|☆dct1 staller
+|player|p2|

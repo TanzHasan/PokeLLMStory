@@ -1,0 +1,30 @@
+p1: Switched to Vaporeon
+p2: Switched to Salamence
+Turn 1:
+p2: Salamence used Dragon Dance on Salamence
+p1: Vaporeon used Substitute on Vaporeon
+Turn 2:
+p2: Salamence used Dragon Dance on Salamence
+p1: Vaporeon used Ice Beam on Salamence
+p2: Salamence fainted
+p2: Switched to Jirachi
+Turn 3:
+p1: Vaporeon used Baton Pass on Vaporeon
+p1: Switched to Smeargle
+p2: Jirachi used Thunderbolt on Smeargle
+Turn 4:
+p1: Smeargle used Thunder Wave on Jirachi
+p2: Jirachi can't move
+Turn 5:
+p2: Switched to Claydol
+p1: Smeargle used Spikes on Claydol
+Turn 6:
+p1: Smeargle used Spore on Claydol
+p2: Claydol can't move
+Turn 7:
+p1: Smeargle used Spikes on Claydol
+p2: Claydol can't move
+Turn 8:
+p1: Smeargle used Spikes on Claydol
+p2: Claydol can't move
+Turn 9:

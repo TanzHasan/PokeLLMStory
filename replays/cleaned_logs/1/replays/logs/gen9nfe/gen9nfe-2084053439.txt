@@ -1,0 +1,120 @@
+p1: Switched to Arctibax
+p2: Switched to Morgrem
+Turn 1:
+p2: Morgrem used Reflect on Morgrem
+p1: Arctibax used Swords Dance on Arctibax
+Turn 2:
+p2: Morgrem used Parting Shot on Arctibax
+p2: Switched to Porygon
+p1: Arctibax used Brick Break on Porygon
+Turn 3:
+p2: Switched to Fletchinder
+p1: Arctibax used Avalanche on Fletchinder
+Turn 4:
+p1: Switched to Wartortle
+p2: Fletchinder used Brave Bird on Wartortle
+p2: Fletchinder fainted
+p2: Switched to Thwackey
+Turn 5:
+p1: Switched to Sliggoo-Hisui
+p2: Thwackey used U-turn on Sliggoo-Hisui
+p2: Switched to Morgrem
+Turn 6:
+p2: Morgrem used Parting Shot on Sliggoo-Hisui
+p2: Switched to Croconaw
+p1: Sliggoo-Hisui used Steel Beam on Croconaw
+Turn 7:
+p1: Switched to Wartortle
+p2: Croconaw used Dragon Dance on Croconaw
+Turn 8:
+p2: Switched to Thwackey
+p1: Wartortle used Shell Smash on Wartortle
+Turn 9:
+p1: Switched to Raboot
+p2: Thwackey used Grassy Glide on Raboot
+Turn 10:
+p2: Switched to Gabite
+p1: Raboot used High Jump Kick on Gabite
+Turn 11:
+p1: Raboot used High Jump Kick on Gabite
+p2: Gabite fainted
+p1: Raboot fainted
+p1: Switched to Misdreavus
+p2: Switched to Morgrem
+Turn 12:
+p2: Morgrem used Taunt on Misdreavus
+p1: Misdreavus can't move
+Turn 13:
+p2: Morgrem used Light Screen on Morgrem
+p1: Misdreavus used Draining Kiss on Morgrem
+Turn 14:
+p1: Switched to Arctibax
+p2: Morgrem used Reflect on Morgrem
+Turn 15:
+p2: Morgrem used Parting Shot on Arctibax
+p2: Switched to Porygon
+p1: Arctibax used Brick Break on Porygon
+Turn 16:
+p1: Switched to Misdreavus
+p2: Porygon used Recover on Porygon
+Turn 17:
+p2: Switched to Morgrem
+p1: Misdreavus used Substitute on Misdreavus
+Turn 18:
+p2: Morgrem used Light Screen on Morgrem
+p1: Misdreavus used Nasty Plot on Misdreavus
+Turn 19:
+p2: Morgrem used Parting Shot on Misdreavus
+p2: Switched to Porygon
+p1: Misdreavus used Nasty Plot on Misdreavus
+Turn 20:
+p1: Misdreavus used Nasty Plot on Misdreavus
+p2: Porygon used Ice Beam on Misdreavus
+Turn 21:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Ice Beam on Misdreavus
+Turn 22:
+p1: Misdreavus used Substitute on Misdreavus
+p2: Porygon used Ice Beam on Misdreavus
+Turn 23:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Ice Beam on Misdreavus
+Turn 24:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Recover on Porygon
+Turn 25:
+p2: Switched to Thwackey
+p1: Misdreavus used Substitute on Misdreavus
+Turn 26:
+p2: Thwackey used Grassy Glide on Misdreavus
+p1: Misdreavus used Shadow Ball on Thwackey
+p2: Thwackey fainted
+p2: Switched to Croconaw
+Turn 27:
+p2: Croconaw used Aqua Jet on Misdreavus
+p1: Misdreavus used Draining Kiss on Croconaw
+p2: Croconaw fainted
+p2: Switched to Morgrem
+Turn 28:
+p2: Morgrem used Taunt on Misdreavus
+p1: Misdreavus used Shadow Ball on Morgrem
+Turn 29:
+p2: Morgrem used Light Screen on Morgrem
+p1: Misdreavus used Draining Kiss on Morgrem
+p2: Morgrem fainted
+p2: Switched to Porygon
+Turn 30:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Ice Beam on Misdreavus
+Turn 31:
+p1: Misdreavus used Substitute on Misdreavus
+p2: Porygon used Ice Beam on Misdreavus
+Turn 32:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Ice Beam on Misdreavus
+Turn 33:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon used Ice Beam on Misdreavus
+Turn 34:
+p1: Misdreavus used Draining Kiss on Porygon
+p2: Porygon fainted

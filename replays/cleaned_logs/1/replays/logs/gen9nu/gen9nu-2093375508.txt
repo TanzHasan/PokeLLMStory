@@ -1,0 +1,8 @@
+p1: Switched to Emboar
+p2: Switched to Torterra
+Turn 1:
+p2: Torterra used Shell Smash on Torterra
+p1: Emboar used Flare Blitz on Torterra
+Turn 2:
+p2: Torterra used Earthquake on Emboar
+p1: Emboar fainted

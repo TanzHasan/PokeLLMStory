@@ -1,0 +1,191 @@
+p1: Switched to Chesnaught
+p2: Switched to Fletchling
+Turn 1:
+p1: Chesnaught used Spiky Shield on Chesnaught
+p2: Fletchling used Substitute on Fletchling
+Turn 2:
+p1: Switched to Samurott
+p2: Fletchling used Toxic on Samurott
+Turn 3:
+p2: Fletchling used Protect on Fletchling
+p1: Samurott used Surf on Fletchling
+Turn 4:
+p1: Samurott used Surf on Fletchling
+p2: Fletchling used Substitute on Fletchling
+Turn 5:
+p2: Fletchling used Protect on Fletchling
+p1: Samurott used Surf on Fletchling
+Turn 6:
+p1: Samurott used Surf on Fletchling
+p2: Fletchling used Substitute on Fletchling
+Turn 7:
+p2: Fletchling used Protect on Fletchling
+p1: Samurott used Surf on Fletchling
+p1: Samurott fainted
+p1: Switched to Venusaur
+Turn 8:
+p2: Fletchling used Roost on Fletchling
+p1: Venusaur used Venoshock on Fletchling
+Turn 9:
+p2: Switched to Talonflame
+p1: Venusaur used Leech Seed on Talonflame
+Turn 10:
+p1: Switched to Typhlosion
+p2: Talonflame used U-turn on Typhlosion
+p2: Switched to Fletchinder
+Turn 11:
+p1: Typhlosion used Extrasensory on Fletchinder
+p2: Fletchinder used Toxic on Typhlosion
+Turn 12:
+p2: Fletchinder used Protect on Fletchinder
+p1: Typhlosion used Extrasensory on Fletchinder
+Turn 13:
+p2: Fletchinder used Roost on Fletchinder
+p1: Typhlosion used Extrasensory on Fletchinder
+Turn 14:
+p2: Fletchinder used Roost on Fletchinder
+p1: Typhlosion used Extrasensory on Fletchinder
+Turn 15:
+p2: Fletchinder used Protect on Fletchinder
+p1: Typhlosion used Extrasensory on Fletchinder
+p1: Typhlosion fainted
+p1: Switched to Venusaur
+Turn 16:
+p2: Fletchinder used Roost on Fletchinder
+p1: Venusaur used Venoshock on Fletchinder
+Turn 17:
+p2: Switched to Talonflame
+p1: Venusaur used Leech Seed on Talonflame
+Turn 18:
+p2: Talonflame used U-turn on Venusaur
+p2: Switched to Excadrill
+p1: Venusaur used Toxic on Excadrill
+Turn 19:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur used Leech Seed on Excadrill
+Turn 20:
+p1: Switched to Chesnaught
+p2: Excadrill used Rapid Spin on Chesnaught
+Turn 21:
+p2: Switched to Fletchinder
+p1: Chesnaught used Drain Punch on Fletchinder
+Turn 22:
+p1: Chesnaught used Spiky Shield on Chesnaught
+p2: Fletchinder used Roost on Fletchinder
+Turn 23:
+p2: Fletchinder used Toxic on Chesnaught
+p1: Chesnaught used Drain Punch on Fletchinder
+Turn 24:
+p2: Switched to Talonflame
+p1: Chesnaught used Wood Hammer on Talonflame
+Turn 25:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 26:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 27:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 28:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 29:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 30:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+Turn 31:
+p2: Talonflame used Roost on Talonflame
+p1: Chesnaught used Drain Punch on Talonflame
+p1: Chesnaught fainted
+p1: Switched to Swampert
+Turn 32:
+p2: Switched to Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 33:
+p2: Fletchling used Protect on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 34:
+p2: Fletchling used Roost on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 35:
+p2: Fletchling used Protect on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 36:
+p2: Fletchling used Roost on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 37:
+p2: Fletchling used Protect on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 38:
+p2: Fletchling used Roost on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 39:
+p2: Fletchling used Protect on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 40:
+p2: Fletchling used Roost on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 41:
+p2: Fletchling used Protect on Fletchling
+p1: Swampert used Waterfall on Fletchling
+Turn 42:
+p2: Fletchling used Roost on Fletchling
+p1: Swampert used Waterfall on Fletchling
+p2: Fletchling fainted
+p2: Switched to Talonflame
+Turn 43:
+p2: Talonflame used Brave Bird on Swampert
+p1: Swampert used Waterfall on Talonflame
+p2: Talonflame fainted
+p2: Switched to Excadrill
+Turn 44:
+p2: Excadrill used Earthquake on Swampert
+p1: Swampert fainted
+p1: Switched to Infernape
+Turn 45:
+p2: Switched to Fletchinder
+p1: Infernape used Fire Punch on Fletchinder
+Turn 46:
+p1: Infernape used Fire Punch on Fletchinder
+p2: Fletchinder used Toxic on Infernape
+Turn 47:
+p1: Switched to Venusaur
+p2: Fletchinder used Roost on Fletchinder
+Turn 48:
+p2: Switched to Excadrill
+p1: Venusaur used Leech Seed on Excadrill
+Turn 49:
+p2: Excadrill used Rapid Spin on Venusaur
+p1: Venusaur used Synthesis on Venusaur
+Turn 50:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur used Leech Seed on Excadrill
+Turn 51:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur used Synthesis on Venusaur
+Turn 52:
+p2: Excadrill used Rapid Spin on Venusaur
+p1: Venusaur used Synthesis on Venusaur
+Turn 53:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur used Leech Seed on Excadrill
+Turn 54:
+p2: Excadrill used Rapid Spin on Venusaur
+p1: Venusaur used Synthesis on Venusaur
+Turn 55:
+p2: Excadrill used Iron Head on Venusaur
+p1: Venusaur can't move
+Turn 56:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur used Leech Seed on Excadrill
+Turn 57:
+p1: Switched to Infernape
+p2: Excadrill used Earthquake on Infernape
+p1: Infernape fainted
+p1: Switched to Venusaur
+Turn 58:
+p2: Excadrill used Earthquake on Venusaur
+p1: Venusaur fainted

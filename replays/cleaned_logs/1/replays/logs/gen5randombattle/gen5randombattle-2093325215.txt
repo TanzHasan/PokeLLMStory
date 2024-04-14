@@ -1,0 +1,15 @@
+p1: Switched to Maractus
+p2: Switched to Gliscor
+Turn 1:
+p2: Switched to Zapdos
+p1: Maractus used Leech Seed on Zapdos
+Turn 2:
+p1: Maractus used Protect on Maractus
+p2: Zapdos used Heat Wave on Maractus
+Turn 3:
+p1: Switched to Manectric
+p2: Zapdos used Heat Wave on Manectric
+Turn 4:
+p2: Switched to Gliscor
+p1: Manectric used Volt Switch on Gliscor
+Turn 5:

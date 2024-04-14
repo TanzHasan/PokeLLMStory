@@ -1,0 +1,306 @@
+|j|☆theironpikachu
+|j|☆bleahey
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711946206
+|gametype|singles
+|player|p1|theironpikachu|may-masters|
+|player|p2|bleahey|brendan|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Impidimp, L5, M|
+|poke|p1|Magby, L5, M|
+|poke|p1|Minccino, L5, F|
+|poke|p1|Mienfoo, L5, M|
+|poke|p1|Gastly, L5, F|
+|poke|p1|Stunky, L5, F|
+|poke|p2|Lotad, L5, F|
+|poke|p2|Buizel, L5, F|
+|poke|p2|Shroodle, L5, M|
+|poke|p2|Glimmet, L5, F|
+|poke|p2|Horsea, L5, F|
+|poke|p2|Shellder, L5, F|
+|teampreview
+|j|*Lady Monita ❆
+|inactive|theironpikachu also wants the timer to be on.
+|inactive|bleahey also wants the timer to be on.
+|c|☆bleahey|hf
+|inactive|theironpikachu has 120 seconds left.
+|c|☆theironpikachu|glhf
+|
+|t:|1711946258
+|start
+|switch|p1a: Impidimp|Impidimp, L5, M|100/100
+|switch|p2a: Shroodle|Shroodle, L5, M|100/100
+|turn|1
+|inactive|bleahey has 120 seconds left.
+|
+|t:|1711946289
+|move|p2a: Shroodle|Rain Dance|p2a: Shroodle
+|-weather|RainDance
+|move|p1a: Impidimp|Reflect|p1a: Impidimp
+|-sidestart|p1: theironpikachu|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711946293
+|move|p2a: Shroodle|Copycat|p2a: Shroodle
+|move|p2a: Shroodle|Reflect|p2a: Shroodle|[from]move: Copycat
+|-sidestart|p2: bleahey|Reflect
+|move|p1a: Impidimp|Parting Shot|p2a: Shroodle
+|-unboost|p2a: Shroodle|atk|1
+|-unboost|p2a: Shroodle|spa|1
+|
+|t:|1711946300
+|switch|p1a: Magby|Magby, L5, M|100/100|[from] Parting Shot
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711946307
+|move|p2a: Shroodle|Parting Shot|p1a: Magby
+|-unboost|p1a: Magby|atk|1
+|-unboost|p1a: Magby|spa|1
+|
+|t:|1711946310
+|switch|p2a: Horsea|Horsea, L5, F|100/100|[from] Parting Shot
+|move|p1a: Magby|Belly Drum|p1a: Magby
+|-damage|p1a: Magby|50/100
+|-setboost|p1a: Magby|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Magby|Oran Berry|[eat]
+|-heal|p1a: Magby|100/100|[from] item: Oran Berry
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j| happysh
+|
+|t:|1711946330
+|move|p1a: Magby|Mach Punch|p2a: Horsea
+|-damage|p2a: Horsea|62/100
+|move|p2a: Horsea|Weather Ball|p1a: Magby
+|-supereffective|p1a: Magby
+|-damage|p1a: Magby|0 fnt
+|faint|p1a: Magby
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆theironpikachu|lmao
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1711946349
+|switch|p1a: Mienfoo|Mienfoo, L5, M|100/100
+|turn|5
+|
+|t:|1711946358
+|switch|p2a: Glimmet|Glimmet, L5, F|100/100
+|move|p1a: Mienfoo|Fake Out|p2a: Glimmet
+|-resisted|p2a: Glimmet
+|-damage|p2a: Glimmet|96/100
+|-activate|p2a: Glimmet|ability: Toxic Debris
+|-sidestart|p1: theironpikachu|move: Toxic Spikes
+|-enditem|p2a: Glimmet|Eject Button
+|
+|t:|1711946362
+|switch|p2a: Horsea|Horsea, L5, F|62/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1711946373
+|switch|p1a: Stunky|Stunky, L5, F|100/100
+|-sideend|p1: theironpikachu|move: Toxic Spikes|[of] p1a: Stunky
+|move|p2a: Horsea|Weather Ball|p1a: Stunky
+|-damage|p1a: Stunky|0 fnt
+|faint|p1a: Stunky
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: bleahey|Reflect
+|upkeep
+|
+|t:|1711946376
+|switch|p1a: Mienfoo|Mienfoo, L5, M|100/100
+|turn|7
+|c|☆bleahey|boink
+|c|☆theironpikachu|D;
+|
+|t:|1711946385
+|move|p1a: Mienfoo|Fake Out|p2a: Horsea
+|-damage|p2a: Horsea|43/100
+|cant|p2a: Horsea|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711946411
+|move|p2a: Horsea|Weather Ball|p1a: Mienfoo
+|-damage|p1a: Mienfoo|5/100
+|move|p1a: Mienfoo|High Jump Kick|p2a: Horsea
+|-damage|p2a: Horsea|0 fnt
+|faint|p2a: Horsea
+|
+|-weather|none
+|-sideend|p1: theironpikachu|Reflect
+|upkeep
+|c|☆bleahey|noo
+|c|☆bleahey|bum horse
+|
+|t:|1711946427
+|switch|p2a: Shroodle|Shroodle, L5, M|100/100
+|turn|9
+|
+|t:|1711946442
+|move|p2a: Shroodle|Knock Off|p1a: Mienfoo
+|-resisted|p1a: Mienfoo
+|-damage|p1a: Mienfoo|0 fnt
+|-enditem|p1a: Mienfoo|Assault Vest|[from] move: Knock Off|[of] p2a: Shroodle
+|faint|p1a: Mienfoo
+|
+|upkeep
+|
+|t:|1711946445
+|switch|p1a: Impidimp|Impidimp, L5, M|100/100
+|turn|10
+|
+|t:|1711946452
+|move|p2a: Shroodle|Rain Dance|p2a: Shroodle
+|-weather|RainDance
+|move|p1a: Impidimp|Reflect|p1a: Impidimp
+|-sidestart|p1: theironpikachu|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1711946459
+|switch|p2a: Lotad|Lotad, L5, F|100/100
+|move|p1a: Impidimp|Light Screen|p1a: Impidimp
+|-sidestart|p1: theironpikachu|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|j| H4ruto
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1711946500
+|move|p1a: Impidimp|Parting Shot|p2a: Lotad
+|-unboost|p2a: Lotad|atk|1
+|-unboost|p2a: Lotad|spa|1
+|
+|t:|1711946504
+|switch|p1a: Minccino|Minccino, L5, F|100/100|[from] Parting Shot
+|move|p2a: Lotad|Weather Ball|p1a: Minccino
+|-damage|p1a: Minccino|55/100
+|-damage|p2a: Lotad|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|inactive|theironpikachu has 120 seconds left.
+|
+|t:|1711946513
+|-terastallize|p2a: Lotad|Water
+|move|p2a: Lotad|Weather Ball|p1a: Minccino
+|-damage|p1a: Minccino|0 fnt
+|faint|p1a: Minccino
+|-damage|p2a: Lotad|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆bleahey|boink
+|inactive|theironpikachu has 120 seconds left.
+|c|☆theironpikachu|:(
+|
+|t:|1711946530
+|switch|p1a: Gastly|Gastly, L5, F|100/100
+|turn|14
+|
+|t:|1711946539
+|move|p1a: Gastly|Shadow Ball|p2a: Lotad
+|-damage|p2a: Lotad|5/100
+|move|p2a: Lotad|Weather Ball|p1a: Gastly
+|-damage|p1a: Gastly|30/100
+|-damage|p2a: Lotad|0 fnt|[from] item: Life Orb
+|faint|p2a: Lotad
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆theironpikachu|send this to greeby for the $5 lmao
+|c|☆bleahey|i beat him with this in a roomtour lol
+|c|☆bleahey|he didn't pay me
+|
+|t:|1711946555
+|switch|p2a: Buizel|Buizel, L5, F|100/100
+|turn|15
+|c|☆theironpikachu|D: so mean
+|c|☆bleahey|fr
+|
+|t:|1711946567
+|move|p2a: Buizel|Wave Crash|p1a: Gastly
+|-crit|p1a: Gastly
+|-damage|p1a: Gastly|0 fnt
+|faint|p1a: Gastly
+|-damage|p2a: Buizel|91/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711946569
+|switch|p1a: Impidimp|Impidimp, L5, M|100/100
+|turn|16
+|c|☆theironpikachu|ggwp
+|c|☆bleahey|gg
+|
+|t:|1711946576
+|move|p2a: Buizel|Wave Crash|p1a: Impidimp
+|-damage|p1a: Impidimp|32/100
+|-damage|p2a: Buizel|69/100|[from] Recoil
+|move|p1a: Impidimp|Dazzling Gleam|p2a: Buizel
+|-damage|p2a: Buizel|14/100
+|-enditem|p2a: Buizel|Oran Berry|[eat]
+|-heal|p2a: Buizel|60/100|[from] item: Oran Berry
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1711946585
+|move|p2a: Buizel|Wave Crash|p1a: Impidimp
+|-damage|p1a: Impidimp|0 fnt
+|faint|p1a: Impidimp
+|-damage|p2a: Buizel|50/100|[from] Recoil
+|
+|win|bleahey
+|n|☆theironpikachu|theironpikachu
+|n|☆bleahey|bleahey
+|n|*Lady Monita ❆|ladymonita
+|n| happysh|happysh
+|n| H4ruto|h4ruto
+|l|*Lady Monita ❆
+|c|☆theironpikachu|what teamo rain wants to be fr
+|c|☆bleahey|horsea is honestly nuts
+|c|☆theironpikachu|yea didnt expect itto kill ngl
+|c|☆bleahey|the rest is underwhelming
+|c|☆bleahey|yeah tera water nukes like half the tier
+|c|☆bleahey|not half the tier
+|c|☆bleahey|everything but mareanie and foognus
+|c|☆bleahey|which it might even 2hko
+|c|☆theironpikachu|o dang that's interesting
+|c|☆theironpikachu|mareanie and foongus dont even exist

@@ -1,0 +1,380 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'orasz'.</div>
+|j|☆Manav69
+|j|☆ORASZ Ruffles
+|t:|1711946322
+|gametype|singles
+|player|p1|Manav69|265|1344
+|player|p2|ORASZ Ruffles|benga|1579
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Swagger Clause: Swagger is banned
+|clearpoke
+|poke|p1|Manectric, F|item
+|poke|p1|Landorus-Therian, M|item
+|poke|p1|Jirachi|item
+|poke|p1|Latios, M|item
+|poke|p1|Keldeo|item
+|poke|p1|Breloom, F|item
+|poke|p2|Gallade, M|item
+|poke|p2|Bisharp, F|item
+|poke|p2|Manaphy|item
+|poke|p2|Volcarona, M|item
+|poke|p2|Serperior, M|item
+|poke|p2|Landorus-Therian, M|item
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ORASZ Ruffles)
+|
+|t:|1711946335
+|start
+|switch|p1a: Manectric|Manectric, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Manectric|atk|1
+|turn|1
+|
+|t:|1711946340
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1711946351
+|switch|p2a: Serperior|Serperior, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|58/100
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946379
+|switch|p1a: Jirachi|Jirachi|100/100|[from] U-turn
+|
+|upkeep
+|turn|3
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946396
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Jirachi|atk|1
+|move|p1a: Jirachi|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|94/100
+|
+|t:|1711946403
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|
+|upkeep
+|turn|4
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946410
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Manav69|move: Stealth Rock
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: ORASZ Ruffles|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1711946427
+|switch|p2a: Manaphy|Manaphy|100/100
+|-damage|p2a: Manaphy|88/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Manaphy
+|-damage|p2a: Manaphy|66/100
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946439
+|switch|p1a: Manectric|Manectric, F|100/100|[from] U-turn
+|-damage|p1a: Manectric|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Manaphy|72/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946454
+|switch|p2a: Landorus|Landorus-Therian, M|94/100
+|-damage|p2a: Landorus|81/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Manectric|atk|1
+|detailschange|p1a: Manectric|Manectric-Mega, F
+|-mega|p1a: Manectric|Manectric|Manectite
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p1a: Manectric|Volt Switch|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|7
+|
+|t:|1711946460
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|84/100
+|-damage|p2a: Landorus|65/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1711946462
+|switch|p2a: Serperior|Serperior, M|58/100|[from] U-turn
+|-damage|p2a: Serperior|45/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1711946475
+|move|p2a: Serperior|Reflect|p2a: Serperior
+|-sidestart|p2: ORASZ Ruffles|Reflect
+|move|p1a: Landorus|U-turn|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|23/100
+|
+|t:|1711946482
+|switch|p1a: Jirachi|Jirachi|100/100|[from] U-turn
+|-damage|p1a: Jirachi|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1711946503
+|move|p1a: Jirachi|U-turn|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|
+|t:|1711946514
+|switch|p1a: Keldeo|Keldeo|100/100|[from] U-turn
+|-damage|p1a: Keldeo|94/100|[from] Stealth Rock
+|
+|upkeep
+|inactive|ORASZ Ruffles has 120 seconds left.
+|
+|t:|1711946539
+|switch|p2a: Landorus|Landorus-Therian, M|65/100
+|-damage|p2a: Landorus|52/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Keldeo|atk|1
+|turn|10
+|
+|t:|1711946566
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-damage|p1a: Landorus|72/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Explosion|p1a: Landorus
+|-damage|p1a: Landorus|28/100
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1711946577
+|switch|p2a: Gallade|Gallade, M|100/100
+|-damage|p2a: Gallade|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1711946586
+|detailschange|p2a: Gallade|Gallade-Mega, M
+|-mega|p2a: Gallade|Gallade|Galladite
+|move|p2a: Gallade|Swords Dance|p2a: Gallade
+|-boost|p2a: Gallade|atk|2
+|move|p1a: Landorus|Earthquake|p2a: Gallade
+|-damage|p2a: Gallade|69/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711946604
+|move|p2a: Gallade|Psycho Cut|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|Manav69 has 120 seconds left.
+|
+|t:|1711946633
+|switch|p1a: Keldeo|Keldeo|94/100
+|-damage|p1a: Keldeo|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1711946638
+|move|p2a: Gallade|Psycho Cut|p1a: Keldeo
+|-supereffective|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|
+|upkeep
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946671
+|switch|p1a: Manectric|Manectric-Mega, F|88/100
+|-damage|p1a: Manectric|76/100|[from] Stealth Rock
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Gallade|atk|1
+|turn|14
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946685
+|move|p1a: Manectric|Volt Switch|p2a: Gallade
+|-damage|p2a: Gallade|32/100
+|j| ORASZ Mage
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946693
+|switch|p1a: Latios|Latios, M|100/100|[from] Volt Switch
+|-damage|p1a: Latios|88/100|[from] Stealth Rock
+|move|p2a: Gallade|Drain Punch|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|41/100
+|-heal|p2a: Gallade|55/100|[from] drain|[of] p1a: Latios
+|
+|upkeep
+|turn|15
+|l| ORASZ Mage
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946704
+|move|p2a: Gallade|Drain Punch|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|-heal|p2a: Gallade|74/100|[from] drain|[of] p1a: Latios
+|faint|p1a: Latios
+|
+|-sideend|p2: ORASZ Ruffles|Reflect
+|upkeep
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946717
+|switch|p1a: Jirachi|Jirachi|94/100
+|-damage|p1a: Jirachi|88/100|[from] Stealth Rock
+|turn|16
+|inactive|Manav69 has 90 seconds left.
+|
+|t:|1711946723
+|move|p1a: Jirachi|Iron Head|p2a: Gallade
+|-damage|p2a: Gallade|32/100
+|move|p2a: Gallade|Drain Punch|p1a: Jirachi
+|-damage|p1a: Jirachi|25/100
+|-heal|p2a: Gallade|66/100|[from] drain|[of] p1a: Jirachi
+|
+|upkeep
+|turn|17
+|
+|t:|1711946730
+|move|p1a: Jirachi|Iron Head|p2a: Gallade
+|-damage|p2a: Gallade|29/100
+|move|p2a: Gallade|Drain Punch|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|-heal|p2a: Gallade|43/100|[from] drain|[of] p1a: Jirachi
+|faint|p1a: Jirachi
+|
+|upkeep
+|
+|t:|1711946735
+|switch|p1a: Manectric|Manectric-Mega, F|76/100
+|-damage|p1a: Manectric|63/100|[from] Stealth Rock
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Gallade|atk|1
+|turn|18
+|
+|t:|1711946740
+|move|p1a: Manectric|Thunderbolt|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1711946742
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1711946751
+|switch|p1a: Breloom|Breloom, F|100/100
+|-damage|p1a: Breloom|94/100|[from] Stealth Rock
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|
+|upkeep
+|turn|20
+|
+|t:|1711946771
+|switch|p2a: Manaphy|Manaphy|72/100
+|-damage|p2a: Manaphy|60/100|[from] Stealth Rock
+|move|p1a: Breloom|Spore|p2a: Manaphy
+|-status|p2a: Manaphy|slp|[from] move: Spore
+|
+|-heal|p2a: Manaphy|66/100 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711946783
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|-damage|p2a: Volcarona|50/100|[from] Stealth Rock
+|-enditem|p2a: Volcarona|Sitrus Berry|[eat]
+|-heal|p2a: Volcarona|75/100|[from] item: Sitrus Berry
+|switch|p1a: Manectric|Manectric-Mega, F|63/100
+|-damage|p1a: Manectric|51/100|[from] Stealth Rock
+|-ability|p1a: Manectric|Intimidate|boost
+|-unboost|p2a: Volcarona|atk|1
+|
+|upkeep
+|turn|22
+|
+|t:|1711946798
+|move|p1a: Manectric|Thunderbolt|p2a: Volcarona
+|-damage|p2a: Volcarona|24/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|23
+|
+|t:|1711946810
+|move|p2a: Volcarona|Giga Drain|p1a: Manectric
+|-damage|p1a: Manectric|0 fnt
+|-heal|p2a: Volcarona|46/100|[from] drain|[of] p1a: Manectric
+|faint|p1a: Manectric
+|
+|upkeep
+|
+|t:|1711946816
+|switch|p1a: Breloom|Breloom, F|94/100
+|-damage|p1a: Breloom|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1711946824
+|move|p1a: Breloom|Mach Punch|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|15/100
+|-damage|p1a: Breloom|78/100|[from] item: Life Orb
+|move|p2a: Volcarona|Flamethrower|p1a: Breloom
+|-supereffective|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|faint|p1a: Breloom
+|
+|win|ORASZ Ruffles
+|raw|Manav69's rating: 1344 &rarr; <strong>1337</strong><br />(-7 for losing)
+|raw|ORASZ Ruffles's rating: 1609 &rarr; <strong>1616</strong><br />(+7 for winning)
+|l|☆ORASZ Ruffles
+|player|p2|

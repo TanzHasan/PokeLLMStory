@@ -1,0 +1,111 @@
+p1: Switched to Incineroar
+p2: Switched to Avalugg
+Turn 1:
+p2: Switched to Infernape
+p1: Incineroar used Will-O-Wisp on Infernape
+Turn 2:
+p1: Switched to Enamorus
+p2: Infernape used Rock Slide on Enamorus
+Turn 3:
+p2: Infernape used Rock Slide on Enamorus
+p1: Enamorus fainted
+p1: Switched to Incineroar
+Turn 4:
+p2: Infernape used Rock Slide on Incineroar
+p1: Incineroar used Knock Off on Infernape
+Turn 5:
+p2: Infernape used Drain Punch on Incineroar
+p1: Incineroar used Parting Shot on Infernape
+p1: Switched to Munkidori
+Turn 6:
+p2: Switched to Torterra
+p1: Munkidori used Psychic on Torterra
+Turn 7:
+p1: Munkidori used Parting Shot on Torterra
+p1: Switched to Arboliva
+p2: Torterra used Facade on Arboliva
+Turn 8:
+p2: Switched to Infernape
+p1: Arboliva used Strength Sap on Infernape
+Turn 9:
+p2: Infernape used Fire Punch on Arboliva
+p1: Arboliva used Earth Power on Infernape
+p2: Infernape fainted
+p2: Switched to Avalugg
+Turn 10:
+p1: Arboliva used Strength Sap on Avalugg
+p2: Avalugg used Avalanche on Arboliva
+Turn 11:
+p1: Arboliva used Giga Drain on Avalugg
+p2: Avalugg used Mirror Coat on Arboliva
+p1: Arboliva fainted
+p1: Switched to Cinderace
+Turn 12:
+p2: Switched to Blastoise
+p1: Cinderace used Pyro Ball on Blastoise
+Turn 13:
+p1: Cinderace used U-turn on Blastoise
+p1: Switched to Munkidori
+p2: Blastoise used Liquidation on Munkidori
+Turn 14:
+p1: Munkidori used Fake Out on Blastoise
+p2: Blastoise can't move
+Turn 15:
+p1: Munkidori used Sludge Wave on Blastoise
+p2: Blastoise used Liquidation on Munkidori
+p1: Munkidori fainted
+p1: Switched to Lucario
+Turn 16:
+p2: Switched to Cresselia
+p1: Lucario used Meteor Mash on Cresselia
+Turn 17:
+p1: Switched to Incineroar
+p2: Cresselia used Future Sight on Incineroar
+Turn 18:
+p2: Cresselia used Reflect on Cresselia
+p1: Incineroar used Knock Off on Cresselia
+Turn 19:
+p2: Cresselia used Body Slam on Incineroar
+p1: Incineroar used Knock Off on Cresselia
+Turn 20:
+p2: Cresselia used Dazzling Gleam on Incineroar
+p1: Incineroar used Knock Off on Cresselia
+p2: Cresselia fainted
+p2: Switched to Fezandipiti
+Turn 21:
+p2: Fezandipiti used Air Slash on Incineroar
+p1: Incineroar can't move
+Turn 22:
+p2: Fezandipiti used Alluring Voice on Incineroar
+p1: Incineroar used Will-O-Wisp on Fezandipiti
+Turn 23:
+p2: Fezandipiti used Alluring Voice on Incineroar
+p1: Incineroar fainted
+p1: Switched to Cinderace
+Turn 24:
+p1: Cinderace used Pyro Ball on Fezandipiti
+p2: Fezandipiti used Light Screen on Fezandipiti
+Turn 25:
+p2: Switched to Blastoise
+p1: Cinderace used Pyro Ball on Blastoise
+Turn 26:
+p1: Cinderace used Pyro Ball on Blastoise
+p2: Blastoise fainted
+p2: Switched to Avalugg
+Turn 27:
+p1: Cinderace used Pyro Ball on Avalugg
+p2: Avalugg fainted
+p2: Switched to Torterra
+Turn 28:
+p1: Cinderace used U-turn on Torterra
+p1: Switched to Lucario
+p2: Torterra used Earthquake on Lucario
+p1: Lucario fainted
+p1: Switched to Cinderace
+Turn 29:
+p1: Cinderace used Pyro Ball on Torterra
+p2: Torterra fainted
+p2: Switched to Fezandipiti
+Turn 30:
+p1: Cinderace used Pyro Ball on Fezandipiti
+p2: Fezandipiti fainted

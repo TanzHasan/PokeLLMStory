@@ -1,0 +1,198 @@
+|j|☆sph05468
+|j|☆GisoDp
+|t:|1711944724
+|gametype|singles
+|player|p1|sph05468|2|1040
+|player|p2|GisoDp|wallace|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711944724
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|299/299
+|switch|p2a: Tyranitar|Tyranitar, L80, M|291/291
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sph05468)
+|
+|t:|1711944737
+|switch|p2a: Swellow|Swellow, L84, M|238/238
+|move|p1a: Conkeldurr|Drain Punch|p2a: Swellow
+|-damage|p2a: Swellow|0 fnt
+|faint|p2a: Swellow
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|281/299|[from] Sandstorm
+|upkeep
+|
+|t:|1711944747
+|switch|p2a: Reuniclus|Reuniclus, L82, F|315/315
+|turn|2
+|
+|t:|1711944765
+|switch|p1a: Stoutland|Stoutland, L87, F|290/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Reuniclus|atk|1
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Stoutland|272/290|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1711944776
+|move|p1a: Stoutland|Crunch|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|121/315
+|move|p2a: Reuniclus|Psychic|p1a: Stoutland
+|-damage|p1a: Stoutland|58/290
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Stoutland|40/290|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1711944787
+|switch|p2a: Dusclops|Dusclops, L85, M|207/207
+|-ability|p2a: Dusclops|Pressure
+|move|p1a: Stoutland|Crunch|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-crit|p2a: Dusclops
+|-damage|p2a: Dusclops|33/207
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Stoutland|22/290|[from] Sandstorm
+|-damage|p2a: Dusclops|21/207|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711944798
+|move|p1a: Stoutland|Crunch|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-damage|p2a: Dusclops|0 fnt
+|faint|p2a: Dusclops
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Stoutland|4/290|[from] Sandstorm
+|upkeep
+|
+|t:|1711944806
+|switch|p2a: Tyranitar|Tyranitar, L80, M|291/291
+|turn|6
+|
+|t:|1711944811
+|switch|p1a: Conkeldurr|Conkeldurr, L80, F|281/299
+|move|p2a: Tyranitar|Dragon Dance|p2a: Tyranitar
+|-boost|p2a: Tyranitar|atk|1
+|-boost|p2a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|263/299|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1711944827
+|move|p1a: Conkeldurr|Mach Punch|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|245/299|[from] Sandstorm
+|upkeep
+|
+|t:|1711944834
+|switch|p2a: Darkrai|Darkrai, L71|202/202
+|turn|8
+|
+|t:|1711944840
+|move|p1a: Conkeldurr|Mach Punch|p2a: Darkrai
+|-supereffective|p2a: Darkrai
+|-damage|p2a: Darkrai|0 fnt
+|faint|p2a: Darkrai
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|227/299|[from] Sandstorm
+|upkeep
+|
+|t:|1711944850
+|switch|p2a: Reuniclus|Reuniclus, L82, F|121/315
+|turn|9
+|
+|t:|1711944857
+|switch|p1a: Gliscor|Gliscor, L79, M|248/248
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|279/315
+|
+|-weather|Sandstorm|[upkeep]
+|-status|p1a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1711944868
+|move|p1a: Gliscor|Toxic|p2a: Reuniclus
+|-status|p2a: Reuniclus|tox
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1711944876
+|move|p1a: Gliscor|Facade|p2a: Reuniclus
+|-crit|p2a: Reuniclus
+|-damage|p2a: Reuniclus|89/315 tox
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1711944884
+|move|p1a: Gliscor|Facade|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711944890
+|switch|p2a: Whiscash|Whiscash, L89, F|341/341
+|turn|13
+|
+|t:|1711944897
+|switch|p1a: Virizion|Virizion, L80|277/277
+|move|p2a: Whiscash|Stone Edge|p1a: Virizion
+|-resisted|p1a: Virizion
+|-damage|p1a: Virizion|224/277
+|-damage|p2a: Whiscash|307/341|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Virizion|207/277|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1711944911
+|move|p1a: Virizion|Leaf Blade|p2a: Whiscash
+|-supereffective|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|-damage|p1a: Virizion|180/277|[from] item: Life Orb
+|
+|win|sph05468
+|raw|sph05468's rating: 1040 &rarr; <strong>1070</strong><br />(+30 for winning)
+|raw|GisoDp's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆GisoDp
+|player|p2|

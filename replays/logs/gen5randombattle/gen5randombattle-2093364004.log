@@ -1,0 +1,265 @@
+|j|☆n4n34
+|j|☆MeRrkava
+|t:|1711944958
+|gametype|singles
+|player|p1|n4n34|cyclist-gen4|1080
+|player|p2|MeRrkava|cynthia|1042
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711944958
+|start
+|switch|p1a: Dodrio|Dodrio, L86, M|243/243
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by n4n34)
+|inactive|n4n34 has 120 seconds left.
+|
+|t:|1711944997
+|switch|p2a: Probopass|Probopass, L88, M|249/249
+|-item|p2a: Probopass|Air Balloon
+|move|p1a: Dodrio|Brave Bird|p2a: Probopass
+|-resisted|p2a: Probopass
+|-damage|p2a: Probopass|218/249
+|-enditem|p2a: Probopass|Air Balloon
+|-damage|p1a: Dodrio|233/243|[from] Recoil
+|-damage|p1a: Dodrio|209/243|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1711945010
+|switch|p1a: Carnivine|Carnivine, L97, M|301/301
+|move|p2a: Probopass|Thunder Wave|p1a: Carnivine
+|-status|p1a: Carnivine|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711945026
+|move|p2a: Probopass|Volt Switch|p1a: Carnivine
+|-resisted|p1a: Carnivine
+|-damage|p1a: Carnivine|278/301 par
+|
+|t:|1711945034
+|switch|p2a: Reshiram|Reshiram, L73|266/266|[from] Volt Switch
+|-ability|p2a: Reshiram|Turboblaze
+|move|p1a: Carnivine|Power Whip|p2a: Reshiram
+|-resisted|p2a: Reshiram
+|-damage|p2a: Reshiram|223/266
+|
+|-heal|p2a: Reshiram|239/266|[from] item: Leftovers
+|-heal|p1a: Carnivine|296/301 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711945051
+|move|p2a: Reshiram|Flame Charge|p1a: Carnivine
+|-supereffective|p1a: Carnivine
+|-crit|p1a: Carnivine
+|-damage|p1a: Carnivine|98/301 par
+|-boost|p2a: Reshiram|spe|1
+|move|p1a: Carnivine|Knock Off|p2a: Reshiram
+|-damage|p2a: Reshiram|218/266
+|-enditem|p2a: Reshiram|Leftovers|[from] move: Knock Off|[of] p1a: Carnivine
+|
+|-heal|p1a: Carnivine|116/301 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711945063
+|move|p2a: Reshiram|Flame Charge|p1a: Carnivine
+|-supereffective|p1a: Carnivine
+|-damage|p1a: Carnivine|18/301 par
+|-boost|p2a: Reshiram|spe|1
+|cant|p1a: Carnivine|par
+|
+|-heal|p1a: Carnivine|36/301 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711945072
+|move|p2a: Reshiram|Flame Charge|p1a: Carnivine
+|-supereffective|p1a: Carnivine
+|-damage|p1a: Carnivine|0 fnt
+|-boost|p2a: Reshiram|spe|1
+|faint|p1a: Carnivine
+|
+|upkeep
+|
+|t:|1711945079
+|switch|p1a: Dodrio|Dodrio, L86, M|209/243
+|turn|7
+|
+|t:|1711945084
+|move|p2a: Reshiram|Blue Flare|p1a: Dodrio
+|-damage|p1a: Dodrio|7/243
+|move|p1a: Dodrio|Return|p2a: Reshiram
+|-damage|p2a: Reshiram|43/266
+|-damage|p1a: Dodrio|0 fnt|[from] item: Life Orb
+|faint|p1a: Dodrio
+|
+|upkeep
+|
+|t:|1711945092
+|switch|p1a: Crawdaunt|Crawdaunt, L85, F|246/246
+|turn|8
+|
+|t:|1711945096
+|move|p2a: Reshiram|Draco Meteor|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|24/246
+|-unboost|p2a: Reshiram|spa|2
+|move|p1a: Crawdaunt|Crunch|p2a: Reshiram
+|-damage|p2a: Reshiram|0 fnt
+|faint|p2a: Reshiram
+|-damage|p1a: Crawdaunt|0 fnt|[from] item: Life Orb
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1711945108
+|switch|p2a: Probopass|Probopass, L88, M|218/249
+|switch|p1a: Cloyster|Cloyster, L79, M|209/209
+|turn|9
+|
+|t:|1711945114
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|move|p2a: Probopass|Thunder Wave|p1a: Cloyster
+|-status|p1a: Cloyster|par
+|
+|upkeep
+|turn|10
+|
+|t:|1711945126
+|move|p2a: Probopass|Power Gem|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-crit|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|upkeep
+|
+|t:|1711945131
+|switch|p1a: Pinsir|Pinsir, L86, M|252/252
+|-ability|p1a: Pinsir|Mold Breaker
+|turn|11
+|
+|t:|1711945136
+|move|p1a: Pinsir|Stealth Rock|p2a: Probopass
+|-sidestart|p2: MeRrkava|move: Stealth Rock
+|move|p2a: Probopass|Power Gem|p1a: Pinsir
+|-supereffective|p1a: Pinsir
+|-damage|p1a: Pinsir|90/252
+|
+|-heal|p1a: Pinsir|105/252|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711945144
+|move|p1a: Pinsir|Earthquake|p2a: Probopass
+|-supereffective|p2a: Probopass
+|-damage|p2a: Probopass|0 fnt
+|faint|p2a: Probopass
+|
+|-heal|p1a: Pinsir|120/252|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945159
+|switch|p2a: Granbull|Granbull, L90, M|308/308
+|-damage|p2a: Granbull|270/308|[from] Stealth Rock
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Pinsir|atk|1
+|turn|13
+|
+|t:|1711945178
+|switch|p1a: Exeggutor|Exeggutor, L88, F|308/308
+|move|p2a: Granbull|Thunder Wave|p1a: Exeggutor
+|-status|p1a: Exeggutor|par
+|
+|-heal|p2a: Granbull|289/308|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711945189
+|move|p2a: Granbull|Crunch|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|162/308 par
+|move|p1a: Exeggutor|Leech Seed|p2a: Granbull
+|-start|p2a: Granbull|move: Leech Seed
+|
+|-heal|p2a: Granbull|308/308|[from] item: Leftovers
+|-damage|p2a: Granbull|270/308|[from] Leech Seed|[of] p1a: Exeggutor
+|-heal|p1a: Exeggutor|200/308 par|[silent]
+|upkeep
+|turn|15
+|
+|t:|1711945199
+|switch|p2a: Tropius|Tropius, L91, M|328/328
+|-damage|p2a: Tropius|246/328|[from] Stealth Rock
+|move|p1a: Exeggutor|Substitute|p1a: Exeggutor
+|-start|p1a: Exeggutor|Substitute
+|-damage|p1a: Exeggutor|123/308 par
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|200/308 par|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|16
+|
+|t:|1711945211
+|move|p2a: Tropius|Substitute|p2a: Tropius
+|-start|p2a: Tropius|Substitute
+|-damage|p2a: Tropius|164/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|246/328|[from] item: Sitrus Berry
+|move|p1a: Exeggutor|Psychic|p2a: Tropius
+|-crit|p2a: Tropius
+|-end|p2a: Tropius|Substitute
+|
+|-item|p2a: Tropius|Sitrus Berry|[from] ability: Harvest
+|-item|p1a: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|17
+|
+|t:|1711945224
+|move|p2a: Tropius|Air Slash|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-end|p1a: Exeggutor|Substitute
+|move|p1a: Exeggutor|Psychic|p2a: Tropius
+|-damage|p2a: Tropius|126/328
+|-enditem|p2a: Tropius|Sitrus Berry|[eat]
+|-heal|p2a: Tropius|208/328|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|18
+|
+|t:|1711945233
+|move|p2a: Tropius|Air Slash|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|12/308 par
+|-enditem|p1a: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1a: Exeggutor|89/308 par|[from] item: Sitrus Berry
+|move|p1a: Exeggutor|Psychic|p2a: Tropius
+|-damage|p2a: Tropius|84/328
+|
+|upkeep
+|turn|19
+|-message|n4n34 forfeited.
+|
+|win|MeRrkava
+|raw|n4n34's rating: 1080 &rarr; <strong>1056</strong><br />(-24 for losing)
+|raw|MeRrkava's rating: 1042 &rarr; <strong>1079</strong><br />(+37 for winning)
+|l|☆n4n34
+|player|p1|

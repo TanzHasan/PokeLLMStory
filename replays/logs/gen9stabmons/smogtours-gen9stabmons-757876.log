@@ -1,0 +1,402 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711916885
+|gametype|singles
+|player|p1|nonsense bungaku|swimmerf-gen6|
+|player|p2|Treeko928|hilbert-wonderlauncher|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Kyurem|
+|poke|p1|Iron Valiant|
+|poke|p1|Magnezone|
+|poke|p2|Gliscor, M|
+|poke|p2|Gholdengo|
+|poke|p2|Toxapex, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Sylveon, M|
+|poke|p2|Greninja-*, M|
+|teampreview
+|c|☆nonsense bungaku|glhf
+|c|☆Treeko928|u2
+|inactive|Treeko928 has 270 seconds left.
+|inactive|Treeko928 has 240 seconds left.
+|inactive|nonsense bungaku has 270 seconds left.
+|
+|t:|1711916953
+|start
+|switch|p1a: THE SERPENT|Landorus-Therian, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-ability|p1a: THE SERPENT|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|turn|1
+|
+|t:|1711916973
+|move|p1a: THE SERPENT|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: Treeko928|move: Stealth Rock
+|move|p2a: Toxapex|Mortal Spin|p1a: THE SERPENT
+|-resisted|p1a: THE SERPENT
+|-damage|p1a: THE SERPENT|99/100
+|-status|p1a: THE SERPENT|psn
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: THE SERPENT
+|-sideend|p2: Treeko928|Stealth Rock|[from] move: Mortal Spin|[of] p2a: Toxapex
+|
+|-damage|p1a: THE SERPENT|87/100 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1711916983
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|move|p1a: THE SERPENT|Stealth Rock|p2a: Gliscor
+|-sidestart|p2: Treeko928|move: Stealth Rock
+|
+|-damage|p1a: THE SERPENT|74/100 psn|[from] psn
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1711916993
+|move|p2a: Gliscor|Toxic||[still]
+|-fail|p2a: Gliscor
+|move|p1a: THE SERPENT|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|93/100 tox
+|
+|t:|1711916996
+|switch|p1a: CENTER CORE|Kyurem, shiny|100/100|[from] U-turn
+|-ability|p1a: CENTER CORE|Pressure
+|
+|-heal|p2a: Gliscor|100/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|4
+|
+|t:|1711917018
+|switch|p2a: Sylveon|Sylveon, M|100/100
+|-damage|p2a: Sylveon|88/100|[from] Stealth Rock
+|move|p1a: CENTER CORE|Freeze-Dry|p2a: Sylveon
+|-damage|p2a: Sylveon|59/100
+|
+|-heal|p2a: Sylveon|65/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711917038
+|switch|p1a: MY SWISHER SWEET|Magnezone, shiny|100/100
+|move|p2a: Sylveon|Slack Off|p2a: Sylveon
+|-heal|p2a: Sylveon|100/100
+|
+|upkeep
+|turn|6
+|inactive|Treeko928 has 270 seconds left.
+|
+|t:|1711917072
+|switch|p2a: Gliscor|Gliscor, M|100/100 tox
+|-damage|p2a: Gliscor|88/100 tox|[from] Stealth Rock
+|move|p1a: MY SWISHER SWEET|Make It Rain|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|-unboost|p1a: MY SWISHER SWEET|spa|1
+|faint|p2a: Gliscor
+|-damage|p1a: MY SWISHER SWEET|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711917086
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|turn|7
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711917119
+|-terastallize|p2a: Toxapex|Dragon
+|move|p1a: MY SWISHER SWEET|Electro Drift|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|-damage|p1a: MY SWISHER SWEET|81/100|[from] item: Life Orb
+|move|p2a: Toxapex|Infestation|p1a: MY SWISHER SWEET
+|-resisted|p1a: MY SWISHER SWEET
+|-damage|p1a: MY SWISHER SWEET|79/100
+|-activate|p1a: MY SWISHER SWEET|move: Infestation|[of] p2a: Toxapex
+|
+|-damage|p1a: MY SWISHER SWEET|66/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|8
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711917139
+|move|p1a: MY SWISHER SWEET|Volt Switch|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|66/100
+|-damage|p1a: MY SWISHER SWEET|56/100|[from] item: Life Orb
+|
+|t:|1711917140
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|100/100|[from] Volt Switch
+|move|p2a: Toxapex|Flip Turn|p1a: CHAMPAGNE FACE
+|-resisted|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|96/100
+|inactive|Treeko928 has 240 seconds left.
+|
+|t:|1711917163
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] Flip Turn
+|-damage|p2a: Raging Bolt|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Raging Bolt|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711917175
+|move|p2a: Raging Bolt|Electro Drift|p1a: CHAMPAGNE FACE
+|-supereffective|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|23/100
+|move|p1a: CHAMPAGNE FACE|Flip Turn|p2a: Raging Bolt
+|-resisted|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|87/100
+|
+|t:|1711917178
+|switch|p1a: CENTER CORE|Kyurem, shiny|100/100|[from] Flip Turn
+|-ability|p1a: CENTER CORE|Pressure
+|
+|-heal|p2a: Raging Bolt|94/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711917207
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Sylveon|Sylveon, M|100/100
+|-damage|p2a: Sylveon|88/100|[from] Stealth Rock
+|move|p1a: CENTER CORE|Glacial Lance|p2a: Sylveon
+|-crit|p2a: Sylveon
+|-damage|p2a: Sylveon|4/100
+|
+|-heal|p2a: Sylveon|10/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917235
+|move|p1a: CENTER CORE|Freeze-Dry|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|
+|t:|1711917245
+|switch|p2a: Gholdengo|Gholdengo|100/100
+|-damage|p2a: Gholdengo|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1711917268
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|56/100
+|move|p2a: Gholdengo|Astral Barrage|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|26/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711917274
+|switch|p1a: THE SERPENT|Landorus-Therian, M|74/100 psn
+|-ability|p1a: THE SERPENT|Intimidate|boost
+|-unboost|p2a: Gholdengo|atk|1
+|move|p2a: Gholdengo|Astral Barrage|p1a: THE SERPENT
+|-damage|p1a: THE SERPENT|8/100 psn
+|
+|-damage|p1a: THE SERPENT|0 fnt|[from] psn
+|faint|p1a: THE SERPENT
+|upkeep
+|
+|t:|1711917278
+|switch|p1a: I DREAM OF CHROME|Iron Valiant, shiny|100/100
+|-enditem|p1a: I DREAM OF CHROME|Booster Energy
+|-activate|p1a: I DREAM OF CHROME|ability: Quark Drive|[fromitem]
+|-start|p1a: I DREAM OF CHROME|quarkdrivespe
+|turn|14
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917304
+|switch|p2a: Raging Bolt|Raging Bolt|94/100
+|-damage|p2a: Raging Bolt|81/100|[from] Stealth Rock
+|move|p1a: I DREAM OF CHROME|Knock Off|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|50/100
+|-enditem|p2a: Raging Bolt|Leftovers|[from] move: Knock Off|[of] p1a: I DREAM OF CHROME
+|
+|upkeep
+|turn|15
+|
+|t:|1711917312
+|move|p2a: Raging Bolt|Thunderclap|p1a: I DREAM OF CHROME
+|-damage|p1a: I DREAM OF CHROME|32/100
+|move|p1a: I DREAM OF CHROME|Close Combat|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|-unboost|p1a: I DREAM OF CHROME|def|1
+|-unboost|p1a: I DREAM OF CHROME|spd|1
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|Treeko928 has 180 seconds left.
+|
+|t:|1711917351
+|switch|p2a: Greninja|Greninja, M|100/100
+|-damage|p2a: Greninja|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1711917356
+|-end|p1a: I DREAM OF CHROME|Quark Drive|[silent]
+|switch|p1a: BUCKHEAD|Ogerpon-Wellspring, F|100/100
+|move|p2a: Greninja|Swords Dance|p2a: Greninja
+|-boost|p2a: Greninja|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1711917374
+|move|p1a: BUCKHEAD|Jet Punch|p2a: Greninja
+|-resisted|p2a: Greninja
+|-crit|p2a: Greninja
+|-damage|p2a: Greninja|42/100
+|move|p2a: Greninja|Wicked Blow|p1a: BUCKHEAD
+|-crit|p1a: BUCKHEAD
+|-damage|p1a: BUCKHEAD|0 fnt
+|faint|p1a: BUCKHEAD
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|
+|upkeep
+|
+|t:|1711917392
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|59/100
+|turn|18
+|
+|t:|1711917395
+|switch|p1a: I DREAM OF CHROME|Iron Valiant, shiny|32/100
+|move|p2a: Greninja|Surging Strikes|p1a: I DREAM OF CHROME
+|-crit|p1a: I DREAM OF CHROME
+|-damage|p1a: I DREAM OF CHROME|0 fnt
+|faint|p1a: I DREAM OF CHROME
+|-end|p1a: I DREAM OF CHROME|Quark Drive|[silent]
+|-hitcount|p1: I DREAM OF CHROME|1
+|
+|upkeep
+|
+|t:|1711917398
+|switch|p1a: MY SWISHER SWEET|Magnezone, shiny|56/100
+|turn|19
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917412
+|move|p2a: Greninja|Jet Punch|p1a: MY SWISHER SWEET
+|-damage|p1a: MY SWISHER SWEET|0 fnt
+|faint|p1a: MY SWISHER SWEET
+|
+|upkeep
+|
+|t:|1711917423
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|93/100
+|turn|20
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917438
+|move|p2a: Greninja|Wicked Blow|p1a: CHAMPAGNE FACE
+|-crit|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|11/100
+|move|p1a: CHAMPAGNE FACE|Clear Smog|p2a: Greninja
+|-damage|p2a: Greninja|26/100
+|-clearboost|p2a: Greninja
+|
+|upkeep
+|turn|21
+|
+|t:|1711917447
+|switch|p1a: CENTER CORE|Kyurem, shiny|100/100
+|-ability|p1a: CENTER CORE|Pressure
+|move|p2a: Greninja|Wicked Blow|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|50/100
+|
+|upkeep
+|turn|22
+|
+|t:|1711917452
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|44/100
+|move|p2a: Greninja|Wicked Blow|p1a: CHAMPAGNE FACE
+|-crit|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|11/100
+|
+|upkeep
+|turn|23
+|inactive|Treeko928 has 210 seconds left.
+|c|☆nonsense bungaku|unbanning wicked blow was a really good descision by council
+|
+|t:|1711917483
+|switch|p1a: CENTER CORE|Kyurem, shiny|50/100
+|-ability|p1a: CENTER CORE|Pressure
+|move|p2a: Greninja|Surging Strikes|p1a: CENTER CORE
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|41/100
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|30/100
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|20/100
+|-hitcount|p1a: CENTER CORE|3
+|
+|upkeep
+|turn|24
+|c|☆Treeko928|ikr
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917494
+|move|p2a: Greninja|Surging Strikes|p1a: CENTER CORE
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|11/100
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|2/100
+|-resisted|p1a: CENTER CORE
+|-crit|p1a: CENTER CORE
+|-damage|p1a: CENTER CORE|0 fnt
+|faint|p1a: CENTER CORE
+|-hitcount|p1: CENTER CORE|3
+|
+|upkeep
+|
+|t:|1711917496
+|switch|p1a: CHAMPAGNE FACE|Toxapex, F, shiny|44/100
+|turn|25
+|inactive|Treeko928 has 210 seconds left.
+|
+|t:|1711917506
+|move|p2a: Greninja|Wicked Blow|p1a: CHAMPAGNE FACE
+|-crit|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|8/100
+|move|p1a: CHAMPAGNE FACE|Scald|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|13/100
+|-status|p2a: Greninja|brn
+|
+|-damage|p2a: Greninja|8/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1711917509
+|move|p2a: Greninja|Wicked Blow|p1a: CHAMPAGNE FACE
+|-crit|p1a: CHAMPAGNE FACE
+|-damage|p1a: CHAMPAGNE FACE|0 fnt
+|faint|p1a: CHAMPAGNE FACE
+|
+|win|Treeko928

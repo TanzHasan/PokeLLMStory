@@ -1,0 +1,327 @@
+|j|☆AllHailDudunsparce
+|j|☆ThatDumbo
+|t:|1711934819
+|gametype|singles
+|player|p1|AllHailDudunsparce|ghetsis-gen5bw|1082
+|player|p2|ThatDumbo|schoolkid|1117
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Almost Any Ability
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|1 Ability Clause: Limit 1 of each ability
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Dudunsparce-*, M|
+|poke|p1|Great Tusk|
+|poke|p1|Metagross|
+|poke|p1|Garganacl, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Mismagius, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Meowscarada, M|
+|poke|p2|Galvantula, M|
+|poke|p2|Cinccino, M|
+|poke|p2|Cinderace, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AllHailDudunsparce)
+|
+|t:|1711934828
+|start
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, M, shiny|100/100
+|switch|p2a: Cinderace|Cinderace, M|100/100
+|turn|1
+|
+|t:|1711934840
+|move|p2a: Cinderace|High Jump Kick|p1a: Dudunsparce
+|-supereffective|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|26/100
+|move|p1a: Dudunsparce|Poison Tail|p2a: Cinderace
+|-damage|p2a: Cinderace|66/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711934848
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Sword of Ruin
+|move|p2a: Cinderace|Pyro Ball|p1a: Landorus
+|-damage|p1a: Landorus|32/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711934858
+|move|p2a: Cinderace|Sucker Punch|p1a: Landorus
+|-damage|p1a: Landorus|3/100
+|move|p1a: Landorus|Earthquake|p2a: Cinderace
+|-supereffective|p2a: Cinderace
+|-damage|p2a: Cinderace|0 fnt
+|faint|p2a: Cinderace
+|
+|upkeep
+|
+|t:|1711934869
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|turn|4
+|
+|t:|1711934873
+|move|p1a: Landorus|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1711934877
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-activate|p2a: Meowscarada|ability: Supreme Overlord
+|-start|p2a: Meowscarada|fallen2|[silent]
+|turn|5
+|
+|t:|1711934891
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Meowscarada|Sucker Punch||[still]
+|-fail|p2a: Meowscarada
+|
+|upkeep
+|turn|6
+|
+|t:|1711934899
+|move|p2a: Meowscarada|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|91/100
+|
+|t:|1711934901
+|-end|p2a: Meowscarada|fallen2|[silent]
+|switch|p2a: Mismagius|Mismagius, M|100/100|[from] U-turn
+|move|p1a: Great Tusk|Close Combat|p2a: Mismagius
+|-immune|p2a: Mismagius
+|
+|upkeep
+|turn|7
+|
+|t:|1711934909
+|move|p2a: Mismagius|Skill Swap|p1a: Great Tusk
+|-activate|p2a: Mismagius|move: Skill Swap|Regenerator|Normalize|[of] p1a: Great Tusk
+|move|p1a: Great Tusk|Knock Off|p2a: Mismagius
+|-immune|p2a: Mismagius
+|
+|upkeep
+|turn|8
+|c|☆AllHailDudunsparce|bruh
+|c|☆ThatDumbo|lmao
+|
+|t:|1711934921
+|switch|p1a: Garganacl|Garganacl, M|100/100
+|move|p2a: Mismagius|Nasty Plot|p2a: Mismagius
+|-boost|p2a: Mismagius|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1711934927
+|move|p2a: Mismagius|Shadow Ball|p1a: Garganacl
+|-damage|p1a: Garganacl|28/100
+|move|p1a: Garganacl|Salt Cure|p2a: Mismagius
+|-damage|p2a: Mismagius|70/100
+|-start|p2a: Mismagius|Salt Cure
+|
+|-heal|p1a: Garganacl|35/100|[from] item: Leftovers
+|-damage|p2a: Mismagius|58/100|[from] Salt Cure
+|upkeep
+|turn|10
+|
+|t:|1711934937
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, M, shiny|26/100
+|move|p2a: Mismagius|Shadow Ball|p1a: Dudunsparce
+|-immune|p1a: Dudunsparce
+|
+|-damage|p2a: Mismagius|46/100|[from] Salt Cure
+|upkeep
+|turn|11
+|
+|t:|1711934945
+|move|p2a: Mismagius|Dazzling Gleam|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|faint|p1a: Dudunsparce
+|
+|-damage|p2a: Mismagius|33/100|[from] Salt Cure
+|upkeep
+|c|☆AllHailDudunsparce|NOOOOOOOO
+|
+|t:|1711934953
+|switch|p1a: Landorus|Landorus-Therian, M|3/100
+|-ability|p1a: Landorus|Sword of Ruin
+|turn|12
+|
+|t:|1711934963
+|switch|p2a: Cinccino|Cinccino, M|100/100
+|move|p1a: Landorus|Earthquake|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|upkeep
+|
+|t:|1711934966
+|switch|p2a: Mismagius|Mismagius, M|67/100
+|turn|13
+|
+|t:|1711934972
+|move|p1a: Landorus|Earthquake|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|
+|upkeep
+|
+|t:|1711934976
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-activate|p2a: Meowscarada|ability: Supreme Overlord
+|-start|p2a: Meowscarada|fallen4|[silent]
+|turn|14
+|
+|t:|1711934983
+|switch|p1a: Garganacl|Garganacl, M|35/100
+|move|p2a: Meowscarada|Sucker Punch||[still]
+|-fail|p2a: Meowscarada
+|
+|-heal|p1a: Garganacl|41/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711934990
+|move|p1a: Garganacl|Protect|p1a: Garganacl
+|-singleturn|p1a: Garganacl|Protect
+|move|p2a: Meowscarada|Flower Trick|p1a: Garganacl
+|-activate|p1a: Garganacl|move: Protect
+|
+|-heal|p1a: Garganacl|47/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711934999
+|move|p2a: Meowscarada|Flower Trick|p1a: Garganacl
+|-supereffective|p1a: Garganacl
+|-crit|p1a: Garganacl
+|-damage|p1a: Garganacl|0 fnt
+|faint|p1a: Garganacl
+|
+|upkeep
+|
+|t:|1711935006
+|switch|p1a: Great Tusk|Great Tusk|91/100
+|turn|17
+|
+|t:|1711935009
+|move|p2a: Meowscarada|U-turn|p1a: Great Tusk
+|-resisted|p1a: Great Tusk
+|-damage|p1a: Great Tusk|80/100
+|
+|t:|1711935011
+|-end|p2a: Meowscarada|fallen4|[silent]
+|switch|p2a: Galvantula|Galvantula, M|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Galvantula
+|move|p1a: Great Tusk|Close Combat|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|32/100
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1711935024
+|move|p2a: Galvantula|Sticky Web|p1a: Great Tusk
+|-sidestart|p1: AllHailDudunsparce|move: Sticky Web
+|move|p1a: Great Tusk|Close Combat|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|-unboost|p1a: Great Tusk|def|1
+|-unboost|p1a: Great Tusk|spd|1
+|faint|p2a: Galvantula
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711935029
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|-activate|p2a: Meowscarada|ability: Supreme Overlord
+|-start|p2a: Meowscarada|fallen5|[silent]
+|turn|19
+|
+|t:|1711935038
+|switch|p1a: Landorus|Landorus-Therian, M|3/100
+|-ability|p1a: Landorus|Sword of Ruin
+|move|p2a: Meowscarada|Flower Trick|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711935056
+|switch|p1a: Deoxys|Deoxys-Speed|100/100
+|-activate|p1a: Deoxys|move: Sticky Web
+|-unboost|p1a: Deoxys|spe|1
+|-activate|p1a: Deoxys|ability: Supreme Overlord
+|-start|p1a: Deoxys|fallen3|[silent]
+|turn|20
+|
+|t:|1711935063
+|move|p2a: Meowscarada|U-turn|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|8/100
+|move|p1a: Deoxys|Nasty Plot|p1a: Deoxys
+|-boost|p1a: Deoxys|spa|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|c|☆AllHailDudunsparce|i thought sucker punch
+|inactive|AllHailDudunsparce has 120 seconds left.
+|c|☆AllHailDudunsparce|and thought wrong
+|c|☆ThatDumbo|Nah
+|
+|t:|1711935096
+|move|p2a: Meowscarada|Sucker Punch|p1a: Deoxys
+|-supereffective|p1a: Deoxys
+|-damage|p1a: Deoxys|0 fnt
+|faint|p1a: Deoxys
+|-end|p1a: Deoxys|fallen3|[silent]
+|
+|-weather|none
+|upkeep
+|inactive|AllHailDudunsparce has 120 seconds left.
+|
+|t:|1711935102
+|switch|p1a: Metagross|Metagross|100/100
+|-activate|p1a: Metagross|move: Sticky Web
+|-unboost|p1a: Metagross|spe|1
+|-ability|p1a: Metagross|Defiant|boost
+|-boost|p1a: Metagross|atk|2
+|turn|22
+|inactive|AllHailDudunsparce has 120 seconds left.
+|
+|t:|1711935112
+|move|p2a: Meowscarada|U-turn|p1a: Metagross
+|-damage|p1a: Metagross|78/100
+|move|p1a: Metagross|Brick Break|p2a: Meowscarada
+|-supereffective|p2a: Meowscarada
+|-damage|p2a: Meowscarada|0 fnt
+|faint|p2a: Meowscarada
+|-end|p2a: Meowscarada|fallen5|[silent]
+|
+|win|AllHailDudunsparce
+|raw|AllHailDudunsparce's rating: 1082 &rarr; <strong>1112</strong><br />(+30 for winning)
+|raw|ThatDumbo's rating: 1117 &rarr; <strong>1089</strong><br />(-28 for losing)
+|c|☆AllHailDudunsparce|gg
+|c|☆ThatDumbo|Fuck
+|c|☆AllHailDudunsparce|lol

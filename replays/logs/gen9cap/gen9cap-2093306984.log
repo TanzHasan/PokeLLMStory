@@ -1,0 +1,348 @@
+|j|☆Philou008
+|j|☆exithe
+|t:|1711937252
+|gametype|singles
+|player|p1|Philou008|artist|
+|player|p2|exithe|kris-gen2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Chromera|
+|poke|p1|Plasmanta, F|
+|poke|p1|Hemogoblin, F|
+|poke|p1|Tomohawk, F|
+|poke|p1|Venomicon|
+|poke|p1|Miasmaw, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Hemogoblin, M|
+|poke|p2|Pecharunt|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Iron Valiant|
+|teampreview
+|c|☆Philou008|glhf
+|c|☆exithe|u2
+|j|^Spammernoob
+|
+|t:|1711937317
+|start
+|switch|p1a: Chromera|Chromera|100/100
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|turn|1
+|
+|t:|1711937323
+|move|p2a: Ogerpon|Knock Off|p1a: Chromera
+|-resisted|p1a: Chromera
+|-damage|p1a: Chromera|88/100
+|-enditem|p1a: Chromera|Light Clay|[from] move: Knock Off|[of] p2a: Ogerpon
+|move|p1a: Chromera|Reflect|p1a: Chromera
+|-sidestart|p1: Philou008|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1711937328
+|move|p2a: Ogerpon|Swords Dance|p2a: Ogerpon
+|-boost|p2a: Ogerpon|atk|2
+|move|p1a: Chromera|Light Screen|p1a: Chromera
+|-sidestart|p1: Philou008|move: Light Screen
+|
+|upkeep
+|turn|3
+|
+|t:|1711937333
+|move|p2a: Ogerpon|Ivy Cudgel|p1a: Chromera|[anim] Ivy Cudgel Water
+|-damage|p1a: Chromera|47/100
+|-start|p1a: Chromera|typechange|Water|[from] ability: Color Change
+|move|p1a: Chromera|Boomburst|p2a: Ogerpon
+|-damage|p2a: Ogerpon|61/100
+|
+|upkeep
+|turn|4
+|c|☆Philou008|how dare you knock my clay
+|
+|t:|1711937346
+|switch|p1a: Plasmanta|Plasmanta, F|100/100
+|move|p2a: Ogerpon|Power Whip|p1a: Plasmanta
+|-resisted|p1a: Plasmanta
+|-damage|p1a: Plasmanta|60/100
+|
+|upkeep
+|turn|5
+|c|☆exithe|had to do it for the team :(
+|
+|t:|1711937360
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Plasmanta|atk|1
+|move|p1a: Plasmanta|Sludge Wave|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|75/100
+|-status|p2a: Landorus|psn
+|
+|-damage|p2a: Landorus|63/100 psn|[from] psn
+|-sideend|p1: Philou008|Reflect
+|upkeep
+|turn|6
+|
+|t:|1711937368
+|switch|p1a: Venomicon|Venomicon|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Venomicon
+|-sidestart|p1: Philou008|move: Stealth Rock
+|
+|-damage|p2a: Landorus|50/100 psn|[from] psn
+|-sideend|p1: Philou008|move: Light Screen
+|upkeep
+|turn|7
+|
+|t:|1711937372
+|move|p2a: Landorus|Taunt|p1a: Venomicon
+|-start|p1a: Venomicon|move: Taunt
+|move|p1a: Venomicon|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|38/100 psn
+|-damage|p1a: Venomicon|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Venomicon
+|
+|-damage|p2a: Landorus|25/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711937387
+|move|p2a: Landorus|Smack Down|p1a: Venomicon
+|-supereffective|p1a: Venomicon
+|-damage|p1a: Venomicon|59/100
+|-start|p1a: Venomicon|Smack Down
+|-ability|p1a: Venomicon|Stamina|boost
+|-boost|p1a: Venomicon|def|1
+|move|p1a: Venomicon|Sludge Bomb|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|7/100 psn
+|
+|-damage|p2a: Landorus|0 fnt|[from] psn
+|faint|p2a: Landorus
+|upkeep
+|c|^Spammernoob|sad
+|c|^Spammernoob|goobed by poison
+|c|☆Philou008|ye
+|
+|t:|1711937407
+|switch|p2a: Pecharunt|Pecharunt|100/100
+|turn|9
+|
+|t:|1711937427
+|move|p2a: Pecharunt|Nasty Plot|p2a: Pecharunt
+|-boost|p2a: Pecharunt|spa|2
+|move|p1a: Venomicon|Knock Off|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|85/100
+|-enditem|p2a: Pecharunt|Leftovers|[from] move: Knock Off|[of] p1a: Venomicon
+|
+|-end|p1a: Venomicon|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1711937433
+|move|p2a: Pecharunt|Shadow Ball|p1a: Venomicon
+|-damage|p1a: Venomicon|10/100
+|-ability|p1a: Venomicon|Stamina|boost
+|-boost|p1a: Venomicon|def|1
+|move|p1a: Venomicon|Roost|p1a: Venomicon
+|-heal|p1a: Venomicon|60/100
+|-singleturn|p1a: Venomicon|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1711937437
+|move|p2a: Pecharunt|Nasty Plot|p2a: Pecharunt
+|-boost|p2a: Pecharunt|spa|2
+|move|p1a: Venomicon|Roost|p1a: Venomicon
+|-heal|p1a: Venomicon|100/100
+|-singleturn|p1a: Venomicon|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1711937442
+|move|p2a: Pecharunt|Shadow Ball|p1a: Venomicon
+|-damage|p1a: Venomicon|25/100
+|-ability|p1a: Venomicon|Stamina|boost
+|-boost|p1a: Venomicon|def|1
+|move|p1a: Venomicon|U-turn|p2a: Pecharunt
+|-resisted|p2a: Pecharunt
+|-damage|p2a: Pecharunt|83/100
+|
+|t:|1711937452
+|switch|p1a: Miasmaw|Miasmaw, F|100/100|[from] U-turn
+|-ability|p1a: Miasmaw|Neutralizing Gas
+|-damage|p1a: Miasmaw|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1711937463
+|move|p1a: Miasmaw|Earthquake|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|17/100
+|move|p2a: Pecharunt|Shadow Ball|p1a: Miasmaw
+|-damage|p1a: Miasmaw|0 fnt
+|faint|p1a: Miasmaw
+|-end|p1a: Miasmaw|ability: Neutralizing Gas
+|
+|upkeep
+|c|☆exithe|ate
+|c|☆Philou008|ye
+|j|@Da Pizza Man
+|l|@Da Pizza Man
+|
+|t:|1711937479
+|switch|p1a: Plasmanta|Plasmanta, F|60/100
+|-damage|p1a: Plasmanta|48/100|[from] Stealth Rock
+|turn|14
+|j|@Da Pizza Man
+|c|☆Philou008|should of went that
+|
+|t:|1711937540
+|move|p1a: Plasmanta|Psychic|p2a: Pecharunt
+|-supereffective|p2a: Pecharunt
+|-damage|p2a: Pecharunt|0 fnt
+|faint|p2a: Pecharunt
+|
+|upkeep
+|
+|t:|1711937557
+|switch|p2a: Hemogoblin|Hemogoblin, M|100/100
+|turn|15
+|
+|t:|1711937566
+|switch|p1a: Chromera|Chromera|47/100
+|-damage|p1a: Chromera|34/100|[from] Stealth Rock
+|move|p2a: Hemogoblin|Bulk Up|p2a: Hemogoblin
+|-boost|p2a: Hemogoblin|atk|1
+|-boost|p2a: Hemogoblin|def|1
+|
+|upkeep
+|turn|16
+|
+|t:|1711937569
+|move|p2a: Hemogoblin|Extreme Speed|p1a: Chromera
+|-supereffective|p1a: Chromera
+|-damage|p1a: Chromera|0 fnt
+|faint|p1a: Chromera
+|
+|upkeep
+|
+|t:|1711937578
+|switch|p1a: Venomicon|Venomicon|25/100
+|turn|17
+|j| Dogpraxis
+|l| Dogpraxis
+|
+|t:|1711937633
+|-terastallize|p2a: Hemogoblin|Ground
+|move|p2a: Hemogoblin|Bulk Up|p2a: Hemogoblin
+|-boost|p2a: Hemogoblin|atk|1
+|-boost|p2a: Hemogoblin|def|1
+|move|p1a: Venomicon|Roost|p1a: Venomicon
+|-heal|p1a: Venomicon|75/100
+|-singleturn|p1a: Venomicon|move: Roost
+|
+|upkeep
+|turn|18
+|j| Dogpraxis
+|
+|t:|1711937648
+|move|p2a: Hemogoblin|Bulk Up|p2a: Hemogoblin
+|-boost|p2a: Hemogoblin|atk|1
+|-boost|p2a: Hemogoblin|def|1
+|move|p1a: Venomicon|Knock Off|p2a: Hemogoblin
+|-damage|p2a: Hemogoblin|93/100
+|-enditem|p2a: Hemogoblin|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Venomicon
+|
+|upkeep
+|turn|19
+|l| Dogpraxis
+|
+|t:|1711937665
+|move|p2a: Hemogoblin|Bulk Up|p2a: Hemogoblin
+|-boost|p2a: Hemogoblin|atk|1
+|-boost|p2a: Hemogoblin|def|1
+|move|p1a: Venomicon|Sludge Bomb|p2a: Hemogoblin
+|-resisted|p2a: Hemogoblin
+|-damage|p2a: Hemogoblin|73/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711937692
+|move|p2a: Hemogoblin|Bulk Up|p2a: Hemogoblin
+|-boost|p2a: Hemogoblin|atk|1
+|-boost|p2a: Hemogoblin|def|1
+|move|p1a: Venomicon|Sludge Bomb|p2a: Hemogoblin
+|-resisted|p2a: Hemogoblin
+|-damage|p2a: Hemogoblin|52/100
+|
+|upkeep
+|turn|21
+|
+|t:|1711937698
+|move|p2a: Hemogoblin|Bitter Blade|p1a: Venomicon
+|-damage|p1a: Venomicon|0 fnt
+|-heal|p2a: Hemogoblin|96/100|[from] drain|[of] p1a: Venomicon
+|faint|p1a: Venomicon
+|
+|upkeep
+|c|☆exithe|im so sorry
+|
+|t:|1711937709
+|switch|p1a: Plasmanta|Plasmanta, F|48/100
+|-damage|p1a: Plasmanta|36/100|[from] Stealth Rock
+|turn|22
+|c|^Spammernoob|when u don't have clear smog
+|c|☆Philou008|yea
+|
+|t:|1711937717
+|move|p2a: Hemogoblin|Extreme Speed|p1a: Plasmanta
+|-resisted|p1a: Plasmanta
+|-damage|p1a: Plasmanta|0 fnt
+|faint|p1a: Plasmanta
+|
+|upkeep
+|
+|t:|1711937721
+|switch|p1a: Tomohawk|Tomohawk, F|100/100
+|turn|23
+|
+|t:|1711937726
+|move|p2a: Hemogoblin|Extreme Speed|p1a: Tomohawk
+|-supereffective|p1a: Tomohawk
+|-damage|p1a: Tomohawk|0 fnt
+|faint|p1a: Tomohawk
+|
+|upkeep
+|
+|t:|1711937729
+|switch|p1a: Hemogoblin|Hemogoblin, F|100/100
+|turn|24
+|
+|t:|1711937735
+|-terastallize|p1a: Hemogoblin|Fairy
+|move|p2a: Hemogoblin|Tera Blast|p1a: Hemogoblin|[anim] Tera Blast Ground
+|-damage|p1a: Hemogoblin|0 fnt
+|faint|p1a: Hemogoblin
+|
+|win|exithe
+|n|☆Philou008|philou008
+|n|☆exithe|exithe
+|n| Spammernoob|spammernoob
+|n| Da Pizza Man|dapizzaman

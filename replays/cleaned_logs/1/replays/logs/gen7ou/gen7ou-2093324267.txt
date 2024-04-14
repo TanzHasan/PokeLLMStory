@@ -1,0 +1,85 @@
+p1: Switched to Gengar
+p2: Switched to Diggersby
+Turn 1:
+p1: Gengar used Sludge Wave on Diggersby
+p2: Diggersby used Swords Dance on Diggersby
+Turn 2:
+p1: Gengar used Sludge Wave on Diggersby
+p2: Diggersby used Earthquake on Gengar
+p1: Gengar fainted
+p1: Switched to Pinsir
+Turn 3:
+p1: Pinsir used Quick Attack on Diggersby
+p2: Diggersby fainted
+p2: Switched to Magneton
+Turn 4:
+p1: Switched to Quagsire
+p2: Magneton used Electroweb on Quagsire
+Turn 5:
+p2: Magneton used Toxic on Quagsire
+p1: Quagsire used Scald on Magneton
+Turn 6:
+p2: Switched to Altaria
+p1: Quagsire used Toxic on Altaria
+Turn 7:
+p1: Switched to Pinsir-Mega
+p2: Altaria used Agility on Altaria
+Turn 8:
+p1: Pinsir-Mega used Quick Attack on Altaria
+p2: Altaria used Return on Pinsir-Mega
+p1: Pinsir-Mega fainted
+p1: Switched to Quagsire
+Turn 9:
+p2: Altaria used Hidden Power on Quagsire
+p1: Quagsire used Recover on Quagsire
+Turn 10:
+p2: Altaria used Return on Quagsire
+p1: Quagsire used Recover on Quagsire
+p2: Altaria fainted
+p2: Switched to Sylveon
+Turn 11:
+p2: Sylveon used Hyper Voice on Quagsire
+p1: Quagsire fainted
+p1: Switched to Tornadus
+Turn 12:
+p1: Tornadus used Heat Wave on Sylveon
+p2: Sylveon used Hyper Voice on Tornadus
+p1: Tornadus fainted
+p1: Switched to Cresselia
+Turn 13:
+p2: Sylveon used Hyper Voice on Cresselia
+p1: Cresselia used Psyshock on Sylveon
+Turn 14:
+p2: Sylveon used Hyper Voice on Cresselia
+p1: Cresselia used Moonlight on Cresselia
+Turn 15:
+p2: Sylveon used Hyper Voice on Cresselia
+p1: Cresselia used Moonlight on Cresselia
+Turn 16:
+p2: Sylveon used Hyper Voice on Cresselia
+p1: Cresselia used Psyshock on Sylveon
+Turn 17:
+p2: Sylveon used Hyper Voice on Cresselia
+p1: Cresselia fainted
+p1: Switched to Hydreigon
+Turn 18:
+p1: Hydreigon used Surf on Sylveon
+p2: Sylveon fainted
+p2: Switched to Venomoth
+Turn 19:
+p1: Hydreigon used Surf on Venomoth
+p2: Venomoth used Sleep Powder on Hydreigon
+Turn 20:
+p1: Hydreigon can't move
+p2: Venomoth used Bug Buzz on Hydreigon
+Turn 21:
+p1: Hydreigon used Surf on Venomoth
+p2: Venomoth fainted
+p2: Switched to Magneton
+Turn 22:
+p1: Hydreigon used Surf on Magneton
+p2: Magneton used Electroweb on Hydreigon
+Turn 23:
+p1: Hydreigon used Surf on Magneton
+p2: Magneton used Thunderbolt on Hydreigon
+p1: Hydreigon fainted

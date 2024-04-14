@@ -1,0 +1,51 @@
+p1: Switched to Tinkatuff
+p2: Switched to Cutiefly
+Turn 1:
+p2: Cutiefly used Sticky Web on Tinkatuff
+p1: Tinkatuff used Stealth Rock on Cutiefly
+Turn 2:
+p2: Cutiefly used Moonblast on Tinkatuff
+p1: Tinkatuff used Play Rough on Cutiefly
+Turn 3:
+p2: Cutiefly used Switcheroo on Tinkatuff
+p1: Tinkatuff used Play Rough on Cutiefly
+Turn 4:
+p2: Cutiefly used Pounce on Tinkatuff
+p1: Tinkatuff used Knock Off on Cutiefly
+p2: Cutiefly fainted
+p2: Switched to Piloswine
+Turn 5:
+p1: Switched to Quaxwell
+p2: Piloswine used Earthquake on Quaxwell
+Turn 6:
+p2: Switched to Misdreavus
+p1: Quaxwell used Roost on Quaxwell
+Turn 7:
+p1: Switched to Girafarig
+p2: Misdreavus used Substitute on Misdreavus
+Turn 8:
+p2: Misdreavus used Nasty Plot on Misdreavus
+p1: Girafarig used Psychic on Misdreavus
+Turn 9:
+p2: Misdreavus used Nasty Plot on Misdreavus
+p1: Girafarig used Psychic on Misdreavus
+Turn 10:
+p2: Misdreavus used Draining Kiss on Girafarig
+p1: Girafarig used Psychic on Misdreavus
+Turn 11:
+p2: Misdreavus used Draining Kiss on Girafarig
+p1: Girafarig used Psychic on Misdreavus
+Turn 12:
+p2: Misdreavus used Draining Kiss on Girafarig
+p1: Girafarig fainted
+p1: Switched to Gligar
+Turn 13:
+p2: Misdreavus used Substitute on Misdreavus
+p1: Gligar used Knock Off on Misdreavus
+Turn 14:
+p2: Misdreavus used Shadow Ball on Gligar
+p1: Gligar fainted
+p1: Switched to Misdreavus
+Turn 15:
+p2: Misdreavus used Shadow Ball on Misdreavus
+p1: Misdreavus fainted

@@ -1,0 +1,135 @@
+|j|☆overiron
+|j|☆Omeraranger
+|t:|1711942499
+|gametype|singles
+|player|p1|overiron|dawn|1370
+|player|p2|Omeraranger|102|1061
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Melmetal|
+|poke|p1|Blissey, F|
+|poke|p1|Zapdos|
+|poke|p1|Tapu Koko|
+|poke|p1|Hawlucha, F|
+|poke|p2|Latias, F|
+|poke|p2|Mew|
+|poke|p2|Dragonite, M|
+|poke|p2|Zeraora|
+|poke|p2|Tapu Fini|
+|poke|p2|Regieleki|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by overiron)
+|
+|t:|1711942511
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1711942528
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|60/100
+|move|p2a: Tapu Fini|Trick|p1a: Tapu Koko
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Tapu Koko
+|-item|p1a: Tapu Koko|Black Sludge|[from] move: Trick
+|-item|p2a: Tapu Fini|Choice Specs|[from] move: Trick
+|
+|-damage|p1a: Tapu Koko|88/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1711942543
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711942560
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Melmetal|Earthquake|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|upkeep
+|turn|4
+|
+|t:|1711942567
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Melmetal|Ice Punch|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|52/100
+|-damage|p1a: Melmetal|84/100|[from] item: Rocky Helmet|[of] p2a: Dragonite
+|
+|upkeep
+|turn|5
+|
+|t:|1711942580
+|switch|p2a: Tapu Fini|Tapu Fini|60/100
+|move|p1a: Melmetal|Ice Punch|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|48/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1711942588
+|switch|p1a: Tapu Koko|Tapu Koko|88/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Tapu Fini|Trick|p1a: Tapu Koko
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Tapu Koko
+|-item|p1a: Tapu Koko|Choice Specs|[from] move: Trick
+|-item|p2a: Tapu Fini|Black Sludge|[from] move: Trick
+|
+|-damage|p2a: Tapu Fini|36/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1711942603
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1711942610
+|switch|p2a: Latias|Latias, F|100/100
+|turn|8
+|
+|t:|1711942614
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|13/100
+|move|p2a: Latias|Light Screen|p2a: Latias
+|-sidestart|p2: Omeraranger|move: Light Screen
+|
+|-heal|p2a: Latias|19/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|-message|Omeraranger forfeited.
+|
+|win|overiron
+|raw|overiron's rating: 1370 &rarr; <strong>1376</strong><br />(+6 for winning)
+|raw|Omeraranger's rating: 1061 &rarr; <strong>1055</strong><br />(-6 for losing)
+|l|☆Omeraranger
+|player|p2|

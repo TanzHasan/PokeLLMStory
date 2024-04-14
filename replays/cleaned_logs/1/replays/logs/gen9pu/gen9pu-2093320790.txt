@@ -1,0 +1,27 @@
+p1: Switched to Lanturn
+p2: Switched to Regirock
+Turn 1:
+p2: Switched to Alcremie-Salted-Cream
+p1: Lanturn used Agility on Lanturn
+Turn 2:
+p1: Lanturn used Thunderbolt on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
+Turn 3:
+p1: Lanturn used Scald on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
+Turn 4:
+p1: Lanturn used Tera Blast on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
+Turn 5:
+p1: Lanturn used Tera Blast on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Draining Kiss on Lanturn
+Turn 6:
+p1: Lanturn used Tera Blast on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Draining Kiss on Lanturn
+Turn 7:
+p1: Lanturn used Scald on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
+Turn 8:
+p1: Lanturn used Thunderbolt on Alcremie-Salted-Cream
+p2: Alcremie-Salted-Cream used Stored Power on Lanturn
+p1: Lanturn fainted

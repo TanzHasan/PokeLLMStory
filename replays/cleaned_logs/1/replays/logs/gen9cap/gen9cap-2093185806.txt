@@ -1,0 +1,167 @@
+p1: Switched to Ogerpon
+p2: Switched to Slowking
+Turn 1:
+p2: Switched to Venomicon
+p1: Ogerpon used Ivy Cudgel on Venomicon
+Turn 2:
+p1: Ogerpon used U-turn on Venomicon
+p1: Switched to Mollux
+p2: Venomicon used Stealth Rock on Mollux
+Turn 3:
+p2: Switched to Pajantom
+p1: Mollux used Lava Plume on Pajantom
+Turn 4:
+p1: Switched to Gliscor
+p2: Pajantom used Spirit Shackle on Gliscor
+Turn 5:
+p1: Gliscor used Protect on Gliscor
+p2: Pajantom used Taunt on Gliscor
+Turn 6:
+p2: Pajantom used Taunt on Gliscor
+p1: Gliscor used Knock Off on Pajantom
+Turn 7:
+p2: Pajantom used Ice Punch on Gliscor
+p1: Gliscor used Earthquake on Pajantom
+p2: Pajantom fainted
+p2: Switched to Meowscarada
+Turn 8:
+p1: Switched to Skarmory
+p2: Meowscarada used Flower Trick on Skarmory
+Turn 9:
+p2: Meowscarada used Knock Off on Skarmory
+p1: Skarmory used Stealth Rock on Meowscarada
+Turn 10:
+p2: Meowscarada used U-turn on Skarmory
+p2: Switched to Slowking
+p1: Skarmory used Body Press on Slowking
+Turn 11:
+p1: Switched to Dragapult
+p2: Slowking used Future Sight on Dragapult
+Turn 12:
+p2: Switched to Equilibra
+p1: Dragapult used Thunder Wave on Equilibra
+Turn 13:
+p1: Dragapult used U-turn on Equilibra
+p1: Switched to Skarmory
+p2: Equilibra used Earth Power on Skarmory
+Turn 14:
+p1: Skarmory used Body Press on Equilibra
+p2: Equilibra used Doom Desire on Skarmory
+Turn 15:
+p2: Switched to Venomicon
+p1: Skarmory used Body Press on Venomicon
+Turn 16:
+p1: Skarmory used Roost on Skarmory
+p2: Venomicon used Body Press on Skarmory
+p1: Skarmory fainted
+p1: Switched to Gliscor
+Turn 17:
+p2: Switched to Meowscarada
+p1: Gliscor used Knock Off on Meowscarada
+Turn 18:
+p1: Gliscor used Protect on Gliscor
+p2: Meowscarada used Triple Axel on Gliscor
+Turn 19:
+p1: Switched to Mollux
+p2: Meowscarada used Flower Trick on Mollux
+Turn 20:
+p2: Meowscarada used U-turn on Mollux
+p2: Switched to Slowking
+p1: Mollux used Lava Plume on Slowking
+Turn 21:
+p1: Switched to Ogerpon
+p2: Slowking used Future Sight on Ogerpon
+Turn 22:
+p2: Switched to Venomicon
+p1: Ogerpon used Knock Off on Venomicon
+Turn 23:
+p1: Ogerpon used U-turn on Venomicon
+p1: Switched to Gliscor
+p2: Venomicon used Roost on Venomicon
+p1: Gliscor fainted
+p1: Switched to Ogerpon
+Turn 24:
+p1: Ogerpon used Encore on Venomicon
+p2: Venomicon failed to use Roost
+Turn 25:
+p2: Switched to Hemogoblin
+p1: Ogerpon used U-turn on Hemogoblin
+p1: Switched to Cresceidon
+Turn 26:
+p2: Switched to Slowking
+p1: Cresceidon used Scald on Slowking
+Turn 27:
+p1: Switched to Dragapult
+p2: Slowking used Future Sight on Dragapult
+Turn 28:
+p2: Switched to Hemogoblin
+p1: Dragapult used Hex on Hemogoblin
+Turn 29:
+p2: Hemogoblin used Extreme Speed on Dragapult
+p1: Dragapult used U-turn on Hemogoblin
+p1: Switched to Cresceidon
+Turn 30:
+p1: Switched to Dragapult
+p2: Switched to Slowking
+Turn 31:
+p2: Switched to Equilibra
+p1: Dragapult used Hex on Equilibra
+Turn 32:
+p1: Dragapult used U-turn on Equilibra
+p1: Switched to Ogerpon
+p2: Equilibra used Pain Split on Ogerpon
+Turn 33:
+p2: Switched to Venomicon
+p1: Ogerpon used U-turn on Venomicon
+p1: Switched to Mollux
+Turn 34:
+p2: Switched to Slowking
+p1: Mollux used Calm Mind on Mollux
+Turn 35:
+p1: Mollux used Calm Mind on Mollux
+p2: Slowking used Future Sight on Mollux
+Turn 36:
+p1: Mollux used Clear Smog on Slowking
+p2: Slowking used Chilly Reception on Slowking
+p2: Switched to Meowscarada
+Turn 37:
+p2: Meowscarada used Knock Off on Mollux
+p1: Mollux used Lava Plume on Meowscarada
+p2: Meowscarada fainted
+p2: Switched to Equilibra
+Turn 38:
+p1: Mollux used Lava Plume on Equilibra
+p2: Equilibra used Earth Power on Mollux
+p1: Mollux fainted
+p1: Switched to Cresceidon
+Turn 39:
+p2: Switched to Slowking
+p1: Cresceidon failed to use Thunder Wave
+Turn 40:
+p1: Switched to Ogerpon
+p2: Slowking used Future Sight on Ogerpon
+Turn 41:
+p2: Switched to Equilibra
+p1: Ogerpon used U-turn on Equilibra
+p1: Switched to Cresceidon
+Turn 42:
+p1: Cresceidon used Moonblast on Equilibra
+p2: Equilibra fainted
+p2: Switched to Hemogoblin
+Turn 43:
+p1: Cresceidon used Recover on Cresceidon
+p2: Hemogoblin used Bulk Up on Hemogoblin
+Turn 44:
+p2: Hemogoblin used Extreme Speed on Cresceidon
+p1: Cresceidon used Scald on Hemogoblin
+Turn 45:
+p2: Hemogoblin used Extreme Speed on Cresceidon
+p1: Cresceidon fainted
+p1: Switched to Ogerpon
+Turn 46:
+p2: Hemogoblin used Extreme Speed on Ogerpon
+p1: Ogerpon fainted
+p1: Switched to Dragapult
+Turn 47:
+p2: Hemogoblin used Extreme Speed on Dragapult
+p1: Dragapult fainted

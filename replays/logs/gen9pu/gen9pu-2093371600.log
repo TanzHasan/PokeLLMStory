@@ -1,0 +1,318 @@
+|j|☆sicklyllama
+|j|☆The Ciolfster
+|t:|1711946214
+|gametype|singles
+|player|p1|sicklyllama|preschooler|1055
+|player|p2|The Ciolfster|101|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Braviary-Hisui, M|
+|poke|p1|Shiftry, F|
+|poke|p1|Bronzong|
+|poke|p1|Rotom-Mow|
+|poke|p1|Golem, M|
+|poke|p1|Quaxwell, F|
+|poke|p2|Hitmonchan, M|
+|poke|p2|Chimecho, M|
+|poke|p2|Mismagius, F|
+|poke|p2|Wyrdeer, F|
+|poke|p2|Oricorio, M|
+|poke|p2|Klawf, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sicklyllama)
+|
+|t:|1711946221
+|start
+|switch|p1a: Golem|Golem, M|100/100
+|switch|p2a: Wyrdeer|Wyrdeer, F|100/100
+|-ability|p2a: Wyrdeer|Intimidate|boost
+|-unboost|p1a: Golem|atk|1
+|turn|1
+|
+|t:|1711946230
+|move|p2a: Wyrdeer|Agility|p2a: Wyrdeer
+|-boost|p2a: Wyrdeer|spe|2
+|move|p1a: Golem|Stealth Rock|p2a: Wyrdeer
+|-sidestart|p2: The Ciolfster|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711946235
+|move|p2a: Wyrdeer|Calm Mind|p2a: Wyrdeer
+|-boost|p2a: Wyrdeer|spa|1
+|-boost|p2a: Wyrdeer|spd|1
+|move|p1a: Golem|Stone Edge|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|56/100
+|
+|-heal|p2a: Wyrdeer|62/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711946243
+|move|p2a: Wyrdeer|Stored Power|p1a: Golem
+|-ability|p1a: Golem|Sturdy
+|-damage|p1a: Golem|1/100
+|move|p1a: Golem|Stone Edge|p2a: Wyrdeer|[miss]
+|-miss|p1a: Golem|p2a: Wyrdeer
+|
+|-heal|p2a: Wyrdeer|68/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|-enditem|p1a: Golem|Custap Berry|[eat]
+|-activate|p1a: Golem|item: Custap Berry|[consumed]
+|
+|t:|1711946254
+|-terastallize|p1a: Golem|Normal
+|move|p1a: Golem|Explosion|p2a: Wyrdeer
+|-damage|p2a: Wyrdeer|0 fnt
+|faint|p1a: Golem
+|faint|p2a: Wyrdeer
+|
+|upkeep
+|
+|t:|1711946271
+|switch|p2a: Oricorio|Oricorio, M|100/100
+|switch|p1a: Rotom|Rotom-Mow|100/100
+|turn|5
+|
+|t:|1711946278
+|move|p1a: Rotom|Volt Switch|p2a: Oricorio
+|-supereffective|p2a: Oricorio
+|-damage|p2a: Oricorio|9/100
+|
+|t:|1711946285
+|switch|p1a: Bronzong|Bronzong|100/100|[from] Volt Switch
+|move|p2a: Oricorio|Defog|p1a: Bronzong
+|-unboost|p1a: Bronzong|evasion|1
+|-sideend|p2: The Ciolfster|Stealth Rock|[from] move: Defog|[of] p2a: Oricorio
+|
+|upkeep
+|turn|6
+|
+|t:|1711946294
+|move|p2a: Oricorio|Revelation Dance|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|74/100
+|move|p1a: Bronzong|Iron Head|p2a: Oricorio
+|-resisted|p2a: Oricorio
+|-damage|p2a: Oricorio|0 fnt
+|faint|p2a: Oricorio
+|
+|upkeep
+|
+|t:|1711946303
+|switch|p2a: Mismagius|Mismagius, F|100/100
+|turn|7
+|
+|t:|1711946311
+|switch|p1a: Shiftry|Shiftry, F|100/100
+|move|p2a: Mismagius|Shadow Ball|p1a: Shiftry
+|-resisted|p1a: Shiftry
+|-damage|p1a: Shiftry|60/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711946320
+|switch|p2a: Hitmonchan|Hitmonchan, M|100/100
+|move|p1a: Shiftry|Tailwind|p1a: Shiftry
+|-sidestart|p1: sicklyllama|move: Tailwind
+|-ability|p1a: Shiftry|Wind Rider|boost
+|-boost|p1a: Shiftry|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1711946330
+|switch|p1a: Braviary|Braviary-Hisui, M|100/100
+|move|p2a: Hitmonchan|Close Combat|p1a: Braviary
+|-resisted|p1a: Braviary
+|-damage|p1a: Braviary|85/100
+|-unboost|p2a: Hitmonchan|def|1
+|-unboost|p2a: Hitmonchan|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1711946338
+|switch|p2a: Klawf|Klawf, F|100/100
+|move|p1a: Braviary|Hurricane|p2a: Klawf|[miss]
+|-miss|p1a: Braviary|p2a: Klawf
+|
+|upkeep
+|turn|11
+|
+|t:|1711946354
+|move|p1a: Braviary|Psychic|p2a: Klawf
+|-damage|p2a: Klawf|34/100
+|move|p2a: Klawf|Knock Off|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|36/100
+|-enditem|p1a: Braviary|Weakness Policy
+|-boost|p1a: Braviary|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Braviary|spa|2|[from] item: Weakness Policy
+|
+|-sideend|p1: sicklyllama|move: Tailwind
+|upkeep
+|turn|12
+|
+|t:|1711946366
+|move|p2a: Klawf|Stealth Rock|p1a: Braviary
+|-sidestart|p1: sicklyllama|move: Stealth Rock
+|move|p1a: Braviary|Psychic|p2a: Klawf
+|-damage|p2a: Klawf|0 fnt
+|faint|p2a: Klawf
+|
+|upkeep
+|
+|t:|1711946378
+|switch|p2a: Hitmonchan|Hitmonchan, M|100/100
+|turn|13
+|
+|t:|1711946383
+|move|p2a: Hitmonchan|Ice Punch|p1a: Braviary
+|-supereffective|p1a: Braviary
+|-damage|p1a: Braviary|0 fnt
+|faint|p1a: Braviary
+|
+|upkeep
+|
+|t:|1711946390
+|switch|p1a: Bronzong|Bronzong|74/100
+|-damage|p1a: Bronzong|68/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1711946397
+|switch|p2a: Chimecho|Chimecho, M|100/100
+|move|p1a: Bronzong|Iron Defense|p1a: Bronzong
+|-boost|p1a: Bronzong|def|2
+|
+|upkeep
+|turn|15
+|
+|t:|1711946404
+|move|p2a: Chimecho|Calm Mind|p2a: Chimecho
+|-boost|p2a: Chimecho|spa|1
+|-boost|p2a: Chimecho|spd|1
+|move|p1a: Bronzong|Iron Head|p2a: Chimecho
+|-damage|p2a: Chimecho|77/100
+|
+|-heal|p2a: Chimecho|84/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711946414
+|switch|p1a: Shiftry|Shiftry, F|60/100
+|-damage|p1a: Shiftry|48/100|[from] Stealth Rock
+|move|p2a: Chimecho|Calm Mind|p2a: Chimecho
+|-boost|p2a: Chimecho|spa|1
+|-boost|p2a: Chimecho|spd|1
+|
+|-heal|p2a: Chimecho|90/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711946424
+|move|p1a: Shiftry|Knock Off|p2a: Chimecho
+|-supereffective|p2a: Chimecho
+|-damage|p2a: Chimecho|0 fnt
+|-enditem|p2a: Chimecho|Leftovers|[from] move: Knock Off|[of] p1a: Shiftry
+|faint|p2a: Chimecho
+|-damage|p1a: Shiftry|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946432
+|switch|p2a: Hitmonchan|Hitmonchan, M|100/100
+|turn|18
+|
+|t:|1711946439
+|move|p2a: Hitmonchan|Close Combat|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|0 fnt
+|-unboost|p2a: Hitmonchan|def|1
+|-unboost|p2a: Hitmonchan|spd|1
+|faint|p1a: Shiftry
+|
+|upkeep
+|
+|t:|1711946446
+|switch|p1a: Rotom|Rotom-Mow|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1711946455
+|move|p1a: Rotom|Leaf Storm|p2a: Hitmonchan
+|-damage|p2a: Hitmonchan|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: Hitmonchan
+|
+|upkeep
+|
+|t:|1711946460
+|switch|p2a: Mismagius|Mismagius, F|100/100
+|turn|20
+|
+|t:|1711946467
+|switch|p1a: Bronzong|Bronzong|68/100
+|-damage|p1a: Bronzong|61/100|[from] Stealth Rock
+|-terastallize|p2a: Mismagius|Ghost
+|move|p2a: Mismagius|Shadow Ball|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|upkeep
+|
+|t:|1711946475
+|switch|p1a: Quaxwell|Quaxwell, F|100/100
+|-damage|p1a: Quaxwell|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1711946479
+|move|p2a: Mismagius|Shadow Ball|p1a: Quaxwell
+|-damage|p1a: Quaxwell|16/100
+|move|p1a: Quaxwell|Liquidation|p2a: Mismagius
+|-damage|p2a: Mismagius|50/100
+|-unboost|p2a: Mismagius|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1711946485
+|move|p2a: Mismagius|Shadow Ball|p1a: Quaxwell
+|-damage|p1a: Quaxwell|0 fnt
+|faint|p1a: Quaxwell
+|
+|upkeep
+|
+|t:|1711946487
+|switch|p1a: Rotom|Rotom-Mow|88/100
+|-damage|p1a: Rotom|76/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1711946493
+|move|p1a: Rotom|Leaf Storm|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: Mismagius
+|
+|win|sicklyllama
+|raw|sicklyllama's rating: 1055 &rarr; <strong>1082</strong><br />(+27 for winning)
+|raw|The Ciolfster's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|c|☆sicklyllama|gg
+|c|☆The Ciolfster|gg
+|l|☆The Ciolfster
+|player|p2|

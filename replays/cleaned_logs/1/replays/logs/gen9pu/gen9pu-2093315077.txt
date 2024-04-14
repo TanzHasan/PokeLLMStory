@@ -1,0 +1,107 @@
+p1: Switched to Houndstone
+p2: Switched to Bronzong
+Turn 1:
+p2: Switched to Braviary
+p1: Houndstone used Will-O-Wisp on Braviary
+Turn 2:
+p1: Switched to Bombirdier
+p2: Braviary used Brave Bird on Bombirdier
+Turn 3:
+p2: Switched to Bronzong
+p1: Bombirdier used Stealth Rock on Bronzong
+Turn 4:
+p1: Bombirdier used Knock Off on Bronzong
+p2: Bronzong used Stealth Rock on Bombirdier
+Turn 5:
+p1: Bombirdier used Parting Shot on Bronzong
+p1: Switched to Houndstone
+p2: Bronzong used Ice Spinner on Houndstone
+Turn 6:
+p1: Houndstone used Shadow Sneak on Bronzong
+p2: Bronzong used Gyro Ball on Houndstone
+Turn 7:
+p1: Houndstone used Shadow Sneak on Bronzong
+p2: Bronzong fainted
+p2: Switched to Braviary
+Turn 8:
+p1: Switched to Bombirdier
+p2: Braviary used Defog on Bombirdier
+Turn 9:
+p1: Bombirdier used Brave Bird on Braviary
+p2: Braviary used Brave Bird on Bombirdier
+p1: Bombirdier fainted
+p1: Switched to Floatzel
+Turn 10:
+p2: Switched to Lapras
+p1: Floatzel used Flip Turn on Lapras
+Turn 11:
+p1: Switched to Hariyama
+p2: Lapras used Freeze-Dry on Hariyama
+Turn 12:
+p2: Lapras used Alluring Voice on Hariyama
+p1: Hariyama used Knock Off on Lapras
+Turn 13:
+p1: Hariyama used Bullet Punch on Lapras
+p2: Lapras used Alluring Voice on Hariyama
+Turn 14:
+p2: Lapras used Thunderbolt on Hariyama
+p1: Hariyama used Close Combat on Lapras
+p2: Lapras fainted
+p2: Switched to Braviary
+Turn 15:
+p1: Hariyama used Bullet Punch on Braviary
+p2: Braviary fainted
+p2: Switched to Jolteon
+Turn 16:
+p1: Switched to Vikavolt
+p2: Jolteon used Volt Switch on Vikavolt
+p2: Switched to Lycanroc
+Turn 17:
+p1: Switched to Houndstone
+p2: Lycanroc used Accelerock on Houndstone
+Turn 18:
+p2: Switched to Shaymin
+p1: Houndstone used Poltergeist on Shaymin
+Turn 19:
+p2: Shaymin used Seed Flare on Houndstone
+p1: Houndstone used Poltergeist on Shaymin
+Turn 20:
+p1: Switched to Vikavolt
+p2: Shaymin used Seed Flare on Vikavolt
+Turn 21:
+p2: Shaymin used Seed Flare on Vikavolt
+p1: Vikavolt fainted
+p1: Switched to Farigiraf
+Turn 22:
+p2: Switched to Jolteon
+p1: Farigiraf used Psychic on Jolteon
+Turn 23:
+p2: Jolteon used Discharge on Farigiraf
+p1: Farigiraf used Psychic on Jolteon
+p2: Jolteon fainted
+p2: Switched to Lycanroc
+Turn 24:
+p1: Switched to Houndstone
+p2: Lycanroc used Crunch on Houndstone
+Turn 25:
+p2: Lycanroc used Crunch on Houndstone
+p1: Houndstone fainted
+p1: Switched to Floatzel
+Turn 26:
+p2: Switched to Shaymin
+p1: Floatzel used Ice Spinner on Shaymin
+p2: Shaymin fainted
+p2: Switched to Lycanroc
+Turn 27:
+p1: Switched to Farigiraf
+p2: Lycanroc used Close Combat on Farigiraf
+p1: Farigiraf fainted
+p1: Switched to Hariyama
+Turn 28:
+p1: Hariyama used Bullet Punch on Lycanroc
+p2: Lycanroc used Close Combat on Hariyama
+p1: Hariyama fainted
+p1: Switched to Floatzel
+Turn 29:
+p1: Floatzel used Aqua Jet on Lycanroc
+p2: Lycanroc fainted

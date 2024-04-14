@@ -1,0 +1,86 @@
+p1: Switched to Grafaiai
+p2: Switched to Gouging Fire
+Turn 1:
+p1: Grafaiai used Parting Shot on Gouging Fire
+p1: Switched to Iron Jugulis
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+Turn 2:
+p1: Iron Jugulis used Earth Power on Gouging Fire
+p2: Gouging Fire used Dragon Dance on Gouging Fire
+Turn 3:
+p1: Iron Jugulis used Earth Power on Gouging Fire
+p2: Gouging Fire fainted
+p2: Switched to Terapagos
+Turn 4:
+p1: Switched to Serperior
+p2: Terapagos used Rapid Spin on Serperior
+Turn 5:
+p2: Terapagos used Calm Mind on Terapagos
+p1: Serperior used Glare on Terapagos
+Turn 6:
+p1: Serperior used Substitute on Serperior
+p2: Terapagos used Rapid Spin on Serperior
+Turn 7:
+p1: Serperior used Leech Seed on Terapagos
+p2: Terapagos used Rapid Spin on Serperior
+Turn 8:
+p1: Serperior used Leaf Storm on Terapagos
+p2: Terapagos used Tera Starstorm on Serperior
+p1: Serperior fainted
+p1: Switched to Iron Valiant
+Turn 9:
+p1: Iron Valiant used Close Combat on Terapagos
+p2: Terapagos fainted
+p2: Switched to Iron Boulder
+Turn 10:
+p1: Switched to Grafaiai
+p2: Iron Boulder used Substitute on Iron Boulder
+Turn 11:
+p1: Grafaiai used Parting Shot on Iron Boulder
+p1: Switched to Iron Moth
+p2: Iron Boulder used Swords Dance on Iron Boulder
+Turn 12:
+p2: Iron Boulder used Mighty Cleave on Iron Moth
+p1: Iron Moth fainted
+p1: Switched to Grafaiai
+Turn 13:
+p2: Iron Boulder used Swords Dance on Iron Boulder
+p1: Grafaiai used Knock Off on Iron Boulder
+Turn 14:
+p1: Grafaiai used Switcheroo on Iron Boulder
+p2: Iron Boulder used Psycho Cut on Grafaiai
+p1: Grafaiai fainted
+p1: Switched to Iron Valiant
+Turn 15:
+p1: Iron Valiant used Knock Off on Iron Boulder
+p2: Iron Boulder fainted
+p2: Switched to Scizor
+Turn 16:
+p2: Scizor used Bullet Punch on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Arcanine-Hisui
+Turn 17:
+p2: Switched to Alomomola
+p1: Arcanine-Hisui used Flare Blitz on Alomomola
+Turn 18:
+p1: Switched to Iron Jugulis
+p2: Alomomola used Flip Turn on Iron Jugulis
+p2: Switched to Scizor
+Turn 19:
+p2: Scizor used Bullet Punch on Iron Jugulis
+p1: Iron Jugulis used Hurricane on Scizor
+Turn 20:
+p2: Switched to Alomomola
+p1: Iron Jugulis used Hurricane on Alomomola
+Turn 21:
+p1: Iron Jugulis used Hurricane on Alomomola
+p2: Alomomola used Scald on Iron Jugulis
+p1: Iron Jugulis fainted
+p1: Switched to Arcanine-Hisui
+Turn 22:
+p2: Switched to Ting-Lu
+p1: Arcanine-Hisui used Flare Blitz on Ting-Lu
+Turn 23:
+p1: Arcanine-Hisui used Flare Blitz on Ting-Lu
+p2: Ting-Lu used Earthquake on Arcanine-Hisui
+p1: Arcanine-Hisui fainted

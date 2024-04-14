@@ -1,0 +1,94 @@
+p1: Switched to Heracross
+p2: Switched to Spiritomb
+Turn 1:
+p2: Switched to Granbull
+p1: Heracross used Knock Off on Granbull
+Turn 2:
+p1: Switched to Venomoth
+p2: Granbull used Thunder Wave on Venomoth
+Turn 3:
+p2: Switched to Arbok
+p1: Venomoth used Sludge Bomb on Arbok
+Turn 4:
+p1: Switched to Garchomp
+p2: Arbok used Coil on Arbok
+Turn 5:
+p1: Garchomp used Earthquake on Arbok
+p2: Arbok used Earthquake on Garchomp
+p2: Arbok fainted
+p2: Switched to Flygon
+Turn 6:
+p2: Flygon used Earthquake on Garchomp
+p1: Garchomp fainted
+p1: Switched to Porygon-Z
+Turn 7:
+p2: Switched to Spiritomb
+p1: Porygon-Z used Ice Beam on Spiritomb
+Turn 8:
+p2: Spiritomb used Sucker Punch on Porygon-Z
+p1: Porygon-Z used Ice Beam on Spiritomb
+p2: Spiritomb fainted
+p2: Switched to Flygon
+Turn 9:
+p2: Flygon used Earthquake on Porygon-Z
+p1: Porygon-Z fainted
+p1: Switched to Purugly
+Turn 10:
+p2: Switched to Granbull
+p1: Purugly used Fake Out on Granbull
+Turn 11:
+p1: Purugly used U-turn on Granbull
+p1: Switched to Venomoth
+p2: Granbull used Earthquake on Venomoth
+Turn 12:
+p2: Switched to Barbaracle
+p1: Venomoth used Sludge Bomb on Barbaracle
+Turn 13:
+p2: Barbaracle used Shell Smash on Barbaracle
+p1: Venomoth used Sludge Bomb on Barbaracle
+Turn 14:
+p2: Barbaracle used Razor Shell on Venomoth
+p1: Venomoth fainted
+p1: Switched to Heracross
+Turn 15:
+p2: Barbaracle used Stone Edge on Heracross
+p1: Heracross used Close Combat on Barbaracle
+p2: Barbaracle fainted
+p1: Heracross fainted
+p1: Switched to Purugly
+p2: Switched to Granbull
+Turn 16:
+p1: Purugly used Fake Out on Granbull
+p2: Granbull can't move
+Turn 17:
+p1: Purugly used Return on Granbull
+p2: Granbull used Thunder Wave on Purugly
+Turn 18:
+p2: Switched to Flygon
+p1: Purugly used Return on Flygon
+Turn 19:
+p2: Flygon used Earthquake on Purugly
+p1: Purugly used Return on Flygon
+Turn 20:
+p2: Flygon used Roost on Flygon
+p1: Purugly used U-turn on Flygon
+p1: Switched to Blaziken
+Turn 21:
+p2: Switched to Granbull
+p1: Blaziken failed to use Protect
+Turn 22:
+p2: Switched to Flygon
+p1: Blaziken used Swords Dance on Blaziken
+Turn 23:
+p2: Switched to Granbull
+p1: Blaziken used High Jump Kick on Granbull
+p2: Granbull fainted
+p2: Switched to Flygon
+Turn 24:
+p1: Blaziken used High Jump Kick on Flygon
+p2: Flygon used Earthquake on Blaziken
+p1: Blaziken fainted
+p1: Switched to Purugly
+Turn 25:
+p2: Flygon used Earthquake on Purugly
+p1: Purugly fainted

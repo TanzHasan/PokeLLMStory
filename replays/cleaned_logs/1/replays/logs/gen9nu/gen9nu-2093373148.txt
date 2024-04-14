@@ -1,0 +1,33 @@
+p1: Switched to Sylveon
+p2: Switched to Gligar
+Turn 1:
+p2: Gligar used Stealth Rock on Sylveon
+p1: Sylveon used Hyper Voice on Gligar
+Turn 2:
+p2: Switched to Weezing
+p1: Sylveon used Hyper Voice on Weezing
+Turn 3:
+p1: Sylveon used Hyper Voice on Weezing
+p2: Weezing fainted
+p2: Switched to Minior-Violet
+Turn 4:
+p2: Minior-Violet used Shell Smash on Minior-Violet
+p1: Sylveon used Hyper Voice on Minior-Violet
+Turn 5:
+p2: Minior-Violet used Acrobatics on Sylveon
+p1: Sylveon fainted
+p1: Switched to Flygon
+Turn 6:
+p1: Flygon used First Impression on Minior-Violet
+p2: Minior-Violet fainted
+p2: Switched to Tsareena
+Turn 7:
+p1: Switched to Swampert
+p2: Tsareena used Triple Axel on Swampert
+Turn 8:
+p2: Tsareena used Power Whip on Swampert
+p1: Swampert fainted
+p1: Switched to Dragalge
+Turn 9:
+p2: Tsareena used Triple Axel on Dragalge
+p1: Dragalge fainted

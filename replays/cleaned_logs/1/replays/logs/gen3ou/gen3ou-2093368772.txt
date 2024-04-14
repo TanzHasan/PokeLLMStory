@@ -1,0 +1,99 @@
+p1: Switched to Stantler
+p2: Switched to Zapdos
+Turn 1:
+p2: Zapdos used Thunderbolt on Stantler
+p1: Stantler used Confuse Ray on Zapdos
+Turn 2:
+p2: Switched to Steelix
+p1: Switched to Jolteon
+Turn 3:
+p1: Jolteon used Baton Pass on Jolteon
+p1: Switched to Skarmory
+p2: Steelix used Earthquake on Skarmory
+Turn 4:
+p2: Switched to Zapdos
+p1: Skarmory used Spikes on Zapdos
+Turn 5:
+p1: Switched to Jolteon
+p2: Zapdos used Thunder Wave on Jolteon
+Turn 6:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Dugtrio
+p1: Jolteon can't move
+Turn 7:
+p2: Dugtrio used Earthquake on Jolteon
+p1: Jolteon fainted
+p1: Switched to Skarmory
+Turn 8:
+p2: Switched to Zapdos
+p1: Skarmory used Sand Attack on Zapdos
+Turn 9:
+p2: Zapdos used Thunder Wave on Skarmory
+p1: Skarmory used Sand Attack on Zapdos
+Turn 10:
+p2: Zapdos used Thunderbolt on Skarmory
+p1: Skarmory used Spikes on Zapdos
+Turn 11:
+p2: Zapdos used Thunderbolt on Skarmory
+p1: Skarmory fainted
+p1: Switched to Umbreon
+Turn 12:
+p2: Switched to Steelix
+p1: Umbreon used Substitute on Umbreon
+Turn 13:
+p1: Umbreon used Confuse Ray on Steelix
+p2: Steelix used Roar on Umbreon
+Turn 14:
+p1: Switched to Stantler
+p2: Steelix used Hidden Power on Stantler
+Turn 15:
+p1: Stantler used Confuse Ray on Steelix
+Turn 16:
+p1: Stantler used Reflect on Stantler
+p2: Steelix used Earthquake on Stantler
+Turn 17:
+p2: Switched to Zapdos
+p1: Stantler used Sand Attack on Zapdos
+Turn 18:
+p2: Zapdos used Thunder Wave on Stantler
+p1: Stantler used Confuse Ray on Zapdos
+Turn 19:
+p2: Zapdos used Thunderbolt on Stantler
+p1: Stantler fainted
+p1: Switched to Umbreon
+Turn 20:
+p2: Switched to Steelix
+p1: Umbreon used Substitute on Umbreon
+Turn 21:
+p1: Umbreon used Confuse Ray on Steelix
+Turn 22:
+p1: Umbreon used Baton Pass on Umbreon
+p1: Switched to Smeargle
+Turn 23:
+p1: Smeargle used Taunt on Steelix
+Turn 24:
+p1: Smeargle used Belly Drum on Smeargle
+p2: Steelix used Earthquake on Smeargle
+Turn 25:
+p1: Smeargle used Spore on Steelix
+p2: Steelix can't move
+Turn 26:
+p1: Smeargle used Baton Pass on Smeargle
+p1: Switched to Aerodactyl
+p2: Steelix can't move
+Turn 27:
+p1: Aerodactyl used Substitute on Aerodactyl
+p2: Steelix can't move
+Turn 28:
+p1: Aerodactyl used Earthquake on Steelix
+p2: Steelix fainted
+p2: Switched to Sceptile
+Turn 29:
+p1: Aerodactyl used Double-Edge on Sceptile
+p2: Sceptile fainted
+p2: Switched to Zapdos
+Turn 30:
+p1: Aerodactyl used Double-Edge on Zapdos
+p2: Zapdos fainted
+p2: Switched to Suicune
+Turn 31:

@@ -1,0 +1,219 @@
+|j|☆tristan35789
+|j|☆Xamotorp
+|t:|1711946326
+|gametype|doubles
+|player|p1|tristan35789|1|1193
+|player|p2|Xamotorp|265|1216
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Garganacl, M|
+|poke|p1|Mew|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Politoed, F|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Sableye, F|
+|poke|p2|Latias, F|
+|poke|p2|Gliscor, F|
+|poke|p2|Sinistcha|
+|poke|p2|Ogerpon-Wellspring, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Amoonguss, M|
+|teampreview
+|
+|t:|1711946344
+|start
+|switch|p1a: Politoed|Politoed, F|100/100
+|switch|p1b: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|switch|p2b: Landorus|Landorus-Therian, M|100/100
+|-ability|p1b: Landorus|Intimidate|boost
+|-unboost|p2a: Gliscor|atk|1
+|-unboost|p2b: Landorus|atk|1
+|-ability|p2b: Landorus|Intimidate|boost
+|-unboost|p1a: Politoed|atk|1
+|-unboost|p1b: Landorus|atk|1
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|
+|t:|1711946371
+|switch|p1b: Sableye|Sableye, F|100/100
+|move|p2a: Gliscor|Toxic|p1b: Sableye
+|-status|p1b: Sableye|tox
+|move|p2b: Landorus|Stealth Rock|p1a: Politoed
+|-sidestart|p1: tristan35789|move: Stealth Rock
+|move|p1a: Politoed|Icy Wind|p2b: Landorus|[spread] p2a,p2b
+|-supereffective|p2a: Gliscor
+|-supereffective|p2b: Landorus
+|-damage|p2a: Gliscor|41/100
+|-damage|p2b: Landorus|52/100
+|-unboost|p2a: Gliscor|spe|1
+|-unboost|p2b: Landorus|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1b: Sableye|95/100 tox|[from] psn
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1711946416
+|move|p2a: Gliscor|Protect|p2a: Gliscor
+|-singleturn|p2a: Gliscor|Protect
+|move|p1b: Sableye|Fake Out|p2b: Landorus
+|-damage|p2b: Landorus|46/100
+|-enditem|p2b: Landorus|Sitrus Berry|[eat]
+|-heal|p2b: Landorus|71/100|[from] item: Sitrus Berry
+|move|p1a: Politoed|Icy Wind|p2b: Landorus|[spread] p2b
+|-activate|p2a: Gliscor|move: Protect
+|-supereffective|p2b: Landorus
+|-damage|p2b: Landorus|26/100
+|-unboost|p2b: Landorus|spe|1
+|cant|p2b: Landorus|flinch
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Gliscor|54/100 tox|[from] ability: Poison Heal
+|-damage|p1b: Sableye|83/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711946465
+|move|p1b: Sableye|Helping Hand|p1a: Politoed
+|-singleturn|p1a: Politoed|Helping Hand|[of] p1b: Sableye
+|move|p1a: Politoed|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|move|p2b: Landorus|U-turn|p1b: Sableye
+|-damage|p1b: Sableye|66/100 tox
+|
+|t:|1711946482
+|switch|p2b: Ogerpon|Ogerpon-Wellspring, F|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1b: Sableye|48/100 tox|[from] psn
+|upkeep
+|
+|t:|1711946498
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|turn|4
+|
+|t:|1711946512
+|switch|p1b: Mew|Mew|100/100
+|-damage|p1b: Mew|88/100|[from] Stealth Rock
+|move|p2b: Ogerpon|Follow Me|p2b: Ogerpon
+|-singleturn|p2b: Ogerpon|move: Follow Me
+|move|p1a: Politoed|Icy Wind|p2b: Ogerpon|[spread] p2a,p2b
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|79/100
+|-damage|p2b: Ogerpon|87/100
+|-unboost|p2a: Amoonguss|spe|1
+|-unboost|p2b: Ogerpon|spe|1
+|move|p2a: Amoonguss|Spore|p1a: Politoed
+|-status|p1a: Politoed|slp|[from] move: Spore
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711946549
+|switch|p1a: Sableye|Sableye, F|48/100 tox
+|-damage|p1a: Sableye|35/100 tox|[from] Stealth Rock
+|move|p1b: Mew|Icy Wind|p2b: Ogerpon|[spread] p2a,p2b
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|59/100
+|-damage|p2b: Ogerpon|75/100
+|-unboost|p2a: Amoonguss|spe|1
+|-unboost|p2b: Ogerpon|spe|1
+|move|p2b: Ogerpon|Ivy Cudgel|p1b: Mew|[anim] Ivy Cudgel Water
+|-damage|p1b: Mew|4/100
+|-enditem|p1b: Mew|Aguav Berry|[eat]
+|-heal|p1b: Mew|37/100|[from] item: Aguav Berry
+|move|p2a: Amoonguss|Pollen Puff|p1b: Mew
+|-supereffective|p1b: Mew
+|-damage|p1b: Mew|0 fnt
+|faint|p1b: Mew
+|
+|-weather|none
+|-damage|p1a: Sableye|30/100 tox|[from] psn
+|upkeep
+|
+|t:|1711946577
+|switch|p1b: Landorus|Landorus-Therian, M|100/100
+|-damage|p1b: Landorus|88/100|[from] Stealth Rock
+|-ability|p1b: Landorus|Intimidate|boost
+|-unboost|p2a: Amoonguss|atk|1
+|-unboost|p2b: Ogerpon|atk|1
+|turn|6
+|
+|t:|1711946622
+|switch|p2a: Landorus|Landorus-Therian, M|26/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Sableye|atk|1
+|-unboost|p1b: Landorus|atk|1
+|move|p2b: Ogerpon|Spiky Shield|p2b: Ogerpon
+|-singleturn|p2b: Ogerpon|move: Protect
+|move|p1a: Sableye|Fake Out|p2b: Ogerpon
+|-activate|p2b: Ogerpon|move: Protect
+|-damage|p1a: Sableye|17/100 tox|[from] Spiky Shield|[of] p2b: Ogerpon
+|-enditem|p1a: Sableye|Figy Berry|[eat]
+|-heal|p1a: Sableye|51/100 tox|[from] item: Figy Berry
+|move|p1b: Landorus|Sludge Wave|p2b: Ogerpon|[spread] p1a,p2a
+|-activate|p2b: Ogerpon|move: Protect
+|-resisted|p1a: Sableye
+|-resisted|p2a: Landorus
+|-damage|p1a: Sableye|34/100 tox
+|-damage|p2a: Landorus|15/100
+|
+|-damage|p1a: Sableye|23/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711946674
+|move|p2b: Ogerpon|Follow Me|p2b: Ogerpon
+|-singleturn|p2b: Ogerpon|move: Follow Me
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|73/100 tox
+|move|p1b: Landorus|Sludge Wave|p2b: Ogerpon|[spread] p1a,p2a,p2b
+|-resisted|p1a: Sableye
+|-resisted|p2a: Landorus
+|-supereffective|p2b: Ogerpon
+|-crit|p2b: Ogerpon
+|-damage|p1a: Sableye|54/100 tox
+|-damage|p2a: Landorus|6/100
+|-damage|p2b: Ogerpon|6/100
+|move|p2a: Landorus|U-turn|p1a: Sableye
+|-damage|p1a: Sableye|31/100 tox
+|
+|t:|1711946692
+|switch|p2a: Sinistcha|Sinistcha|100/100|[from] U-turn
+|-heal|p2b: Ogerpon|31/100|[from] ability: Hospitality|[of] p2a: Sinistcha
+|
+|-damage|p1a: Sableye|13/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Xamotorp)
+|inactive|tristan35789 has 120 seconds left.
+|inactive|tristan35789 has 90 seconds left.
+|inactive|tristan35789 has 60 seconds left.
+|inactive|tristan35789 has 30 seconds left.
+|inactive|tristan35789 has 20 seconds left.
+|inactive|tristan35789 has 15 seconds left.
+|inactive|tristan35789 has 10 seconds left.
+|inactive|tristan35789 has 5 seconds left.
+|-message|tristan35789 lost due to inactivity.
+|
+|win|Xamotorp
+|raw|tristan35789's rating: 1193 &rarr; <strong>1170</strong><br />(-23 for losing)
+|raw|Xamotorp's rating: 1216 &rarr; <strong>1239</strong><br />(+23 for winning)
+|l|☆Xamotorp
+|player|p2|

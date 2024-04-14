@@ -1,0 +1,48 @@
+p1: Switched to Grimmsnarl
+p2: Switched to Snaelstrom
+Turn 1:
+p1: Grimmsnarl used Taunt on Snaelstrom
+p2: Snaelstrom can't move
+Turn 2:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Snaelstrom used Liquidation on Grimmsnarl
+Turn 3:
+p2: Switched to Cresceidon
+p1: Grimmsnarl used Reflect on Grimmsnarl
+Turn 4:
+p1: Grimmsnarl used Taunt on Cresceidon
+p2: Cresceidon used Moonblast on Grimmsnarl
+Turn 5:
+p1: Switched to Cawmodore
+p2: Cresceidon used Moonblast on Cawmodore
+Turn 6:
+p2: Cresceidon used Scald on Cawmodore
+p1: Cawmodore used Belly Drum on Cawmodore
+Turn 7:
+p1: Cawmodore used Bullet Punch on Cresceidon
+p2: Cresceidon used Thunder Wave on Cawmodore
+Turn 8:
+p2: Switched to Kitsunoh
+p1: Cawmodore used Acrobatics on Kitsunoh
+p2: Kitsunoh fainted
+p2: Switched to Snaelstrom
+Turn 9:
+p1: Cawmodore used Acrobatics on Snaelstrom
+p2: Snaelstrom fainted
+p2: Switched to Cresceidon
+Turn 10:
+p2: Cresceidon used Scald on Cawmodore
+p1: Cawmodore used Acrobatics on Cresceidon
+p2: Cresceidon fainted
+p2: Switched to Astrolotl
+Turn 11:
+p1: Cawmodore used Drain Punch on Astrolotl
+p2: Astrolotl fainted
+p2: Switched to Venomicon
+Turn 12:
+p1: Cawmodore used Acrobatics on Venomicon
+p2: Venomicon fainted
+p2: Switched to Caribolt
+Turn 13:
+p1: Cawmodore used Acrobatics on Caribolt
+p2: Caribolt fainted

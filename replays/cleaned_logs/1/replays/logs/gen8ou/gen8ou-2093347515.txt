@@ -1,0 +1,28 @@
+p1: Switched to Tapu Koko
+p2: Switched to Tapu Fini
+Turn 1:
+p1: Tapu Koko used Dazzling Gleam on Tapu Fini
+p2: Tapu Fini used Trick on Tapu Koko
+Turn 2:
+p1: Switched to Melmetal
+p2: Tapu Fini used Calm Mind on Tapu Fini
+Turn 3:
+p2: Switched to Dragonite
+p1: Melmetal used Earthquake on Dragonite
+Turn 4:
+p2: Dragonite used Dragon Dance on Dragonite
+p1: Melmetal used Ice Punch on Dragonite
+Turn 5:
+p2: Switched to Tapu Fini
+p1: Melmetal used Ice Punch on Tapu Fini
+Turn 6:
+p1: Switched to Tapu Koko
+p2: Tapu Fini used Trick on Tapu Koko
+Turn 7:
+p1: Tapu Koko used Dazzling Gleam on Tapu Fini
+p2: Tapu Fini fainted
+p2: Switched to Latias
+Turn 8:
+p1: Tapu Koko used Dazzling Gleam on Latias
+p2: Latias used Light Screen on Latias
+Turn 9:

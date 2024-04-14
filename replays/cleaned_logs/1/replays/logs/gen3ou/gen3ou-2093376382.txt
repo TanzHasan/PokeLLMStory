@@ -1,0 +1,99 @@
+p1: Switched to Stantler
+p2: Switched to Raikou
+Turn 1:
+p2: Raikou used Substitute on Raikou
+p1: Stantler failed to use Confuse Ray
+Turn 2:
+p1: Switched to Jolteon
+p2: Raikou used Thunderbolt on Jolteon
+Turn 3:
+p1: Jolteon used Substitute on Jolteon
+p2: Raikou used Calm Mind on Raikou
+Turn 4:
+p1: Jolteon used Baton Pass on Jolteon
+p1: Switched to Skarmory
+p2: Raikou used Hidden Power on Skarmory
+Turn 5:
+p2: Raikou used Thunderbolt on Skarmory
+p1: Skarmory used Whirlwind on Raikou
+Turn 6:
+p2: Switched to Zapdos
+p1: Skarmory used Sand Attack on Zapdos
+Turn 7:
+p1: Switched to Jolteon
+p2: Zapdos used Thunderbolt on Jolteon
+Turn 8:
+p2: Switched to Raikou
+p1: Jolteon used Sand Attack on Raikou
+Turn 9:
+p2: Switched to Zapdos
+p1: Jolteon used Sand Attack on Zapdos
+Turn 10:
+p2: Switched to Raikou
+p1: Jolteon used Substitute on Jolteon
+Turn 11:
+p1: Jolteon used Sand Attack on Raikou
+p2: Raikou used Substitute on Raikou
+Turn 12:
+p2: Switched to Zapdos
+p1: Jolteon used Baton Pass on Jolteon
+p1: Switched to Smeargle
+Turn 13:
+p2: Switched to Claydol
+p1: Smeargle used Spore on Claydol
+Turn 14:
+p2: Switched to Zapdos
+p1: Smeargle used Belly Drum on Smeargle
+Turn 15:
+p1: Smeargle used Baton Pass on Smeargle
+p1: Switched to Aerodactyl
+p2: Zapdos used Roar on Aerodactyl
+Turn 16:
+p2: Zapdos used Toxic on p1a: Umbryo
+p1: p1a: Umbryo used Confuse Ray on Zapdos
+Turn 17:
+p2: Switched to Raikou
+p1: p1a: Umbryo used Substitute on p1a: Umbryo
+Turn 18:
+p2: Raikou used Substitute on Raikou
+p1: p1a: Umbryo used Baton Pass on p1a: Umbryo
+p1: Switched to Skarmory
+Turn 19:
+p2: Raikou used Thunderbolt on Skarmory
+p1: Skarmory used Whirlwind on Raikou
+Turn 20:
+p2: p2a: Metagross used Meteor Mash on Skarmory
+p1: Skarmory used Spikes on p2a: Metagross
+Turn 21:
+p2: p2a: Metagross used Meteor Mash on Skarmory
+p1: Skarmory used Spikes on p2a: Metagross
+Turn 22:
+p2: p2a: Metagross used Meteor Mash on Skarmory
+p1: Skarmory used Spikes on p2a: Metagross
+Turn 23:
+p1: Switched to Umbreon
+p2: p2a: Metagross used Meteor Mash on Umbreon
+Turn 24:
+p2: p2a: Metagross used Meteor Mash on Umbreon
+p1: Umbreon used Confuse Ray on p2a: Metagross
+Turn 25:
+p2: p2a: Metagross used Meteor Mash on Umbreon
+p1: Umbreon fainted
+p1: Switched to Jolteon
+Turn 26:
+p2: Switched to Claydol
+p1: Jolteon used Substitute on Jolteon
+Turn 27:
+p1: Jolteon used Baton Pass on Jolteon
+p1: Switched to Smeargle
+p2: Claydol can't move
+Turn 28:
+p1: Smeargle used Belly Drum on Smeargle
+p2: Claydol can't move
+Turn 29:
+p1: Smeargle used Baton Pass on Smeargle
+p1: Switched to Aerodactyl
+p2: Claydol can't move
+Turn 30:
+p1: Aerodactyl used Double-Edge on Claydol
+p2: Claydol fainted

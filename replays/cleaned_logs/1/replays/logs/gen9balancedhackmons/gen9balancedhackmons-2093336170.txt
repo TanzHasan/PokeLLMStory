@@ -1,0 +1,63 @@
+p1: Switched to Muk-Alola
+p2: Switched to Venusaur
+Turn 1:
+p1: Muk-Alola used Parting Shot on Venusaur
+p1: Switched to Charizard-Mega-Y
+p2: Venusaur used Clangorous Soul on Venusaur
+Turn 2:
+p2: Switched to Escavalier
+p1: Charizard-Mega-Y used Clangorous Soul on Charizard-Mega-Y
+Turn 3:
+p1: Charizard-Mega-Y used Aeroblast on Escavalier
+p2: Escavalier fainted
+p2: Switched to Miraidon
+Turn 4:
+p1: Charizard-Mega-Y used Stored Power on Miraidon
+p2: Miraidon used Electro Drift on Charizard-Mega-Y
+p1: Charizard-Mega-Y fainted
+p1: Switched to Buzzwole
+Turn 5:
+p2: Switched to Aegislash
+p1: Buzzwole used Drain Punch on Aegislash
+Turn 6:
+p1: Switched to Alakazam-Mega
+p2: Aegislash used Sticky Web on Alakazam-Mega
+Turn 7:
+p1: Alakazam-Mega used Armor Cannon on Aegislash
+p2: Aegislash used Stealth Rock on Alakazam-Mega
+Turn 8:
+p1: Alakazam-Mega used Armor Cannon on Aegislash
+p2: Aegislash fainted
+p2: Switched to Greninja
+Turn 9:
+p1: Alakazam-Mega used Fleur Cannon on Greninja
+p2: Greninja used Wicked Blow on Alakazam-Mega
+Turn 10:
+p2: Greninja used Jet Punch on Alakazam-Mega
+p1: Alakazam-Mega fainted
+p1: Switched to Blissey
+Turn 11:
+p1: Blissey used Fake Out on Greninja
+p2: Greninja can't move
+Turn 12:
+p2: Greninja used Surging Strikes on Blissey
+p1: Blissey used Final Gambit on Greninja
+p1: Blissey fainted
+p1: Switched to Buzzwole
+Turn 13:
+p2: Greninja used Surging Strikes on Buzzwole
+p1: Buzzwole used Drain Punch on Greninja
+p2: Greninja fainted
+p2: Switched to Palkia-Origin
+Turn 14:
+p2: Palkia-Origin used Spacial Rend on Buzzwole
+p1: Buzzwole fainted
+p1: Switched to Muk-Alola
+Turn 15:
+p1: Muk-Alola used Toxic on Palkia-Origin
+p2: Palkia-Origin used Spacial Rend on Muk-Alola
+Turn 16:
+p1: Muk-Alola used Parting Shot on Palkia-Origin
+p1: Switched to Shuckle
+p2: Palkia-Origin used Spacial Rend on Shuckle
+Turn 17:
