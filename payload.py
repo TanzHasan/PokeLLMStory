@@ -4,8 +4,23 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
+URL = os.environ["MODAL_URL"]
+URL_GET_BATTLE = URL + "/get_battle"
+URL_CHECK_HALUCINATION = URL + "/check_halucination"
 
-url = os.environ["MODAL_URL"]
+class BattleHistory: 
+    def __init__(self, game_string):
+        self.ai_chat_history = [] 
+        self.game_string = game_string
+    def generate_next_move(self, prompt):
+        self.ai_chat_history.append({"role": "user", "content": prompt})
+        response = requests.post(URL_GET_BATTLE, data=json.dumps(self.ai_chat_history), headers=headers)
+        print(response.json())
+        expl = response.json()["result"]
+        return expl
+        
+
+
 
 story_string = '''Darkrai is sent out!
 
@@ -40,6 +55,6 @@ headers = {
     "Content-Type": "application/json"
 }
 
-response = requests.post(url, data=json.dumps(payload), headers=headers)
+response = requests.post(URL_GET_BATTLE, data=json.dumps(payload), headers=headers)
 
 print(response.json())
