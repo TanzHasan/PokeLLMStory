@@ -1,0 +1,48 @@
+p1: Switched to Darkrai
+p2: Switched to Walking Wake
+Turn 1:
+p1: Darkrai used Dark Pulse on Walking Wake
+p2: Walking Wake fainted
+p2: Switched to Iron Valiant
+Turn 2:
+p1: Switched to Clodsire
+p2: Iron Valiant used Calm Mind on Iron Valiant
+Turn 3:
+p2: Switched to Iron Treads
+p1: Clodsire used Poison Jab on Iron Treads
+Turn 4:
+p1: Switched to Corviknight
+p2: Iron Treads used Supercell Slam on Corviknight
+Turn 5:
+p1: Switched to Garchomp
+p2: Iron Treads used Supercell Slam on Garchomp
+Turn 6:
+p2: Switched to Iron Leaves
+p1: Switched to Cinderace
+Turn 7:
+p2: Switched to Pincurchin
+p1: Cinderace used U-turn on Pincurchin
+p1: Switched to Darkrai
+Turn 8:
+p1: Darkrai used Dark Pulse on Pincurchin
+p2: Pincurchin fainted
+p2: Switched to Iron Valiant
+Turn 9:
+p1: Switched to Clodsire
+p2: Iron Valiant used Shadow Ball on Clodsire
+Turn 10:
+p2: Iron Valiant used Shadow Ball on Clodsire
+p1: Clodsire used Earthquake on Iron Valiant
+Turn 11:
+p2: Iron Valiant used Shadow Ball on Clodsire
+p1: Clodsire used Poison Jab on Iron Valiant
+p2: Iron Valiant fainted
+p2: Switched to Iron Leaves
+Turn 12:
+p2: Iron Leaves used Psyblade on Clodsire
+p1: Clodsire fainted
+p1: Switched to Cinderace
+Turn 13:
+p1: Cinderace used U-turn on Iron Leaves
+p2: Iron Leaves fainted
+p1: Switched to Corviknight

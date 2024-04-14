@@ -1,0 +1,114 @@
+p1: Switched to Rillaboom
+p2: Switched to Gliscor
+Turn 1:
+p1: Switched to Hawlucha
+p2: Gliscor failed to use Protect
+Turn 2:
+p2: Switched to Raging Bolt
+p1: Hawlucha used Swords Dance on Hawlucha
+Turn 3:
+p2: Raging Bolt used Thunderclap on Hawlucha
+p1: Hawlucha fainted
+p1: Switched to Dragonite
+Turn 4:
+p1: Dragonite used Encore on Raging Bolt
+p2: Raging Bolt failed to use Thunderclap
+Turn 5:
+p2: Switched to Gliscor
+p1: Dragonite used Dragon Dance on Dragonite
+Turn 6:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Gliscor used Toxic on Dragonite
+Turn 7:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Gliscor used Toxic on Dragonite
+Turn 8:
+p2: Switched to Corviknight
+p1: Dragonite used Extreme Speed on Corviknight
+Turn 9:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Corviknight used Roost on Corviknight
+Turn 10:
+p1: Dragonite used Encore on Corviknight
+p2: Corviknight failed to use Roost
+Turn 11:
+p1: Switched to Iron Moth
+p2: Corviknight failed to use Roost
+Turn 12:
+p2: Switched to Slowking-Galar
+p1: Iron Moth used Substitute on Iron Moth
+Turn 13:
+p1: Iron Moth used Tera Blast on Slowking-Galar
+p2: Slowking-Galar used Future Sight on Iron Moth
+Turn 14:
+p1: Iron Moth used Fiery Dance on Slowking-Galar
+p2: Slowking-Galar used Flamethrower on Iron Moth
+Turn 15:
+p2: Switched to Gliscor
+p1: Iron Moth used Fiery Dance on Gliscor
+Turn 16:
+p1: Iron Moth used Fiery Dance on Gliscor
+p2: Gliscor fainted
+p2: Switched to Primarina
+Turn 17:
+p1: Iron Moth used Sludge Wave on Primarina
+p2: Primarina used Psychic Noise on Iron Moth
+Turn 18:
+p2: Switched to Slowking-Galar
+p1: Iron Moth used Fiery Dance on Slowking-Galar
+Turn 19:
+p1: Iron Moth used Fiery Dance on Slowking-Galar
+p2: Slowking-Galar fainted
+p2: Switched to Weavile
+Turn 20:
+p2: Weavile used Ice Shard on Iron Moth
+p1: Iron Moth fainted
+p1: Switched to Dragonite
+Turn 21:
+p1: Dragonite used Extreme Speed on Weavile
+p2: Weavile used Ice Shard on Dragonite
+p1: Dragonite fainted
+p1: Switched to Rillaboom
+Turn 22:
+p2: Switched to Corviknight
+p1: Rillaboom used U-turn on Corviknight
+p1: Switched to Hatterene
+Turn 23:
+p2: Corviknight used U-turn on Hatterene
+p2: Switched to Primarina
+p1: Hatterene used Calm Mind on Hatterene
+Turn 24:
+p2: Primarina used Psychic Noise on Hatterene
+p1: Hatterene used Mystical Fire on Primarina
+Turn 25:
+p2: Primarina used Flip Turn on Hatterene
+p2: Switched to Raging Bolt
+p1: Hatterene used Mystical Fire on Raging Bolt
+Turn 26:
+p2: Switched to Primarina
+p1: Hatterene used Draining Kiss on Primarina
+Turn 27:
+p2: Primarina used Psychic Noise on Hatterene
+p1: Hatterene used Mystical Fire on Primarina
+Turn 28:
+p2: Primarina used Moonblast on Hatterene
+p1: Hatterene used Calm Mind on Hatterene
+Turn 29:
+p2: Primarina used Psychic Noise on Hatterene
+p1: Hatterene used Mystical Fire on Primarina
+p2: Primarina fainted
+p2: Switched to Raging Bolt
+Turn 30:
+p2: Raging Bolt used Thunderbolt on Hatterene
+p1: Hatterene fainted
+p1: Switched to Rillaboom
+Turn 31:
+p2: Switched to Corviknight
+p1: Rillaboom used Knock Off on Corviknight
+Turn 32:
+p1: Switched to Kingambit
+p2: Corviknight used Body Press on Kingambit
+Turn 33:
+p1: Kingambit used Sucker Punch on Corviknight
+p2: Corviknight used Body Press on Kingambit
+p1: Kingambit fainted

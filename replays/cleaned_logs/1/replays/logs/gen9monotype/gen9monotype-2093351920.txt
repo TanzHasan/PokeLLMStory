@@ -1,0 +1,40 @@
+p1: Switched to Deoxys-Speed
+p2: Switched to Tyranitar
+Turn 1:
+p1: Deoxys-Speed used Focus Blast on Tyranitar
+p2: Tyranitar used Knock Off on Deoxys-Speed
+p1: Deoxys-Speed fainted
+p1: Switched to Iron Boulder
+Turn 2:
+p1: Iron Boulder used Close Combat on Tyranitar
+p2: Tyranitar fainted
+p2: Switched to Rhyperior
+Turn 3:
+p1: Switched to Indeedee
+p2: Rhyperior used Earthquake on Indeedee
+p1: Indeedee fainted
+p1: Switched to Gardevoir
+Turn 4:
+p1: Gardevoir used Moonblast on Rhyperior
+p2: Rhyperior used Earthquake on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Iron Boulder
+Turn 5:
+p1: Iron Boulder used Close Combat on Rhyperior
+p2: Rhyperior used Earthquake on Iron Boulder
+p1: Iron Boulder fainted
+p1: Switched to Armarouge
+Turn 6:
+p1: Armarouge used Flamethrower on Rhyperior
+p2: Rhyperior fainted
+p2: Switched to Terrakion
+Turn 7:
+p2: Terrakion used Stone Edge on Armarouge
+p1: Armarouge fainted
+p1: Switched to Slowking-Galar
+Turn 8:
+p2: Terrakion used Stone Edge on Slowking-Galar
+p1: Slowking-Galar used Sludge Bomb on Terrakion
+Turn 9:
+p2: Terrakion used Stone Edge on Slowking-Galar
+p1: Slowking-Galar fainted

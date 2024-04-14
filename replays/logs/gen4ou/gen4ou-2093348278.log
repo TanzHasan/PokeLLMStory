@@ -1,0 +1,551 @@
+|j|☆EABL XD
+|j|☆Gooigi88
+|t:|1711942601
+|gametype|singles
+|player|p1|EABL XD|1|1060
+|player|p2|Gooigi88|sanqua|1316
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711942601
+|start
+|switch|p1a: Inferver|Infernape, M|100/100
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gooigi88)
+|
+|t:|1711942614
+|switch|p2a: Tentacruel|Tentacruel, M|100/100
+|move|p1a: Inferver|Fake Out|p2a: Tentacruel
+|-damage|p2a: Tentacruel|89/100
+|
+|-heal|p2a: Tentacruel|95/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1711942623
+|switch|p1a: Togorda|Togekiss, F|100/100
+|move|p2a: Tentacruel|Surf|p1a: Togorda
+|-damage|p1a: Togorda|76/100
+|
+|-heal|p2a: Tentacruel|100/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1711942629
+|move|p1a: Togorda|Thunder Wave|p2a: Tentacruel
+|-status|p2a: Tentacruel|par
+|move|p2a: Tentacruel|Toxic Spikes|p1a: Togorda
+|-sidestart|p1: EABL XD|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1711942638
+|move|p1a: Togorda|Air Slash|p2a: Tentacruel
+|-damage|p2a: Tentacruel|68/100 par
+|cant|p2a: Tentacruel|flinch
+|
+|-heal|p2a: Tentacruel|74/100 par|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1711942643
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|83/100
+|
+|-heal|p2a: Jirachi|89/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711942646
+|move|p1a: Togorda|Thunder Wave|p2a: Jirachi
+|-status|p2a: Jirachi|par
+|move|p2a: Jirachi|Iron Head|p1a: Togorda
+|-damage|p1a: Togorda|45/100
+|
+|-heal|p2a: Jirachi|96/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711942653
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|79/100 par
+|cant|p2a: Jirachi|flinch
+|
+|-heal|p2a: Jirachi|86/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711942657
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|70/100 par
+|move|p2a: Jirachi|Stealth Rock|p1a: Togorda
+|-sidestart|p1: EABL XD|move: Stealth Rock
+|
+|-heal|p2a: Jirachi|76/100 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711942662
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|61/100 par
+|cant|p2a: Jirachi|flinch
+|
+|-heal|p2a: Jirachi|67/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711942666
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|50/100 par
+|cant|p2a: Jirachi|flinch
+|
+|-heal|p2a: Jirachi|56/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711942670
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|40/100 par
+|cant|p2a: Jirachi|par
+|
+|-heal|p2a: Jirachi|46/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711942673
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|29/100 par
+|cant|p2a: Jirachi|flinch
+|
+|-heal|p2a: Jirachi|35/100 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711942689
+|move|p1a: Togorda|Air Slash|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|19/100 par
+|cant|p2a: Jirachi|flinch
+|
+|-heal|p2a: Jirachi|25/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711942695
+|switch|p2a: Regice|Regice|100/100
+|move|p1a: Togorda|Heat Wave|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|64/100
+|-status|p2a: Regice|brn
+|
+|-heal|p2a: Regice|70/100 brn|[from] item: Leftovers
+|-damage|p2a: Regice|57/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711942703
+|move|p1a: Togorda|Air Slash|p2a: Regice
+|-damage|p2a: Regice|36/100 brn
+|cant|p2a: Regice|flinch
+|
+|-heal|p2a: Regice|43/100 brn|[from] item: Leftovers
+|-damage|p2a: Regice|30/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1711942708
+|move|p1a: Togorda|Air Slash|p2a: Regice
+|-damage|p2a: Regice|8/100 brn
+|cant|p2a: Regice|flinch
+|
+|-heal|p2a: Regice|14/100 brn|[from] item: Leftovers
+|-damage|p2a: Regice|2/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711942716
+|move|p1a: Togorda|Ancient Power|p2a: Regice
+|-supereffective|p2a: Regice
+|-damage|p2a: Regice|0 fnt
+|faint|p2a: Regice
+|
+|upkeep
+|
+|t:|1711942720
+|switch|p2a: Latias|Latias, F|100/100
+|turn|18
+|
+|t:|1711942722
+|move|p2a: Latias|Thunderbolt|p1a: Togorda
+|-supereffective|p1a: Togorda
+|-damage|p1a: Togorda|0 fnt
+|faint|p1a: Togorda
+|
+|upkeep
+|
+|t:|1711942724
+|switch|p1a: Star|Starmie|100/100
+|-status|p1a: Star|psn
+|-damage|p1a: Star|88/100 psn|[from] Stealth Rock
+|turn|19
+|
+|t:|1711942732
+|move|p1a: Star|Rapid Spin|p2a: Latias
+|-damage|p2a: Latias|97/100
+|-sideend|p1: EABL XD|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Star
+|-sideend|p1: EABL XD|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Star
+|-damage|p1a: Star|78/100 psn|[from] item: Life Orb
+|move|p2a: Latias|Thunderbolt|p1a: Star
+|-supereffective|p1a: Star
+|-damage|p1a: Star|12/100 psn
+|
+|-damage|p1a: Star|0 fnt|[from] psn
+|faint|p1a: Star
+|-heal|p2a: Latias|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711942738
+|switch|p1a: Inferver|Infernape, M|100/100
+|turn|20
+|
+|t:|1711942745
+|switch|p2a: Abomasnow|Abomasnow, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|move|p1a: Inferver|Fake Out|p2a: Abomasnow
+|-damage|p2a: Abomasnow|87/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Inferver|94/100|[from] Hail
+|-heal|p2a: Abomasnow|94/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711942752
+|switch|p2a: Tentacruel|Tentacruel, M|74/100 par
+|move|p1a: Inferver|Stealth Rock|p2a: Tentacruel
+|-sidestart|p2: Gooigi88|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Inferver|88/100|[from] Hail
+|-damage|p2a: Tentacruel|68/100 par|[from] Hail
+|-heal|p2a: Tentacruel|74/100 par|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1711942759
+|switch|p1a: King Dragonoid|Kingdra, M|100/100
+|cant|p2a: Tentacruel|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: King Dragonoid|94/100|[from] Hail
+|-damage|p2a: Tentacruel|68/100 par|[from] Hail
+|-heal|p2a: Tentacruel|74/100 par|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1711942765
+|move|p1a: King Dragonoid|Rain Dance|p1a: King Dragonoid
+|-weather|RainDance
+|move|p2a: Tentacruel|Rapid Spin|p1a: King Dragonoid
+|-damage|p1a: King Dragonoid|90/100
+|-sideend|p2: Gooigi88|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Tentacruel
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tentacruel|80/100 par|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1711942770
+|move|p1a: King Dragonoid|Dragon Pulse|p2a: Tentacruel
+|-damage|p2a: Tentacruel|47/100 par
+|move|p2a: Tentacruel|Knock Off|p1a: King Dragonoid
+|-damage|p1a: King Dragonoid|86/100
+|-enditem|p1a: King Dragonoid|Damp Rock|[from] move: Knock Off|[of] p2a: Tentacruel
+|-hint|In Gens 3-4, Knock Off only makes the target's item unusable; it cannot obtain a new item.
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tentacruel|53/100 par|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1711942778
+|move|p1a: King Dragonoid|Dragon Pulse|p2a: Tentacruel
+|-damage|p2a: Tentacruel|22/100 par
+|move|p2a: Tentacruel|Toxic Spikes|p1a: King Dragonoid
+|-sidestart|p1: EABL XD|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tentacruel|28/100 par|[from] item: Black Sludge
+|upkeep
+|turn|26
+|
+|t:|1711942787
+|switch|p2a: Jirachi|Jirachi|25/100 par
+|move|p1a: King Dragonoid|Dragon Pulse|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|10/100 par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|17/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711942791
+|move|p1a: King Dragonoid|Hydro Pump|p2a: Jirachi|[miss]
+|-miss|p1a: King Dragonoid|p2a: Jirachi
+|move|p2a: Jirachi|Stealth Rock|p1a: King Dragonoid
+|-sidestart|p1: EABL XD|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Jirachi|23/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711942794
+|move|p1a: King Dragonoid|Hydro Pump|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711942798
+|switch|p2a: Abomasnow|Abomasnow, M|94/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|29
+|
+|t:|1711942804
+|move|p1a: King Dragonoid|Rain Dance|p1a: King Dragonoid
+|-weather|RainDance
+|move|p2a: Abomasnow|Blizzard|p1a: King Dragonoid
+|-damage|p1a: King Dragonoid|43/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Abomasnow|99/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1711942810
+|move|p1a: King Dragonoid|Dragon Pulse|p2a: Abomasnow
+|-damage|p2a: Abomasnow|69/100
+|move|p2a: Abomasnow|Leech Seed|p1a: King Dragonoid
+|-start|p1a: King Dragonoid|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: King Dragonoid|30/100|[from] Leech Seed|[of] p2a: Abomasnow
+|-heal|p2a: Abomasnow|78/100|[silent]
+|-heal|p2a: Abomasnow|84/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711942815
+|switch|p1a: Inferver|Infernape, M|88/100
+|-status|p1a: Inferver|psn
+|-damage|p1a: Inferver|76/100 psn|[from] Stealth Rock
+|move|p2a: Abomasnow|Grass Knot|p1a: Inferver
+|-resisted|p1a: Inferver
+|-damage|p1a: Inferver|57/100 psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Inferver|45/100 psn|[from] psn
+|-heal|p2a: Abomasnow|91/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711942822
+|move|p2a: Abomasnow|Protect|p2a: Abomasnow
+|-singleturn|p2a: Abomasnow|Protect
+|move|p1a: Inferver|Fake Out|p2a: Abomasnow
+|-activate|p2a: Abomasnow|Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Inferver|33/100 psn|[from] psn
+|-heal|p2a: Abomasnow|97/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711942833
+|switch|p2a: Tentacruel|Tentacruel, M|28/100 par
+|move|p1a: Inferver|Close Combat|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|3/100 par
+|-unboost|p1a: Inferver|def|1
+|-unboost|p1a: Inferver|spd|1
+|
+|-weather|none
+|-damage|p1a: Inferver|20/100 psn|[from] psn
+|-heal|p2a: Tentacruel|9/100 par|[from] item: Black Sludge
+|upkeep
+|turn|34
+|
+|t:|1711942841
+|move|p1a: Inferver|Close Combat|p2a: Tentacruel
+|-resisted|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|-unboost|p1a: Inferver|def|1
+|-unboost|p1a: Inferver|spd|1
+|faint|p2a: Tentacruel
+|
+|-damage|p1a: Inferver|8/100 psn|[from] psn
+|upkeep
+|
+|t:|1711942845
+|switch|p2a: Latias|Latias, F|100/100
+|turn|35
+|
+|t:|1711942850
+|move|p1a: Inferver|Flare Blitz|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|67/100
+|-damage|p1a: Inferver|0 fnt|[from] Recoil
+|faint|p1a: Inferver
+|move|p2a: Latias|Dragon Pulse|p1: Inferver|[notarget]
+|-notarget|p2a: Latias
+|
+|-heal|p2a: Latias|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711942859
+|switch|p1a: Bree|Breloom, M, shiny|100/100
+|-status|p1a: Bree|psn
+|-damage|p1a: Bree|94/100 psn|[from] Stealth Rock
+|turn|36
+|
+|t:|1711942870
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Bree|Spore|p2a: Clefable
+|-status|p2a: Clefable|slp|[from] move: Spore
+|
+|-heal|p1a: Bree|100/100 psn|[from] ability: Poison Heal
+|upkeep
+|turn|37
+|
+|t:|1711942874
+|switch|p2a: Latias|Latias, F|73/100
+|move|p1a: Bree|Substitute|p1a: Bree
+|-start|p1a: Bree|Substitute
+|-damage|p1a: Bree|76/100 psn
+|
+|-heal|p2a: Latias|79/100|[from] item: Leftovers
+|-heal|p1a: Bree|88/100 psn|[from] ability: Poison Heal
+|upkeep
+|turn|38
+|
+|t:|1711942878
+|move|p2a: Latias|Dragon Pulse|p1a: Bree
+|-end|p1a: Bree|Substitute
+|move|p1a: Bree|Fling|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|63/100
+|-status|p2a: Latias|tox
+|-enditem|p1a: Bree|Toxic Orb|[from] move: Fling
+|
+|-heal|p2a: Latias|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Latias|63/100 tox|[from] psn
+|-heal|p1a: Bree|99/100 psn|[from] ability: Poison Heal
+|upkeep
+|turn|39
+|
+|t:|1711942889
+|switch|p1a: King Dragonoid|Kingdra, M|30/100
+|-status|p1a: King Dragonoid|psn
+|-damage|p1a: King Dragonoid|18/100 psn|[from] Stealth Rock
+|move|p2a: Latias|Dragon Pulse|p1a: King Dragonoid
+|-supereffective|p1a: King Dragonoid
+|-damage|p1a: King Dragonoid|0 fnt
+|faint|p1a: King Dragonoid
+|
+|-heal|p2a: Latias|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Latias|57/100 tox|[from] psn
+|upkeep
+|
+|t:|1711942891
+|switch|p1a: Luck|Lucario, M|100/100
+|-damage|p1a: Luck|98/100|[from] Stealth Rock
+|turn|40
+|
+|t:|1711942894
+|move|p1a: Luck|Swords Dance|p1a: Luck
+|-boost|p1a: Luck|atk|2
+|move|p2a: Latias|Thunder Wave|p1a: Luck
+|-status|p1a: Luck|par
+|
+|-heal|p2a: Latias|63/100 tox|[from] item: Leftovers
+|-damage|p2a: Latias|44/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1711942899
+|cant|p1a: Luck|par
+|move|p2a: Latias|Thunderbolt|p1a: Luck
+|-damage|p1a: Luck|61/100 par
+|
+|-heal|p2a: Latias|50/100 tox|[from] item: Leftovers
+|-damage|p2a: Latias|26/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1711942902
+|move|p1a: Luck|Extreme Speed|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-damage|p1a: Luck|51/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711942906
+|switch|p2a: Abomasnow|Abomasnow, M|97/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|43
+|
+|t:|1711942911
+|move|p1a: Luck|Bullet Punch|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|-damage|p1a: Luck|41/100 par|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Luck|35/100 par|[from] Hail
+|upkeep
+|
+|t:|1711942913
+|switch|p2a: Clefable|Clefable, F|100/100 slp
+|turn|44
+|
+|t:|1711942917
+|cant|p2a: Clefable|slp
+|move|p1a: Luck|Close Combat|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-unboost|p1a: Luck|def|1
+|-unboost|p1a: Luck|spd|1
+|faint|p2a: Clefable
+|-damage|p1a: Luck|25/100 par|[from] item: Life Orb
+|
+|win|EABL XD
+|raw|EABL XD's rating: 1060 &rarr; <strong>1110</strong><br />(+50 for winning)
+|raw|Gooigi88's rating: 1316 &rarr; <strong>1283</strong><br />(-33 for losing)

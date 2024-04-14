@@ -1,0 +1,50 @@
+p1: Switched to Glimmora
+p2: Switched to Garchomp
+Turn 1:
+p2: Garchomp used Swords Dance on Garchomp
+p1: Glimmora used Stealth Rock on Garchomp
+Turn 2:
+p1: Switched to Grimmsnarl
+p2: Garchomp used Scale Shot on Grimmsnarl
+Turn 3:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Garchomp used Iron Head on Grimmsnarl
+Turn 4:
+p2: Garchomp used Iron Head on Grimmsnarl
+p1: Grimmsnarl fainted
+p1: Switched to Inteleon
+Turn 5:
+p1: Inteleon used Ice Beam on Garchomp
+p2: Garchomp fainted
+p2: Switched to Corviknight
+Turn 6:
+p2: Switched to Volcarona
+p1: Inteleon used Snipe Shot on Volcarona
+Turn 7:
+p1: Inteleon used Snipe Shot on Volcarona
+p2: Volcarona fainted
+p2: Switched to Corviknight
+Turn 8:
+p1: Inteleon used Snipe Shot on Corviknight
+p2: Corviknight used Defog on Inteleon
+Turn 9:
+p1: Switched to Glimmora
+p2: Corviknight used Roost on Corviknight
+Turn 10:
+p2: Switched to Raging Bolt
+p1: Glimmora used Stealth Rock on Raging Bolt
+Turn 11:
+p1: Glimmora used Earth Power on Raging Bolt
+p2: Raging Bolt used Calm Mind on Raging Bolt
+Turn 12:
+p2: Raging Bolt used Thunderclap on Glimmora
+p1: Glimmora used Mortal Spin on Raging Bolt
+Turn 13:
+p1: Glimmora used Energy Ball on Raging Bolt
+p2: Raging Bolt fainted
+p2: Switched to Iron Boulder
+Turn 14:
+p2: Iron Boulder used Mighty Cleave on Glimmora
+p1: Glimmora fainted
+p1: Switched to Gholdengo
+Turn 15:

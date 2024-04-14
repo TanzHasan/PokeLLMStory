@@ -1,0 +1,277 @@
+|j|☆H4ruto
+|j|☆TheTrueLtaker
+|t:|1711907027
+|gametype|singles
+|player|p1|H4ruto|yellow|
+|player|p2|TheTrueLtaker|marnie-masters3|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Mienfoo, L5, F|
+|poke|p1|Voltorb-Hisui, L5|
+|poke|p1|Qwilfish-Hisui, L5, M|
+|poke|p1|Pawniard, L5, F|
+|poke|p1|Magby, L5, M|
+|poke|p1|Sandshrew-Alola, L5, F|
+|poke|p2|Toedscool, L5, F|
+|poke|p2|Pawniard, L5, M|
+|poke|p2|Zorua-Hisui, L5, M|
+|poke|p2|Chinchou, L5, M|
+|poke|p2|Quaxly, L5, F|
+|poke|p2|Magnemite, L5|
+|teampreview
+|j|%Iolanthe
+|c|☆H4ruto|gl hf
+|c|☆TheTrueLtaker|glhf
+|
+|t:|1711907047
+|start
+|switch|p1a: Mienfoo|Mienfoo, L5, F|100/100
+|switch|p2a: Toedscool|Toedscool, L5, F|100/100
+|turn|1
+|l|%Iolanthe
+|
+|t:|1711907053
+|detailschange|p2a: Toedscool|Toedscool, L5, F
+|-mega|p2a: Toedscool|Toedscool|Diancite
+|-start|p2a: Toedscool|Diancite|[silent]
+|move|p2a: Toedscool|Knock Off|p1a: Mienfoo
+|-resisted|p1a: Mienfoo
+|-damage|p1a: Mienfoo|86/100
+|-enditem|p1a: Mienfoo|Eviolite|[from] move: Knock Off|[of] p2a: Toedscool
+|move|p1a: Mienfoo|Knock Off|p2a: Toedscool
+|-supereffective|p2a: Toedscool
+|-crit|p2a: Toedscool
+|-damage|p2a: Toedscool|0 fnt
+|faint|p2a: Toedscool
+|
+|upkeep
+|
+|t:|1711907065
+|switch|p2a: Quaxly|Quaxly, L5, F|100/100
+|turn|2
+|
+|t:|1711907068
+|detailschange|p2a: Quaxly|Quaxly, L5, F
+|-mega|p2a: Quaxly|Quaxly|Altarianite
+|-start|p2a: Quaxly|Altarianite|[silent]
+|-start|p2a: Quaxly|typechange|Water/Fairy|[silent]
+|move|p1a: Mienfoo|U-turn|p2a: Quaxly
+|-resisted|p2a: Quaxly
+|-damage|p2a: Quaxly|87/100
+|
+|t:|1711907076
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L5, M|100/100|[from] U-turn
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Quaxly|atk|1
+|move|p2a: Quaxly|Rapid Spin|p1a: Qwilfish
+|-damage|p1a: Qwilfish|83/100
+|-boost|p2a: Quaxly|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711907083
+|-end|p2a: Quaxly|Altarianite|[silent]
+|switch|p2a: Pawniard|Pawniard, L5, M|100/100
+|move|p1a: Qwilfish|Gunk Shot|p2a: Pawniard
+|-immune|p2a: Pawniard
+|
+|upkeep
+|turn|4
+|
+|t:|1711907091
+|detailschange|p2a: Pawniard|Pawniard, L5, M
+|-mega|p2a: Pawniard|Pawniard|Aerodactylite
+|-start|p2a: Pawniard|Aerodactylite|[silent]
+|move|p1a: Qwilfish|Spikes|p2a: Pawniard
+|-sidestart|p2: TheTrueLtaker|Spikes
+|move|p2a: Pawniard|Iron Head|p1a: Qwilfish
+|-damage|p1a: Qwilfish|40/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711907099
+|switch|p1a: Voltorb|Voltorb-Hisui, L5|100/100
+|move|p2a: Pawniard|Iron Head|p1a: Voltorb
+|-resisted|p1a: Voltorb
+|-damage|p1a: Voltorb|58/100
+|-status|p2a: Pawniard|par|[from] ability: Static|[of] p1a: Voltorb
+|
+|upkeep
+|turn|6
+|
+|t:|1711907105
+|move|p2a: Pawniard|Sucker Punch|p1a: Voltorb
+|-damage|p1a: Voltorb|0 fnt
+|faint|p1a: Voltorb
+|
+|upkeep
+|
+|t:|1711907112
+|switch|p1a: Mienfoo|Mienfoo, L5, F|100/100
+|turn|7
+|
+|t:|1711907118
+|move|p2a: Pawniard|Sucker Punch|p1a: Mienfoo
+|-resisted|p1a: Mienfoo
+|-crit|p1a: Mienfoo
+|-damage|p1a: Mienfoo|43/100
+|move|p1a: Mienfoo|Close Combat|p2a: Pawniard
+|-supereffective|p2a: Pawniard
+|-damage|p2a: Pawniard|0 fnt
+|-unboost|p1a: Mienfoo|def|1
+|-unboost|p1a: Mienfoo|spd|1
+|faint|p2a: Pawniard
+|
+|upkeep
+|
+|t:|1711907123
+|switch|p2a: Toedscool|Toedscool, L5, F|100/100
+|-damage|p2a: Toedscool|90/100|[from] Spikes
+|turn|8
+|
+|t:|1711907131
+|detailschange|p2a: Toedscool|Toedscool, L5, F
+|-mega|p2a: Toedscool|Toedscool|Pinsirite
+|-start|p2a: Toedscool|Pinsirite|[silent]
+|-start|p2a: Toedscool|typechange|Ground/Flying|[silent]
+|move|p2a: Toedscool|Tera Blast|p1a: Mienfoo
+|-supereffective|p1a: Mienfoo
+|-damage|p1a: Mienfoo|0 fnt
+|faint|p1a: Mienfoo
+|
+|upkeep
+|
+|t:|1711907134
+|switch|p1a: Sandshrew|Sandshrew-Alola, L5, F|100/100
+|turn|9
+|
+|t:|1711907141
+|-end|p2a: Toedscool|Pinsirite|[silent]
+|switch|p2a: Quaxly|Quaxly, L5, F|87/100
+|-start|p2a: Quaxly|Altarianite|[silent]
+|-start|p2a: Quaxly|typechange|Water/Fairy|[silent]
+|-damage|p2a: Quaxly|78/100|[from] Spikes
+|detailschange|p1a: Sandshrew|Sandshrew-Alola, L5, F
+|-mega|p1a: Sandshrew|Sandshrew|Scizorite
+|-start|p1a: Sandshrew|Scizorite|[silent]
+|move|p1a: Sandshrew|Triple Axel|p2a: Quaxly
+|-resisted|p2a: Quaxly
+|-damage|p2a: Quaxly|64/100
+|-resisted|p2a: Quaxly
+|-damage|p2a: Quaxly|41/100
+|-resisted|p2a: Quaxly
+|-damage|p2a: Quaxly|10/100
+|-hitcount|p2a: Quaxly|3
+|
+|upkeep
+|turn|10
+|
+|t:|1711907145
+|move|p1a: Sandshrew|Ice Shard|p2a: Quaxly
+|-resisted|p2a: Quaxly
+|-damage|p2a: Quaxly|0 fnt
+|faint|p2a: Quaxly
+|
+|upkeep
+|
+|t:|1711907164
+|switch|p2a: Magnemite|Magnemite, L5|100/100
+|-damage|p2a: Magnemite|90/100|[from] Spikes
+|turn|11
+|
+|t:|1711907171
+|detailschange|p2a: Magnemite|Magnemite, L5
+|-mega|p2a: Magnemite|Magnemite|Latiasite
+|-start|p2a: Magnemite|Latiasite|[silent]
+|move|p1a: Sandshrew|Knock Off|p2a: Magnemite
+|-damage|p2a: Magnemite|53/100
+|move|p2a: Magnemite|Volt Switch|p1a: Sandshrew
+|-damage|p1a: Sandshrew|19/100
+|
+|t:|1711907177
+|-end|p2a: Magnemite|Latiasite|[silent]
+|switch|p2a: Chinchou|Chinchou, L5, M|100/100|[from] Volt Switch
+|-damage|p2a: Chinchou|88/100|[from] Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1711907187
+|-end|p1a: Sandshrew|Scizorite|[silent]
+|switch|p1a: Magby|Magby, L5, M|100/100
+|move|p2a: Chinchou|Scald|p1a: Magby
+|-supereffective|p1a: Magby
+|-damage|p1a: Magby|0 fnt
+|faint|p1a: Magby
+|
+|upkeep
+|
+|t:|1711907192
+|switch|p1a: Qwilfish|Qwilfish-Hisui, L5, M|40/100
+|-ability|p1a: Qwilfish|Intimidate|boost
+|-unboost|p2a: Chinchou|atk|1
+|turn|13
+|
+|t:|1711907198
+|switch|p2a: Toedscool|Toedscool, L5, F|90/100
+|-start|p2a: Toedscool|Pinsirite|[silent]
+|-start|p2a: Toedscool|typechange|Ground/Flying|[silent]
+|move|p1a: Qwilfish|Gunk Shot|p2a: Toedscool
+|-resisted|p2a: Toedscool
+|-damage|p2a: Toedscool|30/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711907204
+|move|p1a: Qwilfish|Crunch|p2a: Toedscool
+|-damage|p2a: Toedscool|0 fnt
+|faint|p2a: Toedscool
+|
+|upkeep
+|c|☆TheTrueLtaker|ah damn
+|c|☆H4ruto|It's at best a speed tie for you
+|
+|t:|1711907218
+|switch|p2a: Magnemite|Magnemite, L5|53/100
+|-start|p2a: Magnemite|Latiasite|[silent]
+|turn|15
+|c|☆TheTrueLtaker|it was
+|
+|t:|1711907224
+|move|p1a: Qwilfish|Crunch|p2a: Magnemite
+|-damage|p2a: Magnemite|0 fnt
+|faint|p2a: Magnemite
+|
+|upkeep
+|
+|t:|1711907226
+|switch|p2a: Chinchou|Chinchou, L5, M|88/100
+|-damage|p2a: Chinchou|75/100|[from] Spikes
+|turn|16
+|
+|t:|1711907228
+|move|p1a: Qwilfish|Gunk Shot|p2a: Chinchou
+|-damage|p2a: Chinchou|0 fnt
+|faint|p2a: Chinchou
+|
+|win|H4ruto
+|n|☆H4ruto|h4ruto
+|n|☆TheTrueLtaker|thetrueltaker
+|c|☆H4ruto|gg
+|c|☆TheTrueLtaker|ggs

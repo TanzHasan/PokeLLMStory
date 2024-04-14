@@ -1,0 +1,377 @@
+|j|☆organically
+|j|☆ActualSand
+|t:|1711935807
+|gametype|singles
+|player|p1|organically|iono|1245
+|player|p2|ActualSand|169|1149
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Voltorb-Hisui, L5|
+|poke|p1|Larvesta, L5, M|
+|poke|p1|Stunky, L5, F|
+|poke|p1|Zorua-Hisui, L5, F|
+|poke|p1|Mienfoo, L5, F|
+|poke|p1|Tinkatink, L5, F|
+|poke|p2|Drilbur, L5, F|
+|poke|p2|Hippopotas, L5, M|
+|poke|p2|Mienfoo, L5, M|
+|poke|p2|Gimmighoul, L5|
+|poke|p2|Varoom, L5, F|
+|poke|p2|Voltorb-Hisui, L5|
+|teampreview
+|
+|t:|1711935842
+|start
+|switch|p1a: Voltorb|Voltorb-Hisui, L5, shiny|100/100
+|switch|p2a: Voltorb|Voltorb-Hisui, L5|100/100
+|turn|1
+|
+|t:|1711935850
+|move|p2a: Voltorb|Volt Switch|p1a: Voltorb
+|-resisted|p1a: Voltorb
+|-damage|p1a: Voltorb|96/100
+|
+|t:|1711935856
+|switch|p2a: Hippopotas|Hippopotas, L5, M|100/100|[from] Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippopotas
+|move|p1a: Voltorb|Volt Switch|p2a: Hippopotas
+|-immune|p2a: Hippopotas
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Voltorb|91/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1711935865
+|switch|p2a: Varoom|Varoom, L5, F|100/100
+|move|p1a: Voltorb|Giga Drain|p2a: Varoom
+|-resisted|p2a: Varoom
+|-damage|p2a: Varoom|91/100
+|-heal|p1a: Voltorb|96/100|[from] drain|[of] p2a: Varoom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Voltorb|91/100|[from] Sandstorm
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ActualSand)
+|
+|t:|1711935895
+|move|p1a: Voltorb|Volt Switch|p2a: Varoom
+|-damage|p2a: Varoom|48/100
+|
+|t:|1711935898
+|switch|p1a: Larvesta|Larvesta, L5, M, shiny|100/100|[from] Volt Switch
+|move|p2a: Varoom|Gunk Shot|p1a: Larvesta|[miss]
+|-miss|p2a: Varoom|p1a: Larvesta
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Larvesta|96/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1711935918
+|switch|p2a: Drilbur|Drilbur, L5, F|100/100
+|move|p1a: Larvesta|Trailblaze|p2a: Drilbur
+|-supereffective|p2a: Drilbur
+|-enditem|p2a: Drilbur|Rindo Berry|[eat]
+|-enditem|p2a: Drilbur|Rindo Berry|[weaken]
+|-damage|p2a: Drilbur|73/100
+|-boost|p1a: Larvesta|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Larvesta|92/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711935945
+|move|p2a: Drilbur|Rock Slide|p1a: Larvesta
+|-supereffective|p1a: Larvesta
+|-damage|p1a: Larvesta|5/100
+|move|p1a: Larvesta|Trailblaze|p2a: Drilbur
+|-supereffective|p2a: Drilbur
+|-damage|p2a: Drilbur|19/100
+|-boost|p1a: Larvesta|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Larvesta|0 fnt|[from] Sandstorm
+|faint|p1a: Larvesta
+|upkeep
+|
+|t:|1711935954
+|switch|p1a: Voltorb|Voltorb-Hisui, L5, shiny|91/100
+|turn|6
+|
+|t:|1711935968
+|move|p2a: Drilbur|Earthquake|p1a: Voltorb
+|-damage|p1a: Voltorb|29/100
+|move|p1a: Voltorb|Giga Drain|p2a: Drilbur
+|-supereffective|p2a: Drilbur
+|-damage|p2a: Drilbur|0 fnt
+|-heal|p1a: Voltorb|39/100|[from] drain|[of] p2a: Drilbur
+|faint|p2a: Drilbur
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Voltorb|34/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711935988
+|switch|p2a: Gimmighoul|Gimmighoul, L5|100/100
+|turn|7
+|inactive|organically has 120 seconds left.
+|
+|t:|1711936016
+|move|p1a: Voltorb|Leech Seed|p2a: Gimmighoul
+|-start|p2a: Gimmighoul|move: Leech Seed
+|move|p2a: Gimmighoul|Shadow Ball|p1a: Voltorb
+|-damage|p1a: Voltorb|0 fnt
+|faint|p1a: Voltorb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gimmighoul|96/100|[from] Sandstorm
+|upkeep
+|inactive|organically has 120 seconds left.
+|
+|t:|1711936027
+|switch|p1a: Tinkatink|Tinkatink, L5, F, shiny|100/100
+|turn|8
+|
+|t:|1711936038
+|switch|p2a: Hippopotas|Hippopotas, L5, M|100/100
+|move|p1a: Tinkatink|Will-O-Wisp|p2a: Hippopotas
+|-status|p2a: Hippopotas|brn
+|
+|-weather|none
+|-damage|p2a: Hippopotas|96/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711936048
+|move|p1a: Tinkatink|Hex|p2a: Hippopotas
+|-damage|p2a: Hippopotas|5/100 brn
+|move|p2a: Hippopotas|Yawn|p1a: Tinkatink
+|-start|p1a: Tinkatink|move: Yawn|[of] p2a: Hippopotas
+|
+|-damage|p2a: Hippopotas|0 fnt|[from] brn
+|faint|p2a: Hippopotas
+|upkeep
+|
+|t:|1711936065
+|switch|p2a: Mienfoo|Mienfoo, L5, M|100/100
+|turn|10
+|
+|t:|1711936081
+|move|p1a: Tinkatink|Will-O-Wisp|p2a: Mienfoo
+|-status|p2a: Mienfoo|brn
+|move|p2a: Mienfoo|Knock Off|p1a: Tinkatink
+|-supereffective|p1a: Tinkatink
+|-damage|p1a: Tinkatink|65/100
+|replace|p1a: Zorua|Zorua-Hisui, L5, F, shiny
+|-end|p1a: Zorua|Illusion
+|-enditem|p1a: Zorua|Eviolite|[from] move: Knock Off|[of] p2a: Mienfoo
+|
+|-damage|p2a: Mienfoo|96/100 brn|[from] brn
+|-end|p1a: Zorua|move: Yawn|[silent]
+|-status|p1a: Zorua|slp
+|upkeep
+|turn|11
+|
+|t:|1711936096
+|move|p2a: Mienfoo|U-turn|p1a: Zorua
+|-resisted|p1a: Zorua
+|-damage|p1a: Zorua|60/100 slp
+|
+|t:|1711936100
+|switch|p2a: Gimmighoul|Gimmighoul, L5|96/100|[from] U-turn
+|cant|p1a: Zorua|slp
+|
+|upkeep
+|turn|12
+|
+|t:|1711936119
+|cant|p1a: Zorua|slp
+|move|p2a: Gimmighoul|Light Screen|p2a: Gimmighoul
+|-sidestart|p2: ActualSand|move: Light Screen
+|
+|upkeep
+|turn|13
+|
+|t:|1711936126
+|switch|p2a: Mienfoo|Mienfoo, L5, M|100/100 brn
+|cant|p1a: Zorua|slp
+|
+|-damage|p2a: Mienfoo|96/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711936133
+|-curestatus|p1a: Zorua|slp|[msg]
+|move|p1a: Zorua|Hex|p2a: Mienfoo
+|-damage|p2a: Mienfoo|62/100 brn
+|move|p2a: Mienfoo|Knock Off|p1a: Zorua
+|-supereffective|p1a: Zorua
+|-damage|p1a: Zorua|25/100
+|
+|-damage|p2a: Mienfoo|58/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711936141
+|move|p2a: Mienfoo|Knock Off|p1a: Zorua
+|-supereffective|p1a: Zorua
+|-damage|p1a: Zorua|0 fnt
+|faint|p1a: Zorua
+|
+|-damage|p2a: Mienfoo|53/100 brn|[from] brn
+|upkeep
+|
+|t:|1711936154
+|switch|p1a: Mienfoo|Mienfoo, L5, F, shiny|100/100
+|turn|16
+|
+|t:|1711936164
+|move|p1a: Mienfoo|Acrobatics|p2a: Mienfoo
+|-supereffective|p2a: Mienfoo
+|-damage|p2a: Mienfoo|15/100 brn
+|move|p2a: Mienfoo|Knock Off|p1a: Mienfoo
+|-resisted|p1a: Mienfoo
+|-crit|p1a: Mienfoo
+|-damage|p1a: Mienfoo|91/100
+|-enditem|p1a: Mienfoo|Eviolite|[from] move: Knock Off|[of] p2a: Mienfoo
+|
+|-damage|p2a: Mienfoo|10/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711936173
+|switch|p2a: Varoom|Varoom, L5, F|48/100
+|move|p1a: Mienfoo|Acrobatics|p2a: Varoom
+|-resisted|p2a: Varoom
+|-damage|p2a: Varoom|34/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711936183
+|-terastallize|p1a: Mienfoo|Steel
+|move|p1a: Mienfoo|Knock Off|p2a: Varoom
+|-damage|p2a: Varoom|10/100
+|-enditem|p2a: Varoom|Eviolite|[from] move: Knock Off|[of] p1a: Mienfoo
+|move|p2a: Varoom|Toxic|p1a: Mienfoo
+|-immune|p1a: Mienfoo
+|
+|upkeep
+|turn|19
+|
+|t:|1711936198
+|move|p1a: Mienfoo|Knock Off|p2a: Varoom
+|-damage|p2a: Varoom|0 fnt
+|faint|p2a: Varoom
+|
+|-sideend|p2: ActualSand|move: Light Screen
+|upkeep
+|
+|t:|1711936206
+|switch|p2a: Gimmighoul|Gimmighoul, L5|96/100
+|turn|20
+|
+|t:|1711936210
+|move|p1a: Mienfoo|Knock Off|p2a: Gimmighoul
+|-supereffective|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|30/100
+|-ability|p2a: Gimmighoul|Rattled|boost
+|-boost|p2a: Gimmighoul|spe|1
+|-enditem|p2a: Gimmighoul|Light Clay|[from] move: Knock Off|[of] p1a: Mienfoo
+|move|p2a: Gimmighoul|Reflect|p2a: Gimmighoul
+|-sidestart|p2: ActualSand|Reflect
+|
+|upkeep
+|turn|21
+|
+|t:|1711936220
+|move|p1a: Mienfoo|Knock Off|p2a: Gimmighoul
+|-supereffective|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|9/100
+|-ability|p2a: Gimmighoul|Rattled|boost
+|-boost|p2a: Gimmighoul|spe|1
+|move|p2a: Gimmighoul|Shadow Ball|p1a: Mienfoo
+|-crit|p1a: Mienfoo
+|-damage|p1a: Mienfoo|0 fnt
+|faint|p1a: Mienfoo
+|
+|upkeep
+|
+|t:|1711936226
+|switch|p1a: Stunky|Stunky, L5, F, shiny|100/100
+|turn|22
+|
+|t:|1711936232
+|switch|p2a: Mienfoo|Mienfoo, L5, M|43/100 brn
+|move|p1a: Stunky|Knock Off|p2a: Mienfoo
+|-resisted|p2a: Mienfoo
+|-damage|p2a: Mienfoo|34/100 brn
+|-enditem|p2a: Mienfoo|Eviolite|[from] move: Knock Off|[of] p1a: Stunky
+|
+|-damage|p2a: Mienfoo|29/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1711936240
+|move|p2a: Mienfoo|Fake Out|p1a: Stunky
+|-damage|p1a: Stunky|92/100
+|cant|p1a: Stunky|flinch
+|
+|-damage|p2a: Mienfoo|24/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1711936251
+|move|p1a: Stunky|Temper Flare|p2a: Mienfoo
+|-damage|p2a: Mienfoo|0 fnt
+|faint|p2a: Mienfoo
+|
+|-sideend|p2: ActualSand|Reflect
+|upkeep
+|
+|t:|1711936255
+|switch|p2a: Voltorb|Voltorb-Hisui, L5|100/100
+|turn|25
+|
+|t:|1711936265
+|move|p2a: Voltorb|Thunderbolt|p1a: Stunky
+|-damage|p1a: Stunky|40/100
+|move|p1a: Stunky|Gunk Shot|p2a: Voltorb
+|-supereffective|p2a: Voltorb
+|-damage|p2a: Voltorb|0 fnt
+|faint|p2a: Voltorb
+|
+|upkeep
+|
+|t:|1711936272
+|switch|p2a: Gimmighoul|Gimmighoul, L5|9/100
+|turn|26
+|
+|t:|1711936277
+|move|p1a: Stunky|Knock Off|p2a: Gimmighoul
+|-supereffective|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|0 fnt
+|faint|p2a: Gimmighoul
+|
+|win|organically
+|raw|organically's rating: 1245 &rarr; <strong>1263</strong><br />(+18 for winning)
+|raw|ActualSand's rating: 1149 &rarr; <strong>1131</strong><br />(-18 for losing)
+|c|☆organically|gg
+|l|☆organically
+|player|p1|
+|l|☆ActualSand
+|player|p2|

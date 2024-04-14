@@ -1,0 +1,132 @@
+|j|☆bagoftrixx
+|j|☆Deoxysssssssssssss
+|t:|1711937085
+|gametype|singles
+|player|p1|bagoftrixx|ortega|
+|player|p2|Deoxysssssssssssss|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Decidueye-Hisui, M|
+|poke|p1|Palossand, F|
+|poke|p1|Qwilfish-Hisui, F|
+|poke|p1|Rotom-Mow|
+|poke|p1|Snorlax, F|
+|poke|p1|Floatzel, F|
+|poke|p2|Wo-Chien|
+|poke|p2|Hariyama, M|
+|poke|p2|Sandslash-Alola, F|
+|poke|p2|Sandaconda, F|
+|poke|p2|Mismagius, M|
+|poke|p2|Floatzel, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bagoftrixx)
+|
+|t:|1711937098
+|start
+|switch|p1a: Rotom|Rotom-Mow|100/100
+|switch|p2a: Sandslash|Sandslash-Alola, F|100/100
+|turn|1
+|
+|t:|1711937108
+|move|p1a: Rotom|Volt Switch|p2a: Sandslash
+|-damage|p2a: Sandslash|71/100
+|
+|t:|1711937117
+|switch|p1a: Decidueye|Decidueye-Hisui, M|100/100|[from] Volt Switch
+|move|p2a: Sandslash|Icicle Crash|p1a: Decidueye
+|-supereffective|p1a: Decidueye
+|-damage|p1a: Decidueye|25/100
+|
+|-heal|p2a: Sandslash|78/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711937132
+|switch|p2a: Floatzel|Floatzel, M|100/100
+|move|p1a: Decidueye|Triple Arrows|p2a: Floatzel
+|-damage|p2a: Floatzel|23/100
+|-unboost|p2a: Floatzel|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711937139
+|switch|p1a: Floatzel|Floatzel, F|100/100
+|move|p2a: Floatzel|Ice Spinner|p1a: Floatzel
+|-resisted|p1a: Floatzel
+|-damage|p1a: Floatzel|78/100
+|
+|upkeep
+|turn|4
+|j|@ishtar
+|inactive|Deoxysssssssssssss has 120 seconds left.
+|
+|t:|1711937176
+|switch|p2a: Wo-Chien|Wo-Chien|100/100
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|move|p1a: Floatzel|Flip Turn|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|90/100
+|l|@ishtar
+|inactive|bagoftrixx has 120 seconds left.
+|inactive|bagoftrixx has 90 seconds left.
+|
+|t:|1711937236
+|switch|p1a: Decidueye|Decidueye-Hisui, M|25/100|[from] Flip Turn
+|
+|-heal|p2a: Wo-Chien|96/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Deoxysssssssssssss has 120 seconds left.
+|
+|t:|1711937264
+|move|p1a: Decidueye|Roost|p1a: Decidueye
+|-heal|p1a: Decidueye|75/100
+|-singleturn|p1a: Decidueye|move: Roost
+|move|p2a: Wo-Chien|Foul Play|p1a: Decidueye
+|-resisted|p1a: Decidueye
+|-damage|p1a: Decidueye|41/100
+|
+|-heal|p2a: Wo-Chien|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|bagoftrixx has 90 seconds left.
+|inactive|bagoftrixx has 60 seconds left.
+|
+|t:|1711937334
+|switch|p2a: Hariyama|Hariyama, M|100/100
+|move|p1a: Decidueye|Roost|p1a: Decidueye
+|-heal|p1a: Decidueye|91/100
+|-singleturn|p1a: Decidueye|move: Roost
+|
+|upkeep
+|turn|7
+|inactive|Deoxysssssssssssss has 120 seconds left.
+|
+|t:|1711937343
+|move|p1a: Decidueye|Triple Arrows|p2a: Hariyama
+|-crit|p2a: Hariyama
+|-damage|p2a: Hariyama|11/100
+|move|p2a: Hariyama|Knock Off|p1a: Decidueye
+|-resisted|p1a: Decidueye
+|-damage|p1a: Decidueye|70/100
+|-enditem|p1a: Decidueye|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Hariyama
+|
+|upkeep
+|turn|8
+|-message|Deoxysssssssssssss forfeited.
+|
+|win|bagoftrixx
+|n|☆bagoftrixx|bagoftrixx
+|n|☆Deoxysssssssssssss|deoxysssssssssssss

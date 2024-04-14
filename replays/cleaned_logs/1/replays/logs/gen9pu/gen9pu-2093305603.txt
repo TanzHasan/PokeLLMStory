@@ -1,0 +1,26 @@
+p1: Switched to Rotom-Mow
+p2: Switched to Sandslash-Alola
+Turn 1:
+p1: Rotom-Mow used Volt Switch on Sandslash-Alola
+p1: Switched to Decidueye-Hisui
+p2: Sandslash-Alola used Icicle Crash on Decidueye-Hisui
+Turn 2:
+p2: Switched to Floatzel
+p1: Decidueye-Hisui used Triple Arrows on Floatzel
+Turn 3:
+p1: Switched to Floatzel
+p2: Floatzel used Ice Spinner on Floatzel
+Turn 4:
+p2: Switched to Wo-Chien
+p1: Floatzel used Flip Turn on Wo-Chien
+p1: Switched to Decidueye-Hisui
+Turn 5:
+p1: Decidueye-Hisui used Roost on Decidueye-Hisui
+p2: Wo-Chien used Foul Play on Decidueye-Hisui
+Turn 6:
+p2: Switched to Hariyama
+p1: Decidueye-Hisui used Roost on Decidueye-Hisui
+Turn 7:
+p1: Decidueye-Hisui used Triple Arrows on Hariyama
+p2: Hariyama used Knock Off on Decidueye-Hisui
+Turn 8:

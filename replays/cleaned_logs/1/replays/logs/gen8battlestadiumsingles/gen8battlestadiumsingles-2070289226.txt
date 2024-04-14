@@ -1,0 +1,21 @@
+p1: Switched to Landorus-Therian
+p2: Switched to Celesteela
+Turn 1:
+p1: Switched to Tapu Fini
+p2: Celesteela failed to use Meteor Beam
+Turn 2:
+p2: Celesteela used Flash Cannon on Tapu Fini
+p1: Tapu Fini used Calm Mind on Tapu Fini
+Turn 3:
+p2: Celesteela used Flash Cannon on Tapu Fini
+p1: Tapu Fini fainted
+p1: Switched to Cinderace
+Turn 4:
+p1: Cinderace used G-Max Fireball on Celesteela
+p2: Celesteela used Max Rockfall on Cinderace
+p1: Cinderace fainted
+p1: Switched to Landorus-Therian
+Turn 5:
+p1: Landorus-Therian used Rock Slide on Celesteela
+p2: Celesteela used Max Steelspike on Landorus-Therian
+p1: Landorus-Therian fainted

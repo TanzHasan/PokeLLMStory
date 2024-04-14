@@ -1,0 +1,88 @@
+p1: Switched to Lycanroc-Dusk
+p2: Switched to Zapdos-Galar
+Turn 1:
+p1: Switched to Sableye
+p2: Zapdos-Galar used U-turn on Sableye
+p2: Switched to Thundurus-Therian
+Turn 2:
+p1: Sableye used Will-O-Wisp on Thundurus-Therian
+p2: Thundurus-Therian used Nasty Plot on Thundurus-Therian
+Turn 3:
+p1: Switched to Jolteon
+p2: Thundurus-Therian used Sludge Wave on Jolteon
+Turn 4:
+p1: Switched to Swampert
+p2: Thundurus-Therian used Sludge Wave on Swampert
+Turn 5:
+p2: Thundurus-Therian used Tera Blast on Swampert
+p1: Swampert used Stealth Rock on Thundurus-Therian
+Turn 6:
+p2: Thundurus-Therian used Sludge Wave on Swampert
+p1: Swampert fainted
+p1: Switched to Lycanroc-Dusk
+Turn 7:
+p2: Switched to Conkeldurr
+p1: Lycanroc-Dusk used Close Combat on Conkeldurr
+Turn 8:
+p1: Switched to Sableye
+p2: Conkeldurr used Mach Punch on Sableye
+Turn 9:
+p2: Conkeldurr used Knock Off on Sableye
+p1: Sableye used Foul Play on Conkeldurr
+p2: Conkeldurr fainted
+p2: Switched to Thundurus-Therian
+Turn 10:
+p1: Sableye used Taunt on Thundurus-Therian
+p2: Thundurus-Therian used Thunderbolt on Sableye
+p1: Sableye fainted
+p1: Switched to Honchkrow
+Turn 11:
+p1: Switched to Jolteon
+p2: Thundurus-Therian used Thunderbolt on Jolteon
+Turn 12:
+p1: Jolteon used Tera Blast on Thundurus-Therian
+p2: Thundurus-Therian fainted
+p2: Switched to Moltres
+Turn 13:
+p1: Switched to Hitmontop
+p2: Moltres used Flamethrower on Hitmontop
+Turn 14:
+p1: Switched to Lycanroc-Dusk
+p2: Moltres used Will-O-Wisp on Lycanroc-Dusk
+Turn 15:
+p2: Switched to Empoleon
+p1: Lycanroc-Dusk used Close Combat on Empoleon
+Turn 16:
+p2: Switched to Moltres
+p1: Lycanroc-Dusk used Close Combat on Moltres
+Turn 17:
+p1: Switched to Hitmontop
+p2: Moltres used Flamethrower on Hitmontop
+Turn 18:
+p1: Switched to Lycanroc-Dusk
+p2: Moltres used Flamethrower on Lycanroc-Dusk
+Turn 19:
+p1: Lycanroc-Dusk used Accelerock on Moltres
+p2: Moltres used Flamethrower on Lycanroc-Dusk
+Turn 20:
+p1: Lycanroc-Dusk used Accelerock on Moltres
+p2: Moltres fainted
+p1: Lycanroc-Dusk fainted
+p1: Switched to Jolteon
+p2: Switched to Cyclizar
+Turn 21:
+p1: Jolteon used Tera Blast on Cyclizar
+p2: Cyclizar fainted
+p2: Switched to Zapdos-Galar
+Turn 22:
+p1: Jolteon used Tera Blast on Zapdos-Galar
+p2: Zapdos-Galar fainted
+p2: Switched to Empoleon
+Turn 23:
+p1: Switched to Hitmontop
+p2: Empoleon used Flash Cannon on Hitmontop
+p1: Hitmontop fainted
+p1: Switched to Jolteon
+Turn 24:
+p1: Jolteon used Thunderbolt on Empoleon
+p2: Empoleon fainted

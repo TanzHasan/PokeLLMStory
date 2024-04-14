@@ -1,0 +1,292 @@
+|j|☆FlashTGB
+|j|☆PEF2009
+|t:|1711940555
+|gametype|singles
+|player|p1|FlashTGB|morty-masters|1000
+|player|p2|PEF2009|veteran|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Palkia-Origin|
+|poke|p1|Venusaur, F|
+|poke|p1|Escavalier, F|
+|poke|p1|Aegislash, M|
+|poke|p1|Greninja, M|
+|poke|p1|Miraidon|
+|poke|p2|Haxorus, M|
+|poke|p2|Ditto|
+|poke|p2|Sceptile, M|
+|poke|p2|Swampert, M|
+|poke|p2|Houndstone, M|
+|poke|p2|Ho-Oh|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FlashTGB)
+|
+|t:|1711940560
+|start
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|switch|p2a: S|Haxorus, M, shiny|100/100
+|turn|1
+|
+|t:|1711940568
+|move|p2a: S|Sandstorm|p2a: S
+|-weather|Sandstorm
+|move|p1a: Aegislash|Stealth Rock|p2a: S
+|-sidestart|p2: PEF2009|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711940575
+|move|p2a: S|Sacred Sword|p1a: Aegislash
+|-immune|p1a: Aegislash
+|move|p1a: Aegislash|Sticky Web|p2a: S
+|-sidestart|p2: PEF2009|move: Sticky Web
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711940584
+|move|p2a: S|Sacred Fire|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|54/100
+|move|p1a: Aegislash|Toxic Spikes|p2a: S
+|-sidestart|p2: PEF2009|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Aegislash|60/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711940594
+|move|p2a: S|Sacred Fire|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|5/100
+|move|p1a: Aegislash|Toxic Spikes|p2a: S
+|-sidestart|p2: PEF2009|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Aegislash|11/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711940600
+|move|p2a: S|Sacred Fire|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|-weather|none
+|upkeep
+|
+|t:|1711940610
+|switch|p1a: Escavalier|Escavalier, F|100/100
+|turn|6
+|
+|t:|1711940614
+|move|p2a: S|Sacred Fire|p1a: Escavalier
+|-ability|p1a: Escavalier|Well-Baked Body|boost
+|-boost|p1a: Escavalier|def|2
+|move|p1a: Escavalier|Shift Gear|p1a: Escavalier
+|-boost|p1a: Escavalier|spe|2
+|-boost|p1a: Escavalier|atk|1
+|
+|upkeep
+|turn|7
+|
+|t:|1711940629
+|move|p1a: Escavalier|Burning Bulwark|p1a: Escavalier
+|-singleturn|p1a: Escavalier|move: Protect
+|move|p2a: S|Sacred Sword|p1a: Escavalier
+|-activate|p1a: Escavalier|move: Protect
+|-status|p2a: S|brn
+|
+|-damage|p2a: S|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1711940637
+|move|p2a: S|Sandstorm|p2a: S
+|-weather|Sandstorm
+|move|p1a: Escavalier|Shift Gear|p1a: Escavalier
+|-boost|p1a: Escavalier|spe|2
+|-boost|p1a: Escavalier|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: S|88/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711940650
+|move|p2a: S|Sacred Sword|p1a: Escavalier
+|-damage|p1a: Escavalier|87/100
+|move|p1a: Escavalier|Gigaton Hammer|p2a: S
+|-damage|p2a: S|0 fnt
+|faint|p2a: S
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Escavalier|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711940658
+|switch|p2a: H|Ho-Oh, shiny|100/100
+|-damage|p2a: H|50/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1711940664
+|move|p1a: Escavalier|Leech Life|p2a: H
+|-resisted|p2a: H
+|-damage|p2a: H|34/100
+|-heal|p1a: Escavalier|100/100|[from] drain|[of] p2a: H
+|move|p2a: H|Heavy Slam|p1a: Escavalier
+|-resisted|p1a: Escavalier
+|-damage|p1a: Escavalier|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: H|27/100|[from] Sandstorm
+|-heal|p1a: Escavalier|98/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711940675
+|move|p1a: Escavalier|Leech Life|p2a: H
+|-resisted|p2a: H
+|-damage|p2a: H|10/100
+|-heal|p1a: Escavalier|100/100|[from] drain|[of] p2a: H
+|move|p2a: H|Hyper Drill|p1a: Escavalier
+|-resisted|p1a: Escavalier
+|-damage|p1a: Escavalier|93/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: H|4/100|[from] Sandstorm
+|-heal|p1a: Escavalier|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711940685
+|move|p1a: Escavalier|Leech Life|p2a: H
+|-resisted|p2a: H
+|-damage|p2a: H|0 fnt
+|-heal|p1a: Escavalier|100/100|[from] drain|[of] p2a: H
+|faint|p2a: H
+|
+|-weather|none
+|upkeep
+|
+|t:|1711940693
+|switch|p2a: O|Sceptile, M, shiny|100/100
+|-damage|p2a: O|88/100|[from] Stealth Rock
+|-activate|p2a: O|move: Sticky Web
+|-unboost|p2a: O|spe|1
+|-status|p2a: O|tox
+|turn|13
+|
+|t:|1711940702
+|move|p1a: Escavalier|Leech Life|p2a: O
+|-supereffective|p2a: O
+|-damage|p2a: O|0 fnt
+|faint|p2a: O
+|
+|upkeep
+|
+|t:|1711940706
+|switch|p2a: O|Ditto, shiny|100/100
+|-damage|p2a: O|88/100|[from] Stealth Rock
+|-activate|p2a: O|move: Sticky Web
+|-unboost|p2a: O|spe|1
+|-status|p2a: O|tox
+|turn|14
+|
+|t:|1711940713
+|move|p1a: Escavalier|Gigaton Hammer|p2a: O
+|-damage|p2a: O|0 fnt
+|faint|p2a: O
+|
+|upkeep
+|
+|t:|1711940717
+|switch|p2a: D|Houndstone, M|100/100
+|-damage|p2a: D|88/100|[from] Stealth Rock
+|-activate|p2a: D|move: Sticky Web
+|-unboost|p2a: D|spe|1
+|-status|p2a: D|tox
+|turn|15
+|
+|t:|1711940725
+|move|p1a: Escavalier|Leech Life|p2a: D
+|-resisted|p2a: D
+|-damage|p2a: D|54/100 tox
+|move|p2a: D|Dive||[still]
+|-prepare|p2a: D|Dive
+|
+|-damage|p2a: D|48/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711940732
+|move|p1a: Escavalier|Burning Bulwark|p1a: Escavalier
+|-singleturn|p1a: Escavalier|move: Protect
+|move|p2a: D|Dive|p1a: Escavalier|[from]lockedmove
+|-activate|p1a: Escavalier|move: Protect
+|
+|-damage|p2a: D|36/100 tox|[from] psn
+|upkeep
+|turn|17
+|j| gigapichu
+|
+|t:|1711940738
+|move|p1a: Escavalier|Leech Life|p2a: D
+|-resisted|p2a: D
+|-damage|p2a: D|0 fnt
+|faint|p2a: D
+|
+|upkeep
+|
+|t:|1711940743
+|switch|p2a: P|Swampert, M, shiny|100/100
+|-damage|p2a: P|94/100|[from] Stealth Rock
+|-activate|p2a: P|move: Sticky Web
+|-unboost|p2a: P|spe|1
+|-status|p2a: P|tox
+|turn|18
+|
+|t:|1711940752
+|move|p1a: Escavalier|Gigaton Hammer|p2a: P
+|-resisted|p2a: P
+|-damage|p2a: P|26/100 tox
+|move|p2a: P|Petal Blizzard|p1a: Escavalier
+|-resisted|p1a: Escavalier
+|-damage|p1a: Escavalier|97/100
+|
+|-heal|p1a: Escavalier|100/100|[from] item: Leftovers
+|-damage|p2a: P|20/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711940769
+|move|p1a: Escavalier|Leech Life|p2a: P
+|-damage|p2a: P|0 fnt
+|faint|p2a: P
+|
+|win|FlashTGB
+|raw|FlashTGB's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|PEF2009's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|c|☆FlashTGB|gg
+|l|☆PEF2009
+|player|p2|

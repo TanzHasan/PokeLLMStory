@@ -1,0 +1,193 @@
+|j|☆Trolollolol
+|j|☆damla
+|t:|1711945378
+|gametype|singles
+|player|p1|Trolollolol|265|1295
+|player|p2|damla|parasollady|1060
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Almost Any Ability
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|1 Ability Clause: Limit 1 of each ability
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Ceruledge, M|
+|poke|p1|Cresselia, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Pecharunt|
+|poke|p2|Overqwil, F|
+|poke|p2|Vaporeon, M|
+|poke|p2|Galvantula, F|
+|poke|p2|Comfey, M|
+|poke|p2|Ambipom, F|
+|poke|p2|Brambleghast, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by damla)
+|
+|t:|1711945387
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Galvantula|Galvantula, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Regieleki
+|turn|1
+|
+|t:|1711945390
+|move|p1a: Regieleki|Volt Switch|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|31/100
+|j| idkman22233
+|
+|t:|1711945396
+|switch|p1a: Ceruledge|Ceruledge, M, shiny|100/100|[from] Volt Switch
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Ceruledge
+|move|p2a: Galvantula|Sticky Web|p1a: Ceruledge
+|-sidestart|p1: Trolollolol|move: Sticky Web
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|2
+|l| idkman22233
+|
+|t:|1711945403
+|move|p2a: Galvantula|Volt Switch|p1a: Ceruledge
+|-damage|p1a: Ceruledge|64/100
+|
+|t:|1711945426
+|switch|p2a: Comfey|Comfey, M|100/100|[from] Volt Switch
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|
+|-weather|DesolateLand|[upkeep]
+|-status|p2a: Comfey|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1711945435
+|move|p2a: Comfey|Encore|p1a: Ceruledge
+|-start|p1a: Ceruledge|Encore
+|move|p1a: Ceruledge|Bulk Up|p1a: Ceruledge
+|-boost|p1a: Ceruledge|atk|1
+|-boost|p1a: Ceruledge|def|1
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Comfey|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|j| idkman22233
+|l| idkman22233
+|inactive|damla has 120 seconds left.
+|
+|t:|1711945477
+|switch|p2a: Overqwil|Overqwil, F|100/100
+|-weather|none
+|switch|p1a: Dragonite|Dragonite, M, shiny|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711945482
+|move|p2a: Overqwil|Toxic Spikes|p1a: Dragonite
+|-sidestart|p1: Trolollolol|move: Toxic Spikes
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1711945486
+|move|p2a: Overqwil|Barb Barrage|p1a: Dragonite
+|-damage|p1a: Dragonite|73/100
+|-status|p1a: Dragonite|psn
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-damage|p1a: Dragonite|61/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711945489
+|move|p1a: Dragonite|Extreme Speed|p2a: Overqwil
+|-damage|p2a: Overqwil|0 fnt
+|faint|p2a: Overqwil
+|
+|-damage|p1a: Dragonite|48/100 psn|[from] psn
+|upkeep
+|
+|t:|1711945496
+|switch|p2a: Brambleghast|Brambleghast, M|100/100
+|turn|8
+|
+|t:|1711945499
+|switch|p2a: Comfey|Comfey, M|94/100 brn
+|move|p1a: Dragonite|Extreme Speed|p2a: Comfey
+|-damage|p2a: Comfey|0 fnt
+|faint|p2a: Comfey
+|
+|-damage|p1a: Dragonite|36/100 psn|[from] psn
+|upkeep
+|
+|t:|1711945502
+|switch|p2a: Brambleghast|Brambleghast, M|100/100
+|turn|9
+|
+|t:|1711945509
+|move|p1a: Dragonite|Extreme Speed|p2a: Brambleghast
+|-supereffective|p2a: Brambleghast
+|-damage|p2a: Brambleghast|0 fnt
+|faint|p2a: Brambleghast
+|
+|-damage|p1a: Dragonite|23/100 psn|[from] psn
+|upkeep
+|
+|t:|1711945521
+|switch|p2a: Ambipom|Ambipom, F|100/100
+|turn|10
+|
+|t:|1711945522
+|move|p2a: Ambipom|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|6/100 psn
+|cant|p1a: Dragonite|flinch
+|
+|-damage|p1a: Dragonite|0 fnt|[from] psn
+|faint|p1a: Dragonite
+|-status|p2a: Ambipom|tox|[from] item: Toxic Orb
+|upkeep
+|
+|t:|1711945532
+|switch|p1a: Regieleki|Regieleki|100/100
+|-activate|p1a: Regieleki|move: Sticky Web
+|-unboost|p1a: Regieleki|spe|1
+|-status|p1a: Regieleki|psn
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Regieleki
+|turn|11
+|
+|t:|1711945540
+|move|p1a: Regieleki|Thunderbolt|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|
+|-damage|p1a: Regieleki|88/100 psn|[from] psn
+|upkeep
+|-message|damla forfeited.
+|
+|win|Trolollolol
+|raw|Trolollolol's rating: 1295 &rarr; <strong>1305</strong><br />(+10 for winning)
+|raw|damla's rating: 1060 &rarr; <strong>1052</strong><br />(-8 for losing)
+|l|☆damla
+|player|p2|
+|l|☆Trolollolol
+|player|p1|
+|j| CrisNo

@@ -1,0 +1,267 @@
+|j|☆aqueousmantis
+|j|☆Dardragon
+|t:|1711946288
+|gametype|doubles
+|player|p1|aqueousmantis|red|1207
+|player|p2|Dardragon|266|1228
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Incineroar, M|
+|poke|p1|Bronzong|
+|poke|p1|Enamorus-Therian, F|
+|poke|p1|Primarina, F|
+|poke|p1|Ursaluna, F|
+|poke|p2|Oranguru, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Amoonguss, F|
+|poke|p2|Lurantis, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Golem-Alola, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dardragon)
+|
+|t:|1711946305
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p1b: Incineroar|Incineroar, M, shiny|100/100
+|switch|p2a: Golem|Golem-Alola, M|100/100
+|switch|p2b: Oranguru|Oranguru, F|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Golem|atk|1
+|-unboost|p2b: Oranguru|atk|1
+|turn|1
+|
+|t:|1711946331
+|-terastallize|p2b: Oranguru|Fire
+|move|p1b: Incineroar|Fake Out|p2a: Golem
+|-resisted|p2a: Golem
+|-damage|p2a: Golem|95/100
+|cant|p2a: Golem|flinch
+|move|p2b: Oranguru|Trick Room|p2b: Oranguru
+|-fieldstart|move: Trick Room|[of] p2b: Oranguru
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldend|move: Trick Room
+|
+|upkeep
+|turn|2
+|c|☆aqueousmantis|well this is awkward
+|c|☆Dardragon|haha
+|inactive|aqueousmantis has 120 seconds left.
+|
+|t:|1711946364
+|move|p2a: Golem|Rock Slide|p1b: Incineroar|[spread] p1a,p1b
+|-supereffective|p1b: Incineroar
+|-damage|p1a: Hatterene|80/100
+|-damage|p1b: Incineroar|58/100
+|-damage|p2a: Golem|85/100|[from] item: Life Orb
+|move|p2b: Oranguru|Instruct|p2a: Golem
+|-singleturn|p2a: Golem|move: Instruct|[of] p2b: Oranguru
+|move|p2a: Golem|Rock Slide|p1b: Incineroar|[spread] p1a,p1b
+|-crit|p1a: Hatterene
+|-supereffective|p1b: Incineroar
+|-damage|p1a: Hatterene|36/100
+|-damage|p1b: Incineroar|14/100
+|-damage|p2a: Golem|75/100|[from] item: Life Orb
+|move|p1b: Incineroar|Parting Shot|p2a: Golem
+|-unboost|p2a: Golem|atk|1
+|-unboost|p2a: Golem|spa|1
+|inactive|aqueousmantis has 120 seconds left.
+|
+|t:|1711946374
+|switch|p1b: Ursaluna|Ursaluna, F|100/100|[from] Parting Shot
+|move|p1a: Hatterene|Draining Kiss|p2a: Golem
+|-crit|p2a: Golem
+|-damage|p2a: Golem|35/100
+|-heal|p1a: Hatterene|65/100|[from] drain|[of] p2a: Golem
+|
+|-status|p1b: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1711946389
+|move|p2a: Golem|Explosion|p1b: Ursaluna|[spread] p1a
+|-activate|p2b: Oranguru|ability: Telepathy
+|-immune|p1b: Ursaluna
+|-damage|p1a: Hatterene|0 fnt
+|faint|p2a: Golem
+|faint|p1a: Hatterene
+|move|p1b: Ursaluna|High Horsepower|p2b: Oranguru
+|-supereffective|p2b: Oranguru
+|-damage|p2b: Oranguru|0 fnt
+|-damage|p1b: Ursaluna|84/100 brn|[from] item: Rocky Helmet|[of] p2b: Oranguru
+|faint|p2b: Oranguru
+|
+|-damage|p1b: Ursaluna|78/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946403
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|switch|p2b: Landorus|Landorus-Therian, M|100/100
+|switch|p1a: Incineroar|Incineroar, M, shiny|14/100
+|-ability|p2b: Landorus|Intimidate|boost
+|-unboost|p1a: Incineroar|atk|1
+|-unboost|p1b: Ursaluna|atk|1
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Amoonguss|atk|1
+|-unboost|p2b: Landorus|atk|1
+|turn|4
+|
+|t:|1711946419
+|switch|p1b: Primarina|Primarina, F, shiny|100/100
+|move|p1a: Incineroar|Fake Out|p2a: Amoonguss
+|-damage|p2a: Amoonguss|94/100
+|move|p2b: Landorus|Rock Slide|p1b: Primarina|[spread] p1a,p1b
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|-damage|p1b: Primarina|83/100
+|faint|p1a: Incineroar
+|cant|p2a: Amoonguss|flinch
+|
+|-heal|p2a: Amoonguss|100/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711946431
+|switch|p1a: Ursaluna|Ursaluna, F|78/100 brn
+|turn|5
+|
+|t:|1711946444
+|-terastallize|p1b: Primarina|Grass
+|move|p1a: Ursaluna|Protect|p1a: Ursaluna
+|-singleturn|p1a: Ursaluna|Protect
+|move|p2b: Landorus|Rock Slide|p1b: Primarina|[spread] 
+|-activate|p1a: Ursaluna|move: Protect
+|-miss|p2b: Landorus|p1b: Primarina
+|move|p1b: Primarina|Ice Beam|p2b: Landorus
+|-supereffective|p2b: Landorus
+|-damage|p2b: Landorus|0 fnt
+|faint|p2b: Landorus
+|move|p2a: Amoonguss|Spore|p1b: Primarina
+|-immune|p1b: Primarina
+|
+|-damage|p1a: Ursaluna|72/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946464
+|switch|p2b: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Torkoal
+|turn|6
+|
+|t:|1711946481
+|switch|p1b: Enamorus|Enamorus-Therian, F|100/100
+|move|p2a: Amoonguss|Sludge Bomb|p1b: Enamorus
+|-supereffective|p1b: Enamorus
+|-damage|p1b: Enamorus|50/100
+|-status|p1b: Enamorus|psn
+|-enditem|p1b: Enamorus|Weakness Policy
+|-boost|p1b: Enamorus|atk|2|[from] item: Weakness Policy
+|-boost|p1b: Enamorus|spa|2|[from] item: Weakness Policy
+|move|p1a: Ursaluna|High Horsepower|p2b: Torkoal
+|-supereffective|p2b: Torkoal
+|-damage|p2b: Torkoal|0 fnt
+|faint|p2b: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1b: Enamorus|38/100 psn|[from] psn
+|-damage|p1a: Ursaluna|66/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946496
+|switch|p2b: Lurantis|Lurantis, F|100/100
+|turn|7
+|
+|t:|1711946509
+|move|p2b: Lurantis|Superpower|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|27/100 brn
+|-boost|p2b: Lurantis|atk|1
+|-boost|p2b: Lurantis|def|1
+|move|p2a: Amoonguss|Sludge Bomb|p1b: Enamorus
+|-supereffective|p1b: Enamorus
+|-damage|p1b: Enamorus|0 fnt
+|faint|p1b: Enamorus
+|move|p1a: Ursaluna|Facade|p2a: Amoonguss
+|-damage|p2a: Amoonguss|9/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Amoonguss|15/100|[from] item: Black Sludge
+|-damage|p1a: Ursaluna|21/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946518
+|switch|p1b: Primarina|Primarina, F, shiny, tera:Grass|83/100
+|turn|8
+|
+|t:|1711946539
+|move|p2b: Lurantis|Superpower|p1a: Ursaluna
+|-supereffective|p1a: Ursaluna
+|-damage|p1a: Ursaluna|0 fnt
+|-boost|p2b: Lurantis|atk|1
+|-boost|p2b: Lurantis|def|1
+|faint|p1a: Ursaluna
+|move|p1b: Primarina|Ice Beam|p2b: Lurantis
+|-supereffective|p2b: Lurantis
+|-damage|p2b: Lurantis|29/100
+|move|p2a: Amoonguss|Giga Drain|p1b: Primarina
+|-resisted|p1b: Primarina
+|-damage|p1b: Primarina|73/100
+|-heal|p2a: Amoonguss|19/100|[from] drain|[of] p1b: Primarina
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Amoonguss|25/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711946542
+|switch|p1a: Bronzong|Bronzong, shiny|100/100
+|turn|9
+|
+|t:|1711946557
+|move|p2b: Lurantis|Leech Life|p1b: Primarina
+|-supereffective|p1b: Primarina
+|-damage|p1b: Primarina|0 fnt
+|-heal|p2b: Lurantis|77/100|[from] drain|[of] p1b: Primarina
+|faint|p1b: Primarina
+|move|p2a: Amoonguss|Spore|p1a: Bronzong
+|-status|p1a: Bronzong|slp|[from] move: Spore
+|cant|p1a: Bronzong|slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Amoonguss|31/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1711946575
+|move|p2b: Lurantis|Knock Off|p1a: Bronzong
+|-supereffective|p1a: Bronzong
+|-damage|p1a: Bronzong|17/100 slp
+|-enditem|p1a: Bronzong|Leftovers|[from] move: Knock Off|[of] p2b: Lurantis
+|move|p2a: Amoonguss|Giga Drain|p1a: Bronzong
+|-resisted|p1a: Bronzong
+|-damage|p1a: Bronzong|6/100 slp
+|-heal|p2a: Amoonguss|35/100|[from] drain|[of] p1a: Bronzong
+|cant|p1a: Bronzong|slp
+|
+|-weather|none
+|-heal|p2a: Amoonguss|42/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|c|☆Dardragon|gg
+|c|☆aqueousmantis|gg
+|inactive|aqueousmantis has 120 seconds left.
+|-message|aqueousmantis forfeited.
+|
+|win|Dardragon
+|raw|aqueousmantis's rating: 1207 &rarr; <strong>1184</strong><br />(-23 for losing)
+|raw|Dardragon's rating: 1228 &rarr; <strong>1251</strong><br />(+23 for winning)
+|l|☆aqueousmantis
+|player|p1|

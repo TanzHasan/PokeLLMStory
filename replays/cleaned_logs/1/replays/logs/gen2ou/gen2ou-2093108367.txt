@@ -1,0 +1,150 @@
+p1: Switched to Cloyster
+p2: Switched to Skarmory
+Turn 1:
+p2: Skarmory used Toxic on Cloyster
+p1: Cloyster used Ice Beam on Skarmory
+Turn 2:
+p2: Switched to Suicune
+p1: Cloyster used Spikes on Suicune
+Turn 3:
+p1: Switched to Snorlax
+p2: Suicune used Surf on Snorlax
+Turn 4:
+p2: Switched to Skarmory
+p1: Snorlax used Body Slam on Skarmory
+Turn 5:
+p1: Switched to Houndoom
+p2: Skarmory used Toxic on Houndoom
+Turn 6:
+p1: Houndoom used Pursuit on Skarmory
+p2: Switched to Blissey
+Turn 7:
+p1: Switched to Snorlax
+p2: Blissey used Thunder Wave on Snorlax
+Turn 8:
+p2: Blissey used Double-Edge on Snorlax
+p1: Snorlax used Belly Drum on Snorlax
+Turn 9:
+p2: Blissey used Double-Edge on Snorlax
+p1: Snorlax used Body Slam on Blissey
+p2: Blissey fainted
+p2: Switched to Nidoking
+Turn 10:
+p1: Snorlax can't move
+p2: Nidoking used Roar on Snorlax
+Turn 11:
+p2: Switched to Machamp
+p1: Cloyster used Ice Beam on Machamp
+Turn 12:
+p1: Cloyster used Rest on Cloyster
+p2: Machamp used Rock Slide on Cloyster
+Turn 13:
+p1: Switched to Scizor
+p2: Machamp used Rock Slide on Scizor
+Turn 14:
+p1: Scizor used Swords Dance on Scizor
+p2: Machamp used Cross Chop on Scizor
+Turn 15:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Snorlax
+p2: Machamp used Cross Chop on Snorlax
+p1: Snorlax fainted
+p1: Switched to Pikachu
+Turn 16:
+p2: Switched to Raikou
+p1: Pikachu used Thunder on Raikou
+Turn 17:
+p2: Raikou used Thunderbolt on Pikachu
+p1: Pikachu used Surf on Raikou
+Turn 18:
+p2: Raikou used Rest on Raikou
+p1: Pikachu used Surf on Raikou
+Turn 19:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Hidden Power on Pikachu
+p1: Pikachu used Surf on Raikou
+Turn 20:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Rest on Raikou
+p1: Pikachu used Surf on Raikou
+Turn 21:
+p2: Raikou can't move
+p1: Pikachu used Surf on Raikou
+Turn 22:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Thunderbolt on Pikachu
+p1: Pikachu fainted
+p1: Switched to Scizor
+Turn 23:
+p2: Raikou used Sleep Talk on Raikou
+p1: Scizor used Agility on Scizor
+Turn 24:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Marowak
+p2: Raikou used Thunderbolt on Marowak
+Turn 25:
+p2: Switched to Suicune
+p1: Marowak used Earthquake on Suicune
+Turn 26:
+p1: Marowak used Earthquake on Suicune
+p2: Suicune used Surf on Marowak
+Turn 27:
+p2: Switched to Skarmory
+p1: Marowak used Earthquake on Skarmory
+Turn 28:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory used Whirlwind on Marowak
+Turn 29:
+p2: Switched to Nidoking
+p1: Houndoom used Fire Blast on Nidoking
+Turn 30:
+p1: Houndoom used Fire Blast on Nidoking
+p2: Nidoking fainted
+p2: Switched to Machamp
+Turn 31:
+p1: Houndoom used Fire Blast on Machamp
+p2: Machamp used Rock Slide on Houndoom
+Turn 32:
+p1: Houndoom used Fire Blast on Machamp
+p2: Machamp used Cross Chop on Houndoom
+p1: Houndoom fainted
+p1: Switched to Scizor
+Turn 33:
+p1: Scizor used Hidden Power on Machamp
+p2: Machamp fainted
+p2: Switched to Suicune
+p2: Suicune fainted
+p2: Switched to Raikou
+Turn 34:
+p2: Raikou used Hidden Power on Scizor
+p1: Scizor used Hidden Power on Raikou
+Turn 35:
+p2: Raikou used Rest on Raikou
+p1: Scizor used Hidden Power on Raikou
+Turn 36:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Hidden Power on Scizor
+p1: Scizor used Agility on Scizor
+Turn 37:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Marowak
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Rest on Raikou
+Turn 38:
+p2: Switched to Skarmory
+p1: Marowak used Substitute on Marowak
+Turn 39:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory can't move
+Turn 40:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory fainted
+p2: Switched to Raikou
+Turn 41:
+p1: Marowak used Earthquake on Raikou
+p2: Raikou fainted

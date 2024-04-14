@@ -1,0 +1,357 @@
+|j|☆41exe
+|j|☆im dumb srly
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711845354
+|gametype|singles
+|player|p1|41exe|parasollady|
+|player|p2|im dumb srly|pokemonrangerf-gen6|
+|teamsize|p1|5
+|teamsize|p2|5
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Gastrodon, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Inteleon, F|
+|poke|p1|Salamence, M|
+|poke|p2|Sinistcha|
+|poke|p2|Skeledirge, F|
+|poke|p2|Staraptor, F|
+|poke|p2|Swalot, M|
+|poke|p2|Noivern, F|
+|teampreview
+|j|*Lady Monita ❆
+|c|☆41exe|gl :)
+|c|☆im dumb srly|u2
+|
+|t:|1711845374
+|start
+|switch|p1a: Inteleon|Inteleon, F|100/100
+|switch|p2a: Swalot|Swalot, M, shiny|100/100
+|turn|1
+|c|☆41exe|ive had no idea what to do with this weezing the entire tour
+|j| Cr1pticshot
+|c|☆im dumb srly|Wow
+|j| ihavebestsandteam
+|c|☆im dumb srly|i was actually scared of it
+|c|☆41exe|no way
+|c|☆41exe|i mean
+|inactive|im dumb srly has 120 seconds left.
+|c|☆41exe|its carried me so hard all tour
+|
+|t:|1711845416
+|switch|p2a: Sinistcha|Sinistcha, shiny|100/100
+|move|p1a: Inteleon|Scald|p2a: Sinistcha
+|-resisted|p2a: Sinistcha
+|-damage|p2a: Sinistcha|66/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711845420
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|detailschange|p2a: Sinistcha|Sinistcha, shiny
+|-mega|p2a: Sinistcha|Sinistcha|Venusaurite
+|-start|p2a: Sinistcha|Venusaurite|[silent]
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|82/100
+|-heal|p2a: Sinistcha|75/100|[from] drain|[of] p1a: Weezing
+|
+|upkeep
+|turn|3
+|
+|t:|1711845428
+|-end|p2a: Sinistcha|Venusaurite|[silent]
+|switch|p2a: Swalot|Swalot, M, shiny|100/100
+|move|p1a: Weezing|Toxic|p2a: Swalot
+|-immune|p2a: Swalot
+|
+|upkeep
+|turn|4
+|
+|t:|1711845432
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|move|p1a: Weezing|Will-O-Wisp|p2a: Swalot
+|-status|p2a: Swalot|brn
+|
+|-damage|p2a: Swalot|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|c|☆im dumb srly|Sad
+|
+|t:|1711845439
+|move|p2a: Swalot|Encore|p1a: Weezing
+|-start|p1a: Weezing|Encore
+|move|p1a: Weezing|Will-O-Wisp|p2a: Swalot
+|-fail|p2a: Swalot|brn
+|
+|-damage|p2a: Swalot|88/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1711845446
+|switch|p1a: Salamence|Salamence, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Swalot|atk|1
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|
+|-damage|p2a: Swalot|82/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711845450
+|switch|p1a: Weezing|Weezing-Galar, M|82/100
+|detailschange|p2a: Swalot|Swalot, M, shiny
+|-mega|p2a: Swalot|Swalot|Diancite
+|-start|p2a: Swalot|Diancite|[silent]
+|move|p2a: Swalot|Gunk Shot|p1a: Weezing
+|-damage|p1a: Weezing|9/100
+|
+|-damage|p2a: Swalot|76/100 brn|[from] brn
+|upkeep
+|turn|8
+|j| Dark Void Traveler
+|
+|t:|1711845457
+|move|p2a: Swalot|Gunk Shot|p1a: Weezing|[miss]
+|-miss|p2a: Swalot|p1a: Weezing
+|move|p1a: Weezing|Haze|p1a: Weezing
+|-clearallboost
+|
+|-damage|p2a: Swalot|70/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711845460
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|move|p1a: Weezing|Pain Split|p2a: Swalot
+|-sethp|p2a: Swalot|39/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|40/100|[from] move: Pain Split
+|
+|-damage|p2a: Swalot|33/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711845464
+|move|p2a: Swalot|Gunk Shot|p1a: Weezing|[miss]
+|-miss|p2a: Swalot|p1a: Weezing
+|move|p1a: Weezing|Haze|p1a: Weezing
+|-clearallboost
+|
+|-damage|p2a: Swalot|27/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711845473
+|move|p2a: Swalot|Swords Dance|p2a: Swalot
+|-boost|p2a: Swalot|atk|2
+|move|p1a: Weezing|Haze|p1a: Weezing
+|-clearallboost
+|
+|-damage|p2a: Swalot|21/100 brn|[from] brn
+|upkeep
+|turn|12
+|j| jadearule
+|
+|t:|1711845476
+|move|p2a: Swalot|Gunk Shot|p1a: Weezing|[miss]
+|-miss|p2a: Swalot|p1a: Weezing
+|move|p1a: Weezing|Haze|p1a: Weezing
+|-clearallboost
+|
+|-damage|p2a: Swalot|15/100 brn|[from] brn
+|upkeep
+|turn|13
+|c|☆im dumb srly|?
+|c|☆im dumb srly|why
+|c|☆im dumb srly|do
+|c|☆41exe|what
+|c|☆im dumb srly|i keept
+|c|☆im dumb srly|missing
+|
+|t:|1711845493
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|move|p2a: Swalot|Gunk Shot|p1a: Kingambit
+|-immune|p1a: Kingambit
+|
+|-damage|p2a: Swalot|9/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711845500
+|switch|p1a: Weezing|Weezing-Galar, M|40/100
+|move|p2a: Swalot|Earthquake|p1a: Weezing
+|-immune|p1a: Weezing|[from] ability: Levitate
+|
+|-damage|p2a: Swalot|3/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711845506
+|move|p2a: Swalot|Gunk Shot|p1a: Weezing|[miss]
+|-miss|p2a: Swalot|p1a: Weezing
+|move|p1a: Weezing|Haze|p1a: Weezing
+|-clearallboost
+|
+|-damage|p2a: Swalot|0 fnt|[from] brn
+|faint|p2a: Swalot
+|upkeep
+|c|☆41exe|omg
+|l| Dark Void Traveler
+|c|☆im dumb srly|????
+|c|☆im dumb srly|4x in a row
+|c|☆41exe|0 hits from swallot
+|
+|t:|1711845519
+|switch|p2a: Staraptor|Staraptor, F, shiny|100/100
+|-ability|p2a: Staraptor|Intimidate|boost
+|-unboost|p1a: Weezing|atk|1
+|turn|16
+|
+|t:|1711845528
+|detailschange|p2a: Staraptor|Staraptor, F, shiny
+|-mega|p2a: Staraptor|Staraptor|Pinsirite
+|-start|p2a: Staraptor|Pinsirite|[silent]
+|detailschange|p1a: Weezing|Weezing-Galar, M
+|-mega|p1a: Weezing|Weezing|Sablenite
+|-start|p1a: Weezing|Sablenite|[silent]
+|move|p2a: Staraptor|Double-Edge|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-damage|p2a: Staraptor|86/100|[from] Recoil
+|
+|upkeep
+|c| Cr1pticshot|lol
+|
+|t:|1711845535
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|turn|17
+|
+|t:|1711845541
+|detailschange|p1a: Gastrodon|Gastrodon, F
+|-mega|p1a: Gastrodon|Gastrodon|Manectite
+|-ability|p1a: Gastrodon|Intimidate|boost
+|-unboost|p2a: Staraptor|atk|1
+|-start|p1a: Gastrodon|Manectite|[silent]
+|move|p2a: Staraptor|Double-Edge|p1a: Gastrodon
+|-damage|p1a: Gastrodon|55/100
+|-damage|p2a: Staraptor|66/100|[from] Recoil
+|move|p1a: Gastrodon|Ice Beam|p2a: Staraptor
+|-supereffective|p2a: Staraptor
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|upkeep
+|
+|t:|1711845549
+|switch|p2a: Noivern|Noivern, F, shiny|100/100
+|-item|p1a: Gastrodon|Manectite|[from] ability: Frisk|[of] p2a: Noivern|[identify]
+|turn|18
+|
+|t:|1711845555
+|detailschange|p2a: Noivern|Noivern, F, shiny
+|-mega|p2a: Noivern|Noivern|Altarianite
+|-start|p2a: Noivern|Altarianite|[silent]
+|-start|p2a: Noivern|typechange|Flying/Fairy|[silent]
+|move|p2a: Noivern|Boomburst|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1711845561
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|turn|19
+|
+|t:|1711845567
+|detailschange|p1a: Kingambit|Kingambit, M
+|-mega|p1a: Kingambit|Kingambit|Lucarionite
+|-start|p1a: Kingambit|Lucarionite|[silent]
+|move|p2a: Noivern|Boomburst|p1a: Kingambit
+|-damage|p1a: Kingambit|7/100
+|move|p1a: Kingambit|Iron Head|p2a: Noivern
+|-supereffective|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|upkeep
+|j| kajti4
+|c|☆41exe|oh wow
+|
+|t:|1711845575
+|switch|p2a: Skeledirge|Skeledirge, F, shiny|100/100
+|turn|20
+|
+|t:|1711845580
+|detailschange|p2a: Skeledirge|Skeledirge, F, shiny
+|-mega|p2a: Skeledirge|Skeledirge|Lucarionite
+|-start|p2a: Skeledirge|Lucarionite|[silent]
+|move|p1a: Kingambit|Sucker Punch|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|faint|p2a: Skeledirge
+|
+|upkeep
+|l| kajti4
+|
+|t:|1711845585
+|switch|p2a: Sinistcha|Sinistcha, shiny|75/100
+|-start|p2a: Sinistcha|Venusaurite|[silent]
+|turn|21
+|c|☆41exe|oh wow x2
+|c|☆im dumb srly|:(
+|
+|t:|1711845593
+|move|p1a: Kingambit|Sucker Punch||[still]
+|-fail|p1a: Kingambit
+|move|p2a: Sinistcha|Strength Sap|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|22
+|j| no name ig
+|
+|t:|1711845598
+|move|p1a: Kingambit|Sucker Punch|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|43/100
+|move|p2a: Sinistcha|Matcha Gotcha|p1a: Kingambit|[miss]
+|-miss|p2a: Sinistcha|p1a: Kingambit
+|
+|upkeep
+|turn|23
+|c| Cr1pticshot|damn
+|c|☆im dumb srly|how many times I have hit inaccurate moves
+|c| no name ig|unlucky
+|c| Cr1pticshot|IDS is done lol
+|
+|t:|1711845622
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|win|41exe
+|n|☆41exe|41exe
+|n|☆im dumb srly|imdumbsrly
+|n|*Lady Monita ❆|ladymonita
+|n| Cr1pticshot|cr1pticshot
+|n| ihavebestsandteam|ihavebestsandteam
+|n| jadearule|jadearule
+|n| no name ig|nonameig

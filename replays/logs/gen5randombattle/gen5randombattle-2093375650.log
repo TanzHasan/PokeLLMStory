@@ -1,0 +1,387 @@
+|j|☆Tapadh leibh
+|j|☆Skullmonkey
+|t:|1711946885
+|gametype|singles
+|player|p1|Tapadh leibh|blue|1217
+|player|p2|Skullmonkey|li|1131
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946885
+|start
+|switch|p1a: Lumineon|Lumineon, L89, M|268/268
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tapadh leibh)
+|
+|t:|1711946896
+|switch|p2a: Toxicroak|Toxicroak, L83, F|256/256
+|move|p1a: Lumineon|Toxic|p2a: Toxicroak
+|-immune|p2a: Toxicroak
+|
+|upkeep
+|turn|2
+|
+|t:|1711946902
+|move|p1a: Lumineon|U-turn|p2a: Toxicroak
+|-resisted|p2a: Toxicroak
+|-damage|p2a: Toxicroak|242/256
+|
+|t:|1711946909
+|switch|p1a: Nidoqueen|Nidoqueen, L82, F|282/282|[from] U-turn
+|move|p2a: Toxicroak|Swords Dance|p2a: Toxicroak
+|-boost|p2a: Toxicroak|atk|2
+|
+|-heal|p2a: Toxicroak|256/256|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1711946927
+|switch|p2a: Milotic|Milotic, L82, M|290/290
+|move|p1a: Nidoqueen|Earth Power|p2a: Milotic
+|-damage|p2a: Milotic|189/290
+|
+|-heal|p2a: Milotic|207/290|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946935
+|switch|p1a: Lumineon|Lumineon, L89, M|268/268
+|move|p2a: Milotic|Scald|p1a: Lumineon
+|-ability|p1a: Lumineon|Storm Drain|boost
+|-boost|p1a: Lumineon|spa|1
+|
+|-heal|p2a: Milotic|225/290|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946942
+|move|p1a: Lumineon|Toxic|p2a: Milotic|[miss]
+|-miss|p1a: Lumineon|p2a: Milotic
+|move|p2a: Milotic|Toxic|p1a: Lumineon
+|-status|p1a: Lumineon|tox
+|
+|-heal|p2a: Milotic|243/290|[from] item: Leftovers
+|-damage|p1a: Lumineon|252/268 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711946951
+|switch|p2a: Toxicroak|Toxicroak, L83, F|256/256
+|move|p1a: Lumineon|U-turn|p2a: Toxicroak
+|-resisted|p2a: Toxicroak
+|-crit|p2a: Toxicroak
+|-damage|p2a: Toxicroak|229/256
+|
+|t:|1711946966
+|switch|p1a: Mesprit|Mesprit, L83|268/268|[from] U-turn
+|
+|-heal|p2a: Toxicroak|245/256|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1711946975
+|switch|p2a: Milotic|Milotic, L82, M|243/290
+|move|p1a: Mesprit|Psychic|p2a: Milotic
+|-damage|p2a: Milotic|122/290
+|
+|-heal|p2a: Milotic|140/290|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711946985
+|switch|p1a: Spiritomb|Spiritomb, L85, F|224/224
+|-ability|p1a: Spiritomb|Pressure
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|285/290
+|
+|-heal|p2a: Milotic|290/290|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711946993
+|move|p2a: Milotic|Toxic|p1a: Spiritomb
+|-status|p1a: Spiritomb|tox
+|move|p1a: Spiritomb|Calm Mind|p1a: Spiritomb
+|-boost|p1a: Spiritomb|spa|1
+|-boost|p1a: Spiritomb|spd|1
+|
+|-damage|p1a: Spiritomb|210/224 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711947000
+|move|p1a: Spiritomb|Calm Mind|p1a: Spiritomb
+|-boost|p1a: Spiritomb|spa|1
+|-boost|p1a: Spiritomb|spd|1
+|move|p2a: Milotic|Dragon Tail|p1a: Spiritomb
+|-damage|p1a: Spiritomb|184/224 tox
+|drag|p1a: Mesprit|Mesprit, L83|268/268
+|
+|upkeep
+|turn|11
+|
+|t:|1711947007
+|move|p1a: Mesprit|Thunderbolt|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-crit|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|
+|upkeep
+|
+|t:|1711947012
+|switch|p2a: Yanmega|Yanmega, L82, M|275/275
+|turn|12
+|
+|t:|1711947017
+|move|p2a: Yanmega|Bug Buzz|p1a: Mesprit
+|-supereffective|p1a: Mesprit
+|-damage|p1a: Mesprit|18/268
+|-damage|p2a: Yanmega|248/275|[from] item: Life Orb
+|move|p1a: Mesprit|Thunderbolt|p2a: Yanmega
+|-supereffective|p2a: Yanmega
+|-damage|p2a: Yanmega|0 fnt
+|faint|p2a: Yanmega
+|
+|upkeep
+|
+|t:|1711947025
+|switch|p2a: Noctowl|Noctowl, L95, F|344/344
+|turn|13
+|
+|t:|1711947029
+|move|p2a: Noctowl|Air Slash|p1a: Mesprit
+|-crit|p1a: Mesprit
+|-damage|p1a: Mesprit|0 fnt
+|faint|p1a: Mesprit
+|
+|upkeep
+|
+|t:|1711947035
+|switch|p1a: Nidoqueen|Nidoqueen, L82, F|282/282
+|turn|14
+|
+|t:|1711947041
+|move|p2a: Noctowl|Air Slash|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|200/282
+|cant|p1a: Nidoqueen|flinch
+|
+|upkeep
+|turn|15
+|
+|t:|1711947046
+|move|p2a: Noctowl|Air Slash|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|118/282
+|move|p1a: Nidoqueen|Stealth Rock|p2a: Noctowl
+|-sidestart|p2: Skullmonkey|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1711947050
+|move|p2a: Noctowl|Air Slash|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|31/282
+|move|p1a: Nidoqueen|Ice Beam|p2a: Noctowl
+|-supereffective|p2a: Noctowl
+|-crit|p2a: Noctowl
+|-damage|p2a: Noctowl|42/344
+|
+|-heal|p2a: Noctowl|63/344|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711947058
+|move|p2a: Noctowl|Roost|p2a: Noctowl
+|-heal|p2a: Noctowl|235/344
+|-singleturn|p2a: Noctowl|move: Roost
+|move|p1a: Nidoqueen|Ice Beam|p2a: Noctowl
+|-damage|p2a: Noctowl|162/344
+|
+|-heal|p2a: Noctowl|183/344|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711947066
+|move|p2a: Noctowl|Air Slash|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|0 fnt
+|faint|p1a: Nidoqueen
+|
+|-heal|p2a: Noctowl|204/344|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947073
+|switch|p1a: Lumineon|Lumineon, L89, M|252/268 tox
+|turn|19
+|
+|t:|1711947078
+|switch|p2a: Toxicroak|Toxicroak, L83, F|245/256
+|-damage|p2a: Toxicroak|229/256|[from] Stealth Rock
+|move|p1a: Lumineon|Ice Beam|p2a: Toxicroak
+|-damage|p2a: Toxicroak|155/256
+|
+|-heal|p1a: Lumineon|268/268 tox|[from] item: Leftovers
+|-heal|p2a: Toxicroak|171/256|[from] item: Black Sludge
+|-damage|p1a: Lumineon|252/268 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711947088
+|move|p1a: Lumineon|U-turn|p2a: Toxicroak
+|-resisted|p2a: Toxicroak
+|-damage|p2a: Toxicroak|158/256
+|
+|t:|1711947090
+|switch|p1a: Banette|Banette, L94, F|273/273|[from] U-turn
+|move|p2a: Toxicroak|Swords Dance|p2a: Toxicroak
+|-boost|p2a: Toxicroak|atk|2
+|
+|-heal|p2a: Toxicroak|174/256|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1711947098
+|move|p2a: Toxicroak|Substitute|p2a: Toxicroak
+|-start|p2a: Toxicroak|Substitute
+|-damage|p2a: Toxicroak|110/256
+|move|p1a: Banette|Shadow Claw|p2a: Toxicroak
+|-end|p2a: Toxicroak|Substitute
+|-damage|p1a: Banette|246/273|[from] item: Life Orb
+|
+|-heal|p2a: Toxicroak|126/256|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1711947107
+|move|p1a: Banette|Shadow Sneak|p2a: Toxicroak
+|-damage|p2a: Toxicroak|25/256
+|-damage|p1a: Banette|219/273|[from] item: Life Orb
+|move|p2a: Toxicroak|Poison Jab|p1a: Banette
+|-resisted|p1a: Banette
+|-damage|p1a: Banette|126/273
+|-start|p2a: Toxicroak|Disable|Poison Jab|[from] ability: Cursed Body|[of] p1a: Banette
+|
+|-heal|p2a: Toxicroak|41/256|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1711947116
+|switch|p2a: Noctowl|Noctowl, L95, F|204/344
+|-damage|p2a: Noctowl|118/344|[from] Stealth Rock
+|move|p1a: Banette|Thunder Wave|p2a: Noctowl
+|-status|p2a: Noctowl|par
+|
+|-heal|p2a: Noctowl|139/344 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711947126
+|move|p1a: Banette|Hidden Power|p2a: Noctowl
+|-damage|p2a: Noctowl|81/344 par
+|-damage|p1a: Banette|99/273|[from] item: Life Orb
+|move|p2a: Noctowl|Toxic|p1a: Banette
+|-status|p1a: Banette|tox
+|
+|-heal|p2a: Noctowl|102/344 par|[from] item: Leftovers
+|-damage|p1a: Banette|82/273 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1711947136
+|switch|p1a: Samurott|Samurott, L86, F|304/304
+|move|p2a: Noctowl|Roost|p2a: Noctowl
+|-heal|p2a: Noctowl|274/344 par
+|-singleturn|p2a: Noctowl|move: Roost
+|
+|-heal|p2a: Noctowl|295/344 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711947144
+|move|p1a: Samurott|Superpower|p2a: Noctowl
+|-damage|p2a: Noctowl|176/344 par
+|-unboost|p1a: Samurott|atk|1
+|-unboost|p1a: Samurott|def|1
+|move|p2a: Noctowl|Toxic|p1a: Samurott
+|-status|p1a: Samurott|tox
+|
+|-heal|p2a: Noctowl|197/344 par|[from] item: Leftovers
+|-damage|p1a: Samurott|285/304 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1711947153
+|switch|p1a: Spiritomb|Spiritomb, L85, F|184/224 tox
+|-ability|p1a: Spiritomb|Pressure
+|move|p2a: Noctowl|Roost|p2a: Noctowl
+|-heal|p2a: Noctowl|344/344 par
+|-singleturn|p2a: Noctowl|move: Roost
+|
+|-heal|p1a: Spiritomb|198/224 tox|[from] item: Leftovers
+|-damage|p1a: Spiritomb|184/224 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1711947172
+|switch|p2a: Sawsbuck|Sawsbuck, L85, F|257/257
+|-damage|p2a: Sawsbuck|225/257|[from] Stealth Rock
+|move|p1a: Spiritomb|Calm Mind|p1a: Spiritomb
+|-boost|p1a: Spiritomb|spa|1
+|-boost|p1a: Spiritomb|spd|1
+|
+|-heal|p2a: Sawsbuck|241/257|[from] item: Leftovers
+|-heal|p1a: Spiritomb|198/224 tox|[from] item: Leftovers
+|-damage|p1a: Spiritomb|170/224 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1711947183
+|move|p2a: Sawsbuck|Substitute|p2a: Sawsbuck
+|-start|p2a: Sawsbuck|Substitute
+|-damage|p2a: Sawsbuck|177/257
+|move|p1a: Spiritomb|Dark Pulse|p2a: Sawsbuck
+|-end|p2a: Sawsbuck|Substitute
+|
+|-heal|p2a: Sawsbuck|193/257|[from] item: Leftovers
+|-heal|p1a: Spiritomb|184/224 tox|[from] item: Leftovers
+|-damage|p1a: Spiritomb|142/224 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1711947192
+|move|p2a: Sawsbuck|Substitute|p2a: Sawsbuck
+|-start|p2a: Sawsbuck|Substitute
+|-damage|p2a: Sawsbuck|129/257
+|move|p1a: Spiritomb|Dark Pulse|p2a: Sawsbuck
+|-end|p2a: Sawsbuck|Substitute
+|
+|-heal|p2a: Sawsbuck|145/257|[from] item: Leftovers
+|-heal|p1a: Spiritomb|156/224 tox|[from] item: Leftovers
+|-damage|p1a: Spiritomb|100/224 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1711947201
+|move|p2a: Sawsbuck|Horn Leech|p1a: Spiritomb
+|-damage|p1a: Spiritomb|30/224 tox
+|-heal|p2a: Sawsbuck|180/257|[from] drain|[of] p1a: Spiritomb
+|move|p1a: Spiritomb|Rest|p1a: Spiritomb
+|-status|p1a: Spiritomb|slp|[from] move: Rest
+|-heal|p1a: Spiritomb|224/224 slp|[silent]
+|
+|-heal|p2a: Sawsbuck|196/257|[from] item: Leftovers
+|upkeep
+|turn|32
+|-message|Tapadh leibh forfeited.
+|
+|win|Skullmonkey
+|raw|Tapadh leibh's rating: 1217 &rarr; <strong>1186</strong><br />(-31 for losing)
+|raw|Skullmonkey's rating: 1131 &rarr; <strong>1162</strong><br />(+31 for winning)
+|l|☆Tapadh leibh
+|player|p1|

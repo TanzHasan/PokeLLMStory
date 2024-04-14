@@ -1,0 +1,74 @@
+p1: Switched to Metagross
+p2: Switched to Mienshao
+Turn 1:
+p2: Mienshao used U-turn on Metagross
+p2: Switched to Slowbro
+p1: Metagross used Heavy Slam on Slowbro
+Turn 2:
+p1: Switched to Rotom-Wash
+p2: Slowbro used Scald on Rotom-Wash
+Turn 3:
+p2: Switched to Hydrapple
+p1: Rotom-Wash used Thunderbolt on Hydrapple
+Turn 4:
+p1: Rotom-Wash used Thunderbolt on Hydrapple
+p2: Hydrapple used Nasty Plot on Hydrapple
+Turn 5:
+p1: Switched to Scizor
+p2: Hydrapple used Giga Drain on Scizor
+Turn 6:
+p1: Scizor used Bug Bite on Hydrapple
+p2: Hydrapple used Earth Power on Scizor
+p1: Scizor fainted
+p1: Switched to Mamoswine
+Turn 7:
+p2: Switched to Slowbro
+p1: Mamoswine used Knock Off on Slowbro
+Turn 8:
+p1: Switched to Rotom-Wash
+p2: Slowbro used Slack Off on Slowbro
+Turn 9:
+p2: Switched to Hydrapple
+p1: Rotom-Wash used Nasty Plot on Rotom-Wash
+Turn 10:
+p1: Rotom-Wash used Thunderbolt on Hydrapple
+p2: Hydrapple used Giga Drain on Rotom-Wash
+Turn 11:
+p1: Rotom-Wash used Thunderbolt on Hydrapple
+p2: Hydrapple used Earth Power on Rotom-Wash
+Turn 12:
+p1: Rotom-Wash used Hydro Pump on Hydrapple
+p2: Hydrapple used Giga Drain on Rotom-Wash
+p1: Rotom-Wash fainted
+p1: Switched to Mamoswine
+Turn 13:
+p2: Switched to Slowbro
+p1: Mamoswine used Icicle Crash on Slowbro
+Turn 14:
+p1: Switched to Latios
+p2: Slowbro used Scald on Latios
+Turn 15:
+p1: Latios used Calm Mind on Latios
+p2: Slowbro used Foul Play on Latios
+Turn 16:
+p1: Latios used Dragon Pulse on Slowbro
+p2: Slowbro used Foul Play on Latios
+p1: Latios fainted
+p1: Switched to Metagross
+Turn 17:
+p2: Switched to Toxapex
+p1: Metagross used Heavy Slam on Toxapex
+Turn 18:
+p1: Metagross used Psychic Fangs on Toxapex
+p2: Toxapex used Liquidation on Metagross
+Turn 19:
+p2: Switched to Tornadus-Therian
+p1: Metagross used Psychic Fangs on Tornadus-Therian
+Turn 20:
+p2: Tornadus-Therian used Knock Off on Metagross
+p1: Metagross fainted
+p1: Switched to Mamoswine
+Turn 21:
+p2: Switched to Slowbro
+p1: Mamoswine used Icicle Crash on Slowbro
+Turn 22:

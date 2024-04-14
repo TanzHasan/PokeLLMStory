@@ -1,0 +1,42 @@
+p1: Switched to Ambipom
+p2: Switched to Chansey
+Turn 1:
+p1: Ambipom used Fake Out on Chansey
+p2: Chansey can't move
+Turn 2:
+p1: Ambipom used Double Hit on Chansey
+p2: Chansey used Stealth Rock on Ambipom
+Turn 3:
+p1: Ambipom used Double Hit on Chansey
+p2: Chansey used Seismic Toss on Ambipom
+Turn 4:
+p1: Ambipom used Double Hit on Chansey
+p2: Chansey used Seismic Toss on Ambipom
+Turn 5:
+p2: Switched to Slowbro
+p1: Ambipom used Double Hit on Slowbro
+Turn 6:
+p1: Ambipom used Trailblaze on Slowbro
+p2: Slowbro used Future Sight on Ambipom
+Turn 7:
+p2: Switched to Dragalge
+p1: Ambipom used Double Hit on Dragalge
+Turn 8:
+p1: Switched to Krookodile
+p2: Dragalge used Toxic Spikes on Krookodile
+Turn 9:
+p2: Switched to Umbreon
+p1: Krookodile used Earthquake on Umbreon
+Turn 10:
+p1: Switched to Galvantula
+p2: Umbreon used Toxic on Galvantula
+Turn 11:
+p1: Galvantula used Sticky Web on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 12:
+p1: Switched to Krookodile
+p2: Switched to Chansey
+Turn 13:
+p1: Krookodile used Close Combat on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 14:

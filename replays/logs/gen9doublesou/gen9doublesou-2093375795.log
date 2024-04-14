@@ -1,0 +1,148 @@
+|j|☆genetsuu
+|j|☆tim thamson 2
+|t:|1711946909
+|gametype|doubles
+|player|p1|genetsuu|nurse|1177
+|player|p2|tim thamson 2|2|1217
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Kingambit, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Chi-Yu|
+|poke|p1|Whimsicott, F|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Iron Hands|
+|poke|p2|Ogerpon-Hearthflame, F|
+|poke|p2|Incineroar, F|
+|poke|p2|Ursaluna-Bloodmoon, M|
+|poke|p2|Farigiraf, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Conkeldurr, F|
+|teampreview
+|
+|t:|1711946919
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p1b: Whimsicott|Whimsicott, F, shiny|100/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|switch|p2b: Farigiraf|Farigiraf, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Incineroar|atk|1
+|-unboost|p2b: Farigiraf|atk|1
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|-unboost|p1b: Whimsicott|atk|1
+|turn|1
+|
+|t:|1711946948
+|move|p1b: Whimsicott|Helping Hand|p1a: Landorus
+|-singleturn|p1a: Landorus|Helping Hand|[of] p1b: Whimsicott
+|move|p2a: Incineroar|Fake Out|p1b: Whimsicott
+|-damage|p1b: Whimsicott|90/100
+|move|p1a: Landorus|Rock Slide|p2b: Farigiraf|[spread] p2a,p2b
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|51/100
+|-damage|p2b: Farigiraf|76/100
+|move|p2b: Farigiraf|Trick Room|p2b: Farigiraf
+|-fieldstart|move: Trick Room|[of] p2b: Farigiraf
+|
+|upkeep
+|turn|2
+|
+|t:|1711946973
+|move|p1b: Whimsicott|Helping Hand|p1a: Landorus
+|-singleturn|p1a: Landorus|Helping Hand|[of] p1b: Whimsicott
+|move|p2b: Farigiraf|Hyper Voice|p1a: Landorus|[spread] p1a,p1b
+|-damage|p1a: Landorus|72/100
+|-damage|p1b: Whimsicott|59/100
+|-enditem|p2b: Farigiraf|Throat Spray
+|-boost|p2b: Farigiraf|spa|1|[from] item: Throat Spray
+|move|p2a: Incineroar|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|31/100
+|-enditem|p1a: Landorus|Choice Scarf|[from] move: Knock Off|[of] p2a: Incineroar
+|move|p1a: Landorus|Rock Slide|p2b: Farigiraf|[spread] p2a,p2b
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|6/100
+|-damage|p2b: Farigiraf|54/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711947006
+|switch|p1a: Iron Hands|Iron Hands|100/100
+|move|p1b: Whimsicott|Protect|p1b: Whimsicott
+|-singleturn|p1b: Whimsicott|Protect
+|move|p2b: Farigiraf|Psychic|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|48/100
+|move|p2a: Incineroar|Knock Off|p1b: Whimsicott
+|-activate|p1b: Whimsicott|move: Protect
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tim thamson 2)
+|
+|t:|1711947049
+|move|p1b: Whimsicott|Protect||[still]
+|-fail|p1b: Whimsicott
+|move|p1a: Iron Hands|Fake Out||[still]
+|cant|p2b: Farigiraf|ability: Armor Tail|Fake Out|[of] p1a: Iron Hands
+|move|p2b: Farigiraf|Psychic|p1b: Whimsicott
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p2a: Incineroar|Knock Off|p1a: Iron Hands
+|-resisted|p1a: Iron Hands
+|-damage|p1a: Iron Hands|37/100
+|-enditem|p1a: Iron Hands|Assault Vest|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|upkeep
+|
+|t:|1711947068
+|switch|p1b: Landorus|Landorus-Therian, M|31/100
+|-ability|p1b: Landorus|Intimidate|boost
+|-unboost|p2a: Incineroar|atk|1
+|-unboost|p2b: Farigiraf|atk|1
+|turn|5
+|
+|t:|1711947084
+|move|p2b: Farigiraf|Psychic|p1a: Iron Hands
+|-supereffective|p1a: Iron Hands
+|-damage|p1a: Iron Hands|0 fnt
+|faint|p1a: Iron Hands
+|-end|p1a: Iron Hands|Quark Drive|[silent]
+|move|p2a: Incineroar|Parting Shot|p1b: Landorus
+|-unboost|p1b: Landorus|atk|1
+|-unboost|p1b: Landorus|spa|1
+|
+|t:|1711947091
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from] Parting Shot
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-enditem|p2a: Rillaboom|Grassy Seed
+|-boost|p2a: Rillaboom|def|1|[from] item: Grassy Seed
+|move|p1b: Landorus|Stomping Tantrum|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|91/100
+|
+|-heal|p2b: Farigiraf|60/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|upkeep
+|-message|genetsuu forfeited.
+|
+|win|tim thamson 2
+|raw|genetsuu's rating: 1177 &rarr; <strong>1155</strong><br />(-22 for losing)
+|raw|tim thamson 2's rating: 1217 &rarr; <strong>1239</strong><br />(+22 for winning)
+|l|☆tim thamson 2
+|player|p2|
+|l|☆genetsuu
+|player|p1|

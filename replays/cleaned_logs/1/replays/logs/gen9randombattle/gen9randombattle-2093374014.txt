@@ -1,0 +1,129 @@
+p1: Switched to Hoopa
+p2: Switched to Perrserker
+Turn 1:
+p1: Hoopa used Trick on Perrserker
+p2: Perrserker used U-turn on Hoopa
+p2: Switched to Shiftry
+Turn 2:
+p1: Switched to Illumise
+p2: Shiftry used Knock Off on Illumise
+Turn 3:
+p2: Switched to Grimmsnarl
+p1: Illumise used Roost on Illumise
+Turn 4:
+p2: Grimmsnarl used Parting Shot on Illumise
+p2: Switched to Granbull
+p1: Illumise used Bug Buzz on Granbull
+Turn 5:
+p1: Illumise used Thunder Wave on Granbull
+p2: Granbull used Thunder Wave on Illumise
+Turn 6:
+p1: Illumise can't move
+p2: Granbull used Earthquake on Illumise
+Turn 7:
+p1: Illumise used Roost on Illumise
+p2: Granbull used Encore on Illumise
+Turn 8:
+p2: Switched to Perrserker
+p1: Illumise can't move
+Turn 9:
+p1: Illumise used Roost on Illumise
+p2: Perrserker used Stealth Rock on Illumise
+Turn 10:
+p2: Switched to Granbull
+p1: Illumise can't move
+Turn 11:
+p1: Illumise failed to use Encore
+p2: Granbull failed to use Encore
+Turn 12:
+p1: Illumise failed to use Encore
+p2: Granbull failed to use Encore
+Turn 13:
+p1: Illumise failed to use Encore
+p2: Granbull used Play Rough on Illumise
+Turn 14:
+p2: Switched to Grimmsnarl
+p1: Illumise used Encore on Grimmsnarl
+Turn 15:
+p2: Grimmsnarl used Taunt on Illumise
+p1: Illumise used Bug Buzz on Grimmsnarl
+Turn 16:
+p2: Grimmsnarl used Spirit Break on Illumise
+p1: Illumise used Bug Buzz on Grimmsnarl
+Turn 17:
+p2: Grimmsnarl used Spirit Break on Illumise
+p1: Illumise fainted
+p1: Switched to Ariados
+Turn 18:
+p2: Grimmsnarl used Taunt on Ariados
+p1: Ariados can't move
+Turn 19:
+p2: Switched to Granbull
+p1: Ariados used Poison Jab on Granbull
+Turn 20:
+p1: Switched to Glaceon
+p2: Granbull used Earthquake on Glaceon
+Turn 21:
+p2: Switched to Perrserker
+p1: Glaceon used Freeze-Dry on Perrserker
+Turn 22:
+p2: Perrserker used Iron Head on Glaceon
+p1: Glaceon fainted
+p1: Switched to Ariados
+Turn 23:
+p2: Perrserker used Iron Head on Ariados
+p1: Ariados used Sticky Web on Perrserker
+Turn 24:
+p2: Perrserker used Iron Head on Ariados
+p1: Ariados fainted
+p1: Switched to Annihilape
+Turn 25:
+p2: Switched to Granbull
+p1: Annihilape used Bulk Up on Annihilape
+Turn 26:
+p1: Annihilape used Drain Punch on Granbull
+p2: Granbull used Thunder Wave on Annihilape
+Turn 27:
+p1: Annihilape used Drain Punch on Granbull
+p2: Granbull fainted
+p2: Switched to Grimmsnarl
+Turn 28:
+p2: Grimmsnarl used Spirit Break on Annihilape
+p1: Annihilape used Taunt on Grimmsnarl
+Turn 29:
+p2: Grimmsnarl used Spirit Break on Annihilape
+p1: Annihilape used Drain Punch on Grimmsnarl
+p2: Grimmsnarl fainted
+p2: Switched to Barraskewda
+Turn 30:
+p2: Barraskewda used Waterfall on Annihilape
+p1: Annihilape used Rage Fist on Barraskewda
+p2: Barraskewda fainted
+p2: Switched to Seviper
+Turn 31:
+p2: Seviper used Trailblaze on Annihilape
+p1: Annihilape used Rage Fist on Seviper
+p2: Seviper fainted
+p2: Switched to Perrserker
+Turn 32:
+p2: Perrserker used Iron Head on Annihilape
+p1: Annihilape fainted
+p1: Switched to Hoopa
+Turn 33:
+p1: Hoopa used Focus Blast on Perrserker
+p2: Perrserker used Iron Head on Hoopa
+p1: Hoopa fainted
+p1: Switched to Chansey
+Turn 34:
+p2: Switched to Shiftry
+p1: Chansey used Thunder Wave on Shiftry
+Turn 35:
+p1: Chansey used Seismic Toss on Shiftry
+p2: Shiftry used Knock Off on Chansey
+Turn 36:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Shiftry used Tailwind on Shiftry
+Turn 37:
+p1: Chansey used Seismic Toss on Shiftry
+p2: Shiftry used Low Kick on Chansey
+p1: Chansey fainted

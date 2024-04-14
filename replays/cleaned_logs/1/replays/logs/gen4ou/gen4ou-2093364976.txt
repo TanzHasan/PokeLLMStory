@@ -1,0 +1,93 @@
+p1: Switched to Gliscor
+p2: Switched to Absol
+Turn 1:
+p1: Gliscor used Stealth Rock on Absol
+p2: Absol used Night Slash on Gliscor
+Turn 2:
+p1: Switched to Furret
+p2: Absol used Sucker Punch on Furret
+Turn 3:
+p1: Furret used U-turn on Absol
+p1: Switched to Gliscor
+p2: Absol used Superpower on Gliscor
+Turn 4:
+p2: Switched to Miltank
+p1: Gliscor used Ice Fang on Miltank
+Turn 5:
+p1: Switched to Furret
+p2: Miltank can't move
+Turn 6:
+p2: Switched to Lucario
+p1: Furret used Trick on Lucario
+Turn 7:
+p1: Switched to Dusknoir
+p2: Lucario used Ice Punch on Dusknoir
+Turn 8:
+p2: Lucario used Thunder Punch on Dusknoir
+p1: Dusknoir used Fire Punch on Lucario
+p2: Lucario fainted
+p2: Switched to Miltank
+Turn 9:
+p1: Switched to Furret
+p2: Miltank can't move
+Turn 10:
+p1: Furret used Brick Break on Miltank
+p2: Miltank used Milk Drink on Miltank
+Turn 11:
+p1: Furret used Brick Break on Miltank
+p2: Miltank used Milk Drink on Miltank
+Turn 12:
+p1: Switched to Dusknoir
+p2: Miltank used Milk Drink on Miltank
+Turn 13:
+p2: Miltank used Return on Dusknoir
+p1: Dusknoir used Pain Split on Miltank
+Turn 14:
+p2: Miltank used Milk Drink on Miltank
+p1: Dusknoir used Fire Punch on Miltank
+Turn 15:
+p2: Miltank used Return on Dusknoir
+p1: Dusknoir used Fire Punch on Miltank
+Turn 16:
+p2: Miltank used Return on Dusknoir
+p1: Dusknoir fainted
+p1: Switched to Staraptor
+Turn 17:
+p2: Switched to Absol
+p1: Staraptor used Close Combat on Absol
+p2: Absol fainted
+p2: Switched to Magneton
+Turn 18:
+p1: Staraptor used Close Combat on Magneton
+p2: Magneton fainted
+p2: Switched to Machamp
+Turn 19:
+p1: Staraptor used Close Combat on Machamp
+p2: Machamp used Stone Edge on Staraptor
+p1: Staraptor fainted
+p1: Switched to Rotom-Fan
+Turn 20:
+p1: Rotom-Fan used Air Slash on Machamp
+p2: Machamp fainted
+p2: Switched to Miltank
+Turn 21:
+p2: Miltank used Milk Drink on Miltank
+p1: Rotom-Fan used Air Slash on Miltank
+Turn 22:
+p2: Miltank used Milk Drink on Miltank
+p1: Rotom-Fan used Air Slash on Miltank
+Turn 23:
+p2: Miltank used Milk Drink on Miltank
+p1: Rotom-Fan used Discharge on Miltank
+Turn 24:
+p2: Miltank used Return on Rotom-Fan
+p1: Rotom-Fan fainted
+p1: Switched to Furret
+Turn 25:
+p1: Furret used U-turn on Miltank
+p2: Miltank fainted
+p1: Switched to Gliscor
+p2: Switched to Breloom
+Turn 26:
+p1: Gliscor used Aerial Ace on Breloom
+p2: Breloom fainted

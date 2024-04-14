@@ -1,0 +1,39 @@
+p1: Switched to Eelektross
+p2: Switched to Rampardos
+Turn 1:
+p2: Rampardos used Head Smash on Eelektross
+p1: Eelektross fainted
+p1: Switched to Mabosstiff
+Turn 2:
+p1: Mabosstiff used Crunch on Rampardos
+p2: Rampardos fainted
+p2: Switched to Hitmonchan
+Turn 3:
+p1: Switched to Weezing
+p2: Hitmonchan used Rapid Spin on Weezing
+Turn 4:
+p2: Switched to Porygon2
+p1: Weezing used Will-O-Wisp on Porygon2
+Turn 5:
+p1: Switched to Hitmonchan
+p2: Porygon2 used Ice Beam on Hitmonchan
+Turn 6:
+p1: Hitmonchan used Knock Off on Porygon2
+p2: Porygon2 used Discharge on Hitmonchan
+Turn 7:
+p1: Hitmonchan used Drain Punch on Porygon2
+p2: Porygon2 fainted
+p2: Switched to Qwilfish-Hisui
+Turn 8:
+p1: Switched to Weezing
+p2: Qwilfish-Hisui used Liquidation on Weezing
+Turn 9:
+p2: Switched to Mismagius
+p1: Weezing used Will-O-Wisp on Mismagius
+Turn 10:
+p1: Switched to Mabosstiff
+p2: Mismagius used Calm Mind on Mismagius
+Turn 11:
+p2: Switched to Qwilfish-Hisui
+p1: Mabosstiff used Crunch on Qwilfish-Hisui
+p2: Qwilfish-Hisui fainted

@@ -1,0 +1,48 @@
+p1: Switched to Garchomp
+p2: Switched to Rotom-Wash
+Turn 1:
+p2: Rotom-Wash used Trick on Garchomp
+p1: Garchomp used Stealth Rock on Rotom-Wash
+Turn 2:
+p1: Switched to Jirachi
+p2: Switched to Politoed
+Turn 3:
+p1: Jirachi used Trick on Politoed
+p2: Politoed used Scald on Jirachi
+Turn 4:
+p1: Jirachi used Iron Head on Politoed
+p2: Politoed used Scald on Jirachi
+p1: Jirachi fainted
+p1: Switched to Cloyster
+Turn 5:
+p1: Cloyster used Shell Smash on Cloyster
+p2: Politoed used Scald on Cloyster
+p1: Cloyster fainted
+p1: Switched to Starmie
+Turn 6:
+p2: Switched to Ferrothorn
+p1: Starmie used Thunderbolt on Ferrothorn
+Turn 7:
+p1: Switched to Magnezone
+p2: Switched to Latios
+Turn 8:
+p2: Latios used Surf on Magnezone
+p1: Magnezone used Sunny Day on Magnezone
+Turn 9:
+p1: Switched to Garchomp
+p2: Latios used Surf on Garchomp
+Turn 10:
+p2: Switched to Scizor
+p1: Garchomp used Swords Dance on Garchomp
+Turn 11:
+p1: Switched to Magnezone
+p2: Scizor used U-turn on Magnezone
+p2: Switched to Latios
+Turn 12:
+p2: Latios used Psyshock on Magnezone
+p1: Magnezone fainted
+p1: Switched to Garchomp
+Turn 13:
+p2: Switched to Ferrothorn
+p1: Garchomp used Outrage on Ferrothorn
+Turn 14:

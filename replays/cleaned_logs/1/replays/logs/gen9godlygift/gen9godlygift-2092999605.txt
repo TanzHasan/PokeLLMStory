@@ -1,0 +1,182 @@
+p1: Switched to Alomomola
+p2: Switched to Alomomola
+Turn 1:
+p1: Switched to Giratina
+p2: Alomomola used Scald on Giratina
+Turn 2:
+p1: Giratina used Will-O-Wisp on Alomomola
+p2: Alomomola used Scald on Giratina
+Turn 3:
+p1: Switched to Alomomola
+p2: Alomomola used Flip Turn on Alomomola
+p2: Switched to Dragapult
+Turn 4:
+p1: Alomomola used Protect on Alomomola
+p2: Dragapult used Will-O-Wisp on Alomomola
+Turn 5:
+p2: Dragapult used Will-O-Wisp on Alomomola
+p1: Alomomola used Flip Turn on Dragapult
+p1: Switched to Clefable
+Turn 6:
+p2: Dragapult used U-turn on Clefable
+p2: Switched to Skarmory
+p1: Clefable used Knock Off on Skarmory
+Turn 7:
+p2: Skarmory used Spikes on Clefable
+p1: Clefable used Stealth Rock on Skarmory
+Turn 8:
+p1: Switched to Skarmory
+p2: Skarmory used Spikes on Skarmory
+Turn 9:
+p2: Switched to Dragapult
+p1: Skarmory used Spikes on Dragapult
+Turn 10:
+p1: Switched to Alomomola
+p2: Dragapult used Will-O-Wisp on Alomomola
+Turn 11:
+p2: Dragapult used Hex on Alomomola
+p1: Alomomola used Flip Turn on Dragapult
+p1: Switched to Clefable
+Turn 12:
+p2: Dragapult used U-turn on Clefable
+p2: Switched to Skarmory
+p1: Clefable used Moonblast on Skarmory
+Turn 13:
+p1: Switched to Skarmory
+p2: Skarmory used Body Press on Skarmory
+Turn 14:
+p2: Skarmory used Roost on Skarmory
+p1: Skarmory used Spikes on Skarmory
+Turn 15:
+p2: Switched to Dragapult
+p1: Skarmory used Spikes on Dragapult
+Turn 16:
+p1: Switched to Alomomola
+p2: Dragapult used Hex on Alomomola
+Turn 17:
+p2: Dragapult used U-turn on Alomomola
+p2: Switched to Alomomola
+p1: Alomomola used Wish on Alomomola
+Turn 18:
+p2: Switched to Eternatus
+p1: Alomomola failed to use Protect
+Turn 19:
+p1: Switched to Clodsire
+p2: Eternatus used Toxic Spikes on Clodsire
+Turn 20:
+p2: Switched to Skarmory
+p1: Clodsire used Earthquake on Skarmory
+Turn 21:
+p1: Switched to Skeledirge
+p2: Skarmory used Whirlwind on Skeledirge
+Turn 22:
+p1: Switched to Skeledirge
+p2: Switched to Alomomola
+Turn 23:
+p1: Skeledirge used Hex on Alomomola
+p2: Alomomola used Flip Turn on Skeledirge
+p2: Switched to Ting-Lu
+Turn 24:
+p1: Skeledirge used Will-O-Wisp on Ting-Lu
+p2: Ting-Lu used Ruination on Skeledirge
+Turn 25:
+p1: Skeledirge used Will-O-Wisp on Ting-Lu
+p2: Ting-Lu used Ruination on Skeledirge
+Turn 26:
+p1: Skeledirge used Slack Off on Skeledirge
+p2: Ting-Lu used Ruination on Skeledirge
+Turn 27:
+p1: Switched to Alomomola
+p2: Ting-Lu used Ruination on Alomomola
+Turn 28:
+p2: Switched to Alomomola
+p1: Alomomola used Whirlpool on Alomomola
+Turn 29:
+p2: Alomomola used Wish on Alomomola
+p1: Alomomola used Wish on Alomomola
+Turn 30:
+p2: Alomomola used Scald on Alomomola
+p1: Alomomola used Whirlpool on Alomomola
+Turn 31:
+p2: Alomomola used Flip Turn on Alomomola
+p2: Switched to Eternatus
+p1: Alomomola used Flip Turn on Eternatus
+p1: Switched to Skarmory
+Turn 32:
+p1: Switched to Clodsire
+p2: Eternatus used Flamethrower on Clodsire
+Turn 33:
+p2: Switched to Alomomola
+p1: Switched to Alomomola
+Turn 34:
+p2: Switched to Eternatus
+p1: Switched to Giratina
+Turn 35:
+p1: Switched to Clodsire
+p2: Eternatus used Flamethrower on Clodsire
+Turn 36:
+p2: Eternatus used Flamethrower on Clodsire
+p1: Clodsire used Recover on Clodsire
+Turn 37:
+p1: Switched to Giratina
+p2: Eternatus used Flamethrower on Giratina
+Turn 38:
+p2: Switched to Alomomola
+p1: Switched to Clodsire
+Turn 39:
+p1: Switched to Alomomola
+p2: Alomomola used Flip Turn on Alomomola
+p2: Switched to Eternatus
+Turn 40:
+p2: Eternatus used Toxic Spikes on Alomomola
+p1: Alomomola used Wish on Alomomola
+Turn 41:
+p2: Switched to Alomomola
+p1: Alomomola used Flip Turn on Alomomola
+p1: Switched to Giratina
+Turn 42:
+p2: Alomomola used Flip Turn on Giratina
+p2: Switched to Gholdengo
+p1: Giratina used Dragon Tail on Gholdengo
+Turn 43:
+p1: Switched to Alomomola
+p2: Dragapult used Hex on Alomomola
+Turn 44:
+p2: Dragapult used U-turn on Alomomola
+p2: Switched to Gholdengo
+p1: Alomomola used Flip Turn on Gholdengo
+p1: Switched to Clodsire
+Turn 45:
+p2: Switched to Alomomola
+p1: Clodsire used Haze on Clodsire
+Turn 46:
+p1: Switched to Giratina
+p2: Alomomola used Flip Turn on Giratina
+p2: Switched to Dragapult
+Turn 47:
+p1: Switched to Alomomola
+p2: Dragapult used U-turn on Alomomola
+p2: Switched to Eternatus
+Turn 48:
+p2: Eternatus used Flamethrower on Alomomola
+p1: Alomomola used Wish on Alomomola
+Turn 49:
+p1: Alomomola used Protect on Alomomola
+p2: Eternatus used Toxic Spikes on Alomomola
+Turn 50:
+p2: Switched to Alomomola
+p1: Switched to Clodsire
+Turn 51:
+p1: Switched to Giratina
+p2: Alomomola used Flip Turn on Giratina
+p2: Switched to Gholdengo
+Turn 52:
+p1: Switched to Clodsire
+p2: Gholdengo used Shadow Ball on Clodsire
+Turn 53:
+p2: Gholdengo used Make It Rain on Clodsire
+p1: Clodsire fainted
+p1: Switched to Alomomola
+Turn 54:
+p2: Gholdengo used Nasty Plot on Gholdengo
+p1: Alomomola used Flip Turn on Gholdengo

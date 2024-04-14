@@ -1,0 +1,154 @@
+p1: Switched to Zapdos
+p2: Switched to Ninjask
+Turn 1:
+p2: Switched to Umbreon
+p1: Zapdos used Thunderbolt on Umbreon
+Turn 2:
+p1: Switched to Breloom
+p2: Umbreon used Taunt on Breloom
+Turn 3:
+p2: Switched to Skarmory
+p1: Breloom used Focus Punch on Skarmory
+Turn 4:
+p1: Switched to Zapdos
+p2: Skarmory used Spikes on Zapdos
+Turn 5:
+p2: Switched to Umbreon
+p1: Zapdos used Thunderbolt on Umbreon
+Turn 6:
+p1: Zapdos used Thunderbolt on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 7:
+p1: Zapdos can't move
+p2: Umbreon can't move
+Turn 8:
+p1: Switched to Breloom
+p2: Switched to Ninjask
+Turn 9:
+p2: Ninjask used Substitute on Ninjask
+p1: Breloom used Focus Punch on Ninjask
+Turn 10:
+p2: Ninjask used X-Scissor on Breloom
+p1: Breloom failed to use Focus Punch
+p1: Breloom can't move
+Turn 11:
+p2: Ninjask used Substitute on Ninjask
+p1: Breloom used Focus Punch on Ninjask
+Turn 12:
+p2: Ninjask used X-Scissor on Breloom
+p1: Breloom used Spore on Ninjask
+Turn 13:
+p2: Ninjask can't move
+p1: Breloom used Focus Punch on Ninjask
+Turn 14:
+p2: Switched to Skarmory
+p1: Breloom used Focus Punch on Skarmory
+Turn 15:
+p1: Breloom used Mach Punch on Skarmory
+p2: Skarmory used Brave Bird on Breloom
+p1: Breloom fainted
+p2: Skarmory fainted
+p1: Switched to Metagross
+p2: Switched to Miltank
+Turn 16:
+p2: Miltank used Stealth Rock on Metagross
+p1: Metagross used Meteor Mash on Miltank
+Turn 17:
+p1: Metagross used Protect on Metagross
+p2: Miltank used Earthquake on Metagross
+Turn 18:
+p2: Miltank used Body Slam on Metagross
+p1: Metagross used Meteor Mash on Miltank
+Turn 19:
+p2: Miltank used Milk Drink on Miltank
+p1: Metagross used Meteor Mash on Miltank
+Turn 20:
+p2: Miltank used Earthquake on Metagross
+p1: Metagross used Meteor Mash on Miltank
+Turn 21:
+p2: Switched to Ninjask
+p1: Metagross failed to use Protect
+Turn 22:
+p2: Ninjask can't move
+p1: Metagross used Meteor Mash on Ninjask
+p2: Ninjask fainted
+p2: Switched to Raikou
+Turn 23:
+p1: Metagross used Protect on Metagross
+p2: Raikou used Shadow Ball on Metagross
+Turn 24:
+p2: Raikou used Shadow Ball on Metagross
+p1: Metagross used Earthquake on Raikou
+p2: Raikou fainted
+p2: Switched to Miltank
+Turn 25:
+p2: Miltank used Earthquake on Metagross
+p1: Metagross used Meteor Mash on Miltank
+p2: Miltank fainted
+p2: Switched to Starmie
+Turn 26:
+p1: Metagross used Protect on Metagross
+p2: Starmie used Hydro Pump on Metagross
+Turn 27:
+p1: Switched to Blissey
+p2: Starmie used Hydro Pump on Blissey
+Turn 28:
+p2: Switched to Umbreon
+p1: Blissey used Soft-Boiled on Blissey
+Turn 29:
+p1: Switched to Starmie
+p2: Umbreon used Taunt on Starmie
+Turn 30:
+p1: Starmie used Rapid Spin on Umbreon
+p2: Umbreon used Heal Bell on Umbreon
+Turn 31:
+p1: Switched to Heatran
+p2: Switched to Starmie
+Turn 32:
+p1: Heatran used Explosion on Starmie
+p1: Heatran fainted
+p2: Starmie fainted
+p2: Switched to Umbreon
+p1: Switched to Metagross
+Turn 33:
+p1: Metagross used Protect on Metagross
+p2: Umbreon used Taunt on Metagross
+Turn 34:
+p1: Metagross used Meteor Mash on Umbreon
+p2: Umbreon used Taunt on Metagross
+Turn 35:
+p2: Umbreon used Protect on Umbreon
+p1: Metagross used Explosion on Umbreon
+p1: Metagross fainted
+p1: Switched to Blissey
+Turn 36:
+p2: Umbreon used Taunt on Blissey
+p1: Blissey used Flamethrower on Umbreon
+Turn 37:
+p2: Umbreon used Wish on Umbreon
+p1: Blissey used Flamethrower on Umbreon
+Turn 38:
+p2: Umbreon used Protect on Umbreon
+p1: Blissey used Flamethrower on Umbreon
+Turn 39:
+p2: Umbreon used Wish on Umbreon
+p1: Blissey used Flamethrower on Umbreon
+Turn 40:
+p2: Umbreon used Taunt on Blissey
+p1: Blissey used Flamethrower on Umbreon
+Turn 41:
+p1: Switched to Starmie
+p2: Umbreon failed to use Protect
+Turn 42:
+p1: Switched to Blissey
+p2: Umbreon used Wish on Umbreon
+Turn 43:
+p1: Switched to Starmie
+p2: Umbreon used Taunt on Starmie
+Turn 44:
+p1: Switched to Blissey
+p2: Umbreon used Taunt on Blissey
+Turn 45:
+p1: Switched to Starmie
+p2: Umbreon used Taunt on Starmie
+Turn 46:

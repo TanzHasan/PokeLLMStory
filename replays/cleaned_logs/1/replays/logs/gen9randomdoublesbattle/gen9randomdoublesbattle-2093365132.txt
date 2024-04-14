@@ -1,0 +1,76 @@
+p1: Switched to Hypno
+p1: Switched to Scyther
+p2: Switched to Arceus-Fire
+p2: Switched to Sandy Shocks
+Turn 1:
+p1: Scyther used Protect on Scyther
+p2: Arceus-Fire used Swords Dance on Arceus-Fire
+p2: Sandy Shocks used Stealth Rock on Hypno
+p1: Hypno used Poison Gas on Sandy Shocks
+Turn 2:
+p1: Switched to Kommo-o
+p2: Arceus-Fire used Extreme Speed on Hypno
+p2: Sandy Shocks used Thunderbolt on Kommo-o
+p1: Hypno used Encore on Arceus-Fire
+Turn 3:
+p1: Kommo-o used Protect on Kommo-o
+p2: Arceus-Fire used Extreme Speed on Kommo-o
+p2: Sandy Shocks used Thunderbolt on Hypno
+p1: Hypno used Psychic on Arceus-Fire
+Turn 4:
+p2: Arceus-Fire used Extreme Speed on Kommo-o
+p2: Sandy Shocks used Earth Power on Kommo-o
+p1: Kommo-o fainted
+p1: Hypno used Psychic on Arceus-Fire
+p2: Arceus-Fire fainted
+p2: Switched to Tropius
+p1: Switched to Scyther
+Turn 5:
+p1: Scyther used Protect on Scyther
+p2: Sandy Shocks used Thunderbolt on Scyther
+p1: Hypno used Poison Gas on Tropius
+p2: Tropius used Tailwind on Tropius
+Turn 6:
+p1: Scyther failed to use Protect
+p2: Sandy Shocks used Thunderbolt on Scyther
+p1: Scyther fainted
+p2: Tropius used Hurricane on Hypno
+p1: Hypno used Psychic on Sandy Shocks
+p2: Sandy Shocks fainted
+p1: Switched to Muk
+p2: Switched to Kyogre
+Turn 7:
+p2: Kyogre used Water Spout on Muk
+p2: Tropius used Hurricane on Muk
+p1: Hypno used Poison Gas on Tropius
+p1: Muk used Knock Off on Kyogre
+Turn 8:
+p2: Kyogre used Origin Pulse on Muk
+p1: Hypno fainted
+p2: Tropius used Hurricane on Muk
+p1: Muk fainted
+p1: Switched to Slowking
+p1: Switched to Glastrier
+Turn 9:
+p1: Glastrier used Protect on Glastrier
+p2: Kyogre used Origin Pulse on Slowking
+p2: Tropius used Leaf Storm on Slowking
+p1: Slowking used Trick Room on Slowking
+Turn 10:
+p1: Slowking used Heal Pulse on Glastrier
+p1: Glastrier used High Horsepower on Kyogre
+p2: Kyogre fainted
+p2: Tropius used Hurricane on Glastrier
+p2: Switched to Alcremie-Mint-Cream
+Turn 11:
+p1: Slowking used Scald on Alcremie-Mint-Cream
+p1: Glastrier used Heavy Slam on Alcremie-Mint-Cream
+p2: Alcremie-Mint-Cream fainted
+p2: Tropius used Hurricane on Glastrier
+p2: Switched to Mimikyu
+Turn 12:
+p1: Slowking used Scald on Mimikyu
+p1: Glastrier used Heavy Slam on Mimikyu
+p2: Mimikyu fainted
+p2: Tropius used Hurricane on Glastrier
+Turn 13:

@@ -1,0 +1,39 @@
+p1: Switched to Voltorb-Hisui
+p2: Switched to Glimmet
+Turn 1:
+p1: Voltorb-Hisui used Giga Drain on Glimmet
+p2: Glimmet used Mud Shot on Voltorb-Hisui
+Turn 2:
+p2: Glimmet used Sludge Wave on Voltorb-Hisui
+p1: Voltorb-Hisui fainted
+p1: Switched to Larvesta
+Turn 3:
+p1: Larvesta used Tera Blast on Glimmet
+p2: Glimmet fainted
+p2: Switched to Foongus
+Turn 4:
+p1: Larvesta used U-turn on Foongus
+p1: Switched to Stunky
+p2: Foongus used Spore on Stunky
+Turn 5:
+p1: Switched to Larvesta
+p2: Switched to Mudbray
+Turn 6:
+p1: Larvesta used Will-O-Wisp on Mudbray
+p2: Mudbray used Earthquake on Larvesta
+Turn 7:
+p1: p1a: Zorua used Hex on Mudbray
+p2: Mudbray used Earthquake on p1a: Zorua
+Turn 8:
+p1: p1a: Zorua used Hex on Mudbray
+p2: Mudbray fainted
+p2: Switched to Voltorb-Hisui
+Turn 9:
+p1: Switched to Larvesta
+p2: Voltorb-Hisui used Tera Blast on Larvesta
+Turn 10:
+p2: Voltorb-Hisui used Volt Switch on Larvesta
+p2: Switched to Foongus
+p1: Larvesta used U-turn on Foongus
+p1: Switched to Tinkatink
+Turn 11:

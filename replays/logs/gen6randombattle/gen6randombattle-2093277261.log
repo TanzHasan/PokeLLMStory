@@ -1,0 +1,497 @@
+|j|☆clebinhodoi
+|j|☆Mt. Treverest
+|t:|1711933584
+|gametype|singles
+|player|p1|clebinhodoi|red|1089
+|player|p2|Mt. Treverest|shadowtriad|1096
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711933584
+|start
+|switch|p1a: Alakazam|Alakazam, L82, M|224/224
+|switch|p2a: Sylveon|Sylveon, L83, F|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mt. Treverest)
+|
+|t:|1711933594
+|move|p1a: Alakazam|Psychic|p2a: Sylveon
+|-damage|p2a: Sylveon|209/293
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|227/293|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711933601
+|move|p1a: Alakazam|Focus Blast|p2a: Sylveon|[miss]
+|-miss|p1a: Alakazam|p2a: Sylveon
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|245/293|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711933608
+|move|p1a: Alakazam|Focus Blast|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|224/293
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|242/293|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711933616
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Alakazam|Counter||[still]
+|-fail|p1a: Alakazam
+|
+|-heal|p2a: Sylveon|260/293|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711933624
+|switch|p1a: Corsola|Corsola, L96, F|261/261
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-heal|p2a: Sylveon|278/293|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711933632
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|move|p1a: Corsola|Toxic|p2a: Sylveon
+|-status|p2a: Sylveon|tox
+|
+|-heal|p2a: Sylveon|293/293 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|275/293 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711933641
+|move|p2a: Sylveon|Hyper Voice|p1a: Corsola
+|-damage|p1a: Corsola|0 fnt
+|faint|p1a: Corsola
+|
+|-heal|p2a: Sylveon|293/293 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|257/293 tox|[from] psn
+|upkeep
+|
+|t:|1711933651
+|switch|p1a: Alakazam|Alakazam, L82, M|224/224
+|turn|8
+|
+|t:|1711933655
+|move|p1a: Alakazam|Psychic|p2a: Sylveon
+|-damage|p2a: Sylveon|235/293 tox
+|move|p2a: Sylveon|Hyper Voice|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/224
+|
+|-heal|p2a: Sylveon|253/293 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|199/293 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711933664
+|move|p2a: Sylveon|Hyper Voice|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|-heal|p2a: Sylveon|217/293 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|145/293 tox|[from] psn
+|upkeep
+|
+|t:|1711933670
+|switch|p1a: Heliolisk|Heliolisk, L83, F|239/239
+|turn|10
+|
+|t:|1711933676
+|move|p1a: Heliolisk|Thunder|p2a: Sylveon
+|-damage|p2a: Sylveon|114/293 tox
+|-damage|p1a: Heliolisk|216/239|[from] item: Life Orb
+|move|p2a: Sylveon|Hyper Voice|p1a: Heliolisk
+|-damage|p1a: Heliolisk|0 fnt
+|faint|p1a: Heliolisk
+|
+|-heal|p2a: Sylveon|132/293 tox|[from] item: Leftovers
+|-damage|p2a: Sylveon|42/293 tox|[from] psn
+|upkeep
+|
+|t:|1711933684
+|switch|p1a: Stoutland|Stoutland, L87, F|290/290
+|-ability|p1a: Stoutland|Intimidate|boost
+|-unboost|p2a: Sylveon|atk|1
+|turn|11
+|
+|t:|1711933689
+|move|p1a: Stoutland|Wild Charge|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|-damage|p1a: Stoutland|279/290|[from] Recoil
+|
+|upkeep
+|
+|t:|1711933697
+|switch|p2a: Cobalion|Cobalion, L78|270/270
+|turn|12
+|
+|t:|1711933700
+|move|p1a: Stoutland|Wild Charge|p2a: Cobalion
+|-damage|p2a: Cobalion|212/270
+|-damage|p1a: Stoutland|264/290|[from] Recoil
+|move|p2a: Cobalion|Swords Dance|p2a: Cobalion
+|-boost|p2a: Cobalion|atk|2
+|
+|-heal|p2a: Cobalion|228/270|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711933717
+|move|p1a: Stoutland|Wild Charge|p2a: Cobalion
+|-damage|p2a: Cobalion|167/270
+|-damage|p1a: Stoutland|249/290|[from] Recoil
+|move|p2a: Cobalion|Close Combat|p1a: Stoutland
+|-supereffective|p1a: Stoutland
+|-damage|p1a: Stoutland|0 fnt
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|faint|p1a: Stoutland
+|
+|-heal|p2a: Cobalion|183/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1711933724
+|switch|p1a: Garchomp|Garchomp, L77, M|293/293
+|turn|14
+|
+|t:|1711933749
+|detailschange|p1a: Garchomp|Garchomp-Mega, L77, M
+|-mega|p1a: Garchomp|Garchomp|Garchompite
+|move|p2a: Cobalion|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|95/293
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|move|p1a: Garchomp|Earthquake|p2a: Cobalion
+|-supereffective|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|upkeep
+|inactive|Mt. Treverest has 120 seconds left.
+|
+|t:|1711933774
+|switch|p2a: Magmortar|Magmortar, L86, M|269/269
+|turn|15
+|
+|t:|1711933778
+|move|p2a: Magmortar|Focus Blast|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1711933780
+|switch|p1a: Aromatisse|Aromatisse, L89, F|325/325
+|turn|16
+|
+|t:|1711933797
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-damage|p1a: Aromatisse|193/325
+|move|p1a: Aromatisse|Toxic|p2a: Magmortar
+|-status|p2a: Magmortar|tox
+|
+|-heal|p1a: Aromatisse|213/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|253/269 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711933807
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-damage|p1a: Aromatisse|68/325
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p1a: Aromatisse|88/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|221/269 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711933817
+|move|p1a: Aromatisse|Protect|p1a: Aromatisse
+|-singleturn|p1a: Aromatisse|Protect
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-activate|p1a: Aromatisse|move: Protect
+|
+|-heal|p1a: Aromatisse|250/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p1a: Aromatisse|270/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|173/269 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711933834
+|switch|p2a: Gigalith|Gigalith, L83, F|277/277
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p1a: Aromatisse|290/325|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711933840
+|move|p1a: Aromatisse|Toxic|p2a: Gigalith
+|-status|p2a: Gigalith|tox
+|move|p2a: Gigalith|Stealth Rock|p1a: Aromatisse
+|-sidestart|p1: clebinhodoi|move: Stealth Rock
+|
+|-heal|p1a: Aromatisse|325/325|[from] move: Wish|[wisher] Aromatisse
+|-damage|p2a: Gigalith|260/277 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1711933850
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|move|p2a: Gigalith|Stone Edge|p1a: Aromatisse
+|-damage|p1a: Aromatisse|187/325
+|
+|-heal|p1a: Aromatisse|207/325|[from] item: Leftovers
+|-heal|p2a: Gigalith|277/277 tox|[from] item: Leftovers
+|-damage|p2a: Gigalith|243/277 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711933857
+|move|p1a: Aromatisse|Moonblast|p2a: Gigalith
+|-damage|p2a: Gigalith|111/277 tox
+|-unboost|p2a: Gigalith|spa|1
+|move|p2a: Gigalith|Stone Edge|p1a: Aromatisse
+|-damage|p1a: Aromatisse|54/325
+|
+|-heal|p1a: Aromatisse|216/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p1a: Aromatisse|236/325|[from] item: Leftovers
+|-heal|p2a: Gigalith|128/277 tox|[from] item: Leftovers
+|-damage|p2a: Gigalith|77/277 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711933870
+|move|p1a: Aromatisse|Moonblast|p2a: Gigalith
+|-damage|p2a: Gigalith|0 fnt
+|faint|p2a: Gigalith
+|
+|-heal|p1a: Aromatisse|256/325|[from] item: Leftovers
+|upkeep
+|
+|t:|1711933876
+|switch|p2a: Crawdaunt|Crawdaunt, L83, M|240/240
+|turn|24
+|
+|t:|1711933883
+|move|p2a: Crawdaunt|Crabhammer|p1a: Aromatisse
+|-damage|p1a: Aromatisse|12/325
+|-damage|p2a: Crawdaunt|216/240|[from] item: Life Orb
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p1a: Aromatisse|32/325|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711933890
+|move|p1a: Aromatisse|Protect|p1a: Aromatisse
+|-singleturn|p1a: Aromatisse|Protect
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Aromatisse
+|-activate|p1a: Aromatisse|move: Protect
+|
+|-heal|p1a: Aromatisse|194/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p1a: Aromatisse|214/325|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711933898
+|move|p2a: Crawdaunt|Crabhammer|p1a: Aromatisse|[miss]
+|-miss|p2a: Crawdaunt|p1a: Aromatisse
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p1a: Aromatisse|234/325|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711933906
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|move|p1a: Aromatisse|Toxic|p2a: Crawdaunt|[miss]
+|-miss|p1a: Aromatisse|p2a: Crawdaunt
+|
+|-heal|p1a: Aromatisse|325/325|[from] move: Wish|[wisher] Aromatisse
+|upkeep
+|turn|28
+|
+|t:|1711933913
+|move|p2a: Crawdaunt|Crabhammer|p1a: Aromatisse|[miss]
+|-miss|p2a: Crawdaunt|p1a: Aromatisse
+|move|p1a: Aromatisse|Toxic|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|tox
+|
+|-damage|p2a: Crawdaunt|201/240 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1711933926
+|move|p2a: Crawdaunt|Crabhammer|p1a: Aromatisse|[miss]
+|-miss|p2a: Crawdaunt|p1a: Aromatisse
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-damage|p2a: Crawdaunt|171/240 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1711933935
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|move|p1a: Aromatisse|Moonblast|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1711933943
+|switch|p2a: Magmortar|Magmortar, L86, M|173/269 tox
+|turn|31
+|
+|t:|1711933951
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-crit|p1a: Aromatisse
+|-damage|p1a: Aromatisse|108/325
+|move|p1a: Aromatisse|Moonblast|p2a: Magmortar
+|-resisted|p2a: Magmortar
+|-damage|p2a: Magmortar|137/269 tox
+|-unboost|p2a: Magmortar|spa|1
+|
+|-heal|p1a: Aromatisse|128/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|121/269 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1711933961
+|move|p1a: Aromatisse|Protect|p1a: Aromatisse
+|-singleturn|p1a: Aromatisse|Protect
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-activate|p1a: Aromatisse|move: Protect
+|
+|-heal|p1a: Aromatisse|148/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|89/269 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1711933972
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-damage|p1a: Aromatisse|60/325
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p1a: Aromatisse|80/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|41/269 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1711933982
+|move|p1a: Aromatisse|Protect|p1a: Aromatisse
+|-singleturn|p1a: Aromatisse|Protect
+|move|p2a: Magmortar|Fire Blast|p1a: Aromatisse
+|-activate|p1a: Aromatisse|move: Protect
+|
+|-heal|p1a: Aromatisse|242/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p1a: Aromatisse|262/325|[from] item: Leftovers
+|-damage|p2a: Magmortar|0 fnt|[from] psn
+|faint|p2a: Magmortar
+|upkeep
+|
+|t:|1711933992
+|switch|p2a: Vaporeon|Vaporeon, L83, F|351/351
+|turn|35
+|
+|t:|1711934001
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|192/325
+|move|p1a: Aromatisse|Toxic|p2a: Vaporeon|[miss]
+|-miss|p1a: Aromatisse|p2a: Vaporeon
+|
+|-heal|p1a: Aromatisse|212/325|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711934008
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|149/325
+|move|p1a: Aromatisse|Toxic|p2a: Vaporeon
+|-status|p2a: Vaporeon|tox
+|
+|-heal|p1a: Aromatisse|169/325|[from] item: Leftovers
+|-damage|p2a: Vaporeon|330/351 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1711934015
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|105/325
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p2a: Vaporeon|351/351 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|125/325|[from] item: Leftovers
+|-damage|p2a: Vaporeon|309/351 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1711934023
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|62/325
+|move|p1a: Aromatisse|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|200/351 tox
+|
+|-heal|p1a: Aromatisse|224/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p2a: Vaporeon|221/351 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|244/325|[from] item: Leftovers
+|-damage|p2a: Vaporeon|158/351 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1711934033
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|183/325
+|move|p1a: Aromatisse|Wish|p1a: Aromatisse
+|
+|-heal|p2a: Vaporeon|179/351 tox|[from] item: Leftovers
+|-heal|p1a: Aromatisse|203/325|[from] item: Leftovers
+|-damage|p2a: Vaporeon|95/351 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1711934044
+|move|p2a: Vaporeon|Ice Beam|p1a: Aromatisse
+|-damage|p1a: Aromatisse|140/325
+|move|p1a: Aromatisse|Moonblast|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|win|clebinhodoi
+|raw|clebinhodoi's rating: 1089 &rarr; <strong>1116</strong><br />(+27 for winning)
+|raw|Mt. Treverest's rating: 1096 &rarr; <strong>1071</strong><br />(-25 for losing)

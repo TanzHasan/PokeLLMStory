@@ -1,0 +1,33 @@
+p1: Switched to Froakie
+p2: Switched to Litwick
+Turn 1:
+p1: Froakie used U-turn on Litwick
+p2: Litwick fainted
+p1: Switched to Wooper
+p2: Switched to Meowth
+Turn 2:
+p2: Meowth used Fake Out on Wooper
+p1: Wooper can't move
+Turn 3:
+p2: Meowth used Aerial Ace on Wooper
+p1: Wooper used Stealth Rock on Meowth
+Turn 4:
+p2: Meowth used Foul Play on Wooper
+p1: Wooper used Counter on Meowth
+Turn 5:
+p2: Meowth used Aerial Ace on Wooper
+p1: Wooper used Spikes on Meowth
+Turn 6:
+p2: Meowth used Aerial Ace on Wooper
+p1: Wooper fainted
+p1: Switched to Shroodle
+Turn 7:
+p1: Shroodle used Parting Shot on Meowth
+p1: Switched to Larvesta
+p2: Meowth used Trailblaze on Larvesta
+Turn 8:
+p2: Meowth used Trailblaze on Larvesta
+p1: Larvesta fainted
+p1: Switched to Shroodle
+Turn 9:
+p1: Shroodle used Parting Shot on Meowth

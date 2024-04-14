@@ -1,0 +1,46 @@
+p1: Switched to Mienfoo
+p2: Switched to Mudbray
+Turn 1:
+p1: Mienfoo used Knock Off on Mudbray
+p2: Mudbray used High Horsepower on Mienfoo
+Turn 2:
+p1: Mienfoo used U-turn on Mudbray
+p1: Switched to Gastly
+p2: Mudbray used Stealth Rock on Gastly
+Turn 3:
+p2: Switched to Stunky
+p1: Gastly used Sludge Wave on Stunky
+Turn 4:
+p1: Switched to Mudbray
+p2: Stunky used Knock Off on Mudbray
+Turn 5:
+p2: Switched to Grookey
+p1: Mudbray used Heavy Slam on Grookey
+Turn 6:
+p2: Grookey used Knock Off on Mudbray
+p1: Mudbray used Heavy Slam on Grookey
+p2: Grookey fainted
+p2: Switched to Growlithe-Hisui
+Turn 7:
+p2: Growlithe-Hisui used Flare Blitz on Mudbray
+p1: Mudbray fainted
+p1: Switched to Glimmet
+Turn 8:
+p2: Switched to Mudbray
+p1: Glimmet used Power Gem on Mudbray
+Turn 9:
+p1: Glimmet used Sludge Wave on Mudbray
+p2: Mudbray used High Horsepower on Glimmet
+p1: Glimmet fainted
+p1: Switched to Mienfoo
+Turn 10:
+p1: Mienfoo used High Jump Kick on Mudbray
+p2: Mudbray fainted
+p2: Switched to Vullaby
+Turn 11:
+p1: Mienfoo used U-turn on Vullaby
+p1: Switched to Voltorb-Hisui
+p2: Vullaby used Brave Bird on Voltorb-Hisui
+Turn 12:
+p2: Vullaby used Brave Bird on Voltorb-Hisui
+p1: Voltorb-Hisui fainted

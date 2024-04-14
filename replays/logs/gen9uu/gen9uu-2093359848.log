@@ -1,0 +1,343 @@
+|j|☆KBR-13
+|j|☆KORRIA
+|t:|1711944317
+|gametype|singles
+|player|p1|KBR-13|lance|1152
+|player|p2|KORRIA|preschooler|1233
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Deoxys-Speed|
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Quaquaval, M|
+|poke|p1|Latios, M|
+|poke|p2|Iron Leaves|
+|poke|p2|Iron Jugulis|
+|poke|p2|Pincurchin, M|
+|poke|p2|Iron Moth|
+|poke|p2|Hawlucha, M|
+|poke|p2|Pikachu, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KORRIA)
+|
+|t:|1711944326
+|start
+|switch|p1a: Adam|Deoxys-Speed, shiny|100/100
+|switch|p2a: Pincurchin|Pincurchin, M|100/100
+|-ability|p1a: Adam|Pressure
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|1
+|
+|t:|1711944344
+|move|p1a: Adam|Psycho Boost|p2a: Pincurchin
+|-damage|p2a: Pincurchin|10/100
+|-unboost|p1a: Adam|spa|2
+|-damage|p1a: Adam|91/100|[from] item: Life Orb
+|move|p2a: Pincurchin|Thunder Wave|p1a: Adam
+|-status|p1a: Adam|par
+|
+|upkeep
+|turn|2
+|
+|t:|1711944362
+|switch|p2a: Iron Jugulis|Iron Jugulis|100/100
+|-activate|p2a: Iron Jugulis|ability: Quark Drive
+|-start|p2a: Iron Jugulis|quarkdrivespe
+|move|p1a: Adam|Fire Punch|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|72/100
+|-status|p2a: Iron Jugulis|brn
+|-damage|p1a: Adam|81/100 par|[from] item: Life Orb
+|
+|-damage|p2a: Iron Jugulis|66/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711944374
+|switch|p1a: Tempête Pourpre|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tempête Pourpre
+|move|p2a: Iron Jugulis|Meteor Beam||[still]
+|-prepare|p2a: Iron Jugulis|Meteor Beam
+|-boost|p2a: Iron Jugulis|spa|1
+|-enditem|p2a: Iron Jugulis|Power Herb
+|-anim|p2a: Iron Jugulis|Meteor Beam|p1a: Tempête Pourpre
+|-damage|p1a: Tempête Pourpre|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Jugulis|59/100 brn|[from] Sandstorm
+|-damage|p2a: Iron Jugulis|53/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711944397
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|switch|p2a: Iron Leaves|Iron Leaves|100/100
+|-activate|p2a: Iron Leaves|ability: Quark Drive
+|-start|p2a: Iron Leaves|quarkdriveatk
+|switch|p1a: Adam|Deoxys-Speed, shiny|81/100 par
+|-ability|p1a: Adam|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Leaves|94/100|[from] Sandstorm
+|-damage|p1a: Adam|74/100 par|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711944411
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Adam
+|-damage|p1a: Adam|0 fnt
+|faint|p1a: Adam
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Leaves|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711944422
+|switch|p1a: Latios|Latios, M|100/100
+|turn|6
+|inactive|KORRIA has 120 seconds left.
+|
+|t:|1711944453
+|move|p1a: Latios|Flip Turn|p2a: Iron Leaves
+|-resisted|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|82/100
+|
+|t:|1711944456
+|switch|p1a: Beauté Macabre|Mandibuzz, F, shiny|100/100|[from] Flip Turn
+|move|p2a: Iron Leaves|Psyblade|p1a: Beauté Macabre
+|-immune|p1a: Beauté Macabre
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Leaves|76/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1711944466
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|switch|p2a: Pikachu|Pikachu, F|100/100
+|move|p1a: Beauté Macabre|Foul Play|p2a: Pikachu
+|-damage|p2a: Pikachu|13/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pikachu|7/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1711944475
+|switch|p1a: Carnage Pourpre|Excadrill, M, shiny|100/100
+|move|p2a: Pikachu|Fake Out|p1a: Carnage Pourpre
+|-resisted|p1a: Carnage Pourpre
+|-damage|p1a: Carnage Pourpre|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pikachu|1/100|[from] Sandstorm
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1711944486
+|switch|p1a: Beauté Macabre|Mandibuzz, F, shiny|100/100
+|move|p2a: Pikachu|Knock Off|p1a: Beauté Macabre
+|-resisted|p1a: Beauté Macabre
+|-damage|p1a: Beauté Macabre|90/100
+|-damage|p2a: Pikachu|0 fnt|[from] item: Rocky Helmet|[of] p1a: Beauté Macabre
+|faint|p2a: Pikachu
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711944504
+|switch|p2a: Pincurchin|Pincurchin, M|10/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Pincurchin
+|turn|10
+|
+|t:|1711944513
+|move|p1a: Beauté Macabre|Foul Play|p2a: Pincurchin
+|-damage|p2a: Pincurchin|0 fnt
+|faint|p2a: Pincurchin
+|
+|-weather|none
+|upkeep
+|
+|t:|1711944522
+|switch|p2a: Iron Moth|Iron Moth|100/100
+|-activate|p2a: Iron Moth|ability: Quark Drive
+|-start|p2a: Iron Moth|quarkdrivespa
+|turn|11
+|
+|t:|1711944528
+|switch|p1a: Tempête Pourpre|Tyranitar, M, shiny|72/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tempête Pourpre
+|move|p2a: Iron Moth|Fire Blast|p1a: Tempête Pourpre
+|-resisted|p1a: Tempête Pourpre
+|-damage|p1a: Tempête Pourpre|50/100
+|-damage|p2a: Iron Moth|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|85/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1711944542
+|move|p2a: Iron Moth|Energy Ball|p1a: Tempête Pourpre
+|-supereffective|p1a: Tempête Pourpre
+|-damage|p1a: Tempête Pourpre|0 fnt
+|faint|p1a: Tempête Pourpre
+|-damage|p2a: Iron Moth|75/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Iron Moth|69/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711944551
+|switch|p1a: Carnage Pourpre|Excadrill, M, shiny|89/100
+|turn|13
+|
+|t:|1711944555
+|move|p1a: Carnage Pourpre|Rock Slide|p2a: Iron Moth
+|-supereffective|p2a: Iron Moth
+|-damage|p2a: Iron Moth|0 fnt
+|faint|p2a: Iron Moth
+|-end|p2a: Iron Moth|Quark Drive|[silent]
+|-damage|p1a: Carnage Pourpre|79/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711944563
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|14
+|
+|t:|1711944570
+|move|p2a: Hawlucha|High Jump Kick|p1a: Carnage Pourpre
+|-supereffective|p1a: Carnage Pourpre
+|-damage|p1a: Carnage Pourpre|0 fnt
+|faint|p1a: Carnage Pourpre
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711944584
+|switch|p1a: Beauté Macabre|Mandibuzz, F, shiny|90/100
+|turn|15
+|
+|t:|1711944599
+|move|p2a: Hawlucha|Taunt|p1a: Beauté Macabre
+|-start|p1a: Beauté Macabre|move: Taunt
+|cant|p1a: Beauté Macabre|move: Taunt|Toxic
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|88/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1711944607
+|move|p2a: Hawlucha|High Jump Kick|p1a: Beauté Macabre
+|-damage|p1a: Beauté Macabre|58/100
+|-damage|p2a: Hawlucha|72/100|[from] item: Rocky Helmet|[of] p1a: Beauté Macabre
+|move|p1a: Beauté Macabre|Foul Play|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|44/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1711944622
+|move|p2a: Hawlucha|High Jump Kick|p1a: Beauté Macabre
+|-damage|p1a: Beauté Macabre|25/100
+|-damage|p2a: Hawlucha|27/100|[from] item: Rocky Helmet|[of] p1a: Beauté Macabre
+|move|p1a: Beauté Macabre|Foul Play|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|2/100|[from] Sandstorm
+|-end|p1a: Beauté Macabre|move: Taunt
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|18
+|
+|t:|1711944634
+|move|p2a: Hawlucha|High Jump Kick|p1a: Beauté Macabre
+|-damage|p1a: Beauté Macabre|0 fnt
+|-damage|p2a: Hawlucha|0 fnt|[from] item: Rocky Helmet|[of] p1a: Beauté Macabre
+|faint|p1a: Beauté Macabre
+|faint|p2a: Hawlucha
+|
+|-weather|none
+|upkeep
+|
+|t:|1711944647
+|switch|p2a: Iron Jugulis|Iron Jugulis|53/100 brn
+|switch|p1a: Latios|Latios, M|100/100
+|turn|19
+|
+|t:|1711944655
+|move|p1a: Latios|Draco Meteor|p2a: Iron Jugulis
+|-crit|p2a: Iron Jugulis
+|-damage|p2a: Iron Jugulis|0 fnt
+|-unboost|p1a: Latios|spa|2
+|faint|p2a: Iron Jugulis
+|-end|p2a: Iron Jugulis|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711944657
+|switch|p2a: Iron Leaves|Iron Leaves|76/100
+|turn|20
+|
+|t:|1711944665
+|switch|p1a: Quaquaval|Quaquaval, M|100/100
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Quaquaval
+|-supereffective|p1a: Quaquaval
+|-damage|p1a: Quaquaval|0 fnt
+|faint|p1a: Quaquaval
+|
+|upkeep
+|
+|t:|1711944673
+|switch|p1a: Latios|Latios, M|100/100
+|turn|21
+|
+|t:|1711944677
+|-terastallize|p2a: Iron Leaves|Grass
+|move|p1a: Latios|Draco Meteor|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|23/100
+|-unboost|p1a: Latios|spa|2
+|move|p2a: Iron Leaves|Leaf Blade|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|56/100
+|
+|upkeep
+|turn|22
+|
+|t:|1711944688
+|-terastallize|p1a: Latios|Psychic
+|move|p1a: Latios|Luster Purge|p2a: Iron Leaves
+|-damage|p2a: Iron Leaves|0 fnt
+|faint|p2a: Iron Leaves
+|-end|p2a: Iron Leaves|Quark Drive|[silent]
+|
+|win|KBR-13
+|raw|KBR-13's rating: 1152 &rarr; <strong>1183</strong><br />(+31 for winning)
+|raw|KORRIA's rating: 1233 &rarr; <strong>1202</strong><br />(-31 for losing)
+|l|☆KORRIA
+|player|p2|
+|l|☆KBR-13
+|player|p1|

@@ -1,0 +1,105 @@
+p1: Switched to Toxapex
+p2: Switched to Hawlucha
+Turn 1:
+p2: Hawlucha used Swords Dance on Hawlucha
+p1: Toxapex used Scald on Hawlucha
+Turn 2:
+p2: Hawlucha failed to use Sky Attack
+p1: Toxapex used Haze on Toxapex
+Turn 3:
+p1: Switched to Tapu Lele
+p2: Hawlucha used Acrobatics on Tapu Lele
+Turn 4:
+p2: Hawlucha used Acrobatics on Tapu Lele
+p1: Tapu Lele fainted
+p1: Switched to Magearna
+Turn 5:
+p2: Hawlucha used Acrobatics on Magearna
+p1: Magearna used Fleur Cannon on Hawlucha
+p2: Hawlucha fainted
+p2: Switched to Charizard
+Turn 6:
+p2: Charizard used Flamethrower on Magearna
+p1: Magearna used Volt Switch on Charizard
+p1: Switched to Toxapex
+Turn 7:
+p2: Charizard used Protect on Charizard
+p1: Toxapex used Recover on Toxapex
+Turn 8:
+p2: Charizard used Protect on Charizard
+p1: Toxapex used Toxic Spikes on Charizard
+Turn 9:
+p2: Charizard used Dragon Dance on Charizard
+p1: Toxapex used Scald on Charizard
+Turn 10:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Scald on Charizard
+Turn 11:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Recover on Toxapex
+Turn 12:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Recover on Toxapex
+Turn 13:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Recover on Toxapex
+Turn 14:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Recover on Toxapex
+Turn 15:
+p2: Charizard failed to use Solar Beam
+p1: Toxapex used Scald on Charizard
+p2: Charizard fainted
+p2: Switched to Kommo-o
+Turn 16:
+p2: Kommo-o used Clangorous Soulblaze on Toxapex
+p1: Toxapex used Haze on Toxapex
+Turn 17:
+p1: Switched to Gliscor
+p2: Kommo-o used Earthquake on Gliscor
+Turn 18:
+p2: Kommo-o used Clanging Scales on Gliscor
+p1: Gliscor used Stealth Rock on Kommo-o
+Turn 19:
+p2: Kommo-o used Clanging Scales on Gliscor
+p1: Gliscor used Earthquake on Kommo-o
+p2: Kommo-o fainted
+p2: Switched to Greninja
+Turn 20:
+p1: Switched to Toxapex
+p2: Greninja used Ice Beam on Toxapex
+Turn 21:
+p1: Switched to Magearna
+p2: Greninja used Extrasensory on Magearna
+Turn 22:
+p2: Greninja used Surf on Magearna
+p1: Magearna used Volt Switch on Greninja
+p1: Switched to Toxapex
+Turn 23:
+p1: Switched to Tornadus-Therian
+p2: Greninja used Extrasensory on Tornadus-Therian
+p2: Greninja fainted
+p2: Switched to Lycanroc-Dusk
+Turn 24:
+p2: Lycanroc-Dusk used Accelerock on Tornadus-Therian
+p1: Tornadus-Therian used U-turn on Lycanroc-Dusk
+p1: Switched to Gliscor
+Turn 25:
+p2: Lycanroc-Dusk used Crunch on Gliscor
+p1: Gliscor used Roost on Gliscor
+Turn 26:
+p2: Lycanroc-Dusk used Crunch on Gliscor
+p1: Gliscor used Earthquake on Lycanroc-Dusk
+p2: Lycanroc-Dusk fainted
+p2: Switched to Ferrothorn
+Turn 27:
+p1: Gliscor used Earthquake on Ferrothorn
+p2: Ferrothorn used Gyro Ball on Gliscor
+p1: Gliscor fainted
+p1: Switched to Hoopa-Unbound
+Turn 28:
+p1: Hoopa-Unbound used Dark Pulse on Ferrothorn
+p2: Ferrothorn can't move
+Turn 29:
+p1: Hoopa-Unbound used Shattered Psyche on Ferrothorn
+p2: Ferrothorn fainted

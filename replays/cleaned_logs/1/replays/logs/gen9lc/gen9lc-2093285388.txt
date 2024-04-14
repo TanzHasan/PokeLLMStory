@@ -1,0 +1,82 @@
+p1: Switched to Diglett-Alola
+p2: Switched to Voltorb-Hisui
+Turn 1:
+p2: Voltorb-Hisui used Giga Drain on Diglett-Alola
+p1: Diglett-Alola used Earthquake on Voltorb-Hisui
+Turn 2:
+p1: Switched to Litten
+p2: Voltorb-Hisui used Giga Drain on Litten
+Turn 3:
+p1: Litten used Parting Shot on Voltorb-Hisui
+p1: Switched to Vullaby
+p2: Voltorb-Hisui used Volt Switch on Vullaby
+p2: Switched to Tinkatink
+Turn 4:
+p2: Tinkatink used Draining Kiss on Vullaby
+p1: Vullaby fainted
+p1: Switched to Diglett-Alola
+Turn 5:
+p1: Diglett-Alola used Earthquake on Tinkatink
+p2: Tinkatink used Stealth Rock on Diglett-Alola
+Turn 6:
+p1: Diglett-Alola used Iron Head on Tinkatink
+p2: Tinkatink fainted
+p2: Switched to Voltorb-Hisui
+Turn 7:
+p1: Switched to Litten
+p2: Voltorb-Hisui used Giga Drain on Litten
+Turn 8:
+p1: Litten used Flare Blitz on Voltorb-Hisui
+p2: Voltorb-Hisui fainted
+p1: Litten fainted
+p2: Switched to Larvesta
+p1: Switched to Buizel
+Turn 9:
+p1: Buizel used Waterfall on Larvesta
+p2: p2a: Zorua can't move
+Turn 10:
+p2: Switched to Larvesta
+p1: Buizel used Waterfall on Larvesta
+Turn 11:
+p1: Buizel used Waterfall on Larvesta
+p2: Larvesta fainted
+p2: Switched to Stunky
+Turn 12:
+p2: Stunky used Gunk Shot on Buizel
+p1: Buizel used Waterfall on Stunky
+Turn 13:
+p2: Switched to Mienfoo
+p1: Buizel used Waterfall on Mienfoo
+p1: Buizel fainted
+p1: Switched to Tinkatink
+Turn 14:
+p1: Tinkatink used Dark Pulse on Mienfoo
+p2: Mienfoo used Taunt on Tinkatink
+Turn 15:
+p1: Switched to Diglett-Alola
+p2: Switched to Stunky
+Turn 16:
+p2: Stunky used Sucker Punch on Diglett-Alola
+p1: Diglett-Alola fainted
+p1: Switched to Tinkatink
+Turn 17:
+p2: Stunky used Sucker Punch on Tinkatink
+p1: Tinkatink used Play Rough on Stunky
+Turn 18:
+p2: Stunky used Temper Flare on Tinkatink
+p1: Tinkatink used Play Rough on Stunky
+p2: Stunky fainted
+p1: Tinkatink fainted
+p2: Switched to Mienfoo
+p1: Switched to Zorua-Hisui
+Turn 19:
+p1: Zorua-Hisui used Sludge Bomb on Mienfoo
+p2: p2a: Zorua used Will-O-Wisp on Zorua-Hisui
+Turn 20:
+p1: Zorua-Hisui used Sludge Bomb on p2a: Zorua
+p2: p2a: Zorua fainted
+p2: Switched to Mienfoo
+Turn 21:
+p1: Zorua-Hisui used Sludge Bomb on Mienfoo
+p2: Mienfoo used Knock Off on Zorua-Hisui
+p1: Zorua-Hisui fainted

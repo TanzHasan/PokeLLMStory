@@ -1,0 +1,75 @@
+p1: Switched to Gliscor
+p2: Switched to Terrakion
+Turn 1:
+p1: Gliscor used Protect on Gliscor
+p2: Terrakion used Taunt on Gliscor
+Turn 2:
+p2: Switched to Gallade
+p1: Gliscor used Earthquake on Gallade
+Turn 3:
+p2: Gallade used Psycho Cut on Gliscor
+p1: Gliscor used Earthquake on Gallade
+p2: Gallade fainted
+p2: Switched to Quaquaval
+Turn 4:
+p1: Switched to Enamorus
+p2: Quaquaval used Aqua Step on Enamorus
+Turn 5:
+p2: Quaquaval used Aqua Jet on Enamorus
+p1: Enamorus fainted
+p1: Switched to Zapdos
+Turn 6:
+p2: Switched to Iron Hands
+p1: Zapdos used Discharge on Iron Hands
+Turn 7:
+p1: Zapdos used Substitute on Zapdos
+p2: Iron Hands used Ice Punch on Zapdos
+Turn 8:
+p1: Switched to Articuno
+p2: Iron Hands used Ice Punch on Articuno
+Turn 9:
+p1: Articuno used Substitute on Articuno
+p2: Iron Hands used Thunder Punch on Articuno
+Turn 10:
+p1: Articuno used Roost on Articuno
+p2: Iron Hands used Thunder Punch on Articuno
+Turn 11:
+p1: Switched to Gliscor
+p2: Switched to Terrakion
+Turn 12:
+p2: Switched to Quaquaval
+p1: Gliscor used Toxic on Quaquaval
+Turn 13:
+p1: Gliscor used Protect on Gliscor
+p2: Quaquaval used Aqua Step on Gliscor
+Turn 14:
+p1: Switched to Articuno
+p2: Quaquaval used Aqua Step on Articuno
+Turn 15:
+p2: Quaquaval used Aqua Step on Articuno
+p1: Articuno fainted
+p2: Quaquaval fainted
+p2: Switched to Iron Hands
+p1: Switched to Dragonite
+Turn 16:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Iron Hands used Ice Punch on Dragonite
+Turn 17:
+p1: Dragonite used Earthquake on Iron Hands
+p2: Iron Hands used Ice Punch on Dragonite
+p1: Dragonite fainted
+p1: Switched to Gliscor
+Turn 18:
+p1: Gliscor used Earthquake on Iron Hands
+p2: Iron Hands fainted
+p2: Switched to Zamazenta
+Turn 19:
+p1: Gliscor used Protect on Gliscor
+p2: Zamazenta used Close Combat on Gliscor
+Turn 20:
+p2: Zamazenta used Close Combat on Gliscor
+p1: Gliscor used Toxic on Zamazenta
+Turn 21:
+p1: Gliscor used Protect on Gliscor
+p2: Zamazenta used Close Combat on Gliscor
+Turn 22:

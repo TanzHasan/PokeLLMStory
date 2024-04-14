@@ -1,0 +1,217 @@
+|j|☆257m
+|j|☆Skullmonkey
+|t:|1711943859
+|gametype|singles
+|player|p1|257m|102|1216
+|player|p2|Skullmonkey|li|1277
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Swagger Clause: Swagger is banned
+|rule|Baton Pass Stat Clause: No Baton Passer may have a way to boost its stats
+|clearpoke
+|poke|p1|Garchomp, F|item
+|poke|p1|Magnezone|item
+|poke|p1|Dragonite, M|item
+|poke|p1|Cloyster, M|item
+|poke|p1|Starmie|item
+|poke|p1|Jirachi|item
+|poke|p2|Starmie|item
+|poke|p2|Ferrothorn, F|item
+|poke|p2|Scizor, F|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Politoed, F|item
+|poke|p2|Latios, M|item
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 257m)
+|
+|t:|1711943881
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1711943886
+|move|p2a: Rotom|Trick|p1a: Garchomp
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Focus Sash|[from] move: Trick
+|move|p1a: Garchomp|Stealth Rock|p2a: Rotom
+|-sidestart|p2: Skullmonkey|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711943897
+|switch|p1a: Jirachi|Jirachi|100/100
+|switch|p2a: Politoed|Politoed, F|100/100
+|-damage|p2a: Politoed|88/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711943906
+|move|p1a: Jirachi|Trick|p2a: Politoed
+|-activate|p1a: Jirachi|move: Trick|[of] p2a: Politoed
+|-item|p2a: Politoed|Choice Scarf|[from] move: Trick
+|-item|p1a: Jirachi|Choice Specs|[from] move: Trick
+|move|p2a: Politoed|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|56/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711943929
+|move|p1a: Jirachi|Iron Head|p2a: Politoed
+|-resisted|p2a: Politoed
+|-damage|p2a: Politoed|69/100
+|move|p2a: Politoed|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|9/100
+|-status|p1a: Jirachi|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Jirachi|0 fnt|[from] brn
+|faint|p1a: Jirachi
+|upkeep
+|
+|t:|1711943938
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|5
+|
+|t:|1711943946
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Politoed|Scald|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711943958
+|switch|p1a: Starmie|Starmie|100/100
+|-item|p1a: Starmie|Air Balloon
+|turn|6
+|c|☆Skullmonkey|BALLOON!??!?!?!
+|
+|t:|1711943968
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Starmie|Thunderbolt|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711943977
+|switch|p1a: Magnezone|Magnezone|100/100
+|-item|p1a: Magnezone|Air Balloon
+|switch|p2a: Latios|Latios, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711943989
+|move|p2a: Latios|Surf|p1a: Magnezone
+|-damage|p1a: Magnezone|40/100
+|-enditem|p1a: Magnezone|Air Balloon
+|move|p1a: Magnezone|Sunny Day|p1a: Magnezone
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1711944003
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Latios|Surf|p1a: Garchomp
+|-damage|p1a: Garchomp|82/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1711944012
+|switch|p2a: Scizor|Scizor, F|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|c|☆Skullmonkey|Hmmmm
+|c|☆Skullmonkey|Choice scarf???
+|
+|t:|1711944025
+|switch|p1a: Magnezone|Magnezone|40/100
+|move|p2a: Scizor|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|9/100
+|c|☆257m|missclick
+|
+|t:|1711944031
+|switch|p2a: Latios|Latios, M|88/100|[from] U-turn
+|-damage|p2a: Latios|76/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1711944038
+|move|p2a: Latios|Psyshock|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-weather|none
+|upkeep
+|
+|t:|1711944041
+|switch|p1a: Garchomp|Garchomp, F|82/100
+|turn|13
+|
+|t:|1711944045
+|switch|p2a: Ferrothorn|Ferrothorn, F|74/100
+|-damage|p2a: Ferrothorn|68/100|[from] Stealth Rock
+|move|p1a: Garchomp|Outrage|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|45/100
+|-damage|p1a: Garchomp|70/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|52/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|-message|257m forfeited.
+|
+|win|Skullmonkey
+|raw|257m's rating: 1216 &rarr; <strong>1195</strong><br />(-21 for losing)
+|raw|Skullmonkey's rating: 1277 &rarr; <strong>1298</strong><br />(+21 for winning)
+|l|☆257m
+|player|p1|
+|c|☆Skullmonkey|GG

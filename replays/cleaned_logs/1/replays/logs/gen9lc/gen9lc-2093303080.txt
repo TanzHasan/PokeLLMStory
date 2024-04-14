@@ -1,0 +1,122 @@
+p1: Switched to Munchlax
+p2: Switched to Varoom
+Turn 1:
+p2: Switched to Hippopotas
+p1: Munchlax used Earthquake on Hippopotas
+Turn 2:
+p2: Hippopotas used Yawn on Munchlax
+p1: Munchlax used Body Slam on Hippopotas
+Turn 3:
+p2: Hippopotas used Slack Off on Hippopotas
+p1: Munchlax used Body Slam on Hippopotas
+Turn 4:
+p1: Switched to Vullaby
+p2: Hippopotas used Body Press on Vullaby
+Turn 5:
+p1: Vullaby used Nasty Plot on Vullaby
+p2: Hippopotas used Body Press on Vullaby
+Turn 6:
+p1: Vullaby used Dark Pulse on Hippopotas
+p2: Hippopotas fainted
+p2: Switched to Mienfoo
+Turn 7:
+p2: Mienfoo used Fake Out on Vullaby
+p1: Vullaby can't move
+p1: Vullaby fainted
+p1: Switched to Snubbull
+Turn 8:
+p2: Mienfoo used U-turn on Snubbull
+p2: Switched to Drilbur
+p1: Snubbull used Earthquake on Drilbur
+Turn 9:
+p1: Snubbull used Ice Punch on Drilbur
+p2: Drilbur fainted
+p2: Switched to Voltorb-Hisui
+Turn 10:
+p2: Voltorb-Hisui used Thunderbolt on Snubbull
+p1: Snubbull used Ice Punch on Voltorb-Hisui
+Turn 11:
+p2: Voltorb-Hisui used Protect on Voltorb-Hisui
+p1: Snubbull used Ice Punch on Voltorb-Hisui
+Turn 12:
+p2: Switched to Gimmighoul
+p1: Snubbull used Ice Punch on Gimmighoul
+Turn 13:
+p1: Snubbull used Earthquake on Gimmighoul
+p2: Gimmighoul used Reflect on Gimmighoul
+Turn 14:
+p1: Snubbull used Earthquake on Gimmighoul
+p2: Gimmighoul used Shadow Ball on Snubbull
+Turn 15:
+p1: Snubbull used Ice Punch on Gimmighoul
+p2: Gimmighoul used Shadow Ball on Snubbull
+p1: Snubbull fainted
+p1: Switched to Grimer
+Turn 16:
+p1: Grimer used Shadow Sneak on Gimmighoul
+p2: Gimmighoul fainted
+p2: Switched to Voltorb-Hisui
+Turn 17:
+p2: Voltorb-Hisui used Thunderbolt on Grimer
+p1: Grimer used Poison Jab on Voltorb-Hisui
+p2: Voltorb-Hisui fainted
+p2: Switched to Mienfoo
+Turn 18:
+p2: Mienfoo used Knock Off on Grimer
+p1: Grimer can't move
+Turn 19:
+p2: Mienfoo used High Jump Kick on Grimer
+p1: Grimer can't move
+Turn 20:
+p2: Mienfoo used Knock Off on Grimer
+p1: Grimer fainted
+p1: Switched to Corphish
+Turn 21:
+p1: Corphish used Waterfall on Mienfoo
+p2: Mienfoo used Knock Off on Corphish
+Turn 22:
+p1: Corphish used Aqua Jet on Mienfoo
+p2: Mienfoo used High Jump Kick on Corphish
+p1: Corphish fainted
+p1: Switched to Mienfoo
+Turn 23:
+p2: Switched to Varoom
+p1: Mienfoo used Drain Punch on Varoom
+Turn 24:
+p1: Mienfoo used Bulk Up on Mienfoo
+p2: Varoom used Tera Blast on Mienfoo
+Turn 25:
+p1: Mienfoo used Bulk Up on Mienfoo
+p2: Varoom used Toxic on Mienfoo
+Turn 26:
+p1: Mienfoo used Agility on Mienfoo
+p2: Varoom used Haze on Varoom
+Turn 27:
+p1: Mienfoo used Knock Off on Varoom
+p2: Varoom used Tera Blast on Mienfoo
+Turn 28:
+p1: Mienfoo used Drain Punch on Varoom
+p2: Varoom used Tera Blast on Mienfoo
+Turn 29:
+p1: Switched to Munchlax
+p2: Varoom used Tera Blast on Munchlax
+Turn 30:
+p2: Switched to Mienfoo
+p1: Munchlax can't move
+Turn 31:
+p2: Mienfoo used High Jump Kick on Munchlax
+p1: Munchlax fainted
+p1: Switched to Mienfoo
+Turn 32:
+p2: Switched to Varoom
+p1: Mienfoo used Drain Punch on Varoom
+Turn 33:
+p1: Mienfoo used Drain Punch on Varoom
+p2: Varoom fainted
+p2: Switched to Mienfoo
+Turn 34:
+p2: Mienfoo used Fake Out on Mienfoo
+p1: Mienfoo used Drain Punch on Mienfoo
+Turn 35:
+p2: Mienfoo used High Jump Kick on Mienfoo
+p1: Mienfoo fainted

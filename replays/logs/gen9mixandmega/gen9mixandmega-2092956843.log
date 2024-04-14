@@ -1,0 +1,260 @@
+|j|☆mecha rayquaza
+|j|☆Kin+ak (✧∇✧)
+|t:|1711896065
+|gametype|singles
+|player|p1|mecha rayquaza|hilbert-wonderlauncher|1064
+|player|p2|Kin+ak (✧∇✧)|wally|1265
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Swampert, M|
+|poke|p1|Camerupt, M|
+|poke|p1|Scizor, M|
+|poke|p1|Ampharos, M|
+|poke|p1|Lucario, M|
+|poke|p1|Kommo-o, M|
+|poke|p2|Ursaluna, F|
+|poke|p2|Cresselia, F|
+|poke|p2|Reuniclus, M|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Glastrier|
+|poke|p2|Enamorus-Therian, F|
+|teampreview
+|
+|t:|1711896086
+|start
+|switch|p1a: Thor|Ampharos, M|100/100
+|switch|p2a: Reuniclus|Reuniclus, M|100/100
+|turn|1
+|
+|t:|1711896093
+|detailschange|p1a: Thor|Ampharos-Mega, M
+|-mega|p1a: Thor|Ampharos|Ampharosite
+|-ability|p1a: Thor|Mold Breaker
+|detailschange|p2a: Reuniclus|Reuniclus, M
+|-mega|p2a: Reuniclus|Reuniclus|Cameruptite
+|-start|p2a: Reuniclus|Cameruptite|[silent]
+|move|p1a: Thor|Thunder Wave|p2a: Reuniclus
+|-status|p2a: Reuniclus|par
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1711896104
+|move|p1a: Thor|Thunder|p2a: Reuniclus
+|-damage|p2a: Reuniclus|70/100 par
+|move|p2a: Reuniclus|Psychic|p1a: Thor
+|-damage|p1a: Thor|16/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711896112
+|move|p1a: Thor|Thunder|p2a: Reuniclus
+|-damage|p2a: Reuniclus|40/100 par
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1711896117
+|move|p1a: Thor|Thunder|p2a: Reuniclus
+|-damage|p2a: Reuniclus|17/100 par
+|cant|p2a: Reuniclus|par
+|
+|upkeep
+|turn|5
+|c|☆Kin+ak (✧∇✧)|If you hit this thunder
+|c|☆Kin+ak (✧∇✧)|I swear
+|
+|t:|1711896135
+|move|p1a: Thor|Discharge|p2a: Reuniclus
+|-damage|p2a: Reuniclus|2/100 par
+|cant|p2a: Reuniclus|par
+|
+|upkeep
+|turn|6
+|c|☆Kin+ak (✧∇✧)|WHAT THE HOLY FUCK IS THAT SET
+|
+|t:|1711896151
+|move|p1a: Thor|Thunderbolt|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|upkeep
+|c|☆Kin+ak (✧∇✧)|TBOLT+THUNDER+TWAVE+DISCHARGE? HAVE YOU LOST YOUR MIND?
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mecha rayquaza)
+|j| SplodgeOfChippy
+|j| Time2Bonk
+|
+|t:|1711896203
+|switch|p2a: Ursaluna|Ursaluna, F|100/100
+|turn|7
+|
+|t:|1711896207
+|detailschange|p2a: Ursaluna|Ursaluna, F
+|-mega|p2a: Ursaluna|Ursaluna|Heracronite
+|-start|p2a: Ursaluna|Heracronite|[silent]
+|move|p1a: Thor|Thunder Wave|p2a: Ursaluna
+|-immune|p2a: Ursaluna
+|move|p2a: Ursaluna|Swords Dance|p2a: Ursaluna
+|-boost|p2a: Ursaluna|atk|2
+|
+|upkeep
+|turn|8
+|j| IMHIMIMKING
+|inactive|Kin+ak (✧∇✧) has 120 seconds left.
+|c|☆Kin+ak (✧∇✧)|that's
+|c|☆Kin+ak (✧∇✧)|Unacceptable
+|
+|t:|1711896247
+|switch|p1a: Captain America|Lucario, M|100/100
+|move|p2a: Ursaluna|Swords Dance|p2a: Ursaluna
+|-boost|p2a: Ursaluna|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1711896256
+|move|p1a: Captain America|Close Combat|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|44/100
+|-unboost|p1a: Captain America|def|1
+|-unboost|p1a: Captain America|spd|1
+|move|p2a: Ursaluna|Drain Punch|p1a: Captain America
+|-supereffective|p1a: Captain America
+|-damage|p1a: Captain America|0 fnt
+|-heal|p2a: Ursaluna|77/100|[from] drain|[of] p1a: Captain America
+|faint|p1a: Captain America
+|
+|upkeep
+|
+|t:|1711896271
+|switch|p1a: Cull Obsidian|Camerupt, M, shiny|100/100
+|turn|10
+|l| Time2Bonk
+|inactive|Kin+ak (✧∇✧) has 120 seconds left.
+|
+|t:|1711896301
+|detailschange|p1a: Cull Obsidian|Camerupt-Mega, M, shiny
+|-mega|p1a: Cull Obsidian|Camerupt|Cameruptite
+|move|p1a: Cull Obsidian|Lava Plume|p2a: Ursaluna
+|-damage|p2a: Ursaluna|31/100
+|move|p2a: Ursaluna|Drain Punch|p1a: Cull Obsidian
+|-crit|p1a: Cull Obsidian
+|-damage|p1a: Cull Obsidian|0 fnt
+|-heal|p2a: Ursaluna|64/100|[from] drain|[of] p1a: Cull Obsidian
+|faint|p1a: Cull Obsidian
+|
+|upkeep
+|
+|t:|1711896314
+|switch|p1a: Iron Man|Scizor, M, shiny|100/100
+|turn|11
+|inactive|Kin+ak (✧∇✧) has 120 seconds left.
+|
+|t:|1711896332
+|detailschange|p1a: Iron Man|Scizor-Mega, M, shiny
+|-mega|p1a: Iron Man|Scizor|Scizorite
+|move|p1a: Iron Man|Close Combat|p2a: Ursaluna
+|-supereffective|p2a: Ursaluna
+|-damage|p2a: Ursaluna|21/100
+|-unboost|p1a: Iron Man|def|1
+|-unboost|p1a: Iron Man|spd|1
+|move|p2a: Ursaluna|Drain Punch|p1a: Iron Man
+|-damage|p1a: Iron Man|0 fnt
+|-heal|p2a: Ursaluna|54/100|[from] drain|[of] p1a: Iron Man
+|faint|p1a: Iron Man
+|
+|upkeep
+|
+|t:|1711896343
+|switch|p1a: Thanos|Kommo-o, M|100/100
+|detailschange|p1a: Thanos|Kommo-o, M
+|-primal|p1a: Thanos|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Thanos
+|-start|p1a: Thanos|Red Orb|[silent]
+|-start|p1a: Thanos|typechange|Dragon/Fire|[silent]
+|turn|12
+|
+|t:|1711896353
+|-end|p2a: Ursaluna|Heracronite|[silent]
+|switch|p2a: Enamorus|Enamorus-Therian, F|100/100
+|detailschange|p2a: Enamorus|Enamorus-Therian, F
+|-primal|p2a: Enamorus|Red Orb
+|-start|p2a: Enamorus|Red Orb|[silent]
+|-start|p2a: Enamorus|typechange|Fairy/Fire|[silent]
+|move|p1a: Thanos|Dragon Tail|p2a: Enamorus
+|-immune|p2a: Enamorus
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1711896360
+|move|p1a: Thanos|Flash Cannon|p2a: Enamorus
+|-crit|p2a: Enamorus
+|-damage|p2a: Enamorus|60/100
+|move|p2a: Enamorus|Earth Power|p1a: Thanos
+|-supereffective|p1a: Thanos
+|-damage|p1a: Thanos|14/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1711896368
+|-end|p2a: Enamorus|Red Orb|[silent]
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Thanos|Flamethrower|p2a: Cresselia
+|-damage|p2a: Cresselia|69/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1711896374
+|detailschange|p2a: Cresselia|Cresselia, F
+|-mega|p2a: Cresselia|Cresselia|Sablenite
+|-start|p2a: Cresselia|Sablenite|[silent]
+|move|p1a: Thanos|Dragon Tail|p2a: Cresselia
+|-damage|p2a: Cresselia|54/100
+|-end|p2a: Cresselia|Sablenite|[silent]
+|drag|p2a: Enamorus|Enamorus-Therian, F|60/100
+|-start|p2a: Enamorus|Red Orb|[silent]
+|-start|p2a: Enamorus|typechange|Fairy/Fire|[silent]
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1711896381
+|move|p1a: Thanos|Flash Cannon|p2a: Enamorus
+|-damage|p2a: Enamorus|36/100
+|move|p2a: Enamorus|Draining Kiss|p1a: Thanos
+|-damage|p1a: Thanos|0 fnt
+|-heal|p2a: Enamorus|44/100|[from] drain|[of] p1a: Thanos
+|faint|p1a: Thanos
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|-message|mecha rayquaza forfeited.
+|
+|win|Kin+ak (✧∇✧)

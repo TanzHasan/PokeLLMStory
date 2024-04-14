@@ -1,0 +1,416 @@
+|j|☆Granddaddy Dank
+|j|☆MeRrkava
+|t:|1711942333
+|gametype|singles
+|player|p1|Granddaddy Dank|1|1097
+|player|p2|MeRrkava|cynthia|1040
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711942333
+|start
+|switch|p1a: Smeargle|Smeargle, L88, F|240/240
+|switch|p2a: Salazzle|Salazzle, L84, F|234/234
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Granddaddy Dank)
+|
+|t:|1711942347
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|176/234
+|move|p1a: Smeargle|Nuzzle|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Substitute|[damage]
+|
+|-heal|p2a: Salazzle|190/234|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1711942362
+|move|p2a: Salazzle|Toxic|p1a: Smeargle
+|-status|p1a: Smeargle|tox
+|move|p1a: Smeargle|Sticky Web|p2a: Salazzle
+|-sidestart|p2: MeRrkava|move: Sticky Web
+|
+|-heal|p2a: Salazzle|204/234|[from] item: Black Sludge
+|-damage|p1a: Smeargle|225/240 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711942371
+|move|p2a: Salazzle|Flamethrower|p1a: Smeargle
+|-damage|p1a: Smeargle|78/240 tox
+|move|p1a: Smeargle|Nuzzle|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Substitute|[damage]
+|
+|-heal|p2a: Salazzle|218/234|[from] item: Black Sludge
+|-damage|p1a: Smeargle|48/240 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711942386
+|move|p2a: Salazzle|Flamethrower|p1a: Smeargle
+|-damage|p1a: Smeargle|0 fnt
+|faint|p1a: Smeargle
+|
+|-heal|p2a: Salazzle|232/234|[from] item: Black Sludge
+|upkeep
+|inactive|Granddaddy Dank has 120 seconds left.
+|
+|t:|1711942418
+|switch|p1a: Terrakion|Terrakion, L78|270/270
+|turn|5
+|
+|t:|1711942423
+|move|p2a: Salazzle|Toxic|p1a: Terrakion
+|-status|p1a: Terrakion|tox
+|move|p1a: Terrakion|Earthquake|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|234/234|[from] item: Black Sludge
+|-damage|p1a: Terrakion|254/270 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711942435
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|176/234
+|move|p1a: Terrakion|Earthquake|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|190/234|[from] item: Black Sludge
+|-damage|p1a: Terrakion|222/270 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Granddaddy Dank has 120 seconds left.
+|
+|t:|1711942465
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Terrakion|Earthquake|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|204/234|[from] item: Black Sludge
+|-damage|p1a: Terrakion|174/270 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Granddaddy Dank has 120 seconds left.
+|
+|t:|1711942492
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|146/234
+|move|p1a: Terrakion|Earthquake|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|160/234|[from] item: Black Sludge
+|-damage|p1a: Terrakion|110/270 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711942502
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Terrakion|Earthquake|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|174/234|[from] item: Black Sludge
+|-damage|p1a: Terrakion|30/270 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711942516
+|move|p2a: Salazzle|Flamethrower|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|
+|-heal|p2a: Salazzle|188/234|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711942525
+|switch|p1a: Xerneas|Xerneas, L66|276/276
+|-ability|p1a: Xerneas|Fairy Aura
+|turn|11
+|
+|t:|1711942533
+|move|p2a: Salazzle|Toxic|p1a: Xerneas
+|-status|p1a: Xerneas|tox
+|move|p1a: Xerneas|Geomancy||[still]
+|-prepare|p1a: Xerneas|Geomancy
+|-enditem|p1a: Xerneas|Power Herb
+|-anim|p1a: Xerneas|Geomancy|p1a: Xerneas
+|-boost|p1a: Xerneas|spa|2
+|-boost|p1a: Xerneas|spd|2
+|-boost|p1a: Xerneas|spe|2
+|
+|-heal|p2a: Salazzle|202/234|[from] item: Black Sludge
+|-damage|p1a: Xerneas|259/276 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1711942548
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Xerneas|Psyshock|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|216/234|[from] item: Black Sludge
+|-damage|p1a: Xerneas|225/276 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711942564
+|switch|p2a: Ditto|Ditto, L83|215/215
+|-activate|p2a: Ditto|move: Sticky Web
+|-unboost|p2a: Ditto|spe|1
+|-transform|p2a: Ditto|p1a: Xerneas|[from] ability: Imposter
+|-ability|p2a: Ditto|Fairy Aura
+|move|p1a: Xerneas|Psyshock|p2a: Ditto
+|-damage|p2a: Ditto|110/215
+|
+|-damage|p1a: Xerneas|174/276 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1711942579
+|move|p2a: Ditto|Moonblast|p1a: Xerneas
+|-damage|p1a: Xerneas|14/276 tox
+|move|p1a: Xerneas|Moonblast|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|-damage|p1a: Xerneas|0 fnt|[from] psn
+|faint|p1a: Xerneas
+|upkeep
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942601
+|switch|p1a: Kecleon|Kecleon, L88, M|249/249
+|switch|p2a: Purugly|Purugly, L88, M|268/268
+|-activate|p2a: Purugly|move: Sticky Web
+|-unboost|p2a: Purugly|spe|1
+|turn|15
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942612
+|move|p2a: Purugly|Fake Out|p1a: Kecleon
+|-damage|p1a: Kecleon|191/249
+|cant|p1a: Kecleon|flinch
+|
+|-heal|p1a: Kecleon|206/249|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942626
+|move|p2a: Purugly|Return|p1a: Kecleon
+|-damage|p1a: Kecleon|70/249
+|move|p1a: Kecleon|Stealth Rock|p2a: Purugly
+|-start|p1a: Kecleon|typechange|Rock|[from] ability: Protean
+|-sidestart|p2: MeRrkava|move: Stealth Rock
+|
+|-heal|p1a: Kecleon|85/249|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942637
+|move|p2a: Purugly|Knock Off|p1a: Kecleon
+|-damage|p1a: Kecleon|16/249
+|-enditem|p1a: Kecleon|Leftovers|[from] move: Knock Off|[of] p2a: Purugly
+|move|p1a: Kecleon|Drain Punch|p2a: Purugly
+|-start|p1a: Kecleon|typechange|Fighting|[from] ability: Protean
+|-supereffective|p2a: Purugly
+|-damage|p2a: Purugly|68/268
+|-heal|p1a: Kecleon|116/249|[from] drain|[of] p2a: Purugly
+|
+|upkeep
+|turn|18
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942649
+|move|p1a: Kecleon|Shadow Sneak|p2a: Purugly
+|-start|p1a: Kecleon|typechange|Ghost|[from] ability: Protean
+|-immune|p2a: Purugly
+|move|p2a: Purugly|Stomping Tantrum|p1a: Kecleon
+|-damage|p1a: Kecleon|61/249
+|
+|upkeep
+|turn|19
+|inactive|MeRrkava has 120 seconds left.
+|
+|t:|1711942659
+|move|p2a: Purugly|Knock Off|p1a: Kecleon
+|-supereffective|p1a: Kecleon
+|-damage|p1a: Kecleon|0 fnt
+|faint|p1a: Kecleon
+|
+|upkeep
+|
+|t:|1711942663
+|switch|p1a: Klefki|Klefki, L85, M|236/236
+|turn|20
+|
+|t:|1711942673
+|move|p1a: Klefki|Play Rough|p2a: Purugly
+|-damage|p2a: Purugly|0 fnt
+|faint|p2a: Purugly
+|
+|upkeep
+|
+|t:|1711942680
+|switch|p2a: Salazzle|Salazzle, L84, F|216/234
+|-activate|p2a: Salazzle|move: Sticky Web
+|-unboost|p2a: Salazzle|spe|1
+|-damage|p2a: Salazzle|158/234|[from] Stealth Rock
+|turn|21
+|
+|t:|1711942686
+|move|p1a: Klefki|Thunder Wave|p2a: Salazzle
+|-status|p2a: Salazzle|par
+|move|p2a: Salazzle|Toxic|p1a: Klefki
+|-status|p1a: Klefki|tox
+|
+|-heal|p2a: Salazzle|172/234 par|[from] item: Black Sludge
+|-damage|p1a: Klefki|222/236 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711942698
+|move|p1a: Klefki|Play Rough|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|143/234 par
+|move|p2a: Salazzle|Flamethrower|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|28/236 tox
+|
+|-heal|p1a: Klefki|42/236 tox|[from] item: Leftovers
+|-heal|p2a: Salazzle|157/234 par|[from] item: Black Sludge
+|-damage|p1a: Klefki|14/236 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711942713
+|cant|p2a: Salazzle|par
+|move|p1a: Klefki|Play Rough|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|128/234 par
+|
+|-heal|p1a: Klefki|28/236 tox|[from] item: Leftovers
+|-heal|p2a: Salazzle|142/234 par|[from] item: Black Sludge
+|-damage|p1a: Klefki|0 fnt|[from] psn
+|faint|p1a: Klefki
+|upkeep
+|
+|t:|1711942724
+|switch|p1a: Jumpluff|Jumpluff, L89, M|278/278
+|turn|24
+|
+|t:|1711942729
+|move|p1a: Jumpluff|Acrobatics|p2a: Salazzle
+|-damage|p2a: Salazzle|31/234 par
+|move|p2a: Salazzle|Flamethrower|p1a: Jumpluff
+|-supereffective|p1a: Jumpluff
+|-damage|p1a: Jumpluff|90/278
+|
+|-heal|p2a: Salazzle|45/234 par|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1711942742
+|switch|p2a: Suicune|Suicune, L82|298/298
+|-activate|p2a: Suicune|move: Sticky Web
+|-unboost|p2a: Suicune|spe|1
+|-damage|p2a: Suicune|261/298|[from] Stealth Rock
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Jumpluff|Acrobatics|p2a: Suicune
+|-damage|p2a: Suicune|189/298
+|
+|-heal|p2a: Suicune|207/298|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711942758
+|move|p1a: Jumpluff|Sleep Powder|p2a: Suicune|[miss]
+|-miss|p1a: Jumpluff|p2a: Suicune
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|
+|upkeep
+|turn|27
+|
+|t:|1711942767
+|move|p1a: Jumpluff|Encore|p2a: Suicune
+|-start|p2a: Suicune|Encore
+|cant|p2a: Suicune|slp
+|
+|upkeep
+|turn|28
+|
+|t:|1711942773
+|move|p1a: Jumpluff|Strength Sap|p2a: Suicune
+|-unboost|p2a: Suicune|atk|1
+|-heal|p1a: Jumpluff|218/278
+|cant|p2a: Suicune|slp
+|
+|upkeep
+|turn|29
+|
+|t:|1711942781
+|move|p1a: Jumpluff|Acrobatics|p2a: Suicune
+|-damage|p2a: Suicune|228/298 slp
+|-curestatus|p2a: Suicune|slp|[msg]
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|
+|-end|p2a: Suicune|Encore
+|upkeep
+|turn|30
+|
+|t:|1711942792
+|move|p1a: Jumpluff|Encore|p2a: Suicune
+|-start|p2a: Suicune|Encore
+|cant|p2a: Suicune|slp
+|
+|upkeep
+|turn|31
+|
+|t:|1711942797
+|move|p1a: Jumpluff|Acrobatics|p2a: Suicune
+|-damage|p2a: Suicune|229/298 slp
+|cant|p2a: Suicune|slp
+|
+|-heal|p2a: Suicune|247/298 slp|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711942805
+|move|p1a: Jumpluff|Acrobatics|p2a: Suicune
+|-damage|p2a: Suicune|177/298 slp
+|-curestatus|p2a: Suicune|slp|[msg]
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|298/298 slp|[silent]
+|
+|-end|p2a: Suicune|Encore
+|upkeep
+|turn|33
+|-message|Granddaddy Dank forfeited.
+|
+|win|MeRrkava
+|raw|Granddaddy Dank's rating: 1097 &rarr; <strong>1068</strong><br />(-29 for losing)
+|raw|MeRrkava's rating: 1040 &rarr; <strong>1080</strong><br />(+40 for winning)
+|l|☆Granddaddy Dank
+|player|p1|

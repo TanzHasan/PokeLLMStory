@@ -1,0 +1,53 @@
+p1: Switched to Maushold-Four
+p2: Switched to Maushold
+Turn 1:
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+p1: Maushold-Four used Tickle on Maushold
+Turn 2:
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+p1: Maushold-Four used Encore on Maushold
+Turn 3:
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+p1: Maushold-Four used Low Sweep on Maushold
+Turn 4:
+p1: Maushold-Four used Tickle on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 5:
+p1: Maushold-Four used Tickle on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 6:
+p1: Maushold-Four used Encore on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 7:
+p1: Maushold-Four used Tickle on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 8:
+p1: Maushold-Four used Tickle on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 9:
+p1: Maushold-Four used Encore on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 10:
+p1: Maushold-Four used Tickle on Maushold
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+Turn 11:
+p2: Maushold used Baby-Doll Eyes on Maushold-Four
+p1: Maushold-Four used Low Sweep on Maushold
+Turn 12:
+p1: Maushold-Four used Low Sweep on Maushold
+p2: Maushold used Super Fang on Maushold-Four
+Turn 13:
+p1: Maushold-Four used Encore on Maushold
+p2: Maushold used Super Fang on Maushold-Four
+Turn 14:
+p1: Maushold-Four used Low Sweep on Maushold
+p2: Maushold used Super Fang on Maushold-Four
+Turn 15:
+p1: Maushold-Four used Low Sweep on Maushold
+p2: Maushold used Super Fang on Maushold-Four
+Turn 16:
+p1: Maushold-Four used Encore on Maushold
+p2: Maushold used Super Fang on Maushold-Four
+Turn 17:
+p1: Maushold-Four used Low Sweep on Maushold
+p2: Maushold fainted

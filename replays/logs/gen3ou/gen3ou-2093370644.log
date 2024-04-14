@@ -1,0 +1,114 @@
+|j|☆jasdfhj
+|j|☆hechirps
+|t:|1711946059
+|gametype|singles
+|player|p1|jasdfhj|acetrainer-gen4dp|1000
+|player|p2|hechirps|birdkeeper-gen3rs|1057
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711946059
+|start
+|switch|p1a: Ninjask|Ninjask, F|100/100
+|switch|p2a: Marshall|Marshtomp, F, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jasdfhj)
+|
+|t:|1711946076
+|move|p1a: Ninjask|Substitute|p1a: Ninjask
+|-start|p1a: Ninjask|Substitute
+|-damage|p1a: Ninjask|76/100
+|move|p2a: Marshall|Surf|p1a: Ninjask
+|-end|p1a: Ninjask|Substitute
+|
+|-ability|p1a: Ninjask|Speed Boost|boost
+|-boost|p1a: Ninjask|spe|1
+|-heal|p1a: Ninjask|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711946080
+|move|p1a: Ninjask|Protect|p1a: Ninjask
+|-singleturn|p1a: Ninjask|Protect
+|move|p2a: Marshall|Surf|p1a: Ninjask
+|-activate|p1a: Ninjask|Protect
+|
+|-ability|p1a: Ninjask|Speed Boost|boost
+|-boost|p1a: Ninjask|spe|1
+|-heal|p1a: Ninjask|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711946081
+|move|p1a: Ninjask|Substitute|p1a: Ninjask
+|-start|p1a: Ninjask|Substitute
+|-damage|p1a: Ninjask|63/100
+|move|p2a: Marshall|Surf|p1a: Ninjask
+|-end|p1a: Ninjask|Substitute
+|
+|-ability|p1a: Ninjask|Speed Boost|boost
+|-boost|p1a: Ninjask|spe|1
+|-heal|p1a: Ninjask|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946085
+|move|p1a: Ninjask|Protect|p1a: Ninjask
+|-singleturn|p1a: Ninjask|Protect
+|move|p2a: Marshall|Surf|p1a: Ninjask
+|-activate|p1a: Ninjask|Protect
+|
+|-ability|p1a: Ninjask|Speed Boost|boost
+|-boost|p1a: Ninjask|spe|1
+|-heal|p1a: Ninjask|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946087
+|move|p1a: Ninjask|Baton Pass|p1a: Ninjask
+|
+|t:|1711946089
+|switch|p1a: Vaporeon|Vaporeon, M|100/100|[from] Baton Pass
+|move|p2a: Marshall|Surf|p1a: Vaporeon
+|-immune|p1a: Vaporeon|[from] ability: Water Absorb
+|
+|upkeep
+|turn|6
+|
+|t:|1711946091
+|move|p1a: Vaporeon|Substitute|p1a: Vaporeon
+|-start|p1a: Vaporeon|Substitute
+|-damage|p1a: Vaporeon|75/100
+|move|p2a: Marshall|Toxic||[still]
+|-fail|p2a: Marshall
+|
+|-heal|p1a: Vaporeon|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711946094
+|switch|p2a: less is more|Minun, M|100/100
+|move|p1a: Vaporeon|Surf|p2a: less is more
+|-crit|p2a: less is more
+|-damage|p2a: less is more|0 fnt
+|faint|p2a: less is more
+|-message|hechirps forfeited.
+|
+|win|jasdfhj
+|raw|jasdfhj's rating: 1000 &rarr; <strong>1047</strong><br />(+47 for winning)
+|raw|hechirps's rating: 1057 &rarr; <strong>1035</strong><br />(-22 for losing)
+|l|☆hechirps
+|player|p2|

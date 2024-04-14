@@ -1,0 +1,83 @@
+|j|☆The Foot Doctor
+|j|☆bloccked
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711943030
+|gametype|singles
+|player|p1|The Foot Doctor|brendan|
+|player|p2|bloccked|psychic-gen3rs|
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|9
+|tier|[Gen 9] Almost Any Ability
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|1 Ability Clause: Limit 1 of each ability
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Seviper, F|
+|poke|p2|Seviper, M|
+|teampreview
+|j|*Lady Monita ❆
+|inactive|The Foot Doctor also wants the timer to be on.
+|j| YUHmans
+|j| AllHailDudunsparce
+|c|☆The Foot Doctor|hf
+|
+|t:|1711943041
+|start
+|switch|p1a: Seviper|Seviper, F|100/100
+|switch|p2a: Seviper|Seviper, M, shiny|100/100
+|turn|1
+|c|☆bloccked|u2
+|
+|t:|1711943046
+|move|p2a: Seviper|Switcheroo|p1a: Seviper
+|-activate|p2a: Seviper|move: Trick|[of] p1a: Seviper
+|-item|p1a: Seviper|Flame Orb|[from] move: Switcheroo
+|-item|p2a: Seviper|Choice Band|[from] move: Switcheroo
+|move|p1a: Seviper|Psychic Fangs|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|53/100
+|
+|-status|p1a: Seviper|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|j| skyingheaven
+|j| im dumb srly
+|j| JustAKidWhosFour
+|
+|t:|1711943067
+|move|p2a: Seviper|Switcheroo|p1a: Seviper
+|-activate|p2a: Seviper|move: Trick|[of] p1a: Seviper
+|-item|p1a: Seviper|Choice Band|[from] move: Switcheroo
+|-item|p2a: Seviper|Flame Orb|[from] move: Switcheroo
+|move|p1a: Seviper|Bulldoze|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|17/100
+|-unboost|p2a: Seviper|spe|1
+|
+|-damage|p1a: Seviper|94/100 brn|[from] brn
+|-status|p2a: Seviper|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1711943074
+|move|p1a: Seviper|Bulldoze|p2a: Seviper
+|-supereffective|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|
+|win|The Foot Doctor
+|n|☆The Foot Doctor|thefootdoctor
+|n|☆bloccked|bloccked
+|n|*Lady Monita ❆|ladymonita
+|n| YUHmans|yuhmans
+|n| AllHailDudunsparce|allhaildudunsparce
+|n| skyingheaven|skyingheaven
+|n| im dumb srly|imdumbsrly
+|n| JustAKidWhosFour|justakidwhosfour

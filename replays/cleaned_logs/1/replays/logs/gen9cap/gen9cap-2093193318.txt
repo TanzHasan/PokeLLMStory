@@ -1,0 +1,67 @@
+p1: Switched to Kyurem
+p2: Switched to Volcarona
+Turn 1:
+p1: Kyurem used Earth Power on Volcarona
+p2: Volcarona used Quiver Dance on Volcarona
+Turn 2:
+p2: Volcarona used Quiver Dance on Volcarona
+p1: Kyurem used Earth Power on Volcarona
+Turn 3:
+p1: Switched to Clefable
+p2: Volcarona used Flamethrower on Clefable
+Turn 4:
+p1: Switched to Volcanion
+p2: Volcarona used Psychic on Volcanion
+Turn 5:
+p1: Switched to Clefable
+p2: Volcarona used Psychic on Clefable
+p1: Clefable fainted
+p1: Switched to Hemogoblin
+Turn 6:
+p2: Volcarona used Psychic on Hemogoblin
+p1: Hemogoblin used Bitter Blade on Volcarona
+p2: Volcarona fainted
+p2: Switched to Glimmora
+Turn 7:
+p1: Switched to Equilibra
+p2: Glimmora used Stealth Rock on Equilibra
+Turn 8:
+p2: Switched to Great Tusk
+p1: Equilibra used Earth Power on Great Tusk
+Turn 9:
+p1: Equilibra used Protect on Equilibra
+p2: Great Tusk used Temper Flare on Equilibra
+Turn 10:
+p1: Switched to Kyurem
+p2: Great Tusk used Temper Flare on Kyurem
+Turn 11:
+p1: Kyurem used Ice Beam on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Hemogoblin
+Turn 12:
+p1: Kyurem used Earth Power on Hemogoblin
+p2: Hemogoblin used Bitter Blade on Kyurem
+Turn 13:
+p1: Kyurem used Earth Power on Hemogoblin
+p2: Hemogoblin fainted
+p2: Switched to Caribolt
+Turn 14:
+p2: Caribolt used Hyper Drill on Kyurem
+p1: Kyurem used Ice Beam on Caribolt
+p2: Caribolt fainted
+p2: Switched to Glimmora
+Turn 15:
+p1: Kyurem used Earth Power on Glimmora
+p2: Glimmora used Mortal Spin on Kyurem
+p1: Kyurem fainted
+p1: Switched to Hemogoblin
+Turn 16:
+p1: Hemogoblin used Extreme Speed on Glimmora
+p2: Glimmora fainted
+p2: Switched to Raging Bolt
+Turn 17:
+p1: Hemogoblin used Extreme Speed on Raging Bolt
+p2: Raging Bolt used Calm Mind on Raging Bolt
+Turn 18:
+p1: Hemogoblin used Extreme Speed on Raging Bolt
+p2: Raging Bolt fainted

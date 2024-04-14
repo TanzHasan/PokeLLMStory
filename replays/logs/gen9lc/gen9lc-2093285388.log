@@ -1,0 +1,306 @@
+|j|☆Alzaraf
+|j|☆organically
+|t:|1711934583
+|gametype|singles
+|player|p1|Alzaraf|2|1101
+|player|p2|organically|iono|1181
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Diglett-Alola, L5, F|
+|poke|p1|Vullaby, L5, F|
+|poke|p1|Litten, L5, F|
+|poke|p1|Buizel, L5, M|
+|poke|p1|Zorua-Hisui, L5, M|
+|poke|p1|Tinkatink, L5, F|
+|poke|p2|Voltorb-Hisui, L5|
+|poke|p2|Larvesta, L5, F|
+|poke|p2|Stunky, L5, F|
+|poke|p2|Zorua-Hisui, L5, F|
+|poke|p2|Mienfoo, L5, M|
+|poke|p2|Tinkatink, L5, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alzaraf)
+|
+|t:|1711934623
+|start
+|switch|p1a: May Earthquake|Diglett-Alola, L5, F|100/100
+|switch|p2a: Voltorb|Voltorb-Hisui, L5, shiny|100/100
+|turn|1
+|
+|t:|1711934642
+|move|p2a: Voltorb|Giga Drain|p1a: May Earthquake
+|-damage|p1a: May Earthquake|42/100
+|move|p1a: May Earthquake|Earthquake|p2a: Voltorb
+|-damage|p2a: Voltorb|53/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711934652
+|switch|p1a: Mini-Incin|Litten, L5, F|100/100
+|-ability|p1a: Mini-Incin|Intimidate|boost
+|-unboost|p2a: Voltorb|atk|1
+|move|p2a: Voltorb|Giga Drain|p1a: Mini-Incin
+|-resisted|p1a: Mini-Incin
+|-damage|p1a: Mini-Incin|67/100
+|-heal|p2a: Voltorb|72/100|[from] drain|[of] p1a: Mini-Incin
+|
+|upkeep
+|turn|3
+|
+|t:|1711934661
+|move|p1a: Mini-Incin|Parting Shot|p2a: Voltorb
+|-unboost|p2a: Voltorb|atk|1
+|-unboost|p2a: Voltorb|spa|1
+|
+|t:|1711934665
+|switch|p1a: Still An Egg|Vullaby, L5, F|100/100|[from] Parting Shot
+|move|p2a: Voltorb|Volt Switch|p1a: Still An Egg
+|-supereffective|p1a: Still An Egg
+|-crit|p1a: Still An Egg
+|-damage|p1a: Still An Egg|22/100
+|
+|t:|1711934677
+|switch|p2a: Tinkatink|Tinkatink, L5, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1711934686
+|move|p2a: Tinkatink|Draining Kiss|p1a: Still An Egg
+|-supereffective|p1a: Still An Egg
+|-damage|p1a: Still An Egg|0 fnt
+|faint|p1a: Still An Egg
+|
+|upkeep
+|
+|t:|1711934690
+|switch|p1a: May Earthquake|Diglett-Alola, L5, F|42/100
+|turn|5
+|
+|t:|1711934701
+|-terastallize|p2a: Tinkatink|Fairy
+|move|p1a: May Earthquake|Earthquake|p2a: Tinkatink
+|-damage|p2a: Tinkatink|60/100
+|move|p2a: Tinkatink|Stealth Rock|p1a: May Earthquake
+|-sidestart|p1: Alzaraf|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1711934707
+|move|p1a: May Earthquake|Iron Head|p2a: Tinkatink
+|-supereffective|p2a: Tinkatink
+|-damage|p2a: Tinkatink|0 fnt
+|faint|p2a: Tinkatink
+|
+|upkeep
+|
+|t:|1711934712
+|switch|p2a: Voltorb|Voltorb-Hisui, L5, shiny|72/100
+|turn|7
+|
+|t:|1711934722
+|switch|p1a: Mini-Incin|Litten, L5, F|67/100
+|-damage|p1a: Mini-Incin|43/100|[from] Stealth Rock
+|-ability|p1a: Mini-Incin|Intimidate|boost
+|-unboost|p2a: Voltorb|atk|1
+|move|p2a: Voltorb|Giga Drain|p1a: Mini-Incin
+|-resisted|p1a: Mini-Incin
+|-damage|p1a: Mini-Incin|15/100
+|-heal|p2a: Voltorb|86/100|[from] drain|[of] p1a: Mini-Incin
+|
+|upkeep
+|turn|8
+|
+|t:|1711934733
+|move|p1a: Mini-Incin|Flare Blitz|p2a: Voltorb
+|-supereffective|p2a: Voltorb
+|-damage|p2a: Voltorb|0 fnt
+|faint|p2a: Voltorb
+|-damage|p1a: Mini-Incin|0 fnt|[from] Recoil
+|faint|p1a: Mini-Incin
+|
+|upkeep
+|
+|t:|1711934750
+|switch|p2a: Larvesta|Larvesta, L5, F, shiny|100/100
+|switch|p1a: Gotta Go Fast|Buizel, L5, M|100/100
+|-damage|p1a: Gotta Go Fast|91/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1711934758
+|move|p1a: Gotta Go Fast|Waterfall|p2a: Larvesta
+|-damage|p2a: Larvesta|50/100
+|replace|p2a: Zorua|Zorua-Hisui, L5, F, shiny
+|-end|p2a: Zorua|Illusion
+|cant|p2a: Zorua|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1711934785
+|switch|p2a: Larvesta|Larvesta, L5, F, shiny|100/100
+|move|p1a: Gotta Go Fast|Waterfall|p2a: Larvesta
+|-supereffective|p2a: Larvesta
+|-damage|p2a: Larvesta|40/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711934796
+|move|p1a: Gotta Go Fast|Waterfall|p2a: Larvesta
+|-supereffective|p2a: Larvesta
+|-damage|p2a: Larvesta|0 fnt
+|faint|p2a: Larvesta
+|
+|upkeep
+|inactive|organically has 120 seconds left.
+|
+|t:|1711934808
+|switch|p2a: Stunky|Stunky, L5, F, shiny|100/100
+|turn|12
+|
+|t:|1711934814
+|move|p2a: Stunky|Gunk Shot|p1a: Gotta Go Fast
+|-damage|p1a: Gotta Go Fast|19/100
+|-status|p1a: Gotta Go Fast|psn
+|move|p1a: Gotta Go Fast|Waterfall|p2a: Stunky
+|-damage|p2a: Stunky|57/100
+|
+|-damage|p1a: Gotta Go Fast|10/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711934828
+|switch|p2a: Mienfoo|Mienfoo, L5, M, shiny|100/100
+|move|p1a: Gotta Go Fast|Waterfall|p2a: Mienfoo
+|-damage|p2a: Mienfoo|58/100
+|
+|-damage|p1a: Gotta Go Fast|0 fnt|[from] psn
+|faint|p1a: Gotta Go Fast
+|upkeep
+|
+|t:|1711934837
+|switch|p1a: No Hammer :(|Tinkatink, L5, F|100/100
+|-damage|p1a: No Hammer :(|90/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1711934852
+|move|p1a: No Hammer :(|Dark Pulse|p2a: Mienfoo
+|-resisted|p2a: Mienfoo
+|-damage|p2a: Mienfoo|43/100
+|move|p2a: Mienfoo|Taunt|p1a: No Hammer :(
+|-start|p1a: No Hammer :(|move: Taunt
+|
+|upkeep
+|turn|15
+|
+|t:|1711934865
+|switch|p1a: May Earthquake|Diglett-Alola, L5, F|42/100
+|-damage|p1a: May Earthquake|36/100|[from] Stealth Rock
+|switch|p2a: Stunky|Stunky, L5, F, shiny|57/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711934871
+|move|p2a: Stunky|Sucker Punch|p1a: May Earthquake
+|-damage|p1a: May Earthquake|0 fnt
+|-ability|p1a: May Earthquake|Tangling Hair
+|-unboost|p2a: Stunky|spe|1
+|faint|p1a: May Earthquake
+|
+|upkeep
+|
+|t:|1711934877
+|switch|p1a: No Hammer :(|Tinkatink, L5, F|100/100
+|-damage|p1a: No Hammer :(|96/100|[from] Stealth Rock
+|-ability|p1a: No Hammer :(|Mold Breaker
+|turn|17
+|
+|t:|1711934891
+|move|p2a: Stunky|Sucker Punch|p1a: No Hammer :(
+|-resisted|p1a: No Hammer :(
+|-damage|p1a: No Hammer :(|81/100
+|move|p1a: No Hammer :(|Play Rough|p2a: Stunky
+|-damage|p2a: Stunky|5/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711934899
+|move|p2a: Stunky|Temper Flare|p1a: No Hammer :(
+|-supereffective|p1a: No Hammer :(
+|-damage|p1a: No Hammer :(|5/100
+|move|p1a: No Hammer :(|Play Rough|p2a: Stunky
+|-damage|p2a: Stunky|0 fnt
+|-damage|p1a: No Hammer :(|0 fnt|[from] ability: Aftermath|[of] p2a: Stunky
+|faint|p2a: Stunky
+|faint|p1a: No Hammer :(
+|
+|upkeep
+|
+|t:|1711934908
+|switch|p2a: Mienfoo|Mienfoo, L5, M, shiny|50/100
+|switch|p1a: Who Am I?|Zorua-Hisui, L5, M|90/100
+|-damage|p1a: Who Am I?|80/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1711934923
+|move|p1a: Who Am I?|Sludge Bomb|p2a: Mienfoo
+|-resisted|p2a: Mienfoo
+|-crit|p2a: Mienfoo
+|-damage|p2a: Mienfoo|15/100
+|replace|p2a: Zorua|Zorua-Hisui, L5, F, shiny
+|-end|p2a: Zorua|Illusion
+|move|p2a: Zorua|Will-O-Wisp|p1a: Who Am I?
+|-status|p1a: Who Am I?|brn
+|
+|-damage|p1a: Who Am I?|75/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1711934932
+|move|p1a: Who Am I?|Sludge Bomb|p2a: Zorua
+|-resisted|p2a: Zorua
+|-damage|p2a: Zorua|0 fnt
+|faint|p2a: Zorua
+|
+|-damage|p1a: Who Am I?|70/100 brn|[from] brn
+|upkeep
+|c|☆organically|scarf?
+|
+|t:|1711934940
+|switch|p2a: Mienfoo|Mienfoo, L5, M, shiny|77/100
+|turn|21
+|
+|t:|1711934950
+|move|p1a: Who Am I?|Sludge Bomb|p2a: Mienfoo
+|-damage|p2a: Mienfoo|39/100
+|-status|p2a: Mienfoo|psn
+|move|p2a: Mienfoo|Knock Off|p1a: Who Am I?
+|-supereffective|p1a: Who Am I?
+|-damage|p1a: Who Am I?|0 fnt
+|-enditem|p1a: Who Am I?|Choice Scarf|[from] move: Knock Off|[of] p2a: Mienfoo
+|faint|p1a: Who Am I?
+|
+|win|organically
+|raw|Alzaraf's rating: 1101 &rarr; <strong>1082</strong><br />(-19 for losing)
+|raw|organically's rating: 1181 &rarr; <strong>1200</strong><br />(+19 for winning)
+|c|☆organically|gg
+|l|☆organically
+|player|p2|
+|l|☆Alzaraf
+|player|p1|

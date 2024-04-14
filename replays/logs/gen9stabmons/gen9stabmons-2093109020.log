@@ -1,0 +1,300 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] STABmons is currently suspecting Gouging Fire! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/stabmons-suspect-4-gouging-fire-i-dont-want-to-set-the-world-on-fire.3739099/">suspect thread</a>.</strong></div>
+|j|☆cgray7138
+|j|☆moongo
+|t:|1711913983
+|gametype|singles
+|player|p1|cgray7138|skyla|1178
+|player|p2|moongo|pokemonranger|1459
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Kingdra, F|
+|poke|p1|Overqwil, F|
+|poke|p1|Raging Bolt|
+|poke|p1|Politoed, M|
+|poke|p1|Regigigas|
+|poke|p2|Great Tusk|
+|poke|p2|Latios, M|
+|poke|p2|Kleavor, F|
+|poke|p2|Mimikyu, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Ogerpon-Wellspring, F|
+|teampreview
+|
+|t:|1711914002
+|start
+|switch|p1a: Politoed|Politoed, M, shiny|100/100
+|switch|p2a: Kleavor|Kleavor, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|
+|t:|1711914009
+|move|p2a: Kleavor|Sticky Web|p1a: Politoed
+|-sidestart|p1: cgray7138|move: Sticky Web
+|move|p1a: Politoed|Flip Turn|p2a: Kleavor
+|-supereffective|p2a: Kleavor
+|-damage|p2a: Kleavor|44/100
+|
+|t:|1711914012
+|switch|p1a: Pelipper|Pelipper, M, shiny|100/100|[from] Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711914019
+|move|p2a: Kleavor|Stone Axe|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-sidestart|p1: cgray7138|move: Stealth Rock
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711914026
+|switch|p1a: Regigigas|Regigigas, shiny|100/100
+|-activate|p1a: Regigigas|move: Sticky Web
+|-unboost|p1a: Regigigas|spe|1
+|-damage|p1a: Regigigas|88/100|[from] Stealth Rock
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|3
+|
+|t:|1711914032
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|move|p1a: Regigigas|Tidy Up|p1a: Regigigas
+|-sideend|p1: cgray7138|Stealth Rock
+|-sideend|p1: cgray7138|Sticky Web
+|-activate|p1a: Regigigas|move: Tidy Up
+|-boost|p1a: Regigigas|atk|1
+|-boost|p1a: Regigigas|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711914045
+|move|p2a: Great Tusk|Close Combat|p1a: Regigigas
+|-supereffective|p1a: Regigigas
+|-damage|p1a: Regigigas|0 fnt
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|faint|p1a: Regigigas
+|-end|p1a: Regigigas|Slow Start|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711914047
+|switch|p1a: Kingdra|Kingdra, F, shiny|100/100
+|turn|5
+|j| 6 eevee
+|
+|t:|1711914073
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|switch|p2a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p1a: Kingdra|Dragon Dance|p1a: Kingdra
+|-boost|p1a: Kingdra|atk|1
+|-boost|p1a: Kingdra|spe|1
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1711914079
+|move|p1a: Kingdra|Dragon Darts|p2a: Ogerpon
+|-damage|p2a: Ogerpon|38/100
+|-anim|p1a: Kingdra|Dragon Darts|p2a: Ogerpon
+|-damage|p2a: Ogerpon|0 fnt
+|faint|p2a: Ogerpon
+|-damage|p1a: Kingdra|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711914082
+|switch|p2a: Great Tusk|Great Tusk|100/100
+|turn|7
+|
+|t:|1711914085
+|move|p2a: Great Tusk|Close Combat|p1a: Kingdra
+|-damage|p1a: Kingdra|32/100
+|-unboost|p2a: Great Tusk|def|1
+|-unboost|p2a: Great Tusk|spd|1
+|move|p1a: Kingdra|Surging Strikes|p2a: Great Tusk
+|-supereffective|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|9/100
+|-supereffective|p2a: Great Tusk
+|-crit|p2a: Great Tusk
+|-damage|p2a: Great Tusk|0 fnt
+|faint|p2a: Great Tusk
+|-end|p2a: Great Tusk|Protosynthesis|[silent]
+|-hitcount|p2: Great Tusk|2
+|-damage|p1a: Kingdra|22/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711914091
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|8
+|
+|t:|1711914099
+|move|p1a: Kingdra|Jet Punch|p2a: Bisharp
+|-damage|p2a: Bisharp|33/100
+|-damage|p1a: Kingdra|12/100|[from] item: Life Orb
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|
+|upkeep
+|turn|9
+|
+|t:|1711914106
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Kingdra|Jet Punch|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|64/100
+|-damage|p1a: Kingdra|2/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1711914118
+|switch|p2a: Bisharp|Bisharp, M|33/100
+|move|p1a: Kingdra|Dragon Darts|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|4/100
+|-anim|p1a: Kingdra|Dragon Darts|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|-damage|p1a: Kingdra|0 fnt|[from] item: Life Orb
+|faint|p1a: Kingdra
+|
+|upkeep
+|
+|t:|1711914133
+|switch|p1a: Politoed|Politoed, M, shiny|100/100
+|switch|p2a: Kleavor|Kleavor, F|44/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|11
+|
+|t:|1711914149
+|switch|p1a: Overqwil|Overqwil, F, shiny|100/100
+|move|p2a: Kleavor|Sticky Web|p1a: Overqwil
+|-sidestart|p1: cgray7138|move: Sticky Web
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1711914154
+|-singleturn|p2a: Kleavor|move: Beak Blast
+|move|p1a: Overqwil|Wicked Blow|p2a: Kleavor
+|-crit|p2a: Kleavor
+|-damage|p2a: Kleavor|0 fnt
+|-status|p1a: Overqwil|brn
+|faint|p2a: Kleavor
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Overqwil|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1711914160
+|switch|p2a: Mimikyu|Mimikyu, M, shiny|100/100
+|turn|13
+|
+|t:|1711914165
+|move|p1a: Overqwil|Mortal Spin|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|100/100
+|-status|p2a: Mimikyu|psn
+|-sideend|p1: cgray7138|Sticky Web|[from] move: Mortal Spin|[of] p1a: Overqwil
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M, shiny
+|-damage|p2a: Mimikyu|88/100 psn|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Overqwil|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Mimikyu|76/100 psn|[from] psn
+|-damage|p1a: Overqwil|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711914176
+|move|p1a: Overqwil|Wicked Blow|p2a: Mimikyu
+|-crit|p2a: Mimikyu
+|-damage|p2a: Mimikyu|30/100 psn
+|move|p2a: Mimikyu|Spirit Break|p1a: Overqwil
+|-damage|p1a: Overqwil|28/100 brn
+|-unboost|p1a: Overqwil|spa|1
+|-heal|p2a: Mimikyu|40/100 psn|[from] item: Shell Bell|[of] p1a: Overqwil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Overqwil|34/100 brn|[from] item: Leftovers
+|-damage|p2a: Mimikyu|28/100 psn|[from] psn
+|-damage|p1a: Overqwil|28/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711914183
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Overqwil
+|-resisted|p1a: Overqwil
+|-damage|p1a: Overqwil|11/100 brn
+|-heal|p2a: Mimikyu|30/100 psn|[from] item: Shell Bell|[of] p1a: Overqwil
+|move|p1a: Overqwil|Wicked Blow|p2a: Mimikyu
+|-crit|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|-weather|none
+|-heal|p1a: Overqwil|17/100 brn|[from] item: Leftovers
+|-damage|p1a: Overqwil|11/100 brn|[from] brn
+|upkeep
+|
+|t:|1711914186
+|switch|p2a: Latios|Latios, M|64/100
+|turn|16
+|
+|t:|1711914195
+|switch|p1a: Politoed|Politoed, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Latios|Calm Mind|p2a: Latios
+|-boost|p2a: Latios|spa|1
+|-boost|p2a: Latios|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1711914201
+|-terastallize|p2a: Latios|Dragon
+|move|p2a: Latios|Clanging Scales|p1a: Politoed
+|-damage|p1a: Politoed|1/100
+|-enditem|p1a: Politoed|Sitrus Berry|[eat]
+|-heal|p1a: Politoed|26/100|[from] item: Sitrus Berry
+|-unboost|p2a: Latios|def|1
+|-damage|p2a: Latios|54/100|[from] item: Life Orb
+|move|p1a: Politoed|Encore|p2a: Latios
+|-start|p2a: Latios|Encore
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|-message|moongo forfeited.
+|
+|win|cgray7138
+|raw|cgray7138's rating: 1178 &rarr; <strong>1220</strong><br />(+42 for winning)
+|raw|moongo's rating: 1459 &rarr; <strong>1426</strong><br />(-33 for losing)
+|l|☆moongo
+|player|p2|

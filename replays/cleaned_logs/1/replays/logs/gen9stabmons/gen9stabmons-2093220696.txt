@@ -1,0 +1,36 @@
+p1: Switched to Rhydon
+p2: Switched to Noivern
+Turn 1:
+p2: Noivern used Draco Meteor on Rhydon
+p2: Switched to Gholdengo
+p1: Rhydon used Stone Axe on Gholdengo
+p1: Switched to Palafin
+Turn 2:
+p1: Palafin used Surging Strikes on Gholdengo
+p1: Switched to Rhydon
+p2: Gholdengo used Astral Barrage on Rhydon
+p1: Rhydon fainted
+p2: Switched to Noivern
+p1: Switched to Raichu
+Turn 3:
+p1: Raichu used Fake Out on Noivern
+p1: Switched to Palafin-Hero
+p2: Noivern can't move
+Turn 4:
+p1: Palafin-Hero used Jet Punch on Noivern
+p1: Switched to Raichu
+p2: Noivern used Draco Meteor on Raichu
+p1: Raichu fainted
+p2: Switched to Snorlax
+p1: Switched to Palafin-Hero
+Turn 5:
+p2: Snorlax used Fake Out on Palafin-Hero
+p2: Switched to Gholdengo
+p2: Gholdengo fainted
+p1: Palafin-Hero can't move
+p2: Switched to Snorlax
+Turn 6:
+p1: Palafin-Hero used Surging Strikes on Snorlax
+p2: Snorlax fainted
+p2: Switched to Noivern
+p2: Noivern fainted

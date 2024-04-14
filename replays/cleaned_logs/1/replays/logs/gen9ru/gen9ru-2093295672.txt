@@ -1,0 +1,90 @@
+p1: Switched to Sableye
+p2: Switched to Okidogi
+Turn 1:
+p2: Switched to Entei
+p1: Sableye used Will-O-Wisp on Entei
+Turn 2:
+p1: Sableye used Thunder Wave on Entei
+p2: Entei used Sacred Fire on Sableye
+p1: Sableye fainted
+p1: Switched to Swampert
+Turn 3:
+p2: Switched to Thundurus-Therian
+p1: Switched to Lycanroc-Dusk
+Turn 4:
+p1: Lycanroc-Dusk used Accelerock on Thundurus-Therian
+p2: Thundurus-Therian used Thunderbolt on Lycanroc-Dusk
+p1: Lycanroc-Dusk fainted
+p1: Switched to Honchkrow
+Turn 5:
+p2: Switched to Entei
+p1: Switched to Jolteon
+Turn 6:
+p1: Jolteon used Volt Switch on Entei
+p1: Switched to Swampert
+p2: Entei can't move
+Turn 7:
+p2: Entei used Sacred Fire on Swampert
+p1: Swampert used Stealth Rock on Entei
+Turn 8:
+p2: Entei can't move
+p1: Swampert used Earthquake on Entei
+Turn 9:
+p2: Entei used Sacred Fire on Swampert
+p1: Swampert used Earthquake on Entei
+p2: Entei fainted
+p2: Switched to Okidogi
+Turn 10:
+p2: Okidogi used Bulk Up on Okidogi
+p1: Swampert used Earthquake on Okidogi
+Turn 11:
+p2: Okidogi used Bulk Up on Okidogi
+p1: Swampert used Roar on Okidogi
+Turn 12:
+p2: p2a: Torterra used Bullet Seed on Swampert
+p1: Swampert fainted
+p1: Switched to Honchkrow
+Turn 13:
+p2: Switched to Thundurus-Therian
+p1: Honchkrow used Brave Bird on Thundurus-Therian
+p2: Thundurus-Therian fainted
+p2: Switched to Azelf
+Turn 14:
+p1: Honchkrow failed to use Sucker Punch
+p2: Azelf used Trick on Honchkrow
+Turn 15:
+p2: Azelf used Dazzling Gleam on Honchkrow
+p1: Honchkrow used Brave Bird on Azelf
+p2: Azelf fainted
+p1: Honchkrow fainted
+p2: Switched to Okidogi
+p1: Switched to Jolteon
+Turn 16:
+p1: Jolteon used Volt Switch on Okidogi
+p1: Switched to Hitmontop
+p2: Okidogi used Drain Punch on Hitmontop
+Turn 17:
+p1: Switched to Jolteon
+p2: Okidogi used Knock Off on Jolteon
+Turn 18:
+p1: Jolteon used Volt Switch on Okidogi
+p1: Switched to Hitmontop
+p2: Okidogi used Poison Jab on Hitmontop
+Turn 19:
+p2: Switched to Torterra
+p1: Hitmontop used Close Combat on Torterra
+Turn 20:
+p2: Torterra used Bullet Seed on Hitmontop
+p1: Hitmontop fainted
+p1: Switched to Jolteon
+Turn 21:
+p1: Jolteon used Tera Blast on Torterra
+p2: Torterra fainted
+p2: Switched to Okidogi
+Turn 22:
+p1: Jolteon used Tera Blast on Okidogi
+p2: Okidogi fainted
+p2: Switched to Salamence
+Turn 23:
+p1: Jolteon used Tera Blast on Salamence
+p2: Salamence fainted

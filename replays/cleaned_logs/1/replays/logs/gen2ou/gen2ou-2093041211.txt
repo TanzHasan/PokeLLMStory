@@ -1,0 +1,85 @@
+p1: Switched to Snorlax
+p2: Switched to Exeggutor
+Turn 1:
+p2: Exeggutor used Sleep Powder on Snorlax
+p1: Snorlax can't move
+Turn 2:
+p2: Switched to Cloyster
+p1: Switched to Tyranitar
+Turn 3:
+p2: Cloyster used Spikes on Tyranitar
+p1: Tyranitar used Rock Slide on Cloyster
+Turn 4:
+p2: Switched to Steelix
+p1: Switched to Cloyster
+Turn 5:
+p2: Switched to Gengar
+p1: Cloyster used Spikes on Gengar
+Turn 6:
+p1: Switched to Nidoking
+p2: Gengar used Dynamic Punch on Nidoking
+Turn 7:
+p2: Switched to Zapdos
+p1: Nidoking used Earthquake on Zapdos
+Turn 8:
+p2: Zapdos used Hidden Power on Nidoking
+p1: Nidoking used Ice Beam on Zapdos
+Turn 9:
+p2: Zapdos used Hidden Power on Nidoking
+p1: Nidoking used Lovely Kiss on Zapdos
+Turn 10:
+p2: Switched to Snorlax
+p1: Switched to Gengar
+Turn 11:
+p1: Gengar used Dynamic Punch on Snorlax
+p2: Snorlax used Earthquake on Gengar
+Turn 12:
+p2: Switched to Exeggutor
+p1: Gengar used Thunder on Exeggutor
+Turn 13:
+p1: Switched to Snorlax
+p2: Exeggutor can't move
+Turn 14:
+p1: Switched to Tyranitar
+p2: Exeggutor can't move
+Turn 15:
+p1: Tyranitar used Crunch on Exeggutor
+p2: Exeggutor used Giga Drain on Tyranitar
+Turn 16:
+p2: Switched to Steelix
+p1: Tyranitar used Crunch on Steelix
+Turn 17:
+p1: Switched to Zapdos
+p2: Steelix used Earthquake on Zapdos
+Turn 18:
+p1: Zapdos used Hidden Power on Steelix
+p2: Steelix used Curse on Steelix
+Turn 19:
+p2: Steelix used Earthquake on Zapdos
+p1: Zapdos used Whirlwind on Steelix
+Turn 20:
+p2: Gengar used Ice Punch on Zapdos
+p1: Zapdos used Thunder on Gengar
+Turn 21:
+p2: Switched to Exeggutor
+p1: Zapdos used Thunderbolt on Exeggutor
+Turn 22:
+p1: Switched to Cloyster
+p2: Exeggutor used Explosion on Cloyster
+p2: Exeggutor fainted
+p2: Switched to Cloyster
+Turn 23:
+p2: Cloyster used Surf on Cloyster
+p1: Cloyster fainted
+p1: Switched to Zapdos
+Turn 24:
+p1: Zapdos used Thunderbolt on Cloyster
+p2: Cloyster fainted
+p2: Switched to Steelix
+Turn 25:
+p1: Zapdos used Hidden Power on Steelix
+p2: Steelix fainted
+p2: Switched to Snorlax
+Turn 26:
+p1: Zapdos used Thunder on Snorlax
+p2: Snorlax fainted

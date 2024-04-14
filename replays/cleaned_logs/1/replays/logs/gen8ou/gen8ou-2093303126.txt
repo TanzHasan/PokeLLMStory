@@ -1,0 +1,115 @@
+p1: Switched to Weavile
+p2: Switched to Ribombee
+Turn 1:
+p2: Switched to Bisharp
+p1: Weavile used Triple Axel on Bisharp
+Turn 2:
+p1: Weavile used Triple Axel on Bisharp
+p2: Bisharp fainted
+p2: Switched to Blacephalon
+Turn 3:
+p1: Switched to Toxapex
+p2: Blacephalon used Shadow Ball on Toxapex
+p1: Switched to Weavile
+Turn 4:
+p1: Weavile used Triple Axel on Blacephalon
+p2: Blacephalon used Shadow Ball on Weavile
+Turn 5:
+p1: Weavile used Triple Axel on Blacephalon
+p2: Blacephalon fainted
+p2: Switched to Azumarill
+Turn 6:
+p1: Weavile used Triple Axel on Azumarill
+p2: Azumarill used Belly Drum on Azumarill
+Turn 7:
+p1: Switched to Zapdos
+p2: Azumarill used Knock Off on Zapdos
+p1: Zapdos fainted
+p1: Switched to Scizor
+Turn 8:
+p2: Switched to Excadrill
+p1: Scizor used Bullet Punch on Excadrill
+Turn 9:
+p2: Excadrill used Stealth Rock on Scizor
+p1: Scizor used U-turn on Excadrill
+p1: Switched to Landorus-Therian
+Turn 10:
+p2: Switched to Ribombee
+p1: Landorus-Therian used Defog on Ribombee
+Turn 11:
+p2: Ribombee used Sticky Web on Landorus-Therian
+p1: Landorus-Therian used Toxic on Ribombee
+Turn 12:
+p2: Ribombee used Moonblast on Landorus-Therian
+p1: Landorus-Therian used Earthquake on Ribombee
+Turn 13:
+p2: Ribombee used Moonblast on Landorus-Therian
+p1: Landorus-Therian used Defog on Ribombee
+Turn 14:
+p2: Ribombee used Moonblast on Landorus-Therian
+p1: Landorus-Therian used Defog on Ribombee
+p2: Ribombee fainted
+p2: Switched to Azumarill
+Turn 15:
+p1: Switched to Toxapex
+p2: Azumarill used Aqua Jet on Toxapex
+Turn 16:
+p2: Azumarill used Knock Off on Toxapex
+p1: Toxapex used Scald on Azumarill
+Turn 17:
+p2: Azumarill used Knock Off on Toxapex
+p1: Toxapex used Recover on Toxapex
+Turn 18:
+p2: Switched to Excadrill
+p1: Toxapex used Scald on Excadrill
+Turn 19:
+p1: Switched to Landorus-Therian
+p2: Excadrill used Stealth Rock on Landorus-Therian
+Turn 20:
+p2: Excadrill used Rock Tomb on Landorus-Therian
+p1: Landorus-Therian used Defog on Excadrill
+Turn 21:
+p2: Excadrill used Stealth Rock on Landorus-Therian
+p1: Landorus-Therian used Defog on Excadrill
+Turn 22:
+p2: Excadrill used Stealth Rock on Landorus-Therian
+p1: Landorus-Therian used Defog on Excadrill
+Turn 23:
+p2: Excadrill used Rock Tomb on Landorus-Therian
+p1: Landorus-Therian used Defog on Excadrill
+Turn 24:
+p2: Excadrill used Rock Tomb on Landorus-Therian
+p1: Landorus-Therian used Defog on Excadrill
+Turn 25:
+p2: Excadrill used Rock Tomb on Landorus-Therian
+p1: Landorus-Therian used U-turn on Excadrill
+p1: Switched to Weavile
+Turn 26:
+p1: Weavile used Ice Shard on Excadrill
+p2: Excadrill fainted
+p2: Switched to Kommo-o
+Turn 27:
+p1: Weavile used Ice Shard on Kommo-o
+p2: Kommo-o used Flamethrower on Weavile
+p1: Weavile fainted
+p1: Switched to Slowking-Galar
+Turn 28:
+p2: Switched to Azumarill
+p1: Slowking-Galar used Future Sight on Azumarill
+Turn 29:
+p1: Switched to Toxapex
+p2: Azumarill used Knock Off on Toxapex
+Turn 30:
+p1: Switched to Landorus-Therian
+p2: Azumarill used Knock Off on Landorus-Therian
+p1: Landorus-Therian fainted
+p2: Azumarill fainted
+p2: Switched to Kommo-o
+p1: Switched to Slowking-Galar
+Turn 31:
+p2: Kommo-o used Clangorous Soul on Kommo-o
+p1: Slowking-Galar used Future Sight on Kommo-o
+Turn 32:
+p2: Kommo-o used Clanging Scales on Slowking-Galar
+p1: Slowking-Galar used Earthquake on Kommo-o
+p2: Kommo-o fainted

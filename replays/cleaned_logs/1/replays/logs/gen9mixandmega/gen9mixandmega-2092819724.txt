@@ -1,0 +1,38 @@
+p1: Switched to Clodsire
+p2: Switched to Kyurem
+Turn 1:
+p2: Kyurem used Weather Ball on Clodsire
+p1: Clodsire used Earthquake on Kyurem
+Turn 2:
+p1: Switched to Blissey
+p2: Kyurem used Weather Ball on Blissey
+Turn 3:
+p2: Kyurem used Weather Ball on Blissey
+p1: Blissey used Soft-Boiled on Blissey
+Turn 4:
+p2: Switched to Ceruledge
+p1: Blissey used Calm Mind on Blissey
+Turn 5:
+p2: Ceruledge used Bitter Blade on Blissey
+p1: Blissey used Alluring Voice on Ceruledge
+Turn 6:
+p2: Ceruledge used Bitter Blade on Blissey
+p1: Blissey used Soft-Boiled on Blissey
+Turn 7:
+p2: Ceruledge used Bulk Up on Ceruledge
+p1: Blissey used Soft-Boiled on Blissey
+Turn 8:
+p1: Switched to Clodsire
+p2: Ceruledge used Bitter Blade on Clodsire
+p1: Clodsire fainted
+p1: Switched to Palossand
+Turn 9:
+p1: Palossand used Destiny Bond on Palossand
+p2: Ceruledge used Taunt on Palossand
+Turn 10:
+p2: Ceruledge used Bulk Up on Ceruledge
+p1: Palossand used Poltergeist on Ceruledge
+Turn 11:
+p1: Switched to Latios
+p2: Ceruledge used Throat Chop on Latios
+p1: Latios fainted

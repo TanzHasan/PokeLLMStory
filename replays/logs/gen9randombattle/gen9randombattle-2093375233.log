@@ -1,0 +1,117 @@
+|j|☆yehmen
+|j|☆Jayday897
+|t:|1711946817
+|gametype|singles
+|player|p1|yehmen|265|1597
+|player|p2|Jayday897|giovanni|1635
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946817
+|start
+|switch|p1a: Greedent|Greedent, L87, F|351/351
+|switch|p2a: Trevenant|Trevenant, L88, F|293/293
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yehmen)
+|
+|t:|1711946831
+|move|p2a: Trevenant|Toxic|p1a: Greedent
+|-status|p1a: Greedent|tox
+|move|p1a: Greedent|Swords Dance|p1a: Greedent
+|-boost|p1a: Greedent|atk|2
+|
+|-damage|p1a: Greedent|330/351 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1711946844
+|move|p2a: Trevenant|Protect|p2a: Trevenant
+|-singleturn|p2a: Trevenant|Protect
+|move|p1a: Greedent|Swords Dance|p1a: Greedent
+|-boost|p1a: Greedent|atk|2
+|
+|-damage|p1a: Greedent|288/351 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711946864
+|switch|p2a: Wo-Chien|Wo-Chien, L83|277/277
+|-ability|p2a: Wo-Chien|Tablets of Ruin
+|move|p1a: Greedent|Knock Off|p2a: Wo-Chien
+|-resisted|p2a: Wo-Chien
+|-damage|p2a: Wo-Chien|208/277
+|-enditem|p2a: Wo-Chien|Leftovers|[from] move: Knock Off|[of] p1a: Greedent
+|
+|-damage|p1a: Greedent|225/351 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711946881
+|move|p2a: Wo-Chien|Knock Off|p1a: Greedent
+|-damage|p1a: Greedent|149/351 tox
+|-enditem|p1a: Greedent|Sitrus Berry|[from] move: Knock Off|[of] p2a: Wo-Chien
+|move|p1a: Greedent|Swords Dance|p1a: Greedent
+|-boost|p1a: Greedent|atk|2
+|
+|-damage|p1a: Greedent|65/351 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711946891
+|move|p2a: Wo-Chien|Protect|p2a: Wo-Chien
+|-singleturn|p2a: Wo-Chien|Protect
+|move|p1a: Greedent|Body Slam|p2a: Wo-Chien
+|-activate|p2a: Wo-Chien|move: Protect
+|
+|-damage|p1a: Greedent|0 fnt|[from] psn
+|faint|p1a: Greedent
+|upkeep
+|
+|t:|1711946895
+|switch|p1a: Iron Bundle|Iron Bundle, L77|213/213
+|turn|6
+|
+|t:|1711946911
+|switch|p2a: Sandslash|Sandslash-Alola, L88, M|275/275
+|move|p1a: Iron Bundle|Freeze-Dry|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-damage|p2a: Sandslash|260/275
+|
+|upkeep
+|turn|7
+|
+|t:|1711946924
+|-end|p1a: Iron Bundle|Quark Drive|[silent]
+|switch|p1a: Gallade|Gallade, L82, M|246/246
+|move|p2a: Sandslash|Rapid Spin|p1a: Gallade
+|-damage|p1a: Gallade|196/246
+|-boost|p2a: Sandslash|spe|1
+|
+|upkeep
+|turn|8
+|inactive|Jayday897 has 120 seconds left.
+|
+|t:|1711946952
+|-terastallize|p2a: Sandslash|Flying
+|move|p2a: Sandslash|Triple Axel|p1a: Gallade
+|-damage|p1a: Gallade|163/246
+|-damage|p1a: Gallade|97/246
+|-damage|p1a: Gallade|0 fnt
+|faint|p1a: Gallade
+|-hitcount|p1: Gallade|3
+|
+|upkeep
+|-message|yehmen forfeited.
+|
+|win|Jayday897
+|raw|yehmen's rating: 1597 &rarr; <strong>1579</strong><br />(-18 for losing)
+|raw|Jayday897's rating: 1635 &rarr; <strong>1653</strong><br />(+18 for winning)
+|l|☆yehmen
+|player|p1|

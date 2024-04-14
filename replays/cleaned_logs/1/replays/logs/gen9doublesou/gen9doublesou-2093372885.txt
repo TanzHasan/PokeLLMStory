@@ -1,0 +1,64 @@
+p1: Switched to Blastoise
+p1: Switched to Oranguru
+p2: Switched to Maushold
+p2: Switched to Terrakion
+Turn 1:
+p2: Maushold used Beat Up on Terrakion
+p2: Terrakion used Rock Slide on Blastoise
+p1: Oranguru fainted
+p1: Blastoise used Shell Smash on Blastoise
+p1: Switched to Exeggutor
+Turn 2:
+p1: Blastoise used Ice Beam on Terrakion
+p2: Maushold used Population Bomb on Blastoise
+p2: Terrakion used Sacred Sword on Blastoise
+p1: Blastoise fainted
+p1: Exeggutor used Leech Seed on Maushold
+p1: Switched to Incineroar
+Turn 3:
+p2: Terrakion used Protect on Terrakion
+p1: Incineroar used Fake Out on Terrakion
+p2: Maushold used Tidy Up on Maushold
+p1: Exeggutor used Giga Drain on Maushold
+Turn 4:
+p2: Maushold used Population Bomb on Exeggutor
+p2: Terrakion used Rock Slide on Exeggutor
+p1: Incineroar fainted
+p1: Exeggutor can't move
+p1: Switched to Torkoal
+Turn 5:
+p1: Exeggutor used Protect on Exeggutor
+p2: Maushold used Population Bomb on Torkoal
+p2: Terrakion used Rock Slide on Exeggutor
+p1: Torkoal fainted
+p1: Switched to Kingambit
+Turn 6:
+p2: Switched to Sylveon
+p1: Kingambit used Sucker Punch on Terrakion
+p2: Terrakion fainted
+p1: Exeggutor used Giga Drain on Sylveon
+p2: Switched to Incineroar
+Turn 7:
+p2: Incineroar used Fake Out on Kingambit
+p1: Exeggutor used Leech Seed on Incineroar
+p2: Sylveon used Calm Mind on Sylveon
+p1: Kingambit can't move
+Turn 8:
+p2: Incineroar used U-turn on Kingambit
+p2: Switched to Mew
+p1: Exeggutor used Leech Seed on Mew
+p2: Sylveon used Hyper Voice on Kingambit
+p1: Kingambit fainted
+Turn 9:
+p2: Mew used Trick on Exeggutor
+p1: Exeggutor used Calm Mind on Exeggutor
+p2: Sylveon used Calm Mind on Sylveon
+Turn 10:
+p2: Mew used Psychic on Exeggutor
+p1: Exeggutor used Calm Mind on Exeggutor
+p2: Sylveon used Hyper Voice on Exeggutor
+Turn 11:
+p2: Switched to Incineroar
+p1: Exeggutor used Calm Mind on Exeggutor
+p2: Sylveon used Hyper Voice on Exeggutor
+p1: Exeggutor fainted

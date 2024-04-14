@@ -1,0 +1,88 @@
+p1: Switched to Iron Treads
+p2: Switched to Skarmory
+Turn 1:
+p2: Switched to Alomomola
+p1: Iron Treads used Stealth Rock on Alomomola
+Turn 2:
+p1: Iron Treads used Earth Power on Alomomola
+p2: Alomomola used Scald on Iron Treads
+Turn 3:
+p1: Iron Treads used Earth Power on Alomomola
+p2: Alomomola used Scald on Iron Treads
+Turn 4:
+p1: Iron Treads used Earth Power on Alomomola
+p2: Alomomola used Flip Turn on Iron Treads
+p1: Iron Treads fainted
+p2: Switched to Skarmory
+p1: Switched to Arceus
+Turn 5:
+p2: Switched to Clodsire
+p1: Arceus used Taunt on Clodsire
+Turn 6:
+p1: Arceus used Shadow Claw on Clodsire
+p2: Clodsire used Poison Jab on Arceus
+Turn 7:
+p1: Arceus used Extreme Speed on Clodsire
+p2: Clodsire used Poison Jab on Arceus
+Turn 8:
+p2: Switched to Tornadus-Therian
+p1: Arceus used Taunt on Tornadus-Therian
+Turn 9:
+p2: Tornadus-Therian used Knock Off on Arceus
+p1: Arceus used Swords Dance on Arceus
+Turn 10:
+p2: Tornadus-Therian used Knock Off on Arceus
+p1: Arceus used Shadow Claw on Tornadus-Therian
+Turn 11:
+p2: Tornadus-Therian used Knock Off on Arceus
+p1: Arceus used Shadow Claw on Tornadus-Therian
+p2: Tornadus-Therian fainted
+p2: Switched to Skarmory
+Turn 12:
+p1: Arceus used Taunt on Skarmory
+p2: Skarmory can't move
+Turn 13:
+p1: Arceus used Shadow Claw on Skarmory
+p1: Arceus fainted
+p2: Skarmory used Brave Bird on p1: Arceus
+p1: Switched to Roaring Moon
+Turn 14:
+p1: Roaring Moon used Knock Off on Skarmory
+p2: Skarmory used Brave Bird on Roaring Moon
+p2: Skarmory fainted
+p2: Switched to Gholdengo
+Turn 15:
+p2: Gholdengo used Make It Rain on Roaring Moon
+p1: Roaring Moon fainted
+p1: Switched to Iron Hands
+Turn 16:
+p2: Gholdengo used Nasty Plot on Gholdengo
+p1: Iron Hands used Ice Punch on Gholdengo
+Turn 17:
+p2: Gholdengo used Shadow Ball on Iron Hands
+p1: Iron Hands used Thunder Punch on Gholdengo
+Turn 18:
+p2: Gholdengo used Shadow Ball on Iron Hands
+p1: Iron Hands used Ice Punch on Gholdengo
+p2: Gholdengo fainted
+p2: Switched to Arceus-Ghost
+Turn 19:
+p2: Arceus-Ghost used Calm Mind on Arceus-Ghost
+p1: Iron Hands used Thunder Punch on Arceus-Ghost
+Turn 20:
+p2: Arceus-Ghost used Recover on Arceus-Ghost
+p1: Iron Hands used Thunder Punch on Arceus-Ghost
+Turn 21:
+p2: Arceus-Ghost used Calm Mind on Arceus-Ghost
+p1: Iron Hands used Thunder Punch on Arceus-Ghost
+Turn 22:
+p2: Arceus-Ghost used Recover on Arceus-Ghost
+p1: Iron Hands used Swords Dance on Iron Hands
+Turn 23:
+p2: Arceus-Ghost used Judgment on Iron Hands
+p1: Iron Hands fainted
+p1: Switched to Baxcalibur
+Turn 24:
+p1: Baxcalibur used Scale Shot on Arceus-Ghost
+p2: Arceus-Ghost used Judgment on Baxcalibur
+Turn 25:

@@ -1,0 +1,37 @@
+p1: Switched to Galvantula
+p2: Switched to Ceruledge
+Turn 1:
+p1: Switched to Garchomp
+p2: Ceruledge used Swords Dance on Ceruledge
+Turn 2:
+p1: Garchomp used Earthquake on Ceruledge
+p2: Ceruledge used Poltergeist on Garchomp
+Turn 3:
+p2: Ceruledge used Bitter Blade on Garchomp
+p1: Garchomp fainted
+p1: Switched to Revavroom
+Turn 4:
+p2: Ceruledge used Close Combat on Revavroom
+p1: Revavroom fainted
+p1: Switched to Gardevoir
+Turn 5:
+p2: Ceruledge used Poltergeist on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Cobalion
+Turn 6:
+p2: Ceruledge used Bitter Blade on Cobalion
+p1: Cobalion used Close Combat on Ceruledge
+p2: Ceruledge fainted
+p2: Switched to Hippowdon
+Turn 7:
+p1: Switched to Galvantula
+p2: Hippowdon used Earthquake on Galvantula
+Turn 8:
+p1: Galvantula used Sticky Web on Hippowdon
+p2: Hippowdon used Earthquake on Galvantula
+p1: Galvantula fainted
+p1: Switched to Cobalion
+Turn 9:
+p1: Cobalion used Close Combat on Hippowdon
+p2: Hippowdon used Earthquake on Cobalion
+p1: Cobalion fainted

@@ -1,0 +1,11 @@
+p1: Switched to Shuckle
+p2: Switched to Medicham
+Turn 1:
+p2: Medicham used Fake Out on Shuckle
+p1: Shuckle can't move
+Turn 2:
+p2: Medicham used Zen Headbutt on Shuckle
+p1: Shuckle can't move
+Turn 3:
+p2: Medicham used High Jump Kick on Shuckle
+p1: Shuckle fainted

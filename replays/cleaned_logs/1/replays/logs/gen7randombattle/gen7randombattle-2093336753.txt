@@ -1,0 +1,92 @@
+p1: Switched to Malamar
+p2: Switched to Gothitelle
+Turn 1:
+p1: Malamar used Knock Off on Gothitelle
+p2: Gothitelle used Psychic on Malamar
+Turn 2:
+p1: Malamar used Knock Off on Gothitelle
+p2: Gothitelle fainted
+p2: Switched to Spiritomb
+Turn 3:
+p1: Malamar used Z-Happy Hour on Malamar
+p2: Spiritomb used Will-O-Wisp on Malamar
+Turn 4:
+p2: Switched to Trevenant
+p1: Malamar used Superpower on Trevenant
+Turn 5:
+p1: Malamar used Psycho Cut on Trevenant
+p2: Trevenant used Rock Slide on Malamar
+Turn 6:
+p1: Malamar used Knock Off on Trevenant
+p2: Trevenant used Horn Leech on Malamar
+Turn 7:
+p1: Malamar used Knock Off on Trevenant
+p2: Trevenant used Shadow Claw on Malamar
+p1: Malamar fainted
+p1: Switched to Beartic
+Turn 8:
+p1: Beartic used Icicle Crash on Trevenant
+p2: Trevenant fainted
+p2: Switched to Pyroar
+Turn 9:
+p2: Pyroar used Fire Blast on Beartic
+p1: Beartic fainted
+p1: Switched to Lapras
+Turn 10:
+p2: Switched to Spiritomb
+p1: Lapras used Hydro Pump on Spiritomb
+Turn 11:
+p1: Lapras used Hydro Pump on Spiritomb
+p2: Spiritomb used Pursuit on Lapras
+Turn 12:
+p2: Spiritomb used Sucker Punch on Lapras
+p1: Lapras used Hydro Pump on Spiritomb
+Turn 13:
+p1: Lapras used Hydro Pump on Spiritomb
+p2: Spiritomb used Will-O-Wisp on Lapras
+Turn 14:
+p2: Switched to Venomoth
+p1: Lapras used Hydro Pump on Venomoth
+Turn 15:
+p2: Venomoth used Savage Spin-Out on Lapras
+p1: Lapras used Hydro Pump on Venomoth
+Turn 16:
+p2: Venomoth used Roost on Venomoth
+p1: Lapras used Hydro Pump on Venomoth
+Turn 17:
+p2: Venomoth used Roost on Venomoth
+p1: Lapras used Hydro Pump on Venomoth
+Turn 18:
+p2: Venomoth used Roost on Venomoth
+p1: Lapras used Freeze-Dry on Venomoth
+Turn 19:
+p2: Venomoth used Roost on Venomoth
+p1: Lapras used Freeze-Dry on Venomoth
+Turn 20:
+p2: Venomoth used Roost on Venomoth
+p1: Lapras used Freeze-Dry on Venomoth
+Turn 21:
+p2: Switched to Toxapex
+p1: Lapras used Freeze-Dry on Toxapex
+Turn 22:
+p1: Lapras used Freeze-Dry on Toxapex
+p2: Toxapex used Recover on Toxapex
+Turn 23:
+p1: Lapras used Freeze-Dry on Toxapex
+p2: Toxapex used Recover on Toxapex
+Turn 24:
+p1: Lapras used Freeze-Dry on Toxapex
+p2: Toxapex used Recover on Toxapex
+Turn 25:
+p2: Switched to Spiritomb
+p1: Lapras used Freeze-Dry on Spiritomb
+Turn 26:
+p1: Lapras used Freeze-Dry on Spiritomb
+p2: Spiritomb used Foul Play on Lapras
+Turn 27:
+p2: Switched to Venomoth
+p1: Lapras used Freeze-Dry on Venomoth
+Turn 28:
+p2: Venomoth can't move
+p1: Lapras used Freeze-Dry on Venomoth
+p2: Venomoth fainted

@@ -1,0 +1,101 @@
+p1: Switched to Tentacruel
+p2: Switched to Yanmega
+Turn 1:
+p2: Yanmega used Protect on Yanmega
+p1: Tentacruel used Toxic Spikes on Yanmega
+Turn 2:
+p2: Switched to Magnezone
+p1: Tentacruel used Surf on Magnezone
+Turn 3:
+p1: Switched to Raichu
+p2: Magnezone used Thunderbolt on Raichu
+p1: Raichu fainted
+p1: Switched to Jirachi
+Turn 4:
+p2: Switched to Gliscor
+p1: Jirachi used Ice Punch on Gliscor
+Turn 5:
+p1: Jirachi used Ice Punch on Gliscor
+p2: Gliscor fainted
+p2: Switched to Snorlax
+Turn 6:
+p1: Switched to Zangoose
+p2: Snorlax used Body Slam on Zangoose
+Turn 7:
+p2: Snorlax used Body Slam on Zangoose
+p1: Zangoose fainted
+p1: Switched to Jirachi
+Turn 8:
+p1: Jirachi used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 9:
+p1: Switched to Wobbuffet
+p2: Snorlax used Rest on Snorlax
+Turn 10:
+p2: Switched to Yanmega
+p1: Wobbuffet failed to use Counter
+Turn 11:
+p1: Switched to Tentacruel
+p2: Yanmega used Bug Buzz on Tentacruel
+Turn 12:
+p2: Yanmega used Ancient Power on Tentacruel
+p1: Tentacruel used Surf on Yanmega
+Turn 13:
+p2: Switched to Magnezone
+p1: Tentacruel used Toxic Spikes on Magnezone
+Turn 14:
+p1: Switched to Jirachi
+p2: Magnezone used Thunderbolt on Jirachi
+Turn 15:
+p2: Magnezone used Thunderbolt on Jirachi
+p1: Jirachi fainted
+p1: Switched to Typhlosion
+Turn 16:
+p2: Switched to Tentacruel
+p1: Typhlosion used Eruption on Tentacruel
+Turn 17:
+p1: Switched to Tentacruel
+p2: Tentacruel used Waterfall on Tentacruel
+Turn 18:
+p2: Tentacruel used Knock Off on Tentacruel
+p1: Tentacruel used Surf on Tentacruel
+Turn 19:
+p2: Tentacruel used Swords Dance on Tentacruel
+p1: Tentacruel used Toxic Spikes on Tentacruel
+Turn 20:
+p2: Tentacruel used Knock Off on Tentacruel
+p1: Tentacruel used Toxic Spikes on Tentacruel
+Turn 21:
+p2: Tentacruel used Waterfall on Tentacruel
+p1: Tentacruel can't move
+Turn 22:
+p2: Tentacruel used Poison Jab on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Wobbuffet
+Turn 23:
+p2: Tentacruel used Poison Jab on Wobbuffet
+p1: Wobbuffet failed to use Mirror Coat
+Turn 24:
+p2: Tentacruel used Poison Jab on Wobbuffet
+p1: Wobbuffet failed to use Mirror Coat
+Turn 25:
+p2: Switched to Snorlax
+p1: Wobbuffet used Destiny Bond on Wobbuffet
+Turn 26:
+p2: Snorlax can't move
+p1: Wobbuffet failed to use Counter
+Turn 27:
+p2: Switched to Magnezone
+p1: Wobbuffet used Destiny Bond on Wobbuffet
+p1: Wobbuffet fainted
+p1: Switched to Typhlosion
+Turn 28:
+p2: Switched to Tentacruel
+p1: Typhlosion used Eruption on Tentacruel
+Turn 29:
+p1: Typhlosion used Eruption on Tentacruel
+p2: Tentacruel used Waterfall on Typhlosion
+Turn 30:
+p1: Typhlosion used Eruption on Tentacruel
+p2: Tentacruel used Waterfall on Typhlosion
+p1: Typhlosion fainted

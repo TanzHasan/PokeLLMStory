@@ -1,0 +1,120 @@
+p1: Switched to Zacian
+p2: Switched to Beedrill-Mega
+Turn 1:
+p1: Switched to Necrozma-Dusk-Mane
+p2: Beedrill-Mega used Pyro Ball on Necrozma-Dusk-Mane
+Turn 2:
+p2: Beedrill-Mega used Pyro Ball on Necrozma-Dusk-Mane
+p1: Necrozma-Dusk-Mane fainted
+p1: Switched to Zacian
+Turn 3:
+p1: Zacian used Parting Shot on Beedrill-Mega
+p1: Switched to Greninja-Ash
+p2: Beedrill-Mega failed to use Pyro Ball
+Turn 4:
+p2: Beedrill-Mega used Bolt Strike on Greninja-Ash
+p1: Greninja-Ash fainted
+p1: Switched to Chansey
+Turn 5:
+p2: Beedrill-Mega used Pyro Ball on Chansey
+p1: Chansey failed to use Shadow Force
+Turn 6:
+p1: Chansey used Shadow Force on Beedrill-Mega
+p2: Beedrill-Mega used Pyro Ball on Chansey
+Turn 7:
+p1: Chansey used Pyro Ball on Beedrill-Mega
+p2: Beedrill-Mega fainted
+p2: Switched to Metagross-Mega
+Turn 8:
+p2: Metagross-Mega used Bullet Punch on Chansey
+p1: Chansey used Pyro Ball on Metagross-Mega
+Turn 9:
+p1: Switched to Arceus
+p2: Metagross-Mega used Behemoth Blade on Arceus
+Turn 10:
+p1: Arceus used Burning Bulwark on Arceus
+p2: Metagross-Mega used Bullet Punch on Arceus
+Turn 11:
+p2: Metagross-Mega used Collision Course on Arceus
+p1: Arceus used Recover on Arceus
+Turn 12:
+p2: Metagross-Mega used Collision Course on Arceus
+p2: Metagross-Mega fainted
+p1: Arceus used Recover on Arceus
+p2: Switched to Heracross-Mega
+Turn 13:
+p1: Arceus used Glare on Heracross-Mega
+p2: Heracross-Mega can't move
+Turn 14:
+p1: Switched to Chansey
+p2: Heracross-Mega used Victory Dance on Heracross-Mega
+Turn 15:
+p1: Switched to Zacian
+p2: Heracross-Mega used Victory Dance on Heracross-Mega
+Turn 16:
+p1: Zacian used Trick on Heracross-Mega
+p2: Heracross-Mega used Glacial Lance on Zacian
+Turn 17:
+p2: Heracross-Mega used Glacial Lance on Zacian
+p1: Zacian fainted
+p1: Switched to Ho-Oh
+Turn 18:
+p2: Heracross-Mega used Glacial Lance on Ho-Oh
+p1: Ho-Oh fainted
+p1: Switched to Chansey
+Turn 19:
+p1: Chansey used Leech Life on Heracross-Mega
+p2: Heracross-Mega used Glacial Lance on Chansey
+Turn 20:
+p1: Chansey used Sacred Sword on Heracross-Mega
+p2: Heracross-Mega can't move
+Turn 21:
+p1: Chansey used Sacred Sword on Heracross-Mega
+p2: Heracross-Mega fainted
+p2: Switched to Aerodactyl-Mega
+Turn 22:
+p1: Chansey used Glacial Lance on Aerodactyl-Mega
+p2: Aerodactyl-Mega used Counter on Chansey
+p1: Chansey fainted
+p1: Switched to Arceus
+Turn 23:
+p2: Aerodactyl-Mega used Explosion on Arceus
+p2: Aerodactyl-Mega fainted
+p1: Arceus used Sunsteel Strike on p2: Aerodactyl
+p2: Switched to Iron Valiant
+Turn 24:
+p1: Arceus used Burning Bulwark on Arceus
+p2: Iron Valiant used Drain Punch on Arceus
+Turn 25:
+p2: Iron Valiant used Victory Dance on Iron Valiant
+p1: Arceus used Recover on Arceus
+Turn 26:
+p2: Iron Valiant used Victory Dance on Iron Valiant
+p1: Arceus used Sunsteel Strike on Iron Valiant
+Turn 27:
+p2: Iron Valiant used Drain Punch on Arceus
+p1: Arceus used Sunsteel Strike on Iron Valiant
+p2: Iron Valiant fainted
+p2: Switched to Chansey
+Turn 28:
+p1: Arceus used Burning Bulwark on Arceus
+p2: Chansey failed to use Burning Bulwark
+Turn 29:
+p1: Arceus failed to use Burning Bulwark
+p2: Chansey used Glare on Arceus
+Turn 30:
+p1: Arceus used Burning Bulwark on Arceus
+p2: Chansey used Sunsteel Strike on Arceus
+Turn 31:
+p2: Chansey used Sunsteel Strike on Arceus
+p1: Arceus failed to use Glare
+Turn 32:
+p2: Chansey used Sunsteel Strike on Arceus
+p1: Arceus failed to use Glare
+Turn 33:
+p2: Chansey used Sunsteel Strike on Arceus
+p1: Arceus used Recover on Arceus
+Turn 34:
+p2: Chansey used Sunsteel Strike on Arceus
+p1: Arceus used Sunsteel Strike on Chansey
+p2: Chansey fainted

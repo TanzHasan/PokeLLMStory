@@ -1,0 +1,456 @@
+|j|☆magolor kirby
+|j|☆Yunanan
+|t:|1709214015
+|gametype|singles
+|player|p1|magolor kirby|dawn|
+|player|p2|Yunanan|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Zapdos, L50|
+|poke|p1|Cinderace, L50, M|
+|poke|p1|Porygon2, L50|
+|poke|p1|Landorus-Therian, L50, M|
+|poke|p1|Tapu Fini, L50|
+|poke|p1|Mimikyu, L50, M|
+|poke|p2|Tyranitar, L50, F|
+|poke|p2|Excadrill, L50, M|
+|poke|p2|Corsola-Galar, L50, M|
+|poke|p2|Darmanitan-Galar, L50, M|
+|poke|p2|Centiskorch, L50, F|
+|poke|p2|Celesteela, L50|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yunanan)
+|inactive|Yunanan has 60 seconds left.
+|
+|t:|1709214052
+|start
+|switch|p1a: Tapu Fini|Tapu Fini, L50|100/100
+|switch|p2a: Celesteela|Celesteela, L50|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|inactive|magolor kirby has 30 seconds left.
+|
+|t:|1709214085
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|56/100
+|move|p1a: Tapu Fini|Substitute|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|Substitute
+|-damage|p1a: Tapu Fini|32/100
+|
+|-heal|p1a: Tapu Fini|38/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1709214093
+|move|p2a: Celesteela|Flash Cannon|p1a: Tapu Fini
+|-end|p1a: Tapu Fini|Substitute
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|44/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1709214104
+|move|p2a: Celesteela|Air Slash|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|18/100
+|move|p1a: Tapu Fini|Scald|p2a: Celesteela
+|-damage|p2a: Celesteela|41/100
+|-status|p2a: Celesteela|brn
+|
+|-heal|p1a: Tapu Fini|24/100|[from] item: Leftovers
+|-damage|p2a: Celesteela|35/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1709214115
+|-start|p2a: Celesteela|Dynamax|
+|-heal|p2a: Celesteela|35/100 brn|[silent]
+|move|p2a: Celesteela|Max Airstream|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|-boost|p2a: Celesteela|spe|1
+|faint|p1a: Tapu Fini
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|-damage|p2a: Celesteela|32/100 brn|[from] brn
+|upkeep
+|
+|t:|1709214132
+|switch|p1a: Cinderace|Cinderace, L50, M|100/100
+|turn|5
+|
+|t:|1709214138
+|move|p1a: Cinderace|Pyro Ball|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1709214146
+|switch|p2a: Corsola|Corsola-Galar, L50, M|100/100
+|turn|6
+|c|☆magolor kirby|186じゃ遅いよ
+|
+|t:|1709214155
+|-start|p1a: Cinderace|Dynamax|Gmax
+|-heal|p1a: Cinderace|100/100|[silent]
+|move|p1a: Cinderace|G-Max Fireball|p2a: Corsola
+|-damage|p2a: Corsola|61/100
+|move|p2a: Corsola|Strength Sap|p1a: Cinderace
+|-unboost|p1a: Cinderace|atk|1
+|-heal|p2a: Corsola|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1709214166
+|move|p1a: Cinderace|Max Darkness|p2a: Corsola
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|57/100
+|-unboost|p2a: Corsola|spd|1
+|move|p2a: Corsola|Strength Sap|p1a: Cinderace
+|-unboost|p1a: Cinderace|atk|1
+|-heal|p2a: Corsola|100/100
+|
+|upkeep
+|turn|8
+|c|☆magolor kirby|うんしってた
+|
+|t:|1709214175
+|move|p1a: Cinderace|G-Max Fireball|p2a: Corsola
+|-start|p1a: Cinderace|typechange|Fire|[from] ability: Libero
+|-damage|p2a: Corsola|81/100
+|move|p2a: Corsola|Will-O-Wisp|p1a: Cinderace
+|-immune|p1a: Cinderace
+|
+|upkeep
+|-end|p1a: Cinderace|Dynamax
+|-heal|p1a: Cinderace|100/100|[silent]
+|turn|9
+|
+|t:|1709214181
+|move|p1a: Cinderace|Bounce||[still]
+|-prepare|p1a: Cinderace|Bounce
+|-start|p1a: Cinderace|typechange|Flying|[from] ability: Libero
+|move|p2a: Corsola|Strength Sap|p1a: Cinderace|[miss]
+|-miss|p2a: Corsola|p1a: Cinderace
+|
+|upkeep
+|turn|10
+|
+|t:|1709214185
+|move|p1a: Cinderace|Bounce|p2a: Corsola|[from]lockedmove
+|-crit|p2a: Corsola
+|-damage|p2a: Corsola|50/100
+|-status|p2a: Corsola|par
+|-start|p1a: Cinderace|Disable|Bounce|[from] ability: Cursed Body|[of] p2a: Corsola
+|move|p2a: Corsola|Will-O-Wisp|p1a: Cinderace
+|-status|p1a: Cinderace|brn
+|
+|-damage|p1a: Cinderace|95/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1709214195
+|move|p1a: Cinderace|Pyro Ball|p2a: Corsola
+|-start|p1a: Cinderace|typechange|Fire|[from] ability: Libero
+|-damage|p2a: Corsola|42/100 par
+|move|p2a: Corsola|Strength Sap|p1a: Cinderace
+|-unboost|p1a: Cinderace|atk|1
+|-heal|p2a: Corsola|93/100 par
+|
+|-damage|p1a: Cinderace|89/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1709214203
+|switch|p2a: Centiskorch|Centiskorch, L50, F|100/100
+|move|p1a: Cinderace|Pyro Ball|p2a: Centiskorch
+|-start|p2a: Centiskorch|ability: Flash Fire
+|
+|-damage|p1a: Cinderace|83/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1709214213
+|switch|p1a: Landorus|Landorus-Therian, L50, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Centiskorch|atk|1
+|move|p2a: Centiskorch|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|72/100
+|-enditem|p1a: Landorus|Assault Vest|[from] move: Knock Off|[of] p2a: Centiskorch
+|
+|upkeep
+|turn|14
+|
+|t:|1709214220
+|-end|p2a: Centiskorch|ability: Flash Fire|[silent]
+|switch|p2a: Corsola|Corsola-Galar, L50, M|93/100 par
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|78/100 par
+|
+|upkeep
+|turn|15
+|
+|t:|1709214225
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|62/100 par
+|cant|p2a: Corsola|par
+|
+|upkeep
+|turn|16
+|
+|t:|1709214230
+|switch|p1a: Cinderace|Cinderace, L50, M|83/100 brn
+|move|p2a: Corsola|Strength Sap|p1a: Cinderace
+|-unboost|p1a: Cinderace|atk|1
+|-heal|p2a: Corsola|100/100 par
+|
+|-damage|p1a: Cinderace|77/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1709214236
+|move|p1a: Cinderace|Bounce||[still]
+|-prepare|p1a: Cinderace|Bounce
+|-start|p1a: Cinderace|typechange|Flying|[from] ability: Libero
+|move|p2a: Corsola|Hex|p1a: Cinderace|[miss]
+|-miss|p2a: Corsola|p1a: Cinderace
+|
+|-damage|p1a: Cinderace|71/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1709214240
+|move|p1a: Cinderace|Bounce|p2a: Corsola|[from]lockedmove
+|-damage|p2a: Corsola|93/100 par
+|-start|p1a: Cinderace|Disable|Bounce|[from] ability: Cursed Body|[of] p2a: Corsola
+|cant|p2a: Corsola|par
+|
+|-damage|p1a: Cinderace|66/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1709214245
+|switch|p2a: Centiskorch|Centiskorch, L50, F|100/100
+|move|p1a: Cinderace|Sucker Punch||[still]
+|-fail|p1a: Cinderace
+|
+|-damage|p1a: Cinderace|60/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1709214255
+|move|p1a: Cinderace|Sucker Punch|p2a: Centiskorch
+|-start|p1a: Cinderace|typechange|Dark|[from] ability: Libero
+|-damage|p2a: Centiskorch|86/100
+|move|p2a: Centiskorch|Fire Lash|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|faint|p1a: Cinderace
+|
+|upkeep
+|
+|t:|1709214258
+|switch|p1a: Landorus|Landorus-Therian, L50, M|72/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Centiskorch|atk|1
+|turn|21
+|
+|t:|1709214265
+|move|p1a: Landorus|Earthquake|p2a: Centiskorch
+|-damage|p2a: Centiskorch|21/100
+|move|p2a: Centiskorch|Fire Lash|p1a: Landorus
+|-damage|p1a: Landorus|35/100
+|-unboost|p1a: Landorus|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1709214271
+|move|p1a: Landorus|Earthquake|p2a: Centiskorch
+|-damage|p2a: Centiskorch|0 fnt
+|faint|p2a: Centiskorch
+|
+|upkeep
+|
+|t:|1709214272
+|switch|p2a: Corsola|Corsola-Galar, L50, M|93/100 par
+|turn|23
+|
+|t:|1709214276
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|78/100 par
+|-start|p1a: Landorus|Disable|Rock Slide|[from] ability: Cursed Body|[of] p2a: Corsola
+|cant|p2a: Corsola|flinch
+|
+|upkeep
+|turn|24
+|c|☆magolor kirby|はあああああ
+|
+|t:|1709214286
+|move|p1a: Landorus|Iron Tail|p2a: Corsola
+|-damage|p2a: Corsola|59/100 par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Landorus|[miss]
+|-miss|p2a: Corsola|p1a: Landorus
+|
+|upkeep
+|turn|25
+|
+|t:|1709214295
+|move|p1a: Landorus|Earthquake|p2a: Corsola
+|-damage|p2a: Corsola|31/100 par
+|move|p2a: Corsola|Strength Sap|p1a: Landorus
+|-unboost|p1a: Landorus|atk|1
+|-heal|p2a: Corsola|100/100 par
+|
+|upkeep
+|turn|26
+|
+|t:|1709214301
+|move|p1a: Landorus|Iron Tail|p2a: Corsola
+|-damage|p2a: Corsola|88/100 par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Landorus|[miss]
+|-miss|p2a: Corsola|p1a: Landorus
+|
+|-end|p1a: Landorus|Disable
+|upkeep
+|turn|27
+|
+|t:|1709214307
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|78/100 par
+|cant|p2a: Corsola|par
+|
+|upkeep
+|turn|28
+|
+|t:|1709214311
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|68/100 par
+|cant|p2a: Corsola|par
+|
+|upkeep
+|turn|29
+|
+|t:|1709214316
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|58/100 par
+|cant|p2a: Corsola|par
+|
+|upkeep
+|turn|30
+|
+|t:|1709214322
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|47/100 par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Landorus|[miss]
+|-miss|p2a: Corsola|p1a: Landorus
+|
+|upkeep
+|turn|31
+|
+|t:|1709214328
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|38/100 par
+|-start|p1a: Landorus|Disable|Rock Slide|[from] ability: Cursed Body|[of] p2a: Corsola
+|cant|p2a: Corsola|flinch
+|
+|upkeep
+|turn|32
+|
+|t:|1709214339
+|move|p1a: Landorus|Earthquake|p2a: Corsola
+|-damage|p2a: Corsola|18/100 par
+|move|p2a: Corsola|Strength Sap|p1a: Landorus
+|-unboost|p1a: Landorus|atk|1
+|-heal|p2a: Corsola|96/100 par
+|
+|upkeep
+|turn|33
+|
+|t:|1709214347
+|move|p1a: Landorus|Iron Tail|p2a: Corsola|[miss]
+|-miss|p1a: Landorus|p2a: Corsola
+|cant|p2a: Corsola|par
+|
+|upkeep
+|turn|34
+|
+|t:|1709214353
+|move|p1a: Landorus|Earthquake|p2a: Corsola
+|-damage|p2a: Corsola|81/100 par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Landorus|[miss]
+|-miss|p2a: Corsola|p1a: Landorus
+|
+|-end|p1a: Landorus|Disable
+|upkeep
+|turn|35
+|
+|t:|1709214358
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|74/100 par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-damage|p1a: Landorus|29/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1709214363
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|70/100 par
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Landorus|23/100 brn|[from] brn
+|upkeep
+|turn|37
+|c|☆magolor kirby|鬼火四連除けやばすぎでしょ
+|
+|t:|1709214370
+|move|p1a: Landorus|Rock Slide|p2a: Corsola
+|-damage|p2a: Corsola|66/100 par
+|-start|p1a: Landorus|Disable|Rock Slide|[from] ability: Cursed Body|[of] p2a: Corsola
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Landorus|17/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1709214376
+|move|p1a: Landorus|Iron Tail|p2a: Corsola
+|-damage|p2a: Corsola|61/100 par
+|cant|p2a: Corsola|par
+|
+|-damage|p1a: Landorus|11/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1709214380
+|move|p1a: Landorus|Iron Tail|p2a: Corsola
+|-damage|p2a: Corsola|56/100 par
+|move|p2a: Corsola|Strength Sap|p1a: Landorus
+|-unboost|p1a: Landorus|atk|1
+|-heal|p2a: Corsola|100/100 par
+|
+|-damage|p1a: Landorus|5/100 brn|[from] brn
+|upkeep
+|turn|40
+|-message|magolor kirby forfeited.
+|
+|win|Yunanan
+|l|☆magolor kirby
+|player|p1|

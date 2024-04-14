@@ -1,0 +1,93 @@
+p1: Switched to Hitmonlee
+p2: Switched to Excadrill
+Turn 1:
+p1: Hitmonlee used Fake Out on Excadrill
+p2: Excadrill can't move
+Turn 2:
+p1: Hitmonlee used High Jump Kick on Excadrill
+p2: Excadrill fainted
+p2: Switched to Corviknight
+Turn 3:
+p1: Hitmonlee used High Jump Kick on Corviknight
+p2: Corviknight used Body Press on Hitmonlee
+Turn 4:
+p1: Hitmonlee used Rock Slide on Corviknight
+p2: Corviknight used Body Press on Hitmonlee
+p1: Hitmonlee fainted
+p1: Switched to Infernape
+Turn 5:
+p1: Infernape used Overheat on Corviknight
+p2: Corviknight used Roost on Corviknight
+Turn 6:
+p1: Infernape used Blast Burn on Corviknight
+p2: Corviknight fainted
+p2: Switched to Heatran
+Turn 7:
+p1: Infernape can't move
+p2: Heatran used Earth Power on Infernape
+Turn 8:
+p1: Switched to Tauros-Paldea-Aqua
+p2: Heatran used Earth Power on Tauros-Paldea-Aqua
+Turn 9:
+p2: Switched to Goodra-Hisui
+p1: Tauros-Paldea-Aqua used Earthquake on Goodra-Hisui
+Turn 10:
+p2: Goodra-Hisui used Protect on Goodra-Hisui
+p1: Tauros-Paldea-Aqua used Earthquake on Goodra-Hisui
+Turn 11:
+p1: Tauros-Paldea-Aqua used Earthquake on Goodra-Hisui
+p2: Goodra-Hisui fainted
+p2: Switched to Gholdengo
+Turn 12:
+p1: Tauros-Paldea-Aqua used Aqua Jet on Gholdengo
+p2: Gholdengo used Nasty Plot on Gholdengo
+Turn 13:
+p1: Tauros-Paldea-Aqua used Aqua Jet on Gholdengo
+p2: Gholdengo used Focus Blast on Tauros-Paldea-Aqua
+p1: Tauros-Paldea-Aqua fainted
+p1: Switched to Iron Valiant
+Turn 14:
+p1: Iron Valiant used Psychic on Gholdengo
+p2: Gholdengo fainted
+p2: Switched to Heatran
+Turn 15:
+p1: Iron Valiant used Psychic on Heatran
+p2: Heatran used Flash Cannon on Iron Valiant
+p1: Iron Valiant fainted
+p1: Switched to Breloom
+Turn 16:
+p1: Breloom used Mach Punch on Heatran
+p2: Heatran used Magma Storm on Breloom
+Turn 17:
+p1: Breloom used Mach Punch on Heatran
+p2: Heatran fainted
+p2: Switched to Cobalion
+Turn 18:
+p2: Cobalion used Iron Defense on Cobalion
+p1: Breloom used Spore on Cobalion
+Turn 19:
+p1: Breloom used Mach Punch on Cobalion
+p2: Cobalion can't move
+Turn 20:
+p1: Breloom used Mach Punch on Cobalion
+p2: Cobalion can't move
+Turn 21:
+p1: Breloom used Mach Punch on Cobalion
+p2: Cobalion used Iron Defense on Cobalion
+Turn 22:
+p2: Cobalion used Body Press on Breloom
+p1: Breloom fainted
+p1: Switched to Infernape
+Turn 23:
+p2: Cobalion used Body Press on Infernape
+p1: Infernape fainted
+p1: Switched to Iron Hands
+Turn 24:
+p1: Iron Hands used Fake Out on Cobalion
+p2: Cobalion can't move
+Turn 25:
+p2: Cobalion used Body Press on Iron Hands
+p1: Iron Hands used Drain Punch on Cobalion
+Turn 26:
+p2: Cobalion used Body Press on Iron Hands
+p1: Iron Hands fainted

@@ -1,0 +1,409 @@
+p1: Switched to Skarmory
+p2: Switched to Zapdos
+Turn 1:
+p1: Switched to Venusaur
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Aerodactyl
+Turn 2:
+p1: Switched to Donphan
+p2: Aerodactyl used Hidden Power on Donphan
+Turn 3:
+p2: Switched to Celebi
+p1: Donphan used Rock Slide on Celebi
+Turn 4:
+p1: Switched to Skarmory
+p2: Celebi used Leech Seed on Skarmory
+Turn 5:
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Magneton
+p1: Skarmory used Spikes on Magneton
+Turn 6:
+p2: Magneton used Thunderbolt on Skarmory
+p1: Skarmory fainted
+p1: Switched to Venusaur
+Turn 7:
+p2: Magneton used Thunder Wave on Venusaur
+p1: Venusaur used Earthquake on Magneton
+p2: Magneton fainted
+p2: Switched to Metagross
+Turn 8:
+p1: Switched to Milotic
+p2: Metagross used Meteor Mash on Milotic
+Turn 9:
+p2: Switched to Zapdos
+p1: Milotic used Dragon Breath on Zapdos
+Turn 10:
+p1: Switched to Venusaur
+p2: Zapdos used Hidden Power on Venusaur
+Turn 11:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+p1: Venusaur used Curse on Venusaur
+Turn 12:
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Metagross
+p1: Venusaur used Sludge Bomb on Metagross
+Turn 13:
+p1: Switched to Magneton
+p2: Metagross used Explosion on Magneton
+p2: Metagross fainted
+p1: Magneton fainted
+p1: Switched to Donphan
+p2: Switched to Snorlax
+Turn 14:
+p2: Switched to Zapdos
+p1: Donphan used Earthquake on Zapdos
+Turn 15:
+p1: Switched to Venusaur
+p2: Zapdos can't move
+Turn 16:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Snorlax
+p1: Venusaur used Curse on Venusaur
+Turn 17:
+p2: Snorlax used Self-Destruct on Venusaur
+p2: Snorlax fainted
+p1: Venusaur fainted
+p1: Switched to Donphan
+p2: Switched to Celebi
+Turn 18:
+p1: Switched to Umbreon
+p2: Celebi used Swords Dance on Celebi
+Turn 19:
+p2: Celebi used Leech Seed on Umbreon
+p1: Umbreon used Toxic on Celebi
+Turn 20:
+p1: Switched to Donphan
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Aerodactyl
+Turn 21:
+p2: Aerodactyl used Hidden Power on Donphan
+p1: Donphan used Rock Slide on Aerodactyl
+Turn 22:
+p2: Aerodactyl used Hidden Power on Donphan
+p1: Donphan fainted
+p1: Switched to Milotic
+Turn 23:
+p2: Aerodactyl used Rock Slide on Milotic
+p1: Milotic used Surf on Aerodactyl
+p2: Aerodactyl fainted
+p2: Switched to Zapdos
+Turn 24:
+p1: Milotic used Recover on Milotic
+p2: Zapdos used Thunderbolt on Milotic
+Turn 25:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 26:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 27:
+p1: Umbreon used Wish on Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 28:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+Turn 29:
+p1: Switched to Milotic
+p2: Celebi used Leech Seed on Milotic
+Turn 30:
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+p1: Milotic used Recover on Milotic
+Turn 31:
+p1: Switched to Umbreon
+p2: Zapdos can't move
+Turn 32:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Hidden Power on Umbreon
+Turn 33:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 34:
+p1: Umbreon used Wish on Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 35:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 36:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 37:
+p1: Umbreon used Wish on Umbreon
+p2: Zapdos can't move
+Turn 38:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Hidden Power on Umbreon
+Turn 39:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Substitute on Zapdos
+Turn 40:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos can't move
+Turn 41:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 42:
+p1: Umbreon used Wish on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 43:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Hidden Power on Umbreon
+Turn 44:
+p1: Umbreon used Pursuit on Zapdos
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 45:
+p2: Zapdos can't move
+p1: Umbreon used Wish on Umbreon
+Turn 46:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 47:
+p2: Zapdos used Substitute on Zapdos
+p1: Umbreon can't move
+Turn 48:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 49:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon can't move
+Turn 50:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Wish on Umbreon
+Turn 51:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 52:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 53:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 54:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 55:
+p2: Zapdos can't move
+p1: Umbreon used Pursuit on Zapdos
+Turn 56:
+p2: Zapdos used Thunderbolt on Umbreon
+p1: Umbreon used Pursuit on Zapdos
+Turn 57:
+p2: Zapdos can't move
+p1: Umbreon used Wish on Umbreon
+Turn 58:
+p2: Zapdos can't move
+p1: Umbreon failed to use Toxic
+Turn 59:
+p2: Zapdos used Substitute on Zapdos
+p1: Umbreon can't move
+Turn 60:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon failed to use Toxic
+Turn 61:
+p1: Switched to Milotic
+p2: Zapdos used Hidden Power on Milotic
+Turn 62:
+p1: Milotic used Recover on Milotic
+p2: Zapdos used Thunderbolt on Milotic
+Turn 63:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 64:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon can't move
+Turn 65:
+p2: Zapdos can't move
+p1: Umbreon failed to use Toxic
+Turn 66:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+p1: Umbreon used Wish on Umbreon
+Turn 67:
+p1: Switched to Milotic
+p2: Celebi used Leech Seed on Milotic
+Turn 68:
+p2: Celebi used Swords Dance on Celebi
+p1: Milotic used Recover on Milotic
+Turn 69:
+p1: Switched to Umbreon
+p2: Celebi used Swords Dance on Celebi
+Turn 70:
+p1: Switched to Milotic
+p2: Celebi used Swords Dance on Celebi
+Turn 71:
+p1: Switched to Umbreon
+p2: Celebi used Leech Seed on Umbreon
+Turn 72:
+p1: Switched to Milotic
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 73:
+p1: Milotic used Surf on Zapdos
+p2: Zapdos used Hidden Power on Milotic
+Turn 74:
+p1: Milotic used Recover on Milotic
+p2: Zapdos used Substitute on Zapdos
+Turn 75:
+p1: Milotic used Surf on Zapdos
+p2: Zapdos used Thunderbolt on Milotic
+Turn 76:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 77:
+p2: Switched to Celebi
+p1: Umbreon used Wish on Umbreon
+Turn 78:
+p1: Switched to Milotic
+p2: Celebi used Leech Seed on Milotic
+Turn 79:
+p1: Switched to Umbreon
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 80:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon can't move
+Turn 81:
+p2: Zapdos can't move
+p1: Umbreon failed to use Toxic
+Turn 82:
+p2: Zapdos used Substitute on Zapdos
+p1: Umbreon used Wish on Umbreon
+Turn 83:
+p2: Zapdos used Substitute on Zapdos
+p1: Umbreon failed to use Toxic
+Turn 84:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+p1: Umbreon used Toxic on Celebi
+Turn 85:
+p1: Switched to Milotic
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 86:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 87:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos can't move
+Turn 88:
+p2: Switched to Celebi
+p1: Umbreon failed to use Protect
+Turn 89:
+p1: Switched to Milotic
+p2: Celebi used Leech Seed on Milotic
+Turn 90:
+p1: Switched to Umbreon
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 91:
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+p1: Umbreon used Toxic on Celebi
+Turn 92:
+p1: Switched to Milotic
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 93:
+p2: Zapdos used Substitute on Zapdos
+p1: Milotic can't move
+Turn 94:
+p1: Switched to Umbreon
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+Turn 95:
+p1: Switched to Milotic
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 96:
+p1: Switched to Umbreon
+p2: Zapdos used Hidden Power on Umbreon
+Turn 97:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 98:
+p1: Switched to Milotic
+p2: Zapdos can't move
+Turn 99:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 100:
+p2: Switched to Celebi
+p1: Umbreon failed to use Protect
+Turn 101:
+p1: Umbreon used Protect on Umbreon
+p2: Celebi used Leech Seed on Umbreon
+Turn 102:
+p1: Switched to Milotic
+p2: Celebi used Recover on Celebi
+Turn 103:
+p2: Celebi used Leech Seed on Milotic
+p1: Milotic used Dragon Breath on Celebi
+Turn 104:
+p1: Switched to Umbreon
+p2: Celebi used Swords Dance on Celebi
+Turn 105:
+p1: Switched to Milotic
+p2: Celebi used Swords Dance on Celebi
+Turn 106:
+p1: Switched to Umbreon
+p2: Celebi used Leech Seed on Umbreon
+Turn 107:
+p1: Switched to Milotic
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 108:
+p1: Switched to Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 109:
+p2: Zapdos used Thunderbolt on Umbreon
+p1: Umbreon failed to use Toxic
+Turn 110:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 111:
+p2: Zapdos used Thunderbolt on Umbreon
+p1: Umbreon can't move
+Turn 112:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos can't move
+Turn 113:
+p2: Zapdos used Hidden Power on Umbreon
+p1: Umbreon used Wish on Umbreon
+Turn 114:
+p1: Umbreon can't move
+p2: Zapdos can't move
+Turn 115:
+p1: Switched to Milotic
+p2: Zapdos used Hidden Power on Milotic
+Turn 116:
+p1: Switched to Umbreon
+p2: Zapdos used Baton Pass on Zapdos
+p2: Switched to Celebi
+Turn 117:
+p1: Switched to Milotic
+p2: Celebi used Swords Dance on Celebi
+Turn 118:
+p2: Celebi used Leech Seed on Milotic
+p1: Milotic used Refresh on Milotic
+Turn 119:
+p1: Switched to Umbreon
+p2: Celebi used Baton Pass on Celebi
+p2: Switched to Zapdos
+Turn 120:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 121:
+p1: Switched to Milotic
+p2: Zapdos used Substitute on Zapdos
+Turn 122:
+p1: Switched to Umbreon
+p2: Zapdos used Thunderbolt on Umbreon
+Turn 123:
+p1: Umbreon used Protect on Umbreon
+p2: Zapdos used Substitute on Zapdos
+Turn 124:
+p2: Zapdos used Substitute on Zapdos
+p1: Umbreon used Wish on Umbreon
+Turn 125:

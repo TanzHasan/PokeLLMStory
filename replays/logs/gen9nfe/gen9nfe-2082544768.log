@@ -1,0 +1,332 @@
+|j|☆VjTheEchidnahog
+|j|☆Satoshi Bakura
+|t:|1710628838
+|gametype|singles
+|player|p1|VjTheEchidnahog|2|
+|player|p2|Satoshi Bakura|lyra|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Charjabug, M|
+|poke|p1|Morgrem, M|
+|poke|p1|Monferno, F|
+|poke|p1|Wartortle, M|
+|poke|p1|Dartrix, F|
+|poke|p1|Sliggoo-Hisui, F|
+|poke|p2|Raboot, F|
+|poke|p2|Sliggoo-Hisui, M|
+|poke|p2|Clefairy, F|
+|poke|p2|Gloom, F|
+|poke|p2|Hattrem, F|
+|poke|p2|Marshtomp, M|
+|teampreview
+|
+|t:|1710628849
+|start
+|switch|p1a: Double AA|Charjabug, M|100/100
+|switch|p2a: Clefuwu|Clefairy, F|100/100
+|turn|1
+|j| GrantS
+|
+|t:|1710628896
+|move|p1a: Double AA|Sticky Web|p2a: Clefuwu
+|-sidestart|p2: Satoshi Bakura|move: Sticky Web
+|move|p2a: Clefuwu|Stealth Rock|p1a: Double AA
+|-sidestart|p1: VjTheEchidnahog|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1710628921
+|move|p1a: Double AA|Thunder Wave|p2a: Clefuwu
+|-status|p2a: Clefuwu|par
+|move|p2a: Clefuwu|Knock Off|p1a: Double AA
+|-damage|p1a: Double AA|91/100
+|-enditem|p1a: Double AA|Leftovers|[from] move: Knock Off|[of] p2a: Clefuwu
+|
+|upkeep
+|turn|3
+|
+|t:|1710628930
+|move|p1a: Double AA|Skitter Smack|p2a: Clefuwu
+|-resisted|p2a: Clefuwu
+|-damage|p2a: Clefuwu|89/100 par
+|-unboost|p2a: Clefuwu|spa|1
+|move|p2a: Clefuwu|Moonblast|p1a: Double AA
+|-damage|p1a: Double AA|70/100
+|
+|-heal|p2a: Clefuwu|95/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1710628953
+|switch|p2a: Muwushtomp|Marshtomp, M|100/100
+|move|p1a: Double AA|Skitter Smack|p2a: Muwushtomp|[miss]
+|-miss|p1a: Double AA|p2a: Muwushtomp
+|
+|upkeep
+|turn|5
+|
+|t:|1710628971
+|switch|p1a: OH WAITER|Dartrix, F|100/100
+|move|p2a: Muwushtomp|Earthquake|p1a: OH WAITER
+|-immune|p1a: OH WAITER
+|
+|upkeep
+|turn|6
+|
+|t:|1710628978
+|move|p1a: OH WAITER|Knock Off|p2a: Muwushtomp
+|-damage|p2a: Muwushtomp|78/100
+|-enditem|p2a: Muwushtomp|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: OH WAITER
+|move|p2a: Muwushtomp|Ice Punch|p1a: OH WAITER
+|-supereffective|p1a: OH WAITER
+|-damage|p1a: OH WAITER|27/100
+|
+|upkeep
+|turn|7
+|
+|t:|1710628997
+|switch|p1a: SIMP|Morgrem, M|100/100
+|-damage|p1a: SIMP|88/100|[from] Stealth Rock
+|switch|p2a: Clefuwu|Clefairy, F|95/100 par
+|-activate|p2a: Clefuwu|move: Sticky Web
+|-unboost|p2a: Clefuwu|spe|1
+|
+|-heal|p2a: Clefuwu|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|j| wolfgard
+|
+|t:|1710629025
+|move|p1a: SIMP|Light Screen|p1a: SIMP
+|-sidestart|p1: VjTheEchidnahog|move: Light Screen
+|move|p2a: Clefuwu|Moonblast|p1a: SIMP
+|-supereffective|p1a: SIMP
+|-damage|p1a: SIMP|53/100
+|
+|upkeep
+|turn|9
+|
+|t:|1710629036
+|move|p1a: SIMP|Reflect|p1a: SIMP
+|-sidestart|p1: VjTheEchidnahog|Reflect
+|cant|p2a: Clefuwu|par
+|
+|upkeep
+|turn|10
+|
+|t:|1710629046
+|move|p1a: SIMP|Parting Shot|p2a: Clefuwu
+|-unboost|p2a: Clefuwu|atk|1
+|-unboost|p2a: Clefuwu|spa|1
+|
+|t:|1710629049
+|switch|p1a: Cowabunga|Wartortle, M|100/100|[from] Parting Shot
+|-damage|p1a: Cowabunga|88/100|[from] Stealth Rock
+|move|p2a: Clefuwu|Moonblast|p1a: Cowabunga
+|-damage|p1a: Cowabunga|78/100
+|
+|upkeep
+|turn|11
+|
+|t:|1710629064
+|switch|p2a: Gowoom|Gloom, F|100/100
+|-activate|p2a: Gowoom|move: Sticky Web
+|-unboost|p2a: Gowoom|spe|1
+|move|p1a: Cowabunga|Substitute|p1a: Cowabunga
+|-start|p1a: Cowabunga|Substitute
+|-damage|p1a: Cowabunga|53/100
+|
+|upkeep
+|turn|12
+|
+|t:|1710629073
+|move|p1a: Cowabunga|Shell Smash|p1a: Cowabunga
+|-unboost|p1a: Cowabunga|def|1
+|-unboost|p1a: Cowabunga|spd|1
+|-boost|p1a: Cowabunga|atk|2
+|-boost|p1a: Cowabunga|spa|2
+|-boost|p1a: Cowabunga|spe|2
+|-enditem|p1a: Cowabunga|White Herb
+|-clearnegativeboost|p1a: Cowabunga|[silent]
+|move|p2a: Gowoom|Leech Seed|p1a: Cowabunga|[miss]
+|-miss|p2a: Gowoom|p1a: Cowabunga
+|
+|upkeep
+|turn|13
+|
+|t:|1710629088
+|move|p1a: Cowabunga|Ice Beam|p2a: Gowoom
+|-supereffective|p2a: Gowoom
+|-damage|p2a: Gowoom|0 fnt
+|faint|p2a: Gowoom
+|
+|upkeep
+|
+|t:|1710629103
+|switch|p2a: Rabowot|Raboot, F|100/100
+|turn|14
+|
+|t:|1710629111
+|move|p1a: Cowabunga|Surf|p2a: Rabowot
+|-supereffective|p2a: Rabowot
+|-damage|p2a: Rabowot|0 fnt
+|faint|p2a: Rabowot
+|
+|upkeep
+|
+|t:|1710629117
+|switch|p2a: Sligowo|Sliggoo-Hisui, M|100/100
+|-activate|p2a: Sligowo|move: Sticky Web
+|-unboost|p2a: Sligowo|spe|1
+|turn|15
+|
+|t:|1710629124
+|move|p1a: Cowabunga|Ice Beam|p2a: Sligowo
+|-damage|p2a: Sligowo|67/100
+|move|p2a: Sligowo|Rest|p2a: Sligowo
+|-status|p2a: Sligowo|slp|[from] move: Rest
+|-heal|p2a: Sligowo|100/100 slp|[silent]
+|
+|-sideend|p1: VjTheEchidnahog|move: Light Screen
+|upkeep
+|turn|16
+|
+|t:|1710629136
+|move|p1a: Cowabunga|Shell Smash|p1a: Cowabunga
+|-unboost|p1a: Cowabunga|def|1
+|-unboost|p1a: Cowabunga|spd|1
+|-boost|p1a: Cowabunga|atk|2
+|-boost|p1a: Cowabunga|spa|2
+|-boost|p1a: Cowabunga|spe|2
+|cant|p2a: Sligowo|slp
+|move|p2a: Sligowo|Sleep Talk|p2a: Sligowo
+|move|p2a: Sligowo|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Sligowo
+|
+|-sideend|p1: VjTheEchidnahog|Reflect
+|upkeep
+|turn|17
+|
+|t:|1710629146
+|move|p1a: Cowabunga|Ice Beam|p2a: Sligowo
+|-damage|p2a: Sligowo|51/100 slp
+|cant|p2a: Sligowo|slp
+|move|p2a: Sligowo|Sleep Talk|p2a: Sligowo
+|move|p2a: Sligowo|Curse|p2a: Sligowo|[from]move: Sleep Talk
+|-unboost|p2a: Sligowo|spe|1
+|-boost|p2a: Sligowo|atk|1
+|-boost|p2a: Sligowo|def|1
+|
+|-heal|p2a: Sligowo|58/100 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1710629163
+|move|p1a: Cowabunga|Ice Beam|p2a: Sligowo
+|-damage|p2a: Sligowo|9/100 slp
+|-curestatus|p2a: Sligowo|slp|[msg]
+|move|p2a: Sligowo|Rest|p2a: Sligowo
+|-status|p2a: Sligowo|slp|[from] move: Rest
+|-heal|p2a: Sligowo|100/100 slp|[silent]
+|
+|upkeep
+|turn|19
+|
+|t:|1710629177
+|move|p1a: Cowabunga|Shell Smash|p1a: Cowabunga
+|-unboost|p1a: Cowabunga|def|1
+|-unboost|p1a: Cowabunga|spd|1
+|-boost|p1a: Cowabunga|atk|2
+|-boost|p1a: Cowabunga|spa|2
+|-boost|p1a: Cowabunga|spe|2
+|cant|p2a: Sligowo|slp
+|move|p2a: Sligowo|Sleep Talk|p2a: Sligowo
+|move|p2a: Sligowo|Iron Head|p1a: Cowabunga|[from]move: Sleep Talk
+|-resisted|p1a: Cowabunga
+|-end|p1a: Cowabunga|Substitute
+|
+|upkeep
+|turn|20
+|
+|t:|1710629191
+|move|p1a: Cowabunga|Ice Beam|p2a: Sligowo
+|-damage|p2a: Sligowo|43/100 slp
+|cant|p2a: Sligowo|slp
+|move|p2a: Sligowo|Sleep Talk|p2a: Sligowo
+|move|p2a: Sligowo|Curse|p2a: Sligowo|[from]move: Sleep Talk
+|-unboost|p2a: Sligowo|spe|1
+|-boost|p2a: Sligowo|atk|1
+|-boost|p2a: Sligowo|def|1
+|
+|-heal|p2a: Sligowo|49/100 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1710629203
+|move|p1a: Cowabunga|Ice Beam|p2a: Sligowo
+|-damage|p2a: Sligowo|0 fnt
+|faint|p2a: Sligowo
+|
+|upkeep
+|
+|t:|1710629213
+|switch|p2a: Hatuwum|Hattrem, F|100/100
+|-activate|p2a: Hatuwum|move: Sticky Web
+|-unboost|p2a: Hatuwum|spe|1
+|turn|22
+|
+|t:|1710629219
+|move|p1a: Cowabunga|Surf|p2a: Hatuwum
+|-damage|p2a: Hatuwum|0 fnt
+|faint|p2a: Hatuwum
+|
+|upkeep
+|
+|t:|1710629226
+|switch|p2a: Muwushtomp|Marshtomp, M|78/100
+|-activate|p2a: Muwushtomp|move: Sticky Web
+|-unboost|p2a: Muwushtomp|spe|1
+|turn|23
+|
+|t:|1710629237
+|move|p1a: Cowabunga|Surf|p2a: Muwushtomp
+|-damage|p2a: Muwushtomp|0 fnt
+|faint|p2a: Muwushtomp
+|
+|upkeep
+|
+|t:|1710629241
+|switch|p2a: Clefuwu|Clefairy, F|100/100 par
+|-activate|p2a: Clefuwu|move: Sticky Web
+|-unboost|p2a: Clefuwu|spe|1
+|turn|24
+|
+|t:|1710629251
+|move|p1a: Cowabunga|Substitute|p1a: Cowabunga
+|-start|p1a: Cowabunga|Substitute
+|-damage|p1a: Cowabunga|28/100
+|move|p2a: Clefuwu|Moonlight|p2a: Clefuwu
+|-fail|p2a: Clefuwu|heal
+|
+|upkeep
+|turn|25
+|
+|t:|1710629258
+|move|p1a: Cowabunga|Surf|p2a: Clefuwu
+|-damage|p2a: Clefuwu|0 fnt
+|faint|p2a: Clefuwu
+|
+|win|VjTheEchidnahog
+|l| wolfgard
+|l| GrantS

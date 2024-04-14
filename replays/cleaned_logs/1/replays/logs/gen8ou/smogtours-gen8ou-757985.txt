@@ -1,0 +1,178 @@
+p1: Switched to Dragapult
+p2: Switched to Rotom-Wash
+Turn 1:
+p1: Dragapult used Shadow Ball on Rotom-Wash
+p2: Rotom-Wash used Volt Switch on Dragapult
+p2: Switched to Melmetal
+Turn 2:
+p1: Switched to Corviknight
+p2: Melmetal used Thunder Punch on Corviknight
+Turn 3:
+p1: Corviknight used Body Press on Melmetal
+p2: Melmetal used Earthquake on Corviknight
+Turn 4:
+p2: Switched to Rotom-Wash
+p1: Corviknight used Body Press on Rotom-Wash
+Turn 5:
+p1: Switched to Blissey
+p2: Rotom-Wash used Pain Split on Blissey
+Turn 6:
+p2: Rotom-Wash used Volt Switch on Blissey
+p2: Switched to Melmetal
+p1: Blissey used Soft-Boiled on Blissey
+Turn 7:
+p2: Melmetal used Thunder Punch on Blissey
+p1: Blissey used Counter on Melmetal
+p2: Melmetal fainted
+p2: Switched to Clefable
+Turn 8:
+p2: Clefable used Stealth Rock on Blissey
+p1: Blissey used Seismic Toss on Clefable
+Turn 9:
+p1: Switched to Diggersby
+p2: Clefable used Knock Off on Diggersby
+Turn 10:
+p2: Switched to Rotom-Wash
+p1: Diggersby used Mega Kick on Rotom-Wash
+Turn 11:
+p1: Switched to Blissey
+p2: Switched to Dragapult
+Turn 12:
+p2: Switched to Rotom-Wash
+p1: Blissey used Soft-Boiled on Blissey
+Turn 13:
+p2: Rotom-Wash used Pain Split on Blissey
+p1: Blissey used Toxic on Rotom-Wash
+Turn 14:
+p2: Rotom-Wash used Volt Switch on Blissey
+p2: Switched to Heatran
+p1: Blissey used Soft-Boiled on Blissey
+Turn 15:
+p2: Heatran used Earth Power on Blissey
+p1: Blissey used Seismic Toss on Heatran
+Turn 16:
+p2: Heatran used Magma Storm on Blissey
+p1: Blissey used Seismic Toss on Heatran
+Turn 17:
+p2: Heatran used Taunt on Blissey
+p1: Blissey used Seismic Toss on Heatran
+Turn 18:
+p2: Heatran used Magma Storm on Blissey
+p1: Blissey used Seismic Toss on Heatran
+Turn 19:
+p2: Switched to Clefable
+p1: Blissey used Seismic Toss on Clefable
+Turn 20:
+p2: Clefable used Moonblast on Blissey
+p1: Blissey fainted
+p1: Switched to Diggersby
+Turn 21:
+p2: Switched to Dragapult
+p1: Diggersby used Mega Kick on Dragapult
+Turn 22:
+p1: Switched to Chansey
+p2: Dragapult used Draco Meteor on Chansey
+Turn 23:
+p1: Switched to Diggersby
+p2: Dragapult used Draco Meteor on Diggersby
+Turn 24:
+p2: Dragapult used Draco Meteor on Diggersby
+p1: Diggersby fainted
+p1: Switched to Dragapult
+Turn 25:
+p2: Switched to Heatran
+p1: Dragapult used Shadow Ball on Heatran
+p2: Heatran fainted
+p2: Switched to Landorus-Therian
+Turn 26:
+p1: Switched to Corviknight
+p2: Landorus-Therian used Earthquake on Corviknight
+Turn 27:
+p2: Switched to Clefable
+p1: Corviknight used Defog on Clefable
+Turn 28:
+p1: Corviknight used Roost on Corviknight
+p2: Clefable used Soft-Boiled on Clefable
+Turn 29:
+p1: Switched to Chansey
+p2: Clefable used Stealth Rock on Chansey
+Turn 30:
+p2: Clefable used Knock Off on Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 31:
+p2: Clefable used Moonblast on Chansey
+p1: Chansey used Toxic on Clefable
+Turn 32:
+p2: Switched to Rotom-Wash
+p1: Switched to Ditto
+Turn 33:
+p1: Ditto used Volt Switch on Rotom-Wash
+p1: Switched to Chansey
+p2: Rotom-Wash used Volt Switch on Chansey
+p2: Switched to Dragapult
+Turn 34:
+p2: Dragapult used U-turn on Chansey
+p2: Switched to Landorus-Therian
+p1: Chansey used Soft-Boiled on Chansey
+Turn 35:
+p2: Switched to Clefable
+p1: Chansey failed to use Counter
+Turn 36:
+p1: Switched to Ditto
+p2: Clefable used Moonblast on Ditto
+Turn 37:
+p1: Ditto used Soft-Boiled on Ditto
+p2: Clefable used Moonblast on Ditto
+Turn 38:
+p1: Ditto used Soft-Boiled on Ditto
+p2: Clefable used Moonblast on Ditto
+Turn 39:
+p1: Ditto used Soft-Boiled on Ditto
+p2: Clefable used Moonblast on Ditto
+Turn 40:
+p1: Switched to Chansey
+p2: Clefable used Moonblast on Chansey
+Turn 41:
+p2: Switched to Rotom-Wash
+p1: Chansey used Soft-Boiled on Chansey
+Turn 42:
+p2: Rotom-Wash used Volt Switch on Chansey
+p2: Switched to Clefable
+p1: Chansey used Toxic on Clefable
+Turn 43:
+p1: Switched to Ditto
+p2: Clefable used Knock Off on Ditto
+Turn 44:
+p2: Clefable used Moonblast on Ditto
+p1: Ditto used Soft-Boiled on Ditto
+Turn 45:
+p1: Ditto used Soft-Boiled on Ditto
+p2: Clefable used Moonblast on Ditto
+Turn 46:
+p2: Switched to Landorus-Therian
+p1: Ditto used Stealth Rock on Landorus-Therian
+Turn 47:
+p1: Switched to Corviknight
+p2: Landorus-Therian used Earthquake on Corviknight
+Turn 48:
+p2: Switched to Rotom-Wash
+p1: Corviknight used Roost on Corviknight
+Turn 49:
+p1: Switched to Dragapult
+p2: Rotom-Wash used Pain Split on Dragapult
+Turn 50:
+p1: Dragapult used Shadow Ball on Rotom-Wash
+p2: Rotom-Wash used Volt Switch on Dragapult
+p2: Switched to Landorus-Therian
+Turn 51:
+p1: Switched to Corviknight
+p2: Landorus-Therian used U-turn on Corviknight
+p2: Switched to Rotom-Wash
+Turn 52:
+p2: Rotom-Wash used Volt Switch on Corviknight
+p2: Switched to Dragapult
+p1: Corviknight used Body Press on Dragapult
+Turn 53:
+p1: Switched to Chansey
+p2: Dragapult used Draco Meteor on Chansey
+Turn 54:

@@ -1,0 +1,213 @@
+|j|☆johhny2ninjas
+|j|☆magamegamillions
+|t:|1711940311
+|gametype|singles
+|player|p1|johhny2ninjas|skierf|
+|player|p2|magamegamillions|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711940311
+|start
+|switch|p1a: Tropius|Tropius, L91, F|328/328
+|switch|p2a: Gengar|Gengar, L78, F|222/222
+|turn|1
+|
+|t:|1711940343
+|move|p2a: Gengar|Sludge Wave|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-damage|p1a: Tropius|47/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|129/328|[from] item: Sitrus Berry
+|-damage|p2a: Gengar|200/222|[from] item: Life Orb
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|47/328
+|
+|upkeep
+|turn|2
+|
+|t:|1711940356
+|move|p2a: Gengar|Sludge Wave|p1a: Tropius
+|-supereffective|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|-damage|p2a: Gengar|178/222|[from] item: Life Orb
+|move|p1a: Tropius|Leech Seed|p2a: Gengar
+|-start|p2a: Gengar|move: Leech Seed
+|
+|-damage|p2a: Gengar|151/222|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|74/328|[silent]
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|156/328|[from] item: Sitrus Berry
+|turn|3
+|
+|t:|1711940366
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Gengar|Sludge Wave|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Gengar|124/222|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|183/328|[silent]
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|4
+|
+|t:|1711940380
+|switch|p1a: Alomomola|Alomomola, L86, F|424/424
+|move|p2a: Gengar|Sludge Wave|p1a: Alomomola
+|-damage|p1a: Alomomola|220/424
+|-damage|p2a: Gengar|102/222|[from] item: Life Orb
+|
+|-damage|p2a: Gengar|75/222|[from] Leech Seed|[of] p1a: Alomomola
+|-heal|p1a: Alomomola|247/424|[silent]
+|upkeep
+|turn|5
+|
+|t:|1711940395
+|move|p1a: Alomomola|Protect|p1a: Alomomola
+|-singleturn|p1a: Alomomola|Protect
+|move|p2a: Gengar|Sludge Wave|p1a: Alomomola
+|-activate|p1a: Alomomola|move: Protect
+|
+|-damage|p2a: Gengar|48/222|[from] Leech Seed|[of] p1a: Alomomola
+|-heal|p1a: Alomomola|274/424|[silent]
+|upkeep
+|turn|6
+|
+|t:|1711940404
+|move|p2a: Gengar|Sludge Wave|p1a: Alomomola
+|-damage|p1a: Alomomola|36/424
+|-damage|p2a: Gengar|26/222|[from] item: Life Orb
+|move|p1a: Alomomola|Wish|p1a: Alomomola
+|
+|-damage|p2a: Gengar|0 fnt|[from] Leech Seed|[of] p1a: Alomomola
+|-heal|p1a: Alomomola|62/424|[silent]
+|faint|p2a: Gengar
+|upkeep
+|
+|t:|1711940424
+|switch|p2a: Terrakion|Terrakion, L76|263/263
+|turn|7
+|
+|t:|1711940451
+|switch|p1a: Tropius|Tropius, L91, F|183/328
+|move|p2a: Terrakion|Quick Attack|p1a: Tropius
+|-damage|p1a: Tropius|140/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|222/328|[from] item: Sitrus Berry
+|
+|-heal|p1a: Tropius|328/328|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|8
+|
+|t:|1711940536
+|switch|p2a: Carracosta|Carracosta, L85, M|265/265
+|move|p1a: Tropius|Leech Seed|p2a: Carracosta
+|-start|p2a: Carracosta|move: Leech Seed
+|
+|-damage|p2a: Carracosta|232/265|[from] Leech Seed|[of] p1a: Tropius
+|upkeep
+|turn|9
+|
+|t:|1711940548
+|switch|p2a: Swellow|Swellow, L84, F|238/238
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|246/328
+|
+|-status|p2a: Swellow|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1711940562
+|move|p2a: Swellow|Quick Attack|p1a: Tropius
+|-crit|p1a: Tropius
+|-end|p1a: Tropius|Substitute
+|move|p1a: Tropius|Leech Seed|p2a: Swellow
+|-start|p2a: Swellow|move: Leech Seed
+|
+|-damage|p2a: Swellow|209/238 tox|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|275/328|[silent]
+|-damage|p2a: Swellow|195/238 tox|[from] psn
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|turn|11
+|
+|t:|1711940572
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Swellow|Facade|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Swellow|166/238 tox|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|304/328|[silent]
+|-damage|p2a: Swellow|138/238 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1711940580
+|move|p2a: Swellow|Facade|p1a: Tropius
+|-damage|p1a: Tropius|120/328
+|-enditem|p1a: Tropius|Sitrus Berry|[eat]
+|-heal|p1a: Tropius|202/328|[from] item: Sitrus Berry
+|move|p1a: Tropius|Substitute|p1a: Tropius
+|-start|p1a: Tropius|Substitute
+|-damage|p1a: Tropius|120/328
+|
+|-damage|p2a: Swellow|109/238 tox|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|149/328|[silent]
+|-damage|p2a: Swellow|67/238 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711940592
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Swellow|Quick Attack|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Swellow|38/238 tox|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|178/328|[silent]
+|-damage|p2a: Swellow|0 fnt|[from] psn
+|faint|p2a: Swellow
+|-item|p1a: Tropius|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1711940605
+|switch|p2a: Ledian|Ledian, M|271/271
+|turn|14
+|
+|t:|1711940612
+|move|p2a: Ledian|Toxic||[still]
+|-fail|p2a: Ledian
+|move|p1a: Tropius|Leech Seed|p2a: Ledian
+|-start|p2a: Ledian|move: Leech Seed
+|
+|-damage|p2a: Ledian|238/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|211/328|[silent]
+|upkeep
+|turn|15
+|
+|t:|1711940627
+|move|p1a: Tropius|Protect|p1a: Tropius
+|-singleturn|p1a: Tropius|Protect
+|move|p2a: Ledian|Focus Blast|p1a: Tropius
+|-activate|p1a: Tropius|move: Protect
+|
+|-damage|p2a: Ledian|205/271|[from] Leech Seed|[of] p1a: Tropius
+|-heal|p1a: Tropius|244/328|[silent]
+|upkeep
+|turn|16
+|-message|magamegamillions forfeited.
+|
+|win|johhny2ninjas
+|l|☆magamegamillions
+|player|p2|

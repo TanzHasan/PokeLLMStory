@@ -1,0 +1,113 @@
+|j|☆mcribs
+|j|☆CharonBuran
+|t:|1711947286
+|gametype|singles
+|player|p1|mcribs|brycenman|1173
+|player|p2|CharonBuran|n|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711947286
+|start
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CharonBuran)
+|inactive|mcribs also wants the timer to be on.
+|
+|t:|1711947306
+|move|p1a: Dragonite|Superpower|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|8/100
+|-unboost|p1a: Dragonite|atk|1
+|-unboost|p1a: Dragonite|def|1
+|-damage|p1a: Dragonite|91/100|[from] item: Life Orb
+|move|p2a: Heatran|Dragon Pulse|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1711947317
+|switch|p1a: Tentacruel|Tentacruel, F|100/100
+|turn|2
+|
+|t:|1711947333
+|switch|p2a: Bronzong|Bronzong|100/100
+|move|p1a: Tentacruel|Surf|p2a: Bronzong
+|-damage|p2a: Bronzong|77/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711947345
+|switch|p1a: Gliscor|Gliscor, F|100/100
+|move|p2a: Bronzong|Trick Room|p2a: Bronzong
+|-fieldstart|move: Trick Room|[of] p2a: Bronzong
+|
+|upkeep
+|turn|4
+|
+|t:|1711947353
+|move|p2a: Bronzong|Gyro Ball|p1a: Gliscor
+|-damage|p1a: Gliscor|46/100
+|move|p1a: Gliscor|Knock Off|p2a: Bronzong
+|-damage|p2a: Bronzong|72/100
+|-enditem|p2a: Bronzong|Macho Brace|[from] move: Knock Off|[of] p1a: Gliscor
+|-hint|In Gens 3-4, Knock Off only makes the target's item unusable; it cannot obtain a new item.
+|
+|-heal|p1a: Gliscor|52/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711947363
+|switch|p1a: Tentacruel|Tentacruel, F|100/100
+|move|p2a: Bronzong|Gyro Ball|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|76/100
+|
+|-heal|p1a: Tentacruel|82/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1711947371
+|move|p2a: Bronzong|Earthquake|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-damage|p1a: Tentacruel|19/100
+|move|p1a: Tentacruel|Surf|p2a: Bronzong
+|-damage|p2a: Bronzong|49/100
+|
+|-heal|p1a: Tentacruel|25/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1711947378
+|switch|p1a: Celebi|Celebi|100/100
+|move|p2a: Bronzong|Gyro Ball|p1a: Celebi
+|-damage|p1a: Celebi|71/100
+|
+|-heal|p1a: Celebi|77/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|8
+|-message|mcribs forfeited.
+|
+|win|CharonBuran
+|raw|mcribs's rating: 1173 &rarr; <strong>1136</strong><br />(-37 for losing)
+|raw|CharonBuran's rating: 1000 &rarr; <strong>1058</strong><br />(+58 for winning)
+|l|☆mcribs
+|player|p1|

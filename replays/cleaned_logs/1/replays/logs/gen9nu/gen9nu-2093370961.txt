@@ -1,0 +1,94 @@
+p1: Switched to Tatsugiri
+p2: Switched to Sylveon
+Turn 1:
+p1: Switched to Magneton
+p2: Sylveon used Hyper Voice on Magneton
+Turn 2:
+p1: Magneton used Flash Cannon on Sylveon
+p2: Sylveon used Hyper Voice on Magneton
+p1: Magneton fainted
+p1: Switched to Toxicroak
+Turn 3:
+p1: Switched to Fraxure
+p2: Sylveon used Hyper Voice on Fraxure
+p1: Fraxure fainted
+p1: Switched to Tauros-Paldea-Blaze
+Turn 4:
+p1: Tauros-Paldea-Blaze used Raging Bull on Sylveon
+p2: Sylveon fainted
+p2: Switched to Swampert
+Turn 5:
+p1: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
+p2: Swampert used Flip Turn on Tauros-Paldea-Blaze
+p2: Switched to Dragalge
+Turn 6:
+p1: Switched to Gligar
+p2: Dragalge used Draco Meteor on Gligar
+Turn 7:
+p1: Gligar used Knock Off on Dragalge
+p2: Dragalge used Flip Turn on Gligar
+p2: Switched to Mew
+Turn 8:
+p2: Mew used Iron Defense on Mew
+p1: Gligar used Knock Off on Mew
+Turn 9:
+p2: Mew used Iron Defense on Mew
+p1: Gligar used U-turn on Mew
+p1: Switched to Toxicroak
+Turn 10:
+p1: Toxicroak used Sludge Bomb on Mew
+p2: Mew used Stored Power on Toxicroak
+p1: Toxicroak fainted
+p1: Switched to Tatsugiri
+Turn 11:
+p1: Tatsugiri used Hydro Pump on Mew
+p2: Mew fainted
+p2: Switched to Dragalge
+Turn 12:
+p1: Switched to Gligar
+p2: Dragalge used Toxic Spikes on Gligar
+Turn 13:
+p1: Gligar used Earthquake on Dragalge
+p2: Dragalge used Flip Turn on Gligar
+p2: Switched to Umbreon
+Turn 14:
+p1: Gligar used Stealth Rock on Umbreon
+p2: Umbreon used Foul Play on Gligar
+Turn 15:
+p1: Gligar used Knock Off on Umbreon
+p2: Umbreon used Foul Play on Gligar
+p1: Gligar fainted
+p1: Switched to Tatsugiri
+Turn 16:
+p1: Tatsugiri used Rapid Spin on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 17:
+p1: Switched to Tauros-Paldea-Blaze
+p2: Umbreon used Foul Play on Tauros-Paldea-Blaze
+Turn 18:
+p1: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
+p2: Umbreon used Toxic on Tauros-Paldea-Blaze
+Turn 19:
+p1: Tauros-Paldea-Blaze used Body Press on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 20:
+p2: Umbreon used Protect on Umbreon
+p1: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
+Turn 21:
+p2: Switched to Dragalge
+p1: Tauros-Paldea-Blaze used Body Press on Dragalge
+p2: Dragalge fainted
+p2: Switched to Umbreon
+Turn 22:
+p1: Switched to Tatsugiri
+p2: Umbreon used Wish on Umbreon
+Turn 23:
+p1: Switched to Tauros-Paldea-Blaze
+p2: Umbreon failed to use Protect
+Turn 24:
+p1: Tauros-Paldea-Blaze used Body Press on Umbreon
+p2: Umbreon used Foul Play on Tauros-Paldea-Blaze
+Turn 25:
+p1: Tauros-Paldea-Blaze used Raging Bull on Umbreon
+p2: Umbreon used Wish on Umbreon
+p1: Tauros-Paldea-Blaze fainted

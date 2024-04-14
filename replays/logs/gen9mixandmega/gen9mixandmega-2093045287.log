@@ -1,0 +1,236 @@
+|j|☆gyma2008
+|j|☆H4ruto
+|t:|1711906756
+|gametype|singles
+|player|p1|gyma2008|102|
+|player|p2|H4ruto|yellow|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Terastal Clause: You cannot Terastallize
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|clearpoke
+|poke|p1|Gastly, L5, M|
+|poke|p1|Growlithe-Hisui, L5, M|
+|poke|p1|Glimmet, L5, M|
+|poke|p1|Vullaby, L5, F|
+|poke|p1|Timburr, L5, M|
+|poke|p1|Elekid, L5, F|
+|poke|p2|Pawniard, L5, F|
+|poke|p2|Sandshrew-Alola, L5, F|
+|poke|p2|Gligar, L5, F|
+|poke|p2|Mienfoo, L5, F|
+|poke|p2|Arrokuda, L5, M|
+|poke|p2|Vullaby, L5, F|
+|teampreview
+|j|%Iolanthe
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gyma2008)
+|c|☆H4ruto|gl hf
+|
+|t:|1711906782
+|start
+|switch|p1a: Gastly|Gastly, L5, M|100/100
+|switch|p2a: Vullaby|Vullaby, L5, F|100/100
+|turn|1
+|l|%Iolanthe
+|c|☆gyma2008|u too
+|inactive|gyma2008 has 120 seconds left.
+|
+|t:|1711906821
+|detailschange|p2a: Vullaby|Vullaby, L5, F
+|-mega|p2a: Vullaby|Vullaby|Sablenite
+|-start|p2a: Vullaby|Sablenite|[silent]
+|move|p1a: Gastly|Dazzling Gleam|p2a: Vullaby
+|-supereffective|p2a: Vullaby
+|-damage|p2a: Vullaby|40/100
+|move|p2a: Vullaby|Knock Off|p1a: Gastly
+|-supereffective|p1a: Gastly
+|-damage|p1a: Gastly|0 fnt
+|-enditem|p1a: Gastly|Eviolite|[from] move: Knock Off|[of] p2a: Vullaby
+|faint|p1a: Gastly
+|
+|upkeep
+|
+|t:|1711906835
+|switch|p1a: Timburr|Timburr, L5, M|100/100
+|turn|2
+|
+|t:|1711906839
+|move|p2a: Vullaby|U-turn|p1a: Timburr
+|-resisted|p1a: Timburr
+|-damage|p1a: Timburr|92/100
+|
+|t:|1711906842
+|-end|p2a: Vullaby|Sablenite|[silent]
+|switch|p2a: Gligar|Gligar, L5, F|100/100|[from] U-turn
+|move|p1a: Timburr|Ice Punch|p2a: Gligar
+|-supereffective|p2a: Gligar
+|-damage|p2a: Gligar|31/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711906850
+|move|p2a: Gligar|Dual Wingbeat|p1a: Timburr
+|-supereffective|p1a: Timburr
+|-crit|p1a: Timburr
+|-damage|p1a: Timburr|34/100
+|-supereffective|p1a: Timburr
+|-damage|p1a: Timburr|0 fnt
+|faint|p1a: Timburr
+|-hitcount|p1: Timburr|2
+|
+|upkeep
+|
+|t:|1711906859
+|switch|p1a: Elekid|Elekid, L5, F|100/100
+|turn|4
+|
+|t:|1711906868
+|move|p1a: Elekid|Volt Switch|p2a: Gligar
+|-immune|p2a: Gligar
+|move|p2a: Gligar|U-turn|p1a: Elekid
+|-damage|p1a: Elekid|53/100
+|
+|t:|1711906877
+|switch|p2a: Mienfoo|Mienfoo, L5, F|100/100|[from] U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1711906883
+|move|p1a: Elekid|Psychic|p2a: Mienfoo
+|-supereffective|p2a: Mienfoo
+|-damage|p2a: Mienfoo|15/100
+|-damage|p1a: Elekid|43/100|[from] item: Life Orb
+|move|p2a: Mienfoo|Knock Off|p1a: Elekid
+|-damage|p1a: Elekid|0 fnt
+|-enditem|p1a: Elekid|Life Orb|[from] move: Knock Off|[of] p2a: Mienfoo
+|faint|p1a: Elekid
+|
+|upkeep
+|
+|t:|1711906892
+|switch|p1a: Vullaby|Vullaby, L5, F|100/100
+|turn|6
+|j|@TheTrueLtaker
+|
+|t:|1711906900
+|move|p2a: Mienfoo|U-turn|p1a: Vullaby
+|-damage|p1a: Vullaby|79/100
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|
+|t:|1711906906
+|switch|p2a: Gligar|Gligar, L5, F|31/100|[from] U-turn
+|move|p1a: Vullaby|U-turn|p2a: Gligar
+|-resisted|p2a: Gligar
+|-damage|p2a: Gligar|27/100
+|
+|t:|1711906916
+|switch|p1a: Glimmet|Glimmet, L5, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1711906923
+|move|p1a: Glimmet|Power Gem|p2a: Gligar
+|-damage|p2a: Gligar|0 fnt
+|faint|p2a: Gligar
+|
+|upkeep
+|
+|t:|1711906928
+|switch|p2a: Arrokuda|Arrokuda, L5, M|100/100
+|turn|8
+|
+|t:|1711906933
+|detailschange|p2a: Arrokuda|Arrokuda, L5, M
+|-mega|p2a: Arrokuda|Arrokuda|Lopunnite
+|-start|p2a: Arrokuda|Lopunnite|[silent]
+|-start|p2a: Arrokuda|typechange|Water/Fighting|[silent]
+|move|p2a: Arrokuda|Liquidation|p1a: Glimmet
+|-supereffective|p1a: Glimmet
+|-damage|p1a: Glimmet|0 fnt
+|-activate|p1a: Glimmet|ability: Toxic Debris
+|-sidestart|p2: H4ruto|move: Toxic Spikes
+|faint|p1a: Glimmet
+|
+|upkeep
+|
+|t:|1711906943
+|switch|p1a: Vullaby|Vullaby, L5, F|79/100
+|turn|9
+|c|☆H4ruto|gg
+|
+|t:|1711906948
+|move|p2a: Arrokuda|Flip Turn|p1a: Vullaby
+|-damage|p1a: Vullaby|48/100
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|
+|t:|1711906950
+|-end|p2a: Arrokuda|Lopunnite|[silent]
+|switch|p2a: Sandshrew|Sandshrew-Alola, L5, F|100/100|[from] Flip Turn
+|move|p1a: Vullaby|Brave Bird|p2a: Sandshrew
+|-resisted|p2a: Sandshrew
+|-damage|p2a: Sandshrew|73/100
+|-damage|p1a: Vullaby|40/100|[from] Recoil
+|
+|upkeep
+|turn|10
+|
+|t:|1711906961
+|detailschange|p2a: Sandshrew|Sandshrew-Alola, L5, F
+|-mega|p2a: Sandshrew|Sandshrew|Scizorite
+|-start|p2a: Sandshrew|Scizorite|[silent]
+|move|p2a: Sandshrew|Ice Shard|p1a: Vullaby
+|-supereffective|p1a: Vullaby
+|-damage|p1a: Vullaby|0 fnt
+|faint|p1a: Vullaby
+|
+|upkeep
+|
+|t:|1711906967
+|switch|p1a: Growlithe|Growlithe-Hisui, L5, M|100/100
+|turn|11
+|
+|t:|1711906975
+|-end|p2a: Sandshrew|Scizorite|[silent]
+|switch|p2a: Vullaby|Vullaby, L5, F|40/100
+|-start|p2a: Vullaby|Sablenite|[silent]
+|move|p1a: Growlithe|Head Smash|p2a: Vullaby
+|-supereffective|p2a: Vullaby
+|-damage|p2a: Vullaby|0 fnt
+|faint|p2a: Vullaby
+|
+|upkeep
+|
+|t:|1711906981
+|switch|p2a: Arrokuda|Arrokuda, L5, M|100/100
+|-start|p2a: Arrokuda|Lopunnite|[silent]
+|-start|p2a: Arrokuda|typechange|Water/Fighting|[silent]
+|-status|p2a: Arrokuda|psn
+|turn|12
+|
+|t:|1711906987
+|move|p2a: Arrokuda|Aqua Jet|p1a: Growlithe
+|-supereffective|p1a: Growlithe
+|-damage|p1a: Growlithe|0 fnt
+|faint|p1a: Growlithe
+|
+|win|H4ruto
+|n|☆gyma2008|gyma2008
+|n|☆H4ruto|h4ruto
+|n| TheTrueLtaker|thetrueltaker

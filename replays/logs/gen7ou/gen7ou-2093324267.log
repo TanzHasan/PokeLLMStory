@@ -1,0 +1,310 @@
+|j|☆LavSSBM
+|j|☆Oribi
+|t:|1711939421
+|gametype|singles
+|player|p1|LavSSBM|102|
+|player|p2|Oribi|miku-flying|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Hydreigon, M|item
+|poke|p1|Pinsir, M|item
+|poke|p1|Gengar, F|item
+|poke|p1|Quagsire, F|item
+|poke|p1|Tornadus, M|item
+|poke|p1|Cresselia, F|item
+|poke|p2|Magneton|item
+|poke|p2|Cobalion|item
+|poke|p2|Venomoth, F|item
+|poke|p2|Altaria, F|item
+|poke|p2|Sylveon, F|item
+|poke|p2|Diggersby, F|item
+|teampreview
+|j| DSBRUCE
+|c|☆LavSSBM|gl hf!
+|c|☆Oribi|glhf!!
+|
+|t:|1711939476
+|start
+|switch|p1a: Gengar|Gengar, F|100/100
+|switch|p2a: Diggersby|Diggersby, F|100/100
+|turn|1
+|
+|t:|1711939513
+|move|p1a: Gengar|Sludge Wave|p2a: Diggersby
+|-resisted|p2a: Diggersby
+|-damage|p2a: Diggersby|57/100
+|move|p2a: Diggersby|Swords Dance|p2a: Diggersby
+|-boost|p2a: Diggersby|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711939519
+|move|p1a: Gengar|Sludge Wave|p2a: Diggersby
+|-resisted|p2a: Diggersby
+|-damage|p2a: Diggersby|12/100
+|move|p2a: Diggersby|Earthquake|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|-start|p2a: Diggersby|Disable|Earthquake|[from] ability: Cursed Body|[of] p1a: Gengar
+|faint|p1a: Gengar
+|-damage|p2a: Diggersby|2/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711939531
+|switch|p1a: Pinsir|Pinsir, M|100/100
+|turn|3
+|
+|t:|1711939562
+|detailschange|p1a: Pinsir|Pinsir-Mega, M
+|-mega|p1a: Pinsir|Pinsir|Pinsirite
+|move|p1a: Pinsir|Quick Attack|p2a: Diggersby
+|-damage|p2a: Diggersby|0 fnt
+|faint|p2a: Diggersby
+|
+|upkeep
+|
+|t:|1711939568
+|switch|p2a: Magneton|Magneton|100/100
+|-item|p2a: Magneton|Air Balloon
+|turn|4
+|
+|t:|1711939595
+|switch|p1a: trans rights|Quagsire, F, shiny|100/100
+|move|p2a: Magneton|Electroweb|p1a: trans rights
+|-immune|p1a: trans rights
+|
+|upkeep
+|turn|5
+|
+|t:|1711939621
+|move|p2a: Magneton|Toxic|p1a: trans rights
+|-status|p1a: trans rights|tox
+|move|p1a: trans rights|Scald|p2a: Magneton
+|-damage|p2a: Magneton|79/100
+|-enditem|p2a: Magneton|Air Balloon
+|
+|-damage|p1a: trans rights|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711939641
+|switch|p2a: Altaria|Altaria, F|100/100
+|move|p1a: trans rights|Toxic|p2a: Altaria
+|-status|p2a: Altaria|tox
+|
+|-heal|p1a: trans rights|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Altaria|94/100 tox|[from] psn
+|-damage|p1a: trans rights|88/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711939670
+|switch|p1a: Pinsir|Pinsir-Mega, M|100/100
+|detailschange|p2a: Altaria|Altaria-Mega, F
+|-mega|p2a: Altaria|Altaria|Altarianite
+|move|p2a: Altaria|Agility|p2a: Altaria
+|-boost|p2a: Altaria|spe|2
+|
+|-damage|p2a: Altaria|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711939706
+|move|p1a: Pinsir|Quick Attack|p2a: Altaria
+|-damage|p2a: Altaria|51/100 tox
+|move|p2a: Altaria|Return|p1a: Pinsir
+|-crit|p1a: Pinsir
+|-damage|p1a: Pinsir|0 fnt
+|faint|p1a: Pinsir
+|
+|-damage|p2a: Altaria|32/100 tox|[from] psn
+|upkeep
+|
+|t:|1711939736
+|switch|p1a: trans rights|Quagsire, F, shiny|88/100 tox
+|turn|9
+|
+|t:|1711939751
+|move|p2a: Altaria|Hidden Power|p1a: trans rights
+|-supereffective|p1a: trans rights
+|-damage|p1a: trans rights|17/100 tox
+|move|p1a: trans rights|Recover|p1a: trans rights
+|-heal|p1a: trans rights|67/100 tox
+|
+|-heal|p1a: trans rights|73/100 tox|[from] item: Leftovers
+|-damage|p2a: Altaria|8/100 tox|[from] psn
+|-damage|p1a: trans rights|67/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711939773
+|move|p2a: Altaria|Return|p1a: trans rights
+|-damage|p1a: trans rights|26/100 tox
+|move|p1a: trans rights|Recover|p1a: trans rights
+|-heal|p1a: trans rights|76/100 tox
+|
+|-heal|p1a: trans rights|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Altaria|0 fnt|[from] psn
+|faint|p2a: Altaria
+|-damage|p1a: trans rights|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1711939789
+|switch|p2a: Sylveon|Sylveon, F|100/100
+|turn|11
+|
+|t:|1711939813
+|move|p2a: Sylveon|Hyper Voice|p1a: trans rights
+|-damage|p1a: trans rights|0 fnt
+|faint|p1a: trans rights
+|
+|upkeep
+|
+|t:|1711939820
+|switch|p1a: Tornadus|Tornadus, M|100/100
+|turn|12
+|
+|t:|1711939848
+|move|p1a: Tornadus|Heat Wave|p2a: Sylveon
+|-damage|p2a: Sylveon|66/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|move|p2a: Sylveon|Hyper Voice|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|c|☆LavSSBM|Woah that is stronger than I thought it'd be
+|
+|t:|1711939864
+|switch|p1a: trans wrongs|Cresselia, F, shiny|100/100
+|turn|13
+|
+|t:|1711939876
+|move|p2a: Sylveon|Hyper Voice|p1a: trans wrongs
+|-damage|p1a: trans wrongs|56/100
+|move|p1a: trans wrongs|Psyshock|p2a: Sylveon
+|-damage|p2a: Sylveon|35/100
+|
+|-heal|p1a: trans wrongs|62/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711939883
+|move|p2a: Sylveon|Hyper Voice|p1a: trans wrongs
+|-damage|p1a: trans wrongs|14/100
+|move|p1a: trans wrongs|Moonlight|p1a: trans wrongs
+|-heal|p1a: trans wrongs|64/100
+|
+|-heal|p1a: trans wrongs|70/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711939890
+|move|p2a: Sylveon|Hyper Voice|p1a: trans wrongs
+|-damage|p1a: trans wrongs|21/100
+|move|p1a: trans wrongs|Moonlight|p1a: trans wrongs
+|-heal|p1a: trans wrongs|71/100
+|
+|-heal|p1a: trans wrongs|77/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711939897
+|move|p2a: Sylveon|Hyper Voice|p1a: trans wrongs
+|-damage|p1a: trans wrongs|35/100
+|move|p1a: trans wrongs|Psyshock|p2a: Sylveon
+|-damage|p2a: Sylveon|5/100
+|
+|-heal|p1a: trans wrongs|41/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711939903
+|move|p2a: Sylveon|Hyper Voice|p1a: trans wrongs
+|-damage|p1a: trans wrongs|0 fnt
+|faint|p1a: trans wrongs
+|
+|upkeep
+|
+|t:|1711939909
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|turn|18
+|
+|t:|1711939920
+|move|p1a: Hydreigon|Surf|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|upkeep
+|
+|t:|1711939937
+|switch|p2a: Venomoth|Venomoth, F|100/100
+|turn|19
+|
+|t:|1711939947
+|move|p1a: Hydreigon|Surf|p2a: Venomoth
+|-damage|p2a: Venomoth|50/100
+|move|p2a: Venomoth|Sleep Powder|p1a: Hydreigon
+|-status|p1a: Hydreigon|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|20
+|
+|t:|1711939954
+|cant|p1a: Hydreigon|slp
+|move|p2a: Venomoth|Bug Buzz|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|20/100 slp
+|
+|upkeep
+|turn|21
+|
+|t:|1711939958
+|-curestatus|p1a: Hydreigon|slp|[msg]
+|move|p1a: Hydreigon|Surf|p2a: Venomoth
+|-damage|p2a: Venomoth|0 fnt
+|faint|p2a: Venomoth
+|
+|upkeep
+|
+|t:|1711939966
+|switch|p2a: Magneton|Magneton|79/100
+|turn|22
+|
+|t:|1711939973
+|move|p1a: Hydreigon|Surf|p2a: Magneton
+|-damage|p2a: Magneton|44/100
+|move|p2a: Magneton|Electroweb|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|6/100
+|-unboost|p1a: Hydreigon|spe|1
+|
+|upkeep
+|turn|23
+|
+|t:|1711939979
+|move|p1a: Hydreigon|Surf|p2a: Magneton
+|-damage|p2a: Magneton|6/100
+|move|p2a: Magneton|Thunderbolt|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|Oribi
+|c|☆Oribi|gg!!
+|l|☆Oribi
+|player|p2|
+|c|☆LavSSBM|gg :)

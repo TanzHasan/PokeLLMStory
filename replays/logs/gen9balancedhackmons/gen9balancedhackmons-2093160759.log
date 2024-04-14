@@ -1,0 +1,89 @@
+|j|☆KLightning18
+|j|☆Jin4President
+|t:|1711919752
+|gametype|singles
+|player|p1|KLightning18|101|1000
+|player|p2|Jin4President|palmer|1000
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p2|Rayquaza|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jin4President)
+|c|☆Jin4President|huh
+|c|☆Jin4President|that's weird
+|
+|t:|1711919769
+|start
+|switch|p1a: DIE|Dragapult, M, shiny|100/100
+|switch|p2a: Rayquaza|Rayquaza|100/100
+|turn|1
+|c|☆KLightning18|We both have 1 Pokémon parties huh?
+|
+|t:|1711919781
+|move|p1a: DIE|Entrainment|p2a: Rayquaza
+|-endability|p2a: Rayquaza|Beast Boost|[from] move: Entrainment
+|-ability|p2a: Rayquaza|Normalize|[from] move: Entrainment
+|move|p2a: Rayquaza|Outrage|p1a: DIE
+|-immune|p1a: DIE
+|
+|upkeep
+|turn|2
+|c|☆Jin4President|and I'll loose because of speed
+|c|☆Jin4President|lol
+|c|☆Jin4President|Y U P
+|c|☆Jin4President|ggs
+|c|☆Jin4President|xd
+|c|☆KLightning18|gg
+|c|☆Jin4President|gg
+|
+|t:|1711919804
+|move|p1a: DIE|Hone Claws|p1a: DIE
+|-boost|p1a: DIE|atk|1
+|-boost|p1a: DIE|accuracy|1
+|move|p2a: Rayquaza|Outrage|p1a: DIE
+|-immune|p1a: DIE
+|
+|upkeep
+|turn|3
+|
+|t:|1711919814
+|move|p1a: DIE|Judgment|p2a: Rayquaza
+|-supereffective|p2a: Rayquaza
+|-damage|p2a: Rayquaza|47/100
+|move|p2a: Rayquaza|Dragon Ascent|p1a: DIE
+|-immune|p1a: DIE
+|
+|upkeep
+|turn|4
+|
+|t:|1711919822
+|move|p1a: DIE|Judgment|p2a: Rayquaza
+|-supereffective|p2a: Rayquaza
+|-damage|p2a: Rayquaza|0 fnt
+|faint|p2a: Rayquaza
+|
+|win|KLightning18
+|raw|KLightning18's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Jin4President's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|c|☆KLightning18|Gg
+|c|☆Jin4President|gg
+|c|☆Jin4President|xD
+|l|☆Jin4President
+|player|p2|
+|c|☆KLightning18|XD

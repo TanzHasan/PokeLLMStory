@@ -1,0 +1,57 @@
+p1: Switched to Ampharos
+p2: Switched to Reuniclus
+Turn 1:
+p1: Ampharos used Thunder Wave on Reuniclus
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 2:
+p1: Ampharos used Thunder on Reuniclus
+p2: Reuniclus used Psychic on Ampharos
+Turn 3:
+p1: Ampharos used Thunder on Reuniclus
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 4:
+p1: Ampharos used Thunder on Reuniclus
+p2: Reuniclus can't move
+Turn 5:
+p1: Ampharos used Discharge on Reuniclus
+p2: Reuniclus can't move
+Turn 6:
+p1: Ampharos used Thunderbolt on Reuniclus
+p2: Reuniclus fainted
+p2: Switched to Ursaluna
+Turn 7:
+p1: Ampharos used Thunder Wave on Ursaluna
+p2: Ursaluna used Swords Dance on Ursaluna
+Turn 8:
+p1: Switched to Lucario
+p2: Ursaluna used Swords Dance on Ursaluna
+Turn 9:
+p1: Lucario used Close Combat on Ursaluna
+p2: Ursaluna used Drain Punch on Lucario
+p1: Lucario fainted
+p1: Switched to Camerupt
+Turn 10:
+p1: Camerupt used Lava Plume on Ursaluna
+p2: Ursaluna used Drain Punch on Camerupt
+p1: Camerupt fainted
+p1: Switched to Scizor
+Turn 11:
+p1: Scizor used Close Combat on Ursaluna
+p2: Ursaluna used Drain Punch on Scizor
+p1: Scizor fainted
+p1: Switched to Kommo-o
+Turn 12:
+p2: Switched to Enamorus-Therian
+p1: Kommo-o used Dragon Tail on Enamorus-Therian
+Turn 13:
+p1: Kommo-o used Flash Cannon on Enamorus-Therian
+p2: Enamorus-Therian used Earth Power on Kommo-o
+Turn 14:
+p2: Switched to Cresselia
+p1: Kommo-o used Flamethrower on Cresselia
+Turn 15:
+p1: Kommo-o used Dragon Tail on Cresselia
+Turn 16:
+p1: Kommo-o used Flash Cannon on Enamorus-Therian
+p2: Enamorus-Therian used Draining Kiss on Kommo-o
+p1: Kommo-o fainted

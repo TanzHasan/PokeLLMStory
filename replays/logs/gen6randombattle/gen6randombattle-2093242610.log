@@ -1,0 +1,345 @@
+|j|☆blackprincey
+|j|☆Mothstalgia
+|t:|1711929359
+|gametype|singles
+|player|p1|blackprincey|ninjaboy|1506
+|player|p2|Mothstalgia|rei|1650
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711929359
+|start
+|switch|p1a: Heracross|Heracross, L80, M|259/259
+|switch|p2a: Spiritomb|Spiritomb, L89, F|234/234
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mothstalgia)
+|
+|t:|1711929391
+|switch|p2a: Granbull|Granbull, L87, M|298/298
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Heracross|atk|1
+|move|p1a: Heracross|Knock Off|p2a: Granbull
+|-resisted|p2a: Granbull
+|-damage|p2a: Granbull|272/298
+|-enditem|p2a: Granbull|Leftovers|[from] move: Knock Off|[of] p1a: Heracross
+|
+|-status|p1a: Heracross|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1711929406
+|switch|p1a: Venomoth|Venomoth, L84, F|237/237
+|move|p2a: Granbull|Thunder Wave|p1a: Venomoth
+|-status|p1a: Venomoth|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711929429
+|switch|p2a: Arbok|Arbok, L90, M|254/254
+|move|p1a: Venomoth|Sludge Bomb|p2a: Arbok
+|-resisted|p2a: Arbok
+|-damage|p2a: Arbok|166/254
+|
+|upkeep
+|turn|4
+|inactive|blackprincey has 120 seconds left.
+|
+|t:|1711929456
+|switch|p1a: Garchomp|Garchomp, L75, M|286/286
+|move|p2a: Arbok|Coil|p2a: Arbok
+|-boost|p2a: Arbok|atk|1
+|-boost|p2a: Arbok|def|1
+|-boost|p2a: Arbok|accuracy|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711929469
+|move|p1a: Garchomp|Earthquake|p2a: Arbok
+|-supereffective|p2a: Arbok
+|-damage|p2a: Arbok|8/254
+|move|p2a: Arbok|Earthquake|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|72/286
+|-damage|p2a: Arbok|0 fnt|[from] item: Life Orb
+|faint|p2a: Arbok
+|
+|upkeep
+|
+|t:|1711929482
+|switch|p2a: Flygon|Flygon, L84, F|272/272
+|turn|6
+|
+|t:|1711929500
+|move|p2a: Flygon|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|blackprincey has 120 seconds left.
+|
+|t:|1711929513
+|switch|p1a: Porygon-Z|Porygon-Z, L82|274/274
+|-ability|p1a: Porygon-Z|Download|boost
+|-boost|p1a: Porygon-Z|spa|1
+|turn|7
+|inactive|blackprincey has 120 seconds left.
+|
+|t:|1711929537
+|switch|p2a: Spiritomb|Spiritomb, L89, F|234/234
+|move|p1a: Porygon-Z|Ice Beam|p2a: Spiritomb
+|-damage|p2a: Spiritomb|111/234
+|-damage|p1a: Porygon-Z|247/274|[from] item: Life Orb
+|
+|-heal|p2a: Spiritomb|125/234|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711929555
+|move|p2a: Spiritomb|Sucker Punch|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|133/274
+|move|p1a: Porygon-Z|Ice Beam|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|-damage|p1a: Porygon-Z|106/274|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711929563
+|switch|p2a: Flygon|Flygon, L84, F|272/272
+|turn|9
+|
+|t:|1711929580
+|move|p2a: Flygon|Earthquake|p1a: Porygon-Z
+|-crit|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|
+|upkeep
+|
+|t:|1711929597
+|switch|p1a: Purugly|Purugly, L87, F|265/265
+|turn|10
+|
+|t:|1711929604
+|switch|p2a: Granbull|Granbull, L87, M|272/298
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Purugly|atk|1
+|move|p1a: Purugly|Fake Out|p2a: Granbull
+|-damage|p2a: Granbull|238/298
+|
+|upkeep
+|turn|11
+|
+|t:|1711929612
+|move|p1a: Purugly|U-turn|p2a: Granbull
+|-resisted|p2a: Granbull
+|-crit|p2a: Granbull
+|-damage|p2a: Granbull|202/298
+|
+|t:|1711929616
+|switch|p1a: Venomoth|Venomoth, L84, F|237/237 par|[from] U-turn
+|move|p2a: Granbull|Earthquake|p1a: Venomoth
+|-damage|p1a: Venomoth|112/237 par
+|
+|-heal|p1a: Venomoth|126/237 par|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1711929633
+|switch|p2a: Barbaracle|Barbaracle, L82, M|252/252
+|move|p1a: Venomoth|Sludge Bomb|p2a: Barbaracle
+|-resisted|p2a: Barbaracle
+|-damage|p2a: Barbaracle|168/252
+|
+|-heal|p1a: Venomoth|140/237 par|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1711929648
+|move|p2a: Barbaracle|Shell Smash|p2a: Barbaracle
+|-unboost|p2a: Barbaracle|def|1
+|-unboost|p2a: Barbaracle|spd|1
+|-boost|p2a: Barbaracle|atk|2
+|-boost|p2a: Barbaracle|spa|2
+|-boost|p2a: Barbaracle|spe|2
+|-enditem|p2a: Barbaracle|White Herb
+|-clearnegativeboost|p2a: Barbaracle|[silent]
+|move|p1a: Venomoth|Sludge Bomb|p2a: Barbaracle
+|-resisted|p2a: Barbaracle
+|-damage|p2a: Barbaracle|74/252
+|
+|-heal|p1a: Venomoth|154/237 par|[from] item: Black Sludge
+|upkeep
+|turn|14
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929677
+|move|p2a: Barbaracle|Razor Shell|p1a: Venomoth
+|-damage|p1a: Venomoth|0 fnt
+|faint|p1a: Venomoth
+|
+|upkeep
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929687
+|switch|p1a: Heracross|Heracross, L80, M|259/259 tox
+|turn|15
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929697
+|move|p2a: Barbaracle|Stone Edge|p1a: Heracross
+|-damage|p1a: Heracross|7/259 tox
+|move|p1a: Heracross|Close Combat|p2a: Barbaracle
+|-supereffective|p2a: Barbaracle
+|-damage|p2a: Barbaracle|0 fnt
+|-unboost|p1a: Heracross|def|1
+|-unboost|p1a: Heracross|spd|1
+|faint|p2a: Barbaracle
+|
+|-damage|p1a: Heracross|0 fnt|[from] psn
+|faint|p1a: Heracross
+|upkeep
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929712
+|switch|p1a: Purugly|Purugly, L87, F|265/265
+|switch|p2a: Granbull|Granbull, L87, M|202/298
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Purugly|atk|1
+|turn|16
+|
+|t:|1711929720
+|move|p1a: Purugly|Fake Out|p2a: Granbull
+|-damage|p2a: Granbull|168/298
+|cant|p2a: Granbull|flinch
+|
+|upkeep
+|turn|17
+|
+|t:|1711929731
+|move|p1a: Purugly|Return|p2a: Granbull
+|-damage|p2a: Granbull|80/298
+|move|p2a: Granbull|Thunder Wave|p1a: Purugly
+|-status|p1a: Purugly|par
+|
+|upkeep
+|turn|18
+|inactive|Mothstalgia has 120 seconds left.
+|
+|t:|1711929772
+|switch|p2a: Flygon|Flygon, L84, F|272/272
+|move|p1a: Purugly|Return|p2a: Flygon
+|-damage|p2a: Flygon|181/272
+|
+|-heal|p2a: Flygon|198/272|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929798
+|move|p2a: Flygon|Earthquake|p1a: Purugly
+|-crit|p1a: Purugly
+|-damage|p1a: Purugly|82/265 par
+|move|p1a: Purugly|Return|p2a: Flygon
+|-damage|p2a: Flygon|119/272
+|
+|-heal|p2a: Flygon|136/272|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|blackprincey has 90 seconds left.
+|inactive|Mothstalgia has 120 seconds left.
+|
+|t:|1711929814
+|move|p2a: Flygon|Roost|p2a: Flygon
+|-heal|p2a: Flygon|272/272
+|-singleturn|p2a: Flygon|move: Roost
+|move|p1a: Purugly|U-turn|p2a: Flygon
+|-crit|p2a: Flygon
+|-damage|p2a: Flygon|199/272
+|
+|t:|1711929820
+|switch|p1a: Blaziken|Blaziken, L75, M|243/243|[from] U-turn
+|
+|-heal|p2a: Flygon|216/272|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711929833
+|switch|p2a: Granbull|Granbull, L87, M|80/298
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|detailschange|p1a: Blaziken|Blaziken-Mega, L75, M
+|-mega|p1a: Blaziken|Blaziken|Blazikenite
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|22
+|
+|t:|1711929848
+|switch|p2a: Flygon|Flygon, L84, F|216/272
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-heal|p2a: Flygon|233/272|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|23
+|
+|t:|1711929859
+|switch|p2a: Granbull|Granbull, L87, M|80/298
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|High Jump Kick|p2a: Granbull
+|-resisted|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1711929863
+|switch|p2a: Flygon|Flygon, L84, F|233/272
+|turn|24
+|inactive|blackprincey has 90 seconds left.
+|
+|t:|1711929883
+|move|p1a: Blaziken|High Jump Kick|p2a: Flygon
+|-damage|p2a: Flygon|64/272
+|move|p2a: Flygon|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-crit|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: Flygon|81/272|[from] item: Leftovers
+|upkeep
+|
+|t:|1711929892
+|switch|p1a: Purugly|Purugly, L87, F|82/265 par
+|turn|25
+|c|☆Mothstalgia|gg
+|
+|t:|1711929899
+|move|p2a: Flygon|Earthquake|p1a: Purugly
+|-damage|p1a: Purugly|0 fnt
+|faint|p1a: Purugly
+|
+|win|Mothstalgia
+|raw|blackprincey's rating: 1506 &rarr; <strong>1494</strong><br />(-12 for losing)
+|raw|Mothstalgia's rating: 1650 &rarr; <strong>1662</strong><br />(+12 for winning)
+|c|☆blackprincey|gg
+|l|☆blackprincey
+|player|p1|

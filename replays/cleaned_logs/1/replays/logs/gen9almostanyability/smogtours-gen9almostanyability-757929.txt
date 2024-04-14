@@ -1,0 +1,189 @@
+p1: Switched to Barraskewda
+p2: Switched to Ogerpon-Wellspring
+Turn 1:
+p1: Barraskewda used Flip Turn on Ogerpon-Wellspring
+p1: Switched to Roaring Moon
+p2: Ogerpon-Wellspring used Stomping Tantrum on Roaring Moon
+Turn 2:
+p2: Switched to Corviknight
+p1: Roaring Moon used U-turn on Corviknight
+p1: Switched to Iron Moth
+Turn 3:
+p2: Switched to Dragonite
+p1: Iron Moth used Toxic Spikes on Dragonite
+Turn 4:
+p1: Iron Moth used U-turn on Dragonite
+p1: Switched to Scream Tail
+p2: Dragonite used Dragon Dance on Dragonite
+Turn 5:
+p2: Switched to Gholdengo
+p1: Scream Tail used Boomburst on Gholdengo
+Turn 6:
+p1: Switched to Roaring Moon
+p2: Gholdengo used Trick on Roaring Moon
+Turn 7:
+p2: Switched to Corviknight
+p1: Roaring Moon used U-turn on Corviknight
+p1: Switched to Skarmory
+Turn 8:
+p1: Skarmory used Taunt on Corviknight
+p2: Corviknight can't move
+Turn 9:
+p2: Switched to Kingambit
+p1: Skarmory used Spikes on Kingambit
+Turn 10:
+p1: Skarmory used Taunt on Kingambit
+p2: Kingambit can't move
+Turn 11:
+p1: Skarmory used Spikes on Kingambit
+p2: Kingambit used Kowtow Cleave on Skarmory
+p1: Switched to Great Tusk
+Turn 12:
+p2: Switched to Corviknight
+p1: Great Tusk used Knock Off on Corviknight
+Turn 13:
+p1: Great Tusk used Taunt on Corviknight
+p2: Corviknight used Brave Bird on Great Tusk
+Turn 14:
+p1: Great Tusk used Knock Off on Corviknight
+p2: Corviknight used U-turn on Great Tusk
+p2: Switched to Gholdengo
+Turn 15:
+p2: Switched to Corviknight
+p1: Switched to Roaring Moon
+Turn 16:
+p1: Switched to Iron Moth
+p2: Corviknight used Defog on Iron Moth
+Turn 17:
+p2: Switched to Dragonite
+p1: Iron Moth used U-turn on Dragonite
+p1: Switched to Scream Tail
+Turn 18:
+p2: Switched to Swampert
+p1: Scream Tail used Stealth Rock on Swampert
+Turn 19:
+p1: Scream Tail used Wish on Scream Tail
+p2: Swampert used Flip Turn on Scream Tail
+p2: Switched to Kingambit
+Turn 20:
+p1: Switched to Great Tusk
+p2: Kingambit used Iron Head on Great Tusk
+Turn 21:
+p2: Switched to Corviknight
+p1: Great Tusk used Earthquake on Corviknight
+Turn 22:
+p1: Great Tusk used Taunt on Corviknight
+p2: Corviknight used Brave Bird on Great Tusk
+Turn 23:
+p1: Switched to Skarmory
+p2: Corviknight used U-turn on Skarmory
+p2: Switched to Ogerpon-Wellspring
+Turn 24:
+p1: Switched to Roaring Moon
+p2: Ogerpon-Wellspring used Play Rough on Roaring Moon
+Turn 25:
+p1: Roaring Moon used U-turn on Ogerpon-Wellspring
+p1: Switched to Iron Moth
+p2: Ogerpon-Wellspring failed to use Ivy Cudgel
+Turn 26:
+p1: Switched to Roaring Moon
+p2: Ogerpon-Wellspring used Play Rough on Roaring Moon
+Turn 27:
+p2: Switched to Dragonite
+p1: Roaring Moon used U-turn on Dragonite
+p1: Switched to Scream Tail
+Turn 28:
+p2: Switched to Swampert
+p1: Scream Tail used Boomburst on Swampert
+Turn 29:
+p1: Switched to Great Tusk
+p2: Swampert used Knock Off on Great Tusk
+Turn 30:
+p1: Great Tusk used Knock Off on Swampert
+p2: Swampert used Ice Beam on Great Tusk
+Turn 31:
+p1: Switched to Barraskewda
+p2: Swampert used Flip Turn on Barraskewda
+p2: Switched to Dragonite
+Turn 32:
+p1: Switched to Great Tusk
+p2: Dragonite used Extreme Speed on Great Tusk
+p1: Great Tusk fainted
+p1: Switched to Scream Tail
+Turn 33:
+p1: Switched to Barraskewda
+p2: Switched to Gholdengo
+Turn 34:
+p2: Switched to Ogerpon-Wellspring
+p2: Ogerpon-Wellspring fainted
+p1: Barraskewda used Liquidation on p2: Ogerpon
+p2: Switched to Kingambit
+Turn 35:
+p2: Kingambit used Sucker Punch on Barraskewda
+p1: Barraskewda fainted
+p1: Switched to Iron Moth
+Turn 36:
+p2: Switched to Swampert
+p1: Iron Moth used Toxic Spikes on Swampert
+Turn 37:
+p1: Iron Moth used U-turn on Swampert
+p1: Switched to Skarmory
+p2: Swampert used Flip Turn on Skarmory
+p2: Switched to Gholdengo
+Turn 38:
+p2: Switched to Kingambit
+p1: Switched to Roaring Moon
+Turn 39:
+p2: Switched to Dragonite
+p1: Roaring Moon used Earthquake on Dragonite
+Turn 40:
+p1: Switched to Scream Tail
+p2: Dragonite used Dragon Dance on Dragonite
+Turn 41:
+p2: Switched to Gholdengo
+p1: Scream Tail used Boomburst on Gholdengo
+Turn 42:
+p1: Switched to Roaring Moon
+p2: Gholdengo used Make It Rain on Roaring Moon
+Turn 43:
+p2: Gholdengo used Shadow Ball on Roaring Moon
+p1: Roaring Moon used Dragon Tail on Gholdengo
+Turn 44:
+p2: Kingambit used Iron Head on Roaring Moon
+p1: Roaring Moon fainted
+p1: Switched to Iron Moth
+Turn 45:
+p2: Switched to Swampert
+p1: Iron Moth used Flamethrower on Swampert
+Turn 46:
+p1: Iron Moth used U-turn on Swampert
+p1: Switched to Skarmory
+p2: Swampert used Knock Off on Skarmory
+Turn 47:
+p1: Skarmory used Roost on Skarmory
+p2: Swampert used Flip Turn on Skarmory
+p2: Switched to Kingambit
+Turn 48:
+p1: Skarmory used Taunt on Kingambit
+p2: Kingambit used Kowtow Cleave on Skarmory
+Turn 49:
+p1: Skarmory used Spikes on Kingambit
+p2: Kingambit used Kowtow Cleave on Skarmory
+p1: Skarmory fainted
+p1: Switched to Iron Moth
+Turn 50:
+p2: Switched to Dragonite
+p1: Iron Moth used Flamethrower on Dragonite
+Turn 51:
+p2: Dragonite used Extreme Speed on Iron Moth
+p1: Iron Moth fainted
+p1: Switched to Scream Tail
+Turn 52:
+p2: Dragonite used Extreme Speed on Scream Tail
+p1: Scream Tail used Boomburst on Dragonite
+p2: Dragonite fainted
+p2: Switched to Kingambit
+Turn 53:
+p1: Scream Tail used Boomburst on Kingambit
+p2: Kingambit used Iron Head on Scream Tail
+p1: Scream Tail fainted

@@ -1,0 +1,233 @@
+|j|☆magolor kirby
+|j|☆Yunanan
+|t:|1709344655
+|gametype|singles
+|player|p1|magolor kirby|dawn|
+|player|p2|Yunanan|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Zapdos, L50|
+|poke|p1|Cinderace, L50, M|
+|poke|p1|Porygon2, L50|
+|poke|p1|Landorus-Therian, L50, M|
+|poke|p1|Tapu Fini, L50|
+|poke|p1|Urshifu-*, L50, M|
+|poke|p2|Galvantula, L50, M|
+|poke|p2|Lapras, L50, F|
+|poke|p2|Landorus-Therian, L50, M|
+|poke|p2|Cinccino, L50, F|
+|poke|p2|Dragapult, L50, M|
+|poke|p2|Tapu Lele, L50|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yunanan)
+|
+|t:|1709344679
+|start
+|switch|p1a: Zapdos|Zapdos, L50|100/100
+|switch|p2a: Galvantula|Galvantula, L50, M|100/100
+|turn|1
+|
+|t:|1709344685
+|move|p2a: Galvantula|Sticky Web|p1a: Zapdos
+|-sidestart|p1: magolor kirby|move: Sticky Web
+|move|p1a: Zapdos|Heat Wave|p2a: Galvantula
+|-supereffective|p2a: Galvantula
+|-enditem|p2a: Galvantula|Focus Sash
+|-damage|p2a: Galvantula|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1709344694
+|-start|p1a: Zapdos|Dynamax|
+|-heal|p1a: Zapdos|100/100|[silent]
+|move|p2a: Galvantula|Thunder|p1a: Zapdos
+|-damage|p1a: Zapdos|71/100
+|move|p1a: Zapdos|Max Airstream|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|-boost|p1a: Zapdos|spe|1
+|faint|p2a: Galvantula
+|
+|upkeep
+|
+|t:|1709344697
+|switch|p2a: Tapu Lele|Tapu Lele, L50|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|-enditem|p2a: Tapu Lele|Psychic Seed
+|-boost|p2a: Tapu Lele|spd|1|[from] item: Psychic Seed
+|turn|3
+|
+|t:|1709344703
+|move|p1a: Zapdos|Max Lightning|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|64/100
+|-fieldstart|move: Electric Terrain
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1709344721
+|move|p1a: Zapdos|Max Lightning|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|39/100
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|-end|p1a: Zapdos|Dynamax
+|-heal|p1a: Zapdos|71/100|[silent]
+|turn|5
+|
+|t:|1709344729
+|move|p1a: Zapdos|Discharge|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|26/100
+|-status|p2a: Tapu Lele|par
+|cant|p2a: Tapu Lele|par
+|
+|upkeep
+|turn|6
+|
+|t:|1709344736
+|move|p1a: Zapdos|Hurricane|p2a: Tapu Lele|[miss]
+|-miss|p1a: Zapdos|p2a: Tapu Lele
+|move|p2a: Tapu Lele|Draining Kiss|p1a: Zapdos
+|-damage|p1a: Zapdos|24/100
+|-heal|p2a: Tapu Lele|60/100 par|[from] drain|[of] p1a: Zapdos
+|-damage|p2a: Tapu Lele|43/100 par|[from] item: Rocky Helmet|[of] p1a: Zapdos
+|
+|upkeep
+|turn|7
+|c|☆Yunanan|麻痺やめて？
+|c|☆magolor kirby|hehhehhe
+|
+|t:|1709344752
+|-start|p2a: Tapu Lele|Dynamax|
+|-heal|p2a: Tapu Lele|43/100 par|[silent]
+|move|p1a: Zapdos|Hurricane|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|36/100 par
+|-start|p2a: Tapu Lele|confusion
+|-activate|p2a: Tapu Lele|confusion
+|move|p2a: Tapu Lele|Max Mindstorm|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-fieldstart|move: Psychic Terrain
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1709344765
+|switch|p1a: Landorus|Landorus-Therian, L50, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Lele|atk|1
+|turn|8
+|
+|t:|1709344779
+|move|p1a: Landorus|Fly||[still]
+|-prepare|p1a: Landorus|Fly
+|-activate|p2a: Tapu Lele|confusion
+|cant|p2a: Tapu Lele|par
+|
+|upkeep
+|turn|9
+|
+|t:|1709344783
+|move|p1a: Landorus|Fly|p2a: Tapu Lele|[from]lockedmove
+|-damage|p2a: Tapu Lele|11/100 par
+|-activate|p2a: Tapu Lele|confusion
+|cant|p2a: Tapu Lele|par
+|
+|upkeep
+|-end|p2a: Tapu Lele|Dynamax
+|-heal|p2a: Tapu Lele|11/100 par|[silent]
+|turn|10
+|
+|t:|1709344791
+|move|p1a: Landorus|Earthquake|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1709344793
+|switch|p2a: Cinccino|Cinccino, L50, F|100/100
+|turn|11
+|
+|t:|1709344797
+|switch|p1a: Porygon2|Porygon2, L50|100/100
+|-activate|p1a: Porygon2|move: Sticky Web
+|-unboost|p1a: Porygon2|spe|1
+|-ability|p1a: Porygon2|Skill Link|[from] ability: Trace|[of] p2a: Cinccino
+|move|p2a: Cinccino|Triple Axel|p1a: Porygon2
+|-damage|p1a: Porygon2|96/100
+|-damage|p1a: Porygon2|89/100
+|-damage|p1a: Porygon2|78/100
+|-hitcount|p1a: Porygon2|3
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|
+|t:|1709344803
+|move|p2a: Cinccino|Tail Slap|p1a: Porygon2
+|-damage|p1a: Porygon2|70/100
+|-damage|p1a: Porygon2|62/100
+|-damage|p1a: Porygon2|54/100
+|-damage|p1a: Porygon2|47/100
+|-damage|p1a: Porygon2|40/100
+|-hitcount|p1a: Porygon2|5
+|move|p1a: Porygon2|Tri Attack|p2a: Cinccino
+|-damage|p2a: Cinccino|52/100
+|
+|upkeep
+|turn|13
+|
+|t:|1709344807
+|move|p2a: Cinccino|Tail Slap|p1a: Porygon2
+|-damage|p1a: Porygon2|32/100
+|-damage|p1a: Porygon2|24/100
+|-crit|p1a: Porygon2
+|-damage|p1a: Porygon2|11/100
+|-damage|p1a: Porygon2|4/100
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|-hitcount|p1: Porygon2|5
+|
+|upkeep
+|
+|t:|1709344809
+|switch|p1a: Landorus|Landorus-Therian, L50, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cinccino|atk|1
+|turn|14
+|
+|t:|1709344812
+|move|p2a: Cinccino|Triple Axel|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|81/100
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|44/100
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-hitcount|p1: Landorus|3
+|
+|win|Yunanan
+|c|☆magolor kirby|おしいなあ
+|c|☆magolor kirby|あまえちゃった
+|c|☆Yunanan|やっぱりチラチーノ強いわ
+|c|☆magolor kirby|たいありです
+|c|☆Yunanan|こちらこそありがとうございます.ᐟ
+|l|☆Yunanan
+|player|p2|
+|j|☆Yunanan
+|player|p2|Yunanan|acetrainerf
+|l|☆Yunanan
+|player|p2|
+|j|☆Yunanan
+|player|p2|Yunanan|acetrainerf

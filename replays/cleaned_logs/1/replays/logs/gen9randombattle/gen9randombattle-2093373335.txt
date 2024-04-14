@@ -1,0 +1,131 @@
+p1: Switched to Dudunsparce-Three-Segment
+p2: Switched to Arceus-Psychic
+Turn 1:
+p2: Arceus-Psychic used Cosmic Power on Arceus-Psychic
+p1: Dudunsparce-Three-Segment used Glare on Arceus-Psychic
+Turn 2:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 3:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 4:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 5:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 6:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic used Recover on Arceus-Psychic
+Turn 7:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 8:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 9:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic can't move
+Turn 10:
+p1: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic
+p2: Arceus-Psychic fainted
+p2: Switched to Grimmsnarl
+Turn 11:
+p1: Switched to Heatran
+p2: Grimmsnarl used Thunder Wave on Heatran
+Turn 12:
+p2: Switched to Cramorant
+p1: Heatran used Stealth Rock on Cramorant
+Turn 13:
+p1: Switched to Palossand
+p2: Cramorant used Surf on Palossand
+Turn 14:
+p2: Cramorant used Surf on Palossand
+p1: Palossand fainted
+p1: Switched to Torterra
+Turn 15:
+p2: Switched to Dipplin
+p1: Switched to Heatran
+Turn 16:
+p2: Switched to Diancie
+p1: Heatran used Magma Storm on Diancie
+Turn 17:
+p2: Diancie used Earth Power on Heatran
+p1: Heatran used Flash Cannon on Diancie
+p2: Diancie fainted
+p2: Switched to Cramorant
+Turn 18:
+p2: Cramorant used Surf on Heatran
+p1: Heatran used Magma Storm on Cramorant
+Turn 19:
+p2: Cramorant used Surf on Heatran
+p1: Heatran fainted
+p1: Switched to Torterra
+Turn 20:
+p2: Switched to Mesprit
+p1: Torterra used Bullet Seed on Mesprit
+Turn 21:
+p2: Mesprit used Ice Beam on Torterra
+p1: Torterra fainted
+p1: Switched to Roaring Moon
+Turn 22:
+p2: Switched to Grimmsnarl
+p1: Roaring Moon used Knock Off on Grimmsnarl
+Turn 23:
+p1: Switched to Dudunsparce-Three-Segment
+p2: Grimmsnarl used Thunder Wave on Dudunsparce-Three-Segment
+Turn 24:
+p2: Grimmsnarl used Spirit Break on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment used Glare on Grimmsnarl
+Turn 25:
+p2: Grimmsnarl used Thunder Wave on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment can't move
+Turn 26:
+p2: Grimmsnarl used Throat Chop on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment used Headbutt on Grimmsnarl
+Turn 27:
+p2: Grimmsnarl used Spirit Break on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment used Roost on Dudunsparce-Three-Segment
+Turn 28:
+p2: Switched to Mesprit
+p1: Dudunsparce-Three-Segment used Headbutt on Mesprit
+Turn 29:
+p2: Mesprit used Drain Punch on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment used Headbutt on Mesprit
+Turn 30:
+p2: Mesprit used Drain Punch on Dudunsparce-Three-Segment
+p1: Dudunsparce-Three-Segment fainted
+p1: Switched to Annihilape
+Turn 31:
+p2: Switched to Dipplin
+p1: Annihilape used Rage Fist on Dipplin
+Turn 32:
+p1: Annihilape used Bulk Up on Annihilape
+p2: Dipplin used Giga Drain on Annihilape
+Turn 33:
+p1: Annihilape used Drain Punch on Dipplin
+p2: Dipplin used Dragon Pulse on Annihilape
+Turn 34:
+p1: Annihilape used Rage Fist on Dipplin
+p2: Dipplin fainted
+p2: Switched to Grimmsnarl
+Turn 35:
+p2: Grimmsnarl used Thunder Wave on Annihilape
+p1: Annihilape used Rage Fist on Grimmsnarl
+p2: Grimmsnarl fainted
+p2: Switched to Cramorant
+Turn 36:
+p2: Cramorant used Brave Bird on Annihilape
+p1: Annihilape can't move
+Turn 37:
+p2: Cramorant used Surf on Annihilape
+p1: Annihilape fainted
+p1: Switched to Roaring Moon
+Turn 38:
+p1: Roaring Moon used Outrage on Cramorant
+p2: Cramorant fainted
+p2: Switched to Mesprit
+Turn 39:
+p1: Roaring Moon used Outrage on Mesprit
+p2: Mesprit fainted

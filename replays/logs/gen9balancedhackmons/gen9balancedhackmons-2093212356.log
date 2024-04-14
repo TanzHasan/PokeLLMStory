@@ -1,0 +1,687 @@
+|j|☆Daveowulf
+|j|☆Superperson00
+|t:|1711925691
+|gametype|singles
+|player|p1|Daveowulf|backers|
+|player|p2|Superperson00|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Comfey, M|
+|poke|p1|Espeon, M|
+|poke|p1|Lopunny, F|
+|poke|p1|Quilladin, M|
+|poke|p2|Annihilape, F|
+|poke|p2|Alakazam, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Swampert, F|
+|poke|p2|Exeggutor-Alola, M|
+|poke|p2|Kilowattrel, F|
+|teampreview
+|c|☆Superperson00|hf!
+|c|☆Daveowulf|gl hf!
+|c|☆Daveowulf|this one decides playoffs
+|j| DrStrangeMcDuckVGC
+|c|☆Superperson00|the game to make it or break it
+|c|☆Daveowulf|just hope I prepped for the right sets
+|c| DrStrangeMcDuckVGC|There’s no way
+|c|☆Superperson00|same same
+|
+|t:|1711925741
+|start
+|switch|p1a: Fubuki|Espeon, M|100/100
+|switch|p2a: Kilowattrel|Kilowattrel, F|100/100
+|turn|1
+|c| DrStrangeMcDuckVGC|ur actually doing a metronome off
+|
+|t:|1711925747
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Ice Beam|p1a: Fubuki|[from]move: Metronome
+|-damage|p1a: Fubuki|73/100
+|move|p1a: Fubuki|Metronome|p1a: Fubuki
+|move|p1a: Fubuki|Bubble Beam|p2a: Kilowattrel|[from]move: Metronome
+|-damage|p2a: Kilowattrel|78/100
+|
+|-heal|p2a: Kilowattrel|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|c|☆Superperson00|why wouldn't we
+|c| DrStrangeMcDuckVGC|I hate this
+|c|☆Superperson00|fuck i didn't prep for bubble beam
+|
+|t:|1711925758
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Triple Axel|p1a: Fubuki|[from]move: Metronome
+|-damage|p1a: Fubuki|66/100
+|-damage|p1a: Fubuki|51/100
+|-damage|p1a: Fubuki|28/100
+|-hitcount|p1a: Fubuki|3
+|move|p1a: Fubuki|Metronome|p1a: Fubuki
+|move|p1a: Fubuki|Acid Spray|p2a: Kilowattrel|[from]move: Metronome
+|-damage|p2a: Kilowattrel|70/100
+|-unboost|p2a: Kilowattrel|spd|2
+|
+|-heal|p2a: Kilowattrel|76/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆Daveowulf|ooh physical
+|
+|t:|1711925770
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Volt Switch|p1a: Fubuki|[from]move: Metronome
+|-damage|p1a: Fubuki|0 fnt
+|faint|p1a: Fubuki
+|c|☆Superperson00|yooooooo
+|c|☆Superperson00|holy heat
+|c| DrStrangeMcDuckVGC|YO THE TACTICA
+|
+|t:|1711925782
+|switch|p2a: Alakazam|Alakazam, F|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1711925790
+|switch|p1a: Garou|Lopunny, F|100/100
+|turn|4
+|c|☆Superperson00|mega v mega
+|c|☆Daveowulf|still winnable
+|c|☆Superperson00|why mega at all
+|
+|t:|1711925801
+|move|p1a: Garou|Metronome|p1a: Garou
+|move|p1a: Garou|Poison Sting|p2a: Alakazam|[from]move: Metronome
+|-damage|p2a: Alakazam|95/100
+|-status|p2a: Alakazam|psn
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Work Up|p2a: Alakazam|[from]move: Metronome
+|-boost|p2a: Alakazam|atk|1
+|-boost|p2a: Alakazam|spa|1
+|
+|upkeep
+|turn|5
+|c| DrStrangeMcDuckVGC|Bros setting up
+|c|☆Daveowulf|oof the prediction
+|
+|t:|1711925816
+|move|p1a: Garou|Metronome|p1a: Garou
+|move|p1a: Garou|Thunder Punch|p2a: Alakazam|[from]move: Metronome
+|-damage|p2a: Alakazam|69/100 psn
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Reflect Type|p1a: Garou|[from]move: Metronome
+|-start|p2a: Alakazam|typechange|[from] move: Reflect Type|[of] p1a: Garou
+|
+|upkeep
+|-start|p2a: Alakazam|typechange|Normal|[silent]
+|turn|6
+|c|☆Superperson00|gonna be swept
+|
+|t:|1711925823
+|move|p1a: Garou|Metronome|p1a: Garou
+|move|p1a: Garou|Frenzy Plant|p2a: Alakazam|[from]move: Metronome
+|-damage|p2a: Alakazam|44/100 psn
+|-mustrecharge|p1a: Garou
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Aqua Cutter|p1a: Garou|[from]move: Metronome
+|-damage|p1a: Garou|84/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711925830
+|cant|p1a: Garou|recharge
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Crunch|p1a: Garou|[from]move: Metronome
+|-damage|p1a: Garou|65/100
+|-unboost|p1a: Garou|def|1
+|
+|upkeep
+|turn|8
+|c|☆Daveowulf|typical hax smh
+|c|☆Superperson00|W stat drop
+|
+|t:|1711925842
+|move|p1a: Garou|Metronome|p1a: Garou
+|move|p1a: Garou|Shadow Sneak|p2a: Alakazam|[from]move: Metronome
+|-immune|p2a: Alakazam
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Tera Blast|p1a: Garou|[from]move: Metronome
+|-damage|p1a: Garou|12/100
+|
+|upkeep
+|turn|9
+|c|☆Superperson00|look at thius
+|c|☆Superperson00|denying priority
+|
+|t:|1711925853
+|move|p1a: Garou|Metronome|p1a: Garou
+|move|p1a: Garou|Razor Leaf|p2a: Alakazam|[from]move: Metronome
+|-damage|p2a: Alakazam|26/100 psn
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Fury Cutter|p1a: Garou|[from]move: Metronome
+|-damage|p1a: Garou|0 fnt
+|faint|p1a: Garou
+|
+|upkeep
+|c| DrStrangeMcDuckVGC|Reflect type into stab Tera blast
+|c|☆Daveowulf|he might get the 6-0 he needs
+|c| DrStrangeMcDuckVGC|he’s better
+|
+|t:|1711925866
+|switch|p1a: Tatsumaki|Comfey, M|100/100
+|turn|10
+|c|☆Superperson00|do i need 6-0
+|c|☆Superperson00|:o
+|c| DrStrangeMcDuckVGC|No you just need to not get 5-0d
+|c|☆Daveowulf|or 5-0 right?
+|
+|t:|1711925888
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Tera Blast|p1a: Tatsumaki|[from]move: Metronome
+|-damage|p1a: Tatsumaki|35/100
+|move|p1a: Tatsumaki|Metronome|p1a: Tatsumaki
+|move|p1a: Tatsumaki|Sunny Day|p1a: Tatsumaki|[from]move: Metronome
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|c| DrStrangeMcDuckVGC|so
+|c| DrStrangeMcDuckVGC|ur already fine
+|
+|t:|1711925895
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Arm Thrust|p1a: Tatsumaki|[from]move: Metronome
+|-resisted|p1a: Tatsumaki
+|-damage|p1a: Tatsumaki|34/100
+|-resisted|p1a: Tatsumaki
+|-damage|p1a: Tatsumaki|32/100
+|-resisted|p1a: Tatsumaki
+|-damage|p1a: Tatsumaki|30/100
+|-hitcount|p1a: Tatsumaki|3
+|move|p1a: Tatsumaki|Metronome|p1a: Tatsumaki
+|move|p1a: Tatsumaki|Swords Dance|p1a: Tatsumaki|[from]move: Metronome
+|-boost|p1a: Tatsumaki|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|c|☆Superperson00|truuu
+|
+|t:|1711925906
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Spite|p1a: Tatsumaki|[from]move: Metronome
+|-activate|p1a: Tatsumaki|move: Spite|Metronome|4
+|move|p1a: Tatsumaki|Metronome|p1a: Tatsumaki
+|move|p1a: Tatsumaki|Magma Storm|p2a: Alakazam|[from]move: Metronome
+|-damage|p2a: Alakazam|1/100 psn
+|-activate|p2a: Alakazam|move: Magma Storm|[of] p1a: Tatsumaki
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|c| DrStrangeMcDuckVGC|Ey yo the comfey SD
+|c|☆Superperson00|omg
+|c| DrStrangeMcDuckVGC|Tactical Spire
+|c|☆Superperson00|magic guard clutch
+|c|☆Daveowulf|classic sd fire dance magma storm
+|
+|t:|1711925922
+|move|p2a: Alakazam|Metronome|p2a: Alakazam
+|move|p2a: Alakazam|Fissure|p1a: Tatsumaki|[from]move: Metronome
+|-damage|p1a: Tatsumaki|0 fnt
+|faint|p1a: Tatsumaki
+|-ohko
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p2a: Alakazam|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|c|☆Superperson00|YO
+|c| DrStrangeMcDuckVGC|Okay so uhh
+|c|☆Daveowulf|GOTTEM WITH THE FISSURE
+|c| DrStrangeMcDuckVGC|we have OKHO clause
+|
+|t:|1711925936
+|switch|p1a: Genos|Dragapult, F|100/100
+|turn|14
+|c| DrStrangeMcDuckVGC|so I’m afraid that’s an auto L for cheating
+|c|☆Daveowulf|ez super L
+|c|☆Superperson00|nooo
+|c|☆Daveowulf|also ban him
+|c| DrStrangeMcDuckVGC|I’m joking
+|
+|t:|1711925953
+|switch|p2a: Exeggutor|Exeggutor-Alola, M|100/100
+|-item|p1a: Genos|Life Orb|[from] ability: Frisk|[of] p2a: Exeggutor|[identify]
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Poison Powder|p2a: Exeggutor|[from]move: Metronome
+|-immune|p2a: Exeggutor
+|
+|-weather|none
+|upkeep
+|turn|15
+|c| DrStrangeMcDuckVGC|keep going
+|c|☆Daveowulf|ooooh
+|c|☆Daveowulf|he's preserving the 6-0
+|c|☆Superperson00|the tactics
+|
+|t:|1711925968
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Acupressure|p1a: Genos|[from]move: Metronome
+|-boost|p1a: Genos|evasion|2
+|move|p2a: Exeggutor|Metronome|p2a: Exeggutor
+|move|p2a: Exeggutor|Safeguard|p2a: Exeggutor|[from]move: Metronome
+|-sidestart|p2: Superperson00|Safeguard
+|
+|upkeep
+|turn|16
+|c|☆Superperson00|fuck
+|
+|t:|1711925975
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Crabhammer|p2a: Exeggutor|[from]move: Metronome|[miss]
+|-miss|p1a: Genos|p2a: Exeggutor
+|move|p2a: Exeggutor|Metronome|p2a: Exeggutor
+|move|p2a: Exeggutor|Brick Break|p1a: Genos|[from]move: Metronome
+|-immune|p1a: Genos
+|
+|upkeep
+|turn|17
+|c| DrStrangeMcDuckVGC|You realize the looser of this has to play me right
+|c| DrStrangeMcDuckVGC|lol
+|
+|t:|1711925983
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Fly||[from]move: Metronome|[still]
+|-prepare|p1a: Genos|Fly
+|move|p2a: Exeggutor|Metronome|p2a: Exeggutor
+|move|p2a: Exeggutor|Gigaton Hammer|p1a: Genos|[from]move: Metronome|[miss]
+|-miss|p2a: Exeggutor|p1a: Genos
+|
+|upkeep
+|turn|18
+|c| DrStrangeMcDuckVGC|Eh actually idk if that’s true
+|c| DrStrangeMcDuckVGC|oh well
+|c|☆Daveowulf|that feels like an ez win tbh
+|
+|t:|1711925995
+|switch|p2a: Kilowattrel|Kilowattrel, F|76/100
+|move|p1a: Genos|Fly|p2a: Kilowattrel|[from]lockedmove
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|57/100
+|-damage|p1a: Genos|90/100|[from] item: Life Orb
+|
+|-heal|p2a: Kilowattrel|64/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c| DrStrangeMcDuckVGC|huess we will find out
+|
+|t:|1711926003
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Defog|p1a: Genos|[from]move: Metronome
+|-unboost|p1a: Genos|evasion|1
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Psychic Fangs|p2a: Kilowattrel|[from]move: Metronome
+|-damage|p2a: Kilowattrel|31/100
+|-damage|p1a: Genos|80/100|[from] item: Life Orb
+|
+|-heal|p2a: Kilowattrel|37/100|[from] item: Leftovers
+|-sideend|p2: Superperson00|Safeguard
+|upkeep
+|turn|20
+|c| DrStrangeMcDuckVGC|Daveo u literally lost last time shut up lol
+|
+|t:|1711926013
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Dynamic Punch|p1a: Genos|[from]move: Metronome
+|-immune|p1a: Genos
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Cotton Guard|p1a: Genos|[from]move: Metronome
+|-boost|p1a: Genos|def|3
+|
+|-heal|p2a: Kilowattrel|43/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|c|☆Daveowulf|tactical loss
+|c|☆Superperson00|oml
+|
+|t:|1711926021
+|move|p2a: Kilowattrel|Metronome|p2a: Kilowattrel
+|move|p2a: Kilowattrel|Soak|p1a: Genos|[from]move: Metronome
+|-start|p1a: Genos|typechange|Water
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Water Shuriken|p2a: Kilowattrel|[from]move: Metronome
+|-damage|p2a: Kilowattrel|35/100
+|-damage|p2a: Kilowattrel|28/100
+|-damage|p2a: Kilowattrel|20/100
+|-damage|p2a: Kilowattrel|12/100
+|-damage|p2a: Kilowattrel|5/100
+|-hitcount|p2a: Kilowattrel|5
+|-damage|p1a: Genos|70/100|[from] item: Life Orb
+|
+|-heal|p2a: Kilowattrel|11/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆Superperson00|pult sweep
+|c|☆Daveowulf|oooooh
+|c|☆Superperson00|i gavce you stab
+|c|☆Daveowulf|predicted the soak
+|c|☆Superperson00|omg
+|
+|t:|1711926038
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Superpower|p2a: Kilowattrel|[from]move: Metronome
+|-resisted|p2a: Kilowattrel
+|-damage|p2a: Kilowattrel|0 fnt
+|-unboost|p1a: Genos|atk|1
+|-unboost|p1a: Genos|def|1
+|faint|p2a: Kilowattrel
+|-damage|p1a: Genos|60/100|[from] item: Life Orb
+|
+|upkeep
+|c| DrStrangeMcDuckVGC|This battle is nuts
+|c|☆Superperson00|nooo the 6-0
+|
+|t:|1711926046
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|23
+|c|☆Daveowulf|volc into my water type?
+|c|☆Superperson00|ikr
+|c|☆Daveowulf|bad player tbh
+|
+|t:|1711926061
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Shadow Claw|p2a: Volcarona|[from]move: Metronome
+|-damage|p2a: Volcarona|84/100
+|-damage|p1a: Genos|50/100|[from] item: Life Orb
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Psychic Fangs|p1a: Genos|[from]move: Metronome|[miss]
+|-miss|p2a: Volcarona|p1a: Genos
+|
+|-heal|p2a: Volcarona|90/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711926070
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Bolt Strike|p2a: Volcarona|[from]move: Metronome|[miss]
+|-miss|p1a: Genos|p2a: Volcarona
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Fickle Beam|p1a: Genos|[from]move: Metronome
+|-damage|p1a: Genos|18/100
+|-start|p2a: Volcarona|Disable|Metronome|[from] ability: Cursed Body|[of] p1a: Genos
+|
+|-heal|p2a: Volcarona|96/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|c| DrStrangeMcDuckVGC|This evasion boost is borderline cheating ngl
+|c|☆Daveowulf|lmao
+|c| DrStrangeMcDuckVGC|BRO
+|c|☆Superperson00|omfg
+|c| DrStrangeMcDuckVGC|YOU CANT JUST DO JIM LIKE THST
+|c|☆Superperson00|cursed body to deny metronome
+|c|☆Daveowulf|I was praying that would go off XD
+|c|☆Superperson00|that's cold
+|
+|t:|1711926101
+|switch|p2a: Swampert|Swampert, F|100/100
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Bullet Punch|p2a: Swampert|[from]move: Metronome
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|97/100
+|-damage|p1a: Genos|8/100|[from] item: Life Orb
+|
+|-heal|p2a: Swampert|100/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|c|☆Daveowulf|chip
+|c|☆Superperson00|ikr
+|
+|t:|1711926113
+|move|p1a: Genos|Metronome|p1a: Genos
+|move|p1a: Genos|Fickle Beam|p2a: Swampert|[from]move: Metronome
+|-damage|p2a: Swampert|82/100
+|-damage|p1a: Genos|0 fnt|[from] item: Life Orb
+|faint|p1a: Genos
+|move|p2a: Swampert|Metronome|p2a: Swampert
+|move|p2a: Swampert|Fire Spin|p1: Genos|[from]move: Metronome|[notarget]
+|-fail|p2a: Swampert
+|
+|-heal|p2a: Swampert|89/100|[from] item: Leftovers
+|upkeep
+|c| DrStrangeMcDuckVGC|Life orb in a metronome match is wild
+|
+|t:|1711926122
+|switch|p1a: Mumen Rider|Quilladin, M|100/100
+|turn|27
+|c|☆Daveowulf|I needed the extra damage
+|c|☆Daveowulf|for the superpower kill on bird
+|
+|t:|1711926141
+|move|p2a: Swampert|Metronome|p2a: Swampert
+|move|p2a: Swampert|Steel Wing|p1a: Mumen Rider|[from]move: Metronome
+|-damage|p1a: Mumen Rider|86/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Taunt|p2a: Swampert|[from]move: Metronome
+|-start|p2a: Swampert|move: Taunt
+|
+|-heal|p2a: Swampert|95/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c| DrStrangeMcDuckVGC|Pffff
+|c|☆Daveowulf|does taunt stop metronome?
+|c| DrStrangeMcDuckVGC|Cursed body now taunt
+|c|☆Superperson00|yes
+|c|☆Superperson00|struggle
+|
+|t:|1711926163
+|switch|p2a: Volcarona|Volcarona, F|96/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Facade|p2a: Volcarona|[from]move: Metronome
+|-damage|p2a: Volcarona|82/100
+|
+|-heal|p2a: Volcarona|88/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|c| DrStrangeMcDuckVGC|hes getting trolled
+|
+|t:|1711926172
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Flail|p1a: Mumen Rider|[from]move: Metronome
+|-damage|p1a: Mumen Rider|83/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Sweet Scent|p2a: Volcarona|[from]move: Metronome
+|-unboost|p2a: Volcarona|evasion|2
+|
+|-heal|p2a: Volcarona|94/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆Superperson00|im getting swept by quilladin
+|
+|t:|1711926180
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Lock-On|p1a: Mumen Rider|[from]move: Metronome
+|-activate|p2a: Volcarona|move: Lock-On|[of] p1a: Mumen Rider
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Dragon Pulse|p2a: Volcarona|[from]move: Metronome
+|-damage|p2a: Volcarona|86/100
+|
+|-heal|p2a: Volcarona|92/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711926189
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Sky Attack||[from]move: Metronome|[still]
+|-prepare|p2a: Volcarona|Sky Attack
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Ember|p2a: Volcarona|[from]move: Metronome
+|-damage|p2a: Volcarona|88/100
+|
+|-heal|p2a: Volcarona|94/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|c|☆Daveowulf|I may run out of pp
+|
+|t:|1711926198
+|switch|p1a: Atomic Samurai|Kingambit, M|100/100
+|-activate|p1a: Atomic Samurai|ability: Supreme Overlord
+|-start|p1a: Atomic Samurai|fallen4|[silent]
+|move|p2a: Volcarona|Sky Attack|p1a: Atomic Samurai|[from]lockedmove
+|-resisted|p1a: Atomic Samurai
+|-damage|p1a: Atomic Samurai|89/100
+|
+|-heal|p2a: Volcarona|99/100|[from] item: Leftovers
+|-heal|p1a: Atomic Samurai|95/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|c| DrStrangeMcDuckVGC|LOL SKY ATTACK COMING IN
+|c|☆Superperson00|oh no
+|c| DrStrangeMcDuckVGC|K it’s time for the goat
+|
+|t:|1711926225
+|move|p2a: Volcarona|Metronome|p2a: Volcarona
+|move|p2a: Volcarona|Attract|p1a: Atomic Samurai|[from]move: Metronome
+|-start|p1a: Atomic Samurai|Attract
+|-activate|p1a: Atomic Samurai|move: Attract|[of] p2a: Volcarona
+|move|p1a: Atomic Samurai|Metronome|p1a: Atomic Samurai
+|move|p1a: Atomic Samurai|Memento|p2a: Volcarona|[from]move: Metronome
+|-unboost|p2a: Volcarona|atk|2
+|-unboost|p2a: Volcarona|spa|2
+|faint|p1a: Atomic Samurai
+|-end|p1a: Atomic Samurai|fallen4|[silent]
+|
+|-heal|p2a: Volcarona|100/100|[from] item: Leftovers
+|upkeep
+|c| DrStrangeMcDuckVGC|PFFF
+|c|☆Daveowulf|nooooo
+|c|☆Superperson00|YOOOOOOOO
+|c| DrStrangeMcDuckVGC|LJAJAJSHCHXD
+|
+|t:|1711926239
+|switch|p1a: Mumen Rider|Quilladin, M|83/100
+|turn|34
+|c|☆Superperson00|WE'RE SO KINGAMBACK
+|c|☆Daveowulf|rip the dream
+|
+|t:|1711926248
+|switch|p2a: Annihilape|Annihilape, F|100/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Magnetic Flux||[from]move: Metronome|[still]
+|-fail|p1a: Mumen Rider
+|
+|upkeep
+|turn|35
+|c| DrStrangeMcDuckVGC|The goat came in and mementod
+|
+|t:|1711926253
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Leaf Blade|p1a: Mumen Rider|[from]move: Metronome
+|-resisted|p1a: Mumen Rider
+|-damage|p1a: Mumen Rider|73/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Muddy Water|p2a: Annihilape|[from]move: Metronome
+|-damage|p2a: Annihilape|91/100
+|
+|upkeep
+|turn|36
+|
+|t:|1711926261
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Defense Curl|p2a: Annihilape|[from]move: Metronome
+|-boost|p2a: Annihilape|def|1
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Hyper Beam|p2a: Annihilape|[from]move: Metronome
+|-immune|p2a: Annihilape
+|
+|upkeep
+|turn|37
+|c| DrStrangeMcDuckVGC|It’s okay 5 OKHO moves rn
+|
+|t:|1711926268
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Gravity|p2a: Annihilape|[from]move: Metronome
+|-fieldstart|move: Gravity
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Super Fang|p2a: Annihilape|[from]move: Metronome
+|-immune|p2a: Annihilape
+|
+|upkeep
+|turn|38
+|
+|t:|1711926273
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Withdraw|p2a: Annihilape|[from]move: Metronome
+|-boost|p2a: Annihilape|def|1
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Noble Roar|p2a: Annihilape|[from]move: Metronome
+|-unboost|p2a: Annihilape|atk|1
+|-ability|p2a: Annihilape|Defiant|boost
+|-boost|p2a: Annihilape|atk|2
+|-unboost|p2a: Annihilape|spa|1
+|-ability|p2a: Annihilape|Defiant|boost
+|-boost|p2a: Annihilape|atk|2
+|
+|upkeep
+|turn|39
+|c| DrStrangeMcDuckVGC|Only normal moves go crazy
+|c|☆Superperson00|W
+|c|☆Daveowulf|oh gof
+|
+|t:|1711926284
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Judgment|p1a: Mumen Rider|[from]move: Metronome
+|-damage|p1a: Mumen Rider|64/100
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Grass Pledge|p2a: Annihilape|[from]move: Metronome
+|-damage|p2a: Annihilape|80/100
+|
+|upkeep
+|turn|40
+|c|☆Superperson00|wtf
+|c|☆Daveowulf|eat tbh
+|c|☆Superperson00|that did nothing
+|
+|t:|1711926295
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Forest's Curse||[from]move: Metronome|[still]
+|-fail|p2a: Annihilape
+|move|p1a: Mumen Rider|Metronome|p1a: Mumen Rider
+|move|p1a: Mumen Rider|Upper Hand||[from]move: Metronome|[still]
+|-fail|p1a: Mumen Rider
+|
+|upkeep
+|turn|41
+|c| DrStrangeMcDuckVGC|Me when judgement does 9%
+|
+|t:|1711926302
+|move|p2a: Annihilape|Metronome|p2a: Annihilape
+|move|p2a: Annihilape|Dire Claw|p1a: Mumen Rider|[from]move: Metronome
+|-supereffective|p1a: Mumen Rider
+|-damage|p1a: Mumen Rider|0 fnt
+|faint|p1a: Mumen Rider
+|
+|win|Superperson00
+|c|☆Superperson00|gg
+|c|☆Daveowulf|gg man
+|c|☆Superperson00|my god
+|c|☆Superperson00|battle of the ages
+|c|☆Daveowulf|read me like a book tbh
+|l| DrStrangeMcDuckVGC
+|l|☆Daveowulf
+|player|p1|
+|c|☆Superperson00|water shuriken to outplay soak was a w move

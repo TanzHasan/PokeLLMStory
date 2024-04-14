@@ -1,0 +1,86 @@
+p1: Switched to Golem
+p2: Switched to Wyrdeer
+Turn 1:
+p2: Wyrdeer used Agility on Wyrdeer
+p1: Golem used Stealth Rock on Wyrdeer
+Turn 2:
+p2: Wyrdeer used Calm Mind on Wyrdeer
+p1: Golem used Stone Edge on Wyrdeer
+Turn 3:
+p2: Wyrdeer used Stored Power on Golem
+p1: Golem used Stone Edge on Wyrdeer
+Turn 4:
+p1: Golem used Explosion on Wyrdeer
+p1: Golem fainted
+p2: Wyrdeer fainted
+p2: Switched to Oricorio
+p1: Switched to Rotom-Mow
+Turn 5:
+p1: Rotom-Mow used Volt Switch on Oricorio
+p1: Switched to Bronzong
+p2: Oricorio used Defog on Bronzong
+Turn 6:
+p2: Oricorio used Revelation Dance on Bronzong
+p1: Bronzong used Iron Head on Oricorio
+p2: Oricorio fainted
+p2: Switched to Mismagius
+Turn 7:
+p1: Switched to Shiftry
+p2: Mismagius used Shadow Ball on Shiftry
+Turn 8:
+p2: Switched to Hitmonchan
+p1: Shiftry used Tailwind on Shiftry
+Turn 9:
+p1: Switched to Braviary-Hisui
+p2: Hitmonchan used Close Combat on Braviary-Hisui
+Turn 10:
+p2: Switched to Klawf
+p1: Braviary-Hisui used Hurricane on Klawf
+Turn 11:
+p1: Braviary-Hisui used Psychic on Klawf
+p2: Klawf used Knock Off on Braviary-Hisui
+Turn 12:
+p2: Klawf used Stealth Rock on Braviary-Hisui
+p1: Braviary-Hisui used Psychic on Klawf
+p2: Klawf fainted
+p2: Switched to Hitmonchan
+Turn 13:
+p2: Hitmonchan used Ice Punch on Braviary-Hisui
+p1: Braviary-Hisui fainted
+p1: Switched to Bronzong
+Turn 14:
+p2: Switched to Chimecho
+p1: Bronzong used Iron Defense on Bronzong
+Turn 15:
+p2: Chimecho used Calm Mind on Chimecho
+p1: Bronzong used Iron Head on Chimecho
+Turn 16:
+p1: Switched to Shiftry
+p2: Chimecho used Calm Mind on Chimecho
+Turn 17:
+p1: Shiftry used Knock Off on Chimecho
+p2: Chimecho fainted
+p2: Switched to Hitmonchan
+Turn 18:
+p2: Hitmonchan used Close Combat on Shiftry
+p1: Shiftry fainted
+p1: Switched to Rotom-Mow
+Turn 19:
+p1: Rotom-Mow used Leaf Storm on Hitmonchan
+p2: Hitmonchan fainted
+p2: Switched to Mismagius
+Turn 20:
+p1: Switched to Bronzong
+p2: Mismagius used Shadow Ball on Bronzong
+p1: Bronzong fainted
+p1: Switched to Quaxwell
+Turn 21:
+p2: Mismagius used Shadow Ball on Quaxwell
+p1: Quaxwell used Liquidation on Mismagius
+Turn 22:
+p2: Mismagius used Shadow Ball on Quaxwell
+p1: Quaxwell fainted
+p1: Switched to Rotom-Mow
+Turn 23:
+p1: Rotom-Mow used Leaf Storm on Mismagius
+p2: Mismagius fainted

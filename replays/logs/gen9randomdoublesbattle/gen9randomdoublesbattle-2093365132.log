@@ -1,0 +1,270 @@
+|j|☆under2n2
+|j|☆UCelesteU
+|t:|1711945140
+|gametype|doubles
+|player|p1|under2n2|169|1029
+|player|p2|UCelesteU|102|1071
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711945140
+|start
+|switch|p1a: Hypno|Hypno, L95, M|315/315
+|switch|p1b: Scyther|Scyther, L81, M|245/245
+|switch|p2a: Arceus|Arceus-Fire, L72|291/291
+|switch|p2b: Sandy Shocks|Sandy Shocks, L80|267/267
+|-enditem|p2b: Sandy Shocks|Booster Energy
+|-activate|p2b: Sandy Shocks|ability: Protosynthesis|[fromitem]
+|-start|p2b: Sandy Shocks|protosynthesisspa
+|turn|1
+|
+|t:|1711945164
+|move|p1b: Scyther|Protect|p1b: Scyther
+|-singleturn|p1b: Scyther|Protect
+|move|p2a: Arceus|Swords Dance|p2a: Arceus
+|-boost|p2a: Arceus|atk|2
+|move|p2b: Sandy Shocks|Stealth Rock|p1a: Hypno
+|-sidestart|p1: under2n2|move: Stealth Rock
+|move|p1a: Hypno|Poison Gas|p2b: Sandy Shocks|[spread] p2a,p2b
+|-status|p2a: Arceus|psn
+|-status|p2b: Sandy Shocks|psn
+|
+|-damage|p2a: Arceus|255/291 psn|[from] psn
+|-damage|p2b: Sandy Shocks|234/267 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1711945205
+|switch|p1b: Kommo-o|Kommo-o, L79, F|248/248
+|-damage|p1b: Kommo-o|233/248|[from] Stealth Rock
+|move|p2a: Arceus|Extreme Speed|p1a: Hypno
+|-damage|p1a: Hypno|207/315
+|move|p2b: Sandy Shocks|Thunderbolt|p1b: Kommo-o
+|-resisted|p1b: Kommo-o
+|-crit|p1b: Kommo-o
+|-damage|p1b: Kommo-o|140/248
+|move|p1a: Hypno|Encore|p2a: Arceus
+|-start|p2a: Arceus|Encore
+|
+|-damage|p2a: Arceus|219/291 psn|[from] psn
+|-damage|p2b: Sandy Shocks|201/267 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711945236
+|move|p1b: Kommo-o|Protect|p1b: Kommo-o
+|-singleturn|p1b: Kommo-o|Protect
+|move|p2a: Arceus|Extreme Speed|p1b: Kommo-o
+|-activate|p1b: Kommo-o|move: Protect
+|move|p2b: Sandy Shocks|Thunderbolt|p1a: Hypno
+|-damage|p1a: Hypno|111/315
+|-enditem|p1a: Hypno|Sitrus Berry|[eat]
+|-heal|p1a: Hypno|189/315|[from] item: Sitrus Berry
+|move|p1a: Hypno|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|123/291 psn
+|-unboost|p2a: Arceus|spd|1
+|
+|-damage|p2a: Arceus|87/291 psn|[from] psn
+|-damage|p2b: Sandy Shocks|168/267 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711945275
+|move|p2a: Arceus|Extreme Speed|p1b: Kommo-o
+|-damage|p1b: Kommo-o|62/248
+|move|p2b: Sandy Shocks|Earth Power|p1b: Kommo-o
+|-damage|p1b: Kommo-o|0 fnt
+|faint|p1b: Kommo-o
+|move|p1a: Hypno|Psychic|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|-damage|p2b: Sandy Shocks|135/267 psn|[from] psn
+|upkeep
+|
+|t:|1711945284
+|switch|p2a: Tropius|Tropius, L93, M|332/332
+|switch|p1b: Scyther|Scyther, L81, M|245/245
+|-damage|p1b: Scyther|123/245|[from] Stealth Rock
+|turn|5
+|
+|t:|1711945313
+|-terastallize|p2a: Tropius|Steel
+|move|p1b: Scyther|Protect|p1b: Scyther
+|-singleturn|p1b: Scyther|Protect
+|move|p2b: Sandy Shocks|Thunderbolt|p1b: Scyther
+|-activate|p1b: Scyther|move: Protect
+|move|p1a: Hypno|Poison Gas|p2a: Tropius|[spread] 
+|-immune|p2a: Tropius
+|-fail|p2b: Sandy Shocks|psn
+|move|p2a: Tropius|Tailwind|p2a: Tropius
+|-sidestart|p2: UCelesteU|move: Tailwind
+|
+|-damage|p2b: Sandy Shocks|102/267 psn|[from] psn
+|upkeep
+|turn|6
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UCelesteU)
+|
+|t:|1711945347
+|move|p1b: Scyther|Protect||[still]
+|-fail|p1b: Scyther
+|move|p2b: Sandy Shocks|Thunderbolt|p1b: Scyther
+|-supereffective|p1b: Scyther
+|-damage|p1b: Scyther|0 fnt
+|faint|p1b: Scyther
+|move|p2a: Tropius|Hurricane|p1a: Hypno
+|-damage|p1a: Hypno|113/315
+|move|p1a: Hypno|Psychic|p2b: Sandy Shocks
+|-damage|p2b: Sandy Shocks|0 fnt
+|faint|p2b: Sandy Shocks
+|-end|p2b: Sandy Shocks|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1711945364
+|switch|p1b: Muk|Muk, L88, F|328/328
+|switch|p2b: Kyogre|Kyogre, L65|238/238
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Kyogre
+|-damage|p1b: Muk|287/328|[from] Stealth Rock
+|turn|7
+|
+|t:|1711945379
+|move|p2b: Kyogre|Water Spout|p1b: Muk|[spread] p1a,p1b
+|-damage|p1a: Hypno|4/315
+|-damage|p1b: Muk|145/328
+|-enditem|p1b: Muk|Sitrus Berry|[eat]
+|-heal|p1b: Muk|227/328|[from] item: Sitrus Berry
+|move|p2a: Tropius|Hurricane|p1b: Muk
+|-damage|p1b: Muk|131/328
+|move|p1a: Hypno|Poison Gas|p2a: Tropius|[spread] p2a,p2b
+|-immune|p2a: Tropius
+|-status|p2b: Kyogre|psn
+|move|p1b: Muk|Knock Off|p2b: Kyogre
+|-damage|p2b: Kyogre|136/238 psn
+|-enditem|p2b: Kyogre|Choice Scarf|[from] move: Knock Off|[of] p1b: Muk
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2b: Kyogre|107/238 psn|[from] psn
+|upkeep
+|turn|8
+|inactive|under2n2 has 120 seconds left.
+|
+|t:|1711945411
+|move|p2b: Kyogre|Origin Pulse|p1b: Muk|[spread] p1a,p1b
+|-damage|p1a: Hypno|0 fnt
+|-damage|p1b: Muk|26/328
+|faint|p1a: Hypno
+|move|p2a: Tropius|Hurricane|p1b: Muk
+|-damage|p1b: Muk|0 fnt
+|faint|p1b: Muk
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2b: Kyogre|78/238 psn|[from] psn
+|-sideend|p2: UCelesteU|move: Tailwind
+|upkeep
+|inactive|under2n2 has 120 seconds left.
+|
+|t:|1711945416
+|switch|p1a: Slowking|Slowking, L89, F|314/314
+|switch|p1b: Glastrier|Glastrier, L81|292/292
+|-damage|p1b: Glastrier|219/292|[from] Stealth Rock
+|-damage|p1a: Slowking|275/314|[from] Stealth Rock
+|turn|9
+|
+|t:|1711945439
+|-terastallize|p1a: Slowking|Steel
+|move|p1b: Glastrier|Protect|p1b: Glastrier
+|-singleturn|p1b: Glastrier|Protect
+|move|p2b: Kyogre|Origin Pulse|p1a: Slowking|[spread] p1a
+|-activate|p1b: Glastrier|move: Protect
+|-damage|p1a: Slowking|179/314
+|move|p2a: Tropius|Leaf Storm|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|127/314
+|-unboost|p2a: Tropius|spa|2
+|-enditem|p1a: Slowking|Sitrus Berry|[eat]
+|-heal|p1a: Slowking|205/314|[from] item: Sitrus Berry
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2b: Kyogre|49/238 psn|[from] psn
+|upkeep
+|turn|10
+|inactive|under2n2 has 120 seconds left.
+|
+|t:|1711945480
+|move|p1a: Slowking|Heal Pulse|p1b: Glastrier
+|-heal|p1b: Glastrier|292/292
+|move|p1b: Glastrier|High Horsepower|p2b: Kyogre
+|-damage|p2b: Kyogre|0 fnt
+|faint|p2b: Kyogre
+|-ability|p1b: Glastrier|Chilling Neigh|boost
+|-boost|p1b: Glastrier|atk|1
+|move|p2a: Tropius|Hurricane|p1b: Glastrier
+|-damage|p1b: Glastrier|241/292
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711945490
+|switch|p2b: Alcremie|Alcremie-Mint-Cream, L88, F|258/258
+|turn|11
+|inactive|UCelesteU has 120 seconds left.
+|
+|t:|1711945521
+|move|p1a: Slowking|Scald|p2b: Alcremie
+|-damage|p2b: Alcremie|141/258
+|move|p1b: Glastrier|Heavy Slam|p2b: Alcremie
+|-supereffective|p2b: Alcremie
+|-damage|p2b: Alcremie|0 fnt
+|faint|p2b: Alcremie
+|-ability|p1b: Glastrier|Chilling Neigh|boost
+|-boost|p1b: Glastrier|atk|1
+|move|p2a: Tropius|Hurricane|p1b: Glastrier
+|-damage|p1b: Glastrier|192/292
+|-start|p1b: Glastrier|confusion
+|
+|-weather|none
+|upkeep
+|inactive|UCelesteU has 120 seconds left.
+|
+|t:|1711945528
+|switch|p2b: Mimikyu|Mimikyu, L82, F|224/224
+|turn|12
+|
+|t:|1711945550
+|move|p1a: Slowking|Scald|p2b: Mimikyu
+|-activate|p2b: Mimikyu|ability: Disguise
+|-damage|p2b: Mimikyu|224/224
+|-status|p2b: Mimikyu|brn
+|detailschange|p2b: Mimikyu|Mimikyu-Busted, L82, F
+|-damage|p2b: Mimikyu|196/224 brn|[from] pokemon: Mimikyu-Busted
+|-activate|p1b: Glastrier|confusion
+|move|p1b: Glastrier|Heavy Slam|p2b: Mimikyu
+|-supereffective|p2b: Mimikyu
+|-damage|p2b: Mimikyu|0 fnt
+|faint|p2b: Mimikyu
+|-ability|p1b: Glastrier|Chilling Neigh|boost
+|-boost|p1b: Glastrier|atk|1
+|move|p2a: Tropius|Hurricane|p1b: Glastrier
+|-damage|p1b: Glastrier|140/292
+|-enditem|p1b: Glastrier|Sitrus Berry|[eat]
+|-heal|p1b: Glastrier|213/292|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|13
+|-message|UCelesteU forfeited.
+|
+|win|under2n2
+|raw|under2n2's rating: 1029 &rarr; <strong>1069</strong><br />(+40 for winning)
+|raw|UCelesteU's rating: 1071 &rarr; <strong>1048</strong><br />(-23 for losing)
+|l|☆UCelesteU
+|player|p2|

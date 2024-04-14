@@ -1,0 +1,28 @@
+p1: Switched to Venomoth
+p2: Switched to Palossand
+Turn 1:
+p1: Switched to Torterra
+p2: Switched to Mightyena
+Turn 2:
+p2: Mightyena used Crunch on Torterra
+p1: Torterra used Rock Polish on Torterra
+Turn 3:
+p1: Torterra used Earthquake on Mightyena
+p2: Mightyena used Crunch on Torterra
+Turn 4:
+p1: Torterra used Wood Hammer on Mightyena
+p2: Mightyena fainted
+p2: Switched to Pheromosa
+Turn 5:
+p1: Torterra used Stone Edge on Pheromosa
+p2: Pheromosa used Ice Beam on Torterra
+p1: Torterra fainted
+p1: Switched to Scolipede
+Turn 6:
+p2: Switched to Alakazam
+p1: Scolipede used Swords Dance on Scolipede
+Turn 7:
+p1: Scolipede used Megahorn on Alakazam
+p2: Alakazam fainted
+p2: Switched to Mawile
+Turn 8:

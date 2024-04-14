@@ -1,0 +1,308 @@
+|j|☆Chad Ukraine
+|j|☆O Cego do Castelo
+|t:|1711939675
+|gametype|singles
+|player|p1|Chad Ukraine|pokemonranger|1251
+|player|p2|O Cego do Castelo|morty-masters|1339
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lucario, M|
+|poke|p1|Lycanroc-Dusk, F|
+|poke|p1|Thundurus, M|
+|poke|p1|Mew|
+|poke|p1|Overqwil, F|
+|poke|p1|Cloyster, M|
+|poke|p2|Cacturne, M|
+|poke|p2|Mew|
+|poke|p2|Cramorant, F|
+|poke|p2|Munkidori, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Rotom-Heat|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by O Cego do Castelo)
+|
+|t:|1711939683
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Dingodile|Krookodile, M, shiny|100/100
+|-ability|p2a: Dingodile|Intimidate|boost
+|-unboost|p1a: Mew|atk|1
+|turn|1
+|
+|t:|1711939691
+|move|p1a: Mew|Stealth Rock|p2a: Dingodile
+|-sidestart|p2: O Cego do Castelo|move: Stealth Rock
+|move|p2a: Dingodile|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|14/100
+|-enditem|p1a: Mew|Power Herb|[from] move: Knock Off|[of] p2a: Dingodile
+|
+|upkeep
+|turn|2
+|
+|t:|1711939697
+|move|p1a: Mew|Earth Power|p2a: Dingodile
+|-damage|p2a: Dingodile|67/100
+|-unboost|p2a: Dingodile|spd|1
+|move|p2a: Dingodile|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-heal|p2a: Dingodile|73/100|[from] item: Leftovers
+|upkeep
+|inactive|Chad Ukraine has 120 seconds left.
+|
+|t:|1711939743
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|3
+|
+|t:|1711939752
+|-terastallize|p1a: Cloyster|Electric
+|move|p2a: Dingodile|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|63/100
+|-enditem|p1a: Cloyster|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Dingodile
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|-heal|p2a: Dingodile|79/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711939764
+|switch|p2a: Brastemp|Rotom-Heat, shiny|100/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Brastemp
+|-resisted|p2a: Brastemp
+|-damage|p2a: Brastemp|92/100
+|-resisted|p2a: Brastemp
+|-damage|p2a: Brastemp|84/100
+|-resisted|p2a: Brastemp
+|-crit|p2a: Brastemp
+|-damage|p2a: Brastemp|71/100
+|-resisted|p2a: Brastemp
+|-crit|p2a: Brastemp
+|-damage|p2a: Brastemp|59/100
+|-resisted|p2a: Brastemp
+|-damage|p2a: Brastemp|49/100
+|-hitcount|p2a: Brastemp|5
+|
+|upkeep
+|turn|5
+|
+|t:|1711939779
+|-terastallize|p2a: Brastemp|Steel
+|move|p1a: Cloyster|Rock Blast|p2a: Brastemp|[miss]
+|-miss|p1a: Cloyster|p2a: Brastemp
+|move|p2a: Brastemp|Overheat|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|-unboost|p2a: Brastemp|spa|2
+|faint|p1a: Cloyster
+|
+|upkeep
+|inactive|Chad Ukraine has 90 seconds left.
+|
+|t:|1711939813
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|6
+|
+|t:|1711939821
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|move|p2a: Brastemp|Pain Split|p1a: Thundurus
+|-sethp|p1a: Thundurus|75/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Brastemp|74/100|[from] move: Pain Split
+|
+|upkeep
+|turn|7
+|
+|t:|1711939829
+|switch|p2a: 1000|Mew|100/100
+|-damage|p2a: 1000|88/100|[from] Stealth Rock
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|
+|-heal|p2a: 1000|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711939839
+|move|p1a: Thundurus|Thunderbolt|p2a: 1000
+|-damage|p2a: 1000|0 fnt
+|faint|p2a: 1000
+|
+|upkeep
+|
+|t:|1711939846
+|switch|p2a: Mamaco|Munkidori, M|100/100
+|-damage|p2a: Mamaco|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1711939853
+|move|p2a: Mamaco|U-turn|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|67/100
+|-status|p1a: Thundurus|tox|[from] ability: Toxic Chain|[of] p2a: Mamaco
+|
+|t:|1711939861
+|switch|p2a: Brastemp|Rotom-Heat, shiny, tera:Steel|74/100|[from] U-turn
+|move|p1a: Thundurus|Thunderbolt|p2a: Brastemp
+|-damage|p2a: Brastemp|0 fnt
+|faint|p2a: Brastemp
+|
+|-damage|p1a: Thundurus|61/100 tox|[from] psn
+|upkeep
+|
+|t:|1711939872
+|switch|p2a: Mamaco|Munkidori, M|88/100
+|-damage|p2a: Mamaco|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1711939880
+|move|p2a: Mamaco|Sludge Wave|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1711939894
+|switch|p1a: Overqwil|Overqwil, F|100/100
+|-ability|p1a: Overqwil|Intimidate|boost
+|-unboost|p2a: Mamaco|atk|1
+|turn|11
+|
+|t:|1711939900
+|switch|p2a: Dingodile|Krookodile, M, shiny|79/100
+|-damage|p2a: Dingodile|73/100|[from] Stealth Rock
+|-ability|p2a: Dingodile|Intimidate|boost
+|-unboost|p1a: Overqwil|atk|1
+|move|p1a: Overqwil|Crunch|p2a: Dingodile
+|-resisted|p2a: Dingodile
+|-damage|p2a: Dingodile|57/100
+|
+|-heal|p2a: Dingodile|63/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711939909
+|move|p1a: Overqwil|Aqua Jet|p2a: Dingodile
+|-supereffective|p2a: Dingodile
+|-damage|p2a: Dingodile|40/100
+|move|p2a: Dingodile|Earthquake|p1a: Overqwil
+|-supereffective|p1a: Overqwil
+|-damage|p1a: Overqwil|0 fnt
+|faint|p1a: Overqwil
+|
+|-heal|p2a: Dingodile|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711939925
+|switch|p1a: Lucario|Lucario, M|100/100
+|-item|p1a: Lucario|Air Balloon
+|turn|13
+|
+|t:|1711939939
+|switch|p2a: Passaralho|Cramorant, F|100/100
+|move|p1a: Lucario|Close Combat|p2a: Passaralho
+|-resisted|p2a: Passaralho
+|-damage|p2a: Passaralho|55/100
+|-unboost|p1a: Lucario|def|1
+|-unboost|p1a: Lucario|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1711939948
+|move|p1a: Lucario|Extreme Speed|p2a: Passaralho
+|-damage|p2a: Passaralho|15/100
+|move|p2a: Passaralho|Surf|p1a: Lucario
+|-formechange|p2a: Passaralho|Cramorant-Gorging|
+|-damage|p1a: Lucario|31/100
+|-enditem|p1a: Lucario|Air Balloon
+|
+|upkeep
+|turn|15
+|
+|t:|1711939957
+|move|p1a: Lucario|Extreme Speed|p2a: Passaralho
+|-damage|p2a: Passaralho|0 fnt
+|-damage|p1a: Lucario|6/100|[from] ability: Gulp Missile|[of] p2a: Passaralho
+|-status|p1a: Lucario|par
+|-formechange|p2a: Passaralho|Cramorant|
+|faint|p2a: Passaralho
+|
+|upkeep
+|
+|t:|1711939965
+|switch|p2a: Mamaco|Munkidori, M|76/100
+|-damage|p2a: Mamaco|64/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1711939968
+|move|p1a: Lucario|Extreme Speed|p2a: Mamaco
+|-damage|p2a: Mamaco|25/100
+|move|p2a: Mamaco|Psychic|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|upkeep
+|
+|t:|1711939974
+|switch|p1a: Lycanroc|Lycanroc-Dusk, F|100/100
+|turn|17
+|
+|t:|1711939979
+|move|p1a: Lycanroc|Sucker Punch|p2a: Mamaco
+|-supereffective|p2a: Mamaco
+|-damage|p2a: Mamaco|0 fnt
+|faint|p2a: Mamaco
+|-damage|p1a: Lycanroc|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711939982
+|switch|p2a: Dingodile|Krookodile, M, shiny|46/100
+|-damage|p2a: Dingodile|40/100|[from] Stealth Rock
+|-ability|p2a: Dingodile|Intimidate|boost
+|-unboost|p1a: Lycanroc|atk|1
+|turn|18
+|inactive|Chad Ukraine has 120 seconds left.
+|
+|t:|1711940016
+|move|p1a: Lycanroc|Close Combat|p2a: Dingodile
+|-supereffective|p2a: Dingodile
+|-damage|p2a: Dingodile|0 fnt
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|faint|p2a: Dingodile
+|-damage|p1a: Lycanroc|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711940019
+|switch|p2a: SORRISO|Cacturne, M|100/100
+|-damage|p2a: SORRISO|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1711940027
+|move|p2a: SORRISO|Sucker Punch|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|win|O Cego do Castelo
+|raw|Chad Ukraine's rating: 1251 &rarr; <strong>1232</strong><br />(-19 for losing)
+|raw|O Cego do Castelo's rating: 1339 &rarr; <strong>1354</strong><br />(+15 for winning)

@@ -1,0 +1,38 @@
+|j|☆yerpptheder
+|j|☆lh79p
+|t:|1711939642
+|gametype|singles
+|player|p1|yerpptheder|miku-ground|1265
+|player|p2|lh79p|dawn|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711939642
+|start
+|switch|p1a: Inteleon|Inteleon, L80, F|243/243
+|switch|p2a: Ditto|Ditto, L76|198/198
+|-transform|p2a: Ditto|p1a: Inteleon|[from] ability: Imposter
+|turn|1
+|
+|t:|1711939652
+|switch|p1a: Tapu Koko|Tapu Koko, L77|234/234
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Ditto|Air Slash|p1a: Tapu Koko|[miss]
+|-miss|p2a: Ditto|p1a: Tapu Koko
+|
+|upkeep
+|turn|2
+|-message|lh79p forfeited.
+|
+|win|yerpptheder
+|raw|yerpptheder's rating: 1265 &rarr; <strong>1274</strong><br />(+9 for winning)
+|raw|lh79p's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆lh79p
+|player|p2|

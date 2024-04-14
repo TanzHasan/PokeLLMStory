@@ -1,0 +1,282 @@
+|j|☆Hackr6726
+|j|☆twinkeater123yes
+|t:|1711929157
+|gametype|singles
+|player|p1|Hackr6726|gambler|
+|player|p2|twinkeater123yes|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711929157
+|start
+|switch|p1a: Accelgor|Accelgor, L87, F|281/281
+|switch|p2a: Blaziken|Blaziken, L75, F|243/243
+|turn|1
+|c|☆Hackr6726|YOU CAN MEGA EVOLVE WTH
+|
+|t:|1711929200
+|switch|p1a: Seviper|Seviper, L90, M|278/278
+|move|p2a: Blaziken|High Jump Kick|p1a: Seviper
+|-resisted|p1a: Seviper
+|-damage|p1a: Seviper|193/278
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1711929210
+|move|p2a: Blaziken|Flare Blitz|p1a: Seviper
+|-damage|p1a: Seviper|42/278
+|-damage|p2a: Blaziken|193/243|[from] Recoil
+|move|p1a: Seviper|Glare|p2a: Blaziken
+|-status|p2a: Blaziken|par
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1711929222
+|switch|p2a: Maractus|Maractus, L95, M|296/296
+|move|p1a: Seviper|Earthquake|p2a: Maractus
+|-resisted|p2a: Maractus
+|-damage|p2a: Maractus|236/296
+|-damage|p1a: Seviper|15/278|[from] item: Life Orb
+|
+|-heal|p2a: Maractus|254/296|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711929235
+|move|p1a: Seviper|Sludge Wave|p2a: Maractus
+|-supereffective|p2a: Maractus
+|-damage|p2a: Maractus|0 fnt
+|faint|p2a: Maractus
+|-damage|p1a: Seviper|0 fnt|[from] item: Life Orb
+|faint|p1a: Seviper
+|
+|upkeep
+|
+|t:|1711929245
+|switch|p1a: Zebstrika|Zebstrika, L88, F|275/275
+|switch|p2a: Kabutops|Kabutops, L86, F|243/243
+|turn|5
+|
+|t:|1711929258
+|move|p1a: Zebstrika|Volt Switch|p2a: Kabutops
+|-supereffective|p2a: Kabutops
+|-damage|p2a: Kabutops|34/243
+|
+|t:|1711929263
+|switch|p1a: Accelgor|Accelgor, L87, F|281/281|[from] Volt Switch
+|move|p2a: Kabutops|Knock Off|p1a: Accelgor
+|-damage|p1a: Accelgor|65/281
+|-activate|p1a: Accelgor|ability: Sticky Hold
+|
+|upkeep
+|turn|6
+|
+|t:|1711929271
+|move|p1a: Accelgor|Energy Ball|p2a: Kabutops
+|-supereffective|p2a: Kabutops
+|-damage|p2a: Kabutops|0 fnt
+|faint|p2a: Kabutops
+|
+|upkeep
+|
+|t:|1711929277
+|switch|p2a: Muk|Muk, L88, M|328/328
+|turn|7
+|
+|t:|1711929283
+|move|p1a: Accelgor|Yawn|p2a: Muk
+|-start|p2a: Muk|move: Yawn|[of] p1a: Accelgor
+|move|p2a: Muk|Poison Jab|p1a: Accelgor
+|-damage|p1a: Accelgor|0 fnt
+|faint|p1a: Accelgor
+|
+|upkeep
+|
+|t:|1711929310
+|switch|p1a: Zebstrika|Zebstrika, L88, F|275/275
+|turn|8
+|
+|t:|1711929318
+|move|p1a: Zebstrika|Wild Charge|p2a: Muk
+|-damage|p2a: Muk|210/328
+|-damage|p1a: Zebstrika|245/275|[from] Recoil
+|move|p2a: Muk|Haze|p2a: Muk
+|-clearallboost
+|
+|-heal|p2a: Muk|230/328|[from] item: Black Sludge
+|-end|p2a: Muk|move: Yawn|[silent]
+|-status|p2a: Muk|slp
+|upkeep
+|turn|9
+|
+|t:|1711929330
+|move|p1a: Zebstrika|Wild Charge|p2a: Muk
+|-damage|p2a: Muk|121/328 slp
+|-damage|p1a: Zebstrika|218/275|[from] Recoil
+|cant|p2a: Muk|slp
+|
+|-heal|p2a: Muk|141/328 slp|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1711929339
+|switch|p2a: Chatot|Chatot, L87, F|274/274
+|move|p1a: Zebstrika|Wild Charge|p2a: Chatot
+|-supereffective|p2a: Chatot
+|-damage|p2a: Chatot|0 fnt
+|faint|p2a: Chatot
+|-damage|p1a: Zebstrika|149/275|[from] Recoil
+|
+|upkeep
+|
+|t:|1711929349
+|switch|p2a: Blaziken|Blaziken, L75, F|193/243 par
+|turn|11
+|
+|t:|1711929354
+|move|p1a: Zebstrika|Wild Charge|p2a: Blaziken
+|-damage|p2a: Blaziken|64/243 par
+|-damage|p1a: Zebstrika|117/275|[from] Recoil
+|move|p2a: Blaziken|Knock Off|p1a: Zebstrika
+|-damage|p1a: Zebstrika|38/275
+|-enditem|p1a: Zebstrika|Expert Belt|[from] move: Knock Off|[of] p2a: Blaziken
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|12
+|c|☆Hackr6726|UR DONE BUDDY BOI
+|
+|t:|1711929364
+|move|p1a: Zebstrika|Wild Charge|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|-damage|p1a: Zebstrika|22/275|[from] Recoil
+|
+|upkeep
+|
+|t:|1711929372
+|switch|p2a: Gogoat|Gogoat, L89, F|364/364
+|turn|13
+|
+|t:|1711929387
+|move|p1a: Zebstrika|Overheat|p2a: Gogoat
+|-supereffective|p2a: Gogoat
+|-damage|p2a: Gogoat|196/364
+|-unboost|p1a: Zebstrika|spa|2
+|move|p2a: Gogoat|Horn Leech|p1a: Zebstrika
+|-damage|p1a: Zebstrika|0 fnt
+|-heal|p2a: Gogoat|207/364|[from] drain|[of] p1a: Zebstrika
+|faint|p1a: Zebstrika
+|
+|-heal|p2a: Gogoat|229/364|[from] item: Leftovers
+|upkeep
+|
+|t:|1711929399
+|switch|p1a: Blissey|Blissey, L84, F|566/566
+|turn|14
+|
+|t:|1711929406
+|move|p2a: Gogoat|Milk Drink|p2a: Gogoat
+|-heal|p2a: Gogoat|364/364
+|move|p1a: Blissey|Toxic|p2a: Gogoat
+|-status|p2a: Gogoat|tox
+|
+|-damage|p2a: Gogoat|342/364 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1711929417
+|move|p2a: Gogoat|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|320/566
+|move|p1a: Blissey|Seismic Toss|p2a: Gogoat
+|-damage|p2a: Gogoat|258/364 tox
+|
+|-heal|p2a: Gogoat|280/364 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|355/566|[from] item: Leftovers
+|-damage|p2a: Gogoat|236/364 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711929426
+|move|p2a: Gogoat|Milk Drink|p2a: Gogoat
+|-heal|p2a: Gogoat|364/364 tox
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|566/566
+|
+|-damage|p2a: Gogoat|298/364 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711929435
+|move|p2a: Gogoat|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|move|p1a: Blissey|Seismic Toss|p2a: Gogoat
+|-damage|p2a: Gogoat|214/364 tox
+|
+|-heal|p2a: Gogoat|236/364 tox|[from] item: Leftovers
+|-damage|p2a: Gogoat|148/364 tox|[from] psn
+|-damage|p1a: Blissey|531/566 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711929446
+|move|p2a: Gogoat|Milk Drink|p2a: Gogoat
+|-heal|p2a: Gogoat|330/364 tox
+|move|p1a: Blissey|Aromatherapy|p1a: Blissey
+|-activate|p1a: Blissey|move: Aromatherapy
+|-curestatus|p1a: Blissey|tox|[msg]
+|
+|-heal|p2a: Gogoat|352/364 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|566/566|[from] item: Leftovers
+|-damage|p2a: Gogoat|242/364 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711929461
+|move|p2a: Gogoat|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|304/566
+|move|p1a: Blissey|Seismic Toss|p2a: Gogoat
+|-damage|p2a: Gogoat|158/364 tox
+|
+|-heal|p2a: Gogoat|180/364 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|339/566|[from] item: Leftovers
+|-damage|p2a: Gogoat|48/364 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711929473
+|move|p2a: Gogoat|Earthquake|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-heal|p2a: Gogoat|70/364 tox|[from] item: Leftovers
+|-damage|p2a: Gogoat|0 fnt|[from] psn
+|faint|p2a: Gogoat
+|upkeep
+|
+|t:|1711929482
+|switch|p2a: Muk|Muk, L88, M|141/328 slp
+|switch|p1a: Slaking|Slaking, L82, F|380/380
+|turn|21
+|
+|t:|1711929488
+|cant|p2a: Muk|slp
+|move|p1a: Slaking|Earthquake|p2a: Muk
+|-supereffective|p2a: Muk
+|-damage|p2a: Muk|0 fnt
+|faint|p2a: Muk
+|
+|win|Hackr6726

@@ -1,0 +1,121 @@
+|j|☆magolor kirby
+|j|☆Yunanan
+|t:|1709213786
+|gametype|singles
+|player|p1|magolor kirby|dawn|
+|player|p2|Yunanan|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Zapdos, L50|
+|poke|p1|Cinderace, L50, F|
+|poke|p1|Porygon2, L50|
+|poke|p1|Landorus-Therian, L50, M|
+|poke|p1|Tapu Fini, L50|
+|poke|p1|Mimikyu, L50, F|
+|poke|p2|Tyranitar, L50, F|
+|poke|p2|Excadrill, L50, F|
+|poke|p2|Corsola-Galar, L50, F|
+|poke|p2|Darmanitan-Galar, L50, F|
+|poke|p2|Centiskorch, L50, M|
+|poke|p2|Celesteela, L50|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yunanan)
+|inactive|magolor kirby has 60 seconds left.
+|inactive|Yunanan has 60 seconds left.
+|
+|t:|1709213834
+|start
+|switch|p1a: Landorus|Landorus-Therian, L50, M|100/100
+|switch|p2a: Celesteela|Celesteela, L50|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Celesteela|atk|1
+|turn|1
+|
+|t:|1709213846
+|switch|p1a: Tapu Fini|Tapu Fini, L50|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|56/100
+|
+|-heal|p1a: Tapu Fini|63/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1709213857
+|move|p2a: Celesteela|Flash Cannon|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|22/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|28/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1709213866
+|move|p2a: Celesteela|Flash Cannon|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1709213871
+|switch|p1a: Cinderace|Cinderace, L50, F|100/100
+|turn|4
+|
+|t:|1709213881
+|-start|p1a: Cinderace|Dynamax|Gmax
+|-heal|p1a: Cinderace|100/100|[silent]
+|-start|p2a: Celesteela|Dynamax|
+|-heal|p2a: Celesteela|100/100|[silent]
+|move|p1a: Cinderace|G-Max Fireball|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|22/100
+|move|p2a: Celesteela|Max Rockfall|p1a: Cinderace
+|-supereffective|p1a: Cinderace
+|-damage|p1a: Cinderace|0 fnt
+|-weather|Sandstorm
+|faint|p1a: Cinderace
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1709213890
+|switch|p1a: Landorus|Landorus-Therian, L50, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Celesteela|atk|1
+|turn|5
+|
+|t:|1709213892
+|move|p1a: Landorus|Rock Slide|p2a: Celesteela
+|-damage|p2a: Celesteela|8/100
+|move|p2a: Celesteela|Max Steelspike|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-boost|p2a: Celesteela|def|1
+|faint|p1a: Landorus
+|
+|win|Yunanan
+|c|☆magolor kirby|はやい！！！
+|c|☆Yunanan|最速カグヤだからね
+|l|☆Yunanan
+|player|p2|
+|j|☆Yunanan
+|player|p2|Yunanan|acetrainerf
+|l|☆Yunanan
+|player|p2|
+|j|☆Yunanan
+|player|p2|Yunanan|acetrainerf
+|c|☆magolor kirby|僕の知ってるカグヤだ

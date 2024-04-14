@@ -1,0 +1,14 @@
+p1: Switched to Dragapult
+p2: Switched to Rayquaza
+Turn 1:
+p1: Dragapult used Entrainment on Rayquaza
+p2: Rayquaza used Outrage on Dragapult
+Turn 2:
+p1: Dragapult used Hone Claws on Dragapult
+p2: Rayquaza used Outrage on Dragapult
+Turn 3:
+p1: Dragapult used Judgment on Rayquaza
+p2: Rayquaza used Dragon Ascent on Dragapult
+Turn 4:
+p1: Dragapult used Judgment on Rayquaza
+p2: Rayquaza fainted

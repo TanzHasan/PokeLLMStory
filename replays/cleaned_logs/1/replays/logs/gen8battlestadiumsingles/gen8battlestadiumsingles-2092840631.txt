@@ -1,0 +1,33 @@
+p1: Switched to Type: Null
+p2: Switched to Celesteela
+Turn 1:
+p2: Celesteela used Flash Cannon on Type: Null
+p1: Type: Null used Thunder Wave on Celesteela
+Turn 2:
+p1: Type: Null used Metal Sound on Celesteela
+p2: Celesteela used Flash Cannon on Type: Null
+Turn 3:
+p1: Type: Null used Tri Attack on Celesteela
+p2: Celesteela used Flash Cannon on Type: Null
+Turn 4:
+p1: Type: Null used Tri Attack on Celesteela
+p2: Celesteela used Flash Cannon on Type: Null
+p1: Type: Null fainted
+p1: Switched to Inteleon
+Turn 5:
+p1: Inteleon used Focus Energy on Inteleon
+p2: Celesteela can't move
+Turn 6:
+p1: Inteleon used Agility on Inteleon
+p2: Celesteela used Flash Cannon on Inteleon
+Turn 7:
+p1: Inteleon used Max Geyser on Celesteela
+p2: Celesteela fainted
+p2: Switched to Seismitoad
+Turn 8:
+p1: Inteleon used Max Geyser on Seismitoad
+p2: Seismitoad fainted
+p2: Switched to Tyrantrum
+Turn 9:
+p1: Inteleon used Max Geyser on Tyrantrum
+p2: Tyrantrum fainted

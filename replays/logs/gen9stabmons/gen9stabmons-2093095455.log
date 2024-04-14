@@ -1,0 +1,308 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] STABmons is currently suspecting Gouging Fire! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/stabmons-suspect-4-gouging-fire-i-dont-want-to-set-the-world-on-fire.3739099/">suspect thread</a>.</strong></div>
+|j|☆dragonmaster441
+|j|☆untrue_reality
+|t:|1711912464
+|gametype|singles
+|player|p1|dragonmaster441|acetrainerf-gen4|1152
+|player|p2|untrue_reality|psychic-gen2|1117
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Kleavor, M|
+|poke|p1|Blissey, F|
+|poke|p1|Great Tusk|
+|poke|p1|Salamence, F|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Gliscor, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Gholdengo|
+|poke|p2|Hydrapple, F|
+|poke|p2|Garganacl, M|
+|poke|p2|Slither Wing|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by untrue_reality)
+|c|☆dragonmaster441|hf
+|c|☆untrue_reality|u2
+|
+|t:|1711912487
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: RAGE|Gholdengo|100/100
+|turn|1
+|
+|t:|1711912494
+|move|p2a: RAGE|Nasty Plot|p2a: RAGE
+|-boost|p2a: RAGE|spa|2
+|move|p1a: Toxapex|Flip Turn|p2a: RAGE
+|-damage|p2a: RAGE|91/100
+|
+|t:|1711912502
+|switch|p1a: Blissey|Blissey, F|100/100|[from] Flip Turn
+|
+|-heal|p2a: RAGE|97/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711912505
+|move|p2a: RAGE|Nasty Plot|p2a: RAGE
+|-boost|p2a: RAGE|spa|2
+|move|p1a: Blissey|Whirlwind|p2a: RAGE
+|-immune|p2a: RAGE|[from] ability: Good as Gold
+|
+|-heal|p2a: RAGE|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711912512
+|move|p2a: RAGE|Tachyon Cutter|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|63/100
+|-damage|p1a: Blissey|39/100
+|-hitcount|p1a: Blissey|2
+|move|p1a: Blissey|Slack Off|p1a: Blissey
+|-heal|p1a: Blissey|89/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711912520
+|move|p2a: RAGE|Nasty Plot|p2a: RAGE
+|-boost|p2a: RAGE|spa|2
+|move|p1a: Blissey|Slack Off|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711912529
+|move|p2a: RAGE|Tachyon Cutter|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|48/100
+|-damage|p1a: Blissey|16/100
+|-hitcount|p1a: Blissey|2
+|move|p1a: Blissey|Slack Off|p1a: Blissey
+|-heal|p1a: Blissey|66/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711912535
+|move|p2a: RAGE|Tachyon Cutter|p1a: Blissey
+|-damage|p1a: Blissey|33/100
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|-hitcount|p1: Blissey|2
+|
+|upkeep
+|
+|t:|1711912539
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|turn|7
+|
+|t:|1711912541
+|move|p2a: RAGE|Infernal Parade|p1a: Toxapex
+|-damage|p1a: Toxapex|52/100
+|move|p1a: Toxapex|Scald|p2a: RAGE
+|-damage|p2a: RAGE|78/100
+|
+|-heal|p2a: RAGE|84/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711912551
+|move|p2a: RAGE|Infernal Parade|p1a: Toxapex
+|-damage|p1a: Toxapex|1/100
+|move|p1a: Toxapex|Flip Turn|p2a: RAGE
+|-damage|p2a: RAGE|74/100
+|
+|t:|1711912561
+|switch|p1a: Kleavor|Kleavor, M|100/100|[from] Flip Turn
+|
+|-heal|p2a: RAGE|80/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711912567
+|move|p1a: Kleavor|Mighty Cleave|p2a: RAGE
+|-resisted|p2a: RAGE
+|-damage|p2a: RAGE|54/100
+|move|p2a: RAGE|Tachyon Cutter|p1a: Kleavor
+|-supereffective|p1a: Kleavor
+|-damage|p1a: Kleavor|0 fnt
+|faint|p1a: Kleavor
+|-hitcount|p1: Kleavor|1
+|
+|-heal|p2a: RAGE|60/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711912574
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|turn|10
+|
+|t:|1711912580
+|move|p1a: Thundurus|Electro Drift|p2a: RAGE
+|-damage|p2a: RAGE|0 fnt
+|faint|p2a: RAGE
+|
+|upkeep
+|
+|t:|1711912586
+|switch|p2a: IF IT AINT SPIK|Gliscor, M|100/100
+|turn|11
+|
+|t:|1711912592
+|switch|p1a: Salamence|Salamence, F|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: IF IT AINT SPIK|atk|1
+|move|p2a: IF IT AINT SPIK|Toxic|p1a: Salamence
+|-status|p1a: Salamence|tox
+|-enditem|p1a: Salamence|Lum Berry|[eat]
+|-curestatus|p1a: Salamence|tox|[msg]
+|
+|-status|p2a: IF IT AINT SPIK|tox|[from] item: Toxic Orb
+|upkeep
+|turn|12
+|
+|t:|1711912603
+|-terastallize|p1a: Salamence|Steel
+|move|p1a: Salamence|Dragon Dance|p1a: Salamence
+|-boost|p1a: Salamence|atk|1
+|-boost|p1a: Salamence|spe|1
+|move|p2a: IF IT AINT SPIK|Toxic|p1a: Salamence
+|-immune|p1a: Salamence
+|
+|upkeep
+|turn|13
+|
+|t:|1711912614
+|move|p1a: Salamence|Dragon Ascent|p2a: IF IT AINT SPIK
+|-damage|p2a: IF IT AINT SPIK|19/100 tox
+|-unboost|p1a: Salamence|def|1
+|-unboost|p1a: Salamence|spd|1
+|move|p2a: IF IT AINT SPIK|Earthquake|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|21/100
+|
+|-heal|p2a: IF IT AINT SPIK|31/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|14
+|
+|t:|1711912625
+|switch|p2a: LIKE STEVIE|Toxapex, F|100/100
+|move|p1a: Salamence|Dragon Darts|p2a: LIKE STEVIE
+|-damage|p2a: LIKE STEVIE|75/100
+|-anim|p1a: Salamence|Dragon Darts|p2a: LIKE STEVIE
+|-damage|p2a: LIKE STEVIE|49/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711912631
+|move|p1a: Salamence|Dragon Darts|p2a: LIKE STEVIE
+|-damage|p2a: LIKE STEVIE|21/100
+|-anim|p1a: Salamence|Dragon Darts|p2a: LIKE STEVIE
+|-damage|p2a: LIKE STEVIE|0 fnt
+|faint|p2a: LIKE STEVIE
+|
+|upkeep
+|
+|t:|1711912636
+|switch|p2a: PLAYBOI|Slither Wing|100/100
+|turn|16
+|
+|t:|1711912641
+|move|p2a: PLAYBOI|First Impression|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|upkeep
+|
+|t:|1711912645
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|turn|17
+|inactive|untrue_reality has 120 seconds left.
+|inactive|untrue_reality has 90 seconds left.
+|
+|t:|1711912716
+|-end|p2a: PLAYBOI|Protosynthesis|[silent]
+|switch|p2a: Trippie|Hydrapple, F|100/100
+|move|p1a: Great Tusk|Spikes|p2a: Trippie
+|-sidestart|p2: untrue_reality|Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1711912721
+|move|p1a: Great Tusk|Knock Off|p2a: Trippie
+|-damage|p2a: Trippie|84/100
+|-enditem|p2a: Trippie|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|move|p2a: Trippie|Matcha Gotcha|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|20/100
+|-heal|p2a: Trippie|100/100|[from] drain|[of] p1a: Great Tusk
+|
+|upkeep
+|turn|19
+|
+|t:|1711912732
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Trippie|Nasty Plot|p2a: Trippie
+|-boost|p2a: Trippie|spa|2
+|
+|upkeep
+|turn|20
+|inactive|untrue_reality has 90 seconds left.
+|inactive|untrue_reality has 60 seconds left.
+|
+|t:|1711912787
+|-terastallize|p2a: Trippie|Steel
+|move|p1a: Thundurus|Aeroblast|p2a: Trippie
+|-resisted|p2a: Trippie
+|-damage|p2a: Trippie|58/100
+|move|p2a: Trippie|Fickle Beam|p1a: Thundurus|[anim] Fickle Beam All Out
+|-activate|p2a: Trippie|move: Fickle Beam
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1711912795
+|switch|p1a: Toxapex|Toxapex, F|35/100
+|turn|21
+|
+|t:|1711912799
+|move|p2a: Trippie|Fickle Beam|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|inactive|dragonmaster441 has 120 seconds left.
+|
+|t:|1711912833
+|switch|p1a: Great Tusk|Great Tusk|20/100
+|turn|22
+|
+|t:|1711912836
+|move|p1a: Great Tusk|Shore Up|p1a: Great Tusk
+|-heal|p1a: Great Tusk|70/100
+|move|p2a: Trippie|Fickle Beam|p1a: Great Tusk|[anim] Fickle Beam All Out
+|-activate|p2a: Trippie|move: Fickle Beam
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|win|untrue_reality
+|raw|dragonmaster441's rating: 1152 &rarr; <strong>1124</strong><br />(-28 for losing)
+|raw|untrue_reality's rating: 1117 &rarr; <strong>1145</strong><br />(+28 for winning)

@@ -1,0 +1,92 @@
+p1: Switched to Furfrou-Kabuki
+p2: Switched to Durant
+Turn 1:
+p1: Switched to Emolga
+p2: Durant used Hone Claws on Durant
+Turn 2:
+p1: Emolga used Thunderbolt on Durant
+p2: Durant can't move
+Turn 3:
+p1: Emolga used Thunderbolt on Durant
+p2: Durant fainted
+p2: Switched to Stantler
+Turn 4:
+p1: Emolga used Toxic on Stantler
+p2: Stantler used Double-Edge on Emolga
+p1: Emolga fainted
+p1: Switched to Doublade
+Turn 5:
+p2: Switched to Umbreon
+p1: Doublade used Swords Dance on Doublade
+Turn 6:
+p1: Switched to Articuno
+p2: Umbreon used Foul Play on Articuno
+Turn 7:
+p1: Articuno used Freeze-Dry on Umbreon
+p2: Umbreon used Toxic on Articuno
+Turn 8:
+p1: Articuno used Freeze-Dry on Umbreon
+p2: Umbreon used Toxic on Articuno
+Turn 9:
+p1: Articuno used Toxic on Umbreon
+p2: Umbreon used Moonlight on Umbreon
+Turn 10:
+p1: Articuno used Hurricane on Umbreon
+p2: Umbreon used Heal Bell on Umbreon
+Turn 11:
+p1: Articuno used Hurricane on Umbreon
+p2: Umbreon used Moonlight on Umbreon
+Turn 12:
+p1: Articuno used Hurricane on Umbreon
+p2: Umbreon used Foul Play on Articuno
+Turn 13:
+p1: Articuno used Hurricane on Umbreon
+p1: Articuno fainted
+p1: Switched to Furfrou-Kabuki
+Turn 14:
+p2: Switched to Togedemaru
+p1: Furfrou-Kabuki used Cotton Guard on Furfrou-Kabuki
+Turn 15:
+p1: Switched to Banette
+p2: Togedemaru used Zing Zap on Banette
+Turn 16:
+p2: Togedemaru used Spiky Shield on Togedemaru
+p1: Banette used Knock Off on Togedemaru
+Turn 17:
+p2: Togedemaru used U-turn on Banette
+p2: Switched to Umbreon
+p1: Banette used Knock Off on Umbreon
+Turn 18:
+p1: Banette used Gunk Shot on Umbreon
+p2: Umbreon used Foul Play on Banette
+p1: Banette fainted
+p1: Switched to Greninja
+Turn 19:
+p1: Greninja used Gunk Shot on Umbreon
+p2: Umbreon used Toxic on Greninja
+Turn 20:
+p2: Switched to Reuniclus
+p1: Greninja used Gunk Shot on Reuniclus
+Turn 21:
+p1: Switched to Furfrou-Kabuki
+p2: Reuniclus used Psyshock on Furfrou-Kabuki
+Turn 22:
+p1: Furfrou-Kabuki used Cotton Guard on Furfrou-Kabuki
+p2: Reuniclus used Trick Room on Reuniclus
+Turn 23:
+p2: Reuniclus used Focus Blast on Furfrou-Kabuki
+p1: Furfrou-Kabuki fainted
+p1: Switched to Doublade
+Turn 24:
+p2: Reuniclus used Shadow Ball on Doublade
+p1: Doublade used Swords Dance on Doublade
+Turn 25:
+p1: Doublade used Shadow Sneak on Reuniclus
+p2: Reuniclus fainted
+p2: Switched to Blastoise
+Turn 26:
+p1: Doublade used Iron Head on Blastoise
+p2: Blastoise used Dark Pulse on Doublade
+p1: Doublade fainted
+p1: Switched to Greninja
+Turn 27:

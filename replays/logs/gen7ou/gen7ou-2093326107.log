@@ -1,0 +1,402 @@
+|j|☆psyfoxplayspokemon
+|j|☆aquiles meo
+|t:|1711939655
+|gametype|singles
+|player|p1|psyfoxplayspokemon|miku-fire|1187
+|player|p2|aquiles meo|ethan|1093
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Toxapex, M|item
+|poke|p1|Celesteela|item
+|poke|p1|Greninja-*, M|item
+|poke|p1|Garchomp, F|item
+|poke|p1|Tapu Bulu|item
+|poke|p1|Tornadus-Therian, M|item
+|poke|p2|Alakazam, F|item
+|poke|p2|Kartana|item
+|poke|p2|Skarmory, F|item
+|poke|p2|Gardevoir, M|item
+|poke|p2|Serperior, F|item
+|poke|p2|Blacephalon|item
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by aquiles meo)
+|
+|t:|1711939686
+|start
+|switch|p1a: Greninja|Greninja, M|100/100
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|turn|1
+|c|☆aquiles meo|glhf now
+|
+|t:|1711939694
+|move|p1a: Greninja|Surf|p2a: Skarmory
+|-damage|p2a: Skarmory|29/100
+|move|p2a: Skarmory|Stealth Rock|p1a: Greninja
+|-sidestart|p1: psyfoxplayspokemon|move: Stealth Rock
+|
+|-heal|p2a: Skarmory|35/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711939702
+|move|p1a: Greninja|Surf|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-activate|p1a: Greninja|ability: Battle Bond
+|detailschange|p1a: Greninja|Greninja-Ash, M
+|
+|upkeep
+|c|☆psyfoxplayspokemon|glhf
+|
+|t:|1711939716
+|switch|p2a: Serperior|Serperior, F, shiny|100/100
+|turn|3
+|
+|t:|1711939725
+|switch|p1a: Celesteela|Celesteela|100/100
+|-damage|p1a: Celesteela|88/100|[from] Stealth Rock
+|move|p2a: Serperior|Leaf Storm|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|81/100
+|-boost|p2a: Serperior|spa|2
+|
+|-heal|p1a: Celesteela|87/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711939738
+|move|p2a: Serperior|Dragon Pulse|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|73/100
+|move|p1a: Celesteela|Flamethrower|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|46/100
+|
+|-heal|p2a: Serperior|52/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|79/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711939751
+|move|p2a: Serperior|Leaf Storm|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|63/100
+|-boost|p2a: Serperior|spa|2
+|move|p1a: Celesteela|Flamethrower|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|2/100
+|
+|-heal|p2a: Serperior|8/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711939774
+|move|p2a: Serperior|Synthesis|p2a: Serperior
+|-heal|p2a: Serperior|58/100
+|move|p1a: Celesteela|Flamethrower|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|6/100
+|-status|p2a: Serperior|brn
+|
+|-heal|p2a: Serperior|12/100 brn|[from] item: Leftovers
+|-heal|p1a: Celesteela|75/100|[from] item: Leftovers
+|-damage|p2a: Serperior|6/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711939790
+|move|p2a: Serperior|Dragon Pulse|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|56/100
+|move|p1a: Celesteela|Flamethrower|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|0 fnt
+|faint|p2a: Serperior
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spd|1
+|
+|-heal|p1a: Celesteela|62/100|[from] item: Leftovers
+|upkeep
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939813
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|turn|8
+|
+|t:|1711939818
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Blacephalon|Flamethrower|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100
+|-damage|p2a: Blacephalon|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Toxapex|68/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939830
+|move|p2a: Blacephalon|Psychic|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|4/100
+|-damage|p2a: Blacephalon|81/100|[from] item: Life Orb
+|move|p1a: Toxapex|Scald|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|23/100
+|
+|-heal|p1a: Toxapex|10/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939850
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|-damage|p1a: Tapu Bulu|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|move|p2a: Blacephalon|Psychic|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|32/100
+|-damage|p2a: Blacephalon|13/100|[from] item: Life Orb
+|
+|-heal|p2a: Blacephalon|19/100|[from] Grassy Terrain
+|-heal|p1a: Tapu Bulu|38/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939863
+|move|p2a: Blacephalon|Flamethrower|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|0 fnt
+|faint|p1a: Tapu Bulu
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|-damage|p2a: Blacephalon|9/100|[from] item: Life Orb
+|
+|-heal|p2a: Blacephalon|15/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1711939868
+|switch|p1a: Greninja|Greninja-Ash, M|100/100
+|-damage|p1a: Greninja|88/100|[from] Stealth Rock
+|turn|12
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939882
+|move|p1a: Greninja|Surf|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Greninja|94/100|[from] Grassy Terrain
+|upkeep
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939899
+|switch|p2a: Alakazam|Alakazam, F|100/100
+|turn|13
+|
+|t:|1711939923
+|switch|p1a: Celesteela|Celesteela|62/100
+|-damage|p1a: Celesteela|50/100|[from] Stealth Rock
+|detailschange|p2a: Alakazam|Alakazam-Mega, F
+|-mega|p2a: Alakazam|Alakazam|Alakazite
+|-ability|p2a: Alakazam|Beast Boost|[from] ability: Trace|[of] p1a: Celesteela
+|move|p2a: Alakazam|Energy Ball|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|39/100
+|
+|-heal|p1a: Celesteela|45/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711939946
+|move|p2a: Alakazam|Focus Blast|p1a: Celesteela
+|-damage|p1a: Celesteela|7/100
+|move|p1a: Celesteela|Leech Seed|p2a: Alakazam
+|-start|p2a: Alakazam|move: Leech Seed
+|
+|-heal|p1a: Celesteela|13/100|[from] item: Leftovers
+|-damage|p2a: Alakazam|88/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|20/100|[silent]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1711939957
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Beast Boost|[from] ability: Trace|[of] p1a: Celesteela
+|move|p1a: Celesteela|Protect||[still]
+|-fail|p1a: Celesteela
+|
+|-heal|p1a: Celesteela|26/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711939970
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Gardevoir|Shadow Ball|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-heal|p1a: Celesteela|32/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711939980
+|switch|p2a: Kartana|Kartana, shiny|100/100
+|move|p1a: Celesteela|Leech Seed|p2a: Kartana
+|-immune|p2a: Kartana
+|
+|-heal|p1a: Celesteela|39/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|aquiles meo has 120 seconds left.
+|
+|t:|1711940001
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-ability|p2a: Gardevoir|Beast Boost|[from] ability: Trace|[of] p1a: Celesteela
+|move|p1a: Celesteela|Flamethrower|p2a: Gardevoir
+|-damage|p2a: Gardevoir|82/100
+|
+|-heal|p1a: Celesteela|45/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711940016
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Gardevoir|Shadow Ball|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-heal|p1a: Celesteela|51/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711940026
+|switch|p1a: Toxapex|Toxapex, M|43/100
+|-damage|p1a: Toxapex|31/100|[from] Stealth Rock
+|move|p2a: Gardevoir|Shadow Ball|p1a: Toxapex
+|-damage|p1a: Toxapex|9/100
+|
+|-heal|p1a: Toxapex|15/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1711940043
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Gardevoir|Psychic|p1a: Garchomp
+|-damage|p1a: Garchomp|45/100
+|
+|upkeep
+|turn|22
+|inactive|aquiles meo has 90 seconds left.
+|
+|t:|1711940085
+|move|p1a: Garchomp|Earthquake|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|upkeep
+|
+|t:|1711940092
+|switch|p2a: Kartana|Kartana, shiny|100/100
+|turn|23
+|
+|t:|1711940098
+|switch|p1a: Celesteela|Celesteela|51/100
+|-damage|p1a: Celesteela|38/100|[from] Stealth Rock
+|-zpower|p2a: Kartana
+|move|p2a: Kartana|Z-Tailwind|p2a: Kartana|[anim]Tailwind
+|-start|p2a: Kartana|move: Focus Energy|[zeffect]
+|-sidestart|p2: aquiles meo|move: Tailwind
+|
+|-heal|p1a: Celesteela|44/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|aquiles meo has 90 seconds left.
+|
+|t:|1711940113
+|move|p2a: Kartana|Sacred Sword|p1a: Celesteela
+|-crit|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1711940132
+|switch|p1a: Toxapex|Toxapex, M|48/100
+|-damage|p1a: Toxapex|36/100|[from] Stealth Rock
+|turn|25
+|inactive|aquiles meo has 90 seconds left.
+|
+|t:|1711940146
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Kartana|Psycho Cut|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|4/100
+|
+|upkeep
+|turn|26
+|inactive|aquiles meo has 90 seconds left.
+|
+|t:|1711940158
+|move|p2a: Kartana|Leaf Blade|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|-damage|p2a: Kartana|84/100|[from] item: Rocky Helmet|[of] p1a: Tornadus
+|faint|p1a: Tornadus
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-sideend|p2: aquiles meo|move: Tailwind
+|upkeep
+|
+|t:|1711940185
+|switch|p1a: Greninja|Greninja-Ash, M|94/100
+|-damage|p1a: Greninja|82/100|[from] Stealth Rock
+|turn|27
+|inactive|psyfoxplayspokemon has 120 seconds left.
+|
+|t:|1711940201
+|move|p1a: Greninja|Dark Pulse|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1711940207
+|switch|p2a: Alakazam|Alakazam-Mega, F|88/100
+|turn|28
+|
+|t:|1711940214
+|move|p1a: Greninja|Dark Pulse|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|win|psyfoxplayspokemon
+|raw|psyfoxplayspokemon's rating: 1187 &rarr; <strong>1205</strong><br />(+18 for winning)
+|raw|aquiles meo's rating: 1093 &rarr; <strong>1075</strong><br />(-18 for losing)
+|l|☆psyfoxplayspokemon
+|player|p1|
+|c|☆aquiles meo|ggwp

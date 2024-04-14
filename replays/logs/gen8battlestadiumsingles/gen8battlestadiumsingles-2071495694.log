@@ -1,0 +1,137 @@
+|j|☆Yunanan
+|j|☆magolor kirby
+|t:|1709343894
+|gametype|singles
+|player|p1|Yunanan|acetrainerf|
+|player|p2|magolor kirby|dawn|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Nihilego, L50|
+|poke|p1|Dragapult, L50, F|
+|poke|p1|Moltres-Galar, L50|
+|poke|p1|Naganadel, L50|
+|poke|p1|Escavalier, L50, F|
+|poke|p1|Corsola-Galar, L50, M|
+|poke|p2|Zapdos, L50|
+|poke|p2|Cinderace, L50, M|
+|poke|p2|Porygon2, L50|
+|poke|p2|Landorus-Therian, L50, M|
+|poke|p2|Tapu Fini, L50|
+|poke|p2|Urshifu-*, L50, M|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yunanan)
+|inactive|Yunanan has 60 seconds left.
+|inactive|magolor kirby has 60 seconds left.
+|
+|t:|1709343951
+|start
+|switch|p1a: 鷺沼梨子|Dragapult, L50, F|100/100
+|switch|p2a: Urshifu|Urshifu, L50, M|100/100
+|turn|1
+|c|☆magolor kirby|yokero
+|
+|t:|1709343960
+|switch|p1a: メテオライト|Naganadel, L50|100/100
+|move|p2a: Urshifu|Wicked Blow|p1a: メテオライト
+|-crit|p1a: メテオライト
+|-damage|p1a: メテオライト|0 fnt
+|faint|p1a: メテオライト
+|
+|upkeep
+|
+|t:|1709343965
+|switch|p1a: 鷺沼梨子|Dragapult, L50, F|100/100
+|turn|2
+|
+|t:|1709343970
+|move|p1a: 鷺沼梨子|Draco Meteor|p2a: Urshifu
+|-enditem|p2a: Urshifu|Focus Sash
+|-damage|p2a: Urshifu|1/100
+|-unboost|p1a: 鷺沼梨子|spa|2
+|move|p2a: Urshifu|Wicked Blow|p1a: 鷺沼梨子
+|-supereffective|p1a: 鷺沼梨子
+|-crit|p1a: 鷺沼梨子
+|-damage|p1a: 鷺沼梨子|0 fnt
+|faint|p1a: 鷺沼梨子
+|
+|upkeep
+|
+|t:|1709343975
+|switch|p1a: むだにかたい|Corsola-Galar, L50, M|100/100
+|turn|3
+|
+|t:|1709343984
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|32/100
+|move|p1a: むだにかたい|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: むだにかたい|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1709343988
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|36/100
+|move|p1a: むだにかたい|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: むだにかたい|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1709343991
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|38/100
+|move|p1a: むだにかたい|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: むだにかたい|93/100
+|
+|upkeep
+|turn|6
+|
+|t:|1709343996
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|30/100
+|move|p1a: むだにかたい|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: むだにかたい|74/100
+|
+|upkeep
+|turn|7
+|
+|t:|1709344001
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|8/100
+|move|p1a: むだにかたい|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: むだにかたい|44/100
+|
+|upkeep
+|turn|8
+|
+|t:|1709344006
+|move|p2a: Urshifu|Wicked Blow|p1a: むだにかたい
+|-supereffective|p1a: むだにかたい
+|-crit|p1a: むだにかたい
+|-damage|p1a: むだにかたい|0 fnt
+|faint|p1a: むだにかたい
+|
+|win|magolor kirby
+|l|☆Yunanan
+|player|p1|

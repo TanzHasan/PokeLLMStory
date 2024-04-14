@@ -1,0 +1,442 @@
+|j|☆7j56ej77j56jr
+|j|☆AminitraboTTT
+|t:|1711942476
+|gametype|singles
+|player|p1|7j56ej77j56jr|265|
+|player|p2|AminitraboTTT|supernerd|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Shedinja|item
+|poke|p1|Chansey, F|item
+|poke|p1|Zapdos|item
+|poke|p1|Gliscor, M|item
+|poke|p1|Sableye, M|item
+|poke|p1|Pyukumuku, F|item
+|poke|p2|Kartana|item
+|poke|p2|Lopunny, M|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Greninja-*, M|item
+|poke|p2|Magearna|item
+|poke|p2|Latios, M|item
+|teampreview
+|c|☆AminitraboTTT|Hola, soy AminitraboTTT, el bot de la sala Español. gl hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AminitraboTTT)
+|inactive|7j56ej77j56jr also wants the timer to be on.
+|
+|t:|1711942479
+|start
+|switch|p1a: Sableye|Sableye, M|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1711942482
+|switch|p2a: Greninja|Greninja, M|100/100
+|detailschange|p1a: Sableye|Sableye-Mega, M
+|-mega|p1a: Sableye|Sableye|Sablenite
+|move|p1a: Sableye|Will-O-Wisp|p2a: Greninja
+|-status|p2a: Greninja|brn
+|
+|-damage|p2a: Greninja|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1711942484
+|move|p1a: Sableye|Protect|p1a: Sableye
+|-singleturn|p1a: Sableye|Protect
+|move|p2a: Greninja|Dark Pulse|p1a: Sableye
+|-activate|p1a: Sableye|move: Protect
+|
+|-damage|p2a: Greninja|89/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711942488
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Greninja|Dark Pulse|p1a: Chansey
+|-damage|p1a: Chansey|84/100
+|
+|-damage|p2a: Greninja|83/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1711942491
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Chansey|Seismic Toss|p2a: Kartana
+|-damage|p2a: Kartana|62/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711942494
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|-zpower|p2a: Kartana
+|move|p2a: Kartana|All-Out Pummeling|p1a: Zapdos|[zeffect]
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|75/100
+|
+|-heal|p1a: Zapdos|81/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711942496
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Heat Wave|p2a: Landorus
+|-damage|p2a: Landorus|71/100
+|-status|p2a: Landorus|brn
+|
+|-heal|p1a: Zapdos|88/100|[from] item: Leftovers
+|-damage|p2a: Landorus|65/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711942498
+|switch|p1a: Sableye|Sableye-Mega, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Sableye
+|move|p1a: Sableye|Stealth Rock|p2a: Landorus|[from]ability: Magic Bounce
+|-sidestart|p2: AminitraboTTT|move: Stealth Rock
+|
+|-damage|p2a: Landorus|59/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1711942500
+|switch|p2a: Greninja|Greninja, M|83/100 brn
+|-damage|p2a: Greninja|70/100 brn|[from] Stealth Rock
+|move|p1a: Sableye|Foul Play|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|45/100 brn
+|
+|-damage|p2a: Greninja|39/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711942502
+|move|p1a: Sableye|Protect|p1a: Sableye
+|-singleturn|p1a: Sableye|Protect
+|move|p2a: Greninja|Hydro Pump|p1a: Sableye
+|-activate|p1a: Sableye|move: Protect
+|
+|-damage|p2a: Greninja|33/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711942504
+|switch|p1a: Shedinja|Shedinja|100/100
+|move|p2a: Greninja|Hydro Pump|p1a: Shedinja
+|-immune|p1a: Shedinja|[from] ability: Wonder Guard
+|
+|-damage|p2a: Greninja|27/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711942506
+|switch|p2a: Lopunny|Lopunny, M|100/100
+|-damage|p2a: Lopunny|88/100|[from] Stealth Rock
+|move|p1a: Shedinja|Will-O-Wisp|p2a: Lopunny
+|-status|p2a: Lopunny|brn
+|
+|-damage|p2a: Lopunny|82/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711942510
+|detailschange|p2a: Lopunny|Lopunny-Mega, M
+|-mega|p2a: Lopunny|Lopunny|Lopunnite
+|move|p1a: Shedinja|Protect|p1a: Shedinja
+|-singleturn|p1a: Shedinja|Protect
+|move|p2a: Lopunny|Encore|p1a: Shedinja
+|-activate|p1a: Shedinja|move: Protect
+|
+|-damage|p2a: Lopunny|77/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711942513
+|move|p2a: Lopunny|Encore|p1a: Shedinja
+|-start|p1a: Shedinja|Encore
+|move|p1a: Shedinja|Protect||[still]
+|-fail|p1a: Shedinja
+|
+|-damage|p2a: Lopunny|71/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711942516
+|switch|p2a: Magearna|Magearna|100/100
+|-damage|p2a: Magearna|94/100|[from] Stealth Rock
+|move|p1a: Shedinja|Protect||[still]
+|-fail|p1a: Shedinja
+|
+|upkeep
+|turn|15
+|
+|t:|1711942519
+|switch|p1a: Chansey|Chansey, F|84/100
+|move|p2a: Magearna|Hidden Power|p1a: Chansey
+|-damage|p1a: Chansey|79/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711942520
+|switch|p2a: Kartana|Kartana|62/100
+|-damage|p2a: Kartana|56/100|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Kartana
+|-damage|p2a: Kartana|18/100
+|
+|upkeep
+|turn|17
+|
+|t:|1711942522
+|switch|p1a: Zapdos|Zapdos|88/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Kartana|Sacred Sword|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|74/100
+|
+|-heal|p1a: Zapdos|80/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711942524
+|switch|p2a: Landorus|Landorus-Therian, M|59/100 brn
+|-damage|p2a: Landorus|46/100 brn|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Heat Wave|p2a: Landorus
+|-damage|p2a: Landorus|18/100 brn
+|
+|-heal|p1a: Zapdos|86/100|[from] item: Leftovers
+|-damage|p2a: Landorus|12/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1711942527
+|switch|p1a: Sableye|Sableye-Mega, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Sableye
+|move|p1a: Sableye|Stealth Rock||[from]ability: Magic Bounce|[still]
+|-fail|p1a: Sableye
+|
+|-damage|p2a: Landorus|6/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1711942530
+|move|p2a: Landorus|Earthquake|p1a: Sableye
+|-damage|p1a: Sableye|78/100
+|move|p1a: Sableye|Will-O-Wisp|p2a: Landorus
+|-fail|p2a: Landorus|brn
+|
+|-damage|p2a: Landorus|0 fnt|[from] brn
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1711942531
+|switch|p2a: Lopunny|Lopunny-Mega, M|71/100 brn
+|-damage|p2a: Lopunny|65/100 brn|[from] Stealth Rock
+|turn|21
+|
+|t:|1711942533
+|move|p1a: Sableye|Protect|p1a: Sableye
+|-singleturn|p1a: Sableye|Protect
+|move|p2a: Lopunny|High Jump Kick|p1a: Sableye
+|-activate|p1a: Sableye|move: Protect
+|-damage|p2a: Lopunny|15/100 brn|[from] highjumpkick
+|
+|-damage|p2a: Lopunny|9/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1711942536
+|switch|p1a: Shedinja|Shedinja|100/100
+|move|p2a: Lopunny|High Jump Kick|p1a: Shedinja
+|-immune|p1a: Shedinja|[from] ability: Wonder Guard
+|-damage|p2a: Lopunny|0 fnt|[from] highjumpkick
+|faint|p2a: Lopunny
+|
+|upkeep
+|
+|t:|1711942536
+|switch|p2a: Magearna|Magearna|94/100
+|-damage|p2a: Magearna|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1711942539
+|switch|p1a: Chansey|Chansey, F|79/100
+|move|p2a: Magearna|Hidden Power|p1a: Chansey
+|-damage|p1a: Chansey|74/100
+|
+|upkeep
+|turn|24
+|
+|t:|1711942541
+|switch|p2a: Kartana|Kartana|18/100
+|-damage|p2a: Kartana|12/100|[from] Stealth Rock
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1711942544
+|switch|p1a: Zapdos|Zapdos|86/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Kartana|Leaf Blade|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|66/100
+|
+|-heal|p1a: Zapdos|72/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711942546
+|switch|p2a: Latios|Latios, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Discharge|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|71/100
+|
+|-heal|p1a: Zapdos|78/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711942548
+|switch|p1a: Sableye|Sableye-Mega, M|78/100
+|move|p2a: Latios|Psyshock|p1a: Sableye
+|-immune|p1a: Sableye
+|
+|upkeep
+|turn|28
+|
+|t:|1711942551
+|switch|p2a: Greninja|Greninja, M|27/100 brn
+|-damage|p2a: Greninja|15/100 brn|[from] Stealth Rock
+|move|p1a: Sableye|Foul Play|p2a: Greninja
+|-resisted|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|upkeep
+|
+|t:|1711942551
+|switch|p2a: Magearna|Magearna|88/100
+|-damage|p2a: Magearna|82/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1711942555
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Magearna|Fleur Cannon|p1a: Chansey
+|-damage|p1a: Chansey|84/100
+|-unboost|p2a: Magearna|spa|2
+|
+|upkeep
+|turn|30
+|
+|t:|1711942557
+|switch|p2a: Kartana|Kartana|12/100
+|-damage|p2a: Kartana|5/100|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1711942558
+|switch|p2a: Magearna|Magearna|82/100
+|-damage|p2a: Magearna|76/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1711942560
+|move|p1a: Chansey|Light Screen|p1a: Chansey
+|-sidestart|p1: 7j56ej77j56jr|move: Light Screen
+|move|p2a: Magearna|Iron Head|p1a: Chansey
+|-damage|p1a: Chansey|65/100
+|
+|upkeep
+|turn|32
+|
+|t:|1711942563
+|move|p1a: Chansey|Seismic Toss|p2a: Magearna
+|-damage|p2a: Magearna|49/100
+|move|p2a: Magearna|Hidden Power|p1a: Chansey
+|-damage|p1a: Chansey|63/100
+|
+|upkeep
+|turn|33
+|
+|t:|1711942564
+|move|p1a: Chansey|Seismic Toss|p2a: Magearna
+|-damage|p2a: Magearna|21/100
+|move|p2a: Magearna|Fleur Cannon|p1a: Chansey
+|-damage|p1a: Chansey|54/100
+|-unboost|p2a: Magearna|spa|2
+|
+|upkeep
+|turn|34
+|
+|t:|1711942566
+|switch|p2a: Latios|Latios, M|71/100
+|-damage|p2a: Latios|59/100|[from] Stealth Rock
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|upkeep
+|turn|35
+|
+|t:|1711942568
+|switch|p2a: Magearna|Magearna|21/100
+|-damage|p2a: Magearna|15/100|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|
+|-sideend|p1: 7j56ej77j56jr|move: Light Screen
+|upkeep
+|
+|t:|1711942568
+|switch|p2a: Latios|Latios, M|59/100
+|-damage|p2a: Latios|47/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1711942570
+|switch|p1a: Sableye|Sableye-Mega, M|78/100
+|move|p2a: Latios|Draco Meteor|p1a: Sableye
+|-damage|p1a: Sableye|26/100
+|-unboost|p2a: Latios|spa|2
+|
+|upkeep
+|turn|37
+|
+|t:|1711942572
+|switch|p1a: Shedinja|Shedinja|100/100
+|move|p2a: Latios|Draco Meteor|p1a: Shedinja
+|-immune|p1a: Shedinja|[from] ability: Wonder Guard
+|
+|upkeep
+|turn|38
+|
+|t:|1711942574
+|move|p1a: Shedinja|Shadow Sneak|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|win|7j56ej77j56jr
+|c|☆AminitraboTTT|gg
+|l|☆AminitraboTTT
+|player|p2|
+|c|☆7j56ej77j56jr|/log 7j56ej77j56jr made this room public.

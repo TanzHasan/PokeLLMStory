@@ -1,0 +1,71 @@
+p1: Switched to Bronzong
+p2: Switched to Machamp
+Turn 1:
+p2: Machamp used Dynamic Punch on Bronzong
+p1: Bronzong used Stealth Rock on Machamp
+Turn 2:
+p1: Switched to Zapdos
+p2: Machamp used Payback on Zapdos
+Turn 3:
+p1: Zapdos used Discharge on Machamp
+p2: Machamp used Dynamic Punch on Zapdos
+Turn 4:
+p2: Machamp used Ice Punch on Zapdos
+Turn 5:
+p1: Zapdos used Roost on Zapdos
+p2: Machamp used Dynamic Punch on Zapdos
+Turn 6:
+p1: Zapdos used Roost on Zapdos
+p2: Machamp used Ice Punch on Zapdos
+Turn 7:
+p1: Zapdos used Roost on Zapdos
+p2: Machamp used Dynamic Punch on Zapdos
+Turn 8:
+p1: Zapdos used Roost on Zapdos
+p2: Machamp used Ice Punch on Zapdos
+Turn 9:
+p1: Switched to Bronzong
+p2: Machamp used Ice Punch on Bronzong
+Turn 10:
+p2: Machamp used Dynamic Punch on Bronzong
+p1: Bronzong used Gyro Ball on Machamp
+Turn 11:
+p1: Switched to Tyranitar
+p2: Machamp used Ice Punch on Tyranitar
+Turn 12:
+p1: Switched to Zapdos
+p2: Switched to Scizor
+Turn 13:
+p2: Switched to Heatran
+p1: Zapdos used Discharge on Heatran
+Turn 14:
+p1: Switched to Clefable
+p2: Heatran used Fire Blast on Clefable
+Turn 15:
+p1: Switched to Latias
+p2: Heatran used Stealth Rock on Latias
+Turn 16:
+p1: Switched to Bronzong
+p2: Heatran used Explosion on Bronzong
+p2: Heatran fainted
+p1: Bronzong fainted
+p2: Switched to Latias
+p1: Switched to Zapdos
+Turn 17:
+p1: Switched to Tyranitar
+p2: Latias used Draco Meteor on Tyranitar
+Turn 18:
+p1: Tyranitar used Pursuit on Latias
+p2: Latias used Grass Knot on Tyranitar
+p1: Tyranitar fainted
+p1: Switched to Clefable
+Turn 19:
+p2: Switched to Machamp
+p1: Clefable used Thunder Wave on Machamp
+Turn 20:
+p1: Switched to Zapdos
+p2: Switched to Scizor
+Turn 21:
+p2: Switched to Machamp
+p1: Zapdos used Roost on Zapdos
+Turn 22:

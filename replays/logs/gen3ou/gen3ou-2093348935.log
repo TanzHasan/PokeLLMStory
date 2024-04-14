@@ -1,0 +1,113 @@
+|j|☆Pigmoneythe3rd
+|j|☆Sonic3754
+|t:|1711942692
+|gametype|singles
+|player|p1|Pigmoneythe3rd|2|1088
+|player|p2|Sonic3754|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711942692
+|start
+|switch|p1a: Vaporeon|Vaporeon, F|100/100
+|switch|p2a: Salamence|Salamence, F, shiny|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Vaporeon|atk|1
+|turn|1
+|
+|t:|1711942707
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Vaporeon|Substitute|p1a: Vaporeon
+|-start|p1a: Vaporeon|Substitute
+|-damage|p1a: Vaporeon|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711942720
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Vaporeon|Ice Beam|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|t:|1711942728
+|switch|p2a: Jirachi|Jirachi|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711942735
+|move|p1a: Vaporeon|Baton Pass|p1a: Vaporeon
+|
+|t:|1711942738
+|switch|p1a: Smeargle|Smeargle, F|100/100|[from] Baton Pass
+|move|p2a: Jirachi|Thunderbolt|p1a: Smeargle
+|-activate|p1a: Smeargle|Substitute|[damage]
+|
+|upkeep
+|turn|4
+|
+|t:|1711942753
+|move|p1a: Smeargle|Thunder Wave|p2a: Jirachi
+|-status|p2a: Jirachi|par
+|cant|p2a: Jirachi|par
+|
+|upkeep
+|turn|5
+|
+|t:|1711942762
+|switch|p2a: Claydol|Claydol, shiny|100/100
+|move|p1a: Smeargle|Spikes|p2a: Claydol
+|-sidestart|p2: Sonic3754|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1711942771
+|move|p1a: Smeargle|Spore|p2a: Claydol
+|-status|p2a: Claydol|slp|[from] move: Spore
+|cant|p2a: Claydol|slp
+|
+|upkeep
+|turn|7
+|
+|t:|1711942779
+|move|p1a: Smeargle|Spikes|p2a: Claydol
+|-sidestart|p2: Sonic3754|Spikes
+|cant|p2a: Claydol|slp
+|
+|upkeep
+|turn|8
+|
+|t:|1711942784
+|move|p1a: Smeargle|Spikes|p2a: Claydol
+|-sidestart|p2: Sonic3754|Spikes
+|cant|p2a: Claydol|slp
+|
+|upkeep
+|turn|9
+|-message|Sonic3754 forfeited.
+|
+|win|Pigmoneythe3rd
+|raw|Pigmoneythe3rd's rating: 1088 &rarr; <strong>1108</strong><br />(+20 for winning)
+|raw|Sonic3754's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Sonic3754
+|player|p2|

@@ -1,0 +1,42 @@
+p1: Switched to Aerodactyl
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Landorus-Therian used Stealth Rock on Aerodactyl
+p1: Aerodactyl used Stealth Rock on Landorus-Therian
+Turn 2:
+p2: Switched to Serperior
+p1: Aerodactyl used Earthquake on Serperior
+Turn 3:
+p1: Aerodactyl used Double-Edge on Serperior
+p2: Serperior used Leaf Storm on Aerodactyl
+Turn 4:
+p1: Aerodactyl used Double-Edge on Serperior
+p2: Serperior used Reflect on Serperior
+Turn 5:
+p1: Aerodactyl used Double-Edge on Serperior
+p2: Serperior used Leaf Storm on Aerodactyl
+p1: Aerodactyl fainted
+p1: Switched to Scizor
+Turn 6:
+p1: Scizor used Bullet Punch on Serperior
+p2: Serperior used Light Screen on Serperior
+Turn 7:
+p2: Switched to Landorus-Therian
+p1: Scizor used Bullet Punch on Landorus-Therian
+Turn 8:
+p2: Landorus-Therian used U-turn on Scizor
+p2: Switched to Serperior
+p2: Serperior fainted
+p1: Scizor used Knock Off on p2: Serperior
+p2: Switched to Volcarona
+Turn 9:
+p2: Volcarona used Quiver Dance on Volcarona
+p1: Scizor used Knock Off on Volcarona
+Turn 10:
+p1: Scizor used Bullet Punch on Volcarona
+p2: Volcarona used Flamethrower on Scizor
+p1: Scizor fainted
+p1: Switched to Volcarona
+Turn 11:
+p2: Volcarona used Flamethrower on Volcarona
+p1: Volcarona fainted

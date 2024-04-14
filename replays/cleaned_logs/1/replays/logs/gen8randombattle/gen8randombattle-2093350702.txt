@@ -1,0 +1,95 @@
+p1: Switched to Vespiquen
+p2: Switched to Primarina
+Turn 1:
+p2: Primarina used Hydro Pump on Vespiquen
+p1: Vespiquen used Toxic on Primarina
+Turn 2:
+p1: Switched to Eternatus
+p2: Primarina used Hydro Pump on Eternatus
+Turn 3:
+p2: Switched to Stunfisk
+p1: Eternatus used Recover on Eternatus
+Turn 4:
+p1: Switched to Vespiquen
+p2: Stunfisk used Earth Power on Vespiquen
+Turn 5:
+p1: Vespiquen used Toxic on Stunfisk
+p2: Stunfisk used Discharge on Vespiquen
+Turn 6:
+p2: Stunfisk used Discharge on Vespiquen
+p1: Vespiquen used Roost on Vespiquen
+Turn 7:
+p1: Switched to Dedenne
+p2: Stunfisk used Discharge on Dedenne
+Turn 8:
+p1: Dedenne used Protect on Dedenne
+p2: Stunfisk used Sludge Bomb on Dedenne
+Turn 9:
+p1: Switched to Vespiquen
+p2: Stunfisk used Sludge Bomb on Vespiquen
+Turn 10:
+p2: Stunfisk used Discharge on Vespiquen
+p1: Vespiquen used Roost on Vespiquen
+p2: Stunfisk fainted
+p2: Switched to Excadrill
+Turn 11:
+p1: Switched to Eternatus
+p2: Excadrill used Swords Dance on Excadrill
+Turn 12:
+p1: Eternatus used Flamethrower on Excadrill
+p2: Excadrill used Earthquake on Eternatus
+p1: Eternatus fainted
+p1: Switched to Silvally-Psychic
+Turn 13:
+p1: Silvally-Psychic used Multi-Attack on Excadrill
+p2: Excadrill fainted
+p2: Switched to Shiinotic
+Turn 14:
+p1: Silvally-Psychic used U-turn on Shiinotic
+p1: Switched to Vespiquen
+p2: Shiinotic failed to use Spore
+Turn 15:
+p2: Shiinotic used Moonblast on Vespiquen
+p1: Vespiquen used Toxic on Shiinotic
+Turn 16:
+p2: Shiinotic used Moonblast on Vespiquen
+p1: Vespiquen can't move
+Turn 17:
+p1: Switched to Dedenne
+p2: Shiinotic used Moonblast on Dedenne
+Turn 18:
+p1: Dedenne used Protect on Dedenne
+p2: Shiinotic used Moonblast on Dedenne
+Turn 19:
+p1: Switched to Vespiquen
+p2: Shiinotic used Moonblast on Vespiquen
+p1: Vespiquen fainted
+p1: Switched to Silvally-Psychic
+Turn 20:
+p1: Silvally-Psychic used Multi-Attack on Shiinotic
+p2: Shiinotic fainted
+p2: Switched to Gallade
+Turn 21:
+p1: Switched to Dedenne
+p2: Gallade used Swords Dance on Gallade
+Turn 22:
+p1: Dedenne used Max Lightning on Gallade
+p2: Gallade used Zen Headbutt on Dedenne
+Turn 23:
+p1: Dedenne used Max Lightning on Gallade
+p2: Gallade fainted
+p2: Switched to Flapple
+Turn 24:
+p1: Dedenne used Max Guard on Dedenne
+p2: Flapple used Dragon Dance on Flapple
+Turn 25:
+p2: Flapple used Grav Apple on Dedenne
+p1: Dedenne fainted
+p1: Switched to Greedent
+Turn 26:
+p2: Flapple used Dragon Dance on Flapple
+p1: Greedent used Body Slam on Flapple
+Turn 27:
+p2: Flapple used Grav Apple on Greedent
+p1: Greedent used Body Slam on Flapple
+p2: Flapple fainted

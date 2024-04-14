@@ -1,0 +1,18 @@
+p1: Switched to Minior
+p2: Switched to Charizard
+Turn 1:
+p2: Switched to Vaporeon
+p1: Minior used Shell Smash on Minior
+Turn 2:
+p1: Minior used Acrobatics on Vaporeon
+p2: Vaporeon used Scald on Minior
+Turn 3:
+p1: Minior used Acrobatics on Vaporeon
+p2: Vaporeon fainted
+p2: Switched to Lunala
+Turn 4:
+p1: Minior used Acrobatics on Lunala
+p2: Lunala used Moongeist Beam on Minior
+p1: Minior fainted
+p1: Switched to Tauros-Paldea-Combat
+Turn 5:

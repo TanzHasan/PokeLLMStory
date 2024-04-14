@@ -1,0 +1,139 @@
+|j|☆ATRTT
+|j|☆fasterfaster88
+|t:|1711946922
+|gametype|singles
+|player|p1|ATRTT|miku-grass|1460
+|player|p2|fasterfaster88|101|1437
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Lycanroc, M|
+|poke|p1|Pawmot, F|
+|poke|p1|Meowscarada, M|
+|poke|p1|Milotic, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Orthworm, M|
+|poke|p2|Clefable, F|
+|poke|p2|Incineroar, F|
+|poke|p2|Kyurem|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Great Tusk|
+|poke|p2|Skarmory, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fasterfaster88)
+|inactive|ATRTT also wants the timer to be on.
+|inactive|fasterfaster88 has 120 seconds left.
+|c|☆ATRTT|fastee
+|
+|t:|1711946961
+|start
+|switch|p1a: Lycanroc|Lycanroc, M|100/100
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|turn|1
+|
+|t:|1711946975
+|move|p1a: Lycanroc|Stealth Rock|p2a: Kyurem
+|-sidestart|p2: fasterfaster88|move: Stealth Rock
+|move|p2a: Kyurem|Earth Power|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-crit|p1a: Lycanroc
+|-enditem|p1a: Lycanroc|Focus Sash
+|-damage|p1a: Lycanroc|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711946982
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Lycanroc|Endeavor|p2a: Skarmory
+|-damage|p2a: Skarmory|1/100
+|-damage|p1a: Lycanroc|0 fnt|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|faint|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1711946988
+|switch|p1a: Meowscarada|Meowscarada, M|100/100
+|turn|3
+|
+|t:|1711946994
+|move|p1a: Meowscarada|Flower Trick|p2a: Skarmory
+|-start|p1a: Meowscarada|typechange|Grass|[from] ability: Protean
+|-resisted|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1711947007
+|switch|p2a: Incineroar|Incineroar, F, shiny|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Meowscarada|atk|1
+|turn|4
+|
+|t:|1711947013
+|move|p1a: Meowscarada|U-turn|p2a: Incineroar
+|-damage|p2a: Incineroar|87/100
+|
+|t:|1711947017
+|switch|p1a: Milotic|Milotic, F|100/100|[from] U-turn
+|move|p2a: Incineroar|Knock Off|p1a: Milotic
+|-damage|p1a: Milotic|56/100
+|-enditem|p1a: Milotic|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Incineroar
+|
+|upkeep
+|turn|5
+|
+|t:|1711947022
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|100/100
+|move|p2a: Incineroar|Parting Shot|p1a: Milotic
+|-unboost|p1a: Milotic|atk|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|-unboost|p1a: Milotic|spa|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|
+|t:|1711947027
+|switch|p2a: Kyurem|Kyurem|100/100|[from] Parting Shot
+|-damage|p2a: Kyurem|76/100|[from] Stealth Rock
+|-ability|p2a: Kyurem|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1711947038
+|-terastallize|p1a: Milotic|Fairy
+|move|p2a: Kyurem|Freeze-Dry|p1a: Milotic
+|-damage|p1a: Milotic|76/100
+|move|p1a: Milotic|Scald|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|43/100
+|-status|p2a: Kyurem|brn
+|
+|-damage|p2a: Kyurem|37/100 brn|[from] brn
+|upkeep
+|turn|7
+|-message|fasterfaster88 forfeited.
+|
+|win|ATRTT
+|raw|ATRTT's rating: 1460 &rarr; <strong>1479</strong><br />(+19 for winning)
+|raw|fasterfaster88's rating: 1437 &rarr; <strong>1418</strong><br />(-19 for losing)
+|l|☆fasterfaster88
+|player|p2|
+|l|☆ATRTT
+|player|p1|

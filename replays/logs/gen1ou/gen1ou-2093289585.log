@@ -1,0 +1,406 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'rbyza'.</div>
+|j|☆RBYZA GOF
+|j|☆brille auf
+|t:|1711935101
+|gametype|singles
+|player|p1|RBYZA GOF|lucas|1613
+|player|p2|brille auf|101|1491
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|1
+|tier|[Gen 1] OU
+|rated|
+|rule|Desync Clause Mod: Desyncs changed to move failure.
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711935101
+|start
+|switch|p1a: Starmie|Starmie|100/100
+|switch|p2a: Alakazam|Alakazam|100/100
+|turn|1
+|j| rbyza acii
+|
+|t:|1711935108
+|switch|p1a: Chansey|Chansey|100/100
+|move|p2a: Alakazam|Thunder Wave|p1a: Chansey
+|-status|p1a: Chansey|par
+|
+|upkeep
+|turn|2
+|j|+Sceptross
+|
+|t:|1711935114
+|move|p2a: Alakazam|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|84/100 par
+|cant|p1a: Chansey|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711935119
+|move|p2a: Alakazam|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|66/100 par
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100 par
+|
+|upkeep
+|turn|4
+|
+|t:|1711935126
+|move|p2a: Alakazam|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|81/100 par
+|-unboost|p1a: Chansey|spa|1
+|-unboost|p1a: Chansey|spd|1
+|move|p1a: Chansey|Ice Beam|p2a: Alakazam
+|-damage|p2a: Alakazam|88/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711935133
+|move|p2a: Alakazam|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|55/100 par
+|cant|p1a: Chansey|par
+|
+|upkeep
+|turn|6
+|
+|t:|1711935138
+|move|p2a: Alakazam|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|28/100 par
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|78/100 par
+|
+|upkeep
+|turn|7
+|
+|t:|1711935149
+|switch|p1a: Starmie|Starmie|100/100
+|move|p2a: Alakazam|Psychic|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|79/100
+|
+|upkeep
+|turn|8
+|j|+emma
+|
+|t:|1711935177
+|switch|p1a: Exeggutor|Exeggutor|100/100
+|move|p2a: Alakazam|Psychic|p1a: Exeggutor
+|-resisted|p1a: Exeggutor
+|-damage|p1a: Exeggutor|86/100
+|
+|upkeep
+|turn|9
+|j| N00bsTeam
+|
+|t:|1711935182
+|move|p2a: Alakazam|Thunder Wave|p1a: Exeggutor
+|-status|p1a: Exeggutor|par
+|move|p1a: Exeggutor|Sleep Powder|p2a: Alakazam
+|-status|p2a: Alakazam|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|10
+|
+|t:|1711935189
+|switch|p1a: Tauros|Tauros|100/100
+|cant|p2a: Alakazam|slp
+|
+|upkeep
+|turn|11
+|
+|t:|1711935193
+|switch|p2a: Gengar|Gengar|100/100
+|move|p1a: Tauros|Body Slam|p2a: Gengar
+|-immune|p2a: Gengar
+|
+|upkeep
+|turn|12
+|
+|t:|1711935217
+|switch|p1a: Exeggutor|Exeggutor|86/100 par
+|switch|p2a: Snorlax|Snorlax|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711935223
+|move|p2a: Snorlax|Body Slam|p1a: Exeggutor
+|-damage|p1a: Exeggutor|57/100 par
+|cant|p1a: Exeggutor|par
+|
+|upkeep
+|turn|14
+|
+|t:|1711935229
+|move|p2a: Snorlax|Body Slam|p1a: Exeggutor
+|-damage|p1a: Exeggutor|29/100 par
+|move|p1a: Exeggutor|Explosion|p2a: Snorlax
+|-damage|p2a: Snorlax|39/100
+|faint|p1a: Exeggutor
+|
+|t:|1711935244
+|switch|p1a: Tauros|Tauros|100/100
+|turn|15
+|
+|t:|1711935253
+|switch|p2a: Exeggutor|Exeggutor|100/100
+|move|p1a: Tauros|Earthquake|p2a: Exeggutor
+|-resisted|p2a: Exeggutor
+|-damage|p2a: Exeggutor|90/100
+|
+|upkeep
+|turn|16
+|j| ORASZ finchfan72
+|
+|t:|1711935277
+|switch|p1a: Chansey|Chansey|78/100 par
+|move|p2a: Exeggutor|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|62/100 par
+|
+|upkeep
+|turn|17
+|j| Strange Cr3ature
+|
+|t:|1711935285
+|switch|p2a: Snorlax|Snorlax|39/100
+|move|p1a: Chansey|Thunder Wave|p2a: Snorlax
+|-status|p2a: Snorlax|par
+|
+|upkeep
+|turn|18
+|l| Strange Cr3ature
+|
+|t:|1711935303
+|switch|p1a: Snorlax|Snorlax|100/100
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|19
+|
+|t:|1711935314
+|switch|p2a: Gengar|Gengar|100/100
+|move|p1a: Snorlax|Reflect|p1a: Snorlax
+|-start|p1a: Snorlax|Reflect
+|
+|upkeep
+|turn|20
+|
+|t:|1711935320
+|switch|p1a: Chansey|Chansey|62/100 par
+|move|p2a: Gengar|Psychic|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|39/100 par
+|
+|upkeep
+|turn|21
+|
+|t:|1711935329
+|switch|p2a: Snorlax|Snorlax|39/100 par
+|cant|p1a: Chansey|par
+|
+|upkeep
+|turn|22
+|
+|t:|1711935351
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|89/100 par
+|move|p2a: Snorlax|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|46/100 par
+|
+|upkeep
+|turn|23
+|j| Strange Cr3ature
+|
+|t:|1711935357
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|96/100 par
+|move|p2a: Snorlax|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|56/100 par
+|
+|upkeep
+|turn|24
+|l| Strange Cr3ature
+|
+|t:|1711935365
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100 par
+|move|p2a: Snorlax|Body Slam|p1a: Chansey
+|-damage|p1a: Chansey|57/100 par
+|
+|upkeep
+|turn|25
+|j| mikonn
+|
+|t:|1711935376
+|move|p1a: Chansey|Ice Beam|p2a: Snorlax
+|-damage|p2a: Snorlax|20/100 par
+|cant|p2a: Snorlax|par
+|
+|upkeep
+|turn|26
+|
+|t:|1711935383
+|cant|p1a: Chansey|par
+|move|p2a: Snorlax|Self-Destruct|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|faint|p2a: Snorlax
+|
+|t:|1711935393
+|switch|p1a: Starmie|Starmie|79/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|27
+|j| haxerohaxerohaxero
+|j| RBYZA Carapinga
+|l| RBYZA Carapinga
+|
+|t:|1711935416
+|move|p1a: Starmie|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|69/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Starmie
+|-supereffective|p1a: Starmie
+|-damage|p1a: Starmie|0 fnt
+|faint|p1a: Starmie
+|
+|t:|1711935423
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|28
+|
+|t:|1711935427
+|move|p2a: Zapdos|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|70/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|42/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711935436
+|move|p2a: Zapdos|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|move|p1a: Zapdos|Agility|p1a: Zapdos
+|-boost|p1a: Zapdos|spe|2
+|
+|upkeep
+|turn|30
+|
+|t:|1711935442
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|11/100
+|move|p2a: Zapdos|Thunder Wave|p1a: Zapdos
+|-status|p1a: Zapdos|par
+|
+|upkeep
+|turn|31
+|
+|t:|1711935449
+|move|p2a: Zapdos|Thunderbolt|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|t:|1711935453
+|switch|p1a: Tauros|Tauros|100/100
+|turn|32
+|
+|t:|1711935458
+|switch|p2a: Alakazam|Alakazam|88/100 slp
+|move|p1a: Tauros|Blizzard|p2a: Alakazam
+|-damage|p2a: Alakazam|70/100 slp
+|
+|upkeep
+|turn|33
+|
+|t:|1711935465
+|cant|p2a: Alakazam|slp
+|move|p1a: Tauros|Hyper Beam|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|t:|1711935468
+|switch|p2a: Exeggutor|Exeggutor|90/100
+|turn|34
+|
+|t:|1711935472
+|move|p1a: Tauros|Body Slam|p2a: Exeggutor
+|-damage|p2a: Exeggutor|64/100
+|move|p2a: Exeggutor|Psychic|p1a: Tauros
+|-damage|p1a: Tauros|53/100
+|
+|upkeep
+|turn|35
+|
+|t:|1711935481
+|move|p1a: Tauros|Hyper Beam|p2a: Exeggutor
+|-damage|p2a: Exeggutor|13/100
+|-mustrecharge|p1a: Tauros
+|move|p2a: Exeggutor|Explosion|p1a: Tauros
+|-crit|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|faint|p2a: Exeggutor
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RBYZA GOF)
+|
+|t:|1711935491
+|switch|p1a: Snorlax|Snorlax|100/100
+|switch|p2a: Zapdos|Zapdos|11/100
+|turn|36
+|
+|t:|1711935494
+|move|p2a: Zapdos|Thunderbolt|p1a: Snorlax
+|-damage|p1a: Snorlax|67/100
+|move|p1a: Snorlax|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|t:|1711935497
+|switch|p2a: Gengar|Gengar|100/100
+|turn|37
+|
+|t:|1711935504
+|move|p2a: Gengar|Explosion|p1a: Snorlax
+|-damage|p1a: Snorlax|18/100
+|faint|p2a: Gengar
+|c|☆RBYZA GOF|juégame sin usar un counter
+|c|☆RBYZA GOF|1 sólo juego ;)
+|c|☆brille auf|say gg
+|inactive|brille auf has 120 seconds left.
+|c|☆RBYZA GOF|juégame sin un counter un sólo juego y te hago mi hijo ;)
+|c|☆brille auf|say it
+|c| rbyza acii|y chall him dude
+|inactive|brille auf has 90 seconds left.
+|c|☆RBYZA GOF|ganas con una ventaja numérica de +1 sólo porque juegas con un counter
+|c|☆RBYZA GOF|no eres tan bueno en rby ou
+|c|☆brille auf|just say it bro
+|inactive|brille auf has 60 seconds left.
+|inactive|brille auf has 30 seconds left.
+|
+|t:|1711935627
+|switch|p2a: Tauros|Tauros|100/100
+|turn|38
+|inactive|RBYZA GOF has 120 seconds left.
+|inactive|RBYZA GOF has 90 seconds left.
+|inactive|RBYZA GOF has 60 seconds left.
+|inactive|RBYZA GOF has 30 seconds left.
+|inactive|RBYZA GOF has 20 seconds left.
+|inactive|RBYZA GOF has 15 seconds left.
+|inactive|RBYZA GOF has 10 seconds left.
+|inactive|RBYZA GOF has 5 seconds left.
+|-message|RBYZA GOF lost due to inactivity.
+|
+|win|brille auf
+|raw|RBYZA GOF's rating: 1613 &rarr; <strong>1586</strong><br />(-27 for losing)
+|raw|brille auf's rating: 1491 &rarr; <strong>1518</strong><br />(+27 for winning)
+|c| haxerohaxerohaxero|GG
+|c| haxerohaxerohaxero|:FORFEIT
+|l| rbyza acii

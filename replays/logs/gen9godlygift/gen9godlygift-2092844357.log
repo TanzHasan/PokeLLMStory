@@ -1,0 +1,331 @@
+|j|☆Kin+ak (✧∇✧)
+|j|☆stallingtest123
+|t:|1711876234
+|gametype|singles
+|player|p1|Kin+ak (✧∇✧)|wally|1244
+|player|p2|stallingtest123|miku-flying|1451
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Godly Gift
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Talonflame, F|
+|poke|p1|Milotic, M|
+|poke|p1|Zacian-*|
+|poke|p1|Pecharunt|
+|poke|p1|Glastrier|
+|poke|p2|Skarmory, F|
+|poke|p2|Giratina|
+|poke|p2|Clodsire, F|
+|poke|p2|Clefable, F|
+|poke|p2|Alomomola, F|
+|poke|p2|Skeledirge, F|
+|teampreview
+|
+|t:|1711876254
+|start
+|switch|p1a: Milotic|Milotic, M|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|
+|t:|1711876262
+|move|p1a: Milotic|Scald|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|move|p2a: Clefable|Knock Off|p1a: Milotic
+|-damage|p1a: Milotic|89/100
+|-enditem|p1a: Milotic|Flame Orb|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|80/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711876266
+|move|p1a: Milotic|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|72/100
+|
+|t:|1711876269
+|switch|p1a: Hatterene|Hatterene, F|100/100|[from] Flip Turn
+|move|p2a: Clefable|Stealth Rock|p1a: Hatterene
+|move|p1a: Hatterene|Stealth Rock|p2a: Clefable|[from]ability: Magic Bounce
+|-sidestart|p2: stallingtest123|move: Stealth Rock
+|
+|-heal|p2a: Clefable|78/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆Kin+ak (✧∇✧)|Ha
+|
+|t:|1711876281
+|move|p2a: Clefable|Knock Off|p1a: Hatterene
+|-damage|p1a: Hatterene|87/100
+|-enditem|p1a: Hatterene|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Hatterene|Mystical Fire|p2a: Clefable
+|-damage|p2a: Clefable|51/100
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|57/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711876292
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Hatterene|Mystical Fire|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|90/100
+|-unboost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711876303
+|switch|p1a: Milotic|Milotic, M|89/100
+|move|p2a: Skeledirge|Torch Song|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|83/100
+|-boost|p2a: Skeledirge|spa|1
+|
+|upkeep
+|turn|6
+|
+|t:|1711876311
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Milotic|Scald|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|95/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711876320
+|move|p1a: Milotic|Scald|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|86/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|8
+|
+|t:|1711876325
+|move|p1a: Milotic|Scald|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-crit|p2a: Alomomola
+|-damage|p2a: Alomomola|78/100
+|move|p2a: Alomomola|Flip Turn|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|78/100
+|
+|t:|1711876330
+|switch|p2a: Clefable|Clefable, F|57/100|[from] Flip Turn
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Alomomola
+|upkeep
+|turn|9
+|
+|t:|1711876334
+|move|p1a: Milotic|Scald|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|move|p2a: Clefable|Stealth Rock|p1a: Milotic
+|-sidestart|p1: Kin+ak (✧∇✧)|move: Stealth Rock
+|
+|-heal|p2a: Clefable|80/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711876337
+|move|p1a: Milotic|Scald|p2a: Clefable
+|-damage|p2a: Clefable|54/100
+|-status|p2a: Clefable|brn
+|move|p2a: Clefable|Moonblast|p1a: Milotic
+|-damage|p1a: Milotic|59/100
+|-unboost|p1a: Milotic|spa|1
+|
+|-heal|p2a: Clefable|60/100 brn|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711876340
+|move|p1a: Milotic|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|50/100 brn
+|
+|t:|1711876343
+|switch|p1a: Pecharunt|Pecharunt|100/100|[from] Flip Turn
+|-damage|p1a: Pecharunt|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|99/100 brn
+|
+|-heal|p1a: Pecharunt|94/100|[from] item: Leftovers
+|-heal|p2a: Clefable|100/100 brn|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711876348
+|move|p1a: Pecharunt|Nasty Plot|p1a: Pecharunt
+|-boost|p1a: Pecharunt|spa|2
+|move|p2a: Clefable|Knock Off|p1a: Pecharunt
+|-supereffective|p1a: Pecharunt
+|-damage|p1a: Pecharunt|86/100
+|-enditem|p1a: Pecharunt|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|13
+|
+|t:|1711876352
+|switch|p2a: Clodsire|Clodsire, F|100/100
+|move|p1a: Pecharunt|Malignant Chain|p2a: Clodsire
+|-resisted|p2a: Clodsire
+|-damage|p2a: Clodsire|95/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711876357
+|switch|p1a: Hatterene|Hatterene, F|87/100
+|-damage|p1a: Hatterene|75/100|[from] Stealth Rock
+|move|p2a: Clodsire|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|52/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711876361
+|switch|p2a: Skeledirge|Skeledirge, F|90/100
+|move|p1a: Hatterene|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|49/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711876366
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|99/100
+|move|p1a: Hatterene|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|57/100
+|
+|upkeep
+|turn|17
+|
+|t:|1711876371
+|move|p2a: Skeledirge|Torch Song|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|14/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Hatterene|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|19/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711876374
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|69/100
+|move|p1a: Hatterene|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|29/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711876378
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|79/100
+|move|p1a: Hatterene|Psyshock|p2a: Skeledirge
+|-damage|p2a: Skeledirge|40/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711876383
+|switch|p1a: Milotic|Milotic, M|59/100
+|-damage|p1a: Milotic|47/100|[from] Stealth Rock
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|90/100
+|
+|upkeep
+|turn|21
+|
+|t:|1711876389
+|switch|p2a: Clefable|Clefable, F|100/100 brn
+|move|p1a: Milotic|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|90/100 brn
+|
+|t:|1711876394
+|switch|p1a: Glastrier|Glastrier|100/100|[from] Flip Turn
+|
+|-heal|p2a: Clefable|96/100 brn|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711876405
+|switch|p2a: Skarmory|Skarmory, F, shiny|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|71/100
+|
+|upkeep
+|turn|23
+|
+|t:|1711876411
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|54/100
+|move|p2a: Skarmory|Spikes|p1a: Glastrier
+|-sidestart|p1: Kin+ak (✧∇✧)|Spikes
+|
+|upkeep
+|turn|24
+|
+|t:|1711876415
+|move|p1a: Glastrier|Icicle Crash|p2a: Skarmory
+|-damage|p2a: Skarmory|34/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|84/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1711876420
+|switch|p1a: Hatterene|Hatterene, F|14/100
+|-damage|p1a: Hatterene|1/100|[from] Stealth Rock
+|-damage|p1a: Hatterene|0 fnt|[from] Spikes
+|faint|p1a: Hatterene
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|
+|t:|1711876423
+|switch|p1a: Milotic|Milotic, M|47/100
+|-damage|p1a: Milotic|35/100|[from] Stealth Rock
+|-damage|p1a: Milotic|22/100|[from] Spikes
+|turn|26
+|
+|t:|1711876431
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Milotic|Scald|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|95/100
+|
+|upkeep
+|turn|27
+|
+|t:|1711876443
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|72/100
+|move|p2a: Alomomola|Wish|p2a: Alomomola
+|
+|upkeep
+|turn|28
+|-message|Kin+ak (✧∇✧) forfeited.
+|
+|win|stallingtest123
+|raw|Kin+ak (✧∇✧)'s rating: 1244 &rarr; <strong>1232</strong><br />(-12 for losing)
+|raw|stallingtest123's rating: 1451 &rarr; <strong>1460</strong><br />(+9 for winning)
+|l|☆Kin+ak (✧∇✧)
+|player|p1|

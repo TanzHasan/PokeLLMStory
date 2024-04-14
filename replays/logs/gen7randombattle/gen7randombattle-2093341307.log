@@ -1,0 +1,350 @@
+|j|☆MeRrkava
+|j|☆mr3rdi
+|t:|1711941646
+|gametype|singles
+|player|p1|MeRrkava|cynthia|1000
+|player|p2|mr3rdi|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711941646
+|start
+|switch|p1a: Seismitoad|Seismitoad, L86, F|321/321
+|switch|p2a: Espeon|Espeon, L84, M|246/246
+|turn|1
+|
+|t:|1711941679
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|move|p1a: Seismitoad|Stealth Rock|p2a: Leafeon
+|-sidestart|p2: mr3rdi|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711941694
+|switch|p1a: Arbok|Arbok, L88, M|249/249
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|move|p2a: Leafeon|Toxic|p1a: Arbok
+|-immune|p1a: Arbok
+|
+|upkeep
+|turn|3
+|
+|t:|1711941709
+|move|p2a: Leafeon|Knock Off|p1a: Arbok
+|-damage|p1a: Arbok|185/249
+|-enditem|p1a: Arbok|Life Orb|[from] move: Knock Off|[of] p2a: Leafeon
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|upkeep
+|turn|4
+|
+|t:|1711941734
+|switch|p2a: Whiscash|Whiscash, L89, M|341/341
+|-damage|p2a: Whiscash|320/341|[from] Stealth Rock
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711941746
+|move|p1a: Arbok|Earthquake|p2a: Whiscash
+|-damage|p2a: Whiscash|159/341
+|move|p2a: Whiscash|Earthquake|p1a: Arbok
+|-supereffective|p1a: Arbok
+|-damage|p1a: Arbok|37/249
+|-damage|p2a: Whiscash|125/341|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1711941769
+|move|p1a: Arbok|Earthquake|p2a: Whiscash
+|-damage|p2a: Whiscash|0 fnt
+|faint|p2a: Whiscash
+|
+|upkeep
+|
+|t:|1711941779
+|switch|p2a: Leafeon|Leafeon, L88, M|258/258
+|-damage|p2a: Leafeon|226/258|[from] Stealth Rock
+|turn|7
+|
+|t:|1711941798
+|move|p1a: Arbok|Sucker Punch|p2a: Leafeon
+|-damage|p2a: Leafeon|156/258
+|move|p2a: Leafeon|Leaf Blade|p1a: Arbok
+|-resisted|p1a: Arbok
+|-damage|p1a: Arbok|6/249
+|
+|-heal|p2a: Leafeon|172/258|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711941808
+|move|p2a: Leafeon|Leaf Blade|p1a: Arbok
+|-resisted|p1a: Arbok
+|-damage|p1a: Arbok|0 fnt
+|faint|p1a: Arbok
+|
+|-heal|p2a: Leafeon|188/258|[from] item: Leftovers
+|upkeep
+|
+|t:|1711941824
+|switch|p1a: Accelgor|Accelgor, L89, F|287/287
+|turn|9
+|
+|t:|1711941835
+|switch|p2a: Passimian|Passimian, L85, F|309/309
+|-damage|p2a: Passimian|290/309|[from] Stealth Rock
+|move|p1a: Accelgor|Toxic Spikes|p2a: Passimian
+|-sidestart|p2: mr3rdi|move: Toxic Spikes
+|
+|-heal|p2a: Passimian|309/309|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711941848
+|switch|p1a: Slowking|Slowking, L88, F|310/310
+|move|p2a: Passimian|Bulk Up|p2a: Passimian
+|-boost|p2a: Passimian|atk|1
+|-boost|p2a: Passimian|def|1
+|
+|upkeep
+|turn|11
+|
+|t:|1711941877
+|move|p2a: Passimian|Bulk Up|p2a: Passimian
+|-boost|p2a: Passimian|atk|1
+|-boost|p2a: Passimian|def|1
+|move|p1a: Slowking|Scald|p2a: Passimian
+|-damage|p2a: Passimian|183/309
+|-status|p2a: Passimian|brn
+|
+|-heal|p2a: Passimian|202/309 brn|[from] item: Leftovers
+|-damage|p2a: Passimian|183/309 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711941889
+|move|p2a: Passimian|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|137/310
+|-enditem|p1a: Slowking|Leftovers|[from] move: Knock Off|[of] p2a: Passimian
+|move|p1a: Slowking|Scald|p2a: Passimian
+|-damage|p2a: Passimian|69/309 brn
+|
+|-heal|p2a: Passimian|88/309 brn|[from] item: Leftovers
+|-damage|p2a: Passimian|69/309 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711941910
+|move|p2a: Passimian|Drain Punch|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|91/310
+|-heal|p2a: Passimian|92/309 brn|[from] drain|[of] p1a: Slowking
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|246/310
+|
+|-heal|p2a: Passimian|111/309 brn|[from] item: Leftovers
+|-damage|p2a: Passimian|92/309 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711941925
+|move|p2a: Passimian|Bulk Up|p2a: Passimian
+|-boost|p2a: Passimian|atk|1
+|-boost|p2a: Passimian|def|1
+|move|p1a: Slowking|Scald|p2a: Passimian
+|-damage|p2a: Passimian|0 fnt
+|faint|p2a: Passimian
+|
+|upkeep
+|
+|t:|1711941937
+|switch|p2a: Leafeon|Leafeon, L88, M|188/258
+|-damage|p2a: Leafeon|156/258|[from] Stealth Rock
+|-status|p2a: Leafeon|psn
+|turn|15
+|
+|t:|1711941947
+|switch|p1a: Accelgor|Accelgor, L89, F|287/287
+|move|p2a: Leafeon|Synthesis|p2a: Leafeon
+|-heal|p2a: Leafeon|258/258 psn
+|
+|-damage|p2a: Leafeon|226/258 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711941958
+|move|p1a: Accelgor|Encore|p2a: Leafeon
+|-start|p2a: Leafeon|Encore
+|move|p2a: Leafeon|Synthesis|p2a: Leafeon
+|-heal|p2a: Leafeon|258/258 psn
+|
+|-damage|p2a: Leafeon|226/258 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711941967
+|move|p1a: Accelgor|Bug Buzz|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|
+|upkeep
+|
+|t:|1711941973
+|switch|p2a: Espeon|Espeon, L84, M|246/246
+|-damage|p2a: Espeon|216/246|[from] Stealth Rock
+|-status|p2a: Espeon|psn
+|turn|18
+|
+|t:|1711941983
+|move|p1a: Accelgor|Bug Buzz|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-crit|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|upkeep
+|
+|t:|1711941988
+|switch|p2a: Tapu Fini|Tapu Fini, L80|243/243
+|-damage|p2a: Tapu Fini|213/243|[from] Stealth Rock
+|-status|p2a: Tapu Fini|psn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|19
+|
+|t:|1711942018
+|switch|p1a: Slowking|Slowking, L88, F|310/310
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|228/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|198/243 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711942037
+|move|p2a: Tapu Fini|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|207/310
+|move|p1a: Slowking|Ice Beam|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|179/243 psn
+|
+|-heal|p2a: Tapu Fini|194/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|164/243 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1711942047
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|310/310
+|
+|-heal|p2a: Tapu Fini|179/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|149/243 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711942058
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Slowking|Ice Beam|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|137/243 psn
+|
+|-heal|p2a: Tapu Fini|152/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|122/243 psn|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711942070
+|move|p2a: Tapu Fini|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|133/310
+|move|p1a: Slowking|Ice Beam|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|111/243 psn
+|
+|-heal|p2a: Tapu Fini|126/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|96/243 psn|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|24
+|
+|t:|1711942081
+|switch|p1a: Chimecho|Chimecho, L93, M|290/290
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|111/243 psn|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|81/243 psn|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1711942096
+|move|p2a: Tapu Fini|Surf|p1a: Chimecho
+|-damage|p1a: Chimecho|64/290
+|move|p1a: Chimecho|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|58/243 psn
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Chimecho
+|
+|-heal|p1a: Chimecho|82/290|[from] item: Leftovers
+|-damage|p2a: Tapu Fini|28/243 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1711942107
+|switch|p1a: Slowking|Slowking, L88, F|236/310
+|move|p2a: Tapu Fini|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|10/310
+|
+|-damage|p2a: Tapu Fini|0 fnt|[from] psn
+|faint|p2a: Tapu Fini
+|upkeep
+|
+|t:|1711942114
+|switch|p2a: Reshiram|Reshiram, L76|277/277
+|-damage|p2a: Reshiram|208/277|[from] Stealth Rock
+|-status|p2a: Reshiram|psn
+|-ability|p2a: Reshiram|Turboblaze
+|turn|27
+|
+|t:|1711942139
+|move|p2a: Reshiram|Draco Meteor|p1a: Slowking|[miss]
+|-miss|p2a: Reshiram|p1a: Slowking
+|move|p1a: Slowking|Scald|p2a: Reshiram
+|-damage|p2a: Reshiram|127/277 psn
+|
+|-heal|p2a: Reshiram|144/277 psn|[from] item: Leftovers
+|-damage|p2a: Reshiram|110/277 psn|[from] psn
+|upkeep
+|turn|28
+|-message|mr3rdi forfeited.
+|
+|win|MeRrkava
+|raw|MeRrkava's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|mr3rdi's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆mr3rdi
+|player|p2|

@@ -1,0 +1,269 @@
+p1: Switched to Regieleki
+p2: Switched to Blissey
+Turn 1:
+p1: Regieleki used Volt Switch on Blissey
+p1: Switched to Registeel
+p2: Blissey used Stealth Rock on Registeel
+Turn 2:
+p2: Switched to Dondozo
+p1: Registeel used Stealth Rock on Dondozo
+Turn 3:
+p1: Switched to Sinistcha
+p2: Dondozo used Body Press on Sinistcha
+Turn 4:
+p2: Switched to Blissey
+p1: Sinistcha used Calm Mind on Sinistcha
+Turn 5:
+p1: Sinistcha used Calm Mind on Sinistcha
+p2: Blissey used Ice Beam on Sinistcha
+Turn 6:
+p1: Sinistcha used Strength Sap on Blissey
+p2: Blissey used Ice Beam on Sinistcha
+Turn 7:
+p1: Switched to Registeel
+p2: Blissey used Ice Beam on Registeel
+Turn 8:
+p2: Switched to Moltres
+p1: Switched to Zapdos
+Turn 9:
+p2: Switched to Blissey
+p1: Zapdos used Heat Wave on Blissey
+Turn 10:
+p1: Zapdos used Volt Switch on Blissey
+p1: Switched to Registeel
+p2: Blissey used Soft-Boiled on Blissey
+Turn 11:
+p2: Switched to Dondozo
+p1: Switched to Garchomp
+Turn 12:
+p1: Switched to Zapdos
+p2: Dondozo used Liquidation on Zapdos
+Turn 13:
+p2: Switched to Blissey
+p1: Zapdos used Volt Switch on Blissey
+p1: Switched to Registeel
+Turn 14:
+p2: Switched to Moltres
+p1: Switched to Darkrai
+Turn 15:
+p2: Switched to Blissey
+p1: Darkrai used Dark Pulse on Blissey
+Turn 16:
+p1: Darkrai used Nasty Plot on Darkrai
+p2: Blissey used Soft-Boiled on Blissey
+Turn 17:
+p1: Darkrai used Dark Pulse on Blissey
+p2: Blissey used Seismic Toss on Darkrai
+Turn 18:
+p1: Darkrai used Focus Blast on Blissey
+p2: Blissey fainted
+p2: Switched to Iron Bundle
+Turn 19:
+p1: Switched to Registeel
+p2: Iron Bundle used Ice Beam on Registeel
+Turn 20:
+p2: Iron Bundle used Flip Turn on Registeel
+p2: Switched to Moltres
+p1: Registeel used Body Press on Moltres
+Turn 21:
+p1: Switched to Zapdos
+p2: Moltres used Will-O-Wisp on Zapdos
+Turn 22:
+p2: Switched to Gouging Fire
+p1: Zapdos used Volt Switch on Gouging Fire
+p1: Switched to Garchomp
+Turn 23:
+p2: Switched to Dondozo
+p1: Garchomp used Substitute on Garchomp
+Turn 24:
+p1: Garchomp used Earthquake on Dondozo
+p2: Dondozo used Liquidation on Garchomp
+Turn 25:
+p1: Switched to Zapdos
+p2: Dondozo used Liquidation on Zapdos
+Turn 26:
+p2: Switched to Excadrill
+p1: Zapdos used Roost on Zapdos
+Turn 27:
+p2: Excadrill used Rapid Spin on Zapdos
+p1: Zapdos used Heat Wave on Excadrill
+Turn 28:
+p1: Switched to Sinistcha
+p2: Excadrill used Rock Slide on Sinistcha
+Turn 29:
+p2: Excadrill used Shadow Claw on Sinistcha
+p1: Sinistcha fainted
+p1: Switched to Registeel
+Turn 30:
+p2: Switched to Dondozo
+p1: Registeel used Body Press on Dondozo
+Turn 31:
+p1: Registeel used Stealth Rock on Dondozo
+p2: Dondozo used Liquidation on Registeel
+Turn 32:
+p1: Registeel used Body Press on Dondozo
+p2: Dondozo used Body Press on Registeel
+Turn 33:
+p1: Switched to Zapdos
+p2: Dondozo used Body Press on Zapdos
+Turn 34:
+p2: Switched to Excadrill
+p1: Zapdos used Roost on Zapdos
+Turn 35:
+p2: Excadrill used Rock Slide on Zapdos
+p1: Zapdos used Heat Wave on Excadrill
+p2: Excadrill fainted
+p2: Switched to Dondozo
+Turn 36:
+p2: Switched to Gouging Fire
+p1: Zapdos used Roost on Zapdos
+Turn 37:
+p2: Gouging Fire used Morning Sun on Gouging Fire
+p1: Zapdos used Volt Switch on Gouging Fire
+p1: Switched to Registeel
+Turn 38:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Registeel used Body Press on Gouging Fire
+Turn 39:
+p2: Switched to Dondozo
+p1: Registeel used Iron Defense on Registeel
+Turn 40:
+p1: Switched to Zapdos
+p2: Dondozo used Body Press on Zapdos
+Turn 41:
+p2: Switched to Gouging Fire
+p1: Zapdos used Discharge on Gouging Fire
+Turn 42:
+p2: Gouging Fire used Morning Sun on Gouging Fire
+p1: Zapdos used Roost on Zapdos
+Turn 43:
+p2: Gouging Fire used Flare Blitz on Zapdos
+p1: Zapdos used Discharge on Gouging Fire
+Turn 44:
+p2: Gouging Fire used Earthquake on Zapdos
+p1: Zapdos used Roost on Zapdos
+Turn 45:
+p2: Gouging Fire used Flare Blitz on Zapdos
+p1: Zapdos used Discharge on Gouging Fire
+Turn 46:
+p2: Gouging Fire used Morning Sun on Gouging Fire
+p1: Zapdos used Roost on Zapdos
+Turn 47:
+p2: Gouging Fire used Flare Blitz on Zapdos
+p1: Zapdos used Discharge on Gouging Fire
+Turn 48:
+p1: Switched to Registeel
+p2: Gouging Fire used Flare Blitz on Registeel
+Turn 49:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Registeel used Body Press on Gouging Fire
+Turn 50:
+p2: Switched to Dondozo
+p1: Registeel used Body Press on Dondozo
+Turn 51:
+p1: Switched to Zapdos
+p2: Dondozo used Body Press on Zapdos
+Turn 52:
+p2: Switched to Gouging Fire
+p1: Zapdos used Roost on Zapdos
+Turn 53:
+p2: Gouging Fire used Morning Sun on Gouging Fire
+p1: Zapdos used Volt Switch on Gouging Fire
+p1: Switched to Garchomp
+Turn 54:
+p2: Switched to Dondozo
+p1: Garchomp used Substitute on Garchomp
+Turn 55:
+p1: Garchomp used Earthquake on Dondozo
+p2: Dondozo used Liquidation on Garchomp
+Turn 56:
+p1: Switched to Zapdos
+p2: Dondozo used Liquidation on Zapdos
+Turn 57:
+p2: Switched to Gouging Fire
+p1: Zapdos used Volt Switch on Gouging Fire
+p1: Switched to Garchomp
+Turn 58:
+p2: Switched to Moltres
+p1: Garchomp used Earthquake on Moltres
+Turn 59:
+p1: Switched to Regieleki
+p2: Moltres used Air Slash on Regieleki
+Turn 60:
+p1: Regieleki used Thunderbolt on Moltres
+p2: Moltres fainted
+p2: Switched to Gouging Fire
+Turn 61:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Regieleki used Volt Switch on Gouging Fire
+Turn 62:
+p1: Regieleki used Volt Switch on Gouging Fire
+p1: Switched to Registeel
+p2: Gouging Fire used Morning Sun on Gouging Fire
+Turn 63:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Registeel used Body Press on Gouging Fire
+Turn 64:
+p2: Switched to Dondozo
+p1: Registeel used Heavy Slam on Dondozo
+Turn 65:
+p1: Switched to Zapdos
+p2: Dondozo used Rest on Dondozo
+Turn 66:
+p2: Switched to Gouging Fire
+p1: Zapdos used Discharge on Gouging Fire
+Turn 67:
+p1: Switched to Registeel
+p2: Gouging Fire used Morning Sun on Gouging Fire
+Turn 68:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Registeel used Body Press on Gouging Fire
+Turn 69:
+p2: Gouging Fire used Earthquake on Registeel
+p1: Registeel fainted
+p1: Switched to Garchomp
+Turn 70:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Garchomp used Earthquake on Gouging Fire
+Turn 71:
+p2: Switched to Dondozo
+p1: Garchomp used Earthquake on Dondozo
+Turn 72:
+p1: Switched to Zapdos
+p2: Dondozo can't move
+p2: Dondozo used Sleep Talk on Dondozo
+p2: Dondozo used Body Press on Zapdos
+Turn 73:
+p2: Switched to Gouging Fire
+p1: Zapdos used Roost on Zapdos
+Turn 74:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Zapdos used Volt Switch on Gouging Fire
+Turn 75:
+p2: Gouging Fire used Flare Blitz on Zapdos
+p1: Zapdos used Volt Switch on Gouging Fire
+p1: Switched to Garchomp
+Turn 76:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Garchomp used Earthquake on Gouging Fire
+Turn 77:
+p1: Switched to Regieleki
+p2: Switched to Dondozo
+Turn 78:
+p2: Switched to Gouging Fire
+p1: Regieleki used Thunderbolt on Gouging Fire
+Turn 79:
+p2: Gouging Fire used Burning Bulwark on Gouging Fire
+p1: Regieleki used Thunderbolt on Gouging Fire
+Turn 80:
+p2: Gouging Fire failed to use Burning Bulwark
+p1: Regieleki used Thunderbolt on Gouging Fire
+p2: Gouging Fire fainted
+p2: Switched to Iron Bundle
+Turn 81:
+p1: Regieleki used Thunderbolt on Iron Bundle
+p2: Iron Bundle fainted
+p2: Switched to Dondozo
+Turn 82:
+p1: Regieleki used Thunderbolt on Dondozo
+p2: Dondozo fainted

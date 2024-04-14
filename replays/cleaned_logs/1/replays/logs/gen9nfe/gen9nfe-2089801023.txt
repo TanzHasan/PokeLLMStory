@@ -1,0 +1,41 @@
+p1: Switched to Piloswine
+p2: Switched to Growlithe-Hisui
+Turn 1:
+p1: Piloswine used Stealth Rock on Growlithe-Hisui
+p2: Growlithe-Hisui used Flare Blitz on Piloswine
+Turn 2:
+p1: Switched to Servine
+p2: Growlithe-Hisui used Flare Blitz on Servine
+Turn 3:
+p1: Servine used Leaf Storm on Growlithe-Hisui
+p2: Growlithe-Hisui fainted
+p2: Switched to Corphish
+Turn 4:
+p2: Corphish used Aqua Jet on Servine
+p1: Servine used Knock Off on Corphish
+p2: Corphish fainted
+p2: Switched to Impidimp
+Turn 5:
+p2: Impidimp used Parting Shot on Servine
+p2: Switched to Magby
+p1: Servine used Glare on Magby
+Turn 6:
+p1: Servine used Leaf Storm on Magby
+p2: Magby fainted
+p2: Switched to Impidimp
+Turn 7:
+p2: Impidimp used Parting Shot on Servine
+p2: Switched to Gastly
+p1: Servine used Knock Off on Gastly
+p2: Gastly fainted
+p2: Switched to Impidimp
+Turn 8:
+p2: Impidimp used Parting Shot on Servine
+p2: Switched to Voltorb-Hisui
+p1: Servine used Knock Off on Voltorb-Hisui
+p2: Voltorb-Hisui fainted
+p2: Switched to Impidimp
+Turn 9:
+p2: Impidimp used Light Screen on Impidimp
+p1: Servine used Knock Off on Impidimp
+p2: Impidimp fainted

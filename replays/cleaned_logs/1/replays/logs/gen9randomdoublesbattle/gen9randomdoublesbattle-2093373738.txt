@@ -1,0 +1,77 @@
+p1: Switched to Mienshao
+p1: Switched to Kyurem
+p2: Switched to Ninetales-Alola
+p2: Switched to Incineroar
+Turn 1:
+p2: Ninetales-Alola used Protect on Ninetales-Alola
+p1: Mienshao used Fake Out on Ninetales-Alola
+p1: Kyurem used Earth Power on Incineroar
+p2: Incineroar used Knock Off on Kyurem
+Turn 2:
+p1: Switched to Skuntank
+p1: Mienshao used Close Combat on Incineroar
+p2: Incineroar fainted
+p2: Ninetales-Alola used Aurora Veil on Ninetales-Alola
+p2: Switched to Lycanroc-Midnight
+Turn 3:
+p1: Mienshao used U-turn on Ninetales-Alola
+p1: Switched to Vaporeon
+p2: Ninetales-Alola used Blizzard on Vaporeon
+p1: Skuntank used Poison Gas on Lycanroc-Midnight
+p2: Lycanroc-Midnight used Rock Slide on Skuntank
+Turn 4:
+p2: Ninetales-Alola used Moonblast on Vaporeon
+p1: Skuntank used Gunk Shot on Ninetales-Alola
+p2: Lycanroc-Midnight used Rock Slide on Vaporeon
+p1: Skuntank fainted
+p1: Vaporeon can't move
+p2: Ninetales-Alola fainted
+p2: Switched to Rabsca
+p1: Switched to Mienshao
+Turn 5:
+p1: Mienshao used Close Combat on Lycanroc-Midnight
+p2: Lycanroc-Midnight fainted
+p1: Vaporeon used Wish on Vaporeon
+p2: Rabsca used Revival Blessing on Rabsca
+p2: Switched to Ninetales-Alola
+Turn 6:
+p1: Mienshao used Close Combat on Ninetales-Alola
+p2: Ninetales-Alola used Blizzard on Mienshao
+p1: Vaporeon can't move
+p2: Rabsca used Struggle Bug on Vaporeon
+p1: Vaporeon fainted
+p1: Switched to Kyurem
+Turn 7:
+p1: Mienshao can't move
+p2: Ninetales-Alola used Moonblast on Kyurem
+p1: Kyurem used Earth Power on Ninetales-Alola
+p2: Rabsca used Psychic on Kyurem
+Turn 8:
+p1: Switched to Toucannon
+p2: Ninetales-Alola used Blizzard on Toucannon
+p1: Kyurem used Earth Power on Ninetales-Alola
+p2: Ninetales-Alola fainted
+p2: Rabsca used Psychic on Toucannon
+p2: Switched to Jolteon
+Turn 9:
+p1: Switched to Mienshao
+p2: Jolteon used Thunderbolt on Toucannon
+p1: Toucannon fainted
+p2: Rabsca used Struggle Bug on Mienshao
+p1: Switched to Kyurem
+Turn 10:
+p1: Mienshao used Fake Out on Rabsca
+p2: Jolteon used Alluring Voice on Mienshao
+p1: Mienshao fainted
+p1: Kyurem used Earth Power on Jolteon
+p2: Rabsca can't move
+p1: Switched to Moltres-Galar
+Turn 11:
+p2: Jolteon used Thunderbolt on Kyurem
+p1: Kyurem fainted
+p1: Moltres-Galar used Hurricane on Jolteon
+p2: Rabsca used Struggle Bug on Moltres-Galar
+Turn 12:
+p2: Jolteon used Alluring Voice on Moltres-Galar
+p1: Moltres-Galar fainted
+p2: Jolteon fainted

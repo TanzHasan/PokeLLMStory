@@ -1,0 +1,95 @@
+p1: Switched to Greninja
+p2: Switched to Skarmory
+Turn 1:
+p1: Greninja used Surf on Skarmory
+p2: Skarmory used Stealth Rock on Greninja
+Turn 2:
+p1: Greninja used Surf on Skarmory
+p2: Skarmory fainted
+p2: Switched to Serperior
+Turn 3:
+p1: Switched to Celesteela
+p2: Serperior used Leaf Storm on Celesteela
+Turn 4:
+p2: Serperior used Dragon Pulse on Celesteela
+p1: Celesteela used Flamethrower on Serperior
+Turn 5:
+p2: Serperior used Leaf Storm on Celesteela
+p1: Celesteela used Flamethrower on Serperior
+Turn 6:
+p2: Serperior used Synthesis on Serperior
+p1: Celesteela used Flamethrower on Serperior
+Turn 7:
+p2: Serperior used Dragon Pulse on Celesteela
+p1: Celesteela used Flamethrower on Serperior
+p2: Serperior fainted
+p2: Switched to Blacephalon
+Turn 8:
+p1: Switched to Toxapex
+p2: Blacephalon used Flamethrower on Toxapex
+Turn 9:
+p2: Blacephalon used Psychic on Toxapex
+p1: Toxapex used Scald on Blacephalon
+Turn 10:
+p1: Switched to Tapu Bulu
+p2: Blacephalon used Psychic on Tapu Bulu
+Turn 11:
+p2: Blacephalon used Flamethrower on Tapu Bulu
+p1: Tapu Bulu fainted
+p1: Switched to Greninja-Ash
+Turn 12:
+p1: Greninja-Ash used Surf on Blacephalon
+p2: Blacephalon fainted
+p2: Switched to Alakazam
+Turn 13:
+p1: Switched to Celesteela
+p2: Alakazam used Energy Ball on Celesteela
+Turn 14:
+p2: Alakazam used Focus Blast on Celesteela
+p1: Celesteela used Leech Seed on Alakazam
+Turn 15:
+p2: Switched to Gardevoir
+p1: Celesteela failed to use Protect
+Turn 16:
+p1: Celesteela used Protect on Celesteela
+p2: Gardevoir used Shadow Ball on Celesteela
+Turn 17:
+p2: Switched to Kartana
+p1: Celesteela used Leech Seed on Kartana
+Turn 18:
+p2: Switched to Gardevoir
+p1: Celesteela used Flamethrower on Gardevoir
+Turn 19:
+p1: Celesteela used Protect on Celesteela
+p2: Gardevoir used Shadow Ball on Celesteela
+Turn 20:
+p1: Switched to Toxapex
+p2: Gardevoir used Shadow Ball on Toxapex
+Turn 21:
+p1: Switched to Garchomp
+p2: Gardevoir used Psychic on Garchomp
+Turn 22:
+p1: Garchomp used Earthquake on Gardevoir
+p2: Gardevoir fainted
+p2: Switched to Kartana
+Turn 23:
+p1: Switched to Celesteela
+p2: Kartana used Z-Tailwind on Kartana
+Turn 24:
+p2: Kartana used Sacred Sword on Celesteela
+p1: Celesteela fainted
+p1: Switched to Toxapex
+Turn 25:
+p1: Switched to Tornadus-Therian
+p2: Kartana used Psycho Cut on Tornadus-Therian
+Turn 26:
+p2: Kartana used Leaf Blade on Tornadus-Therian
+p1: Tornadus-Therian fainted
+p1: Switched to Greninja-Ash
+Turn 27:
+p1: Greninja-Ash used Dark Pulse on Kartana
+p2: Kartana fainted
+p2: Switched to Alakazam-Mega
+Turn 28:
+p1: Greninja-Ash used Dark Pulse on Alakazam-Mega
+p2: Alakazam-Mega fainted

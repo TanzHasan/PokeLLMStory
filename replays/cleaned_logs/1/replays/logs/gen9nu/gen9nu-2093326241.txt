@@ -1,0 +1,75 @@
+p1: Switched to Mew
+p2: Switched to Krookodile
+Turn 1:
+p1: Mew used Stealth Rock on Krookodile
+p2: Krookodile used Knock Off on Mew
+Turn 2:
+p1: Mew used Earth Power on Krookodile
+p2: Krookodile used Knock Off on Mew
+p1: Mew fainted
+p1: Switched to Cloyster
+Turn 3:
+p2: Krookodile used Knock Off on Cloyster
+p1: Cloyster used Shell Smash on Cloyster
+Turn 4:
+p2: Switched to Rotom-Heat
+p1: Cloyster used Icicle Spear on Rotom-Heat
+Turn 5:
+p1: Cloyster used Rock Blast on Rotom-Heat
+p2: Rotom-Heat used Overheat on Cloyster
+p1: Cloyster fainted
+p1: Switched to Thundurus
+Turn 6:
+p1: Thundurus used Nasty Plot on Thundurus
+p2: Rotom-Heat used Pain Split on Thundurus
+Turn 7:
+p2: Switched to Mew
+p1: Thundurus used Nasty Plot on Thundurus
+Turn 8:
+p1: Thundurus used Thunderbolt on Mew
+p2: Mew fainted
+p2: Switched to Munkidori
+Turn 9:
+p2: Munkidori used U-turn on Thundurus
+p2: Switched to Rotom-Heat
+p1: Thundurus used Thunderbolt on Rotom-Heat
+p2: Rotom-Heat fainted
+p2: Switched to Munkidori
+Turn 10:
+p2: Munkidori used Sludge Wave on Thundurus
+p1: Thundurus fainted
+p1: Switched to Overqwil
+Turn 11:
+p2: Switched to Krookodile
+p1: Overqwil used Crunch on Krookodile
+Turn 12:
+p1: Overqwil used Aqua Jet on Krookodile
+p2: Krookodile used Earthquake on Overqwil
+p1: Overqwil fainted
+p1: Switched to Lucario
+Turn 13:
+p2: Switched to Cramorant
+p1: Lucario used Close Combat on Cramorant
+Turn 14:
+p1: Lucario used Extreme Speed on Cramorant
+p2: Cramorant used Surf on Lucario
+Turn 15:
+p1: Lucario used Extreme Speed on Cramorant
+p2: Cramorant fainted
+p2: Switched to Munkidori
+Turn 16:
+p1: Lucario used Extreme Speed on Munkidori
+p2: Munkidori used Psychic on Lucario
+p1: Lucario fainted
+p1: Switched to Lycanroc-Dusk
+Turn 17:
+p1: Lycanroc-Dusk used Sucker Punch on Munkidori
+p2: Munkidori fainted
+p2: Switched to Krookodile
+Turn 18:
+p1: Lycanroc-Dusk used Close Combat on Krookodile
+p2: Krookodile fainted
+p2: Switched to Cacturne
+Turn 19:
+p2: Cacturne used Sucker Punch on Lycanroc-Dusk
+p1: Lycanroc-Dusk fainted

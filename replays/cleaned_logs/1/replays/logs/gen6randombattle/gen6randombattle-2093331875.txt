@@ -1,0 +1,112 @@
+p1: Switched to Jumpluff
+p2: Switched to Quagsire
+Turn 1:
+p1: Jumpluff used Sleep Powder on Quagsire
+p2: Quagsire can't move
+Turn 2:
+p2: Switched to Sandslash
+p1: Jumpluff used Acrobatics on Sandslash
+Turn 3:
+p1: Jumpluff failed to use Encore
+p2: Sandslash used Stone Edge on Jumpluff
+Turn 4:
+p1: Jumpluff used Sleep Powder on Sandslash
+p2: Sandslash used Stone Edge on Jumpluff
+p1: Jumpluff fainted
+p1: Switched to Suicune
+Turn 5:
+p2: Switched to Quagsire
+p1: Suicune used Scald on Quagsire
+Turn 6:
+p1: Suicune used Calm Mind on Suicune
+p2: Quagsire can't move
+Turn 7:
+p1: Suicune used Calm Mind on Suicune
+p2: Quagsire can't move
+Turn 8:
+p1: Suicune used Ice Beam on Quagsire
+p2: Quagsire used Toxic on Suicune
+Turn 9:
+p1: Suicune used Scald on Quagsire
+p2: Quagsire used Recover on Quagsire
+Turn 10:
+p1: Suicune used Calm Mind on Suicune
+p2: Quagsire used Earthquake on Suicune
+Turn 11:
+p1: Suicune used Rest on Suicune
+p2: Quagsire used Earthquake on Suicune
+Turn 12:
+p1: Suicune used Ice Beam on Quagsire
+p2: Quagsire used Toxic on Suicune
+Turn 13:
+p1: Suicune used Scald on Quagsire
+p2: Quagsire used Scald on Suicune
+Turn 14:
+p1: Suicune used Scald on Quagsire
+p2: Quagsire used Earthquake on Suicune
+p1: Suicune fainted
+p1: Switched to Absol
+Turn 15:
+p2: Switched to Virizion
+p1: Absol used Swords Dance on Absol
+Turn 16:
+p1: Absol used Play Rough on Virizion
+p2: Virizion fainted
+p2: Switched to Tangrowth
+Turn 17:
+p1: Absol used Knock Off on Tangrowth
+p2: Tangrowth used Earthquake on Absol
+Turn 18:
+p1: Absol used Knock Off on Tangrowth
+p2: Tangrowth fainted
+p2: Switched to Sandslash
+Turn 19:
+p1: Absol used Knock Off on Sandslash
+p2: Sandslash used Earthquake on Absol
+p1: Absol fainted
+p1: Switched to Floatzel
+Turn 20:
+p2: Switched to Quagsire
+p1: Floatzel used Waterfall on Quagsire
+p2: Quagsire fainted
+p2: Switched to Wobbuffet
+Turn 21:
+p1: Floatzel used Taunt on Wobbuffet
+p2: Wobbuffet failed to use Counter
+Turn 22:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 23:
+p2: Switched to Darkrai
+p1: Floatzel used Bulk Up on Floatzel
+Turn 24:
+p1: Floatzel used Waterfall on Darkrai
+p2: Darkrai fainted
+p2: Switched to Wobbuffet
+Turn 25:
+p1: Floatzel used Taunt on Wobbuffet
+p2: Wobbuffet failed to use Counter
+Turn 26:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 27:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 28:
+p1: Floatzel used Taunt on Wobbuffet
+p2: Wobbuffet can't move
+Turn 29:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 30:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 31:
+p1: Floatzel used Taunt on Wobbuffet
+p2: Wobbuffet can't move
+Turn 32:
+p1: Floatzel used Bulk Up on Floatzel
+p2: Wobbuffet failed to use Counter
+Turn 33:
+p1: Floatzel used Waterfall on Wobbuffet
+p2: Wobbuffet fainted

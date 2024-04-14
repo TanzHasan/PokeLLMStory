@@ -1,0 +1,513 @@
+|j|☆ADV Warrior Poet
+|j|☆snorlaxplayer82
+|t:|1711945201
+|gametype|singles
+|player|p1|ADV Warrior Poet|musician|1506
+|player|p2|snorlaxplayer82|clair|1453
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711945201
+|start
+|switch|p1a: Hamburger Helper|Skarmory, F|100/100
+|switch|p2a: Salamence|Salamence, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hamburger Helper|atk|1
+|turn|1
+|
+|t:|1711945208
+|switch|p2a: Forretress|Forretress, M|100/100
+|switch|p1a: Beans 'n Rice|Aerodactyl, M|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711945213
+|switch|p1a: The Noid|Banette, M|100/100
+|move|p2a: Forretress|Spikes|p1a: The Noid
+|-sidestart|p1: ADV Warrior Poet|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1711945218
+|switch|p2a: Houndoom|Houndoom, F|100/100
+|move|p1a: The Noid|Will-O-Wisp|p2a: Houndoom
+|-immune|p2a: Houndoom
+|
+|upkeep
+|turn|4
+|
+|t:|1711945227
+|-activate|p1a: The Noid|move: Pursuit
+|move|p2a: Houndoom|Pursuit|p1a: The Noid|[from]Pursuit
+|-supereffective|p1a: The Noid
+|-damage|p1a: The Noid|3/100
+|switch|p1a: Beans 'n Rice|Aerodactyl, M|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711945245
+|switch|p1a: Hamburger Helper|Skarmory, F|100/100
+|switch|p2a: Salamence|Salamence, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hamburger Helper|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1711945253
+|switch|p2a: Forretress|Forretress, M|100/100
+|move|p1a: Hamburger Helper|Spikes|p2a: Forretress
+|-sidestart|p2: snorlaxplayer82|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1711945256
+|move|p1a: Hamburger Helper|Taunt|p2a: Forretress
+|-start|p2a: Forretress|move: Taunt
+|move|p2a: Forretress|Hidden Power|p1a: Hamburger Helper
+|-supereffective|p1a: Hamburger Helper
+|-damage|p1a: Hamburger Helper|72/100
+|
+|-heal|p1a: Hamburger Helper|78/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711945262
+|switch|p1a: Grimace|Donphan, M, shiny|100/100
+|-damage|p1a: Grimace|88/100|[from] Spikes
+|move|p2a: Forretress|Hidden Power|p1a: Grimace
+|-damage|p1a: Grimace|65/100
+|
+|-heal|p1a: Grimace|71/100|[from] item: Leftovers
+|-end|p2a: Forretress|move: Taunt|[silent]
+|upkeep
+|turn|9
+|
+|t:|1711945267
+|move|p1a: Grimace|Rapid Spin|p2a: Forretress
+|-resisted|p2a: Forretress
+|-damage|p2a: Forretress|98/100
+|-sideend|p1: ADV Warrior Poet|Spikes|[from] move: Rapid Spin|[of] p1a: Grimace
+|move|p2a: Forretress|Rapid Spin|p1a: Grimace
+|-damage|p1a: Grimace|68/100
+|-sideend|p2: snorlaxplayer82|Spikes|[from] move: Rapid Spin|[of] p2a: Forretress
+|
+|-heal|p1a: Grimace|74/100|[from] item: Leftovers
+|-heal|p2a: Forretress|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711945273
+|move|p1a: Grimace|Earthquake|p2a: Forretress
+|-damage|p2a: Forretress|60/100
+|move|p2a: Forretress|Spikes|p1a: Grimace
+|-sidestart|p1: ADV Warrior Poet|Spikes
+|
+|-heal|p1a: Grimace|81/100|[from] item: Leftovers
+|-heal|p2a: Forretress|67/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711945280
+|switch|p2a: Salamence|Salamence, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Grimace|atk|1
+|move|p1a: Grimace|Rapid Spin|p2a: Salamence
+|-damage|p2a: Salamence|94/100
+|-sideend|p1: ADV Warrior Poet|Spikes|[from] move: Rapid Spin|[of] p1a: Grimace
+|
+|-heal|p1a: Grimace|87/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711945286
+|switch|p1a: Hamburger Helper|Skarmory, F|78/100
+|move|p2a: Salamence|Hidden Power|p1a: Hamburger Helper
+|-resisted|p1a: Hamburger Helper
+|-damage|p1a: Hamburger Helper|55/100
+|
+|-heal|p1a: Hamburger Helper|61/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711945292
+|switch|p2a: Forretress|Forretress, M|67/100
+|move|p1a: Hamburger Helper|Drill Peck|p2a: Forretress
+|-damage|p2a: Forretress|48/100
+|
+|-heal|p1a: Hamburger Helper|67/100|[from] item: Leftovers
+|-heal|p2a: Forretress|55/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711945296
+|move|p1a: Hamburger Helper|Spikes|p2a: Forretress
+|-sidestart|p2: snorlaxplayer82|Spikes
+|move|p2a: Forretress|Hidden Power|p1a: Hamburger Helper
+|-supereffective|p1a: Hamburger Helper
+|-crit|p1a: Hamburger Helper
+|-damage|p1a: Hamburger Helper|11/100
+|
+|-heal|p1a: Hamburger Helper|17/100|[from] item: Leftovers
+|-heal|p2a: Forretress|61/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711945301
+|switch|p1a: The Noid|Banette, M|3/100
+|move|p2a: Forretress|Spikes|p1a: The Noid
+|-sidestart|p1: ADV Warrior Poet|Spikes
+|
+|-heal|p1a: The Noid|9/100|[from] item: Leftovers
+|-heal|p2a: Forretress|67/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711945305
+|switch|p2a: Houndoom|Houndoom, F|100/100
+|-damage|p2a: Houndoom|88/100|[from] Spikes
+|move|p1a: The Noid|Knock Off|p2a: Houndoom
+|-resisted|p2a: Houndoom
+|-damage|p2a: Houndoom|86/100
+|-enditem|p2a: Houndoom|Leftovers|[from] move: Knock Off|[of] p1a: The Noid
+|-hint|In Gens 3-4, Knock Off only makes the target's item unusable; it cannot obtain a new item.
+|
+|-heal|p1a: The Noid|16/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711945310
+|move|p2a: Houndoom|Crunch|p1a: The Noid
+|-supereffective|p1a: The Noid
+|-damage|p1a: The Noid|0 fnt
+|faint|p1a: The Noid
+|
+|t:|1711945312
+|switch|p1a: Hamburger|Tyranitar, M|100/100
+|-damage|p1a: Hamburger|88/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hamburger
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Houndoom|80/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1711945315
+|switch|p2a: Salamence|Salamence, F|94/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hamburger|atk|1
+|move|p1a: Hamburger|Dragon Dance|p1a: Hamburger
+|-boost|p1a: Hamburger|atk|1
+|-boost|p1a: Hamburger|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|88/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1711945319
+|switch|p2a: Metagross|Metagross|100/100
+|-damage|p2a: Metagross|88/100|[from] Spikes
+|move|p1a: Hamburger|Rock Slide|p2a: Metagross
+|-resisted|p2a: Metagross
+|-damage|p2a: Metagross|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Metagross|81/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711945328
+|switch|p1a: Grimace|Donphan, M, shiny|87/100
+|-damage|p1a: Grimace|74/100|[from] Spikes
+|move|p2a: Metagross|Meteor Mash|p1a: Grimace
+|-damage|p1a: Grimace|32/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Metagross|87/100|[from] item: Leftovers
+|-heal|p1a: Grimace|38/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711945337
+|switch|p2a: Salamence|Salamence, F|88/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Grimace|atk|1
+|move|p1a: Grimace|Earthquake|p2a: Salamence
+|-immune|p2a: Salamence
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|82/100|[from] Sandstorm
+|-heal|p1a: Grimace|44/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711945339
+|move|p2a: Salamence|Hidden Power|p1a: Grimace
+|-damage|p1a: Grimace|1/100
+|move|p1a: Grimace|Rock Slide|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|36/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|30/100|[from] Sandstorm
+|-heal|p1a: Grimace|7/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711945342
+|move|p2a: Salamence|Hidden Power|p1a: Grimace
+|-damage|p1a: Grimace|0 fnt
+|faint|p1a: Grimace
+|
+|t:|1711945344
+|switch|p1a: Beans 'n Rice|Aerodactyl, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|23/100|[from] Sandstorm
+|upkeep
+|turn|24
+|
+|t:|1711945353
+|switch|p2a: Metagross|Metagross|87/100
+|-damage|p2a: Metagross|75/100|[from] Spikes
+|move|p1a: Beans 'n Rice|Earthquake|p2a: Metagross
+|-supereffective|p2a: Metagross
+|-crit|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|t:|1711945356
+|switch|p2a: Salamence|Salamence, F|23/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Beans 'n Rice|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|17/100|[from] Sandstorm
+|upkeep
+|turn|25
+|
+|t:|1711945361
+|switch|p1a: Hamburger Helper|Skarmory, F|17/100
+|move|p2a: Salamence|Brick Break|p1a: Hamburger Helper
+|-damage|p1a: Hamburger Helper|0 fnt
+|faint|p1a: Hamburger Helper
+|
+|t:|1711945363
+|switch|p1a: The Roughage|Celebi|100/100
+|-damage|p1a: The Roughage|88/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|11/100|[from] Sandstorm
+|-damage|p1a: The Roughage|82/100|[from] Sandstorm
+|-heal|p1a: The Roughage|88/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711945366
+|switch|p2a: Houndoom|Houndoom, F|80/100
+|-damage|p2a: Houndoom|67/100|[from] Spikes
+|move|p1a: The Roughage|Swords Dance|p1a: The Roughage
+|-boost|p1a: The Roughage|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Houndoom|61/100|[from] Sandstorm
+|-damage|p1a: The Roughage|82/100|[from] Sandstorm
+|-heal|p1a: The Roughage|88/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711945380
+|move|p2a: Houndoom|Fire Blast|p1a: The Roughage|[miss]
+|-miss|p2a: Houndoom|p1a: The Roughage
+|move|p1a: The Roughage|Baton Pass|p1a: The Roughage
+|
+|t:|1711945384
+|switch|p1a: Hamburger|Tyranitar, M|88/100|[from] Baton Pass
+|-damage|p1a: Hamburger|76/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Houndoom|55/100|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1711945390
+|switch|p2a: Salamence|Salamence, F|11/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hamburger|atk|1
+|move|p1a: Hamburger|Dragon Dance|p1a: Hamburger
+|-boost|p1a: Hamburger|atk|1
+|-boost|p1a: Hamburger|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|5/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1711945403
+|switch|p2a: Blissey|Blissey, F|100/100
+|-damage|p2a: Blissey|88/100|[from] Spikes
+|move|p1a: Hamburger|Rock Slide|p2a: Blissey
+|-damage|p2a: Blissey|11/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|5/100|[from] Sandstorm
+|-heal|p2a: Blissey|11/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1711945408
+|switch|p2a: Salamence|Salamence, F|5/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Hamburger|atk|1
+|move|p1a: Hamburger|Dragon Dance|p1a: Hamburger
+|-boost|p1a: Hamburger|atk|1
+|-boost|p1a: Hamburger|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Salamence|0 fnt|[from] Sandstorm
+|faint|p2a: Salamence
+|upkeep
+|
+|t:|1711945411
+|switch|p2a: Snorlax|Snorlax, F|100/100
+|-damage|p2a: Snorlax|88/100|[from] Spikes
+|turn|31
+|
+|t:|1711945427
+|move|p1a: Hamburger|Rock Slide|p2a: Snorlax
+|-damage|p2a: Snorlax|27/100
+|move|p2a: Snorlax|Self-Destruct|p1a: Hamburger
+|-resisted|p1a: Hamburger
+|-damage|p1a: Hamburger|0 fnt
+|faint|p2a: Snorlax
+|faint|p1a: Hamburger
+|
+|t:|1711945439
+|switch|p1a: Beans 'n Rice|Aerodactyl, M|100/100
+|switch|p2a: Forretress|Forretress, M|67/100
+|-damage|p2a: Forretress|55/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Forretress|61/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711945447
+|switch|p1a: The Roughage|Celebi|88/100
+|-damage|p1a: The Roughage|76/100|[from] Spikes
+|move|p2a: Forretress|Hidden Power|p1a: The Roughage
+|-supereffective|p1a: The Roughage
+|-crit|p1a: The Roughage
+|-damage|p1a: The Roughage|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: The Roughage|20/100|[from] Sandstorm
+|-heal|p1a: The Roughage|26/100|[from] item: Leftovers
+|-heal|p2a: Forretress|67/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711945456
+|move|p1a: The Roughage|Recover|p1a: The Roughage
+|-heal|p1a: The Roughage|76/100
+|move|p2a: Forretress|Hidden Power|p1a: The Roughage
+|-supereffective|p1a: The Roughage
+|-damage|p1a: The Roughage|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: The Roughage|44/100|[from] Sandstorm
+|-heal|p1a: The Roughage|50/100|[from] item: Leftovers
+|-heal|p2a: Forretress|73/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711945458
+|move|p1a: The Roughage|Recover|p1a: The Roughage
+|-heal|p1a: The Roughage|99/100
+|move|p2a: Forretress|Hidden Power|p1a: The Roughage
+|-supereffective|p1a: The Roughage
+|-damage|p1a: The Roughage|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: The Roughage|69/100|[from] Sandstorm
+|-heal|p1a: The Roughage|75/100|[from] item: Leftovers
+|-heal|p2a: Forretress|79/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711945460
+|move|p1a: The Roughage|Swords Dance|p1a: The Roughage
+|-boost|p1a: The Roughage|atk|2
+|move|p2a: Forretress|Hidden Power|p1a: The Roughage
+|-supereffective|p1a: The Roughage
+|-damage|p1a: The Roughage|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: The Roughage|43/100|[from] Sandstorm
+|-heal|p1a: The Roughage|49/100|[from] item: Leftovers
+|-heal|p2a: Forretress|86/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711945467
+|move|p1a: The Roughage|Baton Pass|p1a: The Roughage
+|
+|t:|1711945469
+|switch|p1a: Beans 'n Rice|Aerodactyl, M|100/100|[from] Baton Pass
+|move|p2a: Forretress|Hidden Power|p1a: Beans 'n Rice
+|-resisted|p1a: Beans 'n Rice
+|-damage|p1a: Beans 'n Rice|90/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Forretress|92/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1711945474
+|move|p1a: Beans 'n Rice|Earthquake|p2a: Forretress
+|-damage|p2a: Forretress|27/100
+|move|p2a: Forretress|Explosion|p1a: Beans 'n Rice
+|-resisted|p1a: Beans 'n Rice
+|-damage|p1a: Beans 'n Rice|9/100
+|faint|p2a: Forretress
+|
+|t:|1711945478
+|switch|p2a: Houndoom|Houndoom, F|55/100
+|-damage|p2a: Houndoom|42/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Houndoom|36/100|[from] Sandstorm
+|upkeep
+|turn|38
+|
+|t:|1711945480
+|move|p1a: Beans 'n Rice|Earthquake|p2a: Houndoom
+|-supereffective|p2a: Houndoom
+|-damage|p2a: Houndoom|0 fnt
+|faint|p2a: Houndoom
+|c|☆ADV Warrior Poet|GG
+|-message|snorlaxplayer82 forfeited.
+|
+|win|ADV Warrior Poet
+|raw|ADV Warrior Poet's rating: 1506 &rarr; <strong>1523</strong><br />(+17 for winning)
+|raw|snorlaxplayer82's rating: 1453 &rarr; <strong>1436</strong><br />(-17 for losing)
+|l|☆snorlaxplayer82
+|player|p2|

@@ -1,0 +1,486 @@
+|j|☆murse1215
+|j|☆yerpptheder
+|t:|1711940138
+|gametype|singles
+|player|p1|murse1215|ethan|1197
+|player|p2|yerpptheder|miku-ground|1274
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711940138
+|start
+|switch|p1a: Hawlucha|Hawlucha, L78, F|250/250
+|switch|p2a: Relicanth|Relicanth, L88, M|319/319
+|turn|1
+|
+|t:|1711940149
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Relicanth|Yawn|p1a: Hawlucha
+|-start|p1a: Hawlucha|move: Yawn|[of] p2a: Relicanth
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711940164
+|switch|p1a: Milotic|Milotic, L82, F|290/290
+|switch|p2a: Slowbro|Slowbro, L85, F|300/300
+|
+|upkeep
+|turn|3
+|
+|t:|1711940174
+|move|p1a: Milotic|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Future Sight|p1a: Milotic
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-damage|p2a: Slowbro|282/300 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711940190
+|move|p1a: Milotic|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|238/300 tox
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1711940193
+|switch|p2a: Delibird|Delibird, M|252/252|[from] Teleport
+|
+|upkeep
+|turn|5
+|
+|t:|1711940208
+|switch|p1a: Steelix|Steelix, L84, M|263/263
+|move|p2a: Delibird|Spikes|p1a: Steelix
+|-sidestart|p1: murse1215|Spikes
+|
+|-end|p1a: Steelix|move: Future Sight
+|-resisted|p1a: Steelix
+|-damage|p1a: Steelix|176/263
+|-heal|p1a: Steelix|192/263|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711940231
+|move|p2a: Delibird|Spikes|p1a: Steelix
+|-sidestart|p1: murse1215|Spikes
+|move|p1a: Steelix|Dragon Dance|p1a: Steelix
+|-boost|p1a: Steelix|atk|1
+|-boost|p1a: Steelix|spe|1
+|
+|-heal|p1a: Steelix|208/263|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711940238
+|switch|p2a: Slowbro|Slowbro, L85, F|300/300 tox
+|move|p1a: Steelix|Dragon Dance|p1a: Steelix
+|-boost|p1a: Steelix|atk|1
+|-boost|p1a: Steelix|spe|1
+|
+|-heal|p1a: Steelix|224/263|[from] item: Leftovers
+|-damage|p2a: Slowbro|282/300 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|murse1215 has 120 seconds left.
+|
+|t:|1711940265
+|-start|p1a: Steelix|Dynamax|
+|-heal|p1a: Steelix|448/526|[silent]
+|move|p1a: Steelix|Max Quake|p2a: Slowbro
+|-damage|p2a: Slowbro|71/300 tox
+|-boost|p1a: Steelix|spd|1
+|move|p2a: Slowbro|Scald|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|298/526
+|-status|p1a: Steelix|brn
+|
+|-heal|p1a: Steelix|314/526 brn|[from] item: Leftovers
+|-heal|p2a: Slowbro|89/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|53/300 tox|[from] psn
+|-damage|p1a: Steelix|298/526 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|murse1215 has 120 seconds left.
+|
+|t:|1711940276
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|move|p1a: Steelix|Max Quake|p2a: Noivern
+|-immune|p2a: Noivern
+|
+|-heal|p1a: Steelix|314/526 brn|[from] item: Leftovers
+|-damage|p1a: Steelix|298/526 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711940283
+|move|p2a: Noivern|Flamethrower|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|192/526 brn
+|move|p1a: Steelix|Max Rockfall|p2a: Noivern
+|-supereffective|p2a: Noivern
+|-damage|p2a: Noivern|63/274
+|-weather|Sandstorm
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Noivern|46/274|[from] Sandstorm
+|-heal|p1a: Steelix|208/526 brn|[from] item: Leftovers
+|-damage|p1a: Steelix|192/526 brn|[from] brn
+|upkeep
+|-end|p1a: Steelix|Dynamax
+|-heal|p1a: Steelix|96/263 brn|[silent]
+|turn|11
+|
+|t:|1711940296
+|move|p2a: Noivern|Flamethrower|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|2/263 brn
+|move|p1a: Steelix|Heavy Slam|p2a: Noivern
+|-damage|p2a: Noivern|0 fnt
+|faint|p2a: Noivern
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Steelix|18/263 brn|[from] item: Leftovers
+|-damage|p1a: Steelix|2/263 brn|[from] brn
+|upkeep
+|
+|t:|1711940304
+|switch|p2a: Froslass|Froslass, L84, F|255/255
+|turn|12
+|
+|t:|1711940310
+|move|p2a: Froslass|Triple Axel|p1a: Steelix
+|-damage|p1a: Steelix|0 fnt
+|faint|p1a: Steelix
+|-hitcount|p1: Steelix|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Froslass|240/255|[from] Sandstorm
+|upkeep
+|
+|t:|1711940337
+|switch|p1a: Audino|Audino, L92, F|339/339
+|-damage|p1a: Audino|283/339|[from] Spikes
+|turn|13
+|
+|t:|1711940343
+|move|p2a: Froslass|Taunt|p1a: Audino
+|-start|p1a: Audino|move: Taunt
+|move|p1a: Audino|Knock Off|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|110/255
+|-enditem|p2a: Froslass|Wide Lens|[from] move: Knock Off|[of] p1a: Audino
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Froslass|95/255|[from] Sandstorm
+|-damage|p1a: Audino|262/339|[from] Sandstorm
+|-heal|p1a: Audino|283/339|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711940354
+|move|p2a: Froslass|Destiny Bond|p2a: Froslass
+|-singlemove|p2a: Froslass|Destiny Bond
+|move|p1a: Audino|Knock Off|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|-activate|p2a: Froslass|move: Destiny Bond
+|faint|p1a: Audino
+|
+|-weather|none
+|upkeep
+|
+|t:|1711940380
+|switch|p2a: Slowbro|Slowbro, L85, F|153/300 tox
+|switch|p1a: Jirachi|Jirachi, L79|288/288
+|-damage|p1a: Jirachi|240/288|[from] Spikes
+|turn|15
+|
+|t:|1711940389
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|121/300 tox
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|271/300 tox
+|
+|-heal|p1a: Jirachi|258/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|289/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|271/300 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711940394
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|238/300 tox
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p1a: Jirachi|276/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|256/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|220/300 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711940399
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|169/300 tox
+|move|p2a: Slowbro|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|194/288
+|
+|-heal|p1a: Jirachi|212/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|187/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|133/300 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711940403
+|switch|p2a: Relicanth|Relicanth, L88, M|319/319
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|264/319
+|
+|-heal|p1a: Jirachi|230/288|[from] item: Leftovers
+|-heal|p2a: Relicanth|283/319|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711940411
+|switch|p2a: Slowbro|Slowbro, L85, F|233/300 tox
+|move|p1a: Jirachi|Toxic|p2a: Slowbro
+|-fail|p2a: Slowbro|tox
+|
+|-heal|p1a: Jirachi|248/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|251/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|233/300 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711940414
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|203/300 tox
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p1a: Jirachi|266/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|221/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|185/300 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1711940419
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|152/300 tox
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p1a: Jirachi|284/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|170/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|116/300 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711940422
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|85/300 tox
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|235/300 tox
+|
+|-heal|p1a: Jirachi|288/288|[from] item: Leftovers
+|-heal|p2a: Slowbro|253/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|181/300 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711940425
+|move|p1a: Jirachi|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: yerpptheder|move: Stealth Rock
+|move|p2a: Slowbro|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|200/288
+|-status|p1a: Jirachi|brn
+|
+|-heal|p1a: Jirachi|218/288 brn|[from] item: Leftovers
+|-heal|p2a: Slowbro|199/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|109/300 tox|[from] psn
+|-damage|p1a: Jirachi|200/288 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1711940428
+|move|p1a: Jirachi|Iron Head|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|93/300 tox
+|cant|p2a: Slowbro|flinch
+|
+|-heal|p1a: Jirachi|218/288 brn|[from] item: Leftovers
+|-heal|p2a: Slowbro|111/300 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|3/300 tox|[from] psn
+|-damage|p1a: Jirachi|200/288 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1711940432
+|switch|p2a: Relicanth|Relicanth, L88, M|283/319
+|-damage|p2a: Relicanth|244/319|[from] Stealth Rock
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|219/319
+|
+|-heal|p1a: Jirachi|218/288 brn|[from] item: Leftovers
+|-heal|p2a: Relicanth|238/319|[from] item: Leftovers
+|-damage|p1a: Jirachi|200/288 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1711940437
+|move|p1a: Jirachi|Toxic|p2a: Relicanth
+|-status|p2a: Relicanth|tox
+|move|p2a: Relicanth|Liquidation|p1a: Jirachi
+|-damage|p1a: Jirachi|116/288 brn
+|
+|-heal|p1a: Jirachi|134/288 brn|[from] item: Leftovers
+|-heal|p2a: Relicanth|257/319 tox|[from] item: Leftovers
+|-damage|p2a: Relicanth|238/319 tox|[from] psn
+|-damage|p1a: Jirachi|116/288 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1711940439
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|208/319 tox
+|cant|p2a: Relicanth|flinch
+|
+|-heal|p1a: Jirachi|134/288 brn|[from] item: Leftovers
+|-heal|p2a: Relicanth|227/319 tox|[from] item: Leftovers
+|-damage|p2a: Relicanth|189/319 tox|[from] psn
+|-damage|p1a: Jirachi|116/288 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1711940442
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|164/319 tox
+|cant|p2a: Relicanth|flinch
+|
+|-heal|p1a: Jirachi|134/288 brn|[from] item: Leftovers
+|-heal|p2a: Relicanth|183/319 tox|[from] item: Leftovers
+|-damage|p2a: Relicanth|126/319 tox|[from] psn
+|-damage|p1a: Jirachi|116/288 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1711940446
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|100/319 tox
+|move|p2a: Relicanth|Liquidation|p1a: Jirachi
+|-damage|p1a: Jirachi|23/288 brn
+|
+|-heal|p1a: Jirachi|41/288 brn|[from] item: Leftovers
+|-heal|p2a: Relicanth|119/319 tox|[from] item: Leftovers
+|-damage|p2a: Relicanth|43/319 tox|[from] psn
+|-damage|p1a: Jirachi|23/288 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1711940449
+|move|p1a: Jirachi|Iron Head|p2a: Relicanth
+|-damage|p2a: Relicanth|14/319 tox
+|move|p2a: Relicanth|Liquidation|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-heal|p2a: Relicanth|33/319 tox|[from] item: Leftovers
+|-damage|p2a: Relicanth|0 fnt|[from] psn
+|faint|p2a: Relicanth
+|upkeep
+|
+|t:|1711940463
+|switch|p1a: Lycanroc|Lycanroc-Midnight, L83, F|277/277
+|switch|p2a: Delibird|Delibird, M|252/252
+|-damage|p1a: Lycanroc|231/277|[from] Spikes
+|turn|31
+|
+|t:|1711940468
+|move|p2a: Delibird|Memento|p1a: Lycanroc
+|-unboost|p1a: Lycanroc|atk|2
+|-unboost|p1a: Lycanroc|spa|2
+|faint|p2a: Delibird
+|move|p1a: Lycanroc|Stone Edge|p2: Delibird|[notarget]
+|-fail|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1711940472
+|switch|p2a: Shiftry|Shiftry, L87, F|298/298
+|-damage|p2a: Shiftry|261/298|[from] Stealth Rock
+|turn|32
+|
+|t:|1711940476
+|move|p2a: Shiftry|Nasty Plot|p2a: Shiftry
+|-boost|p2a: Shiftry|spa|2
+|move|p1a: Lycanroc|Close Combat|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|95/298
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|-damage|p1a: Lycanroc|204/277|[from] item: Life Orb
+|
+|upkeep
+|turn|33
+|
+|t:|1711940485
+|-start|p2a: Shiftry|Dynamax|
+|-heal|p2a: Shiftry|190/596|[silent]
+|move|p2a: Shiftry|Max Flare|p1a: Lycanroc
+|-resisted|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|-weather|SunnyDay
+|faint|p1a: Lycanroc
+|-damage|p2a: Shiftry|161/596|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711940489
+|switch|p1a: Hawlucha|Hawlucha, L78, F|250/250
+|turn|34
+|
+|t:|1711940492
+|move|p2a: Shiftry|Max Flare|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-damage|p2a: Shiftry|132/596|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1711940498
+|switch|p1a: Milotic|Milotic, L82, F|290/290
+|-damage|p1a: Milotic|242/290|[from] Spikes
+|turn|35
+|
+|t:|1711940500
+|move|p2a: Shiftry|Max Overgrowth|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|-fieldstart|move: Grassy Terrain
+|faint|p1a: Milotic
+|-damage|p2a: Shiftry|103/596|[from] item: Life Orb
+|
+|win|yerpptheder
+|raw|murse1215's rating: 1197 &rarr; <strong>1177</strong><br />(-20 for losing)
+|raw|yerpptheder's rating: 1274 &rarr; <strong>1294</strong><br />(+20 for winning)
+|l|☆murse1215
+|player|p1|

@@ -1,0 +1,98 @@
+p1: Switched to Voltorb-Hisui
+p2: Switched to Voltorb-Hisui
+Turn 1:
+p2: Voltorb-Hisui used Volt Switch on Voltorb-Hisui
+p2: Switched to Hippopotas
+p1: Voltorb-Hisui used Volt Switch on Hippopotas
+Turn 2:
+p2: Switched to Varoom
+p1: Voltorb-Hisui used Giga Drain on Varoom
+Turn 3:
+p1: Voltorb-Hisui used Volt Switch on Varoom
+p1: Switched to Larvesta
+p2: Varoom used Gunk Shot on Larvesta
+Turn 4:
+p2: Switched to Drilbur
+p1: Larvesta used Trailblaze on Drilbur
+Turn 5:
+p2: Drilbur used Rock Slide on Larvesta
+p1: Larvesta used Trailblaze on Drilbur
+p1: Larvesta fainted
+p1: Switched to Voltorb-Hisui
+Turn 6:
+p2: Drilbur used Earthquake on Voltorb-Hisui
+p1: Voltorb-Hisui used Giga Drain on Drilbur
+p2: Drilbur fainted
+p2: Switched to Gimmighoul
+Turn 7:
+p1: Voltorb-Hisui used Leech Seed on Gimmighoul
+p2: Gimmighoul used Shadow Ball on Voltorb-Hisui
+p1: Voltorb-Hisui fainted
+p1: Switched to Tinkatink
+Turn 8:
+p2: Switched to Hippopotas
+p1: Tinkatink used Will-O-Wisp on Hippopotas
+Turn 9:
+p1: Tinkatink used Hex on Hippopotas
+p2: Hippopotas used Yawn on Tinkatink
+p2: Hippopotas fainted
+p2: Switched to Mienfoo
+Turn 10:
+p1: Tinkatink used Will-O-Wisp on Mienfoo
+p2: Mienfoo used Knock Off on Tinkatink
+Turn 11:
+p2: Mienfoo used U-turn on p1a: Zorua
+p2: Switched to Gimmighoul
+p1: p1a: Zorua can't move
+Turn 12:
+p1: p1a: Zorua can't move
+p2: Gimmighoul used Light Screen on Gimmighoul
+Turn 13:
+p2: Switched to Mienfoo
+p1: p1a: Zorua can't move
+Turn 14:
+p1: p1a: Zorua used Hex on Mienfoo
+p2: Mienfoo used Knock Off on p1a: Zorua
+Turn 15:
+p2: Mienfoo used Knock Off on p1a: Zorua
+p1: p1a: Zorua fainted
+p1: Switched to Mienfoo
+Turn 16:
+p1: Mienfoo used Acrobatics on Mienfoo
+p2: Mienfoo used Knock Off on Mienfoo
+Turn 17:
+p2: Switched to Varoom
+p1: Mienfoo used Acrobatics on Varoom
+Turn 18:
+p1: Mienfoo used Knock Off on Varoom
+p2: Varoom used Toxic on Mienfoo
+Turn 19:
+p1: Mienfoo used Knock Off on Varoom
+p2: Varoom fainted
+p2: Switched to Gimmighoul
+Turn 20:
+p1: Mienfoo used Knock Off on Gimmighoul
+p2: Gimmighoul used Reflect on Gimmighoul
+Turn 21:
+p1: Mienfoo used Knock Off on Gimmighoul
+p2: Gimmighoul used Shadow Ball on Mienfoo
+p1: Mienfoo fainted
+p1: Switched to Stunky
+Turn 22:
+p2: Switched to Mienfoo
+p1: Stunky used Knock Off on Mienfoo
+Turn 23:
+p2: Mienfoo used Fake Out on Stunky
+p1: Stunky can't move
+Turn 24:
+p1: Stunky used Temper Flare on Mienfoo
+p2: Mienfoo fainted
+p2: Switched to Voltorb-Hisui
+Turn 25:
+p2: Voltorb-Hisui used Thunderbolt on Stunky
+p1: Stunky used Gunk Shot on Voltorb-Hisui
+p2: Voltorb-Hisui fainted
+p2: Switched to Gimmighoul
+Turn 26:
+p1: Stunky used Knock Off on Gimmighoul
+p2: Gimmighoul fainted

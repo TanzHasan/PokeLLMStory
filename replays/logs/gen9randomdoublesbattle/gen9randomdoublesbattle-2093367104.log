@@ -1,0 +1,236 @@
+|j|☆dippysauce
+|j|☆ogtru
+|t:|1711945460
+|gametype|doubles
+|player|p1|dippysauce|lucas|1589
+|player|p2|ogtru|riley|1552
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711945460
+|start
+|switch|p1a: Tauros|Tauros-Paldea-Combat, L83, M|260/260
+|switch|p1b: Shaymin|Shaymin-Sky, L77|281/281
+|switch|p2a: Leavanny|Leavanny, L90, F|280/280
+|switch|p2b: Necrozma|Necrozma-Dusk-Mane, L72|259/259
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Leavanny|atk|1
+|-unboost|p2b: Necrozma|atk|1
+|turn|1
+|
+|t:|1711945482
+|move|p1b: Shaymin|Air Slash|p2a: Leavanny
+|-supereffective|p2a: Leavanny
+|-damage|p2a: Leavanny|0 fnt
+|faint|p2a: Leavanny
+|-damage|p1b: Shaymin|253/281|[from] item: Life Orb
+|move|p1a: Tauros|Bulk Up|p1a: Tauros
+|-boost|p1a: Tauros|atk|1
+|-boost|p1a: Tauros|def|1
+|move|p2b: Necrozma|Photon Geyser|p1a: Tauros
+|-supereffective|p1a: Tauros
+|-damage|p1a: Tauros|60/260
+|
+|-heal|p1a: Tauros|76/260|[from] item: Leftovers
+|upkeep
+|
+|t:|1711945496
+|switch|p2a: Vivillon|Vivillon-Elegant, L88, M|284/284
+|turn|2
+|
+|t:|1711945524
+|move|p1a: Tauros|Protect|p1a: Tauros
+|-singleturn|p1a: Tauros|Protect
+|move|p2a: Vivillon|Protect|p2a: Vivillon
+|-singleturn|p2a: Vivillon|Protect
+|move|p1b: Shaymin|Air Slash|p2a: Vivillon
+|-activate|p2a: Vivillon|move: Protect
+|move|p2b: Necrozma|Trick Room|p2b: Necrozma
+|-fieldstart|move: Trick Room|[of] p2b: Necrozma
+|
+|-heal|p1a: Tauros|92/260|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711945547
+|move|p1b: Shaymin|Protect|p1b: Shaymin
+|-singleturn|p1b: Shaymin|Protect
+|move|p2b: Necrozma|Photon Geyser|p1a: Tauros
+|-supereffective|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|move|p2a: Vivillon|Hurricane|p1b: Shaymin
+|-activate|p1b: Shaymin|move: Protect
+|
+|upkeep
+|
+|t:|1711945567
+|switch|p1a: Whiscash|Whiscash, L87, F|333/333
+|turn|4
+|
+|t:|1711945579
+|switch|p1b: Mudsdale|Mudsdale, L84, F|305/305
+|move|p2b: Necrozma|Photon Geyser|p1a: Whiscash
+|-damage|p1a: Whiscash|239/333
+|move|p1a: Whiscash|Muddy Water|p2b: Necrozma|[spread] p2a,p2b
+|-damage|p2a: Vivillon|193/284
+|-damage|p2b: Necrozma|192/259
+|-unboost|p2a: Vivillon|accuracy|1
+|-unboost|p2b: Necrozma|accuracy|1
+|move|p2a: Vivillon|Hurricane|p1b: Mudsdale|[miss]
+|-miss|p2a: Vivillon|p1b: Mudsdale
+|
+|upkeep
+|turn|5
+|
+|t:|1711945625
+|switch|p2a: Malamar|Malamar, L81, F|272/272
+|move|p1b: Mudsdale|High Horsepower|p2b: Necrozma
+|-supereffective|p2b: Necrozma
+|-damage|p2b: Necrozma|24/259
+|-enditem|p2b: Necrozma|Weakness Policy
+|-boost|p2b: Necrozma|atk|2|[from] item: Weakness Policy
+|-boost|p2b: Necrozma|spa|2|[from] item: Weakness Policy
+|move|p1a: Whiscash|Muddy Water|p2a: Malamar|[spread] 
+|-miss|p1a: Whiscash|p2a: Malamar
+|-miss|p1a: Whiscash|p2b: Necrozma
+|move|p2b: Necrozma|Trick Room|p2b: Necrozma
+|-fieldend|move: Trick Room
+|
+|upkeep
+|turn|6
+|
+|t:|1711945648
+|move|p1a: Whiscash|Icy Wind|p2b: Necrozma|[spread] p2a,p2b
+|-resisted|p2b: Necrozma
+|-damage|p2a: Malamar|243/272
+|-damage|p2b: Necrozma|12/259
+|-boost|p2a: Malamar|spe|1
+|-unboost|p2b: Necrozma|spe|1
+|move|p2a: Malamar|Knock Off|p1a: Whiscash
+|-damage|p1a: Whiscash|128/333
+|-enditem|p1a: Whiscash|Sitrus Berry|[from] move: Knock Off|[of] p2a: Malamar
+|move|p1b: Mudsdale|High Horsepower|p2b: Necrozma
+|-supereffective|p2b: Necrozma
+|-damage|p2b: Necrozma|0 fnt
+|faint|p2b: Necrozma
+|
+|upkeep
+|
+|t:|1711945664
+|switch|p2b: Inteleon|Inteleon, L82, M|249/249
+|turn|7
+|
+|t:|1711945688
+|switch|p1b: Shaymin|Shaymin-Sky, L77|253/281
+|move|p2b: Inteleon|Ice Beam|p1b: Shaymin
+|-supereffective|p1b: Shaymin
+|-damage|p1b: Shaymin|0 fnt
+|faint|p1b: Shaymin
+|move|p2a: Malamar|Superpower|p1a: Whiscash
+|-crit|p1a: Whiscash
+|-damage|p1a: Whiscash|0 fnt
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|faint|p1a: Whiscash
+|
+|upkeep
+|
+|t:|1711945714
+|switch|p1b: Glimmora|Glimmora, L78, M|258/258
+|switch|p1a: Masquerain|Masquerain, L88, F|266/266
+|-ability|p1a: Masquerain|Intimidate|boost
+|-boost|p2a: Malamar|atk|1
+|-unboost|p2b: Inteleon|atk|1
+|turn|8
+|
+|t:|1711945733
+|-terastallize|p1a: Masquerain|Water
+|move|p1b: Glimmora|Spiky Shield|p1b: Glimmora
+|-singleturn|p1b: Glimmora|move: Protect
+|move|p2b: Inteleon|Ice Beam|p1a: Masquerain
+|-resisted|p1a: Masquerain
+|-damage|p1a: Masquerain|214/266
+|move|p1a: Masquerain|Bug Buzz|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|-damage|p1a: Masquerain|188/266|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711945746
+|switch|p2a: Vivillon|Vivillon-Elegant, L88, M|193/284
+|turn|9
+|
+|t:|1711945752
+|switch|p2b: Emboar|Emboar, L86, F|329/329
+|move|p2a: Vivillon|Hurricane|p1a: Masquerain
+|-damage|p1a: Masquerain|74/266
+|move|p1a: Masquerain|Quiver Dance|p1a: Masquerain
+|-boost|p1a: Masquerain|spa|1
+|-boost|p1a: Masquerain|spd|1
+|-boost|p1a: Masquerain|spe|1
+|move|p1b: Glimmora|Meteor Beam||[still]
+|-prepare|p1b: Glimmora|Meteor Beam
+|-boost|p1b: Glimmora|spa|1
+|-enditem|p1b: Glimmora|Power Herb
+|-anim|p1b: Glimmora|Meteor Beam|p2a: Vivillon|[miss]
+|-miss|p1b: Glimmora|p2a: Vivillon
+|
+|upkeep
+|turn|10
+|
+|t:|1711945789
+|move|p1a: Masquerain|Hydro Pump|p2a: Vivillon
+|-damage|p2a: Vivillon|0 fnt
+|faint|p2a: Vivillon
+|-damage|p1a: Masquerain|48/266|[from] item: Life Orb
+|move|p1b: Glimmora|Earth Power|p2b: Emboar
+|-supereffective|p2b: Emboar
+|-damage|p2b: Emboar|65/329
+|move|p2b: Emboar|Knock Off|p1a: Masquerain
+|-damage|p1a: Masquerain|0 fnt
+|-enditem|p1a: Masquerain|Life Orb|[from] move: Knock Off|[of] p2b: Emboar
+|faint|p1a: Masquerain
+|
+|upkeep
+|
+|t:|1711945804
+|switch|p2a: Inteleon|Inteleon, L82, M|249/249
+|switch|p1a: Mudsdale|Mudsdale, L84, F|305/305
+|turn|11
+|
+|t:|1711945820
+|-terastallize|p2a: Inteleon|Water
+|move|p1b: Glimmora|Spiky Shield|p1b: Glimmora
+|-singleturn|p1b: Glimmora|move: Protect
+|move|p2a: Inteleon|Scald|p1a: Mudsdale
+|-supereffective|p1a: Mudsdale
+|-damage|p1a: Mudsdale|0 fnt
+|faint|p1a: Mudsdale
+|move|p2b: Emboar|Knock Off|p1b: Glimmora
+|-activate|p1b: Glimmora|move: Protect
+|-damage|p2b: Emboar|24/329|[from] Spiky Shield|[of] p1b: Glimmora
+|
+|upkeep
+|turn|12
+|
+|t:|1711945843
+|move|p2a: Inteleon|Scald|p1b: Glimmora
+|-supereffective|p1b: Glimmora
+|-damage|p1b: Glimmora|0 fnt
+|faint|p1b: Glimmora
+|
+|win|ogtru
+|raw|dippysauce's rating: 1589 &rarr; <strong>1567</strong><br />(-22 for losing)
+|raw|ogtru's rating: 1552 &rarr; <strong>1574</strong><br />(+22 for winning)
+|l|☆dippysauce
+|player|p1|

@@ -1,0 +1,161 @@
+|j|☆lavendergleam♡
+|j|☆ArchenWarrior
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711926688
+|gametype|singles
+|player|p1|lavendergleam♡|concordia|
+|player|p2|ArchenWarrior|proton|
+|teamsize|p1|3
+|teamsize|p2|3
+|gen|9
+|tier|[Gen 9] STABmons
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|VoltTurn Mayhem Mod: Every move that targets a foe causes the user to switch out after use
+|clearpoke
+|poke|p1|Rhydon, F|
+|poke|p1|Raichu, F|
+|poke|p1|Palafin, F|
+|poke|p2|Noivern, F|
+|poke|p2|Snorlax, F|
+|poke|p2|Gholdengo|
+|teampreview
+|j|*Lady Monita ❆
+|j| Cr1pticshot
+|c|☆ArchenWarrior|glhf
+|
+|t:|1711926697
+|start
+|switch|p1a: Rhydon|Rhydon, F|100/100
+|switch|p2a: Noivern|Noivern, F|100/100
+|-item|p1a: Rhydon|Eviolite|[from] ability: Frisk|[of] p2a: Noivern|[identify]
+|turn|1
+|c|☆lavendergleam♡|you too
+|
+|t:|1711926701
+|move|p2a: Noivern|Draco Meteor|p1a: Rhydon
+|-damage|p1a: Rhydon|38/100
+|-unboost|p2a: Noivern|spa|2
+|
+|t:|1711926706
+|switch|p2a: Gholdengo|Gholdengo|100/100|[from] Draco Meteor
+|move|p1a: Rhydon|Stone Axe|p2a: Gholdengo
+|-resisted|p2a: Gholdengo
+|-damage|p2a: Gholdengo|81/100
+|-sidestart|p2: ArchenWarrior|move: Stealth Rock
+|c| Cr1pticshot|raichu representing
+|
+|t:|1711926720
+|switch|p1a: Palafin|Palafin, F|100/100|[from] Stone Axe
+|
+|upkeep
+|turn|2
+|
+|t:|1711926726
+|move|p1a: Palafin|Surging Strikes|p2a: Gholdengo
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|57/100
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|31/100
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|6/100
+|-hitcount|p2a: Gholdengo|3
+|c| Cr1pticshot|the one mode for palafin
+|
+|t:|1711926744
+|detailschange|p1a: Palafin|Palafin-Hero, F
+|switch|p1a: Rhydon|Rhydon, F|38/100|[from] Surging Strikes
+|move|p2a: Gholdengo|Astral Barrage|p1a: Rhydon
+|-damage|p1a: Rhydon|0 fnt
+|faint|p1a: Rhydon
+|
+|t:|1711926749
+|switch|p2a: Noivern|Noivern, F|100/100|[from] Astral Barrage
+|-damage|p2a: Noivern|76/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1711926756
+|switch|p1a: Raichu|Raichu, F|100/100
+|turn|3
+|
+|t:|1711926772
+|move|p1a: Raichu|Fake Out|p2a: Noivern
+|-damage|p2a: Noivern|66/100
+|
+|t:|1711926775
+|switch|p1a: Palafin|Palafin-Hero, F|100/100|[from] Fake Out
+|-activate|p1a: Palafin|ability: Zero to Hero
+|cant|p2a: Noivern|flinch
+|
+|upkeep
+|turn|4
+|c| Cr1pticshot|yea..
+|
+|t:|1711926791
+|-terastallize|p1a: Palafin|Water
+|move|p1a: Palafin|Jet Punch|p2a: Noivern
+|-resisted|p2a: Noivern
+|-damage|p2a: Noivern|14/100
+|
+|t:|1711926796
+|switch|p1a: Raichu|Raichu, F|100/100|[from] Jet Punch
+|move|p2a: Noivern|Draco Meteor|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|-unboost|p2a: Noivern|spa|2
+|faint|p1a: Raichu
+|
+|t:|1711926802
+|switch|p2a: Snorlax|Snorlax, F|100/100|[from] Draco Meteor
+|-damage|p2a: Snorlax|88/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1711926804
+|switch|p1a: Palafin|Palafin-Hero, F, tera:Water|100/100
+|turn|5
+|
+|t:|1711926811
+|move|p2a: Snorlax|Fake Out|p1a: Palafin
+|-damage|p1a: Palafin|70/100
+|
+|t:|1711926815
+|switch|p2a: Gholdengo|Gholdengo|6/100|[from] Fake Out
+|-damage|p2a: Gholdengo|0 fnt|[from] Stealth Rock
+|faint|p2a: Gholdengo
+|cant|p1a: Palafin|flinch
+|
+|upkeep
+|
+|t:|1711926817
+|switch|p2a: Snorlax|Snorlax, F|88/100
+|-damage|p2a: Snorlax|76/100|[from] Stealth Rock
+|turn|6
+|c| Cr1pticshot|ayy
+|
+|t:|1711926827
+|move|p1a: Palafin|Surging Strikes|p2a: Snorlax
+|-crit|p2a: Snorlax
+|-damage|p2a: Snorlax|30/100
+|-crit|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|-hitcount|p2: Snorlax|2
+|
+|upkeep
+|
+|t:|1711926828
+|switch|p2a: Noivern|Noivern, F|14/100
+|-damage|p2a: Noivern|0 fnt|[from] Stealth Rock
+|faint|p2a: Noivern
+|
+|win|lavendergleam♡
+|n|☆lavendergleam♡|lavendergleam
+|n|☆ArchenWarrior|archenwarrior
+|n|*Lady Monita ❆|ladymonita
+|n| Cr1pticshot|cr1pticshot

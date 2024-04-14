@@ -1,0 +1,249 @@
+|j|☆DarkBeast1111111
+|j|☆quiquegd96
+|t:|1711946701
+|gametype|doubles
+|player|p1|DarkBeast1111111|brycenman|1198
+|player|p2|quiquegd96|266|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Trevenant, F|
+|poke|p1|Arboliva, F|
+|poke|p1|Ursaluna-Bloodmoon, M|
+|poke|p1|Whimsicott, M|
+|poke|p1|Exeggutor, F|
+|poke|p2|Kingdra, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Overqwil, F|
+|poke|p2|Archaludon, F|
+|poke|p2|Basculegion-F, F|
+|poke|p2|Gastrodon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by quiquegd96)
+|
+|t:|1711946724
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p1b: Trevenant|Trevenant, F|100/100
+|switch|p2a: Overqwil|Overqwil, F, shiny|100/100
+|switch|p2b: Basculegion|Basculegion-F, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1711946740
+|switch|p2b: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Pelipper
+|move|p2a: Overqwil|Toxic Spikes|p1a: Torkoal
+|-sidestart|p1: DarkBeast1111111|move: Toxic Spikes
+|move|p1a: Torkoal|Earth Power|p2a: Overqwil
+|-supereffective|p2a: Overqwil
+|-damage|p2a: Overqwil|24/100
+|move|p1b: Trevenant|Trick Room|p1b: Trevenant
+|-fieldstart|move: Trick Room|[of] p1b: Trevenant
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711946769
+|switch|p1a: Whimsicott|Whimsicott, M|100/100
+|-status|p1a: Whimsicott|psn
+|move|p1b: Trevenant|Horn Leech|p2b: Pelipper
+|-damage|p2b: Pelipper|70/100
+|move|p2b: Pelipper|Chilling Water|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|87/100 psn
+|-unboost|p1a: Whimsicott|atk|1
+|move|p2a: Overqwil|Toxic Spikes|p1b: Trevenant
+|-sidestart|p1: DarkBeast1111111|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Whimsicott|74/100 psn|[from] psn
+|upkeep
+|turn|3
+|inactive|DarkBeast1111111 has 120 seconds left.
+|inactive|quiquegd96 has 120 seconds left.
+|
+|t:|1711946801
+|move|p1a: Whimsicott|Sunny Day|p1a: Whimsicott
+|-weather|SunnyDay
+|move|p1b: Trevenant|Horn Leech|p2b: Pelipper
+|-damage|p2b: Pelipper|38/100
+|move|p2b: Pelipper|U-turn|p1b: Trevenant
+|-damage|p1b: Trevenant|90/100
+|inactive|quiquegd96 has 120 seconds left.
+|inactive|quiquegd96 has 90 seconds left.
+|
+|t:|1711946846
+|switch|p2b: Basculegion|Basculegion-F, F|100/100|[from] U-turn
+|move|p2a: Overqwil|Barb Barrage|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|DarkBeast1111111 has 120 seconds left.
+|
+|t:|1711946861
+|switch|p1a: Exeggutor|Exeggutor, F|100/100
+|-status|p1a: Exeggutor|tox
+|turn|4
+|
+|t:|1711946867
+|switch|p2b: Pelipper|Pelipper, F, shiny|38/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Pelipper
+|move|p1a: Exeggutor|Giga Drain|p2b: Pelipper
+|-damage|p2b: Pelipper|0 fnt
+|faint|p2b: Pelipper
+|move|p1b: Trevenant|Shadow Claw|p2a: Overqwil
+|-resisted|p2a: Overqwil
+|-damage|p2a: Overqwil|7/100
+|-damage|p1b: Trevenant|74/100|[from] item: Rocky Helmet|[of] p2a: Overqwil
+|move|p2a: Overqwil|Barb Barrage|p1a: Exeggutor
+|-supereffective|p1a: Exeggutor
+|-damage|p1a: Exeggutor|0 fnt
+|faint|p1a: Exeggutor
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|quiquegd96 has 120 seconds left.
+|inactive|quiquegd96 has 90 seconds left.
+|
+|t:|1711946908
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2b: Kingdra|Kingdra, M|100/100
+|-status|p1a: Torkoal|tox
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|5
+|
+|t:|1711946929
+|move|p1a: Torkoal|Helping Hand|p1b: Trevenant
+|-singleturn|p1b: Trevenant|Helping Hand|[of] p1a: Torkoal
+|move|p1b: Trevenant|Horn Leech|p2b: Kingdra
+|-damage|p2b: Kingdra|39/100
+|-heal|p1b: Trevenant|100/100|[from] drain|[of] p2b: Kingdra
+|move|p2b: Kingdra|Hydro Pump|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|6/100 tox
+|move|p2a: Overqwil|Crunch|p1b: Trevenant
+|-supereffective|p1b: Trevenant
+|-damage|p1b: Trevenant|9/100
+|-unboost|p1b: Trevenant|def|1
+|-enditem|p1b: Trevenant|Sitrus Berry|[eat]
+|-heal|p1b: Trevenant|33/100|[from] item: Sitrus Berry
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Torkoal|0 fnt|[from] psn
+|faint|p1a: Torkoal
+|-fieldend|move: Trick Room
+|-item|p1b: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1b: Trevenant|Sitrus Berry|[eat]
+|-heal|p1b: Trevenant|58/100|[from] item: Sitrus Berry
+|
+|t:|1711946941
+|switch|p1a: Arboliva|Arboliva, F|100/100
+|-status|p1a: Arboliva|tox
+|turn|6
+|inactive|quiquegd96 has 120 seconds left.
+|
+|t:|1711946959
+|move|p2a: Overqwil|Barb Barrage|p1a: Arboliva
+|-supereffective|p1a: Arboliva
+|-damage|p1a: Arboliva|0 fnt
+|faint|p1a: Arboliva
+|move|p2b: Kingdra|Hydro Pump|p1b: Trevenant|[miss]
+|-miss|p2b: Kingdra|p1b: Trevenant
+|move|p1b: Trevenant|Trick Room|p1b: Trevenant
+|-fieldstart|move: Trick Room|[of] p1b: Trevenant
+|
+|-weather|SunnyDay|[upkeep]
+|-item|p1b: Trevenant|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1711946966
+|switch|p1a: Ursaluna|Ursaluna-Bloodmoon, M|100/100
+|-status|p1a: Ursaluna|tox
+|turn|7
+|inactive|quiquegd96 has 120 seconds left.
+|
+|t:|1711946996
+|-terastallize|p1a: Ursaluna|Normal
+|move|p1a: Ursaluna|Hyper Voice|p2b: Kingdra|[spread] p2a,p2b
+|-damage|p2a: Overqwil|0 fnt
+|-damage|p2b: Kingdra|0 fnt
+|faint|p2a: Overqwil
+|faint|p2b: Kingdra
+|-enditem|p1a: Ursaluna|Throat Spray
+|-boost|p1a: Ursaluna|spa|1|[from] item: Throat Spray
+|move|p1b: Trevenant|Horn Leech|p2: Overqwil|[notarget]
+|-fail|p1b: Trevenant
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ursaluna|94/100 tox|[from] psn
+|upkeep
+|inactive|quiquegd96 has 120 seconds left.
+|inactive|quiquegd96 has 90 seconds left.
+|
+|t:|1711947032
+|switch|p2b: Basculegion|Basculegion-F, F|100/100
+|switch|p2a: Archaludon|Archaludon, F|100/100
+|turn|8
+|inactive|quiquegd96 has 90 seconds left.
+|inactive|quiquegd96 has 60 seconds left.
+|inactive|quiquegd96 has 30 seconds left.
+|inactive|quiquegd96 has 20 seconds left.
+|inactive|quiquegd96 has 15 seconds left.
+|
+|t:|1711947137
+|-terastallize|p2b: Basculegion|Fairy
+|move|p1a: Ursaluna|Earth Power|p2a: Archaludon
+|-supereffective|p2a: Archaludon
+|-damage|p2a: Archaludon|0 fnt
+|faint|p2a: Archaludon
+|move|p1b: Trevenant|Horn Leech|p2b: Basculegion
+|-crit|p2b: Basculegion
+|-damage|p2b: Basculegion|37/100
+|-heal|p1b: Trevenant|94/100|[from] drain|[of] p2b: Basculegion
+|move|p2b: Basculegion|Tera Blast|p1a: Ursaluna|[anim] Tera Blast Fairy
+|-damage|p1a: Ursaluna|54/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Ursaluna|42/100 tox|[from] psn
+|upkeep
+|inactive|quiquegd96 has 20 seconds left this turn.
+|inactive|quiquegd96 has 15 seconds left.
+|inactive|quiquegd96 has 10 seconds left.
+|
+|t:|1711947152
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|turn|9
+|inactive|quiquegd96 has 30 seconds left.
+|
+|t:|1711947162
+|move|p1a: Ursaluna|Blood Moon|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|move|p1b: Trevenant|Shadow Claw|p2b: Basculegion
+|-damage|p2b: Basculegion|0 fnt
+|faint|p2b: Basculegion
+|
+|win|DarkBeast1111111
+|inactive|quiquegd96 has 30 seconds left this turn.
+|raw|DarkBeast1111111's rating: 1198 &rarr; <strong>1222</strong><br />(+24 for winning)
+|raw|quiquegd96's rating: 1185 &rarr; <strong>1161</strong><br />(-24 for losing)
+|l|☆DarkBeast1111111
+|player|p1|
+|l|☆quiquegd96
+|player|p2|

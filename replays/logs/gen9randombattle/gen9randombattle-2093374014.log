@@ -1,0 +1,464 @@
+|j|☆GiveGum
+|j|☆lNexl
+|t:|1711946611
+|gametype|singles
+|player|p1|GiveGum|1|1309
+|player|p2|lNexl|2|1359
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946611
+|start
+|switch|p1a: Hoopa|Hoopa, L85|275/275
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GiveGum)
+|
+|t:|1711946638
+|move|p1a: Hoopa|Trick|p2a: Perrserker
+|-activate|p1a: Hoopa|move: Trick|[of] p2a: Perrserker
+|-item|p2a: Perrserker|Choice Scarf|[from] move: Trick
+|-item|p1a: Hoopa|Life Orb|[from] move: Trick
+|move|p2a: Perrserker|U-turn|p1a: Hoopa
+|-damage|p1a: Hoopa|192/275
+|
+|t:|1711946650
+|switch|p2a: Shiftry|Shiftry, L89, F|305/305|[from] U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1711946669
+|switch|p1a: Illumise|Illumise, L91, F|266/266
+|move|p2a: Shiftry|Knock Off|p1a: Illumise
+|-damage|p1a: Illumise|102/266
+|-enditem|p1a: Illumise|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Shiftry
+|-damage|p2a: Shiftry|275/305|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1711946690
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|235/266
+|-singleturn|p1a: Illumise|move: Roost
+|
+|upkeep
+|turn|4
+|inactive|lNexl has 120 seconds left.
+|
+|t:|1711946718
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Illumise
+|-unboost|p1a: Illumise|atk|1
+|-unboost|p1a: Illumise|spa|1
+|inactive|lNexl has 120 seconds left.
+|
+|t:|1711946743
+|switch|p2a: Granbull|Granbull, L88, M|302/302|[from] Parting Shot
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Illumise|atk|1
+|move|p1a: Illumise|Bug Buzz|p2a: Granbull
+|-resisted|p2a: Granbull
+|-damage|p2a: Granbull|264/302
+|
+|-heal|p2a: Granbull|282/302|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946755
+|-terastallize|p2a: Granbull|Ground
+|move|p1a: Illumise|Thunder Wave|p2a: Granbull
+|-immune|p2a: Granbull
+|move|p2a: Granbull|Thunder Wave|p1a: Illumise
+|-status|p1a: Illumise|par
+|
+|-heal|p2a: Granbull|300/302|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711946769
+|cant|p1a: Illumise|par
+|move|p2a: Granbull|Earthquake|p1a: Illumise
+|-resisted|p1a: Illumise
+|-crit|p1a: Illumise
+|-damage|p1a: Illumise|126/266 par
+|
+|-heal|p2a: Granbull|302/302|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711946776
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|259/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Granbull|Encore|p1a: Illumise
+|-start|p1a: Illumise|Encore
+|
+|upkeep
+|turn|8
+|
+|t:|1711946795
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|cant|p1a: Illumise|par
+|
+|upkeep
+|turn|9
+|
+|t:|1711946805
+|move|p1a: Illumise|Roost|p1a: Illumise
+|-heal|p1a: Illumise|266/266 par
+|-singleturn|p1a: Illumise|move: Roost
+|move|p2a: Perrserker|Stealth Rock|p1a: Illumise
+|-sidestart|p1: GiveGum|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1711946823
+|switch|p2a: Granbull|Granbull, L88, M, tera:Ground|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Illumise|atk|1
+|cant|p1a: Illumise|par
+|
+|-end|p1a: Illumise|Encore
+|upkeep
+|turn|11
+|
+|t:|1711946832
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|move|p2a: Granbull|Encore||[still]
+|-fail|p2a: Granbull
+|
+|upkeep
+|turn|12
+|
+|t:|1711946847
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|move|p2a: Granbull|Encore||[still]
+|-fail|p2a: Granbull
+|
+|upkeep
+|turn|13
+|
+|t:|1711946857
+|move|p1a: Illumise|Encore||[still]
+|-fail|p1a: Illumise
+|move|p2a: Granbull|Play Rough|p1a: Illumise
+|-damage|p1a: Illumise|145/266 par
+|
+|upkeep
+|turn|14
+|
+|t:|1711946873
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|move|p1a: Illumise|Encore|p2a: Grimmsnarl
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Grimmsnarl
+|
+|upkeep
+|turn|15
+|
+|t:|1711946880
+|move|p2a: Grimmsnarl|Taunt|p1a: Illumise
+|-start|p1a: Illumise|move: Taunt
+|move|p1a: Illumise|Bug Buzz|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|221/293
+|
+|-heal|p2a: Grimmsnarl|239/293|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711946887
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Illumise
+|-damage|p1a: Illumise|42/266 par
+|-unboost|p1a: Illumise|spa|1
+|move|p1a: Illumise|Bug Buzz|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|190/293
+|
+|-heal|p2a: Grimmsnarl|208/293|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|lNexl has 120 seconds left.
+|
+|t:|1711946901
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Illumise
+|-damage|p1a: Illumise|0 fnt
+|faint|p1a: Illumise
+|
+|-heal|p2a: Grimmsnarl|226/293|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946905
+|switch|p1a: Ariados|Ariados, L94, M|284/284
+|turn|18
+|
+|t:|1711946909
+|move|p2a: Grimmsnarl|Taunt|p1a: Ariados
+|-start|p1a: Ariados|move: Taunt
+|cant|p1a: Ariados|move: Taunt|Sticky Web
+|
+|-heal|p2a: Grimmsnarl|244/293|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711946919
+|switch|p2a: Granbull|Granbull, L88, M, tera:Ground|302/302
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Ariados|atk|1
+|move|p1a: Ariados|Poison Jab|p2a: Granbull
+|-resisted|p2a: Granbull
+|-damage|p2a: Granbull|266/302
+|-status|p2a: Granbull|psn
+|
+|-heal|p2a: Granbull|284/302 psn|[from] item: Leftovers
+|-damage|p2a: Granbull|247/302 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711946931
+|switch|p1a: Glaceon|Glaceon, L94, F|275/275
+|move|p2a: Granbull|Earthquake|p1a: Glaceon
+|-damage|p1a: Glaceon|178/275
+|
+|-heal|p2a: Granbull|265/302 psn|[from] item: Leftovers
+|-damage|p2a: Granbull|228/302 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1711946939
+|switch|p2a: Perrserker|Perrserker, L89, M|269/269
+|move|p1a: Glaceon|Freeze-Dry|p2a: Perrserker
+|-resisted|p2a: Perrserker
+|-damage|p2a: Perrserker|203/269
+|
+|upkeep
+|turn|22
+|
+|t:|1711946946
+|move|p2a: Perrserker|Iron Head|p1a: Glaceon
+|-supereffective|p1a: Glaceon
+|-damage|p1a: Glaceon|0 fnt
+|faint|p1a: Glaceon
+|
+|upkeep
+|
+|t:|1711946949
+|switch|p1a: Ariados|Ariados, L94, M|284/284
+|turn|23
+|
+|t:|1711946953
+|move|p2a: Perrserker|Iron Head|p1a: Ariados
+|-damage|p1a: Ariados|116/284
+|move|p1a: Ariados|Sticky Web|p2a: Perrserker
+|-sidestart|p2: lNexl|move: Sticky Web
+|
+|upkeep
+|turn|24
+|
+|t:|1711946957
+|move|p2a: Perrserker|Iron Head|p1a: Ariados
+|-damage|p1a: Ariados|0 fnt
+|faint|p1a: Ariados
+|
+|upkeep
+|
+|t:|1711946962
+|switch|p1a: Annihilape|Annihilape, L76, M|292/292
+|-damage|p1a: Annihilape|274/292|[from] Stealth Rock
+|turn|25
+|
+|t:|1711946972
+|switch|p2a: Granbull|Granbull, L88, M, tera:Ground|228/302 psn
+|-activate|p2a: Granbull|move: Sticky Web
+|-unboost|p2a: Granbull|spe|1
+|-ability|p2a: Granbull|Intimidate|boost
+|-unboost|p1a: Annihilape|atk|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|
+|-heal|p1a: Annihilape|292/292|[from] item: Leftovers
+|-heal|p2a: Granbull|246/302 psn|[from] item: Leftovers
+|-damage|p2a: Granbull|209/302 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1711946986
+|move|p1a: Annihilape|Drain Punch|p2a: Granbull
+|-damage|p2a: Granbull|53/302 psn
+|move|p2a: Granbull|Thunder Wave|p1a: Annihilape
+|-status|p1a: Annihilape|par
+|
+|-heal|p2a: Granbull|71/302 psn|[from] item: Leftovers
+|-damage|p2a: Granbull|34/302 psn|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1711946997
+|move|p1a: Annihilape|Drain Punch|p2a: Granbull
+|-damage|p2a: Granbull|0 fnt
+|faint|p2a: Granbull
+|
+|upkeep
+|
+|t:|1711947017
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|244/293
+|-activate|p2a: Grimmsnarl|move: Sticky Web
+|-unboost|p2a: Grimmsnarl|spe|1
+|turn|28
+|
+|t:|1711947024
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|146/292 par
+|-unboost|p1a: Annihilape|spa|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|move|p1a: Annihilape|Taunt|p2a: Grimmsnarl
+|-start|p2a: Grimmsnarl|move: Taunt
+|
+|-heal|p2a: Grimmsnarl|262/293|[from] item: Leftovers
+|-heal|p1a: Annihilape|164/292 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711947034
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Annihilape
+|-supereffective|p1a: Annihilape
+|-damage|p1a: Annihilape|26/292 par
+|-unboost|p1a: Annihilape|spa|1
+|-ability|p1a: Annihilape|Defiant|boost
+|-boost|p1a: Annihilape|atk|2
+|move|p1a: Annihilape|Drain Punch|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|-heal|p1a: Annihilape|157/292 par|[from] drain|[of] p2a: Grimmsnarl
+|faint|p2a: Grimmsnarl
+|
+|-heal|p1a: Annihilape|175/292 par|[from] item: Leftovers
+|upkeep
+|inactive|lNexl has 120 seconds left.
+|
+|t:|1711947076
+|switch|p2a: Barraskewda|Barraskewda, L81, F|231/231
+|-activate|p2a: Barraskewda|move: Sticky Web
+|-unboost|p2a: Barraskewda|spe|1
+|turn|30
+|
+|t:|1711947083
+|move|p2a: Barraskewda|Waterfall|p1a: Annihilape
+|-damage|p1a: Annihilape|54/292 par
+|move|p1a: Annihilape|Rage Fist|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Annihilape|72/292 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947093
+|switch|p2a: Seviper|Seviper, L93, F|287/287
+|-activate|p2a: Seviper|move: Sticky Web
+|-unboost|p2a: Seviper|spe|1
+|turn|31
+|
+|t:|1711947099
+|move|p2a: Seviper|Trailblaze|p1a: Annihilape
+|-damage|p1a: Annihilape|37/292 par
+|-boost|p2a: Seviper|spe|1
+|move|p1a: Annihilape|Rage Fist|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|
+|-heal|p1a: Annihilape|55/292 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1711947108
+|switch|p2a: Perrserker|Perrserker, L89, M|203/269
+|-activate|p2a: Perrserker|move: Sticky Web
+|-unboost|p2a: Perrserker|spe|1
+|turn|32
+|
+|t:|1711947119
+|move|p2a: Perrserker|Iron Head|p1a: Annihilape
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|
+|upkeep
+|
+|t:|1711947123
+|switch|p1a: Hoopa|Hoopa, L85|192/275
+|-damage|p1a: Hoopa|158/275|[from] Stealth Rock
+|turn|33
+|
+|t:|1711947128
+|move|p1a: Hoopa|Focus Blast|p2a: Perrserker|[miss]
+|-miss|p1a: Hoopa|p2a: Perrserker
+|move|p2a: Perrserker|Iron Head|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1711947131
+|switch|p1a: Chansey|Chansey, L85, F|564/564
+|-damage|p1a: Chansey|494/564|[from] Stealth Rock
+|turn|34
+|inactive|lNexl has 120 seconds left.
+|
+|t:|1711947142
+|switch|p2a: Shiftry|Shiftry, L89, F|275/305
+|-activate|p2a: Shiftry|move: Sticky Web
+|-unboost|p2a: Shiftry|spe|1
+|move|p1a: Chansey|Thunder Wave|p2a: Shiftry
+|-status|p2a: Shiftry|par
+|
+|upkeep
+|turn|35
+|
+|t:|1711947150
+|move|p1a: Chansey|Seismic Toss|p2a: Shiftry
+|-damage|p2a: Shiftry|190/305 par
+|move|p2a: Shiftry|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|150/564
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Shiftry
+|-damage|p2a: Shiftry|160/305 par|[from] item: Life Orb
+|
+|upkeep
+|turn|36
+|
+|t:|1711947161
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|432/564
+|move|p2a: Shiftry|Tailwind|p2a: Shiftry
+|-sidestart|p2: lNexl|move: Tailwind
+|-ability|p2a: Shiftry|Wind Rider|boost
+|-boost|p2a: Shiftry|atk|1
+|
+|upkeep
+|turn|37
+|
+|t:|1711947169
+|move|p1a: Chansey|Seismic Toss|p2a: Shiftry
+|-damage|p2a: Shiftry|75/305 par
+|move|p2a: Shiftry|Low Kick|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|-damage|p2a: Shiftry|45/305 par|[from] item: Life Orb
+|
+|win|lNexl
+|raw|GiveGum's rating: 1309 &rarr; <strong>1292</strong><br />(-17 for losing)
+|raw|lNexl's rating: 1359 &rarr; <strong>1376</strong><br />(+17 for winning)
+|l|☆GiveGum
+|player|p1|

@@ -1,0 +1,123 @@
+p1: Switched to Hawlucha
+p2: Switched to Relicanth
+Turn 1:
+p1: Hawlucha used Swords Dance on Hawlucha
+p2: Relicanth used Yawn on Hawlucha
+Turn 2:
+p1: Switched to Milotic
+p2: Switched to Slowbro
+Turn 3:
+p1: Milotic used Toxic on Slowbro
+p2: Slowbro used Future Sight on Milotic
+Turn 4:
+p1: Milotic used Scald on Slowbro
+p2: Slowbro used Teleport on Slowbro
+p2: Switched to Delibird
+Turn 5:
+p1: Switched to Steelix
+p2: Delibird used Spikes on Steelix
+Turn 6:
+p2: Delibird used Spikes on Steelix
+p1: Steelix used Dragon Dance on Steelix
+Turn 7:
+p2: Switched to Slowbro
+p1: Steelix used Dragon Dance on Steelix
+Turn 8:
+p1: Steelix used Max Quake on Slowbro
+p2: Slowbro used Scald on Steelix
+Turn 9:
+p2: Switched to Noivern
+p1: Steelix used Max Quake on Noivern
+Turn 10:
+p2: Noivern used Flamethrower on Steelix
+p1: Steelix used Max Rockfall on Noivern
+Turn 11:
+p2: Noivern used Flamethrower on Steelix
+p1: Steelix used Heavy Slam on Noivern
+p2: Noivern fainted
+p2: Switched to Froslass
+Turn 12:
+p2: Froslass used Triple Axel on Steelix
+p1: Steelix fainted
+p1: Switched to Audino
+Turn 13:
+p2: Froslass used Taunt on Audino
+p1: Audino used Knock Off on Froslass
+Turn 14:
+p2: Froslass used Destiny Bond on Froslass
+p1: Audino used Knock Off on Froslass
+p2: Froslass fainted
+p1: Audino fainted
+p2: Switched to Slowbro
+p1: Switched to Jirachi
+Turn 15:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro used Slack Off on Slowbro
+Turn 16:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro can't move
+Turn 17:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro used Scald on Jirachi
+Turn 18:
+p2: Switched to Relicanth
+p1: Jirachi used Iron Head on Relicanth
+Turn 19:
+p2: Switched to Slowbro
+p1: Jirachi used Toxic on Slowbro
+Turn 20:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro can't move
+Turn 21:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro can't move
+Turn 22:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro used Slack Off on Slowbro
+Turn 23:
+p1: Jirachi used Stealth Rock on Slowbro
+p2: Slowbro used Scald on Jirachi
+Turn 24:
+p1: Jirachi used Iron Head on Slowbro
+p2: Slowbro can't move
+Turn 25:
+p2: Switched to Relicanth
+p1: Jirachi used Iron Head on Relicanth
+Turn 26:
+p1: Jirachi used Toxic on Relicanth
+p2: Relicanth used Liquidation on Jirachi
+Turn 27:
+p1: Jirachi used Iron Head on Relicanth
+p2: Relicanth can't move
+Turn 28:
+p1: Jirachi used Iron Head on Relicanth
+p2: Relicanth can't move
+Turn 29:
+p1: Jirachi used Iron Head on Relicanth
+p2: Relicanth used Liquidation on Jirachi
+Turn 30:
+p1: Jirachi used Iron Head on Relicanth
+p2: Relicanth used Liquidation on Jirachi
+p1: Jirachi fainted
+p2: Relicanth fainted
+p1: Switched to Lycanroc-Midnight
+p2: Switched to Delibird
+Turn 31:
+p2: Delibird used Memento on Lycanroc-Midnight
+p2: Delibird fainted
+p1: Lycanroc-Midnight used Stone Edge on p2: Delibird
+p2: Switched to Shiftry
+Turn 32:
+p2: Shiftry used Nasty Plot on Shiftry
+p1: Lycanroc-Midnight used Close Combat on Shiftry
+Turn 33:
+p2: Shiftry used Max Flare on Lycanroc-Midnight
+p1: Lycanroc-Midnight fainted
+p1: Switched to Hawlucha
+Turn 34:
+p2: Shiftry used Max Flare on Hawlucha
+p1: Hawlucha fainted
+p1: Switched to Milotic
+Turn 35:
+p2: Shiftry used Max Overgrowth on Milotic
+p1: Milotic fainted

@@ -1,0 +1,50 @@
+p1: Switched to Conkeldurr
+p2: Switched to Tyranitar
+Turn 1:
+p2: Switched to Swellow
+p1: Conkeldurr used Drain Punch on Swellow
+p2: Swellow fainted
+p2: Switched to Reuniclus
+Turn 2:
+p1: Switched to Stoutland
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 3:
+p1: Stoutland used Crunch on Reuniclus
+p2: Reuniclus used Psychic on Stoutland
+Turn 4:
+p2: Switched to Dusclops
+p1: Stoutland used Crunch on Dusclops
+Turn 5:
+p1: Stoutland used Crunch on Dusclops
+p2: Dusclops fainted
+p2: Switched to Tyranitar
+Turn 6:
+p1: Switched to Conkeldurr
+p2: Tyranitar used Dragon Dance on Tyranitar
+Turn 7:
+p1: Conkeldurr used Mach Punch on Tyranitar
+p2: Tyranitar fainted
+p2: Switched to Darkrai
+Turn 8:
+p1: Conkeldurr used Mach Punch on Darkrai
+p2: Darkrai fainted
+p2: Switched to Reuniclus
+Turn 9:
+p1: Switched to Gliscor
+p2: Reuniclus used Recover on Reuniclus
+Turn 10:
+p1: Gliscor used Toxic on Reuniclus
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 11:
+p1: Gliscor used Facade on Reuniclus
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 12:
+p1: Gliscor used Facade on Reuniclus
+p2: Reuniclus fainted
+p2: Switched to Whiscash
+Turn 13:
+p1: Switched to Virizion
+p2: Whiscash used Stone Edge on Virizion
+Turn 14:
+p1: Virizion used Leaf Blade on Whiscash
+p2: Whiscash fainted

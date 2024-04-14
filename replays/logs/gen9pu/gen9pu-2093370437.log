@@ -1,0 +1,272 @@
+|j|☆GG WENTWORTH
+|j|☆Dragonlobster16
+|t:|1711946022
+|gametype|singles
+|player|p1|GG WENTWORTH|petrel|1100
+|player|p2|Dragonlobster16|ghetsis|1118
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Morpeko, F|
+|poke|p1|Scyther, F|
+|poke|p1|Decidueye-Hisui, M|
+|poke|p1|Charizard, M|
+|poke|p1|Lapras, M|
+|poke|p1|Hoopa|
+|poke|p2|Zangoose, F|
+|poke|p2|Sandslash-Alola, M|
+|poke|p2|Marshtomp, M|
+|poke|p2|Electrode-Hisui|
+|poke|p2|Mismagius, M|
+|poke|p2|Regirock|
+|teampreview
+|
+|t:|1711946034
+|start
+|switch|p1a: Lawful Hood🏰🏹|Decidueye-Hisui, M, shiny|100/100
+|switch|p2a: Regirock|Regirock|100/100
+|turn|1
+|
+|t:|1711946044
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-crit|p2a: Regirock
+|-damage|p2a: Regirock|35/100
+|-unboost|p2a: Regirock|def|1
+|cant|p2a: Regirock|flinch
+|
+|upkeep
+|turn|2
+|c|☆GG WENTWORTH|I'm so sorry
+|
+|t:|1711946059
+|switch|p2a: Mismagius|Mismagius, M, shiny|100/100
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2a: Mismagius
+|-damage|p2a: Mismagius|33/100
+|-unboost|p2a: Mismagius|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711946067
+|move|p2a: Mismagius|Draining Kiss|p1a: Lawful Hood🏰🏹
+|-supereffective|p1a: Lawful Hood🏰🏹
+|-damage|p1a: Lawful Hood🏰🏹|63/100
+|-heal|p2a: Mismagius|71/100|[from] drain|[of] p1a: Lawful Hood🏰🏹
+|-damage|p2a: Mismagius|61/100|[from] item: Life Orb
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|
+|upkeep
+|
+|t:|1711946082
+|switch|p2a: Zangoose|Zangoose, F, shiny|100/100
+|turn|4
+|
+|t:|1711946086
+|move|p2a: Zangoose|Protect|p2a: Zangoose
+|-singleturn|p2a: Zangoose|Protect
+|move|p1a: Lawful Hood🏰🏹|Triple Arrows|p2a: Zangoose
+|-activate|p2a: Zangoose|move: Protect
+|
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|5
+|
+|t:|1711946094
+|switch|p1a: HOL ON PLAYA 📋👔|Hoopa|100/100
+|move|p2a: Zangoose|Facade|p1a: HOL ON PLAYA 📋👔
+|-immune|p1a: HOL ON PLAYA 📋👔
+|
+|-damage|p2a: Zangoose|95/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711946102
+|move|p1a: HOL ON PLAYA 📋👔|Psychic|p2a: Zangoose
+|-damage|p2a: Zangoose|7/100 tox
+|move|p2a: Zangoose|Knock Off|p1a: HOL ON PLAYA 📋👔
+|-supereffective|p1a: HOL ON PLAYA 📋👔
+|-damage|p1a: HOL ON PLAYA 📋👔|0 fnt
+|-enditem|p1a: HOL ON PLAYA 📋👔|Choice Scarf|[from] move: Knock Off|[of] p2a: Zangoose
+|faint|p1a: HOL ON PLAYA 📋👔
+|
+|-damage|p2a: Zangoose|0 fnt|[from] psn
+|faint|p2a: Zangoose
+|upkeep
+|
+|t:|1711946114
+|switch|p2a: Electrode|Electrode-Hisui, shiny|100/100
+|switch|p1a: Lawful Hood🏰🏹|Decidueye-Hisui, M, shiny|63/100
+|turn|7
+|
+|t:|1711946121
+|-terastallize|p2a: Electrode|Ice
+|move|p2a: Electrode|Tera Blast|p1a: Lawful Hood🏰🏹|[anim] Tera Blast Ice
+|-supereffective|p1a: Lawful Hood🏰🏹
+|-damage|p1a: Lawful Hood🏰🏹|0 fnt
+|faint|p1a: Lawful Hood🏰🏹
+|
+|upkeep
+|
+|t:|1711946129
+|switch|p1a: $PECIAL K 📦|Charizard, M|100/100
+|turn|8
+|
+|t:|1711946135
+|switch|p2a: Regirock|Regirock|35/100
+|move|p1a: $PECIAL K 📦|Flamethrower|p2a: Regirock
+|-resisted|p2a: Regirock
+|-damage|p2a: Regirock|16/100
+|
+|upkeep
+|turn|9
+|-enditem|p2a: Regirock|Custap Berry|[eat]
+|-activate|p2a: Regirock|item: Custap Berry|[consumed]
+|
+|t:|1711946151
+|move|p2a: Regirock|Rock Slide|p1a: $PECIAL K 📦
+|-supereffective|p1a: $PECIAL K 📦
+|-enditem|p1a: $PECIAL K 📦|Focus Sash
+|-damage|p1a: $PECIAL K 📦|1/100
+|move|p1a: $PECIAL K 📦|Scorching Sands|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|0 fnt
+|faint|p2a: Regirock
+|
+|upkeep
+|
+|t:|1711946162
+|switch|p2a: Electrode|Electrode-Hisui, shiny, tera:Ice|100/100
+|turn|10
+|
+|t:|1711946168
+|move|p2a: Electrode|Volt Switch|p1a: $PECIAL K 📦
+|-supereffective|p1a: $PECIAL K 📦
+|-damage|p1a: $PECIAL K 📦|0 fnt
+|faint|p1a: $PECIAL K 📦
+|
+|t:|1711946173
+|switch|p2a: Marshtomp|Marshtomp, M, shiny|100/100|[from] Volt Switch
+|
+|upkeep
+|
+|t:|1711946178
+|switch|p1a: Iron Scythe 💀🗡️|Scyther, F, shiny|100/100
+|turn|11
+|
+|t:|1711946186
+|move|p1a: Iron Scythe 💀🗡️|Trailblaze|p2a: Marshtomp
+|-supereffective|p2a: Marshtomp
+|-damage|p2a: Marshtomp|13/100
+|-boost|p1a: Iron Scythe 💀🗡️|spe|1
+|move|p2a: Marshtomp|Ice Punch|p1a: Iron Scythe 💀🗡️
+|-supereffective|p1a: Iron Scythe 💀🗡️
+|-damage|p1a: Iron Scythe 💀🗡️|68/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711946196
+|move|p1a: Iron Scythe 💀🗡️|Trailblaze|p2a: Marshtomp
+|-supereffective|p2a: Marshtomp
+|-damage|p2a: Marshtomp|0 fnt
+|-boost|p1a: Iron Scythe 💀🗡️|spe|1
+|faint|p2a: Marshtomp
+|
+|upkeep
+|
+|t:|1711946204
+|switch|p2a: Electrode|Electrode-Hisui, shiny, tera:Ice|100/100
+|turn|13
+|
+|t:|1711946260
+|move|p1a: Iron Scythe 💀🗡️|Dual Wingbeat|p2a: Electrode
+|-damage|p2a: Electrode|42/100
+|-damage|p2a: Electrode|0 fnt
+|faint|p2a: Electrode
+|-hitcount|p2: Electrode|2
+|
+|upkeep
+|
+|t:|1711946267
+|switch|p2a: Sandslash|Sandslash-Alola, M, shiny|100/100
+|turn|14
+|
+|t:|1711946271
+|move|p1a: Iron Scythe 💀🗡️|Dual Wingbeat|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-damage|p2a: Sandslash|86/100
+|-resisted|p2a: Sandslash
+|-damage|p2a: Sandslash|71/100
+|-hitcount|p2a: Sandslash|2
+|move|p2a: Sandslash|Triple Axel|p1a: Iron Scythe 💀🗡️
+|-supereffective|p1a: Iron Scythe 💀🗡️
+|-damage|p1a: Iron Scythe 💀🗡️|51/100
+|-supereffective|p1a: Iron Scythe 💀🗡️
+|-damage|p1a: Iron Scythe 💀🗡️|16/100
+|-supereffective|p1a: Iron Scythe 💀🗡️
+|-damage|p1a: Iron Scythe 💀🗡️|0 fnt
+|faint|p1a: Iron Scythe 💀🗡️
+|-hitcount|p1: Iron Scythe 💀🗡️|3
+|
+|-heal|p2a: Sandslash|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946279
+|switch|p1a: TORPEDO ➖💥|Morpeko, F|100/100
+|turn|15
+|
+|t:|1711946293
+|move|p1a: TORPEDO ➖💥|Fake Out|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-damage|p2a: Sandslash|73/100
+|cant|p2a: Sandslash|flinch
+|
+|-heal|p2a: Sandslash|79/100|[from] item: Leftovers
+|-formechange|p1a: TORPEDO ➖💥|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|16
+|
+|t:|1711946305
+|move|p1a: TORPEDO ➖💥|Charge Beam|p2a: Sandslash
+|-damage|p2a: Sandslash|51/100
+|-boost|p1a: TORPEDO ➖💥|spa|1
+|move|p2a: Sandslash|Earthquake|p1a: TORPEDO ➖💥
+|-supereffective|p1a: TORPEDO ➖💥
+|-damage|p1a: TORPEDO ➖💥|0 fnt
+|faint|p1a: TORPEDO ➖💥
+|
+|-heal|p2a: Sandslash|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711946315
+|switch|p1a: LAPASAURUS REX🦖|Lapras, M|100/100
+|turn|17
+|
+|t:|1711946324
+|-terastallize|p1a: LAPASAURUS REX🦖|Ground
+|move|p2a: Sandslash|Swords Dance|p2a: Sandslash
+|-boost|p2a: Sandslash|atk|2
+|move|p1a: LAPASAURUS REX🦖|Earthquake|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-crit|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|
+|win|GG WENTWORTH
+|raw|GG WENTWORTH's rating: 1100 &rarr; <strong>1126</strong><br />(+26 for winning)
+|raw|Dragonlobster16's rating: 1118 &rarr; <strong>1092</strong><br />(-26 for losing)
+|l|☆Dragonlobster16
+|player|p2|

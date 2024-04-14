@@ -1,0 +1,83 @@
+p1: Switched to Infernape
+p2: Switched to Muk-Alola
+Turn 1:
+p1: Infernape used Stealth Rock on Muk-Alola
+p2: Muk-Alola used Poison Jab on Infernape
+Turn 2:
+p1: Infernape used Endeavor on Muk-Alola
+p2: Muk-Alola used Poison Jab on Infernape
+p1: Infernape fainted
+p1: Switched to Minior
+Turn 3:
+p1: Minior used Earthquake on Muk-Alola
+p2: Muk-Alola fainted
+p2: Switched to Rhyperior
+Turn 4:
+p1: Switched to Shaymin
+p2: Rhyperior used Stealth Rock on Shaymin
+Turn 5:
+p2: Switched to Altaria
+p1: Shaymin used Seed Flare on Altaria
+Turn 6:
+p1: Shaymin used Seed Flare on Altaria
+p2: Altaria used Brave Bird on Shaymin
+Turn 7:
+p2: Switched to Slowbro
+p1: Shaymin used Seed Flare on Slowbro
+Turn 8:
+p2: Switched to Altaria
+p1: Shaymin used Seed Flare on Altaria
+Turn 9:
+p1: Switched to Grimmsnarl
+p2: Altaria used Roost on Altaria
+Turn 10:
+p2: Altaria used Will-O-Wisp on Grimmsnarl
+p1: Grimmsnarl used Spirit Break on Altaria
+Turn 11:
+p2: Switched to Rhyperior
+p1: Grimmsnarl used Reflect on Grimmsnarl
+Turn 12:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Rhyperior used Iron Defense on Rhyperior
+Turn 13:
+p1: Grimmsnarl used Parting Shot on Rhyperior
+p1: Switched to Shaymin
+p2: Rhyperior used Body Press on Shaymin
+p1: Shaymin fainted
+p1: Switched to Mew
+Turn 14:
+p2: Switched to Sylveon
+p1: Mew used Nasty Plot on Mew
+Turn 15:
+p1: Mew used Psyshock on Sylveon
+p2: Sylveon used Roar on Mew
+Turn 16:
+p2: Switched to Arcanine
+p1: p1a: Talonflame used Defog on Arcanine
+Turn 17:
+p1: Switched to Grimmsnarl
+p2: Arcanine used Curse on Arcanine
+Turn 18:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Arcanine used Curse on Arcanine
+Turn 19:
+p1: Grimmsnarl used Parting Shot on Arcanine
+p1: Switched to Minior
+p2: Arcanine used Curse on Arcanine
+Turn 20:
+p1: Minior used Shell Smash on Minior
+p2: Arcanine used Curse on Arcanine
+Turn 21:
+p1: Minior used Rock Slide on Arcanine
+p2: Arcanine used Curse on Arcanine
+Turn 22:
+p1: Minior used Earthquake on Arcanine
+p2: Arcanine used Morning Sun on Arcanine
+Turn 23:
+p1: Minior used Shell Smash on Minior
+p2: Arcanine used Flare Blitz on Minior
+p1: Minior fainted
+p1: Switched to Talonflame
+Turn 24:
+p2: Arcanine used Extreme Speed on Talonflame
+p1: Talonflame fainted

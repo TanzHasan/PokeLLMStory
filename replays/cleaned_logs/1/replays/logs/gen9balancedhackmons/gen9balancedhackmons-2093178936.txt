@@ -1,0 +1,40 @@
+p1: Switched to Cosmoem
+p2: Switched to Quaquaval
+Turn 1:
+p2: Quaquaval used Swords Dance on Quaquaval
+p1: Cosmoem used Bulk Up on Cosmoem
+Turn 2:
+p2: Quaquaval used Swords Dance on Quaquaval
+p1: Cosmoem used Bulk Up on Cosmoem
+Turn 3:
+p2: Quaquaval used Liquidation on Cosmoem
+p1: Cosmoem used Bulk Up on Cosmoem
+Turn 4:
+p2: Quaquaval used Liquidation on Cosmoem
+p1: Cosmoem used Astral Barrage on Quaquaval
+Turn 5:
+p2: Quaquaval used Liquidation on Cosmoem
+p1: Cosmoem fainted
+p1: Switched to Orbeetle
+Turn 6:
+p2: Quaquaval used Liquidation on Orbeetle
+p1: Orbeetle used Psychic on Quaquaval
+Turn 7:
+p2: Quaquaval used Liquidation on Orbeetle
+p1: Orbeetle fainted
+p1: Switched to Typhlosion-Hisui
+Turn 8:
+p2: Quaquaval used Liquidation on Typhlosion-Hisui
+p1: Typhlosion-Hisui fainted
+p1: Switched to Urshifu-Rapid-Strike
+Turn 9:
+p2: Quaquaval used Close Combat on Urshifu-Rapid-Strike
+p1: Urshifu-Rapid-Strike fainted
+p1: Switched to Maushold-Four
+Turn 10:
+p2: Quaquaval used Liquidation on Maushold-Four
+p1: Maushold-Four fainted
+p1: Switched to Brute Bonnet
+Turn 11:
+p2: Quaquaval used Close Combat on Brute Bonnet
+p1: Brute Bonnet fainted

@@ -1,0 +1,393 @@
+|j|☆trick or dies!
+|j|☆Spammernoob
+|t:|1711898137
+|gametype|singles
+|player|p1|trick or dies!|barry|
+|player|p2|Spammernoob|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Meowscarada, F|
+|poke|p1|Hemogoblin, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kyurem|
+|poke|p1|Heatran, M|
+|poke|p1|Great Tusk|
+|poke|p2|Raging Bolt|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Kingambit, M|
+|poke|p2|Mollux, M|
+|poke|p2|Equilibra|
+|teampreview
+|j|@Da Pizza Man
+|c|☆Spammernoob|oh no
+|c|☆trick or dies!|gooluck
+|c|☆Spammernoob|u2
+|
+|t:|1711898178
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Equilibra|Equilibra|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|1
+|
+|t:|1711898185
+|move|p1a: Kyurem|Ice Beam|p2a: Equilibra
+|-damage|p2a: Equilibra|77/100
+|move|p2a: Equilibra|Flash Cannon|p1a: Kyurem
+|-supereffective|p1a: Kyurem
+|-damage|p1a: Kyurem|31/100
+|
+|-heal|p2a: Equilibra|83/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711898198
+|switch|p1a: Meowscarada|Meowscarada, F|100/100
+|move|p2a: Equilibra|Rapid Spin|p1a: Meowscarada
+|-damage|p1a: Meowscarada|92/100
+|-boost|p2a: Equilibra|spe|1
+|
+|-heal|p2a: Equilibra|89/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711898207
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Meowscarada|Knock Off|p2a: Pelipper
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Pelipper|52/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Meowscarada
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711898216
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Pelipper|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|96/100
+|
+|t:|1711898222
+|switch|p2a: Raging Bolt|Raging Bolt|100/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711898228
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|88/100
+|
+|t:|1711898231
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] U-turn
+|move|p2a: Raging Bolt|Weather Ball|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|95/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711898244
+|switch|p1a: Meowscarada|Meowscarada, F|92/100
+|turn|6
+|c|☆Spammernoob|did u like that unnecessary play :0
+|
+|t:|1711898259
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Kingambit|Kingambit, M|100/100
+|move|p1a: Meowscarada|Triple Axel|p2a: Kingambit
+|-start|p1a: Meowscarada|typechange|Ice|[from] ability: Protean
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|95/100
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|84/100
+|-resisted|p2a: Kingambit
+|-damage|p2a: Kingambit|66/100
+|-hitcount|p2a: Kingambit|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711898271
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Heatran
+|-damage|p1a: Heatran|45/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Heatran|52/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711898281
+|-end|p2a: Kingambit|fallenundefined|[silent]
+|switch|p2a: Pelipper|Pelipper, F|52/100
+|move|p1a: Heatran|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: Spammernoob|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Heatran|58/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|☆trick or dies!|yeah good stuff
+|j| Asb03
+|
+|t:|1711898291
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Pelipper|Surf|p1a: Tornadus
+|-damage|p1a: Tornadus|71/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1711898299
+|switch|p2a: Equilibra|Equilibra|89/100
+|-damage|p2a: Equilibra|86/100|[from] Stealth Rock
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Equilibra
+|-resisted|p2a: Equilibra
+|-damage|p2a: Equilibra|75/100
+|
+|-weather|none
+|-heal|p2a: Equilibra|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711898303
+|move|p1a: Tornadus|Heat Wave|p2a: Equilibra
+|-supereffective|p2a: Equilibra
+|-damage|p2a: Equilibra|58/100
+|-status|p2a: Equilibra|brn
+|move|p2a: Equilibra|Rapid Spin|p1a: Tornadus
+|-damage|p1a: Tornadus|67/100
+|-boost|p2a: Equilibra|spe|1
+|-sideend|p2: Spammernoob|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Equilibra
+|
+|-heal|p2a: Equilibra|64/100 brn|[from] item: Leftovers
+|-damage|p2a: Equilibra|58/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711898311
+|move|p1a: Tornadus|Knock Off|p2a: Equilibra
+|-damage|p2a: Equilibra|40/100 brn
+|-enditem|p2a: Equilibra|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Equilibra|Doom Desire|p1a: Tornadus
+|-start|p2a: Equilibra|Doom Desire
+|
+|-damage|p2a: Equilibra|34/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711898317
+|switch|p2a: Raging Bolt|Raging Bolt|95/100
+|move|p1a: Tornadus|U-turn|p2a: Raging Bolt
+|-crit|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|77/100
+|
+|t:|1711898320
+|switch|p1a: Heatran|Heatran, M|58/100|[from] U-turn
+|
+|-heal|p1a: Heatran|64/100|[from] item: Leftovers
+|-heal|p2a: Raging Bolt|83/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711898330
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Pelipper|Pelipper, F|52/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Heatran|Earth Power|p2a: Pelipper
+|-immune|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Heatran|move: Doom Desire
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|48/100
+|-heal|p1a: Heatran|54/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711898340
+|switch|p1a: Tornadus|Tornadus-Therian, M|99/100
+|move|p2a: Pelipper|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|95/100
+|
+|t:|1711898342
+|switch|p2a: Raging Bolt|Raging Bolt|83/100|[from] U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|89/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711898351
+|switch|p1a: Kyurem|Kyurem|31/100
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Raging Bolt|Thunder|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|3/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|95/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711898369
+|move|p2a: Raging Bolt|Thunderclap|p1a: Kyurem
+|-resisted|p1a: Kyurem
+|-damage|p1a: Kyurem|0 fnt
+|faint|p1a: Kyurem
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Raging Bolt|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711898383
+|switch|p1a: Heatran|Heatran, M|54/100
+|turn|18
+|
+|t:|1711898388
+|move|p1a: Heatran|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: Spammernoob|move: Stealth Rock
+|move|p2a: Raging Bolt|Thunder|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|none
+|upkeep
+|
+|t:|1711898394
+|switch|p1a: Hemogoblin|Hemogoblin, M|100/100
+|turn|19
+|
+|t:|1711898404
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|switch|p2a: Mollux|Mollux, M|100/100
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711898410
+|move|p1a: Tornadus|Knock Off|p2a: Mollux
+|-damage|p2a: Mollux|86/100
+|-enditem|p2a: Mollux|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Mollux|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: trick or dies!|move: Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1711898417
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Mollux
+|-damage|p2a: Mollux|54/100
+|move|p2a: Mollux|Lava Plume|p1a: Tornadus
+|-damage|p1a: Tornadus|76/100
+|-status|p1a: Tornadus|brn
+|
+|-damage|p1a: Tornadus|70/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1711898425
+|move|p1a: Tornadus|Bleakwind Storm|p2a: Mollux
+|-damage|p2a: Mollux|20/100
+|move|p2a: Mollux|Recover|p2a: Mollux
+|-heal|p2a: Mollux|70/100
+|
+|-damage|p1a: Tornadus|63/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1711898430
+|move|p1a: Tornadus|U-turn|p2a: Mollux
+|-resisted|p2a: Mollux
+|-damage|p2a: Mollux|69/100
+|
+|t:|1711898434
+|switch|p1a: Meowscarada|Meowscarada, F|92/100|[from] U-turn
+|-damage|p1a: Meowscarada|79/100|[from] Stealth Rock
+|move|p2a: Mollux|Recover|p2a: Mollux
+|-heal|p2a: Mollux|100/100
+|
+|upkeep
+|turn|24
+|
+|t:|1711898439
+|switch|p2a: Pelipper|Pelipper, F|52/100
+|-damage|p2a: Pelipper|27/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Meowscarada|Knock Off|p2a: Pelipper
+|-start|p1a: Meowscarada|typechange|Dark|[from] ability: Protean
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711898442
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1711898464
+|switch|p1a: Tornadus|Tornadus-Therian, M|97/100 brn
+|-damage|p1a: Tornadus|72/100 brn|[from] Stealth Rock
+|move|p2a: Barraskewda|Liquidation|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711898466
+|switch|p1a: Hemogoblin|Hemogoblin, M|100/100
+|turn|26
+|
+|t:|1711898478
+|move|p2a: Barraskewda|Liquidation|p1a: Hemogoblin
+|-supereffective|p1a: Hemogoblin
+|-damage|p1a: Hemogoblin|0 fnt
+|faint|p1a: Hemogoblin
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711898481
+|switch|p1a: Meowscarada|Meowscarada, F|79/100
+|-damage|p1a: Meowscarada|67/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1711898484
+|-terastallize|p2a: Barraskewda|Water
+|move|p2a: Barraskewda|Liquidation|p1a: Meowscarada
+|-resisted|p1a: Meowscarada
+|-damage|p1a: Meowscarada|0 fnt
+|faint|p1a: Meowscarada
+|
+|win|Spammernoob
+|n|☆trick or dies!|trickordies
+|n|☆Spammernoob|spammernoob
+|n| Da Pizza Man|dapizzaman
+|n| Asb03|asb03
+|c|☆trick or dies!|gg
+|c|☆Spammernoob|gg

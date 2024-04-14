@@ -1,0 +1,113 @@
+p1: Switched to Krookodile
+p2: Switched to Porygon2
+Turn 1:
+p1: Krookodile used Knock Off on Porygon2
+p2: Porygon2 used Ice Beam on Krookodile
+Turn 2:
+p1: Krookodile used Stealth Rock on Porygon2
+p2: Porygon2 used Ice Beam on Krookodile
+p1: Krookodile fainted
+p1: Switched to Darkrai
+Turn 3:
+p1: Darkrai used Hypnosis on Porygon2
+p2: Porygon2 can't move
+Turn 4:
+p2: Switched to Blissey
+p1: Darkrai used Nasty Plot on Darkrai
+Turn 5:
+p1: Switched to Grimmsnarl
+p2: Blissey used Seismic Toss on Grimmsnarl
+Turn 6:
+p2: Switched to Braviary
+p1: Grimmsnarl used Reflect on Grimmsnarl
+Turn 7:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Braviary used Defog on Grimmsnarl
+Turn 8:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Braviary used U-turn on Grimmsnarl
+p2: Switched to Ursaluna
+Turn 9:
+p1: Grimmsnarl used Parting Shot on Ursaluna
+p1: Switched to Weavile
+p2: Ursaluna used Trailblaze on Weavile
+Turn 10:
+p2: Switched to Ditto
+p1: Weavile used Triple Axel on Ditto
+Turn 11:
+p2: Ditto used Knock Off on Weavile
+p1: Weavile used Triple Axel on Ditto
+Turn 12:
+p2: Switched to Porygon2
+p1: Weavile used Knock Off on Porygon2
+Turn 13:
+p1: Weavile used Swords Dance on Weavile
+p2: Porygon2 used Discharge on Weavile
+Turn 14:
+p1: Weavile used Triple Axel on Porygon2
+p2: Porygon2 fainted
+p2: Switched to Ditto
+Turn 15:
+p1: Weavile used Ice Shard on Ditto
+p2: Ditto used Triple Axel on Weavile
+p1: Weavile fainted
+p1: Switched to Grimmsnarl
+Turn 16:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Ditto used Triple Axel on Grimmsnarl
+Turn 17:
+p2: Ditto used Triple Axel on Grimmsnarl
+p1: Grimmsnarl used Spirit Break on Ditto
+p2: Ditto fainted
+p2: Switched to Braviary
+Turn 18:
+p1: Grimmsnarl used Parting Shot on Braviary
+p1: Switched to Hydreigon
+p2: Braviary used Defog on Hydreigon
+Turn 19:
+p2: Switched to Blissey
+p1: Hydreigon used Dragon Pulse on Blissey
+Turn 20:
+p1: Switched to Darkrai
+p2: Blissey used Stealth Rock on Darkrai
+Turn 21:
+p2: Switched to Ursaluna
+p1: Darkrai used Nasty Plot on Darkrai
+Turn 22:
+p1: Darkrai used Dark Pulse on Ursaluna
+p2: Ursaluna used Drain Punch on Darkrai
+p1: Darkrai fainted
+p1: Switched to Grimmsnarl
+Turn 23:
+p1: Grimmsnarl used Reflect on Grimmsnarl
+p2: Ursaluna used Drain Punch on Grimmsnarl
+Turn 24:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Ursaluna used Facade on Grimmsnarl
+p1: Grimmsnarl fainted
+p1: Switched to Moltres-Galar
+Turn 25:
+p1: Moltres-Galar used Nasty Plot on Moltres-Galar
+p2: Ursaluna used Facade on Moltres-Galar
+Turn 26:
+p1: Moltres-Galar used Fiery Wrath on Ursaluna
+p2: Ursaluna fainted
+p2: Switched to Blissey
+Turn 27:
+p1: Moltres-Galar used Hurricane on Blissey
+p2: Blissey used Seismic Toss on Moltres-Galar
+p1: Moltres-Galar fainted
+p1: Switched to Hydreigon
+Turn 28:
+p1: Hydreigon used Nasty Plot on Hydreigon
+p2: Blissey used Soft-Boiled on Blissey
+Turn 29:
+p1: Hydreigon used Nasty Plot on Hydreigon
+p2: Blissey used Seismic Toss on Hydreigon
+Turn 30:
+p1: Hydreigon used Nasty Plot on Hydreigon
+p2: Blissey used Seismic Toss on Hydreigon
+Turn 31:
+p1: Hydreigon used Dark Pulse on Blissey
+p2: Blissey used Seismic Toss on Hydreigon
+p1: Hydreigon fainted

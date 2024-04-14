@@ -1,0 +1,127 @@
+p1: Switched to Metagross
+p2: Switched to Umbreon
+Turn 1:
+p1: Switched to Azumarill
+p2: Umbreon used Foul Play on Azumarill
+Turn 2:
+p2: Umbreon used Toxic on Azumarill
+p1: Azumarill used Belly Drum on Azumarill
+Turn 3:
+p2: Umbreon used Protect on Umbreon
+p1: Azumarill used Waterfall on Umbreon
+Turn 4:
+p2: Switched to Cresselia
+p1: Azumarill used Play Rough on Cresselia
+p2: Cresselia fainted
+p2: Switched to Arcanine
+Turn 5:
+p1: Switched to Slowking
+p2: Arcanine used Extreme Speed on Slowking
+Turn 6:
+p2: Switched to Cryogonal
+p1: Switched to Azumarill
+Turn 7:
+p1: Azumarill used Aqua Jet on Cryogonal
+p2: Cryogonal used Freeze-Dry on Azumarill
+p1: Azumarill fainted
+p1: Switched to Metagross
+Turn 8:
+p2: Switched to Umbreon
+p1: Metagross used Agility on Metagross
+Turn 9:
+p1: Metagross used Meteor Mash on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 10:
+p1: Metagross used Meteor Mash on Umbreon
+p2: Umbreon used Foul Play on Metagross
+Turn 11:
+p1: Switched to Houndoom
+p2: Umbreon used Foul Play on Houndoom
+Turn 12:
+p1: Houndoom used Taunt on Umbreon
+p2: Umbreon can't move
+Turn 13:
+p1: Houndoom used Nasty Plot on Houndoom
+p2: Umbreon used Foul Play on Houndoom
+Turn 14:
+p1: Houndoom used Fire Blast on Umbreon
+p2: Umbreon used Foul Play on Houndoom
+Turn 15:
+p2: Switched to Arcanine
+p1: Houndoom used Taunt on Arcanine
+Turn 16:
+p2: Arcanine used Extreme Speed on Houndoom
+p1: Houndoom used Dark Pulse on Arcanine
+p2: Arcanine fainted
+p2: Switched to Cryogonal
+Turn 17:
+p1: Switched to Metagross
+p2: Cryogonal used Hidden Power on Metagross
+p1: Metagross fainted
+p1: Switched to Cinccino
+Turn 18:
+p1: Cinccino used Bullet Seed on Cryogonal
+p2: Cryogonal fainted
+p2: Switched to Umbreon
+Turn 19:
+p1: Switched to Nidoking
+p2: Umbreon used Toxic on Nidoking
+Turn 20:
+p1: Nidoking used Sludge Wave on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 21:
+p1: Nidoking used Sludge Wave on Umbreon
+p2: Umbreon used Foul Play on Nidoking
+Turn 22:
+p1: Switched to Houndoom-Mega
+p2: Umbreon used Wish on Umbreon
+Turn 23:
+p1: Houndoom-Mega used Fire Blast on Umbreon
+p2: Umbreon used Foul Play on Houndoom-Mega
+Turn 24:
+p1: Houndoom-Mega used Taunt on Umbreon
+p2: Umbreon used Foul Play on Houndoom-Mega
+p1: Houndoom-Mega fainted
+p1: Switched to Cinccino
+Turn 25:
+p2: Switched to Arceus-Rock
+p1: Cinccino used Tail Slap on Arceus-Rock
+Turn 26:
+p1: Switched to Slowking
+p2: Arceus-Rock used Judgment on Slowking
+Turn 27:
+p2: Switched to Umbreon
+p1: Slowking used Scald on Umbreon
+Turn 28:
+p1: Switched to Nidoking
+p2: Umbreon used Toxic on Nidoking
+Turn 29:
+p2: Umbreon used Protect on Umbreon
+p1: Nidoking used Sludge Wave on Umbreon
+Turn 30:
+p1: Nidoking used Earth Power on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 31:
+p1: Switched to Slowking
+p2: Umbreon failed to use Protect
+Turn 32:
+p2: Umbreon used Toxic on Slowking
+p1: Slowking used Scald on Umbreon
+Turn 33:
+p1: Switched to Cinccino
+p2: Umbreon failed to use Protect
+Turn 34:
+p2: Umbreon used Protect on Umbreon
+p1: Cinccino used Bullet Seed on Umbreon
+Turn 35:
+p1: Switched to Nidoking
+p2: Umbreon used Wish on Umbreon
+Turn 36:
+p1: Nidoking used Sludge Wave on Umbreon
+p2: Umbreon used Foul Play on Nidoking
+Turn 37:
+p1: Nidoking used Sludge Wave on Umbreon
+p2: Umbreon used Foul Play on Nidoking
+p1: Nidoking fainted
+p1: Switched to Slowking
+Turn 38:

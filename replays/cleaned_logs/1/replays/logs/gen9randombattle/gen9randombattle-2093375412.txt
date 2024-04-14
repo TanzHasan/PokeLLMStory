@@ -1,0 +1,41 @@
+p1: Switched to Landorus
+p2: Switched to Dugtrio-Alola
+Turn 1:
+p2: Switched to Jirachi
+p1: Landorus used Focus Blast on Jirachi
+Turn 2:
+p2: Jirachi used Iron Head on Landorus
+p1: Landorus can't move
+Turn 3:
+p2: Jirachi used Iron Head on Landorus
+p1: Landorus can't move
+Turn 4:
+p2: Jirachi used Iron Head on Landorus
+p1: Landorus fainted
+p1: Switched to Chesnaught
+Turn 5:
+p2: Jirachi used Wish on Jirachi
+p1: Chesnaught used Trailblaze on Jirachi
+Turn 6:
+p2: Switched to Dragalge
+p1: Chesnaught used Iron Defense on Chesnaught
+Turn 7:
+p1: Chesnaught used Iron Defense on Chesnaught
+p2: Dragalge used Sludge Wave on Chesnaught
+Turn 8:
+p1: Chesnaught used Trailblaze on Dragalge
+p2: Dragalge used Hydro Pump on Chesnaught
+Turn 9:
+p1: Chesnaught used Body Press on Dragalge
+p2: Dragalge used Hydro Pump on Chesnaught
+Turn 10:
+p1: Chesnaught used Body Press on Dragalge
+p2: Dragalge fainted
+p2: Switched to Dugtrio-Alola
+Turn 11:
+p1: Chesnaught used Trailblaze on Dugtrio-Alola
+p2: Dugtrio-Alola used Earthquake on Chesnaught
+Turn 12:
+p1: Chesnaught used Synthesis on Chesnaught
+p2: Dugtrio-Alola used Earthquake on Chesnaught
+Turn 13:

@@ -1,0 +1,194 @@
+|j|☆A-bboy
+|j|☆martin80090
+|t:|1711921816
+|gametype|singles
+|player|p1|A-bboy|ingo|1040
+|player|p2|martin80090|silver|1107
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Urshifu-Rapid-Strike, F|
+|poke|p1|Cosmoem, M|
+|poke|p1|Typhlosion-Hisui, M|
+|poke|p1|Brute Bonnet, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Orbeetle, M|
+|poke|p2|Quaquaval, F|
+|poke|p2|Ceruledge, F|
+|poke|p2|Lokix, F|
+|poke|p2|Tinkaton, F|
+|poke|p2|Garganacl, F|
+|poke|p2|Arboliva, F|
+|teampreview
+|
+|t:|1711921825
+|start
+|switch|p1a: Cosmoem|Cosmoem, M, shiny|100/100
+|switch|p2a: Jolyne|Quaquaval, F, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by martin80090)
+|
+|t:|1711921834
+|move|p2a: Jolyne|Swords Dance|p2a: Jolyne
+|-boost|p2a: Jolyne|atk|2
+|move|p1a: Cosmoem|Bulk Up|p1a: Cosmoem
+|-boost|p1a: Cosmoem|atk|1
+|-boost|p1a: Cosmoem|def|1
+|
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|turn|2
+|
+|t:|1711921843
+|move|p2a: Jolyne|Swords Dance|p2a: Jolyne
+|-boost|p2a: Jolyne|atk|2
+|move|p1a: Cosmoem|Bulk Up|p1a: Cosmoem
+|-boost|p1a: Cosmoem|atk|1
+|-boost|p1a: Cosmoem|def|1
+|
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|turn|3
+|
+|t:|1711921854
+|move|p2a: Jolyne|Liquidation|p1a: Cosmoem
+|-damage|p1a: Cosmoem|63/100
+|-unboost|p1a: Cosmoem|def|1
+|move|p1a: Cosmoem|Bulk Up|p1a: Cosmoem
+|-boost|p1a: Cosmoem|atk|1
+|-boost|p1a: Cosmoem|def|1
+|
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|turn|4
+|
+|t:|1711921865
+|move|p2a: Jolyne|Liquidation|p1a: Cosmoem
+|-damage|p1a: Cosmoem|29/100
+|move|p1a: Cosmoem|Astral Barrage|p2a: Jolyne
+|-damage|p2a: Jolyne|86/100
+|
+|-heal|p2a: Jolyne|92/100|[from] item: Leftovers
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|turn|5
+|j| Grape Wines
+|
+|t:|1711921877
+|move|p2a: Jolyne|Liquidation|p1a: Cosmoem
+|-damage|p1a: Cosmoem|0 fnt
+|faint|p1a: Cosmoem
+|
+|-heal|p2a: Jolyne|98/100|[from] item: Leftovers
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|
+|t:|1711921885
+|switch|p1a: Orbeetle|Orbeetle, M|100/100
+|turn|6
+|l| Grape Wines
+|
+|t:|1711921894
+|move|p2a: Jolyne|Liquidation|p1a: Orbeetle
+|-crit|p1a: Orbeetle
+|-enditem|p1a: Orbeetle|Focus Sash
+|-damage|p1a: Orbeetle|1/100
+|-ability|p1a: Orbeetle|Anger Shell|boost
+|-boost|p1a: Orbeetle|atk|1
+|-boost|p1a: Orbeetle|spa|1
+|-boost|p1a: Orbeetle|spe|1
+|-unboost|p1a: Orbeetle|def|1
+|-unboost|p1a: Orbeetle|spd|1
+|move|p1a: Orbeetle|Psychic|p2a: Jolyne
+|-supereffective|p2a: Jolyne
+|-damage|p2a: Jolyne|9/100
+|
+|-heal|p2a: Jolyne|15/100|[from] item: Leftovers
+|-ability|p2a: Jolyne|Speed Boost|boost
+|-boost|p2a: Jolyne|spe|1
+|upkeep
+|turn|7
+|
+|t:|1711921910
+|move|p2a: Jolyne|Liquidation|p1a: Orbeetle
+|-damage|p1a: Orbeetle|0 fnt
+|faint|p1a: Orbeetle
+|
+|-heal|p2a: Jolyne|22/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711921916
+|switch|p1a: Typhlosion|Typhlosion-Hisui, M|100/100
+|turn|8
+|
+|t:|1711921921
+|move|p2a: Jolyne|Liquidation|p1a: Typhlosion
+|-supereffective|p1a: Typhlosion
+|-damage|p1a: Typhlosion|0 fnt
+|faint|p1a: Typhlosion
+|
+|-heal|p2a: Jolyne|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711921930
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|9
+|
+|t:|1711921937
+|move|p2a: Jolyne|Close Combat|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-unboost|p2a: Jolyne|def|1
+|-unboost|p2a: Jolyne|spd|1
+|faint|p1a: Urshifu
+|
+|-heal|p2a: Jolyne|34/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711921946
+|switch|p1a: Maushold|Maushold-Four|100/100
+|turn|10
+|
+|t:|1711921952
+|move|p2a: Jolyne|Liquidation|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|
+|-heal|p2a: Jolyne|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711921959
+|switch|p1a: Brute Bonnet|Brute Bonnet, M|100/100
+|turn|11
+|
+|t:|1711921962
+|move|p2a: Jolyne|Close Combat|p1a: Brute Bonnet
+|-supereffective|p1a: Brute Bonnet
+|-damage|p1a: Brute Bonnet|0 fnt
+|-unboost|p2a: Jolyne|def|1
+|-unboost|p2a: Jolyne|spd|1
+|faint|p1a: Brute Bonnet
+|
+|win|martin80090
+|raw|A-bboy's rating: 1040 &rarr; <strong>1027</strong><br />(-13 for losing)
+|raw|martin80090's rating: 1107 &rarr; <strong>1127</strong><br />(+20 for winning)
+|l|☆A-bboy
+|player|p1|

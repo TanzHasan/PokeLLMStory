@@ -1,0 +1,24 @@
+p1: Switched to Ambipom
+p2: Switched to Rotom-Wash
+Turn 1:
+p2: Switched to Ferrothorn
+p1: Ambipom used Fake Out on Ferrothorn
+Turn 2:
+p1: Switched to Liepard
+p2: Ferrothorn used Stealth Rock on Liepard
+Turn 3:
+p1: Liepard used Trick on Ferrothorn
+p2: Ferrothorn used Thunder Wave on Liepard
+Turn 4:
+p1: Liepard can't move
+p2: Ferrothorn used Leech Seed on Liepard
+Turn 5:
+p2: Switched to Politoed
+p1: Switched to Ninetales
+Turn 6:
+p2: Switched to Latios
+p1: Ninetales failed to use Solar Beam
+Turn 7:
+p2: Switched to Politoed
+p1: Ninetales used Dark Pulse on Politoed
+Turn 8:

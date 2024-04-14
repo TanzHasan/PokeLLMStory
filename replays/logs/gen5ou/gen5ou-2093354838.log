@@ -1,0 +1,225 @@
+|j|☆Skullmonkey
+|j|☆Jesushwbush
+|t:|1711943563
+|gametype|singles
+|player|p1|Skullmonkey|li|1248
+|player|p2|Jesushwbush|2|1298
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Swagger Clause: Swagger is banned
+|rule|Baton Pass Stat Clause: No Baton Passer may have a way to boost its stats
+|clearpoke
+|poke|p1|Starmie|item
+|poke|p1|Ferrothorn, F|item
+|poke|p1|Scizor, M|item
+|poke|p1|Rotom-Wash|item
+|poke|p1|Politoed, F|item
+|poke|p1|Latios, M|item
+|poke|p2|Liepard, M|item
+|poke|p2|Ambipom, M|item
+|poke|p2|Yanmega, F|item
+|poke|p2|Gliscor, M|item
+|poke|p2|Rampardos, F|item
+|poke|p2|Ninetales, M|item
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jesushwbush)
+|j| WHZKB
+|
+|t:|1711943595
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Liepard|Liepard, M|100/100
+|turn|1
+|
+|t:|1711943603
+|move|p2a: Liepard|Trick|p1a: Scizor
+|-activate|p2a: Liepard|move: Trick|[of] p1a: Scizor
+|-item|p1a: Scizor|Black Sludge|[from] move: Trick
+|-item|p2a: Liepard|Choice Band|[from] move: Trick
+|move|p1a: Scizor|U-turn|p2a: Liepard
+|-supereffective|p2a: Liepard
+|-damage|p2a: Liepard|0 fnt
+|faint|p2a: Liepard
+|
+|t:|1711943611
+|switch|p1a: Politoed|Politoed, F|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711943618
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|2
+|
+|t:|1711943626
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|84/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711943634
+|switch|p1a: Politoed|Politoed, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Ninetales|Dark Pulse|p1a: Politoed
+|-damage|p1a: Politoed|82/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|l| WHZKB
+|
+|t:|1711943650
+|switch|p2a: Ambipom|Ambipom, M|100/100
+|move|p1a: Politoed|Scald|p2a: Ambipom
+|-damage|p2a: Ambipom|0 fnt
+|faint|p2a: Ambipom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711943655
+|switch|p2a: Ninetales|Ninetales, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|5
+|
+|t:|1711943667
+|switch|p1a: Latios|Latios, M|84/100
+|move|p2a: Ninetales|Dark Pulse|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|41/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1711943678
+|switch|p1a: Politoed|Politoed, F|82/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Ninetales|Dark Pulse|p1a: Politoed
+|-damage|p1a: Politoed|63/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711943687
+|move|p2a: Ninetales|Will-O-Wisp|p1a: Politoed|[miss]
+|-miss|p2a: Ninetales|p1a: Politoed
+|move|p1a: Politoed|Scald|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-enditem|p2a: Ninetales|Focus Sash
+|-damage|p2a: Ninetales|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711943695
+|switch|p1a: Starmie|Starmie, shiny|100/100
+|move|p2a: Ninetales|Will-O-Wisp|p1a: Starmie
+|-status|p1a: Starmie|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Starmie|88/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711943709
+|move|p1a: Starmie|Thunder|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Starmie|94/100 brn|[from] item: Leftovers
+|-damage|p1a: Starmie|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1711943714
+|switch|p2a: Gliscor|Gliscor, M|100/100
+|turn|10
+|
+|t:|1711943725
+|move|p1a: Starmie|Ice Beam|p2a: Gliscor
+|-supereffective|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Starmie|88/100 brn|[from] item: Leftovers
+|-damage|p1a: Starmie|76/100 brn|[from] brn
+|upkeep
+|
+|t:|1711943727
+|switch|p2a: Yanmega|Yanmega, F|100/100
+|turn|11
+|
+|t:|1711943737
+|-curestatus|p1a: Starmie|brn|[from] ability: Natural Cure
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Yanmega|Bug Buzz|p1a: Rotom
+|-damage|p1a: Rotom|22/100
+|-damage|p2a: Yanmega|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|12
+|
+|t:|1711943747
+|move|p2a: Yanmega|Bug Buzz|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-damage|p2a: Yanmega|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|
+|t:|1711943757
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|turn|13
+|
+|t:|1711943760
+|move|p2a: Yanmega|Hidden Power|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|-damage|p2a: Yanmega|71/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Yanmega
+|-status|p2a: Yanmega|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|60/100|[from] item: Leftovers
+|-ability|p2a: Yanmega|Speed Boost|boost
+|-boost|p2a: Yanmega|spe|1
+|upkeep
+|turn|14
+|-message|Jesushwbush forfeited.
+|
+|win|Skullmonkey
+|raw|Skullmonkey's rating: 1248 &rarr; <strong>1277</strong><br />(+29 for winning)
+|raw|Jesushwbush's rating: 1298 &rarr; <strong>1269</strong><br />(-29 for losing)
+|l|☆Jesushwbush
+|player|p2|

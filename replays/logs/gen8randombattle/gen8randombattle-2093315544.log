@@ -1,0 +1,168 @@
+|j|☆Rushing Recklessly
+|j|☆yerpptheder
+|t:|1711938313
+|gametype|singles
+|player|p1|Rushing Recklessly|zinzolin|1319
+|player|p2|yerpptheder|miku-ground|1153
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711938313
+|start
+|switch|p1a: Pincurchin|Pincurchin, L89, F|230/230
+|switch|p2a: Aggron|Aggron, L86, F|261/261
+|-item|p2a: Aggron|Air Balloon
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rushing Recklessly)
+|inactive|yerpptheder has 120 seconds left.
+|
+|t:|1711938353
+|switch|p2a: Celebi|Celebi, L82|298/298
+|move|p1a: Pincurchin|Rising Voltage|p2a: Celebi
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-resisted|p2a: Celebi
+|-damage|p2a: Celebi|202/298
+|
+|-heal|p2a: Celebi|220/298|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711938371
+|switch|p1a: Regice|Regice, L84|271/271
+|move|p2a: Celebi|Nasty Plot|p2a: Celebi
+|-boost|p2a: Celebi|spa|2
+|
+|-heal|p2a: Celebi|238/298|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711938379
+|switch|p2a: Bronzong|Bronzong, L84|250/250
+|move|p1a: Regice|Ice Beam|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|210/250
+|
+|-heal|p2a: Bronzong|225/250|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711938404
+|switch|p1a: Dracozolt|Dracozolt, L77|265/265
+|move|p2a: Bronzong|Toxic|p1a: Dracozolt
+|-status|p1a: Dracozolt|tox
+|
+|-heal|p2a: Bronzong|240/250|[from] item: Leftovers
+|-damage|p1a: Dracozolt|249/265 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711938407
+|move|p2a: Bronzong|Protect|p2a: Bronzong
+|-singleturn|p2a: Bronzong|Protect
+|move|p1a: Dracozolt|Bolt Beak|p2a: Bronzong
+|-activate|p2a: Bronzong|move: Protect
+|
+|-heal|p2a: Bronzong|250/250|[from] item: Leftovers
+|-damage|p1a: Dracozolt|217/265 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1711938414
+|switch|p2a: Celebi|Celebi, L82|238/298
+|move|p1a: Dracozolt|Bolt Beak|p2a: Celebi
+|-resisted|p2a: Celebi
+|-damage|p2a: Celebi|136/298
+|
+|-heal|p2a: Celebi|154/298|[from] item: Leftovers
+|-damage|p1a: Dracozolt|169/265 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711938417
+|switch|p1a: Regice|Regice, L84|271/271
+|move|p2a: Celebi|Recover|p2a: Celebi
+|-heal|p2a: Celebi|298/298
+|
+|upkeep
+|turn|8
+|
+|t:|1711938421
+|switch|p2a: Bronzong|Bronzong, L84|250/250
+|move|p1a: Regice|Thunderbolt|p2a: Bronzong
+|-damage|p2a: Bronzong|198/250
+|
+|-heal|p2a: Bronzong|213/250|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711938452
+|switch|p1a: Pincurchin|Pincurchin, L89, F|230/230
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|move|p2a: Bronzong|Earthquake|p1a: Pincurchin
+|-supereffective|p1a: Pincurchin
+|-crit|p1a: Pincurchin
+|-enditem|p1a: Pincurchin|Shuca Berry|[eat]
+|-enditem|p1a: Pincurchin|Shuca Berry|[weaken]
+|-damage|p1a: Pincurchin|148/230
+|
+|-heal|p2a: Bronzong|228/250|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711938460
+|switch|p2a: Celebi|Celebi, L82|298/298
+|move|p1a: Pincurchin|Rising Voltage|p2a: Celebi
+|-hint|Rising Voltage's BP doubled on grounded target.
+|-resisted|p2a: Celebi
+|-damage|p2a: Celebi|204/298
+|
+|-heal|p2a: Celebi|222/298|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711938464
+|move|p2a: Celebi|Nasty Plot|p2a: Celebi
+|-boost|p2a: Celebi|spa|2
+|move|p1a: Pincurchin|Spikes|p2a: Celebi
+|-sidestart|p2: yerpptheder|Spikes
+|
+|-heal|p2a: Celebi|240/298|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711938466
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Celebi|Nasty Plot|p2a: Celebi
+|-boost|p2a: Celebi|spa|2
+|
+|-heal|p2a: Celebi|258/298|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711938469
+|move|p1a: Pincurchin|Sucker Punch||[still]
+|-fail|p1a: Pincurchin
+|move|p2a: Celebi|Nasty Plot|p2a: Celebi
+|-boost|p2a: Celebi|spa|2
+|
+|-heal|p2a: Celebi|276/298|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|14
+|-message|Rushing Recklessly forfeited.
+|
+|win|yerpptheder
+|raw|Rushing Recklessly's rating: 1319 &rarr; <strong>1290</strong><br />(-29 for losing)
+|raw|yerpptheder's rating: 1153 &rarr; <strong>1189</strong><br />(+36 for winning)
+|l|☆Rushing Recklessly
+|player|p1|

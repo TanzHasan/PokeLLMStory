@@ -1,0 +1,348 @@
+|j|☆Alfalfalfa2
+|j|☆88 bladee
+|t:|1711937683
+|gametype|singles
+|player|p1|Alfalfalfa2|parasollady|1317
+|player|p2|88 bladee|beauty-gen2jp|1398
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711937683
+|start
+|switch|p1a: Absol|Absol, F|100/100
+|switch|p2a: ZONGGGGGGGG|Bronzong, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alfalfalfa2)
+|
+|t:|1711937697
+|move|p1a: Absol|Night Slash|p2a: ZONGGGGGGGG
+|-damage|p2a: ZONGGGGGGGG|68/100
+|move|p2a: ZONGGGGGGGG|Stealth Rock|p1a: Absol
+|-sidestart|p1: Alfalfalfa2|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711937704
+|switch|p2a: crunch|Lucario, F, shiny|100/100
+|move|p1a: Absol|Swords Dance|p1a: Absol
+|-boost|p1a: Absol|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1711937708
+|move|p2a: crunch|Close Combat|p1a: Absol
+|-supereffective|p1a: Absol
+|-damage|p1a: Absol|1/100
+|-unboost|p2a: crunch|def|1
+|-unboost|p2a: crunch|spd|1
+|-enditem|p1a: Absol|Focus Sash
+|-damage|p2a: crunch|91/100|[from] item: Life Orb
+|move|p1a: Absol|Superpower|p2a: crunch
+|-supereffective|p2a: crunch
+|-damage|p2a: crunch|0 fnt
+|-unboost|p1a: Absol|atk|1
+|-unboost|p1a: Absol|def|1
+|faint|p2a: crunch
+|
+|upkeep
+|
+|t:|1711937712
+|switch|p2a: in n out|Flygon, M, shiny|100/100
+|turn|4
+|
+|t:|1711937714
+|move|p1a: Absol|Sucker Punch|p2a: in n out
+|-damage|p2a: in n out|3/100
+|move|p2a: in n out|U-turn|p1a: Absol
+|-supereffective|p1a: Absol
+|-damage|p1a: Absol|0 fnt
+|faint|p1a: Absol
+|
+|t:|1711937721
+|switch|p2a: stepdad|Tyranitar, M, shiny|100/100|[from] U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: stepdad
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711937723
+|switch|p1a: Donphan|Donphan, M|100/100
+|-damage|p1a: Donphan|94/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1711937728
+|switch|p2a: in n out|Flygon, M, shiny|3/100
+|move|p1a: Donphan|Rapid Spin|p2a: in n out
+|-damage|p2a: in n out|0 fnt
+|-sideend|p1: Alfalfalfa2|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Donphan
+|faint|p2a: in n out
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Donphan|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937735
+|switch|p2a: ZONGGGGGGGG|Bronzong, shiny|68/100
+|turn|6
+|
+|t:|1711937742
+|switch|p1a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Aerodactyl|Pressure
+|move|p2a: ZONGGGGGGGG|Stealth Rock|p1a: Aerodactyl
+|-sidestart|p1: Alfalfalfa2|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711937744
+|move|p1a: Aerodactyl|Stealth Rock|p2a: ZONGGGGGGGG
+|-sidestart|p2: 88 bladee|move: Stealth Rock
+|move|p2a: ZONGGGGGGGG|Gyro Ball|p1a: Aerodactyl
+|-supereffective|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|1/100
+|-enditem|p1a: Aerodactyl|Focus Sash
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711937751
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|move|p2a: ZONGGGGGGGG|Gyro Ball|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|81/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|75/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1711937756
+|move|p1a: Slowbro|Surf|p2a: ZONGGGGGGGG
+|-damage|p2a: ZONGGGGGGGG|11/100
+|move|p2a: ZONGGGGGGGG|Explosion|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p2a: ZONGGGGGGGG
+|faint|p1a: Slowbro
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711937765
+|switch|p1a: Donphan|Donphan, M|100/100
+|switch|p2a: spookymayne|Gengar, M, shiny|100/100
+|-damage|p2a: spookymayne|88/100|[from] Stealth Rock
+|-damage|p1a: Donphan|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1711937769
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: spookymayne|Shadow Ball|p1a: Clefable
+|-immune|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|82/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1711937771
+|move|p2a: spookymayne|Focus Blast|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|26/100
+|-damage|p2a: spookymayne|72/100|[from] item: Life Orb
+|move|p1a: Clefable|Thunder Wave|p2a: spookymayne
+|-status|p2a: spookymayne|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|66/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|32/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711937774
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|82/100
+|cant|p2a: spookymayne|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|60/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|88/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711937776
+|move|p1a: Clefable|Knock Off|p2a: spookymayne
+|-supereffective|p2a: spookymayne
+|-damage|p2a: spookymayne|47/100 par
+|-enditem|p2a: spookymayne|Life Orb|[from] move: Knock Off|[of] p1a: Clefable
+|-hint|In Gens 3-4, Knock Off only makes the target's item unusable; it cannot obtain a new item.
+|move|p2a: spookymayne|Focus Blast|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|29/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|41/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|35/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711937782
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|85/100
+|move|p2a: spookymayne|Focus Blast|p1a: Clefable|[miss]
+|-miss|p2a: spookymayne|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|35/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|91/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711937787
+|switch|p1a: Donphan|Donphan, M|94/100
+|-damage|p1a: Donphan|88/100|[from] Stealth Rock
+|move|p2a: spookymayne|Focus Blast|p1a: Donphan
+|-damage|p1a: Donphan|31/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: spookymayne|28/100 par|[from] Sandstorm
+|-heal|p1a: Donphan|38/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711937795
+|switch|p2a: stepdad|Tyranitar, M, shiny|100/100
+|-damage|p2a: stepdad|88/100|[from] Stealth Rock
+|move|p1a: Donphan|Assurance|p2a: stepdad
+|-resisted|p2a: stepdad
+|-damage|p2a: stepdad|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Donphan|44/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711937801
+|move|p2a: stepdad|Crunch|p1a: Donphan
+|-damage|p1a: Donphan|21/100
+|move|p1a: Donphan|Rapid Spin|p2a: stepdad
+|-resisted|p2a: stepdad
+|-crit|p2a: stepdad
+|-damage|p2a: stepdad|69/100
+|-sideend|p1: Alfalfalfa2|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Donphan
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Donphan|27/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711937810
+|move|p2a: stepdad|Crunch|p1a: Donphan
+|-damage|p1a: Donphan|3/100
+|move|p1a: Donphan|Earthquake|p2a: stepdad
+|-supereffective|p2a: stepdad
+|-damage|p2a: stepdad|0 fnt
+|faint|p2a: stepdad
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Donphan|9/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937814
+|switch|p2a: hail mary|Kingdra, F, shiny|100/100
+|-damage|p2a: hail mary|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1711937818
+|move|p2a: hail mary|Surf|p1a: Donphan
+|-supereffective|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|faint|p1a: Donphan
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: hail mary|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711937820
+|switch|p1a: Clefable|Clefable, F|91/100
+|turn|20
+|
+|t:|1711937823
+|move|p2a: hail mary|Surf|p1a: Clefable
+|-damage|p1a: Clefable|45/100
+|move|p1a: Clefable|Thunder Wave|p2a: hail mary
+|-status|p2a: hail mary|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: hail mary|76/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|51/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711937825
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: hail mary|Surf|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: hail mary|70/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711937828
+|move|p1a: Clefable|Seismic Toss|p2a: hail mary
+|-damage|p2a: hail mary|35/100 par
+|move|p2a: hail mary|Surf|p1a: Clefable
+|-damage|p1a: Clefable|19/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: hail mary|29/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|25/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆88 bladee|your team is gimmicky trash btw
+|
+|t:|1711937837
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|75/100
+|move|p2a: hail mary|Surf|p1a: Clefable
+|-damage|p1a: Clefable|31/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: hail mary|23/100 par|[from] Sandstorm
+|-heal|p1a: Clefable|37/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆Alfalfalfa2|gg ez
+|c|☆88 bladee|absolutely dog shit
+|c|☆Alfalfalfa2|it destroyed you lol
+|c|☆88 bladee|you win off of the most r3tard3d mechanics
+|c|☆88 bladee|thats hiliarous
+|c|☆88 bladee|whatever you have to tell yourself loser
+|-message|88 bladee forfeited.
+|
+|win|Alfalfalfa2
+|raw|Alfalfalfa2's rating: 1317 &rarr; <strong>1342</strong><br />(+25 for winning)
+|raw|88 bladee's rating: 1398 &rarr; <strong>1373</strong><br />(-25 for losing)
+|l|☆88 bladee
+|player|p2|
+|c|☆Alfalfalfa2|this is the easiest game I've played in awhile

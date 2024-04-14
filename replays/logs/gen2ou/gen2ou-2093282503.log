@@ -1,0 +1,375 @@
+|j|☆SlickeRickstA26
+|j|☆inkedKnightmare55
+|t:|1711934232
+|gametype|singles
+|player|p1|SlickeRickstA26|170|
+|player|p2|inkedKnightmare55|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|2
+|tier|[Gen 2] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711934232
+|start
+|switch|p1a: Victreebel|Victreebel, M|100/100
+|switch|p2a: Flaaffy|Flaaffy, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SlickeRickstA26)
+|
+|t:|1711934289
+|move|p1a: Victreebel|Sludge Bomb|p2a: Flaaffy
+|-crit|p2a: Flaaffy
+|-damage|p2a: Flaaffy|4/100
+|move|p2a: Flaaffy|Toxic|p1a: Victreebel
+|-immune|p1a: Victreebel
+|
+|-heal|p2a: Flaaffy|11/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactiveoff|Battle timer is now OFF.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SlickeRickstA26)
+|
+|t:|1711934318
+|switch|p2a: Sandslash|Sandslash, M|100/100
+|move|p1a: Victreebel|Curse|p1a: Victreebel
+|-unboost|p1a: Victreebel|spe|1
+|-boost|p1a: Victreebel|atk|1
+|-boost|p1a: Victreebel|def|1
+|
+|upkeep
+|turn|3
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1711934332
+|move|p2a: Sandslash|Substitute|p2a: Sandslash
+|-start|p2a: Sandslash|Substitute
+|-damage|p2a: Sandslash|76/100
+|move|p1a: Victreebel|Sludge Bomb|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-activate|p2a: Sandslash|Substitute|[damage]
+|
+|-heal|p2a: Sandslash|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711934342
+|move|p2a: Sandslash|Swords Dance|p2a: Sandslash
+|-boost|p2a: Sandslash|atk|2
+|move|p1a: Victreebel|Encore|p2a: Sandslash
+|-start|p2a: Sandslash|Encore
+|
+|-heal|p2a: Sandslash|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SlickeRickstA26)
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1711934392
+|switch|p2a: Forretress|Forretress, M|100/100
+|move|p1a: Victreebel|Return|p2a: Forretress
+|-resisted|p2a: Forretress
+|-damage|p2a: Forretress|87/100
+|
+|-heal|p2a: Forretress|93/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711934416
+|move|p2a: Forretress|Hidden Power|p1a: Victreebel
+|-damage|p1a: Victreebel|88/100
+|move|p1a: Victreebel|Return|p2a: Forretress
+|-resisted|p2a: Forretress
+|-damage|p2a: Forretress|79/100
+|
+|-heal|p2a: Forretress|85/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711934445
+|move|p2a: Forretress|Double-Edge|p1a: Victreebel
+|-damage|p1a: Victreebel|72/100
+|-damage|p2a: Forretress|80/100|[from] Recoil|[of] p1a: Victreebel
+|move|p1a: Victreebel|Curse|p1a: Victreebel
+|-unboost|p1a: Victreebel|spe|1
+|-boost|p1a: Victreebel|atk|1
+|-boost|p1a: Victreebel|def|1
+|
+|-heal|p2a: Forretress|86/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|78/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711934460
+|switch|p2a: Sandslash|Sandslash, M|88/100
+|move|p1a: Victreebel|Curse|p1a: Victreebel
+|-unboost|p1a: Victreebel|spe|1
+|-boost|p1a: Victreebel|atk|1
+|-boost|p1a: Victreebel|def|1
+|
+|-heal|p2a: Sandslash|94/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|84/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711934477
+|move|p2a: Sandslash|Substitute|p2a: Sandslash
+|-start|p2a: Sandslash|Substitute
+|-damage|p2a: Sandslash|69/100
+|move|p1a: Victreebel|Sludge Bomb|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-end|p2a: Sandslash|Substitute
+|
+|-heal|p2a: Sandslash|75/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|90/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711934486
+|move|p2a: Sandslash|Hidden Power|p1a: Victreebel
+|-supereffective|p1a: Victreebel
+|-damage|p1a: Victreebel|66/100
+|move|p1a: Victreebel|Sludge Bomb|p2a: Sandslash
+|-resisted|p2a: Sandslash
+|-damage|p2a: Sandslash|36/100
+|
+|-heal|p2a: Sandslash|42/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|72/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SlickeRickstA26)
+|inactive|inkedKnightmare55 has 270 seconds left.
+|
+|t:|1711934553
+|switch|p2a: Forretress|Forretress, M|86/100
+|move|p1a: Victreebel|Encore|p2a: Forretress
+|-fail|p2a: Forretress
+|
+|-heal|p2a: Forretress|92/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|78/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|inkedKnightmare55 has 270 seconds left.
+|j| freekruler99
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1711934595
+|move|p2a: Forretress|Double-Edge|p1a: Victreebel
+|-damage|p1a: Victreebel|65/100
+|-damage|p2a: Forretress|89/100|[from] Recoil|[of] p1a: Victreebel
+|move|p1a: Victreebel|Return|p2a: Forretress
+|-resisted|p2a: Forretress
+|-damage|p2a: Forretress|65/100
+|
+|-heal|p2a: Forretress|71/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|71/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711934627
+|switch|p2a: Kingdra|Kingdra, F|100/100
+|move|p1a: Victreebel|Curse|p1a: Victreebel
+|-unboost|p1a: Victreebel|spe|1
+|-boost|p1a: Victreebel|atk|1
+|-boost|p1a: Victreebel|def|1
+|
+|-heal|p1a: Victreebel|77/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711934641
+|move|p2a: Kingdra|Surf|p1a: Victreebel
+|-resisted|p1a: Victreebel
+|-damage|p1a: Victreebel|57/100
+|move|p1a: Victreebel|Sludge Bomb|p2a: Kingdra
+|-crit|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|t:|1711934648
+|switch|p2a: Sandslash|Sandslash, M|42/100
+|
+|-heal|p2a: Sandslash|49/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|63/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711934657
+|move|p2a: Sandslash|Earthquake|p1a: Victreebel
+|-damage|p1a: Victreebel|48/100
+|move|p1a: Victreebel|Return|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|
+|t:|1711934664
+|switch|p2a: Forretress|Forretress, M|71/100
+|
+|-heal|p2a: Forretress|77/100|[from] item: Leftovers
+|-heal|p1a: Victreebel|54/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711934681
+|move|p2a: Forretress|Self-Destruct|p1a: Victreebel
+|-damage|p1a: Victreebel|18/100
+|faint|p2a: Forretress
+|
+|t:|1711934687
+|switch|p2a: Golduck|Golduck, M|100/100
+|
+|-heal|p1a: Victreebel|24/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|c|☆SlickeRickstA26|lool
+|c|☆inkedKnightmare55|come on pussy
+|
+|t:|1711934715
+|switch|p1a: Haunter|Haunter, M|100/100
+|move|p2a: Golduck|Substitute|p2a: Golduck
+|-start|p2a: Golduck|Substitute
+|-damage|p2a: Golduck|76/100
+|
+|-heal|p2a: Golduck|82/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711934725
+|move|p1a: Haunter|Curse|p2a: Golduck
+|-fail|p2a: Golduck
+|move|p2a: Golduck|Confusion|p1a: Haunter
+|-supereffective|p1a: Haunter
+|-damage|p1a: Haunter|62/100
+|
+|-heal|p1a: Haunter|68/100|[from] item: Leftovers
+|-heal|p2a: Golduck|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711934735
+|move|p1a: Haunter|Perish Song|p1a: Haunter
+|-start|p1a: Haunter|perish3|[silent]
+|-start|p2a: Golduck|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|move|p2a: Golduck|Confusion|p1a: Haunter
+|-crit|p1a: Haunter
+|-supereffective|p1a: Haunter
+|-damage|p1a: Haunter|0 fnt
+|faint|p1a: Haunter
+|
+|t:|1711934749
+|switch|p1a: Crobat|Crobat, M|100/100
+|
+|-start|p2a: Golduck|perish3
+|-heal|p2a: Golduck|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711934765
+|switch|p2a: Farfetch’d|Farfetch’d, M|100/100
+|move|p1a: Crobat|Double-Edge|p2a: Farfetch’d
+|-crit|p2a: Farfetch’d
+|-damage|p2a: Farfetch’d|14/100
+|-damage|p1a: Crobat|83/100|[from] Recoil|[of] p2a: Farfetch’d
+|
+|-heal|p1a: Crobat|89/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711934786
+|move|p1a: Crobat|Double-Edge|p2a: Farfetch’d
+|-damage|p2a: Farfetch’d|0 fnt
+|-damage|p1a: Crobat|86/100|[from] Recoil|[of] p2a: Farfetch’d
+|faint|p2a: Farfetch’d
+|
+|t:|1711934794
+|switch|p2a: Golduck|Golduck, M|94/100
+|
+|-heal|p1a: Crobat|92/100|[from] item: Leftovers
+|-heal|p2a: Golduck|99/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711934810
+|move|p1a: Crobat|Double-Edge|p2a: Golduck
+|-damage|p2a: Golduck|73/100
+|-damage|p1a: Crobat|86/100|[from] Recoil|[of] p2a: Golduck
+|move|p2a: Golduck|Substitute|p2a: Golduck
+|-start|p2a: Golduck|Substitute
+|-damage|p2a: Golduck|48/100
+|
+|-heal|p1a: Crobat|92/100|[from] item: Leftovers
+|-heal|p2a: Golduck|54/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711934824
+|move|p1a: Crobat|Double-Edge|p2a: Golduck
+|-end|p2a: Golduck|Substitute
+|-damage|p1a: Crobat|92/100|[from] Recoil|[of] p2a: Golduck
+|move|p2a: Golduck|Confusion|p1a: Crobat
+|-supereffective|p1a: Crobat
+|-damage|p1a: Crobat|68/100
+|
+|-heal|p1a: Crobat|74/100|[from] item: Leftovers
+|-heal|p2a: Golduck|60/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711934836
+|move|p1a: Crobat|Double-Edge|p2a: Golduck
+|-damage|p2a: Golduck|30/100
+|-damage|p1a: Crobat|67/100|[from] Recoil|[of] p2a: Golduck
+|move|p2a: Golduck|Double-Edge|p1a: Crobat
+|-damage|p1a: Crobat|41/100
+|-damage|p2a: Golduck|24/100|[from] Recoil|[of] p1a: Crobat
+|
+|-heal|p1a: Crobat|47/100|[from] item: Leftovers
+|-heal|p2a: Golduck|30/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711934851
+|move|p1a: Crobat|Confuse Ray|p2a: Golduck
+|-start|p2a: Golduck|confusion
+|-activate|p2a: Golduck|confusion
+|move|p2a: Golduck|Surf|p1a: Crobat
+|-damage|p1a: Crobat|11/100
+|
+|-heal|p1a: Crobat|17/100|[from] item: Leftovers
+|-heal|p2a: Golduck|36/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711934863
+|move|p1a: Crobat|Double-Edge|p2a: Golduck
+|-damage|p2a: Golduck|5/100
+|-damage|p1a: Crobat|10/100|[from] Recoil|[of] p2a: Golduck
+|-activate|p2a: Golduck|confusion
+|-damage|p2a: Golduck|0 fnt|[from] confusion
+|faint|p2a: Golduck
+|
+|t:|1711934870
+|switch|p2a: Flaaffy|Flaaffy, M|11/100
+|
+|-heal|p1a: Crobat|16/100|[from] item: Leftovers
+|-heal|p2a: Flaaffy|17/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711934879
+|move|p1a: Crobat|Double-Edge|p2a: Flaaffy
+|-damage|p2a: Flaaffy|0 fnt
+|-damage|p1a: Crobat|13/100|[from] Recoil|[of] p2a: Flaaffy
+|faint|p2a: Flaaffy
+|
+|win|SlickeRickstA26
+|l|☆inkedKnightmare55
+|player|p2|

@@ -1,0 +1,323 @@
+|j|☆test4kion54
+|j|☆Boris245
+|t:|1711946313
+|gametype|doubles
+|player|p1|test4kion54|102|1251
+|player|p2|Boris245|crasherwake|1268
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Chi-Yu|
+|poke|p1|Indeedee, M|
+|poke|p1|Chien-Pao|
+|poke|p1|Torkoal, M|
+|poke|p1|Talonflame, M|
+|poke|p1|Lilligant-Hisui, F|
+|poke|p2|Primarina, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Scream Tail|
+|poke|p2|Gyarados, F|
+|poke|p2|Latios, M|
+|poke|p2|Falinks|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by test4kion54)
+|
+|t:|1711946331
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p1b: Talonflame|Talonflame, M|100/100
+|switch|p2a: Incineroar|Incineroar, M|100/100
+|switch|p2b: Scream Tail|Scream Tail|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Indeedee|atk|1
+|-unboost|p1b: Talonflame|atk|1
+|turn|1
+|inactive|test4kion54 has 120 seconds left.
+|
+|t:|1711946380
+|move|p2b: Scream Tail|Helping Hand|p2a: Incineroar
+|-singleturn|p2a: Incineroar|Helping Hand|[of] p2b: Scream Tail
+|move|p1b: Talonflame|Tailwind|p1b: Talonflame
+|-sidestart|p1: test4kion54|move: Tailwind
+|move|p1a: Indeedee|Shadow Ball|p2b: Scream Tail
+|-supereffective|p2b: Scream Tail
+|-damage|p2b: Scream Tail|49/100
+|-enditem|p2b: Scream Tail|Sitrus Berry|[eat]
+|-heal|p2b: Scream Tail|74/100|[from] item: Sitrus Berry
+|move|p2a: Incineroar|Knock Off|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|-enditem|p1a: Indeedee|Choice Specs|[from] move: Knock Off|[of] p2a: Incineroar
+|faint|p1a: Indeedee
+|
+|upkeep
+|
+|t:|1711946390
+|switch|p1a: Chien-Pao|Chien-Pao|100/100
+|-ability|p1a: Chien-Pao|Sword of Ruin
+|turn|2
+|
+|t:|1711946405
+|move|p1a: Chien-Pao|Protect|p1a: Chien-Pao
+|-singleturn|p1a: Chien-Pao|Protect
+|move|p1b: Talonflame|Will-O-Wisp|p2b: Scream Tail
+|-status|p2b: Scream Tail|brn
+|move|p2b: Scream Tail|Dazzling Gleam|p1b: Talonflame|[spread] p1b
+|-activate|p1a: Chien-Pao|move: Protect
+|-resisted|p1b: Talonflame
+|-damage|p1b: Talonflame|92/100
+|move|p2a: Incineroar|Flare Blitz|p1a: Chien-Pao
+|-activate|p1a: Chien-Pao|move: Protect
+|
+|-damage|p2b: Scream Tail|68/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1711946420
+|move|p1a: Chien-Pao|Sacred Sword|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|50/100
+|move|p1b: Talonflame|Roost|p1b: Talonflame
+|-heal|p1b: Talonflame|100/100
+|-singleturn|p1b: Talonflame|move: Roost
+|move|p2b: Scream Tail|Noble Roar|p1b: Talonflame
+|-unboost|p1b: Talonflame|atk|1
+|-unboost|p1b: Talonflame|spa|1
+|move|p2a: Incineroar|Flare Blitz|p1a: Chien-Pao
+|-supereffective|p1a: Chien-Pao
+|-damage|p1a: Chien-Pao|0 fnt
+|faint|p1a: Chien-Pao
+|-damage|p2a: Incineroar|25/100|[from] Recoil
+|
+|-damage|p2b: Scream Tail|61/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946424
+|switch|p1a: Chi-Yu|Chi-Yu|100/100
+|-ability|p1a: Chi-Yu|Beads of Ruin
+|turn|4
+|inactive|Boris245 has 120 seconds left.
+|
+|t:|1711946467
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|move|p1b: Talonflame|Protect|p1b: Talonflame
+|-singleturn|p1b: Talonflame|Protect
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Gyarados
+|-damage|p2a: Gyarados|48/100
+|move|p2b: Scream Tail|Noble Roar|p1b: Talonflame
+|-activate|p1b: Talonflame|move: Protect
+|
+|-damage|p2b: Scream Tail|55/100 brn|[from] brn
+|-sideend|p1: test4kion54|move: Tailwind
+|upkeep
+|turn|5
+|inactive|Boris245 has 120 seconds left.
+|
+|t:|1711946488
+|move|p1b: Talonflame|Tailwind|p1b: Talonflame
+|-sidestart|p1: test4kion54|move: Tailwind
+|move|p1a: Chi-Yu|Dark Pulse|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|move|p2b: Scream Tail|Noble Roar|p1a: Chi-Yu
+|-unboost|p1a: Chi-Yu|atk|1
+|-unboost|p1a: Chi-Yu|spa|1
+|
+|-damage|p2b: Scream Tail|49/100 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1711946495
+|switch|p2a: Falinks|Falinks|100/100
+|turn|6
+|
+|t:|1711946503
+|move|p1a: Chi-Yu|Dark Pulse|p2b: Scream Tail
+|-damage|p2b: Scream Tail|19/100 brn
+|move|p1b: Talonflame|Will-O-Wisp|p2a: Falinks
+|-status|p2a: Falinks|brn
+|move|p2b: Scream Tail|Noble Roar|p1a: Chi-Yu
+|-unboost|p1a: Chi-Yu|atk|1
+|-unboost|p1a: Chi-Yu|spa|1
+|move|p2a: Falinks|No Retreat|p2a: Falinks
+|-boost|p2a: Falinks|atk|1
+|-boost|p2a: Falinks|def|1
+|-boost|p2a: Falinks|spa|1
+|-boost|p2a: Falinks|spd|1
+|-boost|p2a: Falinks|spe|1
+|-start|p2a: Falinks|move: No Retreat
+|
+|-damage|p2b: Scream Tail|13/100 brn|[from] brn
+|-damage|p2a: Falinks|94/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1711946532
+|switch|p1a: Lilligant|Lilligant-Hisui, F|100/100
+|switch|p1b: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Torkoal
+|-activate|p2b: Scream Tail|ability: Protosynthesis
+|-start|p2b: Scream Tail|protosynthesisspe
+|move|p2b: Scream Tail|Helping Hand|p2a: Falinks
+|-singleturn|p2a: Falinks|Helping Hand|[of] p2b: Scream Tail
+|move|p2a: Falinks|Rock Slide|p1a: Lilligant|[spread] p1a,p1b
+|-resisted|p1a: Lilligant
+|-supereffective|p1b: Torkoal
+|-damage|p1a: Lilligant|87/100
+|-damage|p1b: Torkoal|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2b: Scream Tail|7/100 brn|[from] brn
+|-damage|p2a: Falinks|88/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1711946562
+|-terastallize|p1b: Torkoal|Fire
+|move|p1a: Lilligant|After You|p1b: Torkoal
+|-activate|p1b: Torkoal|move: After You
+|move|p1b: Torkoal|Eruption|p2b: Scream Tail|[spread] p2a,p2b
+|-damage|p2a: Falinks|1/100 brn
+|-damage|p2b: Scream Tail|0 fnt
+|-enditem|p2a: Falinks|Sitrus Berry|[eat]
+|-heal|p2a: Falinks|26/100 brn|[from] item: Sitrus Berry
+|faint|p2b: Scream Tail
+|-end|p2b: Scream Tail|Protosynthesis|[silent]
+|move|p2a: Falinks|Rock Slide|p1b: Torkoal|[spread] p1a,p1b
+|-resisted|p1a: Lilligant
+|-supereffective|p1b: Torkoal
+|-damage|p1a: Lilligant|77/100
+|-damage|p1b: Torkoal|53/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Falinks|20/100 brn|[from] brn
+|-sideend|p1: test4kion54|move: Tailwind
+|upkeep
+|
+|t:|1711946571
+|switch|p2b: Incineroar|Incineroar, M|25/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Lilligant|atk|1
+|-unboost|p1b: Torkoal|atk|1
+|turn|9
+|
+|t:|1711946581
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|switch|p1b: Chi-Yu|Chi-Yu|100/100
+|-ability|p1b: Chi-Yu|Beads of Ruin
+|move|p2b: Incineroar|Fake Out|p1a: Talonflame
+|-damage|p1a: Talonflame|88/100
+|move|p2a: Falinks|Close Combat|p1b: Chi-Yu
+|-supereffective|p1b: Chi-Yu
+|-damage|p1b: Chi-Yu|0 fnt
+|-unboost|p2a: Falinks|def|1
+|-unboost|p2a: Falinks|spd|1
+|faint|p1b: Chi-Yu
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Falinks|14/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946589
+|switch|p1b: Lilligant|Lilligant-Hisui, F|77/100
+|turn|10
+|
+|t:|1711946597
+|move|p1b: Lilligant|Close Combat|p2b: Incineroar
+|-supereffective|p2b: Incineroar
+|-damage|p2b: Incineroar|0 fnt
+|-unboost|p1b: Lilligant|def|1
+|-unboost|p1b: Lilligant|spd|1
+|faint|p2b: Incineroar
+|move|p1a: Talonflame|Tailwind|p1a: Talonflame
+|-sidestart|p1: test4kion54|move: Tailwind
+|move|p2a: Falinks|Rock Slide|p1b: Lilligant|[spread] p1a,p1b
+|-supereffective|p1a: Talonflame
+|-resisted|p1b: Lilligant
+|-damage|p1a: Talonflame|26/100
+|-damage|p1b: Lilligant|63/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Falinks|8/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946605
+|switch|p2b: Latios|Latios, M|100/100
+|turn|11
+|
+|t:|1711946620
+|move|p1b: Lilligant|Close Combat|p2a: Falinks
+|-damage|p2a: Falinks|0 fnt
+|-unboost|p1b: Lilligant|def|1
+|-unboost|p1b: Lilligant|spd|1
+|faint|p2a: Falinks
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|76/100
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2b: Latios|Psych Up|p2: Falinks|[notarget]
+|-fail|p2b: Latios
+|
+|-weather|none
+|upkeep
+|
+|t:|1711946623
+|switch|p2a: Primarina|Primarina, M|100/100
+|turn|12
+|
+|t:|1711946634
+|switch|p1b: Torkoal|Torkoal, M, tera:Fire|53/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Torkoal
+|move|p1a: Talonflame|Will-O-Wisp|p2b: Latios
+|-status|p2b: Latios|brn
+|move|p2b: Latios|Luster Purge|p1a: Talonflame
+|-damage|p1a: Talonflame|1/100
+|-unboost|p1a: Talonflame|spd|1
+|move|p2a: Primarina|Hyper Voice|p1a: Talonflame|[spread] p1a,p1b
+|-supereffective|p1a: Talonflame
+|-supereffective|p1b: Torkoal
+|-damage|p1a: Talonflame|0 fnt
+|-damage|p1b: Torkoal|5/100
+|faint|p1a: Talonflame
+|-enditem|p2a: Primarina|Throat Spray
+|-boost|p2a: Primarina|spa|1|[from] item: Throat Spray
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2b: Latios|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1711946636
+|switch|p1a: Lilligant|Lilligant-Hisui, F|63/100
+|turn|13
+|
+|t:|1711946658
+|move|p1a: Lilligant|Petal Blizzard|p2a: Primarina|[spread] p1b,p2a,p2b
+|-resisted|p1b: Torkoal
+|-supereffective|p2a: Primarina
+|-resisted|p2b: Latios
+|-damage|p1b: Torkoal|0 fnt
+|-damage|p2a: Primarina|31/100
+|-damage|p2b: Latios|73/100 brn
+|faint|p1b: Torkoal
+|move|p2b: Latios|Luster Purge|p1a: Lilligant
+|-supereffective|p1a: Lilligant
+|-damage|p1a: Lilligant|0 fnt
+|faint|p1a: Lilligant
+|
+|win|Boris245
+|raw|test4kion54's rating: 1251 &rarr; <strong>1227</strong><br />(-24 for losing)
+|raw|Boris245's rating: 1268 &rarr; <strong>1292</strong><br />(+24 for winning)
+|l|☆Boris245
+|player|p2|
+|l|☆test4kion54
+|player|p1|

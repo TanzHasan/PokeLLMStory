@@ -1,0 +1,114 @@
+p1: Switched to Ribombee
+p2: Switched to Landorus-Therian
+Turn 1:
+p1: Ribombee used Stun Spore on Landorus-Therian
+p2: Landorus-Therian used Stealth Rock on Ribombee
+Turn 2:
+p1: Ribombee used Stun Spore on Landorus-Therian
+p2: Landorus-Therian used Earthquake on Ribombee
+Turn 3:
+p1: Ribombee used Sticky Web on Landorus-Therian
+p2: Landorus-Therian used U-turn on Ribombee
+p2: Switched to Rayquaza
+Turn 4:
+p1: Switched to Iron Treads
+p2: Rayquaza used Extreme Speed on Iron Treads
+Turn 5:
+p2: Switched to Giratina
+p1: Switched to Mewtwo
+Turn 6:
+p1: Mewtwo used Taunt on Giratina
+p2: Giratina used Dragon Tail on Mewtwo
+Turn 7:
+p1: Switched to Ribombee
+p2: Switched to Arceus-Steel
+Turn 8:
+p1: Ribombee used Stun Spore on Arceus-Steel
+p2: Arceus-Steel used Judgment on Ribombee
+p1: Ribombee fainted
+p1: Switched to Mewtwo
+Turn 9:
+p1: Mewtwo used Thunder Wave on Arceus-Steel
+p2: Arceus-Steel used Judgment on Mewtwo
+Turn 10:
+p1: Mewtwo used Light Screen on Mewtwo
+p2: Arceus-Steel used Judgment on Mewtwo
+p1: Mewtwo fainted
+p1: Switched to Kyurem-Black
+Turn 11:
+p1: Kyurem-Black used Dragon Dance on Kyurem-Black
+p2: Arceus-Steel used Judgment on Kyurem-Black
+Turn 12:
+p2: Switched to Landorus-Therian
+p1: Kyurem-Black used Fusion Bolt on Landorus-Therian
+Turn 13:
+p1: Switched to Indeedee
+p2: Landorus-Therian used Earthquake on Indeedee
+Turn 14:
+p1: Indeedee used Healing Wish on Indeedee
+p1: Indeedee fainted
+p2: Landorus-Therian used U-turn on p1: Indeedee
+p1: Switched to Kyurem-Black
+Turn 15:
+p1: Kyurem-Black used Dragon Dance on Kyurem-Black
+p2: Landorus-Therian used Earthquake on Kyurem-Black
+Turn 16:
+p1: Kyurem-Black used Icicle Spear on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Rayquaza
+Turn 17:
+p2: Rayquaza used Extreme Speed on Kyurem-Black
+p1: Kyurem-Black used Icicle Spear on Rayquaza
+p2: Rayquaza fainted
+p2: Switched to Arceus-Steel
+Turn 18:
+p1: Kyurem-Black used Fusion Bolt on Arceus-Steel
+p2: Arceus-Steel can't move
+Turn 19:
+p1: Kyurem-Black used Scale Shot on Arceus-Steel
+p2: Arceus-Steel fainted
+p2: Switched to Kyogre
+Turn 20:
+p1: Kyurem-Black used Fusion Bolt on Kyogre
+p2: Kyogre fainted
+p2: Switched to Giratina
+Turn 21:
+p1: Kyurem-Black used Icicle Spear on Giratina
+p2: Giratina used Dragon Tail on Kyurem-Black
+Turn 22:
+p1: p1a: Darkrai used Hypnosis on Giratina
+p2: Giratina used Dragon Tail on p1a: Darkrai
+p1: Kyurem-Black fainted
+p1: Switched to Iron Treads
+Turn 23:
+p1: Iron Treads used Rapid Spin on Giratina
+p2: Giratina used Rest on Giratina
+Turn 24:
+p1: Switched to Darkrai
+p2: Giratina can't move
+Turn 25:
+p1: Darkrai used Nasty Plot on Darkrai
+p2: Giratina can't move
+Turn 26:
+p1: Darkrai used Blizzard on Giratina
+p2: Giratina used Dragon Tail on Darkrai
+Turn 27:
+p1: Iron Treads used Earthquake on Giratina
+p2: Giratina used Dragon Tail on Iron Treads
+Turn 28:
+p1: Darkrai used Hypnosis on Giratina
+p2: Giratina used Rest on Giratina
+Turn 29:
+p1: Darkrai used Nasty Plot on Darkrai
+p2: Giratina can't move
+Turn 30:
+p1: Darkrai used Nasty Plot on Darkrai
+p2: Giratina can't move
+Turn 31:
+p1: Darkrai used Blizzard on Giratina
+p2: Giratina fainted
+p2: Switched to Lugia
+Turn 32:
+p1: Darkrai used Dark Pulse on Lugia
+p2: Lugia used Aeroblast on Darkrai
+Turn 33:

@@ -1,0 +1,417 @@
+|j|☆Birbathan
+|j|☆dilllllllllllon
+|t:|1711870326
+|gametype|singles
+|player|p1|Birbathan|266|
+|player|p2|dilllllllllllon|whitney|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Ceruledge, M|
+|poke|p1|Scream Tail|
+|poke|p1|Dragonite, F|
+|poke|p1|Garganacl, F|
+|poke|p1|Kyurem|
+|poke|p1|Keldeo|
+|poke|p2|Necrozma-Dusk-Mane|
+|poke|p2|Blissey, F|
+|poke|p2|Clodsire, M|
+|poke|p2|Pecharunt|
+|poke|p2|Palossand, M|
+|poke|p2|Latios, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dilllllllllllon)
+|c|☆dilllllllllllon|gl
+|c|☆Birbathan|ty
+|
+|t:|1711870349
+|start
+|switch|p1a: sword guy|Ceruledge, M|100/100
+|switch|p2a: Claude|Clodsire, M|100/100
+|turn|1
+|
+|t:|1711870357
+|detailschange|p1a: sword guy|Ceruledge, M
+|-mega|p1a: sword guy|Ceruledge|Gyaradosite
+|-ability|p1a: sword guy|Mold Breaker
+|-start|p1a: sword guy|Gyaradosite|[silent]
+|-start|p1a: sword guy|typechange|Fire/Dark|[silent]
+|detailschange|p2a: Claude|Clodsire, M
+|-mega|p2a: Claude|Clodsire|Gyaradosite
+|-ability|p2a: Claude|Mold Breaker
+|-start|p2a: Claude|Gyaradosite|[silent]
+|-start|p2a: Claude|typechange|Poison/Dark|[silent]
+|move|p1a: sword guy|Taunt|p2a: Claude
+|-start|p2a: Claude|move: Taunt
+|cant|p2a: Claude|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711870361
+|move|p1a: sword guy|Bulk Up|p1a: sword guy
+|-boost|p1a: sword guy|atk|1
+|-boost|p1a: sword guy|def|1
+|move|p2a: Claude|Earthquake|p1a: sword guy
+|-supereffective|p1a: sword guy
+|-crit|p1a: sword guy
+|-damage|p1a: sword guy|17/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711870374
+|move|p1a: sword guy|Bitter Blade|p2a: Claude
+|-damage|p2a: Claude|35/100
+|-heal|p1a: sword guy|63/100|[from] drain|[of] p2a: Claude
+|move|p2a: Claude|Earthquake|p1a: sword guy
+|-supereffective|p1a: sword guy
+|-damage|p1a: sword guy|26/100
+|
+|-end|p2a: Claude|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1711870385
+|-end|p2a: Claude|Gyaradosite|[silent]
+|switch|p2a: Lati-O's|Latios, M|100/100
+|detailschange|p2a: Lati-O's|Latios, M
+|-primal|p2a: Lati-O's|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p2a: Lati-O's
+|-start|p2a: Lati-O's|Red Orb|[silent]
+|-start|p2a: Lati-O's|typechange|Dragon/Fire|[silent]
+|move|p1a: sword guy|Bitter Blade|p2a: Lati-O's
+|-resisted|p2a: Lati-O's
+|-crit|p2a: Lati-O's
+|-damage|p2a: Lati-O's|56/100
+|-heal|p1a: sword guy|54/100|[from] drain|[of] p2a: Lati-O's
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711870394
+|move|p2a: Lati-O's|Weather Ball|p1a: sword guy
+|-resisted|p1a: sword guy
+|-damage|p1a: sword guy|16/100
+|move|p1a: sword guy|Throat Chop|p2a: Lati-O's
+|-damage|p2a: Lati-O's|0 fnt
+|faint|p2a: Lati-O's
+|-weather|none
+|
+|upkeep
+|
+|t:|1711870402
+|switch|p2a: cheeselord69|Palossand, M|100/100
+|turn|6
+|
+|t:|1711870405
+|detailschange|p2a: cheeselord69|Palossand, M
+|-mega|p2a: cheeselord69|Palossand|Banettite
+|-start|p2a: cheeselord69|Banettite|[silent]
+|move|p2a: cheeselord69|Destiny Bond|p2a: cheeselord69
+|-singlemove|p2a: cheeselord69|Destiny Bond
+|move|p1a: sword guy|Throat Chop|p2a: cheeselord69
+|-supereffective|p2a: cheeselord69
+|-damage|p2a: cheeselord69|10/100
+|-start|p2a: cheeselord69|Throat Chop|[silent]
+|
+|upkeep
+|turn|7
+|
+|t:|1711870410
+|move|p1a: sword guy|Taunt|p2a: cheeselord69
+|-start|p2a: cheeselord69|move: Taunt
+|move|p2a: cheeselord69|Poltergeist|p1a: sword guy
+|-activate|p1a: sword guy|move: Poltergeist|Gyaradosite
+|-resisted|p1a: sword guy
+|-damage|p1a: sword guy|0 fnt
+|faint|p1a: sword guy
+|
+|-end|p2a: cheeselord69|Throat Chop|[silent]
+|upkeep
+|
+|t:|1711870414
+|switch|p1a: hors|Keldeo|100/100
+|turn|8
+|
+|t:|1711870420
+|-end|p2a: cheeselord69|Banettite|[silent]
+|switch|p2a: Satan|Blissey, F|100/100
+|detailschange|p1a: hors|Keldeo
+|-mega|p1a: hors|Keldeo|Absolite
+|-start|p1a: hors|Absolite|[silent]
+|move|p1a: hors|Calm Mind|p1a: hors
+|-boost|p1a: hors|spa|1
+|-boost|p1a: hors|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1711870424
+|detailschange|p2a: Satan|Blissey, F
+|-mega|p2a: Satan|Blissey|Audinite
+|-start|p2a: Satan|Audinite|[silent]
+|-start|p2a: Satan|typechange|Normal/Fairy|[silent]
+|move|p1a: hors|Sacred Sword|p2a: Satan
+|-damage|p2a: Satan|81/100
+|move|p2a: Satan|Alluring Voice|p1a: hors
+|-supereffective|p1a: hors
+|-damage|p1a: hors|42/100
+|
+|upkeep
+|turn|10
+|c|☆Birbathan|oops
+|c|☆dilllllllllllon|u thot
+|c|☆Birbathan|wrong move
+|
+|t:|1711870445
+|move|p1a: hors|Hydro Pump|p2a: Satan
+|-damage|p2a: Satan|46/100
+|move|p2a: Satan|Alluring Voice|p1a: hors
+|-supereffective|p1a: hors
+|-damage|p1a: hors|0 fnt
+|faint|p1a: hors
+|
+|upkeep
+|
+|t:|1711870454
+|switch|p1a: salt lick|Garganacl, F|100/100
+|turn|11
+|
+|t:|1711870461
+|detailschange|p1a: salt lick|Garganacl, F
+|-mega|p1a: salt lick|Garganacl|Sablenite
+|-start|p1a: salt lick|Sablenite|[silent]
+|move|p2a: Satan|Soft-Boiled|p2a: Satan
+|-heal|p2a: Satan|96/100
+|move|p1a: salt lick|Salt Cure|p2a: Satan
+|-crit|p2a: Satan
+|-damage|p2a: Satan|82/100
+|-start|p2a: Satan|Salt Cure
+|
+|-damage|p2a: Satan|69/100|[from] Salt Cure
+|upkeep
+|turn|12
+|
+|t:|1711870469
+|-end|p2a: Satan|Audinite|[silent]
+|switch|p2a: Claude|Clodsire, M|35/100
+|-start|p2a: Claude|Gyaradosite|[silent]
+|-start|p2a: Claude|typechange|Poison/Dark|[silent]
+|-ability|p2a: Claude|Mold Breaker
+|move|p1a: salt lick|Body Press|p2a: Claude
+|-damage|p2a: Claude|5/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711870482
+|move|p2a: Claude|Stealth Rock|p1a: salt lick
+|-sidestart|p1: Birbathan|move: Stealth Rock
+|move|p1a: salt lick|Body Press|p2a: Claude
+|-damage|p2a: Claude|0 fnt
+|faint|p2a: Claude
+|
+|upkeep
+|
+|t:|1711870486
+|switch|p2a: cheeselord69|Palossand, M|10/100
+|-start|p2a: cheeselord69|Banettite|[silent]
+|turn|14
+|
+|t:|1711870489
+|move|p2a: cheeselord69|Destiny Bond|p2a: cheeselord69
+|-singlemove|p2a: cheeselord69|Destiny Bond
+|move|p1a: salt lick|Salt Cure|p2a: cheeselord69
+|-resisted|p2a: cheeselord69
+|-damage|p2a: cheeselord69|5/100
+|-start|p2a: cheeselord69|Salt Cure
+|
+|-damage|p2a: cheeselord69|0 fnt|[from] Salt Cure
+|faint|p2a: cheeselord69
+|upkeep
+|c|☆Birbathan|hehe
+|c|☆dilllllllllllon|thats why you always calc it
+|
+|t:|1711870509
+|switch|p2a: Muggsy|Pecharunt|100/100
+|turn|15
+|
+|t:|1711870517
+|move|p2a: Muggsy|Malignant Chain|p1a: salt lick
+|-resisted|p1a: salt lick
+|-damage|p1a: salt lick|91/100
+|move|p1a: salt lick|Salt Cure|p2a: Muggsy
+|-damage|p2a: Muggsy|92/100
+|-start|p2a: Muggsy|Salt Cure
+|
+|-damage|p2a: Muggsy|80/100|[from] Salt Cure
+|upkeep
+|turn|16
+|
+|t:|1711870523
+|-end|p1a: salt lick|Sablenite|[silent]
+|switch|p1a: durgen|Kyurem|100/100
+|-damage|p1a: durgen|76/100|[from] Stealth Rock
+|-ability|p1a: durgen|Pressure
+|detailschange|p1a: durgen|Kyurem
+|-primal|p1a: durgen|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: durgen
+|-start|p1a: durgen|Red Orb|[silent]
+|-start|p1a: durgen|typechange|Dragon/Fire|[silent]
+|move|p2a: Muggsy|Malignant Chain|p1a: durgen
+|-damage|p1a: durgen|45/100
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p2a: Muggsy|68/100|[from] Salt Cure
+|upkeep
+|turn|17
+|inactive|dilllllllllllon has 270 seconds left.
+|
+|t:|1711870554
+|detailschange|p2a: Muggsy|Pecharunt
+|-mega|p2a: Muggsy|Pecharunt|Latiasite
+|-start|p2a: Muggsy|Latiasite|[silent]
+|move|p1a: durgen|Weather Ball|p2a: Muggsy
+|-damage|p2a: Muggsy|4/100
+|move|p2a: Muggsy|Malignant Chain|p1a: durgen
+|-damage|p1a: durgen|5/100
+|-status|p1a: durgen|tox
+|
+|-weather|DesolateLand|[upkeep]
+|-damage|p1a: durgen|0 fnt|[from] psn
+|faint|p1a: durgen
+|-weather|none
+|-damage|p2a: Muggsy|0 fnt|[from] Salt Cure
+|faint|p2a: Muggsy
+|upkeep
+|inactive|dilllllllllllon has 270 seconds left.
+|
+|t:|1711870568
+|switch|p1a: AAAAAAAAA|Scream Tail|100/100
+|switch|p2a: Nyekozmeow|Necrozma-Dusk-Mane|100/100
+|-damage|p1a: AAAAAAAAA|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1711870573
+|detailschange|p1a: AAAAAAAAA|Scream Tail
+|-mega|p1a: AAAAAAAAA|Scream Tail|Gardevoirite
+|-end|p1a: AAAAAAAAA|Protosynthesis|[silent]
+|-start|p1a: AAAAAAAAA|Gardevoirite|[silent]
+|move|p1a: AAAAAAAAA|Fire Blast|p2a: Nyekozmeow|[miss]
+|-miss|p1a: AAAAAAAAA|p2a: Nyekozmeow
+|move|p2a: Nyekozmeow|Sunsteel Strike|p1a: AAAAAAAAA
+|-supereffective|p1a: AAAAAAAAA
+|-damage|p1a: AAAAAAAAA|12/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711870590
+|move|p1a: AAAAAAAAA|Fire Blast|p2a: Nyekozmeow
+|-supereffective|p2a: Nyekozmeow
+|-damage|p2a: Nyekozmeow|58/100
+|move|p2a: Nyekozmeow|Moonlight|p2a: Nyekozmeow
+|-heal|p2a: Nyekozmeow|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1711870594
+|move|p1a: AAAAAAAAA|Encore|p2a: Nyekozmeow
+|-start|p2a: Nyekozmeow|Encore
+|move|p2a: Nyekozmeow|Moonlight|p2a: Nyekozmeow
+|-fail|p2a: Nyekozmeow|heal
+|
+|upkeep
+|turn|21
+|
+|t:|1711870597
+|switch|p2a: Satan|Blissey, F|69/100
+|-start|p2a: Satan|Audinite|[silent]
+|-start|p2a: Satan|typechange|Normal/Fairy|[silent]
+|move|p1a: AAAAAAAAA|Calm Mind|p1a: AAAAAAAAA
+|-boost|p1a: AAAAAAAAA|spa|1
+|-boost|p1a: AAAAAAAAA|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1711870600
+|move|p1a: AAAAAAAAA|Boomburst|p2a: Satan
+|-damage|p2a: Satan|27/100
+|move|p2a: Satan|Alluring Voice|p1a: AAAAAAAAA
+|-damage|p1a: AAAAAAAAA|0 fnt
+|faint|p1a: AAAAAAAAA
+|
+|upkeep
+|
+|t:|1711870606
+|switch|p1a: other durgen|Dragonite, F|100/100
+|-damage|p1a: other durgen|76/100|[from] Stealth Rock
+|turn|23
+|c|☆dilllllllllllon|encore is evil
+|
+|t:|1711870610
+|-end|p2a: Satan|Audinite|[silent]
+|switch|p2a: Nyekozmeow|Necrozma-Dusk-Mane|100/100
+|detailschange|p1a: other durgen|Dragonite, F
+|-mega|p1a: other durgen|Dragonite|Altarianite
+|-start|p1a: other durgen|Altarianite|[silent]
+|-start|p1a: other durgen|typechange|Dragon/Fairy|[silent]
+|move|p1a: other durgen|Dragon Dance|p1a: other durgen
+|-boost|p1a: other durgen|atk|1
+|-boost|p1a: other durgen|spe|1
+|
+|upkeep
+|turn|24
+|c|☆Birbathan|it is >:D
+|
+|t:|1711870618
+|move|p1a: other durgen|Earthquake|p2a: Nyekozmeow
+|-supereffective|p2a: Nyekozmeow
+|-damage|p2a: Nyekozmeow|49/100
+|move|p2a: Nyekozmeow|Sunsteel Strike|p1a: other durgen
+|-supereffective|p1a: other durgen
+|-damage|p1a: other durgen|2/100
+|
+|-heal|p2a: Nyekozmeow|55/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|c|☆dilllllllllllon|encore giv me nightmaires
+|
+|t:|1711870629
+|move|p1a: other durgen|Earthquake|p2a: Nyekozmeow
+|-supereffective|p2a: Nyekozmeow
+|-damage|p2a: Nyekozmeow|0 fnt
+|faint|p2a: Nyekozmeow
+|
+|upkeep
+|c|☆dilllllllllllon|gg close one
+|
+|t:|1711870636
+|switch|p2a: Satan|Blissey, F|27/100
+|-start|p2a: Satan|Audinite|[silent]
+|-start|p2a: Satan|typechange|Normal/Fairy|[silent]
+|turn|26
+|c|☆Birbathan|i'll encore you into those nightmares
+|
+|t:|1711870640
+|move|p1a: other durgen|Extreme Speed|p2a: Satan
+|-damage|p2a: Satan|0 fnt
+|faint|p2a: Satan
+|
+|win|Birbathan
+|c|☆Birbathan|gg

@@ -1,0 +1,217 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] Ubers is currently suspecting Last Respects! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/np-sv-ubers-stage-3-respect.3739544/">suspect thread</a>.</strong></div>
+|j|‽Abra0
+|j|☆g_bates66
+|t:|1711940724
+|gametype|singles
+|player|p1|Abra0|ltsurge|1034
+|player|p2|g_bates66|lucas-gen4pt|1024
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Ubers
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Blaziken, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Gardevoir, F|
+|poke|p1|Tyranitar, M|
+|poke|p1|Rayquaza|
+|poke|p1|Sceptile, M|
+|poke|p2|Kilowattrel, M|
+|poke|p2|Palafin, M|
+|poke|p2|Meowscarada, M|
+|poke|p2|Baxcalibur, M|
+|poke|p2|Clodsire, M|
+|poke|p2|Armarouge, M|
+|teampreview
+|
+|t:|1711940740
+|start
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|switch|p2a: Odyssey|Palafin, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1711940761
+|move|p2a: Odyssey|Close Combat|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|6/100
+|-unboost|p2a: Odyssey|def|1
+|-unboost|p2a: Odyssey|spd|1
+|-damage|p2a: Odyssey|84/100|[from] item: Rocky Helmet|[of] p1a: Tyranitar
+|move|p1a: Tyranitar|Earthquake|p2a: Odyssey
+|-damage|p2a: Odyssey|13/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Odyssey|7/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1711940775
+|move|p2a: Odyssey|Jet Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-damage|p2a: Odyssey|0 fnt|[from] item: Rocky Helmet|[of] p1a: Tyranitar
+|faint|p1a: Tyranitar
+|faint|p2a: Odyssey
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711940784
+|switch|p2a: Bane|Clodsire, M|100/100
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|turn|3
+|
+|t:|1711940798
+|-terastallize|p1a: Garchomp|Dragon
+|move|p2a: Bane|Protect|p2a: Bane
+|-singleturn|p2a: Bane|Protect
+|move|p1a: Garchomp|Aerial Ace|p2a: Bane
+|-activate|p2a: Bane|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711940807
+|move|p1a: Garchomp|Aerial Ace|p2a: Bane
+|-damage|p2a: Bane|85/100
+|move|p2a: Bane|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Bane|91/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711940827
+|move|p2a: Bane|Protect|p2a: Bane
+|-singleturn|p2a: Bane|Protect
+|move|p1a: Garchomp|Earthquake|p2a: Bane
+|-activate|p2a: Bane|move: Protect
+|
+|-weather|none
+|-heal|p1a: Garchomp|100/100 tox|[from] item: Leftovers
+|-heal|p2a: Bane|97/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711940845
+|switch|p2a: Chudori|Kilowattrel, M|100/100
+|move|p1a: Garchomp|Dragon Pulse|p2a: Chudori
+|-damage|p2a: Chudori|46/100
+|
+|-heal|p1a: Garchomp|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711940858
+|move|p2a: Chudori|Air Slash|p1a: Garchomp
+|-damage|p1a: Garchomp|30/100 tox
+|-damage|p2a: Chudori|36/100|[from] item: Life Orb
+|move|p1a: Garchomp|Dragon Pulse|p2a: Chudori
+|-damage|p2a: Chudori|0 fnt
+|faint|p2a: Chudori
+|
+|-heal|p1a: Garchomp|36/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|11/100 tox|[from] psn
+|upkeep
+|
+|t:|1711940876
+|switch|p2a: Kaiju|Baxcalibur, M|100/100
+|turn|8
+|
+|t:|1711940886
+|-terastallize|p2a: Kaiju|Ice
+|move|p1a: Garchomp|Fire Blast|p2a: Kaiju
+|-supereffective|p2a: Kaiju
+|-damage|p2a: Kaiju|64/100
+|-ability|p2a: Kaiju|Thermal Exchange|boost
+|-boost|p2a: Kaiju|atk|1
+|move|p2a: Kaiju|Dragon Dance|p2a: Kaiju
+|-boost|p2a: Kaiju|atk|1
+|-boost|p2a: Kaiju|spe|1
+|
+|-heal|p1a: Garchomp|17/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|0 fnt|[from] psn
+|faint|p1a: Garchomp
+|upkeep
+|
+|t:|1711940901
+|switch|p1a: Rayquaza|Rayquaza, shiny|100/100
+|-ability|p1a: Rayquaza|Air Lock
+|turn|9
+|
+|t:|1711940907
+|move|p2a: Kaiju|Icicle Spear|p1a: Rayquaza
+|-supereffective|p1a: Rayquaza
+|-damage|p1a: Rayquaza|0 fnt
+|faint|p1a: Rayquaza
+|-hitcount|p1: Rayquaza|1
+|
+|upkeep
+|
+|t:|1711940913
+|switch|p1a: Gardevoir|Gardevoir, F, shiny|100/100
+|turn|10
+|
+|t:|1711940919
+|move|p2a: Kaiju|Icicle Spear|p1a: Gardevoir
+|-damage|p1a: Gardevoir|40/100
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|-hitcount|p1: Gardevoir|2
+|
+|upkeep
+|
+|t:|1711940932
+|switch|p1a: Blaziken|Blaziken, M, shiny|100/100
+|turn|11
+|
+|t:|1711940937
+|move|p2a: Kaiju|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-enditem|p1a: Blaziken|Focus Sash
+|-damage|p1a: Blaziken|1/100
+|move|p1a: Blaziken|Blaze Kick|p2a: Kaiju|[miss]
+|-miss|p1a: Blaziken|p2a: Kaiju
+|
+|upkeep
+|turn|12
+|c|☆g_bates66|Gg
+|
+|t:|1711940954
+|move|p2a: Kaiju|Icicle Spear|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-hitcount|p1: Blaziken|1
+|
+|upkeep
+|
+|t:|1711940959
+|switch|p1a: Sceptile|Sceptile, M|100/100
+|turn|13
+|
+|t:|1711940963
+|move|p2a: Kaiju|Glaive Rush|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|-singlemove|p2a: Kaiju|Glaive Rush|[silent]
+|faint|p1a: Sceptile
+|
+|win|g_bates66
+|raw|Abra0's rating: 1034 &rarr; <strong>1018</strong><br />(-16 for losing)
+|raw|g_bates66's rating: 1024 &rarr; <strong>1061</strong><br />(+37 for winning)
+|l|‽Abra0
+|player|p1|

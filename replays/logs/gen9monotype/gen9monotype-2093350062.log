@@ -1,0 +1,449 @@
+|j|☆Drop A Lando
+|j|☆ShadowKipper
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711942852
+|gametype|singles
+|player|p1|Drop A Lando|elesa-masters2|
+|player|p2|ShadowKipper|backpacker|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Monotype
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Same Type Clause: Pokémon in a team must share a type
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Darkrai|
+|poke|p1|Hydreigon, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Krookodile, M|
+|poke|p2|Ditto|
+|poke|p2|Blissey, F|
+|poke|p2|Ursaluna, F|
+|poke|p2|Braviary, M|
+|poke|p2|Porygon2|
+|poke|p2|Meloetta|
+|teampreview
+|inactive|Drop A Lando also wants the timer to be on.
+|c|☆Drop A Lando|glhf
+|c|☆ShadowKipper|u2!
+|inactive|ShadowKipper has 120 seconds left.
+|j|+mauby ♆
+|
+|t:|1711942884
+|start
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Porygon2|atk|1
+|-ability|p2a: Porygon2|Intimidate|boost
+|-unboost|p1a: Krookodile|atk|1
+|-ability|p2a: Porygon2|Intimidate|[from] ability: Trace|[of] p1a: Krookodile
+|turn|1
+|
+|t:|1711942893
+|move|p1a: Krookodile|Knock Off|p2a: Porygon2
+|-damage|p2a: Porygon2|87/100
+|-enditem|p2a: Porygon2|Eviolite|[from] move: Knock Off|[of] p1a: Krookodile
+|move|p2a: Porygon2|Ice Beam|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|43/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711942900
+|move|p1a: Krookodile|Stealth Rock|p2a: Porygon2
+|-sidestart|p2: ShadowKipper|move: Stealth Rock
+|move|p2a: Porygon2|Ice Beam|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1711942908
+|switch|p1a: Darkrai|Darkrai|100/100
+|turn|3
+|
+|t:|1711942921
+|move|p1a: Darkrai|Hypnosis|p2a: Porygon2
+|-status|p2a: Porygon2|slp|[from] move: Hypnosis
+|cant|p2a: Porygon2|slp
+|
+|-damage|p2a: Porygon2|75/100 slp|[from] ability: Bad Dreams|[of] p1a: Darkrai
+|upkeep
+|turn|4
+|
+|t:|1711942927
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1711942940
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|75/100
+|
+|upkeep
+|turn|6
+|j|+Boomp
+|
+|t:|1711942958
+|switch|p2a: Braviary|Braviary, M|100/100
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|Reflect
+|
+|upkeep
+|turn|7
+|
+|t:|1711942966
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|move: Light Screen
+|move|p2a: Braviary|Defog|p1a: Grimmsnarl
+|-unboost|p1a: Grimmsnarl|evasion|1
+|-sideend|p1: Drop A Lando|Reflect
+|-sideend|p1: Drop A Lando|move: Light Screen
+|-sideend|p2: ShadowKipper|Stealth Rock|[from] move: Defog|[of] p2a: Braviary
+|
+|upkeep
+|turn|8
+|j| bruised thighs
+|c|☆Drop A Lando|oh shit i forgot defog got rid of screens LOL
+|
+|t:|1711942981
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|Reflect
+|move|p2a: Braviary|U-turn|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|68/100
+|
+|t:|1711942994
+|switch|p2a: Ursaluna|Ursaluna, F|100/100|[from] U-turn
+|
+|-status|p2a: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|turn|9
+|
+|t:|1711943001
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Ursaluna
+|-unboost|p2a: Ursaluna|atk|1
+|-unboost|p2a: Ursaluna|spa|1
+|
+|t:|1711943008
+|switch|p1a: Weavile|Weavile, M|100/100|[from] Parting Shot
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Ursaluna|Trailblaze|p1a: Weavile
+|-damage|p1a: Weavile|84/100
+|-boost|p2a: Ursaluna|spe|1
+|
+|-damage|p2a: Ursaluna|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|c|☆Drop A Lando|pfft wow
+|
+|t:|1711943034
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Weavile|[from] ability: Imposter
+|-ability|p2a: Ditto|Pressure
+|move|p1a: Weavile|Triple Axel|p2a: Ditto
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|92/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|76/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|54/100
+|-hitcount|p2a: Ditto|3
+|
+|upkeep
+|turn|11
+|j| endallbeallball
+|c|☆Drop A Lando|oh i see
+|
+|t:|1711943046
+|move|p2a: Ditto|Knock Off|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|65/100
+|-enditem|p1a: Weavile|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ditto
+|move|p1a: Weavile|Triple Axel|p2a: Ditto|[miss]
+|-miss|p1a: Weavile|p2a: Ditto
+|
+|upkeep
+|turn|12
+|
+|t:|1711943061
+|switch|p2a: Porygon2|Porygon2|75/100 slp
+|-ability|p2a: Porygon2|Pressure
+|-ability|p2a: Porygon2|Pressure|[from] ability: Trace|[of] p1a: Weavile
+|move|p1a: Weavile|Knock Off|p2a: Porygon2
+|-damage|p2a: Porygon2|52/100 slp
+|
+|upkeep
+|turn|13
+|
+|t:|1711943070
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|-curestatus|p2a: Porygon2|slp|[msg]
+|move|p2a: Porygon2|Discharge|p1a: Weavile
+|-damage|p1a: Weavile|36/100
+|
+|upkeep
+|turn|14
+|c|☆Drop A Lando|bro
+|
+|t:|1711943078
+|move|p1a: Weavile|Triple Axel|p2a: Porygon2
+|-damage|p2a: Porygon2|38/100
+|-damage|p2a: Porygon2|10/100
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|-hitcount|p2: Porygon2|3
+|
+|upkeep
+|c|☆Drop A Lando|jesus thats scary
+|
+|t:|1711943097
+|switch|p2a: Ditto|Ditto|54/100
+|-transform|p2a: Ditto|p1a: Weavile|[from] ability: Imposter
+|-ability|p2a: Ditto|Pressure
+|turn|15
+|
+|t:|1711943106
+|move|p1a: Weavile|Ice Shard|p2a: Ditto
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|20/100
+|move|p2a: Ditto|Triple Axel|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|28/100
+|-resisted|p1a: Weavile
+|-crit|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-hitcount|p1: Weavile|2
+|
+|-sideend|p1: Drop A Lando|Reflect
+|upkeep
+|
+|t:|1711943113
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|68/100
+|turn|16
+|
+|t:|1711943118
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|Reflect
+|move|p2a: Ditto|Triple Axel|p1a: Grimmsnarl|[miss]
+|-miss|p2a: Ditto|p1a: Grimmsnarl
+|
+|upkeep
+|turn|17
+|
+|t:|1711943126
+|move|p2a: Ditto|Triple Axel|p1a: Grimmsnarl|[miss]
+|-miss|p2a: Ditto|p1a: Grimmsnarl
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|upkeep
+|c|☆Drop A Lando|LMFAO
+|c|☆Drop A Lando|nah thats wild af
+|
+|t:|1711943141
+|switch|p2a: Braviary|Braviary, M|100/100
+|turn|18
+|
+|t:|1711943147
+|move|p1a: Grimmsnarl|Parting Shot|p2a: Braviary
+|-unboost|p2a: Braviary|atk|1
+|-ability|p2a: Braviary|Defiant|boost
+|-boost|p2a: Braviary|atk|2
+|-unboost|p2a: Braviary|spa|1
+|-ability|p2a: Braviary|Defiant|boost
+|-boost|p2a: Braviary|atk|2
+|c|☆Drop A Lando|oh rah
+|inactive|Drop A Lando has 120 seconds left.
+|
+|t:|1711943182
+|switch|p1a: Hydreigon|Hydreigon, F|100/100|[from] Parting Shot
+|move|p2a: Braviary|Defog|p1a: Hydreigon
+|-unboost|p1a: Hydreigon|evasion|1
+|-sideend|p1: Drop A Lando|Reflect
+|
+|upkeep
+|turn|19
+|inactive|Drop A Lando has 120 seconds left.
+|
+|t:|1711943191
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Hydreigon|Dragon Pulse|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|
+|upkeep
+|turn|20
+|inactive|Drop A Lando has 120 seconds left.
+|
+|t:|1711943213
+|switch|p1a: Darkrai|Darkrai|100/100
+|move|p2a: Blissey|Stealth Rock|p1a: Darkrai
+|-sidestart|p1: Drop A Lando|move: Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1711943224
+|switch|p2a: Ursaluna|Ursaluna, F|94/100 brn
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|
+|-damage|p2a: Ursaluna|88/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1711943232
+|move|p1a: Darkrai|Dark Pulse|p2a: Ursaluna
+|-damage|p2a: Ursaluna|5/100 brn
+|move|p2a: Ursaluna|Drain Punch|p1a: Darkrai
+|-supereffective|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|-heal|p2a: Ursaluna|41/100 brn|[from] drain|[of] p1a: Darkrai
+|faint|p1a: Darkrai
+|
+|-damage|p2a: Ursaluna|34/100 brn|[from] brn
+|upkeep
+|c|☆Drop A Lando|bro
+|inactive|Drop A Lando has 120 seconds left.
+|inactive|Drop A Lando has 90 seconds left.
+|
+|t:|1711943277
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|68/100
+|-damage|p1a: Grimmsnarl|55/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1711943283
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|Reflect
+|move|p2a: Ursaluna|Drain Punch|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|40/100
+|-heal|p2a: Ursaluna|42/100 brn|[from] drain|[of] p1a: Grimmsnarl
+|
+|-damage|p2a: Ursaluna|36/100 brn|[from] brn
+|upkeep
+|turn|24
+|c| bruised thighs|If you’re real you use superpower scarf hydreigon for blissey
+|
+|t:|1711943295
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: Drop A Lando|move: Light Screen
+|move|p2a: Ursaluna|Facade|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|-damage|p2a: Ursaluna|30/100 brn|[from] brn
+|upkeep
+|c|☆Drop A Lando|lmao nooo
+|
+|t:|1711943302
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|-damage|p1a: Moltres|76/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1711943313
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Ursaluna|Facade|p1a: Moltres
+|-damage|p1a: Moltres|10/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|-damage|p2a: Ursaluna|23/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1711943319
+|move|p1a: Moltres|Fiery Wrath|p2a: Ursaluna
+|-damage|p2a: Ursaluna|0 fnt
+|faint|p2a: Ursaluna
+|
+|upkeep
+|c|☆Drop A Lando|how does it do so much through screen
+|
+|t:|1711943329
+|switch|p2a: Blissey|Blissey, F|86/100
+|turn|27
+|
+|t:|1711943334
+|move|p1a: Moltres|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|43/100
+|move|p2a: Blissey|Seismic Toss|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1711943337
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1711943342
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|93/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711943346
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|move|p2a: Blissey|Seismic Toss|p1a: Hydreigon
+|-damage|p1a: Hydreigon|57/100
+|
+|upkeep
+|turn|30
+|
+|t:|1711943350
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|move|p2a: Blissey|Seismic Toss|p1a: Hydreigon
+|-damage|p1a: Hydreigon|27/100
+|
+|-sideend|p1: Drop A Lando|Reflect
+|upkeep
+|turn|31
+|
+|t:|1711943355
+|move|p1a: Hydreigon|Dark Pulse|p2a: Blissey
+|-damage|p2a: Blissey|38/100
+|move|p2a: Blissey|Seismic Toss|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|ShadowKipper
+|n|☆Drop A Lando|dropalando
+|n|☆ShadowKipper|shadowkipper
+|n| mauby ♆|mauby
+|n| Boomp|boomp
+|n| bruised thighs|bruisedthighs
+|n| endallbeallball|endallbeallball
+|c|☆ShadowKipper|gg
+|c|☆Drop A Lando|thats crazy
+|c|☆Drop A Lando|yea righto
+|c|☆Drop A Lando|gg
+|l|☆ShadowKipper
+|player|p2|

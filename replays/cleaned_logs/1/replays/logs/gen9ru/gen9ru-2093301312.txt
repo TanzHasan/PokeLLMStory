@@ -1,0 +1,80 @@
+p1: Switched to Muk-Alola
+p2: Switched to Basculegion
+Turn 1:
+p1: Switched to Cyclizar
+p2: Basculegion used Wave Crash on Cyclizar
+Turn 2:
+p2: Switched to Illumise
+p1: Cyclizar used Knock Off on Illumise
+Turn 3:
+p2: Illumise used Rain Dance on Illumise
+p1: Cyclizar used U-turn on Illumise
+p1: Switched to Muk-Alola
+Turn 4:
+p2: Illumise used U-turn on Muk-Alola
+p2: Switched to Feraligatr
+p1: Muk-Alola used Knock Off on Feraligatr
+Turn 5:
+p1: Switched to Gyarados
+p2: Feraligatr used Liquidation on Gyarados
+Turn 6:
+p2: Switched to Kingdra
+p1: Gyarados used Waterfall on Kingdra
+Turn 7:
+p1: Switched to Muk-Alola
+p2: Kingdra used Draco Meteor on Muk-Alola
+Turn 8:
+p2: Switched to Illumise
+p1: Muk-Alola used Poison Jab on Illumise
+Turn 9:
+p2: Illumise used Rain Dance on Illumise
+p1: Muk-Alola used Poison Jab on Illumise
+p2: Illumise fainted
+p2: Switched to Basculegion
+Turn 10:
+p1: Switched to Cyclizar
+p2: Basculegion used Wave Crash on Cyclizar
+p1: Cyclizar fainted
+p1: Switched to Gyarados
+Turn 11:
+p1: Gyarados used Waterfall on Basculegion
+p2: Basculegion used Wave Crash on Gyarados
+p1: Gyarados fainted
+p1: Switched to Gardevoir
+Turn 12:
+p1: Gardevoir used Moonblast on Basculegion
+p2: Basculegion fainted
+p2: Switched to Floatzel
+Turn 13:
+p1: Switched to Hippowdon
+p2: Floatzel used Wave Crash on Hippowdon
+p1: Hippowdon fainted
+p1: Switched to Gardevoir
+Turn 14:
+p1: Gardevoir used Moonblast on Floatzel
+p2: Floatzel fainted
+p2: Switched to Sableye
+Turn 15:
+p2: Sableye used Rain Dance on Sableye
+p1: Gardevoir used Moonblast on Sableye
+p2: Sableye fainted
+p2: Switched to Kingdra
+Turn 16:
+p1: Gardevoir used Moonblast on Kingdra
+p2: Kingdra used Surf on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Muk-Alola
+Turn 17:
+p2: Switched to Feraligatr
+p1: Muk-Alola used Knock Off on Feraligatr
+Turn 18:
+p2: Feraligatr used Liquidation on Muk-Alola
+p1: Muk-Alola fainted
+p1: Switched to Rotom-Heat
+Turn 19:
+p1: Rotom-Heat used Volt Switch on Feraligatr
+p2: Feraligatr fainted
+p2: Switched to Kingdra
+Turn 20:
+p2: Kingdra used Surf on Rotom-Heat
+p1: Rotom-Heat fainted

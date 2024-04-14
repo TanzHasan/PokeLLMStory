@@ -1,0 +1,204 @@
+p1: Switched to Espeon
+p2: Switched to Kilowattrel
+Turn 1:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Ice Beam on Espeon
+p1: Espeon used Metronome on Espeon
+p1: Espeon used Bubble Beam on Kilowattrel
+Turn 2:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Triple Axel on Espeon
+p1: Espeon used Metronome on Espeon
+p1: Espeon used Acid Spray on Kilowattrel
+Turn 3:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Volt Switch on Espeon
+p1: Espeon fainted
+p2: Switched to Alakazam
+p1: Switched to Lopunny
+Turn 4:
+p1: Lopunny used Metronome on Lopunny
+p1: Lopunny used Poison Sting on Alakazam
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Work Up on Alakazam
+Turn 5:
+p1: Lopunny used Metronome on Lopunny
+p1: Lopunny used Thunder Punch on Alakazam
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Reflect Type on Lopunny
+Turn 6:
+p1: Lopunny used Metronome on Lopunny
+p1: Lopunny used Frenzy Plant on Alakazam
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Aqua Cutter on Lopunny
+Turn 7:
+p1: Lopunny can't move
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Crunch on Lopunny
+Turn 8:
+p1: Lopunny used Metronome on Lopunny
+p1: Lopunny used Shadow Sneak on Alakazam
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Tera Blast on Lopunny
+Turn 9:
+p1: Lopunny used Metronome on Lopunny
+p1: Lopunny used Razor Leaf on Alakazam
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Fury Cutter on Lopunny
+p1: Lopunny fainted
+p1: Switched to Comfey
+Turn 10:
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Tera Blast on Comfey
+p1: Comfey used Metronome on Comfey
+p1: Comfey used Sunny Day on Comfey
+Turn 11:
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Arm Thrust on Comfey
+p1: Comfey used Metronome on Comfey
+p1: Comfey used Swords Dance on Comfey
+Turn 12:
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Spite on Comfey
+p1: Comfey used Metronome on Comfey
+p1: Comfey used Magma Storm on Alakazam
+Turn 13:
+p2: Alakazam used Metronome on Alakazam
+p2: Alakazam used Fissure on Comfey
+p1: Comfey fainted
+p1: Switched to Dragapult
+Turn 14:
+p2: Switched to Exeggutor-Alola
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Poison Powder on Exeggutor-Alola
+Turn 15:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Acupressure on Dragapult
+p2: Exeggutor-Alola used Metronome on Exeggutor-Alola
+p2: Exeggutor-Alola used Safeguard on Exeggutor-Alola
+Turn 16:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Crabhammer on Exeggutor-Alola
+p2: Exeggutor-Alola used Metronome on Exeggutor-Alola
+p2: Exeggutor-Alola used Brick Break on Dragapult
+Turn 17:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult failed to use Fly
+p2: Exeggutor-Alola used Metronome on Exeggutor-Alola
+p2: Exeggutor-Alola used Gigaton Hammer on Dragapult
+Turn 18:
+p2: Switched to Kilowattrel
+p1: Dragapult used Fly on Kilowattrel
+Turn 19:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Defog on Dragapult
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Psychic Fangs on Kilowattrel
+Turn 20:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Dynamic Punch on Dragapult
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Cotton Guard on Dragapult
+Turn 21:
+p2: Kilowattrel used Metronome on Kilowattrel
+p2: Kilowattrel used Soak on Dragapult
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Water Shuriken on Kilowattrel
+Turn 22:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Superpower on Kilowattrel
+p2: Kilowattrel fainted
+p2: Switched to Volcarona
+Turn 23:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Shadow Claw on Volcarona
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona used Psychic Fangs on Dragapult
+Turn 24:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Bolt Strike on Volcarona
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona used Fickle Beam on Dragapult
+Turn 25:
+p2: Switched to Swampert
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Bullet Punch on Swampert
+Turn 26:
+p1: Dragapult used Metronome on Dragapult
+p1: Dragapult used Fickle Beam on Swampert
+p1: Dragapult fainted
+p2: Swampert used Metronome on Swampert
+p2: Swampert used Fire Spin on p1: Genos
+p1: Switched to Quilladin
+Turn 27:
+p2: Swampert used Metronome on Swampert
+p2: Swampert used Steel Wing on Quilladin
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Taunt on Swampert
+Turn 28:
+p2: Switched to Volcarona
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Facade on Volcarona
+Turn 29:
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona used Flail on Quilladin
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Sweet Scent on Volcarona
+Turn 30:
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona used Lock-On on Quilladin
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Dragon Pulse on Volcarona
+Turn 31:
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona failed to use Sky Attack
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Ember on Volcarona
+Turn 32:
+p1: Switched to Kingambit
+p2: Volcarona used Sky Attack on Kingambit
+Turn 33:
+p2: Volcarona used Metronome on Volcarona
+p2: Volcarona used Attract on Kingambit
+p1: Kingambit used Metronome on Kingambit
+p1: Kingambit used Memento on Volcarona
+p1: Kingambit fainted
+p1: Switched to Quilladin
+Turn 34:
+p2: Switched to Annihilape
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin failed to use Magnetic Flux
+Turn 35:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Leaf Blade on Quilladin
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Muddy Water on Annihilape
+Turn 36:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Defense Curl on Annihilape
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Hyper Beam on Annihilape
+Turn 37:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Gravity on Annihilape
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Super Fang on Annihilape
+Turn 38:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Withdraw on Annihilape
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Noble Roar on Annihilape
+Turn 39:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Judgment on Quilladin
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin used Grass Pledge on Annihilape
+Turn 40:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape failed to use Forest's Curse
+p1: Quilladin used Metronome on Quilladin
+p1: Quilladin failed to use Upper Hand
+Turn 41:
+p2: Annihilape used Metronome on Annihilape
+p2: Annihilape used Dire Claw on Quilladin
+p1: Quilladin fainted

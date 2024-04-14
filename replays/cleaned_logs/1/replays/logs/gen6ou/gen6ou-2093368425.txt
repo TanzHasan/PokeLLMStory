@@ -1,0 +1,116 @@
+p1: Switched to Serperior
+p2: Switched to Smeargle
+Turn 1:
+p1: Serperior used Taunt on Smeargle
+p2: Smeargle can't move
+Turn 2:
+p2: Switched to Bisharp
+p1: Serperior used Reflect on Serperior
+Turn 3:
+p1: Switched to Gallade
+p2: Bisharp used Knock Off on Gallade
+Turn 4:
+p2: Switched to Clefable
+p1: Gallade used Swords Dance on Gallade
+Turn 5:
+p1: Gallade used Substitute on Gallade
+p2: Clefable used Moonblast on Gallade
+Turn 6:
+p1: Gallade used Drain Punch on Clefable
+p2: Clefable used Moonblast on Gallade
+Turn 7:
+p1: Gallade used Psycho Cut on Clefable
+p2: Clefable used Wish on Clefable
+Turn 8:
+p1: Switched to Landorus-Therian
+p2: Clefable used Calm Mind on Clefable
+Turn 9:
+p1: Landorus-Therian used Stealth Rock on Clefable
+p2: Clefable used Moonblast on Landorus-Therian
+Turn 10:
+p1: Switched to Gallade-Mega
+p2: Clefable used Moonblast on Gallade-Mega
+p1: Gallade-Mega fainted
+p1: Switched to Bisharp
+Turn 11:
+p2: Switched to Gliscor
+p1: Bisharp used Iron Head on Gliscor
+Turn 12:
+p1: Switched to Landorus-Therian
+p2: Gliscor used Earthquake on Landorus-Therian
+Turn 13:
+p1: Switched to Serperior
+p2: Gliscor used Substitute on Gliscor
+Turn 14:
+p1: Serperior used Taunt on Gliscor
+p2: Gliscor can't move
+Turn 15:
+p2: Switched to Bisharp
+p1: Serperior used Leaf Storm on Bisharp
+Turn 16:
+p1: Serperior used Reflect on Serperior
+p2: Bisharp used Knock Off on Serperior
+Turn 17:
+p1: Serperior used Leaf Storm on Bisharp
+p2: Bisharp used Iron Head on Serperior
+Turn 18:
+p2: Switched to Clefable
+p1: Serperior used Leaf Storm on Clefable
+Turn 19:
+p1: Serperior used Taunt on Clefable
+p2: Clefable used Moonblast on Serperior
+Turn 20:
+p1: Serperior used Light Screen on Serperior
+p2: Clefable used Moonblast on Serperior
+Turn 21:
+p1: Serperior used Leaf Storm on Clefable
+p2: Clefable used Moonblast on Serperior
+p1: Serperior fainted
+p1: Switched to Bisharp
+Turn 22:
+p2: Switched to Smeargle
+p1: Bisharp used Swords Dance on Bisharp
+Turn 23:
+p2: Smeargle used Spore on Bisharp
+p1: Bisharp can't move
+Turn 24:
+p2: Switched to Lopunny
+p1: Switched to Volcarona
+Turn 25:
+p1: Switched to Landorus-Therian
+p2: Lopunny used Frustration on Landorus-Therian
+p1: Landorus-Therian fainted
+p1: Switched to Volcarona
+Turn 26:
+p2: Lopunny used Frustration on Volcarona
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 27:
+p1: Volcarona used Quiver Dance on Volcarona
+p2: Lopunny used Frustration on Volcarona
+Turn 28:
+p1: Volcarona used Giga Drain on Lopunny
+p2: Lopunny fainted
+p2: Switched to Clefable
+Turn 29:
+p2: Clefable used Protect on Clefable
+p1: Volcarona used Flamethrower on Clefable
+Turn 30:
+p1: Volcarona used Flamethrower on Clefable
+p2: Clefable fainted
+p2: Switched to Bisharp
+Turn 31:
+p2: Bisharp used Sucker Punch on Volcarona
+p1: Volcarona fainted
+p1: Switched to Manaphy
+Turn 32:
+p1: Manaphy used Surf on Bisharp
+p2: Bisharp used Knock Off on Manaphy
+Turn 33:
+p2: Bisharp used Sucker Punch on Manaphy
+p1: Manaphy used Surf on Bisharp
+p2: Bisharp fainted
+p2: Switched to Gengar
+Turn 34:
+p1: Switched to Bisharp
+p2: Gengar used Focus Blast on Bisharp
+p1: Bisharp fainted

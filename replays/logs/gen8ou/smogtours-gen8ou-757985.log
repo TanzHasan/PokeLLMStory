@@ -1,0 +1,617 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711927443
+|gametype|singles
+|player|p1|Luigi9878|bruno|
+|player|p2|THE PDC SHOW|#splxiiityrants|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Ditto|
+|poke|p1|Diggersby, M|
+|poke|p1|Blissey, F|
+|poke|p1|Chansey, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Clefable, F|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1711927491
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1711927502
+|move|p1a: Dragapult|Shadow Ball|p2a: Rotom
+|-damage|p2a: Rotom|51/100
+|-unboost|p2a: Rotom|spd|1
+|move|p2a: Rotom|Volt Switch|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|83/100
+|
+|t:|1711927524
+|switch|p2a: Melmetal|Melmetal|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1711927530
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Melmetal|Thunder Punch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|62/100
+|-damage|p2a: Melmetal|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Melmetal|90/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711927540
+|move|p1a: Corviknight|Body Press|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|59/100
+|move|p2a: Melmetal|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p2a: Melmetal|65/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711927549
+|switch|p2a: Rotom|Rotom-Wash|51/100
+|move|p1a: Corviknight|Body Press|p2a: Rotom
+|-damage|p2a: Rotom|31/100
+|
+|-heal|p2a: Rotom|38/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711927558
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Rotom|Pain Split|p1a: Blissey
+|-sethp|p1a: Blissey|58/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|100/100|[from] move: Pain Split
+|
+|upkeep
+|turn|6
+|
+|t:|1711927566
+|move|p2a: Rotom|Volt Switch|p1a: Blissey
+|-damage|p1a: Blissey|50/100
+|
+|t:|1711927568
+|switch|p2a: Melmetal|Melmetal|65/100|[from] Volt Switch
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|99/100
+|
+|-heal|p2a: Melmetal|72/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711927577
+|move|p2a: Melmetal|Thunder Punch|p1a: Blissey
+|-damage|p1a: Blissey|71/100
+|move|p1a: Blissey|Counter|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|c|☆THE PDC SHOW|fuk
+|
+|t:|1711927585
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|8
+|
+|t:|1711927589
+|move|p2a: Clefable|Stealth Rock|p1a: Blissey
+|-sidestart|p1: Luigi9878|move: Stealth Rock
+|move|p1a: Blissey|Seismic Toss|p2a: Clefable
+|-damage|p2a: Clefable|75/100
+|-damage|p1a: Blissey|54/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|upkeep
+|turn|9
+|
+|t:|1711927597
+|switch|p1a: Diggersby|Diggersby, M|100/100
+|-damage|p1a: Diggersby|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Knock Off|p1a: Diggersby
+|-damage|p1a: Diggersby|74/100
+|-enditem|p1a: Diggersby|Life Orb|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|10
+|
+|t:|1711927605
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Diggersby|Mega Kick|p2a: Rotom
+|-damage|p2a: Rotom|36/100
+|
+|-heal|p2a: Rotom|42/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711927616
+|switch|p1a: Blissey|Blissey, F|54/100
+|-damage|p1a: Blissey|42/100|[from] Stealth Rock
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711927624
+|switch|p2a: Rotom|Rotom-Wash|42/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|92/100
+|
+|-heal|p2a: Rotom|49/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711927633
+|move|p2a: Rotom|Pain Split|p1a: Blissey
+|-sethp|p1a: Blissey|56/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|100/100|[from] move: Pain Split
+|move|p1a: Blissey|Toxic|p2a: Rotom|[miss]
+|-miss|p1a: Blissey|p2a: Rotom
+|
+|upkeep
+|turn|14
+|
+|t:|1711927640
+|move|p2a: Rotom|Volt Switch|p1a: Blissey
+|-damage|p1a: Blissey|47/100
+|
+|t:|1711927642
+|switch|p2a: Heatran|Heatran, F|100/100|[from] Volt Switch
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|97/100
+|
+|upkeep
+|turn|15
+|
+|t:|1711927650
+|move|p2a: Heatran|Earth Power|p1a: Blissey
+|-damage|p1a: Blissey|88/100
+|move|p1a: Blissey|Seismic Toss|p2a: Heatran
+|-damage|p2a: Heatran|75/100
+|
+|-heal|p2a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711927661
+|move|p2a: Heatran|Magma Storm|p1a: Blissey
+|-damage|p1a: Blissey|72/100
+|-activate|p1a: Blissey|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Blissey|Seismic Toss|p2a: Heatran
+|-damage|p2a: Heatran|55/100
+|
+|-heal|p2a: Heatran|61/100|[from] item: Leftovers
+|-damage|p1a: Blissey|60/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1711927672
+|move|p2a: Heatran|Taunt|p1a: Blissey
+|-start|p1a: Blissey|move: Taunt
+|move|p1a: Blissey|Seismic Toss|p2a: Heatran
+|-damage|p2a: Heatran|35/100
+|
+|-heal|p2a: Heatran|41/100|[from] item: Leftovers
+|-damage|p1a: Blissey|48/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1711927682
+|move|p2a: Heatran|Magma Storm|p1a: Blissey
+|-damage|p1a: Blissey|31/100
+|move|p1a: Blissey|Seismic Toss|p2a: Heatran
+|-damage|p2a: Heatran|16/100
+|
+|-heal|p2a: Heatran|22/100|[from] item: Leftovers
+|-damage|p1a: Blissey|18/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1711927691
+|switch|p2a: Clefable|Clefable, F|75/100
+|move|p1a: Blissey|Seismic Toss|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|-damage|p1a: Blissey|2/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|-end|p1a: Blissey|Magma Storm|[partiallytrapped]|[silent]
+|-end|p1a: Blissey|move: Taunt
+|upkeep
+|turn|20
+|
+|t:|1711927701
+|move|p2a: Clefable|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1711927707
+|switch|p1a: Diggersby|Diggersby, M|74/100
+|-damage|p1a: Diggersby|68/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1711927712
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Diggersby|Mega Kick|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|22
+|
+|t:|1711927722
+|switch|p1a: Chansey|Chansey, F|100/100
+|-damage|p1a: Chansey|88/100|[from] Stealth Rock
+|move|p2a: Dragapult|Draco Meteor|p1a: Chansey
+|-damage|p1a: Chansey|63/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|23
+|
+|t:|1711927734
+|switch|p1a: Diggersby|Diggersby, M|68/100
+|-damage|p1a: Diggersby|62/100|[from] Stealth Rock
+|move|p2a: Dragapult|Draco Meteor|p1a: Diggersby
+|-damage|p1a: Diggersby|9/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|24
+|
+|t:|1711927750
+|move|p2a: Dragapult|Draco Meteor|p1a: Diggersby
+|-damage|p1a: Diggersby|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Diggersby
+|
+|upkeep
+|
+|t:|1711927757
+|switch|p1a: Dragapult|Dragapult, M|83/100
+|-damage|p1a: Dragapult|71/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1711927762
+|switch|p2a: Heatran|Heatran, F|22/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1711927765
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragapult|atk|1
+|turn|26
+|
+|t:|1711927774
+|switch|p1a: Corviknight|Corviknight, M|62/100
+|-damage|p1a: Corviknight|49/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|27
+|
+|t:|1711927784
+|switch|p2a: Clefable|Clefable, F|50/100
+|move|p1a: Corviknight|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p1: Luigi9878|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|
+|upkeep
+|turn|28
+|
+|t:|1711927793
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|99/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|99/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711927802
+|switch|p1a: Chansey|Chansey, F|63/100
+|move|p2a: Clefable|Stealth Rock|p1a: Chansey
+|-sidestart|p1: Luigi9878|move: Stealth Rock
+|
+|upkeep
+|turn|30
+|
+|t:|1711927808
+|move|p2a: Clefable|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|53/100
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Clefable
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|upkeep
+|turn|31
+|
+|t:|1711927818
+|move|p2a: Clefable|Moonblast|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|78/100
+|-unboost|p1a: Chansey|spa|1
+|move|p1a: Chansey|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|upkeep
+|turn|32
+|
+|t:|1711927832
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|switch|p1a: Ditto|Ditto|100/100
+|-damage|p1a: Ditto|88/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Rotom|[from] ability: Imposter
+|
+|upkeep
+|turn|33
+|
+|t:|1711927846
+|move|p1a: Ditto|Volt Switch|p2a: Rotom
+|-damage|p2a: Rotom|76/100
+|
+|t:|1711927850
+|switch|p1a: Chansey|Chansey, F|78/100|[from] Volt Switch
+|-damage|p1a: Chansey|66/100|[from] Stealth Rock
+|move|p2a: Rotom|Volt Switch|p1a: Chansey
+|-damage|p1a: Chansey|54/100
+|
+|t:|1711927866
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] Volt Switch
+|
+|upkeep
+|turn|34
+|
+|t:|1711927871
+|move|p2a: Dragapult|U-turn|p1a: Chansey
+|-damage|p1a: Chansey|36/100
+|
+|t:|1711927874
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Chansey|atk|1
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|86/100
+|
+|upkeep
+|turn|35
+|
+|t:|1711927883
+|switch|p2a: Clefable|Clefable, F|99/100 tox
+|move|p1a: Chansey|Counter||[still]
+|-fail|p1a: Chansey
+|
+|upkeep
+|turn|36
+|
+|t:|1711927905
+|switch|p1a: Ditto|Ditto|88/100
+|-damage|p1a: Ditto|76/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Clefable|[from] ability: Imposter
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|36/100
+|
+|upkeep
+|turn|37
+|
+|t:|1711927916
+|move|p1a: Ditto|Soft-Boiled|p1a: Ditto
+|-heal|p1a: Ditto|86/100
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|51/100
+|-unboost|p1a: Ditto|spa|1
+|
+|upkeep
+|turn|38
+|
+|t:|1711927923
+|move|p1a: Ditto|Soft-Boiled|p1a: Ditto
+|-heal|p1a: Ditto|100/100
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|62/100
+|
+|upkeep
+|turn|39
+|
+|t:|1711927931
+|move|p1a: Ditto|Soft-Boiled|p1a: Ditto
+|-heal|p1a: Ditto|100/100
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|60/100
+|
+|upkeep
+|turn|40
+|
+|t:|1711927938
+|switch|p1a: Chansey|Chansey, F|86/100
+|-damage|p1a: Chansey|74/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Chansey
+|-damage|p1a: Chansey|58/100
+|-unboost|p1a: Chansey|spa|1
+|
+|upkeep
+|turn|41
+|
+|t:|1711927947
+|switch|p2a: Rotom|Rotom-Wash|76/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|-heal|p2a: Rotom|83/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1711927955
+|move|p2a: Rotom|Volt Switch|p1a: Chansey
+|-damage|p1a: Chansey|89/100
+|
+|t:|1711927957
+|switch|p2a: Clefable|Clefable, F|99/100 tox|[from] Volt Switch
+|move|p1a: Chansey|Toxic|p2a: Clefable
+|-fail|p2a: Clefable|tox
+|
+|upkeep
+|turn|43
+|
+|t:|1711927965
+|switch|p1a: Ditto|Ditto|60/100
+|-damage|p1a: Ditto|48/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Clefable|[from] ability: Imposter
+|move|p2a: Clefable|Knock Off|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|40/100
+|-enditem|p1a: Ditto|Choice Scarf|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|44
+|
+|t:|1711927977
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|3/100
+|move|p1a: Ditto|Soft-Boiled|p1a: Ditto
+|-heal|p1a: Ditto|53/100
+|
+|upkeep
+|turn|45
+|
+|t:|1711927983
+|move|p1a: Ditto|Soft-Boiled|p1a: Ditto
+|-heal|p1a: Ditto|100/100
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-damage|p1a: Ditto|60/100
+|-unboost|p1a: Ditto|spa|1
+|
+|upkeep
+|turn|46
+|
+|t:|1711927992
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ditto|atk|1
+|move|p1a: Ditto|Stealth Rock|p2a: Landorus
+|-sidestart|p2: THE PDC SHOW|move: Stealth Rock
+|
+|upkeep
+|turn|47
+|
+|t:|1711928001
+|switch|p1a: Corviknight|Corviknight, M|99/100
+|-damage|p1a: Corviknight|87/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|48
+|
+|t:|1711928016
+|switch|p2a: Rotom|Rotom-Wash|83/100
+|-damage|p2a: Rotom|70/100|[from] Stealth Rock
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Rotom|76/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|inactive|THE PDC SHOW has 270 seconds left.
+|inactive|THE PDC SHOW has 240 seconds left.
+|inactive|THE PDC SHOW has 210 seconds left.
+|
+|t:|1711928133
+|switch|p1a: Dragapult|Dragapult, M|71/100
+|-damage|p1a: Dragapult|59/100|[from] Stealth Rock
+|move|p2a: Rotom|Pain Split|p1a: Dragapult
+|-sethp|p1a: Dragapult|66/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|69/100|[from] move: Pain Split
+|
+|-heal|p2a: Rotom|75/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1711928147
+|move|p1a: Dragapult|Shadow Ball|p2a: Rotom
+|-damage|p2a: Rotom|19/100
+|move|p2a: Rotom|Volt Switch|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|
+|t:|1711928150
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from] Volt Switch
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragapult|atk|1
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1711928161
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|85/100
+|-damage|p2a: Landorus|78/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|t:|1711928164
+|switch|p2a: Rotom|Rotom-Wash|19/100|[from] U-turn
+|-damage|p2a: Rotom|7/100|[from] Stealth Rock
+|
+|-heal|p2a: Rotom|13/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1711928177
+|move|p2a: Rotom|Volt Switch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|40/100
+|
+|t:|1711928179
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from] Volt Switch
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|Body Press|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|53
+|
+|t:|1711928188
+|switch|p1a: Chansey|Chansey, F|89/100
+|-damage|p1a: Chansey|77/100|[from] Stealth Rock
+|move|p2a: Dragapult|Draco Meteor|p1a: Chansey|[miss]
+|-miss|p2a: Dragapult|p1a: Chansey
+|
+|upkeep
+|turn|54
+|c|☆THE PDC SHOW|i think i lose
+|-message|THE PDC SHOW forfeited.
+|
+|win|Luigi9878

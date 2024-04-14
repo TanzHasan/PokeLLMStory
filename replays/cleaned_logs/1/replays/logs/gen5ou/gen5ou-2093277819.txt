@@ -1,0 +1,140 @@
+p1: Switched to Swoobat
+p2: Switched to Dragonite
+Turn 1:
+p1: Swoobat used Reflect on Swoobat
+p2: Dragonite used Dragon Dance on Dragonite
+Turn 2:
+p1: Switched to Jellicent
+p2: Dragonite used Dragon Dance on Dragonite
+Turn 3:
+p2: Switched to Blastoise
+p1: Jellicent used Ice Beam on Blastoise
+Turn 4:
+p2: Blastoise used Toxic on Jellicent
+p1: Jellicent used Will-O-Wisp on Blastoise
+Turn 5:
+p2: Blastoise used Ice Beam on Jellicent
+p1: Jellicent used Hex on Blastoise
+Turn 6:
+p2: Blastoise used Ice Beam on Jellicent
+p1: Jellicent used Will-O-Wisp on Blastoise
+Turn 7:
+p2: Blastoise used Rest on Blastoise
+p1: Jellicent used Recover on Jellicent
+Turn 8:
+p2: Switched to Snorlax
+p1: Switched to Jolteon
+Turn 9:
+p1: Jolteon used Volt Switch on Snorlax
+p1: Switched to Jellicent
+p2: Snorlax used Body Slam on Jellicent
+Turn 10:
+p1: Jellicent used Will-O-Wisp on Snorlax
+p2: Snorlax used Curse on Snorlax
+Turn 11:
+p1: Jellicent used Ice Beam on Snorlax
+p2: Snorlax used Curse on Snorlax
+Turn 12:
+p1: Jellicent used Recover on Jellicent
+p2: Snorlax used Body Slam on Jellicent
+Turn 13:
+p1: Switched to Haxorus
+p2: Snorlax used Curse on Snorlax
+Turn 14:
+p1: Haxorus used Brick Break on Snorlax
+p2: Snorlax used Body Slam on Haxorus
+Turn 15:
+p1: Haxorus used Brick Break on Snorlax
+p2: Snorlax used Rest on Snorlax
+Turn 16:
+p1: Haxorus used Brick Break on Snorlax
+p2: Snorlax can't move
+Turn 17:
+p1: Switched to Swoobat
+p2: Snorlax can't move
+Turn 18:
+p1: Swoobat used Reflect on Swoobat
+p2: Snorlax used Body Slam on Swoobat
+Turn 19:
+p1: Swoobat used Calm Mind on Swoobat
+p2: Snorlax used Body Slam on Swoobat
+Turn 20:
+p1: Swoobat can't move
+p2: Snorlax used Body Slam on Swoobat
+Turn 21:
+p1: Swoobat used Stored Power on Snorlax
+p2: Snorlax used Body Slam on Swoobat
+Turn 22:
+p1: Swoobat can't move
+p2: Snorlax used Body Slam on Swoobat
+p1: Swoobat fainted
+p1: Switched to Houndoom
+Turn 23:
+p1: Houndoom used Dark Pulse on Snorlax
+p2: Snorlax used Earthquake on Houndoom
+p1: Houndoom fainted
+p1: Switched to Jolteon
+Turn 24:
+p1: Jolteon used Thunder Wave on Snorlax
+p2: Snorlax used Earthquake on Jolteon
+Turn 25:
+p1: Jolteon used Discharge on Snorlax
+p2: Snorlax used Body Slam on Jolteon
+p1: Jolteon fainted
+p1: Switched to Excadrill
+Turn 26:
+p1: Excadrill used Iron Defense on Excadrill
+p2: Snorlax can't move
+Turn 27:
+p1: Excadrill used Iron Defense on Excadrill
+p2: Snorlax used Earthquake on Excadrill
+Turn 28:
+p1: Excadrill used Earthquake on Snorlax
+p2: Snorlax used Earthquake on Excadrill
+Turn 29:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 30:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 31:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 32:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 33:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax used Rest on Snorlax
+Turn 34:
+p1: Excadrill used Iron Defense on Excadrill
+p2: Snorlax can't move
+Turn 35:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax can't move
+Turn 36:
+p1: Excadrill used Iron Head on Snorlax
+p2: Snorlax used Earthquake on Excadrill
+p1: Excadrill fainted
+p1: Switched to Haxorus
+Turn 37:
+p1: Haxorus used Brick Break on Snorlax
+p2: Snorlax used Body Slam on Haxorus
+p1: Haxorus fainted
+p1: Switched to Jellicent
+Turn 38:
+p1: Jellicent used Will-O-Wisp on Snorlax
+p2: Snorlax used Earthquake on Jellicent
+Turn 39:
+p1: Jellicent used Recover on Jellicent
+p2: Snorlax used Rest on Snorlax
+Turn 40:
+p1: Jellicent used Ice Beam on Snorlax
+p2: Snorlax can't move
+Turn 41:
+p1: Jellicent used Ice Beam on Snorlax
+p2: Snorlax can't move
+Turn 42:
+p1: Jellicent used Ice Beam on Snorlax
+p2: Snorlax used Earthquake on Jellicent
+p1: Jellicent fainted

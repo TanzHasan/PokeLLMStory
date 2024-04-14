@@ -1,0 +1,309 @@
+|j|☆certifiedwiseguy
+|j|☆Xalvadore
+|t:|1711937057
+|gametype|singles
+|player|p1|certifiedwiseguy|steven|1131
+|player|p2|Xalvadore|guitarist-gen4|1153
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|4
+|tier|[Gen 4] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Baton Pass Stat Trap Clause: No Baton Passer may have a way to boost stats or trap Pokémon
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711937057
+|start
+|switch|p1a: Uxie|Uxie|100/100
+|switch|p2a: Nidoqueen|Nidoqueen, F|100/100
+|turn|1
+|
+|t:|1711937087
+|move|p1a: Uxie|Stealth Rock|p2a: Nidoqueen
+|-sidestart|p2: Xalvadore|move: Stealth Rock
+|move|p2a: Nidoqueen|Toxic Spikes|p1a: Uxie
+|-sidestart|p1: certifiedwiseguy|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1711937098
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|move|p1a: Uxie|Psychic|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|77/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711937106
+|move|p2a: Magnezone|Magnet Rise|p2a: Magnezone
+|-start|p2a: Magnezone|Magnet Rise
+|move|p1a: Uxie|Yawn|p2a: Magnezone
+|-start|p2a: Magnezone|move: Yawn|[of] p1a: Uxie
+|
+|upkeep
+|turn|4
+|
+|t:|1711937115
+|switch|p2a: Latias|Latias, F|100/100
+|-damage|p2a: Latias|88/100|[from] Stealth Rock
+|move|p1a: Uxie|Psychic|p2a: Latias
+|-resisted|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|65/100
+|
+|upkeep
+|turn|5
+|
+|t:|1711937123
+|move|p2a: Latias|Draco Meteor|p1a: Uxie
+|-damage|p1a: Uxie|29/100
+|-unboost|p2a: Latias|spa|2
+|move|p1a: Uxie|U-turn|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|32/100
+|
+|t:|1711937134
+|switch|p1a: Scizor|Scizor, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1711937139
+|-activate|p2a: Latias|move: Pursuit
+|move|p1a: Scizor|Pursuit|p2a: Latias|[from]Pursuit
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-hint|Previously chosen switches continue in Gen 2-4 after a Pursuit target faints.
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711937170
+|switch|p1a: Suicune|Suicune|100/100
+|-status|p1a: Suicune|psn
+|-ability|p1a: Suicune|Pressure
+|move|p2a: Gastrodon|Curse|p2a: Gastrodon
+|-unboost|p2a: Gastrodon|spe|1
+|-boost|p2a: Gastrodon|atk|1
+|-boost|p2a: Gastrodon|def|1
+|
+|-damage|p1a: Suicune|88/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711937181
+|move|p1a: Suicune|Calm Mind|p1a: Suicune
+|-boost|p1a: Suicune|spa|1
+|-boost|p1a: Suicune|spd|1
+|move|p2a: Gastrodon|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|46/100 psn
+|
+|-damage|p1a: Suicune|34/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711937196
+|move|p1a: Suicune|Ice Beam|p2a: Gastrodon
+|-damage|p2a: Gastrodon|67/100
+|-damage|p1a: Suicune|24/100 psn|[from] item: Life Orb
+|move|p2a: Gastrodon|Earthquake|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-heal|p2a: Gastrodon|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937223
+|switch|p1a: Lucario|Lucario, M|100/100
+|turn|10
+|
+|t:|1711937228
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|move|p2a: Gastrodon|Earthquake|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|-heal|p2a: Gastrodon|79/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711937241
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|11
+|
+|t:|1711937245
+|move|p1a: Dragonite|Draco Meteor|p2a: Gastrodon
+|-damage|p2a: Gastrodon|25/100
+|-unboost|p1a: Dragonite|spa|2
+|-damage|p1a: Dragonite|91/100|[from] item: Life Orb
+|move|p2a: Gastrodon|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|71/100
+|
+|-heal|p2a: Gastrodon|31/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711937256
+|switch|p2a: Jirachi|Jirachi|100/100
+|-damage|p2a: Jirachi|94/100|[from] Stealth Rock
+|move|p1a: Dragonite|Draco Meteor|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|77/100
+|-unboost|p1a: Dragonite|spa|2
+|-damage|p1a: Dragonite|61/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1711937267
+|move|p2a: Jirachi|Psychic|p1a: Dragonite
+|-damage|p1a: Dragonite|16/100
+|move|p1a: Dragonite|Earthquake|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-enditem|p2a: Jirachi|Shuca Berry|[eat]
+|-enditem|p2a: Jirachi|Shuca Berry|[weaken]
+|-damage|p2a: Jirachi|40/100
+|-damage|p1a: Dragonite|6/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1711937277
+|move|p2a: Jirachi|Thunderbolt|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1711937283
+|switch|p1a: Flygon|Flygon, M|100/100
+|turn|15
+|
+|t:|1711937287
+|move|p1a: Flygon|Earthquake|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1711937292
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|16
+|
+|t:|1711937295
+|switch|p1a: Uxie|Uxie|29/100
+|move|p2a: Clefable|Ice Beam|p1a: Uxie
+|-damage|p1a: Uxie|16/100
+|
+|-heal|p1a: Uxie|22/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711937304
+|move|p1a: Uxie|Yawn|p2a: Clefable
+|-start|p2a: Clefable|move: Yawn|[of] p1a: Uxie
+|move|p2a: Clefable|Knock Off|p1a: Uxie
+|-supereffective|p1a: Uxie
+|-damage|p1a: Uxie|18/100
+|-enditem|p1a: Uxie|Leftovers|[from] move: Knock Off|[of] p2a: Clefable
+|-hint|In Gens 3-4, Knock Off only makes the target's item unusable; it cannot obtain a new item.
+|
+|upkeep
+|turn|18
+|
+|t:|1711937315
+|switch|p2a: Magnezone|Magnezone|77/100
+|-damage|p2a: Magnezone|71/100|[from] Stealth Rock
+|move|p1a: Uxie|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|64/100
+|
+|t:|1711937328
+|switch|p1a: Flygon|Flygon, M|100/100|[from] U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1711937339
+|switch|p2a: Gastrodon|Gastrodon-East, M|31/100
+|-damage|p2a: Gastrodon|25/100|[from] Stealth Rock
+|move|p1a: Flygon|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1711937343
+|switch|p2a: Nidoqueen|Nidoqueen, F|100/100
+|-damage|p2a: Nidoqueen|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1711937350
+|move|p1a: Flygon|Earthquake|p2a: Nidoqueen
+|-supereffective|p2a: Nidoqueen
+|-damage|p2a: Nidoqueen|30/100
+|move|p2a: Nidoqueen|Ice Beam|p1a: Flygon
+|-supereffective|p1a: Flygon
+|-crit|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|faint|p1a: Flygon
+|
+|-heal|p2a: Nidoqueen|36/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711937361
+|switch|p1a: Uxie|Uxie|18/100
+|turn|21
+|
+|t:|1711937366
+|move|p1a: Uxie|Psychic|p2a: Nidoqueen
+|-supereffective|p2a: Nidoqueen
+|-damage|p2a: Nidoqueen|0 fnt
+|faint|p2a: Nidoqueen
+|
+|upkeep
+|
+|t:|1711937368
+|switch|p2a: Magnezone|Magnezone|64/100
+|-damage|p2a: Magnezone|58/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1711937376
+|move|p2a: Magnezone|Thunderbolt|p1a: Uxie
+|-damage|p1a: Uxie|0 fnt
+|faint|p1a: Uxie
+|
+|upkeep
+|
+|t:|1711937381
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|23
+|
+|t:|1711937393
+|move|p2a: Magnezone|Hidden Power|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|win|Xalvadore
+|raw|certifiedwiseguy's rating: 1131 &rarr; <strong>1108</strong><br />(-23 for losing)
+|raw|Xalvadore's rating: 1153 &rarr; <strong>1176</strong><br />(+23 for winning)
+|c|☆Xalvadore|gg

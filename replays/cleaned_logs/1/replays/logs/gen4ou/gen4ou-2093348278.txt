@@ -1,0 +1,147 @@
+p1: Switched to Infernape
+p2: Switched to Jirachi
+Turn 1:
+p2: Switched to Tentacruel
+p1: Infernape used Fake Out on Tentacruel
+Turn 2:
+p1: Switched to Togekiss
+p2: Tentacruel used Surf on Togekiss
+Turn 3:
+p1: Togekiss used Thunder Wave on Tentacruel
+p2: Tentacruel used Toxic Spikes on Togekiss
+Turn 4:
+p1: Togekiss used Air Slash on Tentacruel
+p2: Tentacruel can't move
+Turn 5:
+p2: Switched to Jirachi
+p1: Togekiss used Air Slash on Jirachi
+Turn 6:
+p1: Togekiss used Thunder Wave on Jirachi
+p2: Jirachi used Iron Head on Togekiss
+Turn 7:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 8:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi used Stealth Rock on Togekiss
+Turn 9:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 10:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 11:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 12:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 13:
+p1: Togekiss used Air Slash on Jirachi
+p2: Jirachi can't move
+Turn 14:
+p2: Switched to Regice
+p1: Togekiss used Heat Wave on Regice
+Turn 15:
+p1: Togekiss used Air Slash on Regice
+p2: Regice can't move
+Turn 16:
+p1: Togekiss used Air Slash on Regice
+p2: Regice can't move
+Turn 17:
+p1: Togekiss used Ancient Power on Regice
+p2: Regice fainted
+p2: Switched to Latias
+Turn 18:
+p2: Latias used Thunderbolt on Togekiss
+p1: Togekiss fainted
+p1: Switched to Starmie
+Turn 19:
+p1: Starmie used Rapid Spin on Latias
+p2: Latias used Thunderbolt on Starmie
+p1: Starmie fainted
+p1: Switched to Infernape
+Turn 20:
+p2: Switched to Abomasnow
+p1: Infernape used Fake Out on Abomasnow
+Turn 21:
+p2: Switched to Tentacruel
+p1: Infernape used Stealth Rock on Tentacruel
+Turn 22:
+p1: Switched to Kingdra
+p2: Tentacruel can't move
+Turn 23:
+p1: Kingdra used Rain Dance on Kingdra
+p2: Tentacruel used Rapid Spin on Kingdra
+Turn 24:
+p1: Kingdra used Dragon Pulse on Tentacruel
+p2: Tentacruel used Knock Off on Kingdra
+Turn 25:
+p1: Kingdra used Dragon Pulse on Tentacruel
+p2: Tentacruel used Toxic Spikes on Kingdra
+Turn 26:
+p2: Switched to Jirachi
+p1: Kingdra used Dragon Pulse on Jirachi
+Turn 27:
+p1: Kingdra used Hydro Pump on Jirachi
+p2: Jirachi used Stealth Rock on Kingdra
+Turn 28:
+p1: Kingdra used Hydro Pump on Jirachi
+p2: Jirachi fainted
+p2: Switched to Abomasnow
+Turn 29:
+p1: Kingdra used Rain Dance on Kingdra
+p2: Abomasnow used Blizzard on Kingdra
+Turn 30:
+p1: Kingdra used Dragon Pulse on Abomasnow
+p2: Abomasnow used Leech Seed on Kingdra
+Turn 31:
+p1: Switched to Infernape
+p2: Abomasnow used Grass Knot on Infernape
+Turn 32:
+p2: Abomasnow used Protect on Abomasnow
+p1: Infernape used Fake Out on Abomasnow
+Turn 33:
+p2: Switched to Tentacruel
+p1: Infernape used Close Combat on Tentacruel
+Turn 34:
+p1: Infernape used Close Combat on Tentacruel
+p2: Tentacruel fainted
+p2: Switched to Latias
+Turn 35:
+p1: Infernape used Flare Blitz on Latias
+p1: Infernape fainted
+p2: Latias used Dragon Pulse on p1: Inferver
+p1: Switched to Breloom
+Turn 36:
+p2: Switched to Clefable
+p1: Breloom used Spore on Clefable
+Turn 37:
+p2: Switched to Latias
+p1: Breloom used Substitute on Breloom
+Turn 38:
+p2: Latias used Dragon Pulse on Breloom
+p1: Breloom used Fling on Latias
+Turn 39:
+p1: Switched to Kingdra
+p2: Latias used Dragon Pulse on Kingdra
+p1: Kingdra fainted
+p1: Switched to Lucario
+Turn 40:
+p1: Lucario used Swords Dance on Lucario
+p2: Latias used Thunder Wave on Lucario
+Turn 41:
+p1: Lucario can't move
+p2: Latias used Thunderbolt on Lucario
+Turn 42:
+p1: Lucario used Extreme Speed on Latias
+p2: Latias fainted
+p2: Switched to Abomasnow
+Turn 43:
+p1: Lucario used Bullet Punch on Abomasnow
+p2: Abomasnow fainted
+p2: Switched to Clefable
+Turn 44:
+p2: Clefable can't move
+p1: Lucario used Close Combat on Clefable
+p2: Clefable fainted

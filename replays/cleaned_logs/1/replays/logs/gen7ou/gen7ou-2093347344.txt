@@ -1,0 +1,128 @@
+p1: Switched to Sableye
+p2: Switched to Kartana
+Turn 1:
+p2: Switched to Greninja
+p1: Sableye used Will-O-Wisp on Greninja
+Turn 2:
+p1: Sableye used Protect on Sableye
+p2: Greninja used Dark Pulse on Sableye
+Turn 3:
+p1: Switched to Chansey
+p2: Greninja used Dark Pulse on Chansey
+Turn 4:
+p2: Switched to Kartana
+p1: Chansey used Seismic Toss on Kartana
+Turn 5:
+p1: Switched to Zapdos
+p2: Kartana used All-Out Pummeling on Zapdos
+Turn 6:
+p2: Switched to Landorus-Therian
+p1: Zapdos used Heat Wave on Landorus-Therian
+Turn 7:
+p1: Switched to Sableye-Mega
+p2: Landorus-Therian used Stealth Rock on Sableye-Mega
+p1: Sableye-Mega used Stealth Rock on Landorus-Therian
+Turn 8:
+p2: Switched to Greninja
+p1: Sableye-Mega used Foul Play on Greninja
+Turn 9:
+p1: Sableye-Mega used Protect on Sableye-Mega
+p2: Greninja used Hydro Pump on Sableye-Mega
+Turn 10:
+p1: Switched to Shedinja
+p2: Greninja used Hydro Pump on Shedinja
+Turn 11:
+p2: Switched to Lopunny
+p1: Shedinja used Will-O-Wisp on Lopunny
+Turn 12:
+p1: Shedinja used Protect on Shedinja
+p2: Lopunny used Encore on Shedinja
+Turn 13:
+p2: Lopunny used Encore on Shedinja
+p1: Shedinja failed to use Protect
+Turn 14:
+p2: Switched to Magearna
+p1: Shedinja failed to use Protect
+Turn 15:
+p1: Switched to Chansey
+p2: Magearna used Hidden Power on Chansey
+Turn 16:
+p2: Switched to Kartana
+p1: Chansey used Seismic Toss on Kartana
+Turn 17:
+p1: Switched to Zapdos
+p2: Kartana used Sacred Sword on Zapdos
+Turn 18:
+p2: Switched to Landorus-Therian
+p1: Zapdos used Heat Wave on Landorus-Therian
+Turn 19:
+p1: Switched to Sableye-Mega
+p2: Landorus-Therian used Stealth Rock on Sableye-Mega
+p1: Sableye-Mega failed to use Stealth Rock
+Turn 20:
+p2: Landorus-Therian used Earthquake on Sableye-Mega
+p1: Sableye-Mega used Will-O-Wisp on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Lopunny-Mega
+Turn 21:
+p1: Sableye-Mega used Protect on Sableye-Mega
+p2: Lopunny-Mega used High Jump Kick on Sableye-Mega
+Turn 22:
+p1: Switched to Shedinja
+p2: Lopunny-Mega used High Jump Kick on Shedinja
+p2: Lopunny-Mega fainted
+p2: Switched to Magearna
+Turn 23:
+p1: Switched to Chansey
+p2: Magearna used Hidden Power on Chansey
+Turn 24:
+p2: Switched to Kartana
+p1: Chansey used Soft-Boiled on Chansey
+Turn 25:
+p1: Switched to Zapdos
+p2: Kartana used Leaf Blade on Zapdos
+Turn 26:
+p2: Switched to Latios
+p1: Zapdos used Discharge on Latios
+Turn 27:
+p1: Switched to Sableye-Mega
+p2: Latios used Psyshock on Sableye-Mega
+Turn 28:
+p2: Switched to Greninja
+p1: Sableye-Mega used Foul Play on Greninja
+p2: Greninja fainted
+p2: Switched to Magearna
+Turn 29:
+p1: Switched to Chansey
+p2: Magearna used Fleur Cannon on Chansey
+Turn 30:
+p2: Switched to Kartana
+p1: Chansey used Seismic Toss on Kartana
+p2: Kartana fainted
+p2: Switched to Magearna
+Turn 31:
+p1: Chansey used Light Screen on Chansey
+p2: Magearna used Iron Head on Chansey
+Turn 32:
+p1: Chansey used Seismic Toss on Magearna
+p2: Magearna used Hidden Power on Chansey
+Turn 33:
+p1: Chansey used Seismic Toss on Magearna
+p2: Magearna used Fleur Cannon on Chansey
+Turn 34:
+p2: Switched to Latios
+p1: Chansey used Soft-Boiled on Chansey
+Turn 35:
+p2: Switched to Magearna
+p1: Chansey used Seismic Toss on Magearna
+p2: Magearna fainted
+p2: Switched to Latios
+Turn 36:
+p1: Switched to Sableye-Mega
+p2: Latios used Draco Meteor on Sableye-Mega
+Turn 37:
+p1: Switched to Shedinja
+p2: Latios used Draco Meteor on Shedinja
+Turn 38:
+p1: Shedinja used Shadow Sneak on Latios
+p2: Latios fainted

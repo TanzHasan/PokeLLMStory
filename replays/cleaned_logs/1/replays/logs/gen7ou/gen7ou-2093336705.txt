@@ -1,0 +1,4 @@
+p1: Switched to Toxapex
+p2: Switched to Pidgeot
+Turn 1:
+p2: Pidgeot used U-turn on Toxapex

@@ -1,0 +1,71 @@
+p1: Switched to Decidueye-Hisui
+p2: Switched to Regirock
+Turn 1:
+p1: Decidueye-Hisui used Triple Arrows on Regirock
+p2: Regirock can't move
+Turn 2:
+p2: Switched to Mismagius
+p1: Decidueye-Hisui used Triple Arrows on Mismagius
+Turn 3:
+p2: Mismagius used Draining Kiss on Decidueye-Hisui
+p1: Decidueye-Hisui used Triple Arrows on Mismagius
+p2: Mismagius fainted
+p2: Switched to Zangoose
+Turn 4:
+p2: Zangoose used Protect on Zangoose
+p1: Decidueye-Hisui used Triple Arrows on Zangoose
+Turn 5:
+p1: Switched to Hoopa
+p2: Zangoose used Facade on Hoopa
+Turn 6:
+p1: Hoopa used Psychic on Zangoose
+p2: Zangoose used Knock Off on Hoopa
+p1: Hoopa fainted
+p2: Zangoose fainted
+p2: Switched to Electrode-Hisui
+p1: Switched to Decidueye-Hisui
+Turn 7:
+p2: Electrode-Hisui used Tera Blast on Decidueye-Hisui
+p1: Decidueye-Hisui fainted
+p1: Switched to Charizard
+Turn 8:
+p2: Switched to Regirock
+p1: Charizard used Flamethrower on Regirock
+Turn 9:
+p2: Regirock used Rock Slide on Charizard
+p1: Charizard used Scorching Sands on Regirock
+p2: Regirock fainted
+p2: Switched to Electrode-Hisui
+Turn 10:
+p2: Electrode-Hisui used Volt Switch on Charizard
+p1: Charizard fainted
+p2: Switched to Marshtomp
+p1: Switched to Scyther
+Turn 11:
+p1: Scyther used Trailblaze on Marshtomp
+p2: Marshtomp used Ice Punch on Scyther
+Turn 12:
+p1: Scyther used Trailblaze on Marshtomp
+p2: Marshtomp fainted
+p2: Switched to Electrode-Hisui
+Turn 13:
+p1: Scyther used Dual Wingbeat on Electrode-Hisui
+p2: Electrode-Hisui fainted
+p2: Switched to Sandslash-Alola
+Turn 14:
+p1: Scyther used Dual Wingbeat on Sandslash-Alola
+p2: Sandslash-Alola used Triple Axel on Scyther
+p1: Scyther fainted
+p1: Switched to Morpeko
+Turn 15:
+p1: Morpeko used Fake Out on Sandslash-Alola
+p2: Sandslash-Alola can't move
+Turn 16:
+p1: Morpeko used Charge Beam on Sandslash-Alola
+p2: Sandslash-Alola used Earthquake on Morpeko
+p1: Morpeko fainted
+p1: Switched to Lapras
+Turn 17:
+p2: Sandslash-Alola used Swords Dance on Sandslash-Alola
+p1: Lapras used Earthquake on Sandslash-Alola
+p2: Sandslash-Alola fainted

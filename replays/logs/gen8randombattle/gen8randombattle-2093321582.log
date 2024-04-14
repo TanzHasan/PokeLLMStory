@@ -1,0 +1,153 @@
+|j|☆yhdhdhdhdds
+|j|☆yerpptheder
+|t:|1711939081
+|gametype|singles
+|player|p1|yhdhdhdhdds|265|1000
+|player|p2|yerpptheder|miku-ground|1236
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711939081
+|start
+|switch|p1a: Walrein|Walrein, L86, F|329/329
+|switch|p2a: Rhydon|Rhydon, L86, M|321/321
+|turn|1
+|
+|t:|1711939093
+|switch|p2a: Jynx|Jynx, L86, F|251/251
+|-start|p1a: Walrein|Dynamax|
+|-heal|p1a: Walrein|658/658|[silent]
+|move|p1a: Walrein|Max Geyser|p2a: Jynx
+|-immune|p2a: Jynx|[from] ability: Dry Skin
+|
+|upkeep
+|turn|2
+|
+|t:|1711939102
+|move|p2a: Jynx|Focus Blast|p1a: Walrein
+|-supereffective|p1a: Walrein
+|-damage|p1a: Walrein|446/658
+|move|p1a: Walrein|Max Hailstorm|p2a: Jynx
+|-resisted|p2a: Jynx
+|-damage|p2a: Jynx|185/251
+|-weather|Hail
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Walrein|466/658|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711939105
+|move|p2a: Jynx|Focus Blast|p1a: Walrein
+|-supereffective|p1a: Walrein
+|-damage|p1a: Walrein|260/658
+|move|p1a: Walrein|Max Hailstorm|p2a: Jynx
+|-resisted|p2a: Jynx
+|-damage|p2a: Jynx|125/251
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Walrein|280/658|[from] item: Leftovers
+|upkeep
+|-end|p1a: Walrein|Dynamax
+|-heal|p1a: Walrein|140/329|[silent]
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711939108
+|move|p2a: Jynx|Focus Blast|p1a: Walrein
+|-supereffective|p1a: Walrein
+|-damage|p1a: Walrein|0 fnt
+|faint|p1a: Walrein
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1711939112
+|switch|p1a: Braviary|Braviary, L81, M|295/295
+|turn|5
+|
+|t:|1711939117
+|switch|p2a: Emolga|Emolga, L90, F|245/245
+|move|p1a: Braviary|Close Combat|p2a: Emolga
+|-resisted|p2a: Emolga
+|-damage|p2a: Emolga|182/245
+|-unboost|p1a: Braviary|def|1
+|-unboost|p1a: Braviary|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Emolga|167/245|[from] Hail
+|-damage|p1a: Braviary|277/295|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1711939127
+|switch|p1a: Jolteon|Jolteon, L82, F|241/241
+|move|p2a: Emolga|Toxic|p1a: Jolteon
+|-status|p1a: Jolteon|tox
+|
+|-weather|none
+|-damage|p1a: Jolteon|226/241 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711939132
+|move|p1a: Jolteon|Hyper Voice|p2a: Emolga
+|-damage|p2a: Emolga|53/245
+|move|p2a: Emolga|Roost|p2a: Emolga
+|-heal|p2a: Emolga|176/245
+|-singleturn|p2a: Emolga|move: Roost
+|
+|-damage|p1a: Jolteon|196/241 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711939137
+|move|p1a: Jolteon|Hyper Voice|p2a: Emolga
+|-damage|p2a: Emolga|46/245
+|move|p2a: Emolga|Roost|p2a: Emolga
+|-heal|p2a: Emolga|169/245
+|-singleturn|p2a: Emolga|move: Roost
+|
+|-damage|p1a: Jolteon|151/241 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711939141
+|move|p1a: Jolteon|Hyper Voice|p2a: Emolga
+|-damage|p2a: Emolga|51/245
+|move|p2a: Emolga|Roost|p2a: Emolga
+|-heal|p2a: Emolga|174/245
+|-singleturn|p2a: Emolga|move: Roost
+|
+|-damage|p1a: Jolteon|91/241 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711939145
+|move|p1a: Jolteon|Hyper Voice|p2a: Emolga
+|-damage|p2a: Emolga|45/245
+|move|p2a: Emolga|Roost|p2a: Emolga
+|-heal|p2a: Emolga|168/245
+|-singleturn|p2a: Emolga|move: Roost
+|
+|-damage|p1a: Jolteon|16/241 tox|[from] psn
+|upkeep
+|turn|11
+|-message|yhdhdhdhdds forfeited.
+|
+|win|yerpptheder
+|raw|yhdhdhdhdds's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|yerpptheder's rating: 1236 &rarr; <strong>1246</strong><br />(+10 for winning)
+|l|☆yhdhdhdhdds
+|player|p1|
+|l|☆yerpptheder
+|player|p2|
+|j|☆yerpptheder
+|player|p2|yerpptheder|miku-ground

@@ -1,0 +1,35 @@
+p1: Switched to Cyclizar
+p2: Switched to Grimmsnarl
+Turn 1:
+p1: Cyclizar used U-turn on Grimmsnarl
+p1: Switched to Empoleon
+p2: Grimmsnarl used Spirit Break on Empoleon
+Turn 2:
+p2: Grimmsnarl used Taunt on Empoleon
+p1: Empoleon can't move
+Turn 3:
+p2: Grimmsnarl used Parting Shot on Empoleon
+p2: Switched to Registeel
+p1: Empoleon used Flash Cannon on Registeel
+Turn 4:
+p1: Empoleon used Surf on Registeel
+p2: Registeel used Iron Defense on Registeel
+Turn 5:
+p1: Empoleon used Surf on Registeel
+p2: Registeel fainted
+p2: Switched to Flygon
+Turn 6:
+p2: Flygon used Earthquake on Empoleon
+p1: Empoleon used Surf on Flygon
+p2: Flygon fainted
+p2: Switched to Lilligant-Hisui
+Turn 7:
+p2: Lilligant-Hisui used Victory Dance on Lilligant-Hisui
+p1: Empoleon used Stealth Rock on Lilligant-Hisui
+Turn 8:
+p1: Switched to Moltres
+p2: Lilligant-Hisui used Victory Dance on Lilligant-Hisui
+Turn 9:
+p2: Lilligant-Hisui used Triple Axel on Moltres
+p1: Moltres used Will-O-Wisp on Lilligant-Hisui
+Turn 10:

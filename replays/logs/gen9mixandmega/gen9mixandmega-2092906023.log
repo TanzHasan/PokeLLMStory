@@ -1,0 +1,354 @@
+|j|☆Tunderboltz456
+|j|☆Monster Ou
+|t:|1711888577
+|gametype|singles
+|player|p1|Tunderboltz456|drayton|1357
+|player|p2|Monster Ou|102|1319
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Haxorus, M|
+|poke|p1|Samurott-Hisui, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Metagross|
+|poke|p1|Thundurus-Therian, M|
+|poke|p2|Magearna|
+|poke|p2|Meowscarada, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Clodsire, M|
+|poke|p2|Ho-Oh|
+|poke|p2|Baxcalibur, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tunderboltz456)
+|c|☆Tunderboltz456|glhf
+|
+|t:|1711888590
+|start
+|switch|p1a: Chronos|Metagross, shiny|100/100
+|switch|p2a: Meowscarada|Meowscarada, M|100/100
+|turn|1
+|
+|t:|1711888607
+|detailschange|p2a: Meowscarada|Meowscarada, M
+|-mega|p2a: Meowscarada|Meowscarada|Metagrossite
+|-start|p2a: Meowscarada|Metagrossite|[silent]
+|detailschange|p1a: Chronos|Metagross-Mega, shiny
+|-mega|p1a: Chronos|Metagross|Metagrossite
+|move|p2a: Meowscarada|U-turn|p1a: Chronos
+|-damage|p1a: Chronos|74/100
+|
+|t:|1711888616
+|-end|p2a: Meowscarada|Metagrossite|[silent]
+|switch|p2a: Corviknight|Corviknight, M|100/100|[from] U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Chronos|Heavy Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|73/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711888620
+|detailschange|p2a: Corviknight|Corviknight, M
+|-mega|p2a: Corviknight|Corviknight|Slowbronite
+|-start|p2a: Corviknight|Slowbronite|[silent]
+|move|p1a: Chronos|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|44/100
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1711888625
+|switch|p1a: Enel|Thundurus-Therian, M|100/100
+|detailschange|p1a: Enel|Thundurus-Therian, M
+|-primal|p1a: Enel|Red Orb
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Enel
+|-start|p1a: Enel|Red Orb|[silent]
+|-start|p1a: Enel|typechange|Electric/Fire|[silent]
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|94/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711888631
+|-end|p2a: Corviknight|Slowbronite|[silent]
+|switch|p2a: Clodsire|Clodsire, M|100/100
+|move|p1a: Enel|Weather Ball|p2a: Clodsire
+|-damage|p2a: Clodsire|40/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711888633
+|detailschange|p2a: Clodsire|Clodsire, M
+|-mega|p2a: Clodsire|Clodsire|Sablenite
+|-start|p2a: Clodsire|Sablenite|[silent]
+|move|p1a: Enel|Weather Ball|p2a: Clodsire
+|-damage|p2a: Clodsire|0 fnt
+|faint|p2a: Clodsire
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|
+|t:|1711888642
+|switch|p2a: Baxcalibur|Baxcalibur, F|100/100
+|turn|6
+|
+|t:|1711888647
+|-end|p1a: Enel|Red Orb|[silent]
+|-weather|none
+|switch|p1a: Chronos|Metagross-Mega, shiny|74/100
+|detailschange|p2a: Baxcalibur|Baxcalibur, F
+|-mega|p2a: Baxcalibur|Baxcalibur|Glalitite
+|-start|p2a: Baxcalibur|Glalitite|[silent]
+|move|p2a: Baxcalibur|Earthquake|p1a: Chronos
+|-supereffective|p1a: Chronos
+|-damage|p1a: Chronos|6/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711888654
+|-end|p2a: Baxcalibur|Glalitite|[silent]
+|switch|p2a: Corviknight|Corviknight, M|94/100
+|-start|p2a: Corviknight|Slowbronite|[silent]
+|move|p1a: Chronos|Heavy Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|75/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711888659
+|move|p1a: Chronos|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|move|p2a: Corviknight|Body Press|p1a: Chronos
+|-damage|p1a: Chronos|0 fnt
+|faint|p1a: Chronos
+|
+|upkeep
+|
+|t:|1711888667
+|switch|p1a: Nero|Samurott-Hisui, M|100/100
+|turn|9
+|
+|t:|1711888669
+|detailschange|p1a: Nero|Samurott-Hisui, M
+|-mega|p1a: Nero|Samurott|Aerodactylite
+|-start|p1a: Nero|Aerodactylite|[silent]
+|move|p1a: Nero|Ceaseless Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|28/100
+|-sidestart|p2: Monster Ou|Spikes
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|78/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1711888676
+|-end|p1a: Nero|Aerodactylite|[silent]
+|switch|p1a: Enel|Thundurus-Therian, M|100/100
+|-start|p1a: Enel|Red Orb|[silent]
+|-start|p1a: Enel|typechange|Electric/Fire|[silent]
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Enel
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1711888681
+|-end|p2a: Corviknight|Slowbronite|[silent]
+|switch|p2a: Ho-Oh|Ho-Oh|100/100
+|move|p1a: Enel|Thunderbolt|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|41/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1711888690
+|move|p1a: Enel|Thunderbolt|p2a: Ho-Oh
+|-supereffective|p2a: Ho-Oh
+|-damage|p2a: Ho-Oh|0 fnt
+|faint|p2a: Ho-Oh
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|
+|t:|1711888691
+|switch|p2a: Baxcalibur|Baxcalibur, F|100/100
+|-start|p2a: Baxcalibur|Glalitite|[silent]
+|-damage|p2a: Baxcalibur|88/100|[from] Spikes
+|turn|13
+|
+|t:|1711888699
+|-end|p1a: Enel|Red Orb|[silent]
+|-weather|none
+|switch|p1a: Nero|Samurott-Hisui, M|100/100
+|-start|p1a: Nero|Aerodactylite|[silent]
+|move|p2a: Baxcalibur|Body Slam|p1a: Nero
+|-resisted|p1a: Nero
+|-damage|p1a: Nero|64/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711888704
+|move|p2a: Baxcalibur|Glaive Rush|p1a: Nero
+|-damage|p1a: Nero|0 fnt
+|-singlemove|p2a: Baxcalibur|Glaive Rush|[silent]
+|faint|p1a: Nero
+|
+|upkeep
+|
+|t:|1711888709
+|switch|p1a: Aurora|Dragonite, F|100/100
+|turn|15
+|
+|t:|1711888711
+|-end|p2a: Baxcalibur|Glalitite|[silent]
+|switch|p2a: Corviknight|Corviknight, M|78/100
+|-start|p2a: Corviknight|Slowbronite|[silent]
+|detailschange|p1a: Aurora|Dragonite, F
+|-mega|p1a: Aurora|Dragonite|Altarianite
+|-start|p1a: Aurora|Altarianite|[silent]
+|-start|p1a: Aurora|typechange|Dragon/Fairy|[silent]
+|move|p1a: Aurora|Extreme Speed|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|65/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711888717
+|-end|p1a: Aurora|Altarianite|[silent]
+|switch|p1a: Teresa|Hatterene, F|100/100
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|17
+|
+|t:|1711888720
+|-end|p2a: Corviknight|Slowbronite|[silent]
+|switch|p2a: Magearna|Magearna|100/100
+|-damage|p2a: Magearna|88/100|[from] Spikes
+|detailschange|p1a: Teresa|Hatterene, F
+|-mega|p1a: Teresa|Hatterene|Absolite
+|-start|p1a: Teresa|Absolite|[silent]
+|move|p1a: Teresa|Calm Mind|p1a: Teresa
+|-boost|p1a: Teresa|spa|1
+|-boost|p1a: Teresa|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1711888723
+|detailschange|p2a: Magearna|Magearna
+|-mega|p2a: Magearna|Magearna|Latiasite
+|-start|p2a: Magearna|Latiasite|[silent]
+|move|p1a: Teresa|Mystical Fire|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|22/100
+|-unboost|p2a: Magearna|spa|1
+|move|p2a: Magearna|Calm Mind|p2a: Magearna
+|-boost|p2a: Magearna|spa|1
+|-boost|p2a: Magearna|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1711888732
+|move|p1a: Teresa|Mystical Fire|p2a: Magearna
+|-supereffective|p2a: Magearna
+|-damage|p2a: Magearna|0 fnt
+|faint|p2a: Magearna
+|
+|upkeep
+|
+|t:|1711888734
+|switch|p2a: Baxcalibur|Baxcalibur, F|88/100
+|-start|p2a: Baxcalibur|Glalitite|[silent]
+|-damage|p2a: Baxcalibur|76/100|[from] Spikes
+|turn|20
+|
+|t:|1711888736
+|move|p2a: Baxcalibur|Body Slam|p1a: Teresa
+|-damage|p1a: Teresa|41/100
+|-status|p1a: Teresa|par
+|cant|p1a: Teresa|par
+|
+|upkeep
+|turn|21
+|c|☆Tunderboltz456|dayum
+|
+|t:|1711888743
+|move|p2a: Baxcalibur|Body Slam|p1a: Teresa
+|-damage|p1a: Teresa|0 fnt
+|faint|p1a: Teresa
+|
+|upkeep
+|
+|t:|1711888746
+|switch|p1a: Aurora|Dragonite, F|100/100
+|-start|p1a: Aurora|Altarianite|[silent]
+|-start|p1a: Aurora|typechange|Dragon/Fairy|[silent]
+|turn|22
+|
+|t:|1711888748
+|move|p1a: Aurora|Extreme Speed|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur
+|-damage|p2a: Baxcalibur|0 fnt
+|faint|p2a: Baxcalibur
+|
+|upkeep
+|
+|t:|1711888751
+|switch|p2a: Corviknight|Corviknight, M|65/100
+|-start|p2a: Corviknight|Slowbronite|[silent]
+|turn|23
+|
+|t:|1711888754
+|-end|p1a: Aurora|Altarianite|[silent]
+|switch|p1a: Enel|Thundurus-Therian, M|100/100
+|-start|p1a: Enel|Red Orb|[silent]
+|-start|p1a: Enel|typechange|Electric/Fire|[silent]
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Enel
+|move|p2a: Corviknight|Body Press|p1a: Enel
+|-damage|p1a: Enel|54/100
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|24
+|-message|Monster Ou forfeited.
+|
+|win|Tunderboltz456
+|raw|Tunderboltz456's rating: 1357 &rarr; <strong>1375</strong><br />(+18 for winning)
+|raw|Monster Ou's rating: 1319 &rarr; <strong>1301</strong><br />(-18 for losing)
+|l|☆Monster Ou
+|player|p2|

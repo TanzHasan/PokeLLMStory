@@ -1,0 +1,437 @@
+|j|☆bunnygram
+|j|☆Penter
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711864191
+|gametype|singles
+|player|p1|bunnygram|ninjaboy|
+|player|p2|Penter|n-masters|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Mix and Mega
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Tyranitar, F|
+|poke|p1|Regieleki|
+|poke|p1|Toxapex, M|
+|poke|p1|Zarude|
+|poke|p1|Great Tusk|
+|poke|p2|Incineroar, F|
+|poke|p2|Iron Hands|
+|poke|p2|Dragonite, F|
+|poke|p2|Arcanine-Hisui, F|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|j|*Lady Monita ❆
+|inactive|bunnygram also wants the timer to be on.
+|j| Rhik
+|l| Rhik
+|
+|t:|1711864214
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|turn|1
+|
+|t:|1711864227
+|detailschange|p1a: Tyranitar|Tyranitar-Mega, F
+|-mega|p1a: Tyranitar|Tyranitar|Tyranitarite
+|detailschange|p2a: Incineroar|Incineroar, F
+|-mega|p2a: Incineroar|Incineroar|Sablenite
+|-start|p2a: Incineroar|Sablenite|[silent]
+|move|p1a: Tyranitar|Stone Axe|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|70/100
+|-sidestart|p2: Penter|move: Stealth Rock
+|move|p2a: Incineroar|Parting Shot|p1a: Tyranitar
+|-unboost|p1a: Tyranitar|atk|1
+|-unboost|p1a: Tyranitar|spa|1
+|
+|t:|1711864250
+|-end|p2a: Incineroar|Sablenite|[silent]
+|switch|p2a: Arcanine|Arcanine-Hisui, F|100/100|[from] Parting Shot
+|-damage|p2a: Arcanine|76/100|[from] Stealth Rock
+|-ability|p2a: Arcanine|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1711864260
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|detailschange|p2a: Arcanine|Arcanine-Hisui, F
+|-mega|p2a: Arcanine|Arcanine|Altarianite
+|-start|p2a: Arcanine|Altarianite|[silent]
+|-start|p2a: Arcanine|typechange|Fire/Fairy|[silent]
+|move|p2a: Arcanine|Stone Axe|p1a: Toxapex
+|-damage|p1a: Toxapex|85/100
+|-sidestart|p1: bunnygram|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Arcanine|70/100|[from] Sandstorm
+|-damage|p1a: Toxapex|79/100|[from] Sandstorm
+|upkeep
+|turn|3
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864279
+|-end|p2a: Arcanine|Altarianite|[silent]
+|switch|p2a: Incineroar|Incineroar, F|70/100
+|-start|p2a: Incineroar|Sablenite|[silent]
+|-damage|p2a: Incineroar|45/100|[from] Stealth Rock
+|move|p1a: Toxapex|Flip Turn|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|25/100
+|
+|t:|1711864281
+|switch|p1a: Regieleki|Regieleki|100/100|[from] Flip Turn
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|82/100|[from] Sandstorm
+|-damage|p2a: Incineroar|19/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1711864287
+|detailschange|p1a: Regieleki|Regieleki
+|-mega|p1a: Regieleki|Regieleki|Altarianite
+|-start|p1a: Regieleki|Altarianite|[silent]
+|-start|p1a: Regieleki|typechange|Electric/Fairy|[silent]
+|move|p1a: Regieleki|Rapid Spin|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|-boost|p1a: Regieleki|spe|1
+|-sideend|p1: bunnygram|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Regieleki
+|faint|p2a: Incineroar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|76/100|[from] Sandstorm
+|upkeep
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864304
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Regieleki|atk|1
+|turn|5
+|
+|t:|1711864313
+|-end|p1a: Regieleki|Altarianite|[silent]
+|switch|p1a: Great Tusk|Great Tusk|100/100
+|move|p2a: Landorus|Precipice Blades|p1a: Great Tusk|[miss]
+|-miss|p2a: Landorus|p1a: Great Tusk
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864340
+|switch|p2a: Iron Hands|Iron Hands|100/100
+|-damage|p2a: Iron Hands|94/100|[from] Stealth Rock
+|detailschange|p1a: Great Tusk|Great Tusk
+|-mega|p1a: Great Tusk|Great Tusk|Pinsirite
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|-start|p1a: Great Tusk|Pinsirite|[silent]
+|-start|p1a: Great Tusk|typechange|Ground/Flying|[silent]
+|move|p1a: Great Tusk|Rapid Spin|p2a: Iron Hands
+|-damage|p2a: Iron Hands|70/100
+|-boost|p1a: Great Tusk|spe|1
+|
+|upkeep
+|turn|7
+|inactive|bunnygram has 120 seconds left.
+|
+|t:|1711864381
+|detailschange|p2a: Iron Hands|Iron Hands
+|-mega|p2a: Iron Hands|Iron Hands|Metagrossite
+|-end|p2a: Iron Hands|Quark Drive|[silent]
+|-start|p2a: Iron Hands|Metagrossite|[silent]
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|move|p2a: Iron Hands|Ice Punch|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|40/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711864391
+|-end|p2a: Iron Hands|Metagrossite|[silent]
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Great Tusk|atk|1
+|move|p1a: Great Tusk|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|9
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864405
+|detailschange|p2a: Landorus|Landorus-Therian, M
+|-mega|p2a: Landorus|Landorus|Gyaradosite
+|-ability|p2a: Landorus|Mold Breaker
+|-start|p2a: Landorus|Gyaradosite|[silent]
+|-start|p2a: Landorus|typechange|Ground/Dark|[silent]
+|move|p1a: Great Tusk|Shore Up|p1a: Great Tusk
+|-heal|p1a: Great Tusk|90/100
+|move|p2a: Landorus|Dragon Ascent|p1a: Great Tusk
+|-damage|p1a: Great Tusk|69/100
+|-unboost|p2a: Landorus|def|1
+|-unboost|p2a: Landorus|spd|1
+|
+|upkeep
+|turn|10
+|inactive|Penter has 120 seconds left.
+|c|☆bunnygram|oh
+|
+|t:|1711864417
+|-end|p2a: Landorus|Gyaradosite|[silent]
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|move|p1a: Great Tusk|Bulk Up|p1a: Great Tusk
+|-boost|p1a: Great Tusk|atk|1
+|-boost|p1a: Great Tusk|def|1
+|
+|upkeep
+|turn|11
+|c|☆bunnygram|unstab ascent
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864423
+|detailschange|p2a: Dragonite|Dragonite, F
+|-mega|p2a: Dragonite|Dragonite|Pinsirite
+|-start|p2a: Dragonite|Pinsirite|[silent]
+|move|p1a: Great Tusk|Rapid Spin|p2a: Dragonite
+|-damage|p2a: Dragonite|25/100
+|-boost|p1a: Great Tusk|spe|1
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|12
+|inactive|Penter has 120 seconds left.
+|
+|t:|1711864448
+|move|p2a: Dragonite|Extreme Speed|p1a: Great Tusk
+|-damage|p1a: Great Tusk|40/100
+|move|p1a: Great Tusk|Shore Up|p1a: Great Tusk
+|-heal|p1a: Great Tusk|90/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711864451
+|move|p1a: Great Tusk|Rapid Spin|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-boost|p1a: Great Tusk|spe|1
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1711864453
+|switch|p2a: Calyrex|Calyrex-Ice|100/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|14
+|
+|t:|1711864457
+|move|p1a: Great Tusk|Earthquake|p2a: Calyrex
+|-damage|p2a: Calyrex|42/100
+|move|p2a: Calyrex|Glacial Lance|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-crit|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|faint|p1a: Great Tusk
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|upkeep
+|
+|t:|1711864465
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|15
+|
+|t:|1711864481
+|switch|p2a: Landorus|Landorus-Therian, M|76/100
+|-start|p2a: Landorus|Gyaradosite|[silent]
+|-start|p2a: Landorus|typechange|Ground/Dark|[silent]
+|-damage|p2a: Landorus|70/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Mold Breaker
+|move|p1a: Gholdengo|Shadow Ball|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|43/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711864487
+|detailschange|p1a: Gholdengo|Gholdengo
+|-mega|p1a: Gholdengo|Gholdengo|Diancite
+|-start|p1a: Gholdengo|Diancite|[silent]
+|move|p1a: Gholdengo|Make It Rain|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1711864496
+|switch|p2a: Iron Hands|Iron Hands|70/100
+|-start|p2a: Iron Hands|Metagrossite|[silent]
+|-damage|p2a: Iron Hands|63/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1711864506
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Hands
+|-damage|p2a: Iron Hands|41/100
+|move|p2a: Iron Hands|Swords Dance|p2a: Iron Hands
+|-boost|p2a: Iron Hands|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1711864511
+|move|p1a: Gholdengo|Shadow Ball|p2a: Iron Hands
+|-damage|p2a: Iron Hands|18/100
+|move|p2a: Iron Hands|Zing Zap|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|
+|upkeep
+|
+|t:|1711864518
+|switch|p1a: Regieleki|Regieleki|76/100
+|-start|p1a: Regieleki|Altarianite|[silent]
+|-start|p1a: Regieleki|typechange|Electric/Fairy|[silent]
+|turn|19
+|
+|t:|1711864529
+|move|p1a: Regieleki|Extreme Speed|p2a: Iron Hands
+|-supereffective|p2a: Iron Hands
+|-damage|p2a: Iron Hands|0 fnt
+|faint|p2a: Iron Hands
+|
+|upkeep
+|
+|t:|1711864536
+|switch|p2a: Arcanine|Arcanine-Hisui, F|70/100
+|-start|p2a: Arcanine|Altarianite|[silent]
+|-start|p2a: Arcanine|typechange|Fire/Fairy|[silent]
+|-damage|p2a: Arcanine|45/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1711864541
+|-end|p1a: Regieleki|Altarianite|[silent]
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Arcanine|Morning Sun|p2a: Arcanine
+|-heal|p2a: Arcanine|95/100
+|
+|upkeep
+|turn|21
+|
+|t:|1711864546
+|-end|p2a: Arcanine|Altarianite|[silent]
+|switch|p2a: Calyrex|Calyrex-Ice|42/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Toxapex|Toxic|p2a: Calyrex
+|-status|p2a: Calyrex|tox
+|
+|-damage|p2a: Calyrex|36/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1711864565
+|switch|p1a: Tyranitar|Tyranitar-Mega, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Calyrex|Trick Room|p2a: Calyrex
+|-fieldstart|move: Trick Room|[of] p2a: Calyrex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Calyrex|30/100 tox|[from] Sandstorm
+|-damage|p2a: Calyrex|18/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1711864581
+|switch|p2a: Arcanine|Arcanine-Hisui, F|95/100
+|-start|p2a: Arcanine|Altarianite|[silent]
+|-start|p2a: Arcanine|typechange|Fire/Fairy|[silent]
+|-damage|p2a: Arcanine|70/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Ceaseless Edge|p2a: Arcanine
+|-resisted|p2a: Arcanine
+|-damage|p2a: Arcanine|52/100
+|-sidestart|p2: Penter|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Arcanine|46/100|[from] Sandstorm
+|upkeep
+|turn|24
+|
+|t:|1711864587
+|move|p2a: Arcanine|Extreme Speed|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|33/100
+|move|p1a: Tyranitar|Stone Axe|p2a: Arcanine
+|-supereffective|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1711864589
+|switch|p2a: Calyrex|Calyrex-Ice|18/100 tox
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|turn|25
+|
+|t:|1711864592
+|move|p2a: Calyrex|Glacial Lance|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Calyrex|11/100 tox|[from] Sandstorm
+|-damage|p2a: Calyrex|5/100 tox|[from] psn
+|upkeep
+|
+|t:|1711864594
+|switch|p1a: Regieleki|Regieleki|76/100
+|-start|p1a: Regieleki|Altarianite|[silent]
+|-start|p1a: Regieleki|typechange|Electric/Fairy|[silent]
+|turn|26
+|
+|t:|1711864596
+|move|p1a: Regieleki|Extreme Speed|p2a: Calyrex
+|-damage|p2a: Calyrex|0 fnt
+|faint|p2a: Calyrex
+|
+|win|bunnygram
+|n|☆bunnygram|bunnygram
+|n|☆Penter|penter
+|n|*Lady Monita ❆|ladymonita

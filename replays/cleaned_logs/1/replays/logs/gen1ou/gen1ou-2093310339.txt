@@ -1,0 +1,322 @@
+p1: Switched to Gengar
+p2: Switched to Alakazam
+Turn 1:
+p2: Switched to Chansey
+p1: Gengar used Hypnosis on Chansey
+Turn 2:
+p1: Gengar used Hypnosis on Chansey
+p2: Chansey used Thunder Wave on Gengar
+Turn 3:
+p2: Chansey used Seismic Toss on Gengar
+p1: Gengar used Hypnosis on Chansey
+Turn 4:
+p2: Switched to Alakazam
+p1: Gengar used Explosion on Alakazam
+p1: Gengar fainted
+p1: Switched to Alakazam
+Turn 5:
+p2: Switched to Slowbro
+p1: Alakazam used Psychic on Slowbro
+Turn 6:
+p1: Alakazam used Thunder Wave on Slowbro
+p2: Slowbro can't move
+Turn 7:
+p1: Alakazam used Mimic on Slowbro
+p2: Slowbro used Amnesia on Slowbro
+Turn 8:
+p1: Alakazam used Psychic on Slowbro
+p2: Slowbro used Amnesia on Slowbro
+Turn 9:
+p1: Switched to Victreebel
+p2: Slowbro can't move
+Turn 10:
+p1: Victreebel used Razor Leaf on Slowbro
+p2: Slowbro fainted
+p2: Switched to Alakazam
+Turn 11:
+p2: Alakazam used Recover on Alakazam
+p1: Victreebel used Stun Spore on Alakazam
+Turn 12:
+p1: Switched to Slowbro
+p2: Alakazam used Psychic on Slowbro
+Turn 13:
+p2: Alakazam used Seismic Toss on Slowbro
+p1: Slowbro used Thunder Wave on Alakazam
+Turn 14:
+p1: Slowbro used Amnesia on Slowbro
+p2: Alakazam used Thunder Wave on Slowbro
+Turn 15:
+p2: Switched to Exeggutor
+p1: Slowbro used Amnesia on Slowbro
+Turn 16:
+p2: Exeggutor used Sleep Powder on Slowbro
+p1: Slowbro used Thunder Wave on Exeggutor
+Turn 17:
+p2: Exeggutor can't move
+p1: Slowbro can't move
+Turn 18:
+p2: Exeggutor used Explosion on Slowbro
+p1: Slowbro fainted
+p2: Exeggutor fainted
+p2: Switched to Snorlax
+p1: Switched to Cloyster
+Turn 19:
+p2: Switched to Chansey
+p1: Cloyster used Clamp on Chansey
+Turn 20:
+p1: Switched to Dragonite
+p2: Chansey can't move
+Turn 21:
+p1: Dragonite used Agility on Dragonite
+p2: Chansey can't move
+Turn 22:
+p1: Dragonite used Surf on Chansey
+p2: Chansey can't move
+Turn 23:
+p1: Dragonite used Surf on Chansey
+Turn 24:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 25:
+p2: Switched to Snorlax
+p1: Dragonite used Wrap on Snorlax
+Turn 26:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 27:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 28:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax used Reflect on Snorlax
+Turn 29:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 30:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 31:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 32:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 33:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 34:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 35:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 36:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 37:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 38:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 39:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 40:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 41:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 42:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 43:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 44:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 45:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 46:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 47:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 48:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 49:
+p1: Dragonite used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 50:
+p2: Switched to Tauros
+p1: Dragonite used Wrap on Tauros
+Turn 51:
+p1: Dragonite used Thunder Wave on Tauros
+p2: Tauros can't move
+Turn 52:
+p2: Switched to Chansey
+p1: Dragonite used Wrap on Chansey
+Turn 53:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 54:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 55:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 56:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 57:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey used Thunder Wave on Dragonite
+Turn 58:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Dragonite used Thunder Wave on Chansey
+Turn 59:
+p1: Dragonite used Agility on Dragonite
+p2: Chansey used Reflect on Chansey
+Turn 60:
+p1: Dragonite used Wrap on Chansey
+p2: Chansey can't move
+Turn 61:
+p2: Switched to Snorlax
+p1: Dragonite can't move
+Turn 62:
+p1: Dragonite can't move
+p2: Snorlax used Rest on Snorlax
+Turn 63:
+p1: Switched to Victreebel
+p2: Switched to Tauros
+Turn 64:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 65:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 66:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 67:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 68:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 69:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 70:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 71:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 72:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 73:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 74:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 75:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 76:
+p2: Switched to Alakazam
+p1: Victreebel used Wrap on Alakazam
+Turn 77:
+p1: Victreebel used Wrap on Alakazam
+p2: Alakazam can't move
+Turn 78:
+p1: Victreebel used Wrap on Alakazam
+p2: Alakazam can't move
+Turn 79:
+p1: Victreebel used Wrap on Alakazam
+p2: Alakazam can't move
+Turn 80:
+p1: Victreebel used Wrap on Alakazam
+p2: Alakazam can't move
+Turn 81:
+p1: Victreebel used Wrap on Alakazam
+p2: Alakazam can't move
+Turn 82:
+p1: Victreebel used Razor Leaf on Alakazam
+p2: Alakazam fainted
+p2: Switched to Tauros
+Turn 83:
+p1: Victreebel used Wrap on Tauros
+p2: Tauros can't move
+Turn 84:
+p2: Switched to Chansey
+p1: Victreebel used Wrap on Chansey
+Turn 85:
+p2: Switched to Snorlax
+p1: Victreebel used Wrap on Snorlax
+Turn 86:
+p1: Victreebel used Wrap on Snorlax
+p2: Snorlax can't move
+Turn 87:
+p1: Victreebel used Razor Leaf on Snorlax
+Turn 88:
+p1: Victreebel used Sleep Powder on Snorlax
+p2: Snorlax used Body Slam on Victreebel
+Turn 89:
+p2: Snorlax used Body Slam on Victreebel
+p1: Victreebel used Sleep Powder on Snorlax
+Turn 90:
+p2: Snorlax can't move
+p1: Victreebel used Razor Leaf on Snorlax
+Turn 91:
+p2: Switched to Chansey
+p1: Victreebel used Razor Leaf on Chansey
+Turn 92:
+p1: Victreebel used Wrap on Chansey
+p2: Chansey can't move
+Turn 93:
+p1: Victreebel used Wrap on Chansey
+p2: Chansey can't move
+Turn 94:
+p1: Victreebel used Wrap on Chansey
+p2: Chansey can't move
+Turn 95:
+p1: Switched to Cloyster
+p2: Chansey can't move
+Turn 96:
+p1: Cloyster used Clamp on Chansey
+p2: Chansey can't move
+Turn 97:
+p1: Cloyster used Clamp on Chansey
+p2: Chansey can't move
+Turn 98:
+p2: Switched to Tauros
+p1: Cloyster used Clamp on Tauros
+Turn 99:
+p2: Switched to Snorlax
+p1: Cloyster used Clamp on Snorlax
+Turn 100:
+p1: Cloyster used Blizzard on Snorlax
+p2: Snorlax can't move
+Turn 101:
+p1: Cloyster used Blizzard on Snorlax
+p2: Snorlax fainted
+p2: Switched to Tauros
+Turn 102:
+p1: Cloyster used Blizzard on Tauros
+p2: Tauros fainted
+p2: Switched to Chansey
+Turn 103:
+p1: Cloyster used Clamp on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 104:
+p1: Cloyster used Explosion on Chansey
+p2: Chansey fainted
+p1: Cloyster fainted

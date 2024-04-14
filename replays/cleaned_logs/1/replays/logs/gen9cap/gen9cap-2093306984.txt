@@ -1,0 +1,84 @@
+p1: Switched to Chromera
+p2: Switched to Ogerpon-Wellspring
+Turn 1:
+p2: Ogerpon-Wellspring used Knock Off on Chromera
+p1: Chromera used Reflect on Chromera
+Turn 2:
+p2: Ogerpon-Wellspring used Swords Dance on Ogerpon-Wellspring
+p1: Chromera used Light Screen on Chromera
+Turn 3:
+p2: Ogerpon-Wellspring used Ivy Cudgel on Chromera
+p1: Chromera used Boomburst on Ogerpon-Wellspring
+Turn 4:
+p1: Switched to Plasmanta
+p2: Ogerpon-Wellspring used Power Whip on Plasmanta
+Turn 5:
+p2: Switched to Landorus-Therian
+p1: Plasmanta used Sludge Wave on Landorus-Therian
+Turn 6:
+p1: Switched to Venomicon
+p2: Landorus-Therian used Stealth Rock on Venomicon
+Turn 7:
+p2: Landorus-Therian used Taunt on Venomicon
+p1: Venomicon used Knock Off on Landorus-Therian
+Turn 8:
+p2: Landorus-Therian used Smack Down on Venomicon
+p1: Venomicon used Sludge Bomb on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Pecharunt
+Turn 9:
+p2: Pecharunt used Nasty Plot on Pecharunt
+p1: Venomicon used Knock Off on Pecharunt
+Turn 10:
+p2: Pecharunt used Shadow Ball on Venomicon
+p1: Venomicon used Roost on Venomicon
+Turn 11:
+p2: Pecharunt used Nasty Plot on Pecharunt
+p1: Venomicon used Roost on Venomicon
+Turn 12:
+p2: Pecharunt used Shadow Ball on Venomicon
+p1: Venomicon used U-turn on Pecharunt
+p1: Switched to Miasmaw
+Turn 13:
+p1: Miasmaw used Earthquake on Pecharunt
+p2: Pecharunt used Shadow Ball on Miasmaw
+p1: Miasmaw fainted
+p1: Switched to Plasmanta
+Turn 14:
+p1: Plasmanta used Psychic on Pecharunt
+p2: Pecharunt fainted
+p2: Switched to Hemogoblin
+Turn 15:
+p1: Switched to Chromera
+p2: Hemogoblin used Bulk Up on Hemogoblin
+Turn 16:
+p2: Hemogoblin used Extreme Speed on Chromera
+p1: Chromera fainted
+p1: Switched to Venomicon
+Turn 17:
+p2: Hemogoblin used Bulk Up on Hemogoblin
+p1: Venomicon used Roost on Venomicon
+Turn 18:
+p2: Hemogoblin used Bulk Up on Hemogoblin
+p1: Venomicon used Knock Off on Hemogoblin
+Turn 19:
+p2: Hemogoblin used Bulk Up on Hemogoblin
+p1: Venomicon used Sludge Bomb on Hemogoblin
+Turn 20:
+p2: Hemogoblin used Bulk Up on Hemogoblin
+p1: Venomicon used Sludge Bomb on Hemogoblin
+Turn 21:
+p2: Hemogoblin used Bitter Blade on Venomicon
+p1: Venomicon fainted
+p1: Switched to Plasmanta
+Turn 22:
+p2: Hemogoblin used Extreme Speed on Plasmanta
+p1: Plasmanta fainted
+p1: Switched to Tomohawk
+Turn 23:
+p2: Hemogoblin used Extreme Speed on Tomohawk
+p1: Tomohawk fainted
+p1: Switched to Hemogoblin
+Turn 24:
+p2: Hemogoblin used Tera Blast on Hemogoblin
+p1: Hemogoblin fainted

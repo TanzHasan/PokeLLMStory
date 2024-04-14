@@ -1,0 +1,979 @@
+p1: Switched to Ferrothorn
+p2: Switched to Slowbro
+Turn 1:
+p2: Switched to Zapdos
+p1: Switched to Chansey
+Turn 2:
+p2: Switched to Scizor
+p1: Chansey used Stealth Rock on Scizor
+Turn 3:
+p1: Switched to Gliscor
+p2: Scizor used Defog on Gliscor
+Turn 4:
+p2: Switched to Slowbro
+p1: Gliscor used Earthquake on Slowbro
+Turn 5:
+p1: Gliscor used Substitute on Gliscor
+p2: Slowbro used Ice Beam on Gliscor
+Turn 6:
+p1: Switched to Chansey
+p2: Switched to Chansey
+Turn 7:
+p1: Chansey used Seismic Toss on Chansey
+p2: Chansey used Stealth Rock on Chansey
+Turn 8:
+p2: Switched to Slowbro
+p1: Chansey used Stealth Rock on Slowbro
+Turn 9:
+p1: Chansey used Toxic on Slowbro
+p2: Slowbro used Scald on Chansey
+Turn 10:
+p2: Switched to Gastrodon
+p1: Chansey used Seismic Toss on Gastrodon
+Turn 11:
+p2: Switched to Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 12:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 13:
+p1: Gliscor used Substitute on Gliscor
+p2: Scizor-Mega used Defog on Gliscor
+Turn 14:
+p2: Switched to Chansey
+p1: Gliscor used Earthquake on Chansey
+Turn 15:
+p1: Gliscor used Toxic on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 16:
+p1: Gliscor used Earthquake on Chansey
+p2: Chansey used Heal Bell on Chansey
+Turn 17:
+p1: Switched to Ferrothorn
+p2: Chansey used Stealth Rock on Ferrothorn
+Turn 18:
+p2: Switched to Zapdos
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 19:
+p2: Switched to Scizor-Mega
+p1: Ferrothorn failed to use Protect
+Turn 20:
+p2: Scizor-Mega used Superpower on Ferrothorn
+p1: Ferrothorn used Spikes on Scizor-Mega
+Turn 21:
+p2: Switched to Zapdos
+p1: Switched to Slowbro
+Turn 22:
+p1: Switched to Gliscor
+p2: Zapdos used Discharge on Gliscor
+Turn 23:
+p2: Switched to Scizor-Mega
+p1: Gliscor failed to use Protect
+Turn 24:
+p1: Gliscor used Earthquake on Scizor-Mega
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 25:
+p1: Switched to Quagsire
+p2: Scizor-Mega used Bullet Punch on Quagsire
+Turn 26:
+p2: Switched to Chansey
+p1: Quagsire used Scald on Chansey
+Turn 27:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Quagsire used Earthquake on Chansey
+Turn 28:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Quagsire used Earthquake on Chansey
+Turn 29:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Quagsire failed to use Toxic
+Turn 30:
+p2: Switched to Slowbro
+p1: Quagsire used Scald on Slowbro
+Turn 31:
+p1: Switched to Zapdos
+p2: Slowbro used Scald on Zapdos
+Turn 32:
+p2: Switched to Gastrodon
+p1: Zapdos used Heat Wave on Gastrodon
+Turn 33:
+p1: Zapdos used Roost on Zapdos
+p2: Gastrodon used Recover on Gastrodon
+Turn 34:
+p1: Zapdos used Defog on Gastrodon
+p2: Gastrodon used Toxic on Zapdos
+Turn 35:
+p1: Switched to Chansey
+p2: Switched to Slowbro
+Turn 36:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 37:
+p1: Switched to Zapdos
+p2: Scizor-Mega used Defog on Zapdos
+Turn 38:
+p1: Switched to Ferrothorn
+p2: Switched to Gastrodon
+Turn 39:
+p2: Gastrodon used Scald on Ferrothorn
+p1: Ferrothorn used Leech Seed on Gastrodon
+Turn 40:
+p2: Switched to Zapdos
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 41:
+p2: Switched to Scizor-Mega
+p1: Switched to Chansey
+Turn 42:
+p2: Switched to Chansey
+p1: Switched to Zapdos
+Turn 43:
+p1: Zapdos used Thunderbolt on Chansey
+p2: Chansey used Stealth Rock on Zapdos
+Turn 44:
+p1: Switched to Chansey
+p2: Chansey used Heal Bell on Chansey
+Turn 45:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 46:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Toxic on Zapdos
+Turn 47:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 48:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 49:
+p2: Switched to Gastrodon
+p1: Slowbro used Scald on Gastrodon
+Turn 50:
+p2: Gastrodon used Scald on Slowbro
+p1: Slowbro used Toxic on Gastrodon
+Turn 51:
+p2: Switched to Clefable
+p1: Slowbro used Slack Off on Slowbro
+Turn 52:
+p2: Switched to Chansey
+p1: Slowbro used Toxic on Chansey
+Turn 53:
+p1: Switched to Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 54:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 55:
+p2: Zapdos used Roost on Zapdos
+p1: Chansey used Seismic Toss on Zapdos
+Turn 56:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Seismic Toss on Zapdos
+Turn 57:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 58:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Defog on Gliscor
+Turn 59:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 60:
+p2: Zapdos used Roost on Zapdos
+p1: Slowbro used Scald on Zapdos
+Turn 61:
+p1: Switched to Quagsire
+p2: Zapdos used Roost on Zapdos
+Turn 62:
+p2: Switched to Gastrodon
+p1: Quagsire used Scald on Gastrodon
+Turn 63:
+p2: Gastrodon used Scald on Quagsire
+p1: Quagsire used Earthquake on Gastrodon
+Turn 64:
+p2: Switched to Chansey
+p1: Switched to Chansey
+Turn 65:
+p1: Chansey used Toxic on Chansey
+p2: Chansey used Heal Bell on Chansey
+Turn 66:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 67:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Toxic on Zapdos
+Turn 68:
+p2: Switched to Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 69:
+p2: Scizor-Mega used Roost on Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 70:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 71:
+p2: Switched to Gastrodon
+p1: Slowbro used Scald on Gastrodon
+Turn 72:
+p2: Switched to Scizor-Mega
+p1: Slowbro used Toxic on Scizor-Mega
+Turn 73:
+p2: Switched to Gastrodon
+p1: Slowbro used Toxic on Gastrodon
+Turn 74:
+p2: Gastrodon used Recover on Gastrodon
+p1: Slowbro used Fire Blast on Gastrodon
+Turn 75:
+p2: Switched to Chansey
+p1: Slowbro used Slack Off on Slowbro
+Turn 76:
+p2: Chansey used Stealth Rock on Slowbro
+p1: Slowbro used Toxic on Chansey
+Turn 77:
+p2: Switched to Gastrodon
+p1: Switched to Chansey
+Turn 78:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 79:
+p2: Switched to Scizor-Mega
+p1: Chansey used Soft-Boiled on Chansey
+Turn 80:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 81:
+p2: Switched to Gastrodon
+p1: Slowbro used Fire Blast on Gastrodon
+Turn 82:
+p1: Switched to Ferrothorn
+p2: Gastrodon used Recover on Gastrodon
+Turn 83:
+p2: Switched to Scizor-Mega
+p1: Ferrothorn used Spikes on Scizor-Mega
+Turn 84:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 85:
+p2: Switched to Chansey
+p1: Switched to Ferrothorn
+Turn 86:
+p2: Chansey used Stealth Rock on Ferrothorn
+p1: Ferrothorn used Gyro Ball on Chansey
+Turn 87:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Ferrothorn used Spikes on Chansey
+Turn 88:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 89:
+p1: Switched to Chansey
+p2: Zapdos used Heat Wave on Chansey
+Turn 90:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 91:
+p2: Scizor-Mega used Defog on Chansey
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 92:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 93:
+p2: Switched to Gastrodon
+p1: Switched to Ferrothorn
+Turn 94:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 95:
+p1: Switched to Slowbro
+p2: Zapdos used Heat Wave on Slowbro
+Turn 96:
+p1: Switched to Chansey
+p2: Zapdos used Discharge on Chansey
+Turn 97:
+p2: Switched to Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 98:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 99:
+p2: Switched to Chansey
+p1: Slowbro used Scald on Chansey
+Turn 100:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 101:
+p2: Switched to Scizor-Mega
+p1: Chansey used Toxic on Scizor-Mega
+Turn 102:
+p1: Switched to Ferrothorn
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 103:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Superpower on Gliscor
+Turn 104:
+p2: Switched to Zapdos
+p1: Gliscor used Substitute on Gliscor
+Turn 105:
+p1: Gliscor used Protect on Gliscor
+p2: Zapdos used Roost on Zapdos
+Turn 106:
+p2: Switched to Gastrodon
+p1: Switched to Chansey
+Turn 107:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 108:
+p2: Switched to Scizor-Mega
+p1: Chansey used Soft-Boiled on Chansey
+Turn 109:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 110:
+p2: Switched to Gastrodon
+p1: Slowbro used Scald on Gastrodon
+Turn 111:
+p1: Switched to Chansey
+p2: Gastrodon used Toxic on Chansey
+Turn 112:
+p2: Switched to Zapdos
+p1: Chansey used Seismic Toss on Zapdos
+Turn 113:
+p1: Switched to Gliscor
+p2: Zapdos used Roost on Zapdos
+Turn 114:
+p2: Switched to Gastrodon
+p1: Gliscor used Earthquake on Gastrodon
+Turn 115:
+p1: Gliscor used Earthquake on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 116:
+p2: Switched to Slowbro
+p1: Gliscor used Earthquake on Slowbro
+Turn 117:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 118:
+p1: Switched to Gliscor
+p2: Zapdos used Discharge on Gliscor
+Turn 119:
+p2: Switched to Gastrodon
+p1: Gliscor used Substitute on Gliscor
+Turn 120:
+p1: Gliscor used Earthquake on Gastrodon
+p2: Gastrodon used Recover on Gastrodon
+Turn 121:
+p2: Switched to Zapdos
+p1: Gliscor used Toxic on Zapdos
+Turn 122:
+p2: Switched to Slowbro
+p1: Gliscor used Earthquake on Slowbro
+Turn 123:
+p2: Switched to Zapdos
+p1: Gliscor used Toxic on Zapdos
+Turn 124:
+p2: Switched to Slowbro
+p1: Switched to Ferrothorn
+Turn 125:
+p2: Slowbro used Scald on Ferrothorn
+p1: Ferrothorn used Spikes on Slowbro
+Turn 126:
+p1: Switched to Chansey
+p2: Slowbro used Scald on Chansey
+Turn 127:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 128:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Seismic Toss on Zapdos
+Turn 129:
+p2: Zapdos used Roost on Zapdos
+p1: Chansey used Seismic Toss on Zapdos
+Turn 130:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 131:
+p2: Scizor-Mega used Defog on Chansey
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 132:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 133:
+p1: Switched to Zapdos
+p2: Switched to Zapdos
+Turn 134:
+p2: Switched to Gastrodon
+p1: Zapdos used Thunderbolt on Gastrodon
+Turn 135:
+p1: Switched to Chansey
+p2: Gastrodon used Scald on Chansey
+Turn 136:
+p2: Switched to Zapdos
+p1: Chansey used Soft-Boiled on Chansey
+Turn 137:
+p1: Switched to Gliscor
+p2: Zapdos used Roost on Zapdos
+Turn 138:
+p2: Switched to Slowbro
+p1: Switched to Slowbro
+Turn 139:
+p2: Switched to Gastrodon
+p1: Slowbro used Scald on Gastrodon
+Turn 140:
+p1: Switched to Chansey
+p2: Gastrodon used Recover on Gastrodon
+Turn 141:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 142:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Seismic Toss on Zapdos
+Turn 143:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 144:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 145:
+p2: Switched to Gastrodon
+p1: Switched to Quagsire
+Turn 146:
+p2: Switched to Chansey
+p1: Switched to Slowbro
+Turn 147:
+p1: Switched to Chansey
+p2: Chansey used Stealth Rock on Chansey
+Turn 148:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 149:
+p1: Switched to Quagsire
+p2: Zapdos used Roost on Zapdos
+Turn 150:
+p2: Switched to Chansey
+p1: Quagsire used Earthquake on Chansey
+Turn 151:
+p2: Chansey used Soft-Boiled on Chansey
+p1: Quagsire used Earthquake on Chansey
+Turn 152:
+p2: Switched to Slowbro
+p1: Quagsire used Toxic on Slowbro
+Turn 153:
+p2: Slowbro used Scald on Quagsire
+p1: Quagsire used Scald on Slowbro
+Turn 154:
+p1: Switched to Chansey
+p2: Slowbro used Toxic on Chansey
+Turn 155:
+p2: Switched to Scizor-Mega
+p1: Chansey used Soft-Boiled on Chansey
+Turn 156:
+p2: Scizor-Mega used Defog on Chansey
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 157:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 158:
+p2: Switched to Slowbro
+p1: Switched to Ferrothorn
+Turn 159:
+p2: Slowbro used Scald on Ferrothorn
+p1: Ferrothorn used Leech Seed on Slowbro
+Turn 160:
+p2: Switched to Zapdos
+p1: Ferrothorn used Gyro Ball on Zapdos
+Turn 161:
+p1: Switched to Gliscor
+p2: Zapdos used Roost on Zapdos
+Turn 162:
+p2: Switched to Slowbro
+p1: Gliscor used Substitute on Gliscor
+Turn 163:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 164:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 165:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 166:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 167:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 168:
+p1: Switched to Gliscor
+p2: Slowbro used Scald on Gliscor
+Turn 169:
+p1: Gliscor used Protect on Gliscor
+p2: Slowbro used Ice Beam on Gliscor
+Turn 170:
+p2: Switched to Zapdos
+p1: Gliscor used Earthquake on Zapdos
+Turn 171:
+p2: Switched to Slowbro
+p1: Gliscor failed to use Protect
+Turn 172:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 173:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 174:
+p1: Switched to Slowbro
+p2: Slowbro used Ice Beam on Slowbro
+Turn 175:
+p1: Switched to Chansey
+p2: Slowbro used Ice Beam on Chansey
+Turn 176:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 177:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 178:
+p2: Switched to Scizor-Mega
+p1: Chansey used Stealth Rock on Scizor-Mega
+Turn 179:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Defog on Gliscor
+Turn 180:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 181:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 182:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 183:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 184:
+p1: Switched to Slowbro
+p2: Slowbro used Scald on Slowbro
+Turn 185:
+p2: Slowbro failed to use Toxic
+p1: Slowbro used Scald on Slowbro
+Turn 186:
+p2: Switched to Gastrodon
+p1: Slowbro used Scald on Gastrodon
+Turn 187:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 188:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 189:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 190:
+p1: Switched to Zapdos
+p2: Slowbro used Ice Beam on Zapdos
+Turn 191:
+p2: Switched to Chansey
+p1: Zapdos used Roost on Zapdos
+Turn 192:
+p1: Switched to Ferrothorn
+p2: Chansey used Stealth Rock on Ferrothorn
+Turn 193:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 194:
+p1: Switched to Gliscor
+p2: Zapdos used Heat Wave on Gliscor
+Turn 195:
+p2: Switched to Slowbro
+p1: Gliscor failed to use Protect
+Turn 196:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 197:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 198:
+p2: Switched to Zapdos
+p1: Chansey used Stealth Rock on Zapdos
+Turn 199:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Stealth Rock on Zapdos
+Turn 200:
+p2: Zapdos used Defog on Chansey
+p1: Chansey used Seismic Toss on Zapdos
+Turn 201:
+p2: Switched to Slowbro
+p1: Chansey used Seismic Toss on Slowbro
+Turn 202:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Slowbro used Slack Off on Slowbro
+Turn 203:
+p1: Switched to Zapdos
+p2: Slowbro used Toxic on Zapdos
+Turn 204:
+p2: Switched to Gastrodon
+p1: Zapdos used Heat Wave on Gastrodon
+Turn 205:
+p1: Switched to Ferrothorn
+p2: Switched to Chansey
+Turn 206:
+p2: Switched to Zapdos
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 207:
+p1: Ferrothorn used Protect on Ferrothorn
+p2: Zapdos used Roost on Zapdos
+Turn 208:
+p2: Switched to Scizor-Mega
+p1: Switched to Quagsire
+Turn 209:
+p2: Switched to Slowbro
+p1: Switched to Slowbro
+Turn 210:
+p1: Switched to Ferrothorn
+p2: Slowbro used Scald on Ferrothorn
+Turn 211:
+p2: Slowbro used Scald on Ferrothorn
+p1: Ferrothorn used Spikes on Slowbro
+Turn 212:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 213:
+p2: Zapdos used Roost on Zapdos
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 214:
+p2: Switched to Scizor-Mega
+p1: Switched to Quagsire
+Turn 215:
+p2: Scizor-Mega used Defog on Quagsire
+p1: Quagsire used Scald on Scizor-Mega
+Turn 216:
+p1: Switched to Ferrothorn
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 217:
+p2: Switched to Zapdos
+p1: Switched to Gliscor
+Turn 218:
+p2: Switched to Chansey
+p1: Switched to Chansey
+Turn 219:
+p1: Switched to Ferrothorn
+p2: Chansey used Heal Bell on Chansey
+Turn 220:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 221:
+p1: Switched to Gliscor
+p2: Zapdos used Heat Wave on Gliscor
+Turn 222:
+p2: Zapdos used Defog on Gliscor
+p1: Gliscor used Toxic on Zapdos
+Turn 223:
+p2: Switched to Chansey
+p1: Switched to Chansey
+Turn 224:
+p1: Switched to Ferrothorn
+p2: Chansey used Stealth Rock on Ferrothorn
+Turn 225:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 226:
+p2: Switched to Scizor-Mega
+p1: Switched to Slowbro
+Turn 227:
+p2: Switched to Slowbro
+p1: Switched to Quagsire
+Turn 228:
+p2: Slowbro used Toxic on Quagsire
+p1: Quagsire used Toxic on Slowbro
+Turn 229:
+p1: Switched to Gliscor
+p2: Slowbro used Scald on Gliscor
+Turn 230:
+p2: Switched to Scizor-Mega
+p1: Gliscor failed to use Protect
+Turn 231:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Defog on Slowbro
+Turn 232:
+p2: Switched to Slowbro
+p1: Switched to Gliscor
+Turn 233:
+p1: Switched to Slowbro
+p2: Slowbro used Ice Beam on Slowbro
+Turn 234:
+p1: Switched to Zapdos
+p2: Slowbro used Scald on Zapdos
+Turn 235:
+p2: Switched to Chansey
+p1: Zapdos used Roost on Zapdos
+Turn 236:
+p1: Zapdos used Defog on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 237:
+p1: Switched to Gliscor
+p2: Chansey used Stealth Rock on Gliscor
+Turn 238:
+p2: Switched to Zapdos
+p1: Gliscor used Substitute on Gliscor
+Turn 239:
+p2: Switched to Slowbro
+p1: Gliscor used Substitute on Gliscor
+Turn 240:
+p1: Switched to Ferrothorn
+p2: Switched to Zapdos
+Turn 241:
+p1: Switched to Slowbro
+p2: Zapdos used Heat Wave on Slowbro
+Turn 242:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 243:
+p1: Switched to Slowbro
+p2: Switched to Scizor-Mega
+Turn 244:
+p2: Switched to Slowbro
+p1: Slowbro used Scald on Slowbro
+Turn 245:
+p2: Switched to Gastrodon
+p1: Switched to Chansey
+Turn 246:
+p1: Switched to Slowbro
+p2: Gastrodon used Scald on Slowbro
+Turn 247:
+p1: Switched to Chansey
+p2: Gastrodon used Scald on Chansey
+Turn 248:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Gastrodon used Scald on Chansey
+Turn 249:
+p1: Switched to Ferrothorn
+p2: Gastrodon used Toxic on Ferrothorn
+Turn 250:
+p2: Gastrodon used Scald on Ferrothorn
+p1: Ferrothorn used Spikes on Gastrodon
+Turn 251:
+p2: Switched to Scizor-Mega
+p1: Ferrothorn used Leech Seed on Scizor-Mega
+Turn 252:
+p2: Scizor-Mega used Roost on Scizor-Mega
+p1: Ferrothorn used Gyro Ball on Scizor-Mega
+Turn 253:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Roost on Scizor-Mega
+Turn 254:
+p2: Switched to Slowbro
+p1: Slowbro used Scald on Slowbro
+Turn 255:
+p2: Switched to Chansey
+p1: Slowbro used Fire Blast on Chansey
+Turn 256:
+p1: Switched to Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 257:
+p2: Switched to Zapdos
+p1: Chansey used Soft-Boiled on Chansey
+Turn 258:
+p1: Switched to Gliscor
+p2: Zapdos used Defog on Gliscor
+Turn 259:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 260:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 261:
+p2: Switched to Gastrodon
+p1: Switched to Chansey
+Turn 262:
+p1: Switched to Slowbro
+p2: Gastrodon failed to use Toxic
+Turn 263:
+p2: Switched to Chansey
+p1: Switched to Ferrothorn
+Turn 264:
+p2: Switched to Zapdos
+p1: Switched to Slowbro
+Turn 265:
+p1: Switched to Quagsire
+p2: Zapdos used Discharge on Quagsire
+Turn 266:
+p2: Switched to Gastrodon
+p1: Quagsire used Scald on Gastrodon
+Turn 267:
+p1: Switched to Slowbro
+p2: Gastrodon failed to use Toxic
+Turn 268:
+p1: Switched to Ferrothorn
+p2: Gastrodon failed to use Toxic
+Turn 269:
+p2: Gastrodon failed to use Toxic
+p1: Ferrothorn used Spikes on Gastrodon
+Turn 270:
+p2: Gastrodon failed to use Toxic
+p1: Ferrothorn used Gyro Ball on Gastrodon
+Turn 271:
+p2: Switched to Zapdos
+p1: Switched to Gliscor
+Turn 272:
+p2: Zapdos used Defog on Gliscor
+p1: Gliscor used Toxic on Zapdos
+Turn 273:
+p2: Switched to Scizor-Mega
+p1: Switched to Quagsire
+Turn 274:
+p2: Switched to Slowbro
+p1: Quagsire used Toxic on Slowbro
+Turn 275:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 276:
+p1: Switched to Ferrothorn
+p2: Slowbro failed to use Toxic
+Turn 277:
+p2: Switched to Zapdos
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 278:
+p2: Zapdos used Roost on Zapdos
+p1: Ferrothorn used Gyro Ball on Zapdos
+Turn 279:
+p2: Switched to Slowbro
+p1: Ferrothorn failed to use Protect
+Turn 280:
+p2: Switched to Zapdos
+p1: Switched to Slowbro
+Turn 281:
+p2: Switched to Slowbro
+p1: Switched to Quagsire
+Turn 282:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 283:
+p1: Switched to Quagsire
+p2: Slowbro used Ice Beam on Quagsire
+Turn 284:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 285:
+p2: Switched to Gastrodon
+p1: Slowbro used Toxic on Gastrodon
+Turn 286:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 287:
+p2: Switched to Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 288:
+p2: Scizor-Mega used Roost on Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 289:
+p1: Switched to Gliscor
+p2: Scizor-Mega used Superpower on Gliscor
+Turn 290:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 291:
+p2: Switched to Chansey
+p1: Slowbro used Scald on Chansey
+Turn 292:
+p2: Switched to Slowbro
+p1: Switched to Chansey
+Turn 293:
+p1: Switched to Slowbro
+p2: Slowbro failed to use Toxic
+Turn 294:
+p1: Switched to Gliscor
+p2: Slowbro used Toxic on Gliscor
+Turn 295:
+p1: Switched to Slowbro
+p2: Switched to Zapdos
+Turn 296:
+p2: Switched to Slowbro
+p1: Switched to Quagsire
+Turn 297:
+p1: Switched to Slowbro
+p2: Slowbro used Ice Beam on Slowbro
+Turn 298:
+p2: Slowbro failed to use Toxic
+p1: Slowbro used Fire Blast on Slowbro
+Turn 299:
+p1: Switched to Quagsire
+p2: Slowbro used Slack Off on Slowbro
+Turn 300:
+p2: Switched to Chansey
+p1: Switched to Slowbro
+Turn 301:
+p1: Switched to Chansey
+p2: Chansey used Stealth Rock on Chansey
+Turn 302:
+p1: Switched to Ferrothorn
+p2: Chansey used Heal Bell on Chansey
+Turn 303:
+p2: Switched to Zapdos
+p1: Ferrothorn used Spikes on Zapdos
+Turn 304:
+p2: Zapdos used Discharge on Ferrothorn
+p1: Ferrothorn used Leech Seed on Zapdos
+Turn 305:
+p1: Switched to Chansey
+p2: Zapdos used Roost on Zapdos
+Turn 306:
+p2: Switched to Scizor-Mega
+p1: Chansey used Toxic on Scizor-Mega
+Turn 307:
+p2: Scizor-Mega used Roost on Scizor-Mega
+p1: Chansey used Seismic Toss on Scizor-Mega
+Turn 308:
+p1: Switched to Slowbro
+p2: Scizor-Mega used Superpower on Slowbro
+Turn 309:
+p2: Switched to Slowbro
+p1: Switched to Quagsire
+Turn 310:
+p2: Slowbro used Toxic on Quagsire
+p1: Quagsire used Toxic on Slowbro
+Turn 311:
+p1: Switched to Slowbro
+p2: Slowbro used Scald on Slowbro
+Turn 312:
+p2: Switched to Gastrodon
+p1: Slowbro used Slack Off on Slowbro
+Turn 313:
+p1: Switched to Ferrothorn
+p2: Gastrodon used Earthquake on Ferrothorn
+Turn 314:
+p2: Gastrodon used Earthquake on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Slowbro
+Turn 315:
+p1: Switched to Quagsire
+p2: Gastrodon used Earthquake on Quagsire
+Turn 316:
+p1: Switched to Slowbro
+p2: Gastrodon used Scald on Slowbro
+Turn 317:
+p2: Gastrodon used Earthquake on Slowbro
+p1: Slowbro used Toxic on Gastrodon
+Turn 318:
+p2: Switched to Zapdos
+p1: Slowbro used Slack Off on Slowbro
+Turn 319:
+p2: Zapdos used Discharge on Slowbro
+p1: Slowbro used Scald on Zapdos
+Turn 320:
+p1: Switched to Chansey
+p2: Zapdos used Discharge on Chansey
+Turn 321:
+p1: Switched to Quagsire
+p2: Zapdos used Discharge on Quagsire
+Turn 322:
+p2: Zapdos used Defog on Quagsire
+p1: Quagsire used Recover on Quagsire
+Turn 323:
+p2: Switched to Chansey
+p1: Quagsire used Recover on Quagsire
+Turn 324:
+p2: Chansey used Stealth Rock on Quagsire
+p1: Quagsire used Earthquake on Chansey
+Turn 325:
+p1: Switched to Slowbro
+p2: Chansey used Seismic Toss on Slowbro
+p1: Slowbro fainted

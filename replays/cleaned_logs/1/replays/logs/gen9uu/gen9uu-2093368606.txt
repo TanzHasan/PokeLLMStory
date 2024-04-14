@@ -1,0 +1,120 @@
+p1: Switched to Ribombee
+p2: Switched to Lokix
+Turn 1:
+p2: Lokix used First Impression on Ribombee
+p1: Ribombee used Sticky Web on Lokix
+Turn 2:
+p2: Switched to Excadrill
+p1: Ribombee used Moonblast on Excadrill
+Turn 3:
+p1: Ribombee used Stun Spore on Excadrill
+p2: Excadrill used Rapid Spin on Ribombee
+p1: Ribombee fainted
+p1: Switched to Hawlucha
+Turn 4:
+p2: Switched to Toxapex
+p1: Hawlucha used Swords Dance on Hawlucha
+Turn 5:
+p1: Switched to Scizor
+p2: Toxapex used Toxic on Scizor
+Turn 6:
+p2: Switched to Skeledirge
+p1: Scizor used Knock Off on Skeledirge
+Turn 7:
+p2: Skeledirge used Torch Song on Scizor
+p1: Scizor fainted
+p1: Switched to Iron Moth
+Turn 8:
+p2: Switched to Rotom-Wash
+p1: Iron Moth used Sludge Wave on Rotom-Wash
+Turn 9:
+p1: Iron Moth used Sludge Wave on Rotom-Wash
+p2: Rotom-Wash fainted
+p2: Switched to Excadrill
+Turn 10:
+p1: Iron Moth used Fiery Dance on Excadrill
+p2: Excadrill fainted
+p2: Switched to Toxapex
+Turn 11:
+p1: Iron Moth used Fiery Dance on Toxapex
+p2: Toxapex used Liquidation on Iron Moth
+Turn 12:
+p1: Iron Moth used Fiery Dance on Toxapex
+p2: Toxapex used Liquidation on Iron Moth
+p1: Iron Moth fainted
+p1: Switched to Weezing-Galar
+Turn 13:
+p1: Weezing-Galar used Will-O-Wisp on Toxapex
+p2: Toxapex used Recover on Toxapex
+Turn 14:
+p1: Weezing-Galar used Strange Steam on Toxapex
+p2: Toxapex used Liquidation on Weezing-Galar
+Turn 15:
+p2: Switched to Lokix
+p1: Weezing-Galar used Sludge Bomb on Lokix
+Turn 16:
+p2: Lokix used Knock Off on Weezing-Galar
+p1: Weezing-Galar used Strange Steam on Lokix
+p2: Lokix fainted
+p2: Switched to Skeledirge
+Turn 17:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Weezing-Galar used Strange Steam on Skeledirge
+Turn 18:
+p2: Skeledirge used Torch Song on Weezing-Galar
+p1: Weezing-Galar used Strange Steam on Skeledirge
+Turn 19:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Weezing-Galar used Sludge Bomb on Skeledirge
+Turn 20:
+p2: Skeledirge used Torch Song on Weezing-Galar
+p1: Weezing-Galar fainted
+p1: Switched to Donphan
+Turn 21:
+p2: Skeledirge used Will-O-Wisp on Donphan
+p1: Donphan used Earthquake on Skeledirge
+Turn 22:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Donphan used Rapid Spin on Skeledirge
+Turn 23:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 24:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 25:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 26:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 27:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 28:
+p1: Donphan used Earthquake on Skeledirge
+p2: Skeledirge used Shadow Ball on Donphan
+p1: Donphan fainted
+p1: Switched to Hawlucha
+Turn 29:
+p1: Hawlucha used Close Combat on Skeledirge
+p2: Skeledirge fainted
+p2: Switched to Sinistcha
+Turn 30:
+p1: Hawlucha used Acrobatics on Sinistcha
+p2: Sinistcha used Strength Sap on Hawlucha
+Turn 31:
+p1: Hawlucha used Swords Dance on Hawlucha
+p2: Sinistcha used Strength Sap on Hawlucha
+Turn 32:
+p1: Hawlucha used Acrobatics on Sinistcha
+p2: Sinistcha used Curse on Hawlucha
+p2: Sinistcha fainted
+p2: Switched to Toxapex
+Turn 33:
+p1: Hawlucha used Swords Dance on Hawlucha
+p2: Toxapex failed to use Recover
+Turn 34:
+p1: Hawlucha used Swords Dance on Hawlucha
+p2: Toxapex used Haze on Toxapex
+Turn 35:

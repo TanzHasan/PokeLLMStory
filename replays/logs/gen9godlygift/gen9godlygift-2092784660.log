@@ -1,0 +1,390 @@
+|j|☆sihengthegreat
+|j|☆stallingtest123
+|t:|1711863534
+|gametype|singles
+|player|p1|sihengthegreat|169|1229
+|player|p2|stallingtest123|miku-flying|1443
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Godly Gift
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Gholdengo|
+|poke|p1|Samurott-Hisui, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Electrode-Hisui|
+|poke|p1|Great Tusk|
+|poke|p1|Kyurem-White|
+|poke|p2|Skarmory, M|
+|poke|p2|Giratina|
+|poke|p2|Clodsire, F|
+|poke|p2|Clefable, M|
+|poke|p2|Alomomola, F|
+|poke|p2|Skeledirge, F|
+|teampreview
+|
+|t:|1711863572
+|start
+|switch|p1a: Electrode|Electrode-Hisui|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1711863580
+|switch|p2a: Giratina|Giratina|100/100
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Electrode|Leaf Storm|p2a: Giratina|[miss]
+|-miss|p1a: Electrode|p2a: Giratina
+|
+|upkeep
+|turn|2
+|
+|t:|1711863601
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|move|p2a: Giratina|Will-O-Wisp|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|
+|upkeep
+|turn|3
+|
+|t:|1711863611
+|switch|p2a: Alomomola|Alomomola, F|100/100
+|move|p1a: Gholdengo|Thunder Wave|p2a: Alomomola
+|-status|p2a: Alomomola|par
+|
+|upkeep
+|turn|4
+|
+|t:|1711863630
+|switch|p1a: Samurott|Samurott-Hisui, F|100/100
+|-terastallize|p2a: Alomomola|Dark
+|move|p2a: Alomomola|Flip Turn|p1a: Samurott
+|-resisted|p1a: Samurott
+|-damage|p1a: Samurott|91/100
+|
+|t:|1711863634
+|switch|p2a: Clefable|Clefable, M|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|5
+|
+|t:|1711863643
+|move|p1a: Samurott|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|77/100
+|
+|t:|1711863651
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from] Flip Turn
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|91/100
+|
+|-heal|p2a: Clefable|83/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711863660
+|move|p2a: Clefable|Stealth Rock|p1a: Slowking
+|-sidestart|p1: sihengthegreat|move: Stealth Rock
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snow
+|
+|t:|1711863688
+|switch|p1a: Gholdengo|Gholdengo|100/100|[from] Chilly Reception
+|
+|-weather|Snow|[upkeep]
+|-heal|p2a: Clefable|89/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711863703
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|100/100 par
+|move|p1a: Gholdengo|Hex|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|90/100 par
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711863713
+|move|p1a: Gholdengo|Hex|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|77/100 par
+|cant|p2a: Alomomola|par
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1711863721
+|switch|p1a: Electrode|Electrode-Hisui|100/100
+|-damage|p1a: Electrode|88/100|[from] Stealth Rock
+|move|p2a: Alomomola|Flip Turn|p1a: Electrode
+|-resisted|p1a: Electrode
+|-damage|p1a: Electrode|74/100
+|
+|t:|1711863730
+|switch|p2a: Clefable|Clefable, M|89/100|[from] Flip Turn
+|
+|-weather|Snow|[upkeep]
+|-heal|p2a: Clefable|95/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711863735
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|100/100 par
+|move|p1a: Electrode|Volt Switch|p2a: Alomomola
+|-damage|p2a: Alomomola|74/100 par
+|
+|t:|1711863742
+|switch|p1a: Great Tusk|Great Tusk|100/100|[from] Volt Switch
+|-damage|p1a: Great Tusk|97/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Great Tusk|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711863747
+|switch|p2a: Giratina|Giratina|100/100
+|-ability|p2a: Giratina|Pressure
+|move|p1a: Great Tusk|Rapid Spin|p2a: Giratina
+|-immune|p2a: Giratina
+|
+|upkeep
+|turn|12
+|
+|t:|1711863753
+|move|p1a: Great Tusk|Knock Off|p2a: Giratina
+|-supereffective|p2a: Giratina
+|-damage|p2a: Giratina|78/100
+|-enditem|p2a: Giratina|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|move|p2a: Giratina|Will-O-Wisp|p1a: Great Tusk
+|-status|p1a: Great Tusk|brn
+|
+|-damage|p1a: Great Tusk|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711863759
+|move|p1a: Great Tusk|Stealth Rock|p2a: Giratina
+|-sidestart|p2: stallingtest123|move: Stealth Rock
+|move|p2a: Giratina|Dragon Tail|p1a: Great Tusk
+|-damage|p1a: Great Tusk|84/100 brn
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|drag|p1a: Gholdengo|Gholdengo|100/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711863769
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|100/100 par
+|move|p1a: Gholdengo|Thunder Wave|p2a: Alomomola
+|-fail|p2a: Alomomola|par
+|
+|upkeep
+|turn|15
+|
+|t:|1711863778
+|move|p1a: Gholdengo|Hex|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|90/100 par
+|cant|p2a: Alomomola|par
+|
+|upkeep
+|turn|16
+|
+|t:|1711863784
+|move|p1a: Gholdengo|Hex|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|78/100 par
+|cant|p2a: Alomomola|par
+|
+|upkeep
+|turn|17
+|
+|t:|1711863789
+|move|p1a: Gholdengo|Hex|p2a: Alomomola
+|-resisted|p2a: Alomomola
+|-damage|p2a: Alomomola|66/100 par
+|move|p2a: Alomomola|Flip Turn|p1a: Gholdengo
+|-damage|p1a: Gholdengo|92/100
+|
+|t:|1711863795
+|switch|p2a: Skeledirge|Skeledirge, F|100/100|[from] Flip Turn
+|
+|upkeep
+|turn|18
+|
+|t:|1711863803
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|99/100 par
+|switch|p1a: Samurott|Samurott-Hisui, F|91/100
+|-damage|p1a: Samurott|78/100|[from] Stealth Rock
+|
+|upkeep
+|turn|19
+|
+|t:|1711863808
+|switch|p2a: Clefable|Clefable, M|95/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|-sidestart|p2: stallingtest123|Spikes
+|
+|-heal|p2a: Clefable|84/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711863817
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Clefable|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|72/100
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|90/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711863826
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|100/100 par
+|move|p1a: Slowking|Thunder Wave|p2a: Alomomola
+|-fail|p2a: Alomomola|par
+|
+|upkeep
+|turn|22
+|
+|t:|1711863830
+|move|p2a: Alomomola|Flip Turn|p1a: Slowking
+|-damage|p1a: Slowking|55/100
+|
+|t:|1711863836
+|switch|p2a: Clefable|Clefable, M|90/100|[from] Flip Turn
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Clefable|96/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711863846
+|switch|p2a: Alomomola|Alomomola, F, tera:Dark|100/100 par
+|move|p1a: Slowking|Chilly Reception|p1a: Slowking
+|-weather|Snow
+|
+|t:|1711863868
+|switch|p1a: Samurott|Samurott-Hisui, F|78/100|[from] Chilly Reception
+|-damage|p1a: Samurott|66/100|[from] Stealth Rock
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1711863874
+|switch|p2a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Samurott|Razor Shell|p2a: Skarmory
+|-damage|p2a: Skarmory|68/100
+|-unboost|p2a: Skarmory|def|1
+|-damage|p1a: Samurott|49/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|
+|-weather|Snow|[upkeep]
+|-end|p2a: Skarmory|move: Future Sight
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|48/100
+|upkeep
+|turn|25
+|
+|t:|1711863888
+|switch|p1a: Gholdengo|Gholdengo|92/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|98/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1711863903
+|switch|p1a: Great Tusk|Great Tusk|84/100 brn
+|-damage|p1a: Great Tusk|81/100 brn|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Great Tusk
+|-sidestart|p1: sihengthegreat|Spikes
+|
+|-weather|Snow|[upkeep]
+|-heal|p1a: Great Tusk|87/100 brn|[from] item: Leftovers
+|-damage|p1a: Great Tusk|81/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1711863913
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|switch|p1a: Samurott|Samurott-Hisui, F|49/100
+|-damage|p1a: Samurott|37/100|[from] Stealth Rock
+|-damage|p1a: Samurott|24/100|[from] Spikes
+|switch|p2a: Giratina|Giratina|78/100
+|-damage|p2a: Giratina|66/100|[from] Stealth Rock
+|-damage|p2a: Giratina|53/100|[from] Spikes
+|-ability|p2a: Giratina|Pressure
+|
+|-weather|none
+|upkeep
+|turn|28
+|
+|t:|1711863924
+|switch|p2a: Clefable|Clefable, M|96/100
+|move|p1a: Samurott|Ceaseless Edge|p2a: Clefable|[miss]
+|-miss|p1a: Samurott|p2a: Clefable
+|
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711863951
+|switch|p1a: Great Tusk|Great Tusk|81/100 brn
+|-damage|p1a: Great Tusk|78/100 brn|[from] Stealth Rock
+|-damage|p1a: Great Tusk|66/100 brn|[from] Spikes
+|move|p2a: Clefable|Moonblast|p1a: Great Tusk
+|-supereffective|p1a: Great Tusk
+|-damage|p1a: Great Tusk|16/100 brn
+|
+|-heal|p1a: Great Tusk|22/100 brn|[from] item: Leftovers
+|-damage|p1a: Great Tusk|16/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1711863975
+|switch|p2a: Skeledirge|Skeledirge, F|100/100
+|move|p1a: Great Tusk|Rapid Spin|p2a: Skeledirge
+|-immune|p2a: Skeledirge
+|
+|-heal|p1a: Great Tusk|22/100 brn|[from] item: Leftovers
+|-damage|p1a: Great Tusk|16/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1711863979
+|move|p1a: Great Tusk|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|78/100
+|-enditem|p2a: Skeledirge|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Great Tusk
+|move|p2a: Skeledirge|Torch Song|p1a: Great Tusk
+|-damage|p1a: Great Tusk|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Great Tusk
+|-end|p1a: Great Tusk|Protosynthesis|[silent]
+|
+|upkeep
+|-message|sihengthegreat forfeited.
+|
+|win|stallingtest123
+|raw|sihengthegreat's rating: 1229 &rarr; <strong>1218</strong><br />(-11 for losing)
+|raw|stallingtest123's rating: 1443 &rarr; <strong>1452</strong><br />(+9 for winning)
+|l|☆sihengthegreat
+|player|p1|

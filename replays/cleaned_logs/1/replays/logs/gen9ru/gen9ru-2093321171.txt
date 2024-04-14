@@ -1,0 +1,62 @@
+p1: Switched to Coalossal
+p2: Switched to Conkeldurr
+Turn 1:
+p2: Conkeldurr used Ice Punch on Coalossal
+p1: Coalossal used Stealth Rock on Conkeldurr
+Turn 2:
+p2: Conkeldurr used Drain Punch on Coalossal
+p1: Coalossal used Will-O-Wisp on Conkeldurr
+Turn 3:
+p1: Switched to Basculegion
+p2: Conkeldurr used Ice Punch on Basculegion
+Turn 4:
+p1: Basculegion can't move
+p2: Conkeldurr used Thunder Punch on Basculegion
+Turn 5:
+p1: Basculegion can't move
+p2: Conkeldurr used Thunder Punch on Basculegion
+p1: Basculegion fainted
+p1: Switched to Gallade
+Turn 6:
+p1: Gallade used Leaf Blade on Conkeldurr
+p2: Conkeldurr used Drain Punch on Gallade
+Turn 7:
+p2: Conkeldurr used Mach Punch on Gallade
+p1: Gallade used Leaf Blade on Conkeldurr
+p2: Conkeldurr fainted
+p2: Switched to Ambipom
+Turn 8:
+p1: Switched to Coalossal
+p2: Ambipom used Acrobatics on Coalossal
+Turn 9:
+p1: Switched to Magnezone
+p2: Ambipom used Triple Axel on Magnezone
+Turn 10:
+p2: Ambipom used Triple Axel on Magnezone
+p1: Magnezone used Discharge on Ambipom
+p2: Ambipom fainted
+p2: Switched to Azelf
+Turn 11:
+p2: Azelf used Fire Blast on Magnezone
+p1: Magnezone fainted
+p1: Switched to Delphox
+Turn 12:
+p2: Switched to Gardevoir
+p1: Delphox used Flamethrower on Gardevoir
+Turn 13:
+p2: Gardevoir used Psychic on Delphox
+p1: Delphox used Flamethrower on Gardevoir
+p2: Gardevoir fainted
+p2: Switched to Kleavor
+Turn 14:
+p1: Delphox used Flamethrower on Kleavor
+p2: Kleavor fainted
+p2: Switched to Azelf
+Turn 15:
+p2: Azelf used Psychic on Delphox
+p1: Delphox used Flamethrower on Azelf
+p2: Azelf fainted
+p2: Switched to Forretress
+Turn 16:
+p1: Delphox used Flamethrower on Forretress
+p2: Forretress fainted

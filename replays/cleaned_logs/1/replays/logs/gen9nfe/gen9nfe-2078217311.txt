@@ -1,0 +1,99 @@
+p1: Switched to Frogadier
+p2: Switched to Raboot
+Turn 1:
+p2: Switched to Quaxwell
+p1: Frogadier used Hydro Pump on Quaxwell
+Turn 2:
+p1: Frogadier used U-turn on Quaxwell
+p1: Switched to Tinkatuff
+p2: Quaxwell used Flip Turn on Tinkatuff
+p2: Switched to Raboot
+Turn 3:
+p1: Switched to Quaxwell
+p2: Raboot used U-turn on Quaxwell
+p2: Switched to Gligar
+Turn 4:
+p2: Gligar used Toxic on Quaxwell
+p1: Quaxwell used Rapid Spin on Gligar
+Turn 5:
+p1: Quaxwell used Flip Turn on Gligar
+p1: Switched to Frogadier
+p2: Gligar used Knock Off on Frogadier
+Turn 6:
+p2: Switched to Quaxwell
+p1: Frogadier used Toxic Spikes on Quaxwell
+Turn 7:
+p1: Frogadier used U-turn on Quaxwell
+p1: Switched to Tinkatuff
+p2: Quaxwell used Rapid Spin on Tinkatuff
+Turn 8:
+p2: Quaxwell used Flip Turn on Tinkatuff
+p2: Switched to Gligar
+p1: Tinkatuff used Knock Off on Gligar
+Turn 9:
+p2: Gligar used Stealth Rock on Tinkatuff
+p1: Tinkatuff used Stealth Rock on Gligar
+Turn 10:
+p2: Gligar used Earthquake on Tinkatuff
+p1: Tinkatuff fainted
+p1: Switched to Quaxwell
+Turn 11:
+p2: Gligar used Knock Off on Quaxwell
+p1: Quaxwell used Triple Axel on Gligar
+p2: Gligar fainted
+p2: Switched to Servine
+Turn 12:
+p1: Switched to Combusken
+p2: Servine used Leaf Storm on Combusken
+Turn 13:
+p1: Combusken used Protect on Combusken
+p2: Servine used Glare on Combusken
+Turn 14:
+p1: Combusken used Fire Punch on Servine
+p2: Servine used Glare on Combusken
+Turn 15:
+p1: Combusken used Protect on Combusken
+p2: Servine used Synthesis on Servine
+Turn 16:
+p2: Switched to Quaxwell
+p1: Combusken can't move
+Turn 17:
+p1: Combusken used Close Combat on Quaxwell
+p2: Quaxwell used Rapid Spin on Combusken
+Turn 18:
+p1: Combusken used Close Combat on Quaxwell
+p2: Quaxwell fainted
+p2: Switched to Duosion
+Turn 19:
+p1: Combusken used Fire Punch on Duosion
+p2: Duosion used Acid Armor on Duosion
+Turn 20:
+p1: Combusken used Fire Punch on Duosion
+p2: Duosion used Calm Mind on Duosion
+Turn 21:
+p1: Switched to Frogadier
+p2: Duosion used Calm Mind on Duosion
+Turn 22:
+p1: Frogadier used U-turn on Duosion
+p1: Switched to Gligar
+p2: Duosion used Stored Power on Gligar
+p1: Gligar fainted
+p1: Switched to Pikachu
+Turn 23:
+p1: Pikachu used Thunderbolt on Duosion
+p2: Duosion used Stored Power on Pikachu
+p1: Pikachu fainted
+p1: Switched to Frogadier
+Turn 24:
+p1: Frogadier used Hydro Pump on Duosion
+p2: Duosion fainted
+p2: Switched to Krokorok
+Turn 25:
+p2: Krokorok used Earthquake on Frogadier
+p1: Frogadier fainted
+p1: Switched to Quaxwell
+Turn 26:
+p2: Krokorok used Earthquake on Quaxwell
+p1: Quaxwell fainted
+p1: Switched to Combusken
+p1: Combusken fainted

@@ -1,0 +1,347 @@
+|j|☆yerpptheder
+|j|☆hameowdi
+|t:|1711942944
+|gametype|singles
+|player|p1|yerpptheder|miku-ground|1294
+|player|p2|hameowdi|iris|1050
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711942944
+|start
+|switch|p1a: Vespiquen|Vespiquen, L97, F|293/293
+|switch|p2a: Primarina|Primarina, L81, M|262/262
+|-ability|p1a: Vespiquen|Pressure
+|turn|1
+|
+|t:|1711942963
+|move|p2a: Primarina|Hydro Pump|p1a: Vespiquen|[miss]
+|-miss|p2a: Primarina|p1a: Vespiquen
+|move|p1a: Vespiquen|Toxic|p2a: Primarina
+|-status|p2a: Primarina|tox
+|
+|-damage|p2a: Primarina|246/262 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1711942971
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Primarina|Hydro Pump|p1a: Eternatus
+|-resisted|p1a: Eternatus
+|-damage|p1a: Eternatus|184/308
+|
+|-damage|p2a: Primarina|214/262 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711942987
+|switch|p2a: Stunfisk|Stunfisk, L83, M|317/317
+|move|p1a: Eternatus|Recover|p1a: Eternatus
+|-heal|p1a: Eternatus|308/308
+|
+|upkeep
+|turn|4
+|
+|t:|1711942993
+|switch|p1a: Vespiquen|Vespiquen, L97, F|293/293
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Stunfisk|Earth Power|p1a: Vespiquen
+|-immune|p1a: Vespiquen
+|
+|upkeep
+|turn|5
+|
+|t:|1711943001
+|move|p1a: Vespiquen|Toxic|p2a: Stunfisk
+|-status|p2a: Stunfisk|tox
+|move|p2a: Stunfisk|Discharge|p1a: Vespiquen
+|-supereffective|p1a: Vespiquen
+|-damage|p1a: Vespiquen|171/293
+|-status|p1a: Vespiquen|par
+|
+|-damage|p2a: Stunfisk|298/317 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711943030
+|move|p2a: Stunfisk|Discharge|p1a: Vespiquen
+|-supereffective|p1a: Vespiquen
+|-damage|p1a: Vespiquen|61/293 par
+|move|p1a: Vespiquen|Roost|p1a: Vespiquen
+|-heal|p1a: Vespiquen|208/293 par
+|-singleturn|p1a: Vespiquen|move: Roost
+|
+|-damage|p2a: Stunfisk|260/317 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711943038
+|switch|p1a: Dedenne|Dedenne, L89, M|264/264
+|move|p2a: Stunfisk|Discharge|p1a: Dedenne
+|-resisted|p1a: Dedenne
+|-damage|p1a: Dedenne|220/264
+|
+|-damage|p2a: Stunfisk|203/317 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711943045
+|move|p1a: Dedenne|Protect|p1a: Dedenne
+|-singleturn|p1a: Dedenne|Protect
+|move|p2a: Stunfisk|Sludge Bomb|p1a: Dedenne
+|-activate|p1a: Dedenne|move: Protect
+|
+|-damage|p2a: Stunfisk|127/317 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1711943057
+|switch|p1a: Vespiquen|Vespiquen, L97, F|208/293 par
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Stunfisk|Sludge Bomb|p1a: Vespiquen
+|-damage|p1a: Vespiquen|165/293 par
+|
+|-damage|p2a: Stunfisk|32/317 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711943066
+|move|p2a: Stunfisk|Discharge|p1a: Vespiquen
+|-supereffective|p1a: Vespiquen
+|-damage|p1a: Vespiquen|45/293 par
+|move|p1a: Vespiquen|Roost|p1a: Vespiquen
+|-heal|p1a: Vespiquen|192/293 par
+|-singleturn|p1a: Vespiquen|move: Roost
+|
+|-damage|p2a: Stunfisk|0 fnt|[from] psn
+|faint|p2a: Stunfisk
+|upkeep
+|
+|t:|1711943077
+|switch|p2a: Excadrill|Excadrill, L77, F|296/296
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|11
+|
+|t:|1711943084
+|switch|p1a: Eternatus|Eternatus, L69|308/308
+|-ability|p1a: Eternatus|Pressure
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1711943092
+|move|p1a: Eternatus|Flamethrower|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|120/296
+|move|p2a: Excadrill|Earthquake|p1a: Eternatus
+|-supereffective|p1a: Eternatus
+|-damage|p1a: Eternatus|0 fnt
+|faint|p1a: Eternatus
+|-damage|p2a: Excadrill|91/296|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711943099
+|switch|p1a: Silvally|Silvally-Psychic, L83|293/293
+|turn|13
+|
+|t:|1711943103
+|move|p1a: Silvally|Multi-Attack|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1711943130
+|switch|p2a: Shiinotic|Shiinotic, L88, M|249/249
+|turn|14
+|inactive|hameowdi has 120 seconds left.
+|
+|t:|1711943149
+|move|p1a: Silvally|U-turn|p2a: Shiinotic
+|-damage|p2a: Shiinotic|198/249
+|
+|t:|1711943150
+|switch|p1a: Vespiquen|Vespiquen, L97, F|192/293 par|[from] U-turn
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Shiinotic|Spore||[still]
+|-fail|p2a: Shiinotic
+|
+|-heal|p2a: Shiinotic|213/249|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711943158
+|move|p2a: Shiinotic|Moonblast|p1a: Vespiquen
+|-damage|p1a: Vespiquen|102/293 par
+|move|p1a: Vespiquen|Toxic|p2a: Shiinotic
+|-status|p2a: Shiinotic|tox
+|
+|-heal|p2a: Shiinotic|228/249 tox|[from] item: Leftovers
+|-damage|p2a: Shiinotic|213/249 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711943178
+|move|p2a: Shiinotic|Moonblast|p1a: Vespiquen
+|-damage|p1a: Vespiquen|24/293 par
+|-unboost|p1a: Vespiquen|spa|1
+|cant|p1a: Vespiquen|par
+|
+|-heal|p2a: Shiinotic|228/249 tox|[from] item: Leftovers
+|-damage|p2a: Shiinotic|198/249 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711943188
+|switch|p1a: Dedenne|Dedenne, L89, M|220/264
+|move|p2a: Shiinotic|Moonblast|p1a: Dedenne
+|-damage|p1a: Dedenne|102/264
+|-enditem|p1a: Dedenne|Sitrus Berry|[eat]
+|-heal|p1a: Dedenne|168/264|[from] item: Sitrus Berry
+|-heal|p1a: Dedenne|256/264|[from] ability: Cheek Pouch
+|
+|-heal|p2a: Shiinotic|213/249 tox|[from] item: Leftovers
+|-damage|p2a: Shiinotic|168/249 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711943199
+|move|p1a: Dedenne|Protect|p1a: Dedenne
+|-singleturn|p1a: Dedenne|Protect
+|move|p2a: Shiinotic|Moonblast|p1a: Dedenne
+|-activate|p1a: Dedenne|move: Protect
+|
+|-heal|p2a: Shiinotic|183/249 tox|[from] item: Leftovers
+|-damage|p2a: Shiinotic|123/249 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711943206
+|switch|p1a: Vespiquen|Vespiquen, L97, F|24/293 par
+|-ability|p1a: Vespiquen|Pressure
+|move|p2a: Shiinotic|Moonblast|p1a: Vespiquen
+|-damage|p1a: Vespiquen|0 fnt
+|faint|p1a: Vespiquen
+|
+|-heal|p2a: Shiinotic|138/249 tox|[from] item: Leftovers
+|-damage|p2a: Shiinotic|63/249 tox|[from] psn
+|upkeep
+|
+|t:|1711943211
+|switch|p1a: Silvally|Silvally-Psychic, L83|293/293
+|turn|20
+|
+|t:|1711943218
+|move|p1a: Silvally|Multi-Attack|p2a: Shiinotic
+|-damage|p2a: Shiinotic|0 fnt
+|-status|p1a: Silvally|slp|[from] ability: Effect Spore|[of] p2a: Shiinotic
+|faint|p2a: Shiinotic
+|
+|upkeep
+|inactive|hameowdi has 120 seconds left.
+|
+|t:|1711943249
+|switch|p2a: Gallade|Gallade, L82, M|246/246
+|turn|21
+|
+|t:|1711943256
+|switch|p1a: Dedenne|Dedenne, L89, M|256/264
+|move|p2a: Gallade|Swords Dance|p2a: Gallade
+|-boost|p2a: Gallade|atk|2
+|
+|upkeep
+|turn|22
+|
+|t:|1711943263
+|-start|p1a: Dedenne|Dynamax|
+|-heal|p1a: Dedenne|512/528|[silent]
+|move|p1a: Dedenne|Max Lightning|p2a: Gallade
+|-damage|p2a: Gallade|144/246
+|-fieldstart|move: Electric Terrain
+|move|p2a: Gallade|Zen Headbutt|p1a: Dedenne
+|-damage|p1a: Dedenne|183/528
+|-damage|p2a: Gallade|120/246|[from] item: Life Orb
+|
+|upkeep
+|turn|23
+|
+|t:|1711943274
+|move|p1a: Dedenne|Max Lightning|p2a: Gallade
+|-damage|p2a: Gallade|0 fnt
+|faint|p2a: Gallade
+|
+|upkeep
+|
+|t:|1711943288
+|switch|p2a: Flapple|Flapple, L83, F|252/252
+|turn|24
+|
+|t:|1711943295
+|move|p1a: Dedenne|Max Guard|p1a: Dedenne
+|-singleturn|p1a: Dedenne|Max Guard
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|
+|upkeep
+|-end|p1a: Dedenne|Dynamax
+|-heal|p1a: Dedenne|92/264|[silent]
+|turn|25
+|
+|t:|1711943302
+|move|p2a: Flapple|Grav Apple|p1a: Dedenne
+|-damage|p1a: Dedenne|0 fnt
+|faint|p1a: Dedenne
+|-damage|p2a: Flapple|227/252|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711943303
+|switch|p1a: Greedent|Greedent, L84, F|339/339
+|turn|26
+|
+|t:|1711943309
+|move|p2a: Flapple|Dragon Dance|p2a: Flapple
+|-boost|p2a: Flapple|atk|1
+|-boost|p2a: Flapple|spe|1
+|move|p1a: Greedent|Body Slam|p2a: Flapple
+|-damage|p2a: Flapple|122/252
+|-status|p2a: Flapple|par
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|27
+|
+|t:|1711943317
+|move|p2a: Flapple|Grav Apple|p1a: Greedent
+|-damage|p1a: Greedent|15/339
+|-unboost|p1a: Greedent|def|1
+|-enditem|p1a: Greedent|Sitrus Berry|[eat]
+|-heal|p1a: Greedent|99/339|[from] item: Sitrus Berry
+|-heal|p1a: Greedent|212/339|[from] ability: Cheek Pouch
+|-damage|p2a: Flapple|97/252 par|[from] item: Life Orb
+|move|p1a: Greedent|Body Slam|p2a: Flapple
+|-damage|p2a: Flapple|0 fnt
+|faint|p2a: Flapple
+|
+|upkeep
+|-message|hameowdi forfeited.
+|
+|win|yerpptheder
+|raw|yerpptheder's rating: 1294 &rarr; <strong>1304</strong><br />(+10 for winning)
+|raw|hameowdi's rating: 1050 &rarr; <strong>1043</strong><br />(-7 for losing)
+|l|☆hameowdi
+|player|p2|

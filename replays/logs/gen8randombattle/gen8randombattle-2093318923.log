@@ -1,0 +1,325 @@
+|j|☆murse1215
+|j|☆yerpptheder
+|t:|1711938739
+|gametype|singles
+|player|p1|murse1215|ethan|1152
+|player|p2|yerpptheder|miku-ground|1215
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711938739
+|start
+|switch|p1a: Oranguru|Oranguru, L89, F|305/305
+|switch|p2a: Aurorus|Aurorus, L84, F|343/343
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711938763
+|switch|p2a: Gothitelle|Gothitelle, L87, F|264/264
+|-start|p1a: Oranguru|Dynamax|
+|-heal|p1a: Oranguru|610/610|[silent]
+|move|p1a: Oranguru|Max Knuckle|p2a: Gothitelle
+|-resisted|p2a: Gothitelle
+|-damage|p2a: Gothitelle|236/264
+|-boost|p1a: Oranguru|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Gothitelle|220/264|[from] Hail
+|-damage|p1a: Oranguru|591/610|[from] Hail
+|-heal|p2a: Gothitelle|236/264|[from] item: Leftovers
+|-heal|p1a: Oranguru|610/610|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711938781
+|move|p2a: Gothitelle|Thunderbolt|p1a: Oranguru
+|-damage|p1a: Oranguru|558/610
+|move|p1a: Oranguru|Max Lightning|p2a: Gothitelle
+|-damage|p2a: Gothitelle|157/264
+|-fieldstart|move: Electric Terrain
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Gothitelle|141/264|[from] Hail
+|-damage|p1a: Oranguru|539/610|[from] Hail
+|-heal|p2a: Gothitelle|157/264|[from] item: Leftovers
+|-heal|p1a: Oranguru|558/610|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711938785
+|move|p2a: Gothitelle|Thunderbolt|p1a: Oranguru
+|-damage|p1a: Oranguru|495/610
+|-status|p1a: Oranguru|par
+|cant|p1a: Oranguru|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Gothitelle|141/264|[from] Hail
+|-damage|p1a: Oranguru|476/610 par|[from] Hail
+|-heal|p2a: Gothitelle|157/264|[from] item: Leftovers
+|-heal|p1a: Oranguru|495/610 par|[from] item: Leftovers
+|upkeep
+|-end|p1a: Oranguru|Dynamax
+|-heal|p1a: Oranguru|248/305 par|[silent]
+|turn|4
+|
+|t:|1711938790
+|move|p2a: Gothitelle|Nasty Plot|p2a: Gothitelle
+|-boost|p2a: Gothitelle|spa|2
+|move|p1a: Oranguru|Thunderbolt|p2a: Gothitelle
+|-damage|p2a: Gothitelle|80/264
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Gothitelle|64/264|[from] Hail
+|-damage|p1a: Oranguru|229/305 par|[from] Hail
+|-heal|p2a: Gothitelle|80/264|[from] item: Leftovers
+|-heal|p1a: Oranguru|248/305 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711938794
+|move|p2a: Gothitelle|Thunderbolt|p1a: Oranguru
+|-damage|p1a: Oranguru|100/305 par
+|move|p1a: Oranguru|Thunderbolt|p2a: Gothitelle
+|-damage|p2a: Gothitelle|4/264
+|
+|-weather|none
+|-heal|p2a: Gothitelle|20/264|[from] item: Leftovers
+|-heal|p1a: Oranguru|119/305 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711938798
+|move|p2a: Gothitelle|Thunderbolt|p1a: Oranguru
+|-damage|p1a: Oranguru|0 fnt
+|faint|p1a: Oranguru
+|
+|-heal|p2a: Gothitelle|36/264|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1711938816
+|switch|p1a: Tapu Fini|Tapu Fini, L77|234/234
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|7
+|
+|t:|1711938826
+|move|p1a: Tapu Fini|Surf|p2a: Gothitelle
+|-damage|p2a: Gothitelle|0 fnt
+|faint|p2a: Gothitelle
+|
+|upkeep
+|
+|t:|1711938830
+|switch|p2a: Vileplume|Vileplume, L84, M|263/263
+|turn|8
+|
+|t:|1711938837
+|move|p1a: Tapu Fini|Taunt|p2a: Vileplume
+|-start|p2a: Vileplume|move: Taunt
+|move|p2a: Vileplume|Sludge Bomb|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|66/234
+|
+|-heal|p1a: Tapu Fini|80/234|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711938860
+|switch|p1a: Cryogonal|Cryogonal, L86|278/278
+|move|p2a: Vileplume|Sludge Bomb|p1a: Cryogonal
+|-damage|p1a: Cryogonal|199/278
+|-status|p1a: Cryogonal|psn
+|
+|-damage|p1a: Cryogonal|165/278 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1711938868
+|switch|p2a: Aurorus|Aurorus, L84, F|343/343
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|move|p1a: Cryogonal|Freeze-Dry|p2a: Aurorus
+|-resisted|p2a: Aurorus
+|-damage|p2a: Aurorus|305/343
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Cryogonal|131/278 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711938872
+|move|p1a: Cryogonal|Toxic|p2a: Aurorus
+|-activate|p2a: Aurorus|move: Misty Terrain
+|move|p2a: Aurorus|Ancient Power|p1a: Cryogonal
+|-supereffective|p1a: Cryogonal
+|-damage|p1a: Cryogonal|0 fnt
+|faint|p1a: Cryogonal
+|
+|-weather|Hail|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1711938889
+|switch|p1a: Urshifu|Urshifu, L74, F|270/270
+|turn|12
+|
+|t:|1711938897
+|switch|p2a: Vileplume|Vileplume, L84, M|263/263
+|move|p1a: Urshifu|Substitute|p1a: Urshifu
+|-start|p1a: Urshifu|Substitute
+|-damage|p1a: Urshifu|203/270
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|187/270|[from] Hail
+|-damage|p2a: Vileplume|247/263|[from] Hail
+|-heal|p1a: Urshifu|203/270|[from] item: Leftovers
+|-heal|p2a: Vileplume|263/263|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1711938900
+|move|p1a: Urshifu|Bulk Up|p1a: Urshifu
+|-boost|p1a: Urshifu|atk|1
+|-boost|p1a: Urshifu|def|1
+|move|p2a: Vileplume|Sludge Bomb|p1a: Urshifu
+|-end|p1a: Urshifu|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|187/270|[from] Hail
+|-damage|p2a: Vileplume|247/263|[from] Hail
+|-heal|p1a: Urshifu|203/270|[from] item: Leftovers
+|-heal|p2a: Vileplume|263/263|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1711938908
+|move|p1a: Urshifu|Wicked Blow|p2a: Vileplume
+|-crit|p2a: Vileplume
+|-damage|p2a: Vileplume|74/263
+|move|p2a: Vileplume|Sludge Bomb|p1a: Urshifu
+|-damage|p1a: Urshifu|56/270
+|
+|-weather|none
+|-heal|p1a: Urshifu|72/270|[from] item: Leftovers
+|-heal|p2a: Vileplume|90/263|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1711938912
+|move|p1a: Urshifu|Wicked Blow|p2a: Vileplume
+|-crit|p2a: Vileplume
+|-damage|p2a: Vileplume|0 fnt
+|faint|p2a: Vileplume
+|
+|-heal|p1a: Urshifu|88/270|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938916
+|switch|p2a: Altaria|Altaria, L91, F|284/284
+|turn|16
+|
+|t:|1711938933
+|switch|p1a: Arcanine|Arcanine, L82, F|282/282
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Altaria|atk|1
+|move|p2a: Altaria|Draco Meteor|p1a: Arcanine
+|-damage|p1a: Arcanine|147/282
+|-unboost|p2a: Altaria|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1711938938
+|move|p1a: Arcanine|Morning Sun|p1a: Arcanine
+|-heal|p1a: Arcanine|282/282
+|move|p2a: Altaria|Toxic|p1a: Arcanine
+|-status|p1a: Arcanine|tox
+|
+|-damage|p1a: Arcanine|265/282 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1711938949
+|move|p1a: Arcanine|Toxic|p2a: Altaria
+|-status|p2a: Altaria|tox
+|move|p2a: Altaria|Roost||[still]
+|-fail|p2a: Altaria|heal
+|
+|-damage|p1a: Arcanine|231/282 tox|[from] psn
+|-damage|p2a: Altaria|267/284 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1711938960
+|switch|p1a: Urshifu|Urshifu, L74, F|88/270
+|move|p2a: Altaria|Roost|p2a: Altaria
+|-heal|p2a: Altaria|284/284 tox
+|-singleturn|p2a: Altaria|move: Roost
+|
+|-heal|p1a: Urshifu|104/270|[from] item: Leftovers
+|-damage|p2a: Altaria|250/284 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1711938974
+|move|p2a: Altaria|Draco Meteor|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-unboost|p2a: Altaria|spa|2
+|faint|p1a: Urshifu
+|
+|-damage|p2a: Altaria|199/284 tox|[from] psn
+|upkeep
+|
+|t:|1711938979
+|switch|p1a: Tapu Fini|Tapu Fini, L77|80/234
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|21
+|
+|t:|1711938983
+|-curestatus|p2a: Altaria|tox|[from] ability: Natural Cure
+|switch|p2a: Aurorus|Aurorus, L84, F|305/343
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Aurorus
+|move|p1a: Tapu Fini|Moonblast|p2a: Aurorus
+|-damage|p2a: Aurorus|221/343
+|-unboost|p2a: Aurorus|spa|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Fini|66/234|[from] Hail
+|-heal|p1a: Tapu Fini|80/234|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711938990
+|move|p1a: Tapu Fini|Surf|p2a: Aurorus
+|-supereffective|p2a: Aurorus
+|-damage|p2a: Aurorus|59/343
+|move|p2a: Aurorus|Freeze-Dry|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1711938999
+|switch|p1a: Beheeyem|Beheeyem, L87, F|272/272
+|turn|23
+|-message|murse1215 forfeited.
+|
+|win|yerpptheder
+|raw|murse1215's rating: 1152 &rarr; <strong>1131</strong><br />(-21 for losing)
+|raw|yerpptheder's rating: 1215 &rarr; <strong>1236</strong><br />(+21 for winning)
+|l|☆murse1215
+|player|p1|
+|l|☆yerpptheder
+|player|p2|
+|j|☆yerpptheder
+|player|p2|yerpptheder|miku-ground

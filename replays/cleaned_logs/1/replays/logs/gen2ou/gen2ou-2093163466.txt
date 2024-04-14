@@ -1,0 +1,59 @@
+p1: Switched to Raikou
+p2: Switched to Snorlax
+Turn 1:
+p1: Switched to Machamp
+p2: Snorlax used Body Slam on Machamp
+Turn 2:
+p2: Switched to Misdreavus
+p1: Machamp used Rock Slide on Misdreavus
+Turn 3:
+p1: Switched to Zapdos
+p2: Misdreavus used Toxic on Zapdos
+Turn 4:
+p2: Misdreavus used Protect on Misdreavus
+p1: Zapdos used Thunder on Misdreavus
+Turn 5:
+p1: Zapdos used Hidden Power on Misdreavus
+p2: Misdreavus used Toxic on Zapdos
+Turn 6:
+p1: Zapdos used Thunder on Misdreavus
+p2: Misdreavus used Psychic on Zapdos
+Turn 7:
+p2: Misdreavus used Protect on Misdreavus
+p1: Zapdos used Rest on Zapdos
+Turn 8:
+p2: Switched to Cloyster
+p1: Zapdos can't move
+p1: Zapdos used Sleep Talk on Zapdos
+p1: Zapdos used Thunder on Cloyster
+p2: Cloyster fainted
+p2: Switched to Blissey
+Turn 9:
+p1: Switched to Machamp
+p2: Blissey used Flamethrower on Machamp
+Turn 10:
+p2: Switched to Skarmory
+p1: Machamp used Rock Slide on Skarmory
+Turn 11:
+p1: Switched to Cloyster
+p2: Skarmory used Drill Peck on Cloyster
+Turn 12:
+p2: Switched to Zapdos
+p1: Cloyster used Spikes on Zapdos
+Turn 13:
+p1: Switched to Raikou
+p2: Zapdos used Thunder on Raikou
+Turn 14:
+p2: Switched to Blissey
+p1: Raikou used Rest on Raikou
+Turn 15:
+p1: Switched to Misdreavus
+p2: Blissey used Flamethrower on Misdreavus
+Turn 16:
+p2: Switched to Skarmory
+p1: Misdreavus used Thief on Skarmory
+Turn 17:
+p1: Misdreavus used Thunder on Skarmory
+p2: Skarmory fainted
+p2: Switched to Blissey
+Turn 18:

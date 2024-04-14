@@ -1,0 +1,150 @@
+p1: Switched to Jynx
+p2: Switched to Starmie
+Turn 1:
+p2: Starmie used Thunder Wave on Jynx
+p1: Jynx used Lovely Kiss on Starmie
+Turn 2:
+p2: Switched to Snorlax
+p1: Switched to Tauros
+Turn 3:
+p1: Switched to Chansey
+p2: Snorlax used Body Slam on Chansey
+Turn 4:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Snorlax used Body Slam on Chansey
+Turn 5:
+p1: Chansey used Thunder Wave on Snorlax
+p2: Snorlax used Body Slam on Chansey
+Turn 6:
+p2: Switched to Exeggutor
+p1: Chansey used Soft-Boiled on Chansey
+Turn 7:
+p2: Switched to Snorlax
+p1: Switched to Jynx
+Turn 8:
+p1: Switched to Snorlax
+p2: Snorlax used Body Slam on Snorlax
+Turn 9:
+p1: Snorlax used Body Slam on Snorlax
+p2: Snorlax used Body Slam on Snorlax
+Turn 10:
+p2: Switched to Exeggutor
+p1: Snorlax used Body Slam on Exeggutor
+Turn 11:
+p2: Switched to Tauros
+p1: Switched to Jynx
+Turn 12:
+p2: Tauros used Body Slam on Jynx
+p1: Jynx used Blizzard on Tauros
+Turn 13:
+p1: Switched to Starmie
+p2: Tauros used Body Slam on Starmie
+Turn 14:
+p2: Switched to Chansey
+p1: Starmie used Thunder Wave on Chansey
+Turn 15:
+p1: Starmie used Recover on Starmie
+p2: Chansey used Sing on Starmie
+Turn 16:
+p1: Switched to Snorlax
+p2: Switched to Snorlax
+Turn 17:
+p1: Snorlax used Body Slam on Snorlax
+p2: Snorlax used Self-Destruct on Snorlax
+p1: Snorlax fainted
+p2: Snorlax fainted
+p1: Switched to Chansey
+p2: Switched to Chansey
+Turn 18:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Chansey used Ice Beam on Chansey
+Turn 19:
+p1: Switched to Jynx
+p2: Chansey used Ice Beam on Jynx
+Turn 20:
+p1: Jynx can't move
+p2: Chansey can't move
+Turn 21:
+p1: Jynx can't move
+p2: Chansey used Ice Beam on Jynx
+Turn 22:
+p2: Switched to Tauros
+p1: Jynx used Blizzard on Tauros
+Turn 23:
+p2: Tauros used Body Slam on Jynx
+p1: Jynx fainted
+p1: Switched to Tauros
+Turn 24:
+p2: Switched to Starmie
+p1: Tauros used Body Slam on Starmie
+Turn 25:
+p2: Starmie can't move
+p1: Tauros used Body Slam on Starmie
+Turn 26:
+p2: Starmie can't move
+p1: Tauros used Body Slam on Starmie
+p2: Starmie fainted
+p2: Switched to Chansey
+Turn 27:
+p1: Tauros used Body Slam on Chansey
+p2: Chansey used Thunder Wave on Tauros
+Turn 28:
+p2: Switched to Zapdos
+p1: Tauros can't move
+Turn 29:
+p2: Switched to Exeggutor
+p1: Switched to Chansey
+Turn 30:
+p2: Switched to Chansey
+p1: Chansey used Ice Beam on Chansey
+Turn 31:
+p1: Switched to Tauros
+p2: Chansey used Ice Beam on Tauros
+Turn 32:
+p2: Switched to Zapdos
+p1: Tauros used Body Slam on Zapdos
+Turn 33:
+p2: Switched to Exeggutor
+p1: Switched to Chansey
+Turn 34:
+p2: Switched to Chansey
+p1: Chansey used Ice Beam on Chansey
+Turn 35:
+p1: Switched to Tauros
+p2: Chansey used Ice Beam on Tauros
+Turn 36:
+p2: Switched to Zapdos
+p1: Tauros can't move
+Turn 37:
+p1: Switched to Chansey
+p2: Zapdos used Drill Peck on Chansey
+Turn 38:
+p2: Switched to Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 39:
+p1: Switched to Tauros
+p2: Chansey used Ice Beam on Tauros
+Turn 40:
+p2: Switched to Tauros
+p1: Tauros can't move
+Turn 41:
+p2: Tauros used Body Slam on Tauros
+p1: Tauros fainted
+p1: Switched to Exeggutor
+Turn 42:
+p2: Tauros used Hyper Beam on Exeggutor
+p1: Exeggutor used Sleep Powder on Tauros
+Turn 43:
+p2: Switched to Exeggutor
+p1: Exeggutor used Mega Drain on Exeggutor
+Turn 44:
+p2: Exeggutor used Psychic on Exeggutor
+p1: Exeggutor used Explosion on Exeggutor
+p2: Exeggutor fainted
+p1: Exeggutor fainted
+p2: Switched to Chansey
+p1: Switched to Chansey
+Turn 45:
+p1: Chansey used Ice Beam on Chansey
+p2: Chansey used Soft-Boiled on Chansey
+Turn 46:

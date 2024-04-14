@@ -1,0 +1,63 @@
+p1: Switched to Mienfoo
+p2: Switched to Toedscool
+Turn 1:
+p2: Toedscool used Knock Off on Mienfoo
+p1: Mienfoo used Knock Off on Toedscool
+p2: Toedscool fainted
+p2: Switched to Quaxly
+Turn 2:
+p1: Mienfoo used U-turn on Quaxly
+p1: Switched to Qwilfish-Hisui
+p2: Quaxly used Rapid Spin on Qwilfish-Hisui
+Turn 3:
+p2: Switched to Pawniard
+p1: Qwilfish-Hisui used Gunk Shot on Pawniard
+Turn 4:
+p1: Qwilfish-Hisui used Spikes on Pawniard
+p2: Pawniard used Iron Head on Qwilfish-Hisui
+Turn 5:
+p1: Switched to Voltorb-Hisui
+p2: Pawniard used Iron Head on Voltorb-Hisui
+Turn 6:
+p2: Pawniard used Sucker Punch on Voltorb-Hisui
+p1: Voltorb-Hisui fainted
+p1: Switched to Mienfoo
+Turn 7:
+p2: Pawniard used Sucker Punch on Mienfoo
+p1: Mienfoo used Close Combat on Pawniard
+p2: Pawniard fainted
+p2: Switched to Toedscool
+Turn 8:
+p2: Toedscool used Tera Blast on Mienfoo
+p1: Mienfoo fainted
+p1: Switched to Sandshrew-Alola
+Turn 9:
+p2: Switched to Quaxly
+p1: Sandshrew-Alola used Triple Axel on Quaxly
+Turn 10:
+p1: Sandshrew-Alola used Ice Shard on Quaxly
+p2: Quaxly fainted
+p2: Switched to Magnemite
+Turn 11:
+p1: Sandshrew-Alola used Knock Off on Magnemite
+p2: Magnemite used Volt Switch on Sandshrew-Alola
+p2: Switched to Chinchou
+Turn 12:
+p1: Switched to Magby
+p2: Chinchou used Scald on Magby
+p1: Magby fainted
+p1: Switched to Qwilfish-Hisui
+Turn 13:
+p2: Switched to Toedscool
+p1: Qwilfish-Hisui used Gunk Shot on Toedscool
+Turn 14:
+p1: Qwilfish-Hisui used Crunch on Toedscool
+p2: Toedscool fainted
+p2: Switched to Magnemite
+Turn 15:
+p1: Qwilfish-Hisui used Crunch on Magnemite
+p2: Magnemite fainted
+p2: Switched to Chinchou
+Turn 16:
+p1: Qwilfish-Hisui used Gunk Shot on Chinchou
+p2: Chinchou fainted

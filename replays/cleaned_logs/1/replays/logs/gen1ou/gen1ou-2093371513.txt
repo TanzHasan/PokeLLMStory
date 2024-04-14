@@ -1,0 +1,114 @@
+p1: Switched to Jynx
+p2: Switched to Chansey
+Turn 1:
+p2: Switched to Electrode
+p1: Jynx used Lovely Kiss on Electrode
+Turn 2:
+p2: Switched to Jynx
+p1: Jynx used Blizzard on Jynx
+Turn 3:
+p2: Jynx used Lovely Kiss on Jynx
+p1: Jynx used Psychic on Jynx
+Turn 4:
+p1: Jynx used Psychic on Jynx
+p2: Jynx used Lovely Kiss on Jynx
+Turn 5:
+p2: Switched to Snorlax
+p1: Jynx can't move
+Turn 6:
+p1: Switched to Snorlax
+p2: Snorlax used Amnesia on Snorlax
+Turn 7:
+p1: Switched to Starmie
+p2: Snorlax used Blizzard on Starmie
+Turn 8:
+p1: Starmie used Thunder Wave on Snorlax
+p2: Snorlax can't move
+Turn 9:
+p1: Switched to Snorlax
+p2: Snorlax used Body Slam on Snorlax
+Turn 10:
+p1: Snorlax used Reflect on Snorlax
+p2: Snorlax used Blizzard on Snorlax
+Turn 11:
+p1: Switched to Starmie
+p2: Snorlax used Amnesia on Snorlax
+Turn 12:
+p1: Starmie used Thunderbolt on Snorlax
+p2: Snorlax used Body Slam on Starmie
+Turn 13:
+p1: Starmie used Recover on Starmie
+p2: Snorlax can't move
+Turn 14:
+p1: Starmie used Thunderbolt on Snorlax
+p2: Snorlax used Body Slam on Starmie
+Turn 15:
+p1: Starmie used Recover on Starmie
+p2: Snorlax can't move
+Turn 16:
+p1: Starmie used Thunderbolt on Snorlax
+p2: Snorlax used Body Slam on Starmie
+Turn 17:
+p1: Starmie used Recover on Starmie
+p2: Snorlax used Body Slam on Starmie
+Turn 18:
+p1: Starmie used Recover on Starmie
+p2: Snorlax used Body Slam on Starmie
+Turn 19:
+p1: Starmie used Recover on Starmie
+p2: Snorlax used Body Slam on Starmie
+Turn 20:
+p1: Starmie used Recover on Starmie
+p2: Snorlax used Body Slam on Starmie
+Turn 21:
+p1: Starmie used Recover on Starmie
+p2: Snorlax can't move
+Turn 22:
+p1: Starmie used Thunderbolt on Snorlax
+p2: Snorlax used Self-Destruct on Starmie
+p1: Starmie fainted
+p2: Snorlax fainted
+p1: Switched to Rhydon
+p2: Switched to Tauros
+Turn 23:
+p2: Tauros used Fire Blast on Rhydon
+p1: Rhydon used Earthquake on Tauros
+Turn 24:
+p2: Switched to Chansey
+p1: Rhydon used Earthquake on Chansey
+Turn 25:
+p2: Chansey used Ice Beam on Rhydon
+p1: Rhydon used Earthquake on Chansey
+p2: Chansey fainted
+p2: Switched to Dugtrio
+Turn 26:
+p1: Switched to Snorlax
+p2: Dugtrio used Earthquake on Snorlax
+Turn 27:
+p2: Dugtrio used Body Slam on Snorlax
+p1: Snorlax fainted
+p1: Switched to Chansey
+Turn 28:
+p2: Dugtrio used Earthquake on Chansey
+p1: Chansey used Ice Beam on Dugtrio
+Turn 29:
+p1: Switched to Rhydon
+p2: Dugtrio used Earthquake on Rhydon
+p1: Rhydon fainted
+p1: Switched to Tauros
+Turn 30:
+p2: Dugtrio used Earthquake on Tauros
+p1: Tauros used Body Slam on Dugtrio
+p2: Dugtrio fainted
+p2: Switched to Tauros
+Turn 31:
+p1: Tauros used Blizzard on Tauros
+p2: Tauros used Fire Blast on Tauros
+Turn 32:
+p1: Switched to Jynx
+p2: Tauros used Hyper Beam on Jynx
+p1: Jynx fainted
+p1: Switched to Tauros
+Turn 33:
+p2: Tauros used Hyper Beam on Tauros
+p1: Tauros fainted

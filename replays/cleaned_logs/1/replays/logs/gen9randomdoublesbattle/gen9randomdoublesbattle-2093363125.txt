@@ -1,0 +1,84 @@
+p1: Switched to Arceus-Flying
+p1: Switched to Magearna
+p2: Switched to Lilligant-Hisui
+p2: Switched to Dewgong
+Turn 1:
+p2: Dewgong used Fake Out on Magearna
+p2: Lilligant-Hisui used Sleep Powder on Arceus-Flying
+p1: Arceus-Flying can't move
+p1: Magearna can't move
+Turn 2:
+p1: Switched to Toucannon
+p2: Lilligant-Hisui used Victory Dance on Lilligant-Hisui
+p2: Dewgong used Hydro Pump on Magearna
+p1: Magearna used Trick Room on Magearna
+Turn 3:
+p1: Magearna used Fleur Cannon on Lilligant-Hisui
+p2: Lilligant-Hisui fainted
+p1: Toucannon used Bullet Seed on Dewgong
+p2: Dewgong used Hydro Pump on Magearna
+p1: Magearna fainted
+p1: Switched to Granbull
+p2: Switched to Clodsire
+Turn 4:
+p2: Switched to Scyther
+p2: Clodsire used Gunk Shot on Granbull
+p1: Granbull used Super Fang on Clodsire
+p1: Toucannon used Bullet Seed on Scyther
+Turn 5:
+p2: Clodsire used Gunk Shot on Granbull
+p1: Granbull used Super Fang on Clodsire
+p2: Scyther used Dual Wingbeat on Granbull
+p1: Toucannon used Beak Blast on Scyther
+Turn 6:
+p2: Scyther used Protect on Scyther
+p2: Clodsire used Gunk Shot on Granbull
+p1: Granbull fainted
+p1: Toucannon used Bullet Seed on Scyther
+p1: Switched to Arceus-Flying
+Turn 7:
+p2: Scyther used Tailwind on Scyther
+p1: Arceus-Flying used Earth Power on Clodsire
+p2: Clodsire used Toxic Spikes on Toucannon
+p1: Toucannon used Bullet Seed on Scyther
+p2: Scyther fainted
+p2: Switched to Manaphy
+Turn 8:
+p2: Manaphy used Tail Glow on Manaphy
+p1: Arceus-Flying used Judgment on Clodsire
+p2: Clodsire fainted
+p1: Toucannon used Bullet Seed on Manaphy
+p2: Switched to Dewgong
+Turn 9:
+p2: Dewgong used Fake Out on Toucannon
+p2: Manaphy used Ice Beam on Arceus-Flying
+p1: Arceus-Flying fainted
+p1: Toucannon can't move
+p1: Switched to Komala
+Turn 10:
+p1: Toucannon used Protect on Toucannon
+p2: Manaphy used Ice Beam on Toucannon
+p2: Dewgong used Icy Wind on Toucannon
+p1: Komala used Double-Edge on Manaphy
+p2: Manaphy fainted
+p2: Switched to Uxie
+Turn 11:
+p1: Komala used Sucker Punch on Uxie
+p2: Uxie used Mystical Power on Komala
+p2: Dewgong used Encore on Toucannon
+p1: Toucannon failed to use Protect
+Turn 12:
+p2: Uxie used Helping Hand on Dewgong
+p1: Toucannon used Protect on Toucannon
+p2: Dewgong used Hydro Pump on Komala
+p1: Komala used Superpower on Dewgong
+p2: Dewgong fainted
+Turn 13:
+p1: Toucannon failed to use Protect
+p1: Komala used Sucker Punch on Uxie
+p2: Uxie used Mystical Power on Komala
+Turn 14:
+p1: Komala used Sucker Punch on Uxie
+p2: Uxie used Mystical Power on Toucannon
+p1: Toucannon used Bullet Seed on Uxie
+p2: Uxie fainted

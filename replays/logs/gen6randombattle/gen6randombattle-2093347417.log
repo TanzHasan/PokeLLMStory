@@ -1,0 +1,216 @@
+|j|☆EnzoMalvadao
+|j|☆ihatevalley
+|t:|1711942486
+|gametype|singles
+|player|p1|EnzoMalvadao|170|1383
+|player|p2|ihatevalley|lacey|1466
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711942486
+|start
+|switch|p1a: Alakazam|Alakazam, L82, F|223/223
+|switch|p2a: Ledian|Ledian, M|272/272
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EnzoMalvadao)
+|
+|t:|1711942501
+|move|p1a: Alakazam|Substitute|p1a: Alakazam
+|-start|p1a: Alakazam|Substitute
+|-damage|p1a: Alakazam|168/223
+|move|p2a: Ledian|Knock Off|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-end|p1a: Alakazam|Substitute
+|
+|upkeep
+|turn|2
+|
+|t:|1711942512
+|switch|p1a: Pidgeot|Pidgeot, L79, F|261/261
+|move|p2a: Ledian|Knock Off|p1a: Pidgeot
+|-damage|p1a: Pidgeot|221/261
+|
+|upkeep
+|turn|3
+|inactive|ihatevalley has 120 seconds left.
+|c|☆EnzoMalvadao|can you play
+|inactive|ihatevalley has 90 seconds left.
+|
+|t:|1711942574
+|switch|p2a: Dugtrio|Dugtrio, L86, M|200/200
+|detailschange|p1a: Pidgeot|Pidgeot-Mega, L79, F
+|-mega|p1a: Pidgeot|Pidgeot|Pidgeotite
+|move|p1a: Pidgeot|Work Up|p1a: Pidgeot
+|-boost|p1a: Pidgeot|atk|1
+|-boost|p1a: Pidgeot|spa|1
+|
+|upkeep
+|turn|4
+|
+|t:|1711942585
+|move|p2a: Dugtrio|Stone Edge|p1a: Pidgeot
+|-supereffective|p1a: Pidgeot
+|-damage|p1a: Pidgeot|18/261
+|-damage|p2a: Dugtrio|180/200|[from] item: Life Orb
+|move|p1a: Pidgeot|Hurricane|p2a: Dugtrio
+|-damage|p2a: Dugtrio|0 fnt
+|faint|p2a: Dugtrio
+|
+|upkeep
+|
+|t:|1711942591
+|switch|p2a: Jolteon|Jolteon, L81, F|238/238
+|turn|5
+|
+|t:|1711942599
+|switch|p1a: Golem|Golem, L87, F|281/281
+|move|p2a: Jolteon|Volt Switch|p1a: Golem
+|-immune|p1a: Golem
+|
+|upkeep
+|turn|6
+|c|☆ihatevalley|can you shut the fuck up
+|
+|t:|1711942612
+|switch|p2a: Arceus|Arceus-Water, L71|288/288
+|move|p1a: Golem|Rock Polish|p1a: Golem
+|-boost|p1a: Golem|spe|2
+|
+|upkeep
+|turn|7
+|
+|t:|1711942618
+|move|p1a: Golem|Stone Edge|p2a: Arceus
+|-damage|p2a: Arceus|168/288
+|move|p2a: Arceus|Judgment|p1a: Golem
+|-supereffective|p1a: Golem
+|-ability|p1a: Golem|Sturdy
+|-damage|p1a: Golem|1/281
+|-enditem|p1a: Golem|Weakness Policy
+|-boost|p1a: Golem|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Golem|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|8
+|
+|t:|1711942625
+|move|p1a: Golem|Earthquake|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1711942627
+|switch|p2a: Delcatty|Delcatty, L97, M|293/293
+|turn|9
+|
+|t:|1711942635
+|move|p2a: Delcatty|Fake Out|p1a: Golem
+|-resisted|p1a: Golem
+|-damage|p1a: Golem|0 fnt
+|faint|p1a: Golem
+|
+|upkeep
+|
+|t:|1711942646
+|switch|p1a: Toxicroak|Toxicroak, L82, F|270/270
+|turn|10
+|
+|t:|1711942659
+|move|p2a: Delcatty|Double-Edge|p1a: Toxicroak
+|-damage|p1a: Toxicroak|78/270
+|-damage|p2a: Delcatty|230/293|[from] Recoil
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|
+|upkeep
+|turn|11
+|inactive|EnzoMalvadao has 120 seconds left.
+|
+|t:|1711942700
+|move|p2a: Delcatty|Double-Edge|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|-damage|p2a: Delcatty|204/293|[from] Recoil
+|
+|upkeep
+|inactive|EnzoMalvadao has 90 seconds left.
+|
+|t:|1711942728
+|switch|p1a: Darkrai|Darkrai, L75|213/213
+|turn|12
+|
+|t:|1711942738
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Delcatty|Double-Edge|p1a: Darkrai
+|-damage|p1a: Darkrai|60/213
+|-damage|p2a: Delcatty|154/293|[from] Recoil
+|
+|-heal|p1a: Darkrai|73/213|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711942745
+|move|p1a: Darkrai|Dark Pulse|p2a: Delcatty
+|-damage|p2a: Delcatty|0 fnt
+|faint|p2a: Delcatty
+|
+|-heal|p1a: Darkrai|86/213|[from] item: Leftovers
+|upkeep
+|
+|t:|1711942748
+|switch|p2a: Jolteon|Jolteon, L81, F|238/238
+|turn|14
+|
+|t:|1711942752
+|move|p2a: Jolteon|Thunderbolt|p1a: Darkrai
+|-damage|p1a: Darkrai|0 fnt
+|faint|p1a: Darkrai
+|
+|upkeep
+|
+|t:|1711942757
+|switch|p1a: Ursaring|Ursaring, L87, F|298/298
+|turn|15
+|inactive|EnzoMalvadao has 120 seconds left.
+|
+|t:|1711942784
+|move|p2a: Jolteon|Thunderbolt|p1a: Ursaring
+|-damage|p1a: Ursaring|129/298
+|move|p1a: Ursaring|Crunch|p2a: Jolteon
+|-damage|p2a: Jolteon|139/238
+|-unboost|p2a: Jolteon|def|1
+|
+|-status|p1a: Ursaring|tox|[from] item: Toxic Orb
+|upkeep
+|turn|16
+|
+|t:|1711942789
+|move|p2a: Jolteon|Thunderbolt|p1a: Ursaring
+|-damage|p1a: Ursaring|0 fnt
+|faint|p1a: Ursaring
+|
+|upkeep
+|
+|t:|1711942792
+|switch|p1a: Alakazam|Alakazam, L82, F|168/223
+|turn|17
+|
+|t:|1711942797
+|switch|p2a: Ledian|Ledian, M|272/272
+|move|p1a: Alakazam|Psychic|p2a: Ledian
+|-damage|p2a: Ledian|171/272
+|
+|-heal|p2a: Ledian|188/272|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|EnzoMalvadao forfeited.
+|
+|win|ihatevalley

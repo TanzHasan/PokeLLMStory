@@ -1,0 +1,65 @@
+p1: Switched to Necrozma-Ultra
+p2: Switched to Guzzlord
+Turn 1:
+p1: Switched to Magearna
+p2: Guzzlord used Clanging Scales on Magearna
+Turn 2:
+p2: Guzzlord used Blue Flare on Magearna
+p1: Magearna used Stone Axe on Guzzlord
+Turn 3:
+p2: Guzzlord used Volt Switch on Magearna
+p2: Switched to Regidrago
+p1: Magearna used Mortal Spin on Regidrago
+Turn 4:
+p2: Regidrago used Baneful Bunker on Regidrago
+p1: Magearna used Springtide Storm on Regidrago
+Turn 5:
+p2: Regidrago used Destiny Bond on Regidrago
+p1: Magearna used Springtide Storm on Regidrago
+p2: Regidrago fainted
+p1: Magearna fainted
+p2: Switched to Tyranitar-Mega
+p1: Switched to Necrozma-Ultra
+Turn 6:
+p1: Necrozma-Ultra used Volt Switch on Tyranitar-Mega
+p1: Switched to Kyurem-Black
+p2: Tyranitar-Mega used Strength Sap on Kyurem-Black
+Turn 7:
+p1: Kyurem-Black used Fake Out on Tyranitar-Mega
+p2: Tyranitar-Mega can't move
+Turn 8:
+p1: Switched to Garchomp-Mega
+p2: Tyranitar-Mega used Jaw Lock on Garchomp-Mega
+Turn 9:
+p1: Garchomp-Mega used Headlong Rush on Tyranitar-Mega
+p2: Tyranitar-Mega used Strength Sap on Garchomp-Mega
+p1: Garchomp-Mega used Strength Sap on Tyranitar-Mega
+Turn 10:
+p1: Garchomp-Mega used Headlong Rush on Tyranitar-Mega
+p2: Tyranitar-Mega fainted
+p2: Switched to Sceptile-Mega
+Turn 11:
+p2: Sceptile-Mega used Dragon Energy on Garchomp-Mega
+p1: Garchomp-Mega fainted
+p1: Switched to Kyurem-Black
+Turn 12:
+p1: Kyurem-Black used Fake Out on Sceptile-Mega
+p2: Sceptile-Mega fainted
+p2: Switched to Guzzlord
+Turn 13:
+p2: Guzzlord used Fake Out on Kyurem-Black
+p1: Kyurem-Black can't move
+Turn 14:
+p1: Kyurem-Black used Extreme Speed on Guzzlord
+p2: Guzzlord used Hyper Drill on Kyurem-Black
+Turn 15:
+p1: Kyurem-Black used Hyper Drill on Guzzlord
+p2: Guzzlord used Explosion on Kyurem-Black
+p2: Guzzlord fainted
+p1: Kyurem-Black fainted
+p1: Switched to Greninja-Ash
+p2: Switched to Arceus
+Turn 16:
+p1: Greninja-Ash used Surging Strikes on Arceus
+p2: Arceus used Take Heart on Arceus
+Turn 17:

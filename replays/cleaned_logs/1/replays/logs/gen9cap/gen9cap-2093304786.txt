@@ -1,0 +1,38 @@
+p1: Switched to Miasmaw
+p2: Switched to Astrolotl
+Turn 1:
+p1: Miasmaw used U-turn on Astrolotl
+p1: Switched to Quagsire
+p2: Astrolotl used Dragon Tail on Quagsire
+Turn 2:
+p2: Astrolotl used Spikes on Miasmaw
+p1: Miasmaw used Dragon Tail on Astrolotl
+p2: Astrolotl fainted
+p2: Switched to Plasmanta
+Turn 3:
+p2: Plasmanta used Charge Beam on Miasmaw
+p1: Miasmaw used U-turn on Plasmanta
+p1: Switched to Aurumoth
+Turn 4:
+p1: Aurumoth used Dragon Dance on Aurumoth
+p2: Plasmanta used Charge Beam on Aurumoth
+Turn 5:
+p1: Aurumoth used Zen Headbutt on Plasmanta
+p2: Plasmanta fainted
+p2: Switched to Stratagem
+Turn 6:
+p1: Aurumoth used Close Combat on Stratagem
+p2: Stratagem fainted
+p2: Switched to Naviathan
+Turn 7:
+p1: Aurumoth used Close Combat on Naviathan
+p2: Naviathan fainted
+p2: Switched to Pajantom
+Turn 8:
+p1: Aurumoth used Zen Headbutt on Pajantom
+p2: Pajantom fainted
+p2: Switched to Saharaja
+Turn 9:
+p1: Aurumoth used Megahorn on Saharaja
+p2: Saharaja fainted
+p1: Aurumoth fainted

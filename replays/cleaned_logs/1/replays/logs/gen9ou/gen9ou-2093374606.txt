@@ -1,0 +1,90 @@
+p1: Switched to Espeon
+p2: Switched to Primarina
+Turn 1:
+p1: Espeon used Psychic on Primarina
+p2: Primarina used Psychic Noise on Espeon
+Turn 2:
+p2: Switched to Kingambit
+p1: Espeon used Psychic on Kingambit
+Turn 3:
+p1: Switched to Gliscor
+p2: Kingambit used Iron Head on Gliscor
+Turn 4:
+p2: Switched to Rillaboom
+p1: Gliscor used Substitute on Gliscor
+Turn 5:
+p2: Rillaboom used Grassy Glide on Gliscor
+p1: Gliscor used Toxic on Rillaboom
+Turn 6:
+p1: Switched to Grimmsnarl
+p2: Switched to Ogerpon-Wellspring
+Turn 7:
+p2: Switched to Primarina
+p1: Grimmsnarl used Reflect on Grimmsnarl
+Turn 8:
+p1: Grimmsnarl failed to use Reflect
+p2: Primarina used Draining Kiss on Grimmsnarl
+Turn 9:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Primarina used Calm Mind on Primarina
+Turn 10:
+p1: Grimmsnarl used Thunder Wave on Primarina
+p2: Primarina can't move
+Turn 11:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina used Calm Mind on Primarina
+Turn 12:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina used Calm Mind on Primarina
+Turn 13:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina can't move
+Turn 14:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina used Draining Kiss on Grimmsnarl
+Turn 15:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina used Calm Mind on Primarina
+Turn 16:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina can't move
+Turn 17:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina can't move
+Turn 18:
+p1: Grimmsnarl used Light Screen on Grimmsnarl
+p2: Primarina used Draining Kiss on Grimmsnarl
+Turn 19:
+p1: Grimmsnarl used Spirit Break on Primarina
+p2: Primarina fainted
+p2: Switched to Ogerpon-Wellspring
+Turn 20:
+p2: Switched to Landorus-Therian
+p1: Grimmsnarl used Reflect on Grimmsnarl
+Turn 21:
+p1: Switched to Gliscor
+p2: Landorus-Therian used Taunt on Gliscor
+Turn 22:
+p2: Landorus-Therian used Stealth Rock on Gliscor
+p1: Gliscor used Rock Tomb on Landorus-Therian
+Turn 23:
+p1: Switched to Espeon
+p2: Switched to Ogerpon-Wellspring
+Turn 24:
+p1: Espeon used Psychic on Ogerpon-Wellspring
+p2: Ogerpon-Wellspring used Ivy Cudgel on Espeon
+p1: Espeon fainted
+p1: Switched to Serperior
+Turn 25:
+p2: Switched to Skeledirge
+p1: Serperior used Glare on Skeledirge
+Turn 26:
+p1: Switched to Gliscor
+p2: Skeledirge can't move
+Turn 27:
+p1: Gliscor used Earthquake on Skeledirge
+p2: Skeledirge used Torch Song on Gliscor
+Turn 28:
+p1: Gliscor used Earthquake on Skeledirge
+p2: Skeledirge can't move
+Turn 29:

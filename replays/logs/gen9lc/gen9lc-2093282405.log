@@ -1,0 +1,298 @@
+|j|☆bagonsteel
+|j|☆organically
+|t:|1711934220
+|gametype|singles
+|player|p1|bagonsteel|red|1332
+|player|p2|organically|iono|1197
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Grookey, L5, M|
+|poke|p1|Stunky, L5, F|
+|poke|p1|Vullaby, L5, F|
+|poke|p1|Mienfoo, L5, F|
+|poke|p1|Growlithe-Hisui, L5, F|
+|poke|p1|Mudbray, L5, M|
+|poke|p2|Voltorb-Hisui, L5|
+|poke|p2|Larvesta, L5, M|
+|poke|p2|Stunky, L5, M|
+|poke|p2|Zorua-Hisui, L5, M|
+|poke|p2|Mienfoo, L5, M|
+|poke|p2|Tinkatink, L5, F|
+|teampreview
+|
+|t:|1711934236
+|start
+|switch|p1a: Stunky|Stunky, L5, F, shiny|100/100
+|switch|p2a: Tinkatink|Tinkatink, L5, F|100/100
+|turn|1
+|
+|t:|1711934275
+|switch|p1a: Mudbray|Mudbray, L5, M|100/100
+|switch|p2a: Larvesta|Larvesta, L5, M, shiny|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711934283
+|move|p2a: Larvesta|Trailblaze|p1a: Mudbray
+|-supereffective|p1a: Mudbray
+|-damage|p1a: Mudbray|75/100
+|-boost|p2a: Larvesta|spe|1
+|-ability|p1a: Mudbray|Stamina|boost
+|-boost|p1a: Mudbray|def|1
+|move|p1a: Mudbray|Stone Edge|p2a: Larvesta
+|-supereffective|p2a: Larvesta
+|-damage|p2a: Larvesta|0 fnt
+|faint|p2a: Larvesta
+|
+|upkeep
+|
+|t:|1711934295
+|switch|p2a: Voltorb|Voltorb-Hisui, L5, shiny|100/100
+|turn|3
+|
+|t:|1711934302
+|switch|p1a: Grookey|Grookey, L5, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Grookey
+|move|p2a: Voltorb|Leech Seed|p1a: Grookey
+|-immune|p1a: Grookey
+|
+|upkeep
+|turn|4
+|
+|t:|1711934308
+|-terastallize|p2a: Voltorb|Fire
+|move|p2a: Voltorb|Tera Blast|p1a: Grookey|[anim] Tera Blast Fire
+|-supereffective|p1a: Grookey
+|-damage|p1a: Grookey|0 fnt
+|faint|p1a: Grookey
+|
+|upkeep
+|
+|t:|1711934316
+|switch|p1a: Growlithe|Growlithe-Hisui, L5, F|100/100
+|turn|5
+|
+|t:|1711934330
+|move|p1a: Growlithe|Head Smash|p2a: Voltorb
+|-supereffective|p2a: Voltorb
+|-damage|p2a: Voltorb|0 fnt
+|faint|p2a: Voltorb
+|
+|upkeep
+|
+|t:|1711934357
+|switch|p2a: Tinkatink|Tinkatink, L5, F|100/100
+|turn|6
+|
+|t:|1711934368
+|switch|p1a: Mudbray|Mudbray, L5, M|75/100
+|move|p2a: Tinkatink|Thunder Wave|p1a: Mudbray
+|-immune|p1a: Mudbray
+|
+|-heal|p1a: Mudbray|80/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1711934376
+|switch|p2a: Mienfoo|Mienfoo, L5, M, shiny|100/100
+|move|p1a: Mudbray|High Horsepower|p2a: Mienfoo
+|-damage|p2a: Mienfoo|39/100
+|
+|-heal|p2a: Mienfoo|43/100|[from] Grassy Terrain
+|-heal|p1a: Mudbray|84/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1711934386
+|move|p2a: Mienfoo|Knock Off|p1a: Mudbray
+|-damage|p1a: Mudbray|59/100
+|-ability|p1a: Mudbray|Stamina|boost
+|-boost|p1a: Mudbray|def|1
+|-enditem|p1a: Mudbray|Eviolite|[from] move: Knock Off|[of] p2a: Mienfoo
+|move|p1a: Mudbray|High Horsepower|p2a: Mienfoo
+|-damage|p2a: Mienfoo|0 fnt
+|faint|p2a: Mienfoo
+|
+|upkeep
+|
+|t:|1711934397
+|switch|p2a: Tinkatink|Tinkatink, L5, F|100/100
+|turn|9
+|
+|t:|1711934403
+|move|p2a: Tinkatink|Will-O-Wisp|p1a: Mudbray
+|-status|p1a: Mudbray|brn
+|move|p1a: Mudbray|High Horsepower|p2a: Tinkatink|[miss]
+|-miss|p1a: Mudbray|p2a: Tinkatink
+|
+|-damage|p1a: Mudbray|55/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711934411
+|move|p2a: Tinkatink|Hex|p1a: Mudbray
+|-damage|p1a: Mudbray|0 fnt
+|faint|p1a: Mudbray
+|
+|upkeep
+|
+|t:|1711934415
+|switch|p1a: Stunky|Stunky, L5, F, shiny|100/100
+|turn|11
+|
+|t:|1711934422
+|switch|p2a: Tinkatink|Tinkatink, L5, F|100/100
+|move|p1a: Stunky|Knock Off|p2a: Tinkatink
+|-resisted|p2a: Tinkatink
+|-damage|p2a: Tinkatink|82/100
+|-enditem|p2a: Tinkatink|Eviolite|[from] move: Knock Off|[of] p1a: Stunky
+|-enditem|p1a: Stunky|Eviolite|[silent]|[from] ability: Pickpocket|[of] p1a: Stunky
+|-item|p2a: Tinkatink|Eviolite|[from] ability: Pickpocket|[of] p1a: Stunky
+|
+|upkeep
+|turn|12
+|
+|t:|1711934433
+|move|p1a: Stunky|Knock Off|p2a: Tinkatink
+|-resisted|p2a: Tinkatink
+|-crit|p2a: Tinkatink
+|-damage|p2a: Tinkatink|55/100
+|-enditem|p2a: Tinkatink|Eviolite|[from] move: Knock Off|[of] p1a: Stunky
+|move|p2a: Tinkatink|Thunder Wave|p1a: Stunky
+|-status|p1a: Stunky|par
+|
+|upkeep
+|turn|13
+|
+|t:|1711934439
+|move|p2a: Tinkatink|Draining Kiss|p1a: Stunky
+|-damage|p1a: Stunky|70/100 par
+|-heal|p2a: Tinkatink|78/100|[from] drain|[of] p1a: Stunky
+|move|p1a: Stunky|Temper Flare|p2a: Tinkatink
+|-supereffective|p2a: Tinkatink
+|-damage|p2a: Tinkatink|14/100
+|
+|upkeep
+|turn|14
+|
+|t:|1711934454
+|move|p2a: Tinkatink|Draining Kiss|p1a: Stunky
+|-damage|p1a: Stunky|31/100 par
+|-heal|p2a: Tinkatink|46/100|[from] drain|[of] p1a: Stunky
+|move|p1a: Stunky|Temper Flare|p2a: Tinkatink
+|-supereffective|p2a: Tinkatink
+|-damage|p2a: Tinkatink|0 fnt
+|faint|p2a: Tinkatink
+|
+|upkeep
+|
+|t:|1711934461
+|switch|p2a: Stunky|Stunky, L5, M, shiny|100/100
+|turn|15
+|
+|t:|1711934472
+|switch|p1a: Vullaby|Vullaby, L5, F|100/100
+|move|p2a: Stunky|Tera Blast|p1a: Vullaby
+|-damage|p1a: Vullaby|61/100
+|
+|upkeep
+|turn|16
+|
+|t:|1711934483
+|move|p2a: Stunky|Will-O-Wisp|p1a: Vullaby
+|-status|p1a: Vullaby|brn
+|move|p1a: Vullaby|Knock Off|p2a: Stunky
+|-supereffective|p2a: Stunky
+|-damage|p2a: Stunky|50/100
+|replace|p2a: Zorua|Zorua-Hisui, L5, M, shiny
+|-end|p2a: Zorua|Illusion
+|-enditem|p2a: Zorua|Eviolite|[from] move: Knock Off|[of] p1a: Vullaby
+|
+|-damage|p1a: Vullaby|57/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1711934492
+|move|p2a: Zorua|Tera Blast|p1a: Vullaby
+|-damage|p1a: Vullaby|18/100 brn
+|move|p1a: Vullaby|Roost|p1a: Vullaby
+|-heal|p1a: Vullaby|70/100 brn
+|-singleturn|p1a: Vullaby|move: Roost
+|
+|-damage|p1a: Vullaby|66/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1711934498
+|move|p2a: Zorua|U-turn|p1a: Vullaby
+|-damage|p1a: Vullaby|53/100 brn
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|
+|t:|1711934503
+|switch|p2a: Stunky|Stunky, L5, M, shiny|100/100|[from] U-turn
+|move|p1a: Vullaby|Knock Off|p2a: Stunky
+|-resisted|p2a: Stunky
+|-damage|p2a: Stunky|87/100
+|-enditem|p2a: Stunky|Eviolite|[from] move: Knock Off|[of] p1a: Vullaby
+|
+|-damage|p1a: Vullaby|48/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1711934509
+|move|p1a: Vullaby|Brave Bird|p2a: Stunky
+|-damage|p2a: Stunky|44/100
+|-damage|p1a: Vullaby|35/100 brn|[from] Recoil
+|move|p2a: Stunky|Gunk Shot|p1a: Vullaby
+|-damage|p1a: Vullaby|0 fnt
+|faint|p1a: Vullaby
+|
+|upkeep
+|
+|t:|1711934519
+|switch|p1a: Growlithe|Growlithe-Hisui, L5, F|100/100
+|turn|20
+|
+|t:|1711934526
+|move|p2a: Stunky|Sucker Punch|p1a: Growlithe
+|-damage|p1a: Growlithe|48/100
+|move|p1a: Growlithe|Flare Blitz|p2a: Stunky
+|-damage|p2a: Stunky|0 fnt
+|-damage|p1a: Growlithe|27/100|[from] ability: Aftermath|[of] p2a: Stunky
+|faint|p2a: Stunky
+|
+|upkeep
+|
+|t:|1711934533
+|switch|p2a: Zorua|Zorua-Hisui, L5, M, shiny|50/100
+|turn|21
+|
+|t:|1711934538
+|move|p1a: Growlithe|Flare Blitz|p2a: Zorua
+|-damage|p2a: Zorua|0 fnt
+|faint|p2a: Zorua
+|
+|win|bagonsteel
+|raw|bagonsteel's rating: 1332 &rarr; <strong>1345</strong><br />(+13 for winning)
+|raw|organically's rating: 1197 &rarr; <strong>1181</strong><br />(-16 for losing)
+|c|☆organically|gg
+|l|☆organically
+|player|p2|
+|c|☆bagonsteel|gg
+|l|☆bagonsteel
+|player|p1|

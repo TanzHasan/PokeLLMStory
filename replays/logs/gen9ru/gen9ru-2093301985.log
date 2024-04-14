@@ -1,0 +1,169 @@
+|j|☆Daedra
+|j|☆LudocyelZ
+|t:|1711936634
+|gametype|singles
+|player|p1|Daedra|delinquent|1331
+|player|p2|LudocyelZ|ltsurge|1191
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] RU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Empoleon, F|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Cyclizar, F|
+|poke|p1|Moltres|
+|poke|p1|Conkeldurr, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Necrozma|
+|poke|p2|Salamence, F|
+|poke|p2|Flygon, M|
+|poke|p2|Registeel|
+|poke|p2|Lilligant-Hisui, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LudocyelZ)
+|
+|t:|1711936652
+|start
+|switch|p1a: Cyclizar|Cyclizar, F|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1711936658
+|move|p1a: Cyclizar|U-turn|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|82/100
+|
+|t:|1711936660
+|switch|p1a: Empoleon|Empoleon, F|100/100|[from] U-turn
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Empoleon
+|-resisted|p1a: Empoleon
+|-damage|p1a: Empoleon|86/100
+|-unboost|p1a: Empoleon|spa|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|
+|-heal|p1a: Empoleon|92/100|[from] item: Leftovers
+|-heal|p2a: Grimmsnarl|88/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711936670
+|move|p2a: Grimmsnarl|Taunt|p1a: Empoleon
+|-start|p1a: Empoleon|move: Taunt
+|cant|p1a: Empoleon|move: Taunt|Stealth Rock
+|
+|-heal|p1a: Empoleon|98/100|[from] item: Leftovers
+|-heal|p2a: Grimmsnarl|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711936679
+|move|p2a: Grimmsnarl|Parting Shot|p1a: Empoleon
+|-unboost|p1a: Empoleon|atk|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|-unboost|p1a: Empoleon|spa|1
+|-ability|p1a: Empoleon|Competitive|boost
+|-boost|p1a: Empoleon|spa|2
+|
+|t:|1711936686
+|switch|p2a: Megatron|Registeel, shiny|100/100|[from] Parting Shot
+|move|p1a: Empoleon|Flash Cannon|p2a: Megatron
+|-resisted|p2a: Megatron
+|-damage|p2a: Megatron|78/100
+|
+|-heal|p1a: Empoleon|100/100|[from] item: Leftovers
+|-heal|p2a: Megatron|84/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711936697
+|move|p1a: Empoleon|Surf|p2a: Megatron
+|-damage|p2a: Megatron|32/100
+|move|p2a: Megatron|Iron Defense|p2a: Megatron
+|-boost|p2a: Megatron|def|2
+|
+|-heal|p2a: Megatron|38/100|[from] item: Leftovers
+|-end|p1a: Empoleon|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1711936706
+|move|p1a: Empoleon|Surf|p2a: Megatron
+|-damage|p2a: Megatron|0 fnt
+|faint|p2a: Megatron
+|
+|upkeep
+|
+|t:|1711936711
+|switch|p2a: Flygon|Flygon, M|100/100
+|turn|6
+|
+|t:|1711936715
+|move|p2a: Flygon|Earthquake|p1a: Empoleon
+|-supereffective|p1a: Empoleon
+|-damage|p1a: Empoleon|17/100
+|move|p1a: Empoleon|Surf|p2a: Flygon
+|-crit|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|
+|-heal|p1a: Empoleon|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711936725
+|switch|p2a: Lilligant|Lilligant-Hisui, F|100/100
+|turn|7
+|
+|t:|1711936733
+|move|p2a: Lilligant|Victory Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|atk|1
+|-boost|p2a: Lilligant|def|1
+|-boost|p2a: Lilligant|spe|1
+|move|p1a: Empoleon|Stealth Rock|p2a: Lilligant
+|-sidestart|p2: LudocyelZ|move: Stealth Rock
+|
+|-heal|p1a: Empoleon|29/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711936744
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Lilligant|Victory Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|atk|1
+|-boost|p2a: Lilligant|def|1
+|-boost|p2a: Lilligant|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1711936750
+|-terastallize|p2a: Lilligant|Poison
+|move|p2a: Lilligant|Triple Axel|p1a: Moltres
+|-damage|p1a: Moltres|88/100
+|-hitcount|p1a: Moltres|1
+|move|p1a: Moltres|Will-O-Wisp|p2a: Lilligant
+|-status|p2a: Lilligant|brn
+|
+|-damage|p2a: Lilligant|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|-message|LudocyelZ forfeited.
+|
+|win|Daedra
+|raw|Daedra's rating: 1331 &rarr; <strong>1343</strong><br />(+12 for winning)
+|raw|LudocyelZ's rating: 1191 &rarr; <strong>1176</strong><br />(-15 for losing)
+|l|☆LudocyelZ
+|player|p2|
+|c|☆Daedra|gg
+|l|☆Daedra
+|player|p1|

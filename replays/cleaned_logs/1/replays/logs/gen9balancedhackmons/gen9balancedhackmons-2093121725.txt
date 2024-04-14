@@ -1,0 +1,105 @@
+p1: Switched to Scizor-Mega
+p2: Switched to Greninja-Ash
+Turn 1:
+p2: Greninja-Ash used Surging Strikes on Scizor-Mega
+p1: Scizor-Mega fainted
+p1: Switched to Tyranitar-Mega
+Turn 2:
+p2: Greninja-Ash used Surging Strikes on Tyranitar-Mega
+p1: Tyranitar-Mega used Stone Axe on Greninja-Ash
+Turn 3:
+p2: Switched to Celesteela
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+Turn 4:
+p1: Tyranitar-Mega used Wicked Blow on Celesteela
+p2: Celesteela used Rapid Spin on Tyranitar-Mega
+Turn 5:
+p2: Switched to Arceus-Electric
+p1: Tyranitar-Mega used Stone Axe on Arceus-Electric
+Turn 6:
+p1: Tyranitar-Mega used Wicked Blow on Arceus-Electric
+p2: Arceus-Electric used Strength Sap on Tyranitar-Mega
+Turn 7:
+p1: Switched to Arceus-Fairy
+p2: Arceus-Electric used Take Heart on Arceus-Electric
+Turn 8:
+p2: Arceus-Electric used Thunder Cage on Arceus-Fairy
+p1: Arceus-Fairy used Thunder Cage on Arceus-Electric
+Turn 9:
+p2: Arceus-Electric used Take Heart on Arceus-Electric
+p1: Arceus-Fairy used Take Heart on Arceus-Fairy
+Turn 10:
+p1: Arceus-Fairy used Shore Up on Arceus-Fairy
+p2: Arceus-Electric used Thunder Cage on Arceus-Fairy
+Turn 11:
+p2: Arceus-Electric used Thunder Cage on Arceus-Fairy
+p1: Arceus-Fairy used Take Heart on Arceus-Fairy
+Turn 12:
+p2: Arceus-Electric used Strength Sap on Arceus-Fairy
+p1: Arceus-Fairy used Moonblast on Arceus-Electric
+p2: Arceus-Electric fainted
+p2: Switched to Greninja-Ash
+Turn 13:
+p1: Switched to Tyranitar-Mega
+p2: Greninja-Ash used Surging Strikes on Tyranitar-Mega
+Turn 14:
+p2: Switched to Chansey
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+Turn 15:
+p1: Tyranitar-Mega used Wicked Blow on Chansey
+p2: Chansey used Victory Dance on Chansey
+Turn 16:
+p2: Chansey used Victory Dance on Chansey
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+Turn 17:
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+p2: Chansey used Victory Dance on Chansey
+Turn 18:
+p2: Chansey used Victory Dance on Chansey
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+Turn 19:
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+p2: Chansey used Victory Dance on Chansey
+Turn 20:
+p2: Chansey used Wicked Blow on Tyranitar-Mega
+p1: Tyranitar-Mega used Victory Dance on Tyranitar-Mega
+Turn 21:
+p1: Tyranitar-Mega used Wicked Blow on Chansey
+p2: Chansey used Wicked Blow on Tyranitar-Mega
+p1: Tyranitar-Mega fainted
+p1: Switched to Toxapex
+Turn 22:
+p1: Toxapex used Haze on Toxapex
+p2: Chansey used Stone Axe on Toxapex
+Turn 23:
+p2: Switched to Meloetta
+p1: Toxapex used Scald on Meloetta
+Turn 24:
+p1: Switched to Ho-Oh
+p2: Meloetta used Glare on Ho-Oh
+Turn 25:
+p2: Meloetta used Psystrike on Ho-Oh
+p1: Ho-Oh used Mortal Spin on Meloetta
+Turn 26:
+p1: Switched to Arceus-Fairy
+p2: Meloetta used Parting Shot on Arceus-Fairy
+Turn 27:
+p2: Switched to Greninja-Ash
+p1: Arceus-Fairy used Thunder Cage on Greninja-Ash
+Turn 28:
+p1: Switched to Toxapex
+p2: Greninja-Ash used Surging Strikes on Toxapex
+Turn 29:
+p2: Switched to Celesteela
+p1: Toxapex used Scald on Celesteela
+Turn 30:
+p1: Toxapex used Scald on Celesteela
+p2: Celesteela used Rapid Spin on Toxapex
+Turn 31:
+p2: Switched to Blissey
+p1: Toxapex used Scald on Blissey
+Turn 32:
+p1: Switched to Ho-Oh
+p2: Blissey used U-turn on Ho-Oh
+p2: Switched to Greninja-Ash
+Turn 33:

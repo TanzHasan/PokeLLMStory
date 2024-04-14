@@ -1,0 +1,54 @@
+p1: Switched to Phione
+p2: Switched to Seismitoad
+Turn 1:
+p1: Switched to Togekiss
+p2: Switched to Porygon2
+Turn 2:
+p1: Togekiss used Trick on Porygon2
+p2: Porygon2 used Toxic on Togekiss
+Turn 3:
+p2: Switched to Dusclops
+p1: Switched to Phione
+Turn 4:
+p1: Phione used Rain Dance on Phione
+p2: Dusclops used Seismic Toss on Phione
+Turn 5:
+p1: Phione used Toxic on Dusclops
+p2: Dusclops used Seismic Toss on Phione
+Turn 6:
+p1: Phione used Scald on Dusclops
+p2: Dusclops used Seismic Toss on Phione
+Turn 7:
+p1: Phione used Rest on Phione
+p2: Dusclops used Seismic Toss on Phione
+Turn 8:
+p1: Phione used Scald on Dusclops
+p2: Dusclops fainted
+p2: Switched to Seismitoad
+Turn 9:
+p2: Seismitoad used Earthquake on Phione
+p1: Phione used Toxic on Seismitoad
+Turn 10:
+p1: Switched to Togekiss
+p2: Seismitoad used Sludge Wave on Togekiss
+Turn 11:
+p2: Seismitoad used Hydro Pump on Togekiss
+p1: Togekiss fainted
+p1: Switched to Omastar
+Turn 12:
+p2: Switched to Politoed
+p1: Omastar used Shell Smash on Omastar
+Turn 13:
+p1: Omastar used Hidden Power on Politoed
+p2: Politoed used Hidden Power on Omastar
+Turn 14:
+p1: Omastar used Hidden Power on Politoed
+p2: Politoed fainted
+p2: Switched to Seismitoad
+Turn 15:
+p1: Omastar used Hidden Power on Seismitoad
+p2: Seismitoad fainted
+p2: Switched to Porygon2
+Turn 16:
+p1: Omastar used Surf on Porygon2
+p2: Porygon2 fainted

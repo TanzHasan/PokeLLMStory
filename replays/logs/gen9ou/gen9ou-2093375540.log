@@ -1,0 +1,217 @@
+|j|☆KatsEyeEmerald
+|j|☆idk1014
+|t:|1711946868
+|gametype|singles
+|player|p1|KatsEyeEmerald|veteranf|1333
+|player|p2|idk1014|hilbert|1357
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Glimmora, F|
+|poke|p1|Arcanine-Hisui, M|
+|poke|p1|Gholdengo|
+|poke|p1|Inteleon, M|
+|poke|p1|Staraptor, M|
+|poke|p2|Iron Boulder|
+|poke|p2|Garchomp, M|
+|poke|p2|Raging Bolt|
+|poke|p2|Corviknight, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Garganacl, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by idk1014)
+|
+|t:|1711946877
+|start
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|
+|t:|1711946884
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Glimmora|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: idk1014|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711946894
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: Grimmsnarl
+|-immune|p1a: Grimmsnarl
+|
+|upkeep
+|turn|3
+|
+|t:|1711946899
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: KatsEyeEmerald|Reflect
+|move|p2a: Garchomp|Iron Head|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|45/100
+|
+|upkeep
+|turn|4
+|inactive|KatsEyeEmerald has 120 seconds left.
+|
+|t:|1711946935
+|move|p2a: Garchomp|Iron Head|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-crit|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1711946938
+|switch|p1a: Inteleon|Inteleon, M|100/100
+|turn|5
+|j| hsaoen
+|
+|t:|1711946944
+|move|p1a: Inteleon|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1711946950
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1711946956
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Inteleon|Snipe Shot|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|9/100
+|
+|upkeep
+|turn|7
+|
+|t:|1711946963
+|move|p1a: Inteleon|Snipe Shot|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-crit|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1711946967
+|switch|p2a: Corviknight|Corviknight, M|88/100
+|-damage|p2a: Corviknight|75/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1711946971
+|move|p1a: Inteleon|Snipe Shot|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|11/100
+|move|p2a: Corviknight|Defog|p1a: Inteleon
+|-unboost|p1a: Inteleon|evasion|1
+|-sideend|p1: KatsEyeEmerald|Reflect
+|-sideend|p2: idk1014|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p2a: Corviknight|17/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1711946980
+|switch|p1a: Glimmora|Glimmora, F|100/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|67/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711946985
+|switch|p2a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2a: Raging Bolt|Booster Energy
+|-activate|p2a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2a: Raging Bolt|protosynthesisspa
+|move|p1a: Glimmora|Stealth Rock|p2a: Raging Bolt
+|-sidestart|p2: idk1014|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1711946989
+|move|p1a: Glimmora|Earth Power|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|49/100
+|move|p2a: Raging Bolt|Calm Mind|p2a: Raging Bolt
+|-boost|p2a: Raging Bolt|spa|1
+|-boost|p2a: Raging Bolt|spd|1
+|
+|upkeep
+|turn|12
+|l| hsaoen
+|
+|t:|1711946998
+|-terastallize|p2a: Raging Bolt|Water
+|move|p2a: Raging Bolt|Thunderclap|p1a: Glimmora
+|-enditem|p1a: Glimmora|Focus Sash
+|-damage|p1a: Glimmora|1/100
+|move|p1a: Glimmora|Mortal Spin|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|45/100
+|-status|p2a: Raging Bolt|psn
+|
+|-damage|p2a: Raging Bolt|32/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1711947022
+|move|p1a: Glimmora|Energy Ball|p2a: Raging Bolt
+|-supereffective|p2a: Raging Bolt
+|-damage|p2a: Raging Bolt|0 fnt
+|faint|p2a: Raging Bolt
+|-end|p2a: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|inactive|idk1014 has 120 seconds left.
+|
+|t:|1711947054
+|switch|p2a: Iron Boulder|Iron Boulder|100/100
+|-damage|p2a: Iron Boulder|88/100|[from] Stealth Rock
+|-enditem|p2a: Iron Boulder|Booster Energy
+|-activate|p2a: Iron Boulder|ability: Quark Drive|[fromitem]
+|-start|p2a: Iron Boulder|quarkdrivespe
+|turn|14
+|
+|t:|1711947061
+|move|p2a: Iron Boulder|Mighty Cleave|p1a: Glimmora
+|-damage|p1a: Glimmora|0 fnt
+|-activate|p1a: Glimmora|ability: Toxic Debris
+|-sidestart|p2: idk1014|move: Toxic Spikes
+|faint|p1a: Glimmora
+|
+|upkeep
+|
+|t:|1711947076
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-item|p1a: Gholdengo|Air Balloon
+|turn|15
+|-message|idk1014 forfeited.
+|
+|win|KatsEyeEmerald
+|raw|KatsEyeEmerald's rating: 1333 &rarr; <strong>1354</strong><br />(+21 for winning)
+|raw|idk1014's rating: 1357 &rarr; <strong>1336</strong><br />(-21 for losing)
+|l|☆idk1014
+|player|p2|
+|l|☆KatsEyeEmerald
+|player|p1|

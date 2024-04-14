@@ -1,0 +1,32 @@
+p1: Switched to Hatterene
+p2: Switched to Glimmora
+Turn 1:
+p2: Glimmora used Mortal Spin on Hatterene
+p1: Hatterene used Psyshock on Glimmora
+Turn 2:
+p2: Switched to Calyrex-Ice
+p1: Hatterene used Draining Kiss on Calyrex-Ice
+Turn 3:
+p2: Calyrex-Ice used Glacial Lance on Hatterene
+p1: Hatterene used Calm Mind on Hatterene
+Turn 4:
+p1: Hatterene used Mystical Fire on Calyrex-Ice
+p2: Calyrex-Ice used High Horsepower on Hatterene
+p1: Hatterene fainted
+p1: Switched to Zacian-Crowned
+Turn 5:
+p2: Switched to Glimmora
+p1: Zacian-Crowned used Behemoth Blade on Glimmora
+p2: Glimmora fainted
+p2: Switched to Blaziken
+Turn 6:
+p2: Blaziken used Protect on Blaziken
+p1: Zacian-Crowned used Swords Dance on Zacian-Crowned
+Turn 7:
+p2: Blaziken failed to use Protect
+p1: Zacian-Crowned used Play Rough on Blaziken
+p2: Blaziken fainted
+p2: Switched to Great Tusk
+Turn 8:
+p1: Zacian-Crowned used Behemoth Blade on Great Tusk
+p2: Great Tusk fainted

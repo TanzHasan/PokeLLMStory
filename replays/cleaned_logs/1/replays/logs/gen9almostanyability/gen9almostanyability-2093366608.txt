@@ -1,0 +1,43 @@
+p1: Switched to Regieleki
+p2: Switched to Galvantula
+Turn 1:
+p1: Regieleki used Volt Switch on Galvantula
+p1: Switched to Ceruledge
+p2: Galvantula used Sticky Web on Ceruledge
+Turn 2:
+p2: Galvantula used Volt Switch on Ceruledge
+p2: Switched to Comfey
+p1: Ceruledge used Bulk Up on Ceruledge
+Turn 3:
+p2: Comfey used Encore on Ceruledge
+p1: Ceruledge used Bulk Up on Ceruledge
+Turn 4:
+p2: Switched to Overqwil
+p1: Switched to Dragonite
+Turn 5:
+p2: Overqwil used Toxic Spikes on Dragonite
+p1: Dragonite used Dragon Dance on Dragonite
+Turn 6:
+p2: Overqwil used Barb Barrage on Dragonite
+p1: Dragonite used Dragon Dance on Dragonite
+Turn 7:
+p1: Dragonite used Extreme Speed on Overqwil
+p2: Overqwil fainted
+p2: Switched to Brambleghast
+Turn 8:
+p2: Switched to Comfey
+p1: Dragonite used Extreme Speed on Comfey
+p2: Comfey fainted
+p2: Switched to Brambleghast
+Turn 9:
+p1: Dragonite used Extreme Speed on Brambleghast
+p2: Brambleghast fainted
+p2: Switched to Ambipom
+Turn 10:
+p2: Ambipom used Fake Out on Dragonite
+p1: Dragonite can't move
+p1: Dragonite fainted
+p1: Switched to Regieleki
+Turn 11:
+p1: Regieleki used Thunderbolt on Ambipom
+p2: Ambipom fainted

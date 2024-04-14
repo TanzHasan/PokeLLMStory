@@ -1,0 +1,51 @@
+p1: Switched to Tyranitar
+p2: Switched to Palafin
+Turn 1:
+p2: Palafin used Close Combat on Tyranitar
+p1: Tyranitar used Earthquake on Palafin
+Turn 2:
+p2: Palafin used Jet Punch on Tyranitar
+p1: Tyranitar fainted
+p2: Palafin fainted
+p2: Switched to Clodsire
+p1: Switched to Garchomp
+Turn 3:
+p2: Clodsire used Protect on Clodsire
+p1: Garchomp used Aerial Ace on Clodsire
+Turn 4:
+p1: Garchomp used Aerial Ace on Clodsire
+p2: Clodsire used Toxic on Garchomp
+Turn 5:
+p2: Clodsire used Protect on Clodsire
+p1: Garchomp used Earthquake on Clodsire
+Turn 6:
+p2: Switched to Kilowattrel
+p1: Garchomp used Dragon Pulse on Kilowattrel
+Turn 7:
+p2: Kilowattrel used Air Slash on Garchomp
+p1: Garchomp used Dragon Pulse on Kilowattrel
+p2: Kilowattrel fainted
+p2: Switched to Baxcalibur
+Turn 8:
+p1: Garchomp used Fire Blast on Baxcalibur
+p2: Baxcalibur used Dragon Dance on Baxcalibur
+p1: Garchomp fainted
+p1: Switched to Rayquaza
+Turn 9:
+p2: Baxcalibur used Icicle Spear on Rayquaza
+p1: Rayquaza fainted
+p1: Switched to Gardevoir
+Turn 10:
+p2: Baxcalibur used Icicle Spear on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Blaziken
+Turn 11:
+p2: Baxcalibur used Earthquake on Blaziken
+p1: Blaziken used Blaze Kick on Baxcalibur
+Turn 12:
+p2: Baxcalibur used Icicle Spear on Blaziken
+p1: Blaziken fainted
+p1: Switched to Sceptile
+Turn 13:
+p2: Baxcalibur used Glaive Rush on Sceptile
+p1: Sceptile fainted

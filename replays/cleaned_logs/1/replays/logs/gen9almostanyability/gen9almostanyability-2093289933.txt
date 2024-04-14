@@ -1,0 +1,58 @@
+p1: Switched to Excadrill
+p2: Switched to Dudunsparce-Three-Segment
+Turn 1:
+p1: Excadrill used Swords Dance on Excadrill
+p2: Dudunsparce-Three-Segment used Lunge on Excadrill
+Turn 2:
+p2: Switched to Landorus-Therian
+p1: Excadrill used Swords Dance on Excadrill
+Turn 3:
+p2: Landorus-Therian used Earthquake on Excadrill
+p1: Excadrill fainted
+p1: Switched to Blastoise
+Turn 4:
+p2: Landorus-Therian used Earthquake on Blastoise
+p1: Blastoise used Shell Smash on Blastoise
+Turn 5:
+p2: Landorus-Therian used Earthquake on Blastoise
+p1: Blastoise fainted
+p1: Switched to Chesnaught
+Turn 6:
+p2: Landorus-Therian used Earthquake on Chesnaught
+p1: Chesnaught used Bulk Up on Chesnaught
+Turn 7:
+p2: Switched to Metagross
+p1: Chesnaught used Bulk Up on Chesnaught
+Turn 8:
+p2: Metagross used Psychic Fangs on Chesnaught
+p1: Chesnaught used Drain Punch on Metagross
+Turn 9:
+p2: Metagross used Psychic Fangs on Chesnaught
+p1: Chesnaught used Earthquake on Metagross
+p2: Metagross fainted
+p2: Switched to Great Tusk
+Turn 10:
+p2: Great Tusk used Close Combat on Chesnaught
+p1: Chesnaught fainted
+p1: Switched to Iron Jugulis
+Turn 11:
+p2: Switched to Garganacl
+p1: Iron Jugulis used Air Slash on Garganacl
+Turn 12:
+p1: Iron Jugulis used Earth Power on Garganacl
+p2: Garganacl used Salt Cure on Iron Jugulis
+Turn 13:
+p2: Switched to Landorus-Therian
+p1: Iron Jugulis used Dark Pulse on Landorus-Therian
+Turn 14:
+p2: Landorus-Therian used Brick Break on Iron Jugulis
+p1: Iron Jugulis fainted
+p1: Switched to Porygon-Z
+Turn 15:
+p2: Landorus-Therian used Brick Break on Porygon-Z
+p1: Porygon-Z fainted
+p1: Switched to Infernape
+Turn 16:
+p2: Landorus-Therian used Brick Break on Infernape
+p1: Infernape used Rock Slide on Landorus-Therian
+p2: Landorus-Therian fainted

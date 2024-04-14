@@ -1,0 +1,32 @@
+p1: Switched to Dragapult
+p2: Switched to Rotom-Heat
+Turn 1:
+p2: Rotom-Heat used Trick on Dragapult
+p1: Dragapult used U-turn on Rotom-Heat
+p1: Switched to Urshifu-Rapid-Strike
+Turn 2:
+p2: Switched to Seismitoad
+p1: Urshifu-Rapid-Strike used Surging Strikes on Seismitoad
+Turn 3:
+p1: Switched to Corviknight
+p2: Seismitoad used Earth Power on Corviknight
+Turn 4:
+p2: Seismitoad used Scald on Corviknight
+p1: Corviknight used Iron Defense on Corviknight
+Turn 5:
+p2: Seismitoad used Scald on Corviknight
+p1: Corviknight used Iron Defense on Corviknight
+Turn 6:
+p2: Seismitoad used Scald on Corviknight
+p1: Corviknight used Iron Defense on Corviknight
+Turn 7:
+p2: Seismitoad used Stealth Rock on Corviknight
+p1: Corviknight used Roost on Corviknight
+Turn 8:
+p2: Switched to Dragapult
+p1: Corviknight used Roost on Corviknight
+Turn 9:
+p1: Switched to Dragapult
+p2: Dragapult used Substitute on Dragapult
+Turn 10:
+p1: Dragapult used U-turn on Dragapult

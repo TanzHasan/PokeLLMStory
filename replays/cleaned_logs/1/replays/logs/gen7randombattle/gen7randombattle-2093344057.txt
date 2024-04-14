@@ -1,0 +1,95 @@
+p1: Switched to Stoutland
+p2: Switched to Lycanroc-Midnight
+Turn 1:
+p2: Switched to Tapu Fini
+p1: Stoutland used Superpower on Tapu Fini
+Turn 2:
+p1: Switched to Victreebel
+p2: Tapu Fini used Calm Mind on Tapu Fini
+Turn 3:
+p2: Switched to Seviper
+p1: Victreebel used Sunny Day on Victreebel
+Turn 4:
+p1: Victreebel used Weather Ball on Seviper
+p2: Seviper used Poison Jab on Victreebel
+Turn 5:
+p2: Seviper used Sucker Punch on Victreebel
+p1: Victreebel used Weather Ball on Seviper
+p2: Seviper fainted
+p1: Victreebel fainted
+p1: Switched to Flareon
+p2: Switched to Castform
+Turn 6:
+p2: Castform used Thunder Wave on Flareon
+p1: Flareon can't move
+Turn 7:
+p2: Castform used Return on Flareon
+p1: Flareon used Flame Charge on Castform
+Turn 8:
+p2: Castform used Return on Flareon
+p1: Flareon can't move
+Turn 9:
+p2: Castform used Return on Flareon
+p1: Flareon fainted
+p1: Switched to Clawitzer
+Turn 10:
+p2: Switched to Tapu Fini
+p1: Clawitzer used Aura Sphere on Tapu Fini
+Turn 11:
+p1: Switched to Cradily
+p2: Tapu Fini used Moonblast on Cradily
+Turn 12:
+p2: Switched to Castform
+p1: Cradily used Toxic on Castform
+Turn 13:
+p1: Switched to Stoutland
+p2: Castform used Ice Beam on Stoutland
+Turn 14:
+p2: Switched to Tapu Fini
+p1: Stoutland used Wild Charge on Tapu Fini
+Turn 15:
+p2: Switched to Lycanroc-Midnight
+p1: Stoutland used Wild Charge on Lycanroc-Midnight
+Turn 16:
+p1: Switched to Cradily
+p2: Lycanroc-Midnight used Swords Dance on Lycanroc-Midnight
+Turn 17:
+p2: Lycanroc-Midnight used Splintered Stormshards on Cradily
+p1: Cradily fainted
+p1: Switched to Stoutland
+Turn 18:
+p2: Switched to Tapu Fini
+p1: Stoutland used Superpower on Tapu Fini
+Turn 19:
+p1: Switched to Clawitzer
+p2: Tapu Fini used Moonblast on Clawitzer
+Turn 20:
+p2: Switched to Castform
+p1: Clawitzer used U-turn on Castform
+p1: Switched to Stoutland
+Turn 21:
+p1: Stoutland used Wild Charge on Castform
+p2: Castform used Return on Stoutland
+Turn 22:
+p1: Switched to Clawitzer
+p2: Castform used Return on Clawitzer
+Turn 23:
+p2: Castform used Return on Clawitzer
+p1: Clawitzer used U-turn on Castform
+p1: Switched to Stoutland
+Turn 24:
+p2: Switched to Tapu Fini
+p1: Stoutland used Superpower on Tapu Fini
+Turn 25:
+p1: Switched to Thundurus
+p2: Tapu Fini used Moonblast on Thundurus
+Turn 26:
+p1: Thundurus used Thunderbolt on Tapu Fini
+p2: Tapu Fini fainted
+p2: Switched to Lycanroc-Midnight
+Turn 27:
+p1: Switched to Stoutland
+p2: Lycanroc-Midnight used Stone Edge on Stoutland
+Turn 28:
+p2: Lycanroc-Midnight used Sucker Punch on Stoutland
+p1: Stoutland fainted

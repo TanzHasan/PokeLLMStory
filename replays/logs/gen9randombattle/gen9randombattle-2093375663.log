@@ -1,0 +1,196 @@
+|j|☆Hauntly13
+|j|☆buzzwardo
+|t:|1711946886
+|gametype|singles
+|player|p1|Hauntly13|n|
+|player|p2|buzzwardo|chuck|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946886
+|start
+|switch|p1a: Jumpluff|Jumpluff, L87, M|271/271
+|switch|p2a: Terrakion|Terrakion, L79|273/273
+|turn|1
+|
+|t:|1711946941
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p1a: Tinkaton|Mold Breaker
+|switch|p2a: Minun|Minun, L95, F|268/268
+|
+|upkeep
+|turn|2
+|
+|t:|1711946954
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Tinkaton|Swords Dance|p1a: Tinkaton
+|-boost|p1a: Tinkaton|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1711946985
+|move|p2a: Minun|Encore|p1a: Tinkaton
+|-start|p1a: Tinkaton|Encore
+|move|p1a: Tinkaton|Swords Dance|p1a: Tinkaton
+|-boost|p1a: Tinkaton|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1711947000
+|switch|p1a: Swalot|Swalot, L90, M|326/326
+|move|p2a: Minun|Thunderbolt|p1a: Swalot
+|-damage|p1a: Swalot|92/326
+|-status|p1a: Swalot|par
+|-damage|p2a: Minun|242/268|[from] item: Life Orb
+|
+|-heal|p1a: Swalot|112/326 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711947006
+|move|p2a: Minun|Thunderbolt|p1a: Swalot
+|-damage|p1a: Swalot|0 fnt
+|faint|p1a: Swalot
+|-damage|p2a: Minun|216/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711947019
+|switch|p1a: Sylveon|Sylveon, L84, M|297/297
+|turn|6
+|
+|t:|1711947047
+|move|p2a: Minun|Nasty Plot|p2a: Minun
+|-boost|p2a: Minun|spa|2
+|move|p1a: Sylveon|Hyper Voice|p2a: Minun
+|-damage|p2a: Minun|107/268
+|
+|upkeep
+|turn|7
+|
+|t:|1711947060
+|move|p2a: Minun|Thunderbolt|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|-damage|p2a: Minun|81/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711947081
+|switch|p1a: Jumpluff|Jumpluff, L87, M|271/271
+|turn|8
+|
+|t:|1711947086
+|move|p1a: Jumpluff|Substitute|p1a: Jumpluff
+|-start|p1a: Jumpluff|Substitute
+|-damage|p1a: Jumpluff|204/271
+|move|p2a: Minun|Thunderbolt|p1a: Jumpluff
+|-end|p1a: Jumpluff|Substitute
+|-damage|p2a: Minun|55/268|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1711947091
+|move|p1a: Jumpluff|Substitute|p1a: Jumpluff
+|-start|p1a: Jumpluff|Substitute
+|-damage|p1a: Jumpluff|137/271
+|move|p2a: Minun|Alluring Voice|p1a: Jumpluff
+|-damage|p1a: Jumpluff|0 fnt
+|faint|p1a: Jumpluff
+|-damage|p2a: Minun|29/268|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711947100
+|switch|p1a: Pelipper|Pelipper, L86, M|243/243
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|10
+|
+|t:|1711947106
+|move|p2a: Minun|Thunderbolt|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|-damage|p2a: Minun|3/268|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Hauntly13|this fucking mouse is so damn fast bro
+|
+|t:|1711947142
+|switch|p1a: Tinkaton|Tinkaton, L82, F|274/274
+|-ability|p1a: Tinkaton|Mold Breaker
+|turn|11
+|
+|t:|1711947147
+|move|p2a: Minun|Thunderbolt|p1a: Tinkaton
+|-damage|p1a: Tinkaton|0 fnt
+|faint|p1a: Tinkaton
+|-damage|p2a: Minun|0 fnt|[from] item: Life Orb
+|faint|p2a: Minun
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711947151
+|switch|p2a: Ribombee|Ribombee, L82, F|233/233
+|switch|p1a: Iron Crown|Iron Crown, L79|272/272
+|turn|12
+|
+|t:|1711947156
+|move|p2a: Ribombee|Stun Spore|p1a: Iron Crown
+|-status|p1a: Iron Crown|par
+|cant|p1a: Iron Crown|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1711947163
+|switch|p2a: Hippowdon|Hippowdon, L82, M|311/311
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Iron Crown|Tachyon Cutter|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|217/311
+|-damage|p2a: Hippowdon|154/311
+|-hitcount|p2a: Hippowdon|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|173/311|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711947168
+|-terastallize|p1a: Iron Crown|Steel
+|move|p2a: Hippowdon|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|38/272 par
+|cant|p1a: Iron Crown|par
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|192/311|[from] item: Leftovers
+|-heal|p1a: Iron Crown|55/272 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711947181
+|move|p2a: Hippowdon|Earthquake|p1a: Iron Crown
+|-supereffective|p1a: Iron Crown
+|-damage|p1a: Iron Crown|0 fnt
+|faint|p1a: Iron Crown
+|-end|p1a: Iron Crown|Quark Drive|[silent]
+|
+|win|buzzwardo
+|c|☆buzzwardo|gg
+|c|☆Hauntly13|gg
+|c|☆Hauntly13|u got all the links or u need?

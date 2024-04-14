@@ -1,0 +1,456 @@
+|j|☆celestial01
+|j|☆ppupquqwqequ
+|t:|1711945712
+|gametype|singles
+|player|p1|celestial01|hilbert|1069
+|player|p2|ppupquqwqequ|101|1243
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] UU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Ribombee, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Scizor, F|
+|poke|p1|Iron Moth|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Donphan, F|
+|poke|p2|Lokix, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Skeledirge, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Sinistcha|
+|poke|p2|Excadrill, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by celestial01)
+|
+|t:|1711945716
+|start
+|switch|p1a: Ribombee|Ribombee, M|100/100
+|switch|p2a: Lokix|Lokix, F|100/100
+|turn|1
+|
+|t:|1711945731
+|move|p2a: Lokix|First Impression|p1a: Ribombee
+|-resisted|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|move|p1a: Ribombee|Sticky Web|p2a: Lokix
+|-sidestart|p2: ppupquqwqequ|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1711945740
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-activate|p2a: Excadrill|move: Sticky Web
+|-unboost|p2a: Excadrill|spe|1
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Ribombee|Moonblast|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|78/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711945749
+|move|p1a: Ribombee|Stun Spore|p2a: Excadrill
+|-status|p2a: Excadrill|par
+|move|p2a: Excadrill|Rapid Spin|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: ppupquqwqequ|Sticky Web|[from] move: Rapid Spin|[of] p2a: Excadrill
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1711945758
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|4
+|
+|t:|1711945768
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1711945777
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Toxapex|Toxic|p1a: Scizor
+|-immune|p1a: Scizor
+|
+|upkeep
+|turn|6
+|
+|t:|1711945793
+|switch|p2a: Skeledirge|Skeledirge, M|100/100
+|move|p1a: Scizor|Knock Off|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|35/100
+|-enditem|p2a: Skeledirge|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|upkeep
+|turn|7
+|
+|t:|1711945804
+|move|p2a: Skeledirge|Torch Song|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1711945817
+|switch|p1a: Iron Moth|Iron Moth|100/100
+|-enditem|p1a: Iron Moth|Booster Energy
+|-activate|p1a: Iron Moth|ability: Quark Drive|[fromitem]
+|-start|p1a: Iron Moth|quarkdrivespa
+|turn|8
+|
+|t:|1711945827
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Iron Moth|Sludge Wave|p2a: Rotom
+|-damage|p2a: Rotom|48/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711945838
+|move|p1a: Iron Moth|Sludge Wave|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1711945849
+|switch|p2a: Excadrill|Excadrill, F|78/100 par
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|10
+|
+|t:|1711945855
+|move|p1a: Iron Moth|Fiery Dance|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1711945865
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|11
+|
+|t:|1711945880
+|move|p1a: Iron Moth|Fiery Dance|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|move|p2a: Toxapex|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|33/100
+|
+|-heal|p2a: Toxapex|81/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1711945905
+|move|p1a: Iron Moth|Fiery Dance|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|move|p2a: Toxapex|Liquidation|p1a: Iron Moth
+|-supereffective|p1a: Iron Moth
+|-damage|p1a: Iron Moth|0 fnt
+|faint|p1a: Iron Moth
+|-end|p1a: Iron Moth|Quark Drive|[silent]
+|
+|-heal|p2a: Toxapex|63/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1711945909
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|turn|13
+|
+|t:|1711945926
+|move|p1a: Weezing|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100 brn
+|
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|inactive|celestial01 has 120 seconds left.
+|
+|t:|1711945959
+|move|p1a: Weezing|Strange Steam|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|83/100 brn
+|move|p2a: Toxapex|Liquidation|p1a: Weezing
+|-damage|p1a: Weezing|92/100
+|
+|-heal|p1a: Weezing|98/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|90/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|15
+|inactive|celestial01 has 120 seconds left.
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711945991
+|switch|p2a: Lokix|Lokix, F|100/100
+|move|p1a: Weezing|Sludge Bomb|p2a: Lokix
+|-damage|p2a: Lokix|51/100
+|-status|p2a: Lokix|psn
+|
+|-heal|p1a: Weezing|100/100|[from] item: Leftovers
+|-damage|p2a: Lokix|39/100 psn|[from] psn
+|upkeep
+|turn|16
+|inactive|celestial01 has 120 seconds left.
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711946005
+|move|p2a: Lokix|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|40/100
+|-enditem|p1a: Weezing|Leftovers|[from] move: Knock Off|[of] p2a: Lokix
+|move|p1a: Weezing|Strange Steam|p2a: Lokix
+|-supereffective|p2a: Lokix
+|-damage|p2a: Lokix|0 fnt
+|faint|p2a: Lokix
+|
+|upkeep
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711946029
+|switch|p2a: Skeledirge|Skeledirge, M|35/100
+|turn|17
+|
+|t:|1711946035
+|-terastallize|p2a: Skeledirge|Fire
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|85/100
+|move|p1a: Weezing|Strange Steam|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|76/100
+|
+|upkeep
+|turn|18
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711946052
+|move|p2a: Skeledirge|Torch Song|p1a: Weezing
+|-damage|p1a: Weezing|4/100
+|-boost|p2a: Skeledirge|spa|1
+|move|p1a: Weezing|Strange Steam|p2a: Skeledirge
+|-resisted|p2a: Skeledirge
+|-damage|p2a: Skeledirge|66/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711946061
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|100/100
+|move|p1a: Weezing|Sludge Bomb|p2a: Skeledirge
+|-damage|p2a: Skeledirge|80/100
+|
+|upkeep
+|turn|20
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711946103
+|move|p2a: Skeledirge|Torch Song|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|-boost|p2a: Skeledirge|spa|1
+|faint|p1a: Weezing
+|
+|upkeep
+|
+|t:|1711946111
+|switch|p1a: Donphan|Donphan, F|100/100
+|turn|21
+|
+|t:|1711946120
+|-terastallize|p1a: Donphan|Ground
+|move|p2a: Skeledirge|Will-O-Wisp|p1a: Donphan
+|-status|p1a: Donphan|brn
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|34/100
+|
+|-damage|p1a: Donphan|94/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1711946132
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|84/100
+|move|p1a: Donphan|Rapid Spin|p2a: Skeledirge
+|-damage|p2a: Skeledirge|79/100
+|-boost|p1a: Donphan|spe|1
+|
+|-damage|p1a: Donphan|88/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1711946142
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|32/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|82/100
+|
+|-damage|p1a: Donphan|82/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1711946163
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|36/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|86/100
+|
+|-damage|p1a: Donphan|76/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1711946172
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|39/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|89/100
+|
+|-damage|p1a: Donphan|70/100 brn|[from] brn
+|upkeep
+|turn|26
+|inactive|ppupquqwqequ has 120 seconds left.
+|
+|t:|1711946181
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-crit|p2a: Skeledirge
+|-damage|p2a: Skeledirge|24/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|74/100
+|
+|-damage|p1a: Donphan|63/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1711946190
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|31/100
+|move|p2a: Skeledirge|Slack Off|p2a: Skeledirge
+|-heal|p2a: Skeledirge|81/100
+|
+|-damage|p1a: Donphan|57/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1711946202
+|move|p1a: Donphan|Earthquake|p2a: Skeledirge
+|-supereffective|p2a: Skeledirge
+|-damage|p2a: Skeledirge|37/100
+|move|p2a: Skeledirge|Shadow Ball|p1a: Donphan
+|-damage|p1a: Donphan|0 fnt
+|faint|p1a: Donphan
+|
+|upkeep
+|
+|t:|1711946212
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|29
+|
+|t:|1711946220
+|move|p1a: Hawlucha|Close Combat|p2a: Skeledirge
+|-damage|p2a: Skeledirge|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|-enditem|p1a: Hawlucha|White Herb
+|-clearnegativeboost|p1a: Hawlucha|[silent]
+|faint|p2a: Skeledirge
+|
+|upkeep
+|
+|t:|1711946228
+|switch|p2a: Sinistcha|Sinistcha|100/100
+|turn|30
+|
+|t:|1711946232
+|move|p1a: Hawlucha|Acrobatics|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|12/100
+|move|p2a: Sinistcha|Strength Sap|p1a: Hawlucha
+|-unboost|p1a: Hawlucha|atk|1
+|-heal|p2a: Sinistcha|100/100
+|
+|upkeep
+|turn|31
+|
+|t:|1711946240
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Sinistcha|Strength Sap|p1a: Hawlucha
+|-unboost|p1a: Hawlucha|atk|1
+|
+|upkeep
+|turn|32
+|
+|t:|1711946248
+|move|p1a: Hawlucha|Acrobatics|p2a: Sinistcha
+|-supereffective|p2a: Sinistcha
+|-damage|p2a: Sinistcha|2/100
+|move|p2a: Sinistcha|Curse|p1a: Hawlucha
+|-start|p1a: Hawlucha|Curse|[of] p2a: Sinistcha
+|-damage|p2a: Sinistcha|0 fnt
+|faint|p2a: Sinistcha
+|
+|-damage|p1a: Hawlucha|76/100|[from] Curse
+|upkeep
+|
+|t:|1711946258
+|switch|p2a: Toxapex|Toxapex, F|100/100 brn
+|turn|33
+|
+|t:|1711946270
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Toxapex|Recover||[still]
+|-fail|p2a: Toxapex|heal
+|
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|-damage|p1a: Hawlucha|51/100|[from] Curse
+|upkeep
+|turn|34
+|
+|t:|1711946281
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|100/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|-damage|p1a: Hawlucha|26/100|[from] Curse
+|upkeep
+|turn|35
+|-message|celestial01 forfeited.
+|
+|win|ppupquqwqequ
+|raw|celestial01's rating: 1069 &rarr; <strong>1058</strong><br />(-11 for losing)
+|raw|ppupquqwqequ's rating: 1243 &rarr; <strong>1256</strong><br />(+13 for winning)
+|l|☆celestial01
+|player|p1|

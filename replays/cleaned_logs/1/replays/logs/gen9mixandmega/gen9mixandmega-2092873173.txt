@@ -1,0 +1,146 @@
+p1: Switched to Calyrex-Ice
+p2: Switched to Solgaleo
+Turn 1:
+p1: Switched to Heatran
+p2: Solgaleo used Flash Cannon on Heatran
+Turn 2:
+p2: Switched to Lugia
+p1: Heatran failed to use Protect
+Turn 3:
+p2: Lugia used Calm Mind on Lugia
+p1: Heatran used Magma Storm on Lugia
+Turn 4:
+p2: Lugia used Calm Mind on Lugia
+p1: Heatran used Earth Power on Lugia
+Turn 5:
+p1: Switched to Tyranitar
+p2: Lugia used Recover on Lugia
+Turn 6:
+p2: Lugia used Weather Ball on Tyranitar
+p1: Tyranitar used Dragon Tail on Lugia
+Turn 7:
+p1: Switched to Heatran
+p2: Solgaleo used Future Sight on Heatran
+Turn 8:
+p2: Switched to Lugia
+p1: Heatran used Magma Storm on Lugia
+Turn 9:
+p2: Lugia used Recover on Lugia
+p1: Heatran used Earth Power on Lugia
+Turn 10:
+p2: Lugia used Recover on Lugia
+p1: Heatran used Earth Power on Lugia
+Turn 11:
+p2: Lugia used Psychic Noise on Heatran
+p1: Heatran used Earth Power on Lugia
+p2: Lugia fainted
+p2: Switched to Great Tusk
+Turn 12:
+p1: Heatran used Protect on Heatran
+p2: Great Tusk used Close Combat on Heatran
+Turn 13:
+p1: Switched to Annihilape
+p2: Great Tusk used Bulk Up on Great Tusk
+Turn 14:
+p2: Great Tusk used Headlong Rush on Annihilape
+p1: Annihilape used Rage Fist on Great Tusk
+Turn 15:
+p1: Switched to Heatran
+p2: Great Tusk used Headlong Rush on Heatran
+Turn 16:
+p1: Switched to Annihilape
+p2: Great Tusk used Close Combat on Annihilape
+Turn 17:
+p2: Switched to Corviknight
+p1: Annihilape used Rest on Annihilape
+Turn 18:
+p1: Annihilape can't move
+p1: Annihilape used Sleep Talk on Annihilape
+p1: Annihilape failed to use Rest
+p2: Corviknight used U-turn on Annihilape
+p2: Switched to Magearna
+Turn 19:
+p1: Switched to Heatran
+p2: Magearna used Spikes on Heatran
+Turn 20:
+p1: Heatran used Magma Storm on Magearna
+p2: Magearna fainted
+p2: Switched to Great Tusk
+Turn 21:
+p2: Great Tusk used Close Combat on Heatran
+p1: Heatran fainted
+p1: Switched to Annihilape
+Turn 22:
+p2: Switched to Solgaleo
+p1: Annihilape can't move
+p1: Annihilape used Sleep Talk on Annihilape
+p1: Annihilape failed to use Rest
+Turn 23:
+p1: Switched to Tyranitar
+p2: Solgaleo used Future Sight on Tyranitar
+Turn 24:
+p1: Switched to Annihilape
+p2: Solgaleo used Flash Cannon on Annihilape
+Turn 25:
+p1: Switched to Tyranitar
+p2: Solgaleo used Teleport on Solgaleo
+p2: Switched to Great Tusk
+Turn 26:
+p2: Great Tusk used Smack Down on Tyranitar
+p1: Tyranitar fainted
+p1: Switched to Vaporeon
+Turn 27:
+p2: Switched to Corviknight
+p1: Vaporeon used Wish on Vaporeon
+Turn 28:
+p2: Corviknight used Body Press on Vaporeon
+p1: Vaporeon used Flip Turn on Corviknight
+p1: Switched to Annihilape
+Turn 29:
+p2: Switched to Solgaleo
+p1: Annihilape used Rage Fist on Solgaleo
+Turn 30:
+p1: Switched to Vaporeon
+p2: Solgaleo used Future Sight on Vaporeon
+Turn 31:
+p1: Vaporeon used Wish on Vaporeon
+p2: Solgaleo used Teleport on Solgaleo
+p2: Switched to Regieleki
+Turn 32:
+p2: Regieleki used Volt Switch on Vaporeon
+p2: Switched to Solgaleo
+p1: Vaporeon used Scald on Solgaleo
+p1: Vaporeon fainted
+p1: Switched to Infernape
+Turn 33:
+p1: Infernape used Stealth Rock on Solgaleo
+p2: Solgaleo used Future Sight on Infernape
+Turn 34:
+p1: Infernape used Overheat on Solgaleo
+p2: Solgaleo fainted
+p2: Switched to Great Tusk
+Turn 35:
+p1: Switched to Annihilape
+p2: Great Tusk used Headlong Rush on Annihilape
+p1: Annihilape fainted
+p1: Switched to Infernape
+Turn 36:
+p1: Infernape used Fake Out on Great Tusk
+p2: Great Tusk can't move
+Turn 37:
+p2: Great Tusk used Headlong Rush on Infernape
+p1: Infernape fainted
+p1: Switched to Calyrex-Ice
+Turn 38:
+p2: Great Tusk used Close Combat on Calyrex-Ice
+p1: Calyrex-Ice used Glacial Lance on Great Tusk
+p2: Great Tusk fainted
+p2: Switched to Corviknight
+Turn 39:
+p1: Calyrex-Ice used Glacial Lance on Corviknight
+p2: Corviknight fainted
+p2: Switched to Regieleki
+Turn 40:
+p2: Regieleki used Extreme Speed on Calyrex-Ice
+p1: Calyrex-Ice used Glacial Lance on Regieleki
+p2: Regieleki fainted

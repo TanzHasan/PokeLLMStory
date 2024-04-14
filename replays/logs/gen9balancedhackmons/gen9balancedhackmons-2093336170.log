@@ -1,0 +1,293 @@
+|j|☆bignutta
+|j|☆FlashTGB
+|t:|1711940961
+|gametype|singles
+|player|p1|bignutta|brycenman|1115
+|player|p2|FlashTGB|morty-masters|1040
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Charizard-Mega-Y, M|
+|poke|p1|Muk-Alola, M|
+|poke|p1|Buzzwole|
+|poke|p1|Shuckle, F|
+|poke|p1|Alakazam-Mega, M|
+|poke|p1|Blissey, F|
+|poke|p2|Palkia-Origin|
+|poke|p2|Venusaur, F|
+|poke|p2|Escavalier, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Greninja, M|
+|poke|p2|Miraidon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FlashTGB)
+|inactive|bignutta also wants the timer to be on.
+|
+|t:|1711940972
+|start
+|switch|p1a: Muk|Muk-Alola, M|100/100
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|turn|1
+|
+|t:|1711940981
+|move|p1a: Muk|Parting Shot|p2a: Venusaur
+|-unboost|p2a: Venusaur|atk|1
+|-unboost|p2a: Venusaur|spa|1
+|
+|t:|1711940988
+|switch|p1a: Charizard|Charizard-Mega-Y, M|100/100|[from] Parting Shot
+|move|p2a: Venusaur|Clangorous Soul|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|1
+|-boost|p2a: Venusaur|def|1
+|-boost|p2a: Venusaur|spa|1
+|-boost|p2a: Venusaur|spd|1
+|-boost|p2a: Venusaur|spe|1
+|-damage|p2a: Venusaur|68/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711941002
+|switch|p2a: Escavalier|Escavalier, M|100/100
+|move|p1a: Charizard|Clangorous Soul|p1a: Charizard
+|-boost|p1a: Charizard|atk|1
+|-boost|p1a: Charizard|def|1
+|-boost|p1a: Charizard|spa|1
+|-boost|p1a: Charizard|spd|1
+|-boost|p1a: Charizard|spe|1
+|-damage|p1a: Charizard|68/100
+|-enditem|p1a: Charizard|Throat Spray
+|-boost|p1a: Charizard|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|turn|3
+|
+|t:|1711941014
+|move|p1a: Charizard|Aeroblast|p2a: Escavalier
+|-damage|p2a: Escavalier|0 fnt
+|faint|p2a: Escavalier
+|
+|upkeep
+|
+|t:|1711941020
+|switch|p2a: Miraidon|Miraidon|100/100
+|-ability|p2a: Miraidon|Teravolt
+|turn|4
+|
+|t:|1711941027
+|move|p1a: Charizard|Stored Power|p2a: Miraidon
+|-damage|p2a: Miraidon|24/100
+|move|p2a: Miraidon|Electro Drift|p1a: Charizard
+|-supereffective|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|-heal|p2a: Miraidon|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711941040
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|turn|5
+|
+|t:|1711941051
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Aegislash
+|-immune|p2a: Aegislash
+|
+|-ability|p1a: Buzzwole|Speed Boost|boost
+|-boost|p1a: Buzzwole|spe|1
+|upkeep
+|turn|6
+|
+|t:|1711941064
+|switch|p1a: Alakazam|Alakazam-Mega, M|100/100
+|-ability|p1a: Alakazam|Beads of Ruin
+|move|p2a: Aegislash|Sticky Web|p1a: Alakazam
+|-sidestart|p1: bignutta|move: Sticky Web
+|
+|upkeep
+|turn|7
+|
+|t:|1711941074
+|move|p1a: Alakazam|Armor Cannon|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|17/100
+|-unboost|p1a: Alakazam|def|1
+|-unboost|p1a: Alakazam|spd|1
+|move|p2a: Aegislash|Stealth Rock|p1a: Alakazam
+|-sidestart|p1: bignutta|move: Stealth Rock
+|
+|-heal|p2a: Aegislash|23/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|j| gigapichu
+|
+|t:|1711941085
+|move|p1a: Alakazam|Armor Cannon|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|-unboost|p1a: Alakazam|def|1
+|-unboost|p1a: Alakazam|spd|1
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|t:|1711941095
+|switch|p2a: Greninja|Greninja, M|100/100
+|turn|9
+|
+|t:|1711941108
+|move|p1a: Alakazam|Fleur Cannon|p2a: Greninja|[miss]
+|-miss|p1a: Alakazam|p2a: Greninja
+|move|p2a: Greninja|Wicked Blow|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711941118
+|move|p2a: Greninja|Jet Punch|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|-ability|p2a: Greninja|Battle Bond|boost
+|-boost|p2a: Greninja|atk|1
+|-boost|p2a: Greninja|spa|1
+|-boost|p2a: Greninja|spe|1
+|-activate|p2a: Greninja|ability: Battle Bond
+|
+|upkeep
+|j| IceNoTypeIce
+|
+|t:|1711941133
+|switch|p1a: Blissey|Blissey, F|100/100
+|-activate|p1a: Blissey|move: Sticky Web
+|-unboost|p1a: Blissey|spe|1
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1711941140
+|move|p1a: Blissey|Fake Out|p2a: Greninja
+|-enditem|p1a: Blissey|Normal Gem|[from] gem
+|-damage|p2a: Greninja|92/100
+|cant|p2a: Greninja|flinch
+|
+|upkeep
+|turn|12
+|
+|t:|1711941147
+|move|p2a: Greninja|Surging Strikes|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|60/100
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|33/100
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|6/100
+|-hitcount|p1a: Blissey|3
+|move|p1a: Blissey|Final Gambit|p2a: Greninja
+|-damage|p2a: Greninja|80/100
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1711941158
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-activate|p1a: Buzzwole|move: Sticky Web
+|-unboost|p1a: Buzzwole|spe|1
+|-damage|p1a: Buzzwole|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1711941165
+|move|p2a: Greninja|Surging Strikes|p1a: Buzzwole
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|73/100
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|60/100
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|45/100
+|-hitcount|p1a: Buzzwole|3
+|move|p1a: Buzzwole|Drain Punch|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|-heal|p1a: Buzzwole|78/100|[from] drain|[of] p2a: Greninja
+|faint|p2a: Greninja
+|
+|-ability|p1a: Buzzwole|Speed Boost|boost
+|-boost|p1a: Buzzwole|spe|1
+|upkeep
+|
+|t:|1711941170
+|switch|p2a: Palkia|Palkia-Origin|100/100
+|turn|14
+|
+|t:|1711941197
+|move|p2a: Palkia|Spacial Rend|p1a: Buzzwole
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|upkeep
+|
+|t:|1711941204
+|switch|p1a: Muk|Muk-Alola, M|100/100
+|-activate|p1a: Muk|move: Sticky Web
+|-unboost|p1a: Muk|spe|1
+|-damage|p1a: Muk|88/100|[from] Stealth Rock
+|turn|15
+|j| massterr
+|
+|t:|1711941211
+|move|p1a: Muk|Toxic|p2a: Palkia
+|-status|p2a: Palkia|tox
+|move|p2a: Palkia|Spacial Rend|p1a: Muk
+|-damage|p1a: Muk|22/100
+|
+|-heal|p1a: Muk|28/100|[from] item: Black Sludge
+|-damage|p2a: Palkia|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711941223
+|move|p1a: Muk|Parting Shot|p2a: Palkia
+|-unboost|p2a: Palkia|atk|1
+|-unboost|p2a: Palkia|spa|1
+|
+|t:|1711941226
+|switch|p1a: Shuckle|Shuckle, F|100/100|[from] Parting Shot
+|-activate|p1a: Shuckle|move: Sticky Web
+|-unboost|p1a: Shuckle|spe|2
+|-damage|p1a: Shuckle|75/100|[from] Stealth Rock
+|move|p2a: Palkia|Spacial Rend|p1a: Shuckle
+|-damage|p1a: Shuckle|37/100
+|
+|-heal|p1a: Shuckle|43/100|[from] item: Leftovers
+|-damage|p2a: Palkia|82/100 tox|[from] psn
+|upkeep
+|turn|17
+|-message|bignutta forfeited.
+|
+|win|FlashTGB
+|raw|bignutta's rating: 1115 &rarr; <strong>1085</strong><br />(-30 for losing)
+|raw|FlashTGB's rating: 1040 &rarr; <strong>1081</strong><br />(+41 for winning)
+|l|☆bignutta
+|player|p1|
+|c|☆FlashTGB|rip
+|c|☆FlashTGB|ggwp
+|l| IceNoTypeIce
+|l| gigapichu

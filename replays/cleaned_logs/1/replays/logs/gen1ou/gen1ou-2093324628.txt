@@ -1,0 +1,68 @@
+p1: Switched to Persian
+p2: Switched to Gengar
+Turn 1:
+p1: Persian used Substitute on Persian
+p2: Gengar used Hypnosis on Persian
+Turn 2:
+p1: Persian can't move
+p2: Gengar used Psychic on Persian
+Turn 3:
+p1: Persian can't move
+p2: Gengar used Psychic on Persian
+Turn 4:
+p1: Persian can't move
+p2: Gengar used Psychic on Persian
+p1: Persian fainted
+p1: Switched to Tauros
+Turn 5:
+p2: Gengar used Explosion on Tauros
+p2: Gengar fainted
+p2: Switched to Starmie
+Turn 6:
+p2: Starmie used Blizzard on Tauros
+p1: Tauros used Hyper Beam on Starmie
+p2: Starmie fainted
+p2: Switched to Tauros
+Turn 7:
+p1: Tauros used Hyper Beam on Tauros
+p2: Tauros used Body Slam on Tauros
+p1: Tauros fainted
+p1: Switched to Ditto
+Turn 8:
+p2: Tauros used Hyper Beam on Ditto
+p1: Ditto used Transform on Tauros
+Turn 9:
+p2: Switched to Snorlax
+p1: Ditto used Hyper Beam on Snorlax
+Turn 10:
+p1: Ditto can't move
+p2: Snorlax used Body Slam on Ditto
+Turn 11:
+p1: Ditto used Body Slam on Snorlax
+p2: Snorlax used Reflect on Snorlax
+Turn 12:
+p1: Ditto used Fire Blast on Snorlax
+p2: Snorlax used Body Slam on Ditto
+Turn 13:
+p2: Switched to Tauros
+p1: Ditto used Hyper Beam on Tauros
+p2: Tauros fainted
+p2: Switched to Raticate
+Turn 14:
+p1: Ditto used Hyper Beam on Raticate
+p2: Raticate used Hyper Beam on Ditto
+Turn 15:
+p1: Ditto can't move
+p2: Raticate used Hyper Beam on Ditto
+p1: Ditto fainted
+p1: Switched to Dodrio
+Turn 16:
+p1: Dodrio used Drill Peck on Raticate
+p2: Raticate fainted
+p2: Switched to Chansey
+Turn 17:
+p1: Dodrio used Body Slam on Chansey
+p2: Chansey used Thunderbolt on Dodrio
+Turn 18:
+p1: Dodrio used Hyper Beam on Chansey
+p2: Chansey fainted

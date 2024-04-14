@@ -1,0 +1,334 @@
+|j|☆pronerdgaming
+|j|☆wdytyaia
+|t:|1711942633
+|gametype|doubles
+|player|p1|pronerdgaming|265|1428
+|player|p2|wdytyaia|flannery|1596
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Doubles Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|
+|t:|1711942633
+|start
+|switch|p1a: Electrode|Electrode-Hisui, L88|249/249
+|switch|p1b: Samurott|Samurott-Hisui, L83, F|285/285
+|switch|p2a: Jirachi|Jirachi, L79|288/288
+|switch|p2b: Volcanion|Volcanion, L74|239/239
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pronerdgaming)
+|inactive|wdytyaia has 120 seconds left.
+|inactive|pronerdgaming has 120 seconds left.
+|inactive|wdytyaia has 90 seconds left.
+|
+|t:|1711942703
+|-terastallize|p2b: Volcanion|Ground
+|move|p1a: Electrode|Thunderbolt|p2b: Volcanion
+|-immune|p2b: Volcanion
+|move|p2a: Jirachi|U-turn|p1a: Electrode
+|-supereffective|p1a: Electrode
+|-damage|p1a: Electrode|153/249
+|
+|t:|1711942712
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274|[from] U-turn
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p1b: Samurott|Ceaseless Edge|p2b: Volcanion
+|-crit|p2b: Volcanion
+|-damage|p2b: Volcanion|51/239
+|-sidestart|p2: wdytyaia|Spikes
+|-damage|p1b: Samurott|257/285|[from] item: Life Orb
+|move|p2b: Volcanion|Heat Wave|p1b: Samurott|[spread] p1a,p1b
+|-supereffective|p1a: Electrode
+|-resisted|p1b: Samurott
+|-damage|p1a: Electrode|0 fnt
+|-damage|p1b: Samurott|215/285
+|faint|p1a: Electrode
+|
+|upkeep
+|
+|t:|1711942726
+|switch|p1a: Incineroar|Incineroar, L78, F|276/276
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Tinkaton|atk|1
+|-unboost|p2b: Volcanion|atk|1
+|turn|2
+|
+|t:|1711942747
+|move|p1b: Samurott|Protect|p1b: Samurott
+|-singleturn|p1b: Samurott|Protect
+|move|p2a: Tinkaton|Fake Out|p1b: Samurott
+|-activate|p1b: Samurott|move: Protect
+|move|p1a: Incineroar|Fake Out|p2b: Volcanion
+|-damage|p2b: Volcanion|27/239
+|cant|p2b: Volcanion|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1711942761
+|move|p2a: Tinkaton|Encore|p1a: Incineroar
+|-start|p1a: Incineroar|Encore
+|move|p1b: Samurott|Ceaseless Edge|p2b: Volcanion
+|-damage|p2b: Volcanion|0 fnt
+|-sidestart|p2: wdytyaia|Spikes
+|faint|p2b: Volcanion
+|-damage|p1b: Samurott|187/285|[from] item: Life Orb
+|move|p1a: Incineroar|Fake Out||[still]
+|-hint|Fake Out only works on your first turn out.
+|-fail|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1711942772
+|switch|p2b: Regidrago|Regidrago, L74|418/418
+|-damage|p2b: Regidrago|349/418|[from] Spikes
+|turn|4
+|
+|t:|1711942790
+|switch|p1a: Bastiodon|Bastiodon, L88, M|249/249
+|move|p2b: Regidrago|Dragon Energy|p1a: Bastiodon|[spread] p1a,p1b
+|-resisted|p1a: Bastiodon
+|-damage|p1a: Bastiodon|213/249
+|-damage|p1b: Samurott|30/285
+|move|p2a: Tinkaton|Play Rough|p1b: Samurott
+|-supereffective|p1b: Samurott
+|-damage|p1b: Samurott|0 fnt
+|faint|p1b: Samurott
+|
+|-heal|p1a: Bastiodon|228/249|[from] item: Leftovers
+|upkeep
+|
+|t:|1711942797
+|switch|p1b: Incineroar|Incineroar, L78, F|276/276
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Tinkaton|atk|1
+|-unboost|p2b: Regidrago|atk|1
+|turn|5
+|
+|t:|1711942811
+|switch|p2b: Jirachi|Jirachi, L79|288/288
+|-damage|p2b: Jirachi|240/288|[from] Spikes
+|move|p1a: Bastiodon|Wide Guard|p1a: Bastiodon
+|-singleturn|p1a: Bastiodon|Wide Guard
+|move|p2a: Tinkaton|Encore||[still]
+|-fail|p2a: Tinkaton
+|move|p1b: Incineroar|Parting Shot|p2b: Jirachi
+|-unboost|p2b: Jirachi|atk|1
+|-unboost|p2b: Jirachi|spa|1
+|
+|t:|1711942823
+|switch|p1b: Mimikyu|Mimikyu, L82, F|224/224|[from] Parting Shot
+|
+|-heal|p1a: Bastiodon|243/249|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711942835
+|switch|p1a: Incineroar|Incineroar, L78, F|276/276
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Tinkaton|atk|1
+|-unboost|p2b: Jirachi|atk|1
+|move|p1b: Mimikyu|Shadow Sneak|p2b: Jirachi
+|-supereffective|p2b: Jirachi
+|-damage|p2b: Jirachi|131/288
+|-damage|p1b: Mimikyu|202/224|[from] item: Life Orb
+|move|p2b: Jirachi|U-turn|p1b: Mimikyu
+|-activate|p1b: Mimikyu|ability: Disguise
+|-damage|p1b: Mimikyu|202/224
+|detailschange|p1b: Mimikyu|Mimikyu-Busted, L82, F
+|-damage|p1b: Mimikyu|174/224|[from] pokemon: Mimikyu-Busted
+|
+|t:|1711942839
+|switch|p2b: Venomoth|Venomoth, L89, M|269/269|[from] U-turn
+|-damage|p2b: Venomoth|225/269|[from] Spikes
+|move|p2a: Tinkaton|Encore||[still]
+|-fail|p2a: Tinkaton
+|
+|upkeep
+|turn|7
+|
+|t:|1711942861
+|switch|p2a: Jirachi|Jirachi, L79|131/288
+|-damage|p2a: Jirachi|83/288|[from] Spikes
+|move|p1b: Mimikyu|Shadow Sneak|p2b: Venomoth
+|-damage|p2b: Venomoth|163/269
+|-damage|p1b: Mimikyu|152/224|[from] item: Life Orb
+|move|p2b: Venomoth|Sleep Powder|p1b: Mimikyu
+|-status|p1b: Mimikyu|slp|[from] move: Sleep Powder
+|move|p1a: Incineroar|Flare Blitz|p2b: Venomoth
+|-supereffective|p2b: Venomoth
+|-damage|p2b: Venomoth|0 fnt
+|faint|p2b: Venomoth
+|-damage|p1a: Incineroar|222/276|[from] Recoil
+|
+|upkeep
+|inactive|wdytyaia has 120 seconds left.
+|
+|t:|1711942886
+|switch|p2b: Giratina|Giratina-Origin, L76|353/353
+|turn|8
+|
+|t:|1711942905
+|cant|p1b: Mimikyu|slp
+|move|p2a: Jirachi|U-turn|p1a: Incineroar
+|-damage|p1a: Incineroar|177/276
+|
+|t:|1711942909
+|switch|p2a: Tinkaton|Tinkaton, L82, F|274/274|[from] U-turn
+|-damage|p2a: Tinkaton|229/274|[from] Spikes
+|-ability|p2a: Tinkaton|Mold Breaker
+|move|p2b: Giratina|Aura Sphere|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|61/276
+|-enditem|p1a: Incineroar|Sitrus Berry|[eat]
+|-heal|p1a: Incineroar|130/276|[from] item: Sitrus Berry
+|move|p1a: Incineroar|Knock Off|p2a: Tinkaton
+|-resisted|p2a: Tinkaton
+|-damage|p2a: Tinkaton|172/274
+|-enditem|p2a: Tinkaton|Sitrus Berry|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|9
+|
+|t:|1711942937
+|switch|p1a: Okidogi|Okidogi, L78, M|265/265
+|move|p2a: Tinkaton|Fake Out|p1a: Okidogi
+|-damage|p1a: Okidogi|247/265
+|-curestatus|p1b: Mimikyu|slp|[msg]
+|move|p1b: Mimikyu|Shadow Sneak|p2b: Giratina
+|-supereffective|p2b: Giratina
+|-damage|p2b: Giratina|259/353
+|-damage|p1b: Mimikyu|130/224|[from] item: Life Orb
+|move|p2b: Giratina|Aura Sphere|p1a: Okidogi
+|-resisted|p1a: Okidogi
+|-damage|p1a: Okidogi|225/265
+|
+|upkeep
+|turn|10
+|
+|t:|1711942957
+|move|p1b: Mimikyu|Shadow Sneak|p2b: Giratina
+|-supereffective|p2b: Giratina
+|-damage|p2b: Giratina|163/353
+|-damage|p1b: Mimikyu|108/224|[from] item: Life Orb
+|move|p2a: Tinkaton|Gigaton Hammer|p1b: Mimikyu
+|-supereffective|p1b: Mimikyu
+|-damage|p1b: Mimikyu|0 fnt
+|faint|p1b: Mimikyu
+|move|p2b: Giratina|Will-O-Wisp|p1a: Okidogi
+|-status|p1a: Okidogi|brn
+|move|p1a: Okidogi|Knock Off|p2b: Giratina
+|-supereffective|p2b: Giratina
+|-damage|p2b: Giratina|110/353
+|
+|-damage|p1a: Okidogi|209/265 brn|[from] brn
+|upkeep
+|
+|t:|1711942971
+|switch|p1b: Incineroar|Incineroar, L78, F|130/276
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Tinkaton|atk|1
+|-unboost|p2b: Giratina|atk|1
+|turn|11
+|inactive|wdytyaia has 120 seconds left.
+|
+|t:|1711943001
+|move|p2a: Tinkaton|Play Rough|p1b: Incineroar
+|-damage|p1b: Incineroar|73/276
+|move|p2b: Giratina|Aura Sphere|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|move|p1a: Okidogi|Knock Off|p2b: Giratina
+|-supereffective|p2b: Giratina
+|-damage|p2b: Giratina|56/353
+|
+|-damage|p1a: Okidogi|193/265 brn|[from] brn
+|upkeep
+|
+|t:|1711943011
+|switch|p1b: Bastiodon|Bastiodon, L88, M|243/249
+|turn|12
+|
+|t:|1711943023
+|switch|p2a: Jirachi|Jirachi, L79|83/288
+|-damage|p2a: Jirachi|35/288|[from] Spikes
+|-terastallize|p1b: Bastiodon|Fighting
+|move|p2b: Giratina|Will-O-Wisp|p1b: Bastiodon
+|-status|p1b: Bastiodon|brn
+|move|p1a: Okidogi|Drain Punch|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|-heal|p1a: Okidogi|211/265 brn|[from] drain|[of] p2a: Jirachi
+|faint|p2a: Jirachi
+|move|p1b: Bastiodon|Foul Play|p2b: Giratina
+|-supereffective|p2b: Giratina
+|-damage|p2b: Giratina|5/353
+|
+|-heal|p1b: Bastiodon|249/249 brn|[from] item: Leftovers
+|-damage|p1a: Okidogi|195/265 brn|[from] brn
+|-damage|p1b: Bastiodon|234/249 brn|[from] brn
+|upkeep
+|
+|t:|1711943039
+|switch|p2a: Tinkaton|Tinkaton, L82, F|172/274
+|-damage|p2a: Tinkaton|127/274|[from] Spikes
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|13
+|
+|t:|1711943064
+|move|p2a: Tinkaton|Fake Out|p1b: Bastiodon
+|-damage|p1b: Bastiodon|220/249 brn
+|move|p2b: Giratina|Shadow Force||[still]
+|-prepare|p2b: Giratina|Shadow Force
+|move|p1a: Okidogi|Snarl|p2b: Giratina|[spread] p2a
+|-miss|p1a: Okidogi|p2b: Giratina
+|-resisted|p2a: Tinkaton
+|-damage|p2a: Tinkaton|119/274
+|-unboost|p2a: Tinkaton|spa|1
+|cant|p1b: Bastiodon|flinch
+|
+|-heal|p1b: Bastiodon|235/249 brn|[from] item: Leftovers
+|-damage|p1a: Okidogi|179/265 brn|[from] brn
+|-damage|p1b: Bastiodon|220/249 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1711943082
+|move|p2a: Tinkaton|Gigaton Hammer|p1a: Okidogi
+|-damage|p1a: Okidogi|71/265 brn
+|move|p2b: Giratina|Shadow Force|p1a: Okidogi|[from]lockedmove
+|-damage|p1a: Okidogi|0 fnt
+|faint|p1a: Okidogi
+|move|p1b: Bastiodon|Iron Defense|p1b: Bastiodon
+|-boost|p1b: Bastiodon|def|2
+|
+|-heal|p1b: Bastiodon|235/249 brn|[from] item: Leftovers
+|-damage|p1b: Bastiodon|220/249 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1711943098
+|move|p2a: Tinkaton|Encore|p1b: Bastiodon
+|-start|p1b: Bastiodon|Encore
+|move|p2b: Giratina|Aura Sphere|p1b: Bastiodon
+|-crit|p1b: Bastiodon
+|-damage|p1b: Bastiodon|168/249 brn
+|move|p1b: Bastiodon|Iron Defense|p1b: Bastiodon
+|-boost|p1b: Bastiodon|def|2
+|
+|-heal|p1b: Bastiodon|183/249 brn|[from] item: Leftovers
+|-damage|p1b: Bastiodon|168/249 brn|[from] brn
+|upkeep
+|turn|16
+|-message|pronerdgaming forfeited.
+|
+|win|wdytyaia
+|raw|pronerdgaming's rating: 1428 &rarr; <strong>1417</strong><br />(-11 for losing)
+|raw|wdytyaia's rating: 1596 &rarr; <strong>1607</strong><br />(+11 for winning)
+|l|☆pronerdgaming
+|player|p1|

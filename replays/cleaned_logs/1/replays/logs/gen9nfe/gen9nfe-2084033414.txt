@@ -1,0 +1,116 @@
+p1: Switched to Vullaby
+p2: Switched to Drakloak
+Turn 1:
+p2: Drakloak used Thunderbolt on Vullaby
+p1: Vullaby used Knock Off on Drakloak
+p2: Drakloak fainted
+p2: Switched to Pikachu
+Turn 2:
+p1: Switched to Metang
+p2: Pikachu used Fake Out on Metang
+Turn 3:
+p2: Pikachu used Volt Switch on Metang
+p2: Switched to Dusclops
+p1: Metang used Earthquake on Dusclops
+Turn 4:
+p1: Switched to Servine
+p2: Dusclops used Will-O-Wisp on Servine
+Turn 5:
+p1: Servine used Leaf Storm on Dusclops
+p2: Dusclops used Night Shade on Servine
+Turn 6:
+p1: Servine used Giga Drain on Dusclops
+p2: Dusclops used Night Shade on Servine
+Turn 7:
+p1: Servine used Synthesis on Servine
+p2: Dusclops used Night Shade on Servine
+Turn 8:
+p1: Servine used Synthesis on Servine
+p2: Dusclops used Night Shade on Servine
+Turn 9:
+p1: Servine used Synthesis on Servine
+p2: Dusclops used Night Shade on Servine
+Turn 10:
+p1: Servine used Synthesis on Servine
+p2: Dusclops used Night Shade on Servine
+Turn 11:
+p1: Servine used Leaf Storm on Dusclops
+p2: Dusclops fainted
+p2: Switched to Cutiefly
+Turn 12:
+p2: Cutiefly used U-turn on Servine
+p2: Switched to Quaxwell
+p1: Servine used Giga Drain on Quaxwell
+p2: Quaxwell fainted
+p2: Switched to Cutiefly
+Turn 13:
+p2: Cutiefly used Sticky Web on Servine
+p1: Servine used Giga Drain on Cutiefly
+Turn 14:
+p2: Cutiefly used Moonblast on Servine
+p1: Servine used Giga Drain on Cutiefly
+p2: Cutiefly fainted
+p2: Switched to Pikachu
+Turn 15:
+p1: Switched to Metang
+p2: Pikachu used Fake Out on Metang
+Turn 16:
+p2: Pikachu used Volt Switch on Metang
+p2: Switched to Vigoroth
+p1: Metang used Earthquake on Vigoroth
+Turn 17:
+p2: Vigoroth used Bulk Up on Vigoroth
+p1: Metang used Earthquake on Vigoroth
+Turn 18:
+p2: Vigoroth used Slack Off on Vigoroth
+p1: Metang used Earthquake on Vigoroth
+Turn 19:
+p2: Vigoroth used Bulk Up on Vigoroth
+p1: Metang used Meteor Mash on Vigoroth
+Turn 20:
+p2: Vigoroth used Bulk Up on Vigoroth
+p1: Metang used Earthquake on Vigoroth
+Turn 21:
+p1: Switched to Dunsparce
+p2: Vigoroth used Bulk Up on Vigoroth
+Turn 22:
+p2: Vigoroth used Knock Off on Dunsparce
+p1: Dunsparce used Glare on Vigoroth
+Turn 23:
+p2: Vigoroth used Slack Off on Vigoroth
+p1: Dunsparce used Zen Headbutt on Vigoroth
+Turn 24:
+p2: Vigoroth used Facade on Dunsparce
+p1: Dunsparce fainted
+p1: Switched to Monferno
+Turn 25:
+p1: Monferno used Mach Punch on Vigoroth
+p2: Vigoroth can't move
+Turn 26:
+p1: Monferno used Mach Punch on Vigoroth
+p2: Vigoroth used Slack Off on Vigoroth
+Turn 27:
+p1: Monferno used Mach Punch on Vigoroth
+p2: Vigoroth used Slack Off on Vigoroth
+Turn 28:
+p1: Switched to Metang
+p2: Vigoroth can't move
+Turn 29:
+p1: Switched to Vullaby
+p2: Vigoroth used Knock Off on Vullaby
+p1: Vullaby fainted
+p1: Switched to Electabuzz
+Turn 30:
+p1: Electabuzz used Focus Blast on Vigoroth
+p2: Vigoroth can't move
+Turn 31:
+p1: Electabuzz used Focus Blast on Vigoroth
+p2: Vigoroth fainted
+p2: Switched to Pikachu
+Turn 32:
+p2: Pikachu used Fake Out on Electabuzz
+p1: Electabuzz can't move
+Turn 33:
+p2: Pikachu used Surf on Electabuzz
+p1: Electabuzz used Focus Blast on Pikachu
+p2: Pikachu fainted

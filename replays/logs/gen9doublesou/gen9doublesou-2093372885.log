@@ -1,0 +1,305 @@
+|j|☆Hnayyar
+|j|☆Livaras
+|t:|1711946421
+|gametype|doubles
+|player|p1|Hnayyar|102|1252
+|player|p2|Livaras|elesa-gen5bw2|1334
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Gravity Sleep Clause: The combination of sleep-inducing moves with imperfect accuracy and Gravity or Gigantamax Orbeetle are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Oranguru, F|
+|poke|p1|Torkoal, M|
+|poke|p1|Exeggutor, M|
+|poke|p1|Incineroar, M|
+|poke|p1|Kingambit, F|
+|poke|p1|Blastoise, F|
+|poke|p2|Terrakion|
+|poke|p2|Maushold|
+|poke|p2|Mew|
+|poke|p2|Sylveon, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Amoonguss, F|
+|teampreview
+|
+|t:|1711946431
+|start
+|switch|p1a: Blastoise|Blastoise, F|100/100
+|switch|p1b: Oranguru|Oranguru, F|100/100
+|switch|p2a: Maushold|Maushold, shiny|100/100
+|switch|p2b: Terrakion|Terrakion, shiny|100/100
+|turn|1
+|
+|t:|1711946456
+|-terastallize|p2b: Terrakion|Grass
+|move|p2a: Maushold|Beat Up|p2b: Terrakion
+|-damage|p2b: Terrakion|98/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-damage|p2b: Terrakion|95/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-damage|p2b: Terrakion|92/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-damage|p2b: Terrakion|90/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-damage|p2b: Terrakion|87/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-crit|p2b: Terrakion
+|-damage|p2b: Terrakion|84/100
+|-ability|p2b: Terrakion|Justified|boost
+|-boost|p2b: Terrakion|atk|1
+|-hitcount|p2b: Terrakion|6
+|move|p2b: Terrakion|Rock Slide|p1a: Blastoise|[spread] p1b
+|-miss|p2b: Terrakion|p1a: Blastoise
+|-damage|p1b: Oranguru|0 fnt
+|faint|p1b: Oranguru
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|
+|-heal|p2b: Terrakion|90/100|[from] item: Leftovers
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Livaras)
+|
+|t:|1711946507
+|switch|p1b: Exeggutor|Exeggutor, M|100/100
+|turn|2
+|
+|t:|1711946527
+|move|p1a: Blastoise|Ice Beam|p2b: Terrakion
+|-supereffective|p2b: Terrakion
+|-damage|p2b: Terrakion|20/100
+|move|p2a: Maushold|Population Bomb|p1a: Blastoise
+|-damage|p1a: Blastoise|93/100
+|-crit|p1a: Blastoise
+|-damage|p1a: Blastoise|83/100
+|-damage|p1a: Blastoise|76/100
+|-damage|p1a: Blastoise|69/100
+|-hitcount|p1a: Blastoise|4
+|move|p2b: Terrakion|Sacred Sword|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|move|p1b: Exeggutor|Leech Seed|p2a: Maushold
+|-start|p2a: Maushold|move: Leech Seed
+|
+|-heal|p2b: Terrakion|26/100|[from] item: Leftovers
+|-damage|p2a: Maushold|88/100|[from] Leech Seed|[of] p1b: Exeggutor
+|upkeep
+|
+|t:|1711946542
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Maushold|atk|1
+|-unboost|p2b: Terrakion|atk|1
+|turn|3
+|
+|t:|1711946552
+|move|p2b: Terrakion|Protect|p2b: Terrakion
+|-singleturn|p2b: Terrakion|Protect
+|move|p1a: Incineroar|Fake Out|p2b: Terrakion
+|-activate|p2b: Terrakion|move: Protect
+|move|p2a: Maushold|Tidy Up|p2a: Maushold
+|-boost|p2a: Maushold|atk|1
+|-boost|p2a: Maushold|spe|1
+|move|p1b: Exeggutor|Giga Drain|p2a: Maushold
+|-damage|p2a: Maushold|45/100
+|
+|-heal|p2b: Terrakion|32/100|[from] item: Leftovers
+|-damage|p2a: Maushold|33/100|[from] Leech Seed|[of] p1b: Exeggutor
+|upkeep
+|turn|4
+|
+|t:|1711946572
+|move|p2a: Maushold|Population Bomb|p1b: Exeggutor
+|-damage|p1b: Exeggutor|95/100
+|-damage|p1b: Exeggutor|90/100
+|-damage|p1b: Exeggutor|85/100
+|-damage|p1b: Exeggutor|79/100
+|-damage|p1b: Exeggutor|74/100
+|-damage|p1b: Exeggutor|69/100
+|-hitcount|p1b: Exeggutor|6
+|move|p2b: Terrakion|Rock Slide|p1b: Exeggutor|[spread] p1a,p1b
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|-damage|p1b: Exeggutor|8/100
+|-enditem|p1b: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1b: Exeggutor|32/100|[from] item: Sitrus Berry
+|faint|p1a: Incineroar
+|cant|p1b: Exeggutor|flinch
+|
+|-heal|p2b: Terrakion|39/100|[from] item: Leftovers
+|-damage|p2a: Maushold|20/100|[from] Leech Seed|[of] p1b: Exeggutor
+|-heal|p1b: Exeggutor|42/100|[silent]
+|upkeep
+|
+|t:|1711946579
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|5
+|
+|t:|1711946602
+|move|p1b: Exeggutor|Protect|p1b: Exeggutor
+|-singleturn|p1b: Exeggutor|Protect
+|move|p2a: Maushold|Population Bomb|p1a: Torkoal
+|-damage|p1a: Torkoal|94/100
+|-damage|p1a: Torkoal|89/100
+|-damage|p1a: Torkoal|83/100
+|-damage|p1a: Torkoal|77/100
+|-damage|p1a: Torkoal|71/100
+|-damage|p1a: Torkoal|66/100
+|-damage|p1a: Torkoal|60/100
+|-damage|p1a: Torkoal|54/100
+|-hitcount|p1a: Torkoal|8
+|move|p2b: Terrakion|Rock Slide|p1b: Exeggutor|[spread] p1a
+|-activate|p1b: Exeggutor|move: Protect
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Terrakion|45/100|[from] item: Leftovers
+|-damage|p2a: Maushold|8/100|[from] Leech Seed|[of] p1b: Exeggutor
+|-heal|p1b: Exeggutor|51/100|[silent]
+|-item|p1b: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|
+|t:|1711946610
+|switch|p1a: Kingambit|Kingambit, F|100/100
+|-activate|p1a: Kingambit|ability: Supreme Overlord
+|-start|p1a: Kingambit|fallen4|[silent]
+|turn|6
+|inactive|Livaras has 120 seconds left.
+|
+|t:|1711946641
+|switch|p2a: Sylveon|Sylveon, M, shiny|100/100
+|move|p1a: Kingambit|Sucker Punch|p2b: Terrakion
+|-damage|p2b: Terrakion|0 fnt
+|faint|p2b: Terrakion
+|move|p1b: Exeggutor|Giga Drain|p2a: Sylveon
+|-damage|p2a: Sylveon|85/100
+|-heal|p1b: Exeggutor|59/100|[from] drain|[of] p2a: Sylveon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Sylveon|91/100|[from] item: Leftovers
+|upkeep
+|inactive|Livaras has 120 seconds left.
+|
+|t:|1711946654
+|switch|p2b: Incineroar|Incineroar, F, shiny|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-unboost|p1b: Exeggutor|atk|1
+|turn|7
+|
+|t:|1711946664
+|-terastallize|p1a: Kingambit|Dark
+|move|p2b: Incineroar|Fake Out|p1a: Kingambit
+|-damage|p1a: Kingambit|90/100
+|move|p1b: Exeggutor|Leech Seed|p2b: Incineroar|[miss]
+|-miss|p1b: Exeggutor|p2b: Incineroar
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|cant|p1a: Kingambit|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Sylveon|97/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711946681
+|move|p2b: Incineroar|U-turn|p1a: Kingambit
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|55/100
+|
+|t:|1711946686
+|switch|p2b: Mew|Mew, shiny|100/100|[from] U-turn
+|move|p1b: Exeggutor|Leech Seed|p2b: Mew
+|-start|p2b: Mew|move: Leech Seed
+|move|p2a: Sylveon|Hyper Voice|p1a: Kingambit|[spread] p1a,p1b
+|-supereffective|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|-damage|p1b: Exeggutor|12/100
+|-enditem|p1b: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1b: Exeggutor|37/100|[from] item: Sitrus Berry
+|faint|p1a: Kingambit
+|-end|p1a: Kingambit|fallen4|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Sylveon|100/100|[from] item: Leftovers
+|-damage|p2b: Mew|88/100|[from] Leech Seed|[of] p1b: Exeggutor
+|-heal|p1b: Exeggutor|48/100|[silent]
+|-item|p1b: Exeggutor|Sitrus Berry|[from] ability: Harvest
+|upkeep
+|-enditem|p1b: Exeggutor|Sitrus Berry|[eat]
+|-heal|p1b: Exeggutor|73/100|[from] item: Sitrus Berry
+|turn|9
+|
+|t:|1711946708
+|move|p2b: Mew|Trick|p1b: Exeggutor
+|-activate|p2b: Mew|move: Trick|[of] p1b: Exeggutor
+|-item|p1b: Exeggutor|Choice Scarf|[from] move: Trick
+|-enditem|p2b: Mew|Choice Scarf|[silent]|[from] move: Trick
+|move|p1b: Exeggutor|Calm Mind|p1b: Exeggutor
+|-boost|p1b: Exeggutor|spa|1
+|-boost|p1b: Exeggutor|spd|1
+|move|p2a: Sylveon|Calm Mind|p2a: Sylveon
+|-boost|p2a: Sylveon|spa|1
+|-boost|p2a: Sylveon|spd|1
+|
+|-weather|none
+|-damage|p2b: Mew|76/100|[from] Leech Seed|[of] p1b: Exeggutor
+|-heal|p1b: Exeggutor|83/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1711946724
+|move|p2b: Mew|Psychic|p1b: Exeggutor
+|-resisted|p1b: Exeggutor
+|-damage|p1b: Exeggutor|70/100
+|move|p1b: Exeggutor|Calm Mind|p1b: Exeggutor
+|-boost|p1b: Exeggutor|spa|1
+|-boost|p1b: Exeggutor|spd|1
+|move|p2a: Sylveon|Hyper Voice|p1b: Exeggutor
+|-damage|p1b: Exeggutor|25/100
+|
+|-damage|p2b: Mew|64/100|[from] Leech Seed|[of] p1b: Exeggutor
+|-heal|p1b: Exeggutor|35/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1711946738
+|switch|p2b: Incineroar|Incineroar, F, shiny|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1b: Exeggutor|atk|1
+|move|p1b: Exeggutor|Calm Mind|p1b: Exeggutor
+|-boost|p1b: Exeggutor|spa|1
+|-boost|p1b: Exeggutor|spd|1
+|move|p2a: Sylveon|Hyper Voice|p1b: Exeggutor
+|-damage|p1b: Exeggutor|0 fnt
+|faint|p1b: Exeggutor
+|
+|win|Livaras
+|raw|Hnayyar's rating: 1252 &rarr; <strong>1233</strong><br />(-19 for losing)
+|raw|Livaras's rating: 1334 &rarr; <strong>1349</strong><br />(+15 for winning)
+|l|☆Livaras
+|player|p2|
+|l|☆Hnayyar
+|player|p1|

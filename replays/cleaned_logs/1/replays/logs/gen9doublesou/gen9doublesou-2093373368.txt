@@ -1,0 +1,64 @@
+p1: Switched to Tsareena
+p1: Switched to Oranguru
+p2: Switched to Ninetales-Alola
+p2: Switched to Incineroar
+Turn 1:
+p2: Ninetales-Alola used Blizzard on Oranguru
+p1: Tsareena used Knock Off on Incineroar
+p2: Incineroar used Knock Off on Oranguru
+p1: Oranguru fainted
+p1: Switched to Hatterene
+Turn 2:
+p2: Ninetales-Alola used Aurora Veil on Ninetales-Alola
+p1: Tsareena used U-turn on Incineroar
+p1: Switched to Araquanid
+p2: Incineroar used Flare Blitz on Hatterene
+p1: Hatterene used Trick Room on Hatterene
+Turn 3:
+p1: Hatterene used Expanding Force on Incineroar
+p1: Araquanid used Waterfall on Ninetales-Alola
+p2: Incineroar used U-turn on Hatterene
+p2: Switched to Amoonguss
+p2: Ninetales-Alola used Nasty Plot on Ninetales-Alola
+Turn 4:
+p2: Amoonguss used Rage Powder on Amoonguss
+p1: Hatterene used Expanding Force on Amoonguss
+p1: Araquanid used Waterfall on Amoonguss
+p2: Ninetales-Alola used Draining Kiss on Araquanid
+Turn 5:
+p2: Switched to Incineroar
+p1: Hatterene used Life Dew on Hatterene
+p1: Araquanid used Aqua Ring on Araquanid
+p2: Ninetales-Alola used Blizzard on Hatterene
+p1: Hatterene fainted
+p1: Switched to Tsareena
+Turn 6:
+p2: Switched to Amoonguss
+p1: Araquanid used Wide Guard on Araquanid
+p2: Incineroar failed to use Fake Out
+p1: Tsareena can't move
+p1: Tsareena used Knock Off on Amoonguss
+p1: Tsareena fainted
+p1: Switched to Ogerpon
+Turn 7:
+p2: Amoonguss used Rage Powder on Amoonguss
+p1: Ogerpon used Swords Dance on Ogerpon
+p2: Incineroar used Flare Blitz on Ogerpon
+p1: Ogerpon fainted
+p1: Araquanid used Waterfall on Amoonguss
+p1: Switched to Forretress
+Turn 8:
+p2: Switched to Iron Hands
+p1: Araquanid used Wide Guard on Araquanid
+p2: Incineroar used Flare Blitz on Forretress
+p1: Forretress used Earthquake on Iron Hands
+p2: Incineroar fainted
+p2: Switched to Kyurem
+Turn 9:
+p2: Iron Hands used Fake Out on Araquanid
+p2: Kyurem used Draco Meteor on Forretress
+p1: Forretress fainted
+p1: Araquanid can't move
+Turn 10:
+p2: Kyurem used Draco Meteor on Araquanid
+p1: Araquanid fainted

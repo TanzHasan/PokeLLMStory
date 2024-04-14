@@ -1,0 +1,132 @@
+p1: Switched to Starmie
+p2: Switched to Alakazam
+Turn 1:
+p1: Switched to Chansey
+p2: Alakazam used Thunder Wave on Chansey
+Turn 2:
+p2: Alakazam used Psychic on Chansey
+p1: Chansey can't move
+Turn 3:
+p2: Alakazam used Psychic on Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 4:
+p2: Alakazam used Psychic on Chansey
+p1: Chansey used Ice Beam on Alakazam
+Turn 5:
+p2: Alakazam used Psychic on Chansey
+p1: Chansey can't move
+Turn 6:
+p2: Alakazam used Psychic on Chansey
+p1: Chansey used Soft-Boiled on Chansey
+Turn 7:
+p1: Switched to Starmie
+p2: Alakazam used Psychic on Starmie
+Turn 8:
+p1: Switched to Exeggutor
+p2: Alakazam used Psychic on Exeggutor
+Turn 9:
+p2: Alakazam used Thunder Wave on Exeggutor
+p1: Exeggutor used Sleep Powder on Alakazam
+Turn 10:
+p1: Switched to Tauros
+p2: Alakazam can't move
+Turn 11:
+p2: Switched to Gengar
+p1: Tauros used Body Slam on Gengar
+Turn 12:
+p1: Switched to Exeggutor
+p2: Switched to Snorlax
+Turn 13:
+p2: Snorlax used Body Slam on Exeggutor
+p1: Exeggutor can't move
+Turn 14:
+p2: Snorlax used Body Slam on Exeggutor
+p1: Exeggutor used Explosion on Snorlax
+p1: Exeggutor fainted
+p1: Switched to Tauros
+Turn 15:
+p2: Switched to Exeggutor
+p1: Tauros used Earthquake on Exeggutor
+Turn 16:
+p1: Switched to Chansey
+p2: Exeggutor used Psychic on Chansey
+Turn 17:
+p2: Switched to Snorlax
+p1: Chansey used Thunder Wave on Snorlax
+Turn 18:
+p1: Switched to Snorlax
+p2: Snorlax can't move
+Turn 19:
+p2: Switched to Gengar
+p1: Snorlax used Reflect on Snorlax
+Turn 20:
+p1: Switched to Chansey
+p2: Gengar used Psychic on Chansey
+Turn 21:
+p2: Switched to Snorlax
+p1: Chansey can't move
+Turn 22:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Snorlax used Body Slam on Chansey
+Turn 23:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Snorlax used Body Slam on Chansey
+Turn 24:
+p1: Chansey used Soft-Boiled on Chansey
+p2: Snorlax used Body Slam on Chansey
+Turn 25:
+p1: Chansey used Ice Beam on Snorlax
+p2: Snorlax can't move
+Turn 26:
+p1: Chansey can't move
+p2: Snorlax used Self-Destruct on Chansey
+p1: Chansey fainted
+p2: Snorlax fainted
+p1: Switched to Starmie
+p2: Switched to Zapdos
+Turn 27:
+p1: Starmie used Ice Beam on Zapdos
+p2: Zapdos used Thunderbolt on Starmie
+p1: Starmie fainted
+p1: Switched to Zapdos
+Turn 28:
+p2: Zapdos used Thunderbolt on Zapdos
+p1: Zapdos used Thunderbolt on Zapdos
+Turn 29:
+p2: Zapdos used Thunderbolt on Zapdos
+p1: Zapdos used Agility on Zapdos
+Turn 30:
+p1: Zapdos used Thunderbolt on Zapdos
+p2: Zapdos used Thunder Wave on Zapdos
+Turn 31:
+p2: Zapdos used Thunderbolt on Zapdos
+p1: Zapdos fainted
+p1: Switched to Tauros
+Turn 32:
+p2: Switched to Alakazam
+p1: Tauros used Blizzard on Alakazam
+Turn 33:
+p2: Alakazam can't move
+p1: Tauros used Hyper Beam on Alakazam
+p2: Alakazam fainted
+p2: Switched to Exeggutor
+Turn 34:
+p1: Tauros used Body Slam on Exeggutor
+p2: Exeggutor used Psychic on Tauros
+Turn 35:
+p1: Tauros used Hyper Beam on Exeggutor
+p2: Exeggutor used Explosion on Tauros
+p1: Tauros fainted
+p2: Exeggutor fainted
+p1: Switched to Snorlax
+p2: Switched to Zapdos
+Turn 36:
+p2: Zapdos used Thunderbolt on Snorlax
+p1: Snorlax used Ice Beam on Zapdos
+p2: Zapdos fainted
+p2: Switched to Gengar
+Turn 37:
+p2: Gengar used Explosion on Snorlax
+p2: Gengar fainted
+p2: Switched to Tauros
+Turn 38:

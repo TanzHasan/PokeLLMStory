@@ -1,0 +1,385 @@
+|j|☆totalb00ty
+|j|‽La.Hellhound
+|t:|1711938558
+|gametype|singles
+|player|p1|totalb00ty|linebacker|1621
+|player|p2|La.Hellhound|bruno|1804
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711938558
+|start
+|switch|p1a: Reuniclus|Reuniclus, L85, M|326/326
+|switch|p2a: Aromatisse|Aromatisse, L89, F|325/325
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by La.Hellhound)
+|inactive|totalb00ty also wants the timer to be on.
+|inactive|La.Hellhound has 120 seconds left.
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711938633
+|move|p2a: Aromatisse|Calm Mind|p2a: Aromatisse
+|-boost|p2a: Aromatisse|spa|1
+|-boost|p2a: Aromatisse|spd|1
+|move|p1a: Reuniclus|Psyshock|p2a: Aromatisse
+|-damage|p2a: Aromatisse|165/325
+|
+|-heal|p2a: Aromatisse|185/325|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711938642
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Reuniclus|Psyshock|p2a: Aromatisse
+|-activate|p2a: Aromatisse|move: Protect
+|
+|-heal|p2a: Aromatisse|205/325|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711938649
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|move|p1a: Reuniclus|Psyshock|p2a: Aromatisse
+|-damage|p2a: Aromatisse|63/325
+|
+|-heal|p2a: Aromatisse|83/325|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711938658
+|move|p2a: Aromatisse|Protect|p2a: Aromatisse
+|-singleturn|p2a: Aromatisse|Protect
+|move|p1a: Reuniclus|Shadow Ball|p2a: Aromatisse
+|-activate|p2a: Aromatisse|move: Protect
+|
+|-heal|p2a: Aromatisse|245/325|[from] move: Wish|[wisher] Aromatisse
+|-heal|p2a: Aromatisse|265/325|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711938669
+|move|p2a: Aromatisse|Moonblast|p1a: Reuniclus
+|-damage|p1a: Reuniclus|142/326
+|-unboost|p1a: Reuniclus|spa|1
+|move|p1a: Reuniclus|Psyshock|p2a: Aromatisse
+|-damage|p2a: Aromatisse|168/325
+|
+|-heal|p2a: Aromatisse|188/325|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711938679
+|move|p2a: Aromatisse|Moonblast|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|-heal|p2a: Aromatisse|208/325|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938686
+|switch|p1a: Toxicroak|Toxicroak, L82, F|253/253
+|turn|7
+|
+|t:|1711938699
+|switch|p2a: Rotom|Rotom-Wash, L80|211/211
+|move|p1a: Toxicroak|Substitute|p1a: Toxicroak
+|-start|p1a: Toxicroak|Substitute
+|-damage|p1a: Toxicroak|190/253
+|
+|-heal|p1a: Toxicroak|205/253|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1711938712
+|move|p2a: Rotom|Volt Switch|p1a: Toxicroak
+|-end|p1a: Toxicroak|Substitute
+|
+|t:|1711938720
+|switch|p2a: Emboar|Emboar, L84, F|322/322|[from] Volt Switch
+|move|p1a: Toxicroak|Gunk Shot|p2a: Emboar
+|-damage|p2a: Emboar|169/322
+|
+|-heal|p1a: Toxicroak|220/253|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1711938733
+|switch|p1a: Uxie|Uxie, L82|257/257
+|move|p2a: Emboar|Flare Blitz|p1a: Uxie
+|-damage|p1a: Uxie|62/257
+|-damage|p2a: Emboar|105/322|[from] Recoil
+|
+|-heal|p1a: Uxie|78/257|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711938752
+|switch|p2a: Blissey|Blissey, L84, F|566/566
+|move|p1a: Uxie|Yawn|p2a: Blissey
+|-start|p2a: Blissey|move: Yawn|[of] p1a: Uxie
+|
+|-heal|p1a: Uxie|94/257|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1711938762
+|switch|p1a: Toxicroak|Toxicroak, L82, F|220/253
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Toxicroak|235/253|[from] item: Black Sludge
+|-end|p2a: Blissey|move: Yawn|[silent]
+|-status|p2a: Blissey|slp
+|upkeep
+|turn|12
+|
+|t:|1711938770
+|-curestatus|p2a: Blissey|slp|[from] ability: Natural Cure
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|
+|-heal|p1a: Toxicroak|250/253|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1711938779
+|move|p2a: Noivern|Hurricane|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1711938788
+|switch|p1a: Blastoise|Blastoise, L82, M|264/264
+|turn|14
+|
+|t:|1711938796
+|switch|p2a: Blissey|Blissey, L84, F|566/566
+|detailschange|p1a: Blastoise|Blastoise-Mega, L82, M
+|-mega|p1a: Blastoise|Blastoise|Blastoisinite
+|move|p1a: Blastoise|Scald|p2a: Blissey
+|-damage|p2a: Blissey|497/566
+|
+|-heal|p2a: Blissey|532/566|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711938808
+|switch|p1a: Spinda|Spinda, L97, F|273/273
+|move|p2a: Blissey|Toxic|p1a: Spinda
+|-status|p1a: Spinda|tox
+|
+|-heal|p2a: Blissey|566/566|[from] item: Leftovers
+|-damage|p1a: Spinda|256/273 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1711938816
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Spinda|Superpower|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|-heal|p1a: Spinda|273/273 tox|[from] item: Leftovers
+|-damage|p1a: Spinda|239/273 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1711938841
+|switch|p1a: Uxie|Uxie, L82|94/257
+|switch|p2a: Aromatisse|Aromatisse, L89, F|208/325
+|
+|-heal|p1a: Uxie|110/257|[from] item: Leftovers
+|-heal|p2a: Aromatisse|228/325|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711938850
+|move|p1a: Uxie|Heal Bell|p1a: Uxie
+|-activate|p1a: Uxie|move: Heal Bell
+|-curestatus|p1: Spinda|tox|[msg]
+|move|p2a: Aromatisse|Moonblast|p1a: Uxie
+|-damage|p1a: Uxie|25/257
+|-unboost|p1a: Uxie|spa|1
+|
+|-heal|p1a: Uxie|41/257|[from] item: Leftovers
+|-heal|p2a: Aromatisse|248/325|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1711938865
+|move|p1a: Uxie|Yawn|p2a: Aromatisse
+|-start|p2a: Aromatisse|move: Yawn|[of] p1a: Uxie
+|move|p2a: Aromatisse|Wish|p2a: Aromatisse
+|
+|-heal|p1a: Uxie|57/257|[from] item: Leftovers
+|-heal|p2a: Aromatisse|268/325|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711938883
+|switch|p2a: Rotom|Rotom-Wash, L80|211/211
+|move|p1a: Uxie|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|175/211
+|
+|t:|1711938892
+|switch|p1a: Sceptile|Sceptile, L85, M|240/240|[from] U-turn
+|
+|-heal|p2a: Rotom|211/211|[from] move: Wish|[wisher] Aromatisse
+|upkeep
+|turn|21
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711938936
+|move|p2a: Rotom|Volt Switch|p1a: Sceptile
+|-resisted|p1a: Sceptile
+|-damage|p1a: Sceptile|202/240
+|
+|t:|1711938940
+|switch|p2a: Blissey|Blissey, L84, F|566/566|[from] Volt Switch
+|move|p1a: Sceptile|Substitute|p1a: Sceptile
+|-start|p1a: Sceptile|Substitute
+|-damage|p1a: Sceptile|142/240
+|
+|-heal|p1a: Sceptile|157/240|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711938950
+|move|p1a: Sceptile|Leech Seed|p2a: Blissey
+|-start|p2a: Blissey|move: Leech Seed
+|move|p2a: Blissey|Seismic Toss|p1a: Sceptile
+|-end|p1a: Sceptile|Substitute
+|
+|-heal|p1a: Sceptile|172/240|[from] item: Leftovers
+|-damage|p2a: Blissey|496/566|[from] Leech Seed|[of] p1a: Sceptile
+|-heal|p1a: Sceptile|240/240|[silent]
+|upkeep
+|turn|23
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711938959
+|switch|p2a: Rotom|Rotom-Wash, L80|211/211
+|move|p1a: Sceptile|Substitute|p1a: Sceptile
+|-start|p1a: Sceptile|Substitute
+|-damage|p1a: Sceptile|180/240
+|
+|-heal|p1a: Sceptile|195/240|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711938966
+|move|p2a: Rotom|Volt Switch|p1a: Sceptile
+|-resisted|p1a: Sceptile
+|-activate|p1a: Sceptile|move: Substitute|[damage]
+|
+|t:|1711938971
+|switch|p2a: Blissey|Blissey, L84, F|496/566|[from] Volt Switch
+|move|p1a: Sceptile|Giga Drain|p2a: Blissey
+|-damage|p2a: Blissey|430/566
+|-heal|p1a: Sceptile|228/240|[from] drain|[of] p2a: Blissey
+|
+|-heal|p1a: Sceptile|240/240|[from] item: Leftovers
+|-heal|p2a: Blissey|465/566|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711938983
+|move|p1a: Sceptile|Leech Seed|p2a: Blissey|[miss]
+|-miss|p1a: Sceptile|p2a: Blissey
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p2a: Blissey|500/566|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711938989
+|switch|p2a: Noivern|Noivern, L82, F|274/274
+|move|p1a: Sceptile|Leech Seed|p2a: Noivern
+|-start|p2a: Noivern|move: Leech Seed
+|
+|-damage|p2a: Noivern|240/274|[from] Leech Seed|[of] p1a: Sceptile
+|upkeep
+|turn|27
+|
+|t:|1711939009
+|move|p1a: Sceptile|Hidden Power|p2a: Noivern
+|-resisted|p2a: Noivern
+|-damage|p2a: Noivern|212/274
+|move|p2a: Noivern|Hurricane|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-crit|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|upkeep
+|
+|t:|1711939019
+|switch|p1a: Blastoise|Blastoise-Mega, L82, M|264/264
+|turn|28
+|
+|t:|1711939022
+|switch|p2a: Blissey|Blissey, L84, F|500/566
+|switch|p1a: Spinda|Spinda, L97, F|239/273
+|
+|-heal|p1a: Spinda|256/273|[from] item: Leftovers
+|-heal|p2a: Blissey|535/566|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711939032
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Spinda|Superpower|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|-heal|p1a: Spinda|273/273|[from] item: Leftovers
+|-heal|p2a: Blissey|566/566|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711939066
+|switch|p2a: Noivern|Noivern, L82, F|212/274
+|move|p1a: Spinda|Superpower|p2a: Noivern
+|-resisted|p2a: Noivern
+|-damage|p2a: Noivern|168/274
+|-boost|p1a: Spinda|atk|1
+|-boost|p1a: Spinda|def|1
+|
+|upkeep
+|turn|31
+|
+|t:|1711939076
+|move|p2a: Noivern|Draco Meteor|p1a: Spinda
+|-damage|p1a: Spinda|50/273
+|-unboost|p2a: Noivern|spa|2
+|move|p1a: Spinda|Return|p2a: Noivern
+|-damage|p2a: Noivern|2/274
+|
+|-heal|p1a: Spinda|67/273|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711939086
+|move|p2a: Noivern|Draco Meteor|p1a: Spinda
+|-damage|p1a: Spinda|0 fnt
+|-unboost|p2a: Noivern|spa|2
+|faint|p1a: Spinda
+|
+|upkeep
+|-message|totalb00ty forfeited.
+|
+|win|La.Hellhound
+|raw|totalb00ty's rating: 1621 &rarr; <strong>1611</strong><br />(-10 for losing)
+|raw|La.Hellhound's rating: 1804 &rarr; <strong>1814</strong><br />(+10 for winning)
+|l|☆totalb00ty
+|player|p1|

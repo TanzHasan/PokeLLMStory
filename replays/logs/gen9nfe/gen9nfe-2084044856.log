@@ -1,0 +1,377 @@
+|j|☆King_of_compote
+|j|☆cluntnpoop
+|t:|1710809735
+|gametype|singles
+|player|p1|King_of_compote|169|
+|player|p2|cluntnpoop|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Koffing, M|
+|poke|p1|Frogadier, F|
+|poke|p1|Piloswine, M|
+|poke|p1|Murkrow, F|
+|poke|p1|Torracat, M|
+|poke|p1|Seadra, M|
+|poke|p2|Raboot, M|
+|poke|p2|Floragato, F|
+|poke|p2|Arctibax, F|
+|poke|p2|Wartortle, M|
+|poke|p2|Sliggoo-Hisui, F|
+|poke|p2|Misdreavus, M|
+|teampreview
+|j| mcmuslim
+|
+|t:|1710809752
+|start
+|switch|p1a: 00-Sleven|Frogadier, F, shiny|100/100
+|switch|p2a: Booty Shaker|Wartortle, M|100/100
+|turn|1
+|
+|t:|1710809764
+|move|p1a: 00-Sleven|U-turn|p2a: Booty Shaker
+|-start|p1a: 00-Sleven|typechange|Bug|[from] ability: Protean
+|-damage|p2a: Booty Shaker|88/100
+|
+|t:|1710809779
+|switch|p1a: ChickenKiller|Murkrow, F, shiny|100/100|[from] U-turn
+|move|p2a: Booty Shaker|Shell Smash|p2a: Booty Shaker
+|-unboost|p2a: Booty Shaker|def|1
+|-unboost|p2a: Booty Shaker|spd|1
+|-boost|p2a: Booty Shaker|atk|2
+|-boost|p2a: Booty Shaker|spa|2
+|-boost|p2a: Booty Shaker|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1710809792
+|switch|p2a: Aunt Fanny|Sliggoo-Hisui, F, shiny|100/100
+|move|p1a: ChickenKiller|Haze|p1a: ChickenKiller
+|-clearallboost
+|
+|upkeep
+|turn|3
+|
+|t:|1710809818
+|move|p1a: ChickenKiller|Tailwind|p1a: ChickenKiller
+|-sidestart|p1: King_of_compote|move: Tailwind
+|move|p2a: Aunt Fanny|Draco Meteor|p1a: ChickenKiller
+|-damage|p1a: ChickenKiller|11/100
+|-unboost|p2a: Aunt Fanny|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1710809827
+|switch|p1a: Pile-o-pig|Piloswine, M, shiny|100/100
+|move|p2a: Aunt Fanny|Thunderbolt|p1a: Pile-o-pig
+|-immune|p1a: Pile-o-pig
+|
+|upkeep
+|turn|5
+|
+|t:|1710809845
+|switch|p2a: Big Man|Arctibax, F, shiny|100/100
+|move|p1a: Pile-o-pig|Stealth Rock|p2a: Big Man
+|-sidestart|p2: cluntnpoop|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1710809856
+|move|p1a: Pile-o-pig|Earthquake|p2a: Big Man
+|-damage|p2a: Big Man|57/100
+|-damage|p1a: Pile-o-pig|91/100|[from] item: Life Orb
+|move|p2a: Big Man|Iron Head|p1a: Pile-o-pig
+|-supereffective|p1a: Pile-o-pig
+|-damage|p1a: Pile-o-pig|40/100
+|
+|-sideend|p1: King_of_compote|move: Tailwind
+|upkeep
+|turn|7
+|
+|t:|1710809883
+|switch|p1a: Speedra|Seadra, M, shiny|100/100
+|move|p2a: Big Man|Swords Dance|p2a: Big Man
+|-boost|p2a: Big Man|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1710809892
+|move|p1a: Speedra|Agility|p1a: Speedra
+|-boost|p1a: Speedra|spe|2
+|move|p2a: Big Man|Avalanche|p1a: Speedra
+|-resisted|p1a: Speedra
+|-damage|p1a: Speedra|66/100
+|
+|upkeep
+|turn|9
+|
+|t:|1710809903
+|move|p1a: Speedra|Dragon Pulse|p2a: Big Man
+|-supereffective|p2a: Big Man
+|-damage|p2a: Big Man|0 fnt
+|faint|p2a: Big Man
+|
+|upkeep
+|
+|t:|1710809909
+|switch|p2a: Aunt Fanny|Sliggoo-Hisui, F, shiny|100/100
+|-damage|p2a: Aunt Fanny|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1710809916
+|move|p1a: Speedra|Dragon Pulse|p2a: Aunt Fanny
+|-damage|p2a: Aunt Fanny|75/100
+|move|p2a: Aunt Fanny|Draco Meteor|p1a: Speedra
+|-damage|p1a: Speedra|0 fnt
+|-unboost|p2a: Aunt Fanny|spa|2
+|faint|p1a: Speedra
+|
+|upkeep
+|
+|t:|1710809937
+|switch|p1a: Choking|Koffing, M, shiny|100/100
+|-ability|p1a: Choking|Neutralizing Gas
+|turn|11
+|
+|t:|1710809948
+|move|p2a: Aunt Fanny|Draco Meteor|p1a: Choking
+|-damage|p1a: Choking|58/100
+|-unboost|p2a: Aunt Fanny|spa|2
+|move|p1a: Choking|Toxic Spikes|p2a: Aunt Fanny
+|-sidestart|p2: cluntnpoop|move: Toxic Spikes
+|
+|upkeep
+|turn|12
+|
+|t:|1710809956
+|switch|p2a: Man in the Chair|Misdreavus, M|100/100
+|-damage|p2a: Man in the Chair|88/100|[from] Stealth Rock
+|-status|p2a: Man in the Chair|psn
+|move|p1a: Choking|Toxic Spikes|p2a: Man in the Chair
+|-sidestart|p2: cluntnpoop|move: Toxic Spikes
+|
+|-damage|p2a: Man in the Chair|76/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1710809973
+|-end|p1a: Choking|ability: Neutralizing Gas
+|switch|p1a: ChickenKiller|Murkrow, F, shiny|11/100
+|move|p2a: Man in the Chair|Substitute|p2a: Man in the Chair
+|-start|p2a: Man in the Chair|Substitute
+|-damage|p2a: Man in the Chair|51/100 psn
+|
+|-damage|p2a: Man in the Chair|39/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1710809991
+|move|p1a: ChickenKiller|Dark Pulse|p2a: Man in the Chair
+|-supereffective|p2a: Man in the Chair
+|-end|p2a: Man in the Chair|Substitute
+|move|p2a: Man in the Chair|Draining Kiss|p1a: ChickenKiller
+|-supereffective|p1a: ChickenKiller
+|-damage|p1a: ChickenKiller|0 fnt
+|-heal|p2a: Man in the Chair|47/100 psn|[from] drain|[of] p1a: ChickenKiller
+|faint|p1a: ChickenKiller
+|
+|-damage|p2a: Man in the Chair|35/100 psn|[from] psn
+|upkeep
+|
+|t:|1710810001
+|switch|p1a: Pile-o-pig|Piloswine, M, shiny|40/100
+|turn|15
+|
+|t:|1710810010
+|move|p1a: Pile-o-pig|Protect|p1a: Pile-o-pig
+|-singleturn|p1a: Pile-o-pig|Protect
+|move|p2a: Man in the Chair|Shadow Ball|p1a: Pile-o-pig
+|-activate|p1a: Pile-o-pig|move: Protect
+|
+|-damage|p2a: Man in the Chair|23/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1710810019
+|move|p1a: Pile-o-pig|Ice Shard|p2a: Man in the Chair
+|-damage|p2a: Man in the Chair|0 fnt
+|faint|p2a: Man in the Chair
+|-damage|p1a: Pile-o-pig|30/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1710810031
+|switch|p2a: Aunt Fanny|Sliggoo-Hisui, F, shiny|75/100
+|-damage|p2a: Aunt Fanny|69/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1710810043
+|move|p1a: Pile-o-pig|Ice Shard|p2a: Aunt Fanny
+|-damage|p2a: Aunt Fanny|45/100
+|-damage|p1a: Pile-o-pig|21/100|[from] item: Life Orb
+|move|p2a: Aunt Fanny|Draco Meteor|p1a: Pile-o-pig
+|-damage|p1a: Pile-o-pig|0 fnt
+|-unboost|p2a: Aunt Fanny|spa|2
+|faint|p1a: Pile-o-pig
+|
+|upkeep
+|j| Bigbill36321
+|
+|t:|1710810051
+|switch|p1a: Whitey Ford|Torracat, M, shiny|100/100
+|-ability|p1a: Whitey Ford|Intimidate|boost
+|-unboost|p2a: Aunt Fanny|atk|1
+|turn|18
+|
+|t:|1710810071
+|move|p1a: Whitey Ford|Flare Blitz|p2a: Aunt Fanny
+|-damage|p2a: Aunt Fanny|0 fnt
+|faint|p2a: Aunt Fanny
+|-damage|p1a: Whitey Ford|87/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1710810080
+|switch|p2a: Booty Shaker|Wartortle, M|88/100
+|-damage|p2a: Booty Shaker|75/100|[from] Stealth Rock
+|-status|p2a: Booty Shaker|tox
+|turn|19
+|
+|t:|1710810090
+|move|p1a: Whitey Ford|Taunt|p2a: Booty Shaker
+|-start|p2a: Booty Shaker|move: Taunt
+|cant|p2a: Booty Shaker|move: Taunt|Shell Smash
+|
+|-damage|p2a: Booty Shaker|69/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1710810104
+|move|p1a: Whitey Ford|U-turn|p2a: Booty Shaker
+|-damage|p2a: Booty Shaker|50/100 tox
+|
+|t:|1710810108
+|switch|p1a: Choking|Koffing, M, shiny|58/100|[from] U-turn
+|-ability|p1a: Choking|Neutralizing Gas
+|move|p2a: Booty Shaker|Surf|p1a: Choking
+|-damage|p1a: Choking|6/100
+|
+|-damage|p2a: Booty Shaker|38/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1710810118
+|move|p1a: Choking|Protect|p1a: Choking
+|-singleturn|p1a: Choking|Protect
+|move|p2a: Booty Shaker|Aqua Jet|p1a: Choking
+|-activate|p1a: Choking|move: Protect
+|
+|-damage|p2a: Booty Shaker|19/100 tox|[from] psn
+|-end|p2a: Booty Shaker|move: Taunt
+|upkeep
+|turn|22
+|
+|t:|1710810129
+|move|p2a: Booty Shaker|Aqua Jet|p1a: Choking
+|-damage|p1a: Choking|1/100
+|move|p1a: Choking|Gunk Shot|p2a: Booty Shaker
+|-damage|p2a: Booty Shaker|0 fnt
+|faint|p2a: Booty Shaker
+|
+|upkeep
+|
+|t:|1710810139
+|switch|p2a: Grass Lady|Floragato, F|100/100
+|-damage|p2a: Grass Lady|88/100|[from] Stealth Rock
+|-status|p2a: Grass Lady|tox
+|turn|23
+|
+|t:|1710810153
+|move|p1a: Choking|Protect|p1a: Choking
+|-singleturn|p1a: Choking|Protect
+|move|p2a: Grass Lady|Play Rough|p1a: Choking
+|-activate|p1a: Choking|move: Protect
+|
+|-damage|p2a: Grass Lady|82/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1710810164
+|move|p2a: Grass Lady|Play Rough|p1a: Choking
+|-resisted|p1a: Choking
+|-damage|p1a: Choking|0 fnt
+|faint|p1a: Choking
+|-end|p1a: Choking|ability: Neutralizing Gas
+|
+|-damage|p2a: Grass Lady|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1710810181
+|switch|p1a: 00-Sleven|Frogadier, F, shiny|100/100
+|turn|25
+|
+|t:|1710810186
+|move|p1a: 00-Sleven|U-turn|p2a: Grass Lady
+|-start|p1a: 00-Sleven|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Grass Lady
+|-damage|p2a: Grass Lady|11/100 tox
+|
+|t:|1710810191
+|switch|p1a: Whitey Ford|Torracat, M, shiny|87/100|[from] U-turn
+|-ability|p1a: Whitey Ford|Intimidate|boost
+|-unboost|p2a: Grass Lady|atk|1
+|move|p2a: Grass Lady|Play Rough|p1a: Whitey Ford
+|-start|p2a: Grass Lady|typechange|Fairy|[from] ability: Protean
+|-resisted|p1a: Whitey Ford
+|-damage|p1a: Whitey Ford|51/100
+|
+|-damage|p2a: Grass Lady|0 fnt|[from] psn
+|faint|p2a: Grass Lady
+|upkeep
+|
+|t:|1710810205
+|switch|p2a: Petr Cottonovski|Raboot, M|100/100
+|-damage|p2a: Petr Cottonovski|76/100|[from] Stealth Rock
+|-status|p2a: Petr Cottonovski|tox
+|turn|26
+|
+|t:|1710810212
+|move|p2a: Petr Cottonovski|Sucker Punch|p1a: Whitey Ford
+|-start|p2a: Petr Cottonovski|typechange|Dark|[from] ability: Libero
+|-damage|p1a: Whitey Ford|0 fnt
+|faint|p1a: Whitey Ford
+|-damage|p2a: Petr Cottonovski|66/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Petr Cottonovski|60/100 tox|[from] psn
+|upkeep
+|
+|t:|1710810220
+|switch|p1a: 00-Sleven|Frogadier, F, shiny|100/100
+|turn|27
+|
+|t:|1710810313
+|move|p2a: Petr Cottonovski|Sucker Punch|p1a: 00-Sleven
+|-damage|p1a: 00-Sleven|21/100
+|-damage|p2a: Petr Cottonovski|50/100 tox|[from] item: Life Orb
+|move|p1a: 00-Sleven|U-turn|p2a: Petr Cottonovski
+|-start|p1a: 00-Sleven|typechange|Bug|[from] ability: Protean
+|-supereffective|p2a: Petr Cottonovski
+|-damage|p2a: Petr Cottonovski|0 fnt
+|faint|p2a: Petr Cottonovski
+|
+|win|King_of_compote
+|l|☆cluntnpoop
+|player|p2|

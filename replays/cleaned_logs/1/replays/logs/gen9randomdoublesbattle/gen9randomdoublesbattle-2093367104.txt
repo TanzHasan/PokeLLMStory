@@ -1,0 +1,72 @@
+p1: Switched to Tauros-Paldea-Combat
+p1: Switched to Shaymin-Sky
+p2: Switched to Leavanny
+p2: Switched to Necrozma-Dusk-Mane
+Turn 1:
+p1: Shaymin-Sky used Air Slash on Leavanny
+p2: Leavanny fainted
+p1: Tauros-Paldea-Combat used Bulk Up on Tauros-Paldea-Combat
+p2: Necrozma-Dusk-Mane used Photon Geyser on Tauros-Paldea-Combat
+p2: Switched to Vivillon-Elegant
+Turn 2:
+p1: Tauros-Paldea-Combat used Protect on Tauros-Paldea-Combat
+p2: Vivillon-Elegant used Protect on Vivillon-Elegant
+p1: Shaymin-Sky used Air Slash on Vivillon-Elegant
+p2: Necrozma-Dusk-Mane used Trick Room on Necrozma-Dusk-Mane
+Turn 3:
+p1: Shaymin-Sky used Protect on Shaymin-Sky
+p2: Necrozma-Dusk-Mane used Photon Geyser on Tauros-Paldea-Combat
+p1: Tauros-Paldea-Combat fainted
+p2: Vivillon-Elegant used Hurricane on Shaymin-Sky
+p1: Switched to Whiscash
+Turn 4:
+p1: Switched to Mudsdale
+p2: Necrozma-Dusk-Mane used Photon Geyser on Whiscash
+p1: Whiscash used Muddy Water on Necrozma-Dusk-Mane
+p2: Vivillon-Elegant used Hurricane on Mudsdale
+Turn 5:
+p2: Switched to Malamar
+p1: Mudsdale used High Horsepower on Necrozma-Dusk-Mane
+p1: Whiscash used Muddy Water on Malamar
+p2: Necrozma-Dusk-Mane used Trick Room on Necrozma-Dusk-Mane
+Turn 6:
+p1: Whiscash used Icy Wind on Necrozma-Dusk-Mane
+p2: Malamar used Knock Off on Whiscash
+p1: Mudsdale used High Horsepower on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane fainted
+p2: Switched to Inteleon
+Turn 7:
+p1: Switched to Shaymin-Sky
+p2: Inteleon used Ice Beam on Shaymin-Sky
+p1: Shaymin-Sky fainted
+p2: Malamar used Superpower on Whiscash
+p1: Whiscash fainted
+p1: Switched to Glimmora
+p1: Switched to Masquerain
+Turn 8:
+p1: Glimmora used Spiky Shield on Glimmora
+p2: Inteleon used Ice Beam on Masquerain
+p1: Masquerain used Bug Buzz on Malamar
+p2: Malamar fainted
+p2: Switched to Vivillon-Elegant
+Turn 9:
+p2: Switched to Emboar
+p2: Vivillon-Elegant used Hurricane on Masquerain
+p1: Masquerain used Quiver Dance on Masquerain
+p1: Glimmora failed to use Meteor Beam
+Turn 10:
+p1: Masquerain used Hydro Pump on Vivillon-Elegant
+p2: Vivillon-Elegant fainted
+p1: Glimmora used Earth Power on Emboar
+p2: Emboar used Knock Off on Masquerain
+p1: Masquerain fainted
+p2: Switched to Inteleon
+p1: Switched to Mudsdale
+Turn 11:
+p1: Glimmora used Spiky Shield on Glimmora
+p2: Inteleon used Scald on Mudsdale
+p1: Mudsdale fainted
+p2: Emboar used Knock Off on Glimmora
+Turn 12:
+p2: Inteleon used Scald on Glimmora
+p1: Glimmora fainted

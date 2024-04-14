@@ -1,0 +1,76 @@
+p1: Switched to Dragapult
+p2: Switched to Glimmora
+Turn 1:
+p1: Dragapult used Shadow Ball on Glimmora
+p2: Glimmora used Mud Shot on Dragapult
+Turn 2:
+p2: Glimmora used Stealth Rock on Dragapult
+p1: Dragapult used Shadow Ball on Glimmora
+p2: Glimmora fainted
+p2: Switched to Roaring Moon
+Turn 3:
+p1: Switched to Zamazenta
+p2: Roaring Moon used Dragon Dance on Roaring Moon
+Turn 4:
+p2: Roaring Moon used Knock Off on Zamazenta
+p1: Zamazenta used Body Press on Roaring Moon
+Turn 5:
+p2: Roaring Moon used Acrobatics on Zamazenta
+p1: Zamazenta fainted
+p1: Switched to Kingambit
+Turn 6:
+p1: Kingambit used Sucker Punch on Roaring Moon
+p2: Roaring Moon fainted
+p2: Switched to Enamorus
+Turn 7:
+p2: Enamorus used Moonblast on Kingambit
+p1: Kingambit fainted
+p1: Switched to Cinderace
+Turn 8:
+p2: Switched to Pecharunt
+p1: Cinderace used Pyro Ball on Pecharunt
+Turn 9:
+p1: Cinderace used Pyro Ball on Pecharunt
+p2: Pecharunt used Malignant Chain on Cinderace
+Turn 10:
+p1: Cinderace used Pyro Ball on Pecharunt
+p2: Pecharunt fainted
+p2: Switched to Iron Valiant
+Turn 11:
+p2: Iron Valiant used Swords Dance on Iron Valiant
+p1: Cinderace used Court Change on Cinderace
+Turn 12:
+p2: Iron Valiant used Knock Off on Cinderace
+p1: Cinderace fainted
+p1: Switched to Enamorus
+Turn 13:
+p2: Iron Valiant used Moonblast on Enamorus
+p1: Enamorus used Moonblast on Iron Valiant
+p2: Iron Valiant fainted
+p2: Switched to Enamorus
+Turn 14:
+p1: Enamorus used Moonblast on Enamorus
+p2: Enamorus used Moonblast on Enamorus
+p1: Enamorus fainted
+p1: Switched to Dragapult
+Turn 15:
+p1: Dragapult used Fire Blast on Enamorus
+p2: Enamorus fainted
+p2: Switched to Kingambit
+Turn 16:
+p2: Kingambit used Sucker Punch on Dragapult
+p1: Dragapult fainted
+p1: Switched to Latias
+Turn 17:
+p2: Kingambit failed to use Sucker Punch
+p1: Latias used Calm Mind on Latias
+Turn 18:
+p2: Kingambit used Sucker Punch on Latias
+p1: Latias used Thunderbolt on Kingambit
+Turn 19:
+p1: Latias used Recover on Latias
+p2: Kingambit used Iron Head on Latias
+Turn 20:
+p1: Latias used Recover on Latias
+p2: Kingambit used Iron Head on Latias
+p1: Latias fainted

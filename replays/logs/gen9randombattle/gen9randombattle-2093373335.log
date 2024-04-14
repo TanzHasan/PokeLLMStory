@@ -1,0 +1,502 @@
+|j|☆discountedpokeball
+|j|☆gerdhard
+|t:|1711946499
+|gametype|singles
+|player|p1|discountedpokeball|waitress-gen4|1182
+|player|p2|gerdhard|169|1222
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946499
+|start
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L82, F|339/339
+|switch|p2a: Arceus|Arceus-Psychic, L69|280/280
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by discountedpokeball)
+|inactive|gerdhard has 120 seconds left.
+|
+|t:|1711946534
+|move|p2a: Arceus|Cosmic Power|p2a: Arceus
+|-boost|p2a: Arceus|def|1
+|-boost|p2a: Arceus|spd|1
+|move|p1a: Dudunsparce|Glare|p2a: Arceus
+|-status|p2a: Arceus|par
+|
+|upkeep
+|turn|2
+|
+|t:|1711946549
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|231/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1711946555
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|185/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1711946561
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|143/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|5
+|
+|t:|1711946567
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|95/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|6
+|
+|t:|1711946574
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|50/280 par
+|move|p2a: Arceus|Recover|p2a: Arceus
+|-heal|p2a: Arceus|190/280 par
+|
+|upkeep
+|turn|7
+|
+|t:|1711946583
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|145/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|8
+|
+|t:|1711946588
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|97/280 par
+|cant|p2a: Arceus|par
+|
+|upkeep
+|turn|9
+|
+|t:|1711946594
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-damage|p2a: Arceus|54/280 par
+|cant|p2a: Arceus|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1711946602
+|move|p1a: Dudunsparce|Headbutt|p2a: Arceus
+|-crit|p2a: Arceus
+|-damage|p2a: Arceus|0 fnt
+|faint|p2a: Arceus
+|
+|upkeep
+|
+|t:|1711946609
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|turn|11
+|
+|t:|1711946619
+|switch|p1a: Heatran|Heatran, L79, F|273/273
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Heatran
+|-status|p1a: Heatran|par
+|
+|upkeep
+|turn|12
+|
+|t:|1711946634
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|move|p1a: Heatran|Stealth Rock|p2a: Cramorant
+|-sidestart|p2: gerdhard|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711946666
+|switch|p1a: Palossand|Palossand, L88, F|293/293
+|move|p2a: Cramorant|Surf|p1a: Palossand
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|89/293
+|-ability|p1a: Palossand|Water Compaction|boost
+|-boost|p1a: Palossand|def|2
+|
+|-heal|p1a: Palossand|107/293|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711946677
+|move|p2a: Cramorant|Surf|p1a: Palossand
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|0 fnt
+|faint|p1a: Palossand
+|
+|upkeep
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711946687
+|switch|p1a: Torterra|Torterra, L79, M|280/280
+|turn|15
+|inactive|discountedpokeball has 120 seconds left.
+|l|☆gerdhard
+|inactive|gerdhard disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|gerdhard has 30 seconds to reconnect!
+|inactive|gerdhard has 20 seconds to reconnect!
+|inactive|gerdhard has 15 seconds to reconnect!
+|inactive|gerdhard has 10 seconds to reconnect!
+|inactive|gerdhard has 5 seconds to reconnect!
+|j|☆gerdhard
+|inactive|gerdhard reconnected and has 75 seconds left.
+|player|p2|gerdhard|169
+|
+|t:|1711946772
+|switch|p2a: Dipplin|Dipplin, L88, M|284/284
+|-damage|p2a: Dipplin|249/284|[from] Stealth Rock
+|switch|p1a: Heatran|Heatran, L79, F|273/273 par
+|-item|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|16
+|inactive|gerdhard has 60 seconds left.
+|
+|t:|1711946799
+|switch|p2a: Diancie|Diancie, L82|216/216
+|-damage|p2a: Diancie|189/216|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|150/216
+|-activate|p2a: Diancie|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Diancie|163/216|[from] item: Leftovers
+|-damage|p2a: Diancie|136/216|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1711946819
+|move|p2a: Diancie|Earth Power|p1a: Heatran
+|-immune|p1a: Heatran
+|move|p1a: Heatran|Flash Cannon|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|faint|p2a: Diancie
+|
+|upkeep
+|
+|t:|1711946832
+|switch|p2a: Cramorant|Cramorant, L86, F|261/261
+|turn|18
+|
+|t:|1711946837
+|move|p2a: Cramorant|Surf|p1a: Heatran
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|103/273 par
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Magma Storm|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|208/261
+|-activate|p2a: Cramorant|move: Magma Storm|[of] p1a: Heatran
+|-damage|p1a: Heatran|35/273 par|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Heatran|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|
+|-damage|p2a: Cramorant|176/261|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1711946852
+|move|p2a: Cramorant|Surf|p1a: Heatran
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Cramorant|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711946879
+|switch|p1a: Torterra|Torterra, L79, M|280/280
+|turn|20
+|inactive|discountedpokeball has 120 seconds left.
+|inactive|gerdhard has 60 seconds left.
+|
+|t:|1711946904
+|switch|p2a: Mesprit|Mesprit, L85|275/275
+|-damage|p2a: Mesprit|241/275|[from] Stealth Rock
+|move|p1a: Torterra|Bullet Seed|p2a: Mesprit
+|-damage|p2a: Mesprit|219/275
+|-damage|p2a: Mesprit|197/275
+|-damage|p2a: Mesprit|175/275
+|-damage|p2a: Mesprit|154/275
+|-damage|p2a: Mesprit|133/275
+|-hitcount|p2a: Mesprit|5
+|
+|upkeep
+|turn|21
+|
+|t:|1711946920
+|move|p2a: Mesprit|Ice Beam|p1a: Torterra
+|-supereffective|p1a: Torterra
+|-damage|p1a: Torterra|0 fnt
+|faint|p1a: Torterra
+|
+|upkeep
+|
+|t:|1711946926
+|switch|p1a: Roaring Moon|Roaring Moon, L73|274/274
+|turn|22
+|inactive|gerdhard has 60 seconds left.
+|
+|t:|1711946947
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|293/293
+|-damage|p2a: Grimmsnarl|257/293|[from] Stealth Rock
+|move|p1a: Roaring Moon|Knock Off|p2a: Grimmsnarl
+|-resisted|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|205/293
+|-enditem|p2a: Grimmsnarl|Leftovers|[from] move: Knock Off|[of] p1a: Roaring Moon
+|
+|upkeep
+|turn|23
+|
+|t:|1711946960
+|-end|p1a: Roaring Moon|Protosynthesis|[silent]
+|switch|p1a: Dudunsparce|Dudunsparce-Three-Segment, L82, F|339/339
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Dudunsparce|[miss]
+|-miss|p2a: Grimmsnarl|p1a: Dudunsparce
+|
+|upkeep
+|turn|24
+|
+|t:|1711946970
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|246/339
+|-unboost|p1a: Dudunsparce|spa|1
+|move|p1a: Dudunsparce|Glare|p2a: Grimmsnarl
+|-status|p2a: Grimmsnarl|par
+|
+|-heal|p1a: Dudunsparce|267/339|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711946988
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Dudunsparce
+|-status|p1a: Dudunsparce|par
+|cant|p1a: Dudunsparce|par
+|
+|-heal|p1a: Dudunsparce|288/339 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711946999
+|move|p2a: Grimmsnarl|Throat Chop|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|182/339 par
+|-start|p1a: Dudunsparce|Throat Chop|[silent]
+|move|p1a: Dudunsparce|Headbutt|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|111/293 par
+|
+|-heal|p1a: Dudunsparce|203/339 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1711947016
+|move|p2a: Grimmsnarl|Spirit Break|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|97/339 par
+|-unboost|p1a: Dudunsparce|spa|1
+|move|p1a: Dudunsparce|Roost|p1a: Dudunsparce
+|-heal|p1a: Dudunsparce|267/339 par
+|-singleturn|p1a: Dudunsparce|move: Roost
+|
+|-heal|p1a: Dudunsparce|288/339 par|[from] item: Leftovers
+|-end|p1a: Dudunsparce|Throat Chop|[silent]
+|upkeep
+|turn|28
+|inactive|gerdhard has 30 seconds left.
+|inactive|gerdhard has 20 seconds left.
+|
+|t:|1711947042
+|switch|p2a: Mesprit|Mesprit, L85|133/275
+|-damage|p2a: Mesprit|99/275|[from] Stealth Rock
+|move|p1a: Dudunsparce|Headbutt|p2a: Mesprit
+|-damage|p2a: Mesprit|33/275
+|
+|-heal|p1a: Dudunsparce|309/339 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|gerdhard has 30 seconds left this turn.
+|inactive|gerdhard has 20 seconds left.
+|
+|t:|1711947056
+|-terastallize|p2a: Mesprit|Fighting
+|move|p2a: Mesprit|Drain Punch|p1a: Dudunsparce
+|-supereffective|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|123/339 par
+|-heal|p2a: Mesprit|126/275|[from] drain|[of] p1a: Dudunsparce
+|move|p1a: Dudunsparce|Headbutt|p2a: Mesprit
+|-damage|p2a: Mesprit|65/275
+|
+|-heal|p1a: Dudunsparce|144/339 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|gerdhard has 30 seconds left this turn.
+|inactive|gerdhard has 20 seconds left.
+|
+|t:|1711947070
+|move|p2a: Mesprit|Drain Punch|p1a: Dudunsparce
+|-supereffective|p1a: Dudunsparce
+|-damage|p1a: Dudunsparce|0 fnt
+|-heal|p2a: Mesprit|137/275|[from] drain|[of] p1a: Dudunsparce
+|faint|p1a: Dudunsparce
+|
+|upkeep
+|inactive|gerdhard has 25 seconds left this turn.
+|inactive|discountedpokeball has 120 seconds left.
+|
+|t:|1711947106
+|switch|p1a: Annihilape|Annihilape, L76, F|292/292
+|turn|31
+|inactive|gerdhard has 30 seconds left.
+|inactive|gerdhard has 20 seconds left.
+|inactive|gerdhard has 15 seconds left.
+|inactive|gerdhard has 10 seconds left.
+|inactive|discountedpokeball has 90 seconds left.
+|
+|t:|1711947139
+|switch|p2a: Dipplin|Dipplin, L88, M|249/284
+|-damage|p2a: Dipplin|214/284|[from] Stealth Rock
+|-terastallize|p1a: Annihilape|Ghost
+|move|p1a: Annihilape|Rage Fist|p2a: Dipplin
+|-damage|p2a: Dipplin|172/284
+|
+|upkeep
+|turn|32
+|inactive|gerdhard has 20 seconds left this turn.
+|inactive|gerdhard has 15 seconds left.
+|inactive|gerdhard has 10 seconds left.
+|
+|t:|1711947152
+|move|p1a: Annihilape|Bulk Up|p1a: Annihilape
+|-boost|p1a: Annihilape|atk|1
+|-boost|p1a: Annihilape|def|1
+|move|p2a: Dipplin|Giga Drain|p1a: Annihilape
+|-damage|p1a: Annihilape|204/292
+|-heal|p2a: Dipplin|216/284|[from] drain|[of] p1a: Annihilape
+|
+|upkeep
+|turn|33
+|inactive|gerdhard has 20 seconds left this turn.
+|inactive|gerdhard has 15 seconds left.
+|inactive|gerdhard has 10 seconds left.
+|
+|t:|1711947162
+|move|p1a: Annihilape|Drain Punch|p2a: Dipplin
+|-damage|p2a: Dipplin|156/284
+|-heal|p1a: Annihilape|234/292|[from] drain|[of] p2a: Dipplin
+|move|p2a: Dipplin|Dragon Pulse|p1a: Annihilape
+|-damage|p1a: Annihilape|129/292
+|
+|upkeep
+|turn|34
+|inactive|gerdhard has 20 seconds left this turn.
+|inactive|gerdhard has 15 seconds left.
+|
+|t:|1711947172
+|move|p1a: Annihilape|Rage Fist|p2a: Dipplin
+|-damage|p2a: Dipplin|0 fnt
+|faint|p2a: Dipplin
+|
+|upkeep
+|inactive|gerdhard has 20 seconds left this turn.
+|inactive|gerdhard has 15 seconds left.
+|
+|t:|1711947178
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|111/293 par
+|-damage|p2a: Grimmsnarl|75/293 par|[from] Stealth Rock
+|turn|35
+|inactive|gerdhard has 25 seconds left this turn.
+|
+|t:|1711947189
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Annihilape
+|-status|p1a: Annihilape|par
+|move|p1a: Annihilape|Rage Fist|p2a: Grimmsnarl
+|-resisted|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|inactive|gerdhard has 30 seconds left this turn.
+|inactive|gerdhard has 20 seconds left.
+|
+|t:|1711947199
+|switch|p2a: Cramorant|Cramorant, L86, F|176/261
+|turn|36
+|inactive|gerdhard has 30 seconds left this turn.
+|
+|t:|1711947206
+|move|p2a: Cramorant|Brave Bird|p1a: Annihilape
+|-damage|p1a: Annihilape|30/292 par
+|-damage|p2a: Cramorant|143/261|[from] Recoil
+|cant|p1a: Annihilape|par
+|
+|upkeep
+|turn|37
+|inactive|gerdhard has 30 seconds left.
+|
+|t:|1711947214
+|move|p2a: Cramorant|Surf|p1a: Annihilape
+|-formechange|p2a: Cramorant|Cramorant-Gulping|
+|-damage|p1a: Annihilape|0 fnt
+|faint|p1a: Annihilape
+|
+|upkeep
+|
+|t:|1711947218
+|switch|p1a: Roaring Moon|Roaring Moon, L73|274/274
+|turn|38
+|inactive|gerdhard has 30 seconds left.
+|
+|t:|1711947235
+|move|p1a: Roaring Moon|Outrage|p2a: Cramorant
+|-damage|p2a: Cramorant|0 fnt
+|-damage|p1a: Roaring Moon|206/274|[from] ability: Gulp Missile|[of] p2a: Cramorant
+|-unboost|p1a: Roaring Moon|def|1
+|-formechange|p2a: Cramorant|Cramorant|
+|faint|p2a: Cramorant
+|
+|upkeep
+|inactive|gerdhard has 30 seconds left.
+|
+|t:|1711947244
+|switch|p2a: Mesprit|Mesprit, L85, tera:Fighting|137/275
+|-damage|p2a: Mesprit|120/275|[from] Stealth Rock
+|turn|39
+|
+|t:|1711947249
+|move|p1a: Roaring Moon|Outrage|p2a: Mesprit|[from]lockedmove
+|-damage|p2a: Mesprit|0 fnt
+|faint|p2a: Mesprit
+|-start|p1a: Roaring Moon|confusion|[fatigue]
+|
+|win|discountedpokeball
+|raw|discountedpokeball's rating: 1182 &rarr; <strong>1210</strong><br />(+28 for winning)
+|raw|gerdhard's rating: 1222 &rarr; <strong>1194</strong><br />(-28 for losing)
+|l|☆gerdhard
+|player|p2|

@@ -1,0 +1,75 @@
+|j|☆CajunSpice38
+|j|☆Thatoneguy09
+|t:|1711940929
+|gametype|singles
+|player|p1|CajunSpice38|170|1385
+|player|p2|Thatoneguy09|harlequin|1374
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711940929
+|start
+|switch|p1a: Volcarona|Volcarona, L76, F|253/253
+|switch|p2a: Slurpuff|Slurpuff, L79, F|258/258
+|turn|1
+|
+|t:|1711940960
+|-zpower|p1a: Volcarona
+|move|p1a: Volcarona|Inferno Overdrive|p2a: Slurpuff|[zeffect]
+|-damage|p2a: Slurpuff|20/258
+|-enditem|p2a: Slurpuff|Sitrus Berry|[eat]
+|-heal|p2a: Slurpuff|84/258|[from] item: Sitrus Berry
+|move|p2a: Slurpuff|Belly Drum||[still]
+|-fail|p2a: Slurpuff
+|
+|upkeep
+|turn|2
+|
+|t:|1711940978
+|move|p2a: Slurpuff|Return|p1a: Volcarona
+|-damage|p1a: Volcarona|179/253
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711940992
+|switch|p2a: Mismagius|Mismagius, L86, M|243/243
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1711940998
+|move|p1a: Volcarona|Fire Blast|p2a: Mismagius
+|-damage|p2a: Mismagius|12/243
+|move|p2a: Mismagius|Trick||[still]
+|-fail|p2a: Mismagius
+|
+|upkeep
+|turn|5
+|c|☆Thatoneguy09|tf you mean IT FAILED
+|
+|t:|1711941022
+|switch|p2a: Purugly|Purugly, L88, M|268/268
+|move|p1a: Volcarona|Bug Buzz|p2a: Purugly
+|-damage|p2a: Purugly|27/268
+|
+|upkeep
+|turn|6
+|n|!Thatoneguy09|thatoneguy09
+|-message|Thatoneguy09 forfeited.
+|
+|win|CajunSpice38

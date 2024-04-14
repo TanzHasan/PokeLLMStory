@@ -1,0 +1,98 @@
+p1: Switched to Kyurem
+p2: Switched to Equilibra
+Turn 1:
+p1: Kyurem used Ice Beam on Equilibra
+p2: Equilibra used Flash Cannon on Kyurem
+Turn 2:
+p1: Switched to Meowscarada
+p2: Equilibra used Rapid Spin on Meowscarada
+Turn 3:
+p2: Switched to Pelipper
+p1: Meowscarada used Knock Off on Pelipper
+Turn 4:
+p1: Switched to Tornadus-Therian
+p2: Pelipper used U-turn on Tornadus-Therian
+p2: Switched to Raging Bolt
+Turn 5:
+p1: Tornadus-Therian used U-turn on Raging Bolt
+p1: Switched to Great Tusk
+p2: Raging Bolt used Weather Ball on Great Tusk
+p1: Great Tusk fainted
+p1: Switched to Meowscarada
+Turn 6:
+p2: Switched to Kingambit
+p1: Meowscarada used Triple Axel on Kingambit
+Turn 7:
+p1: Switched to Heatran
+p2: Kingambit used Kowtow Cleave on Heatran
+Turn 8:
+p2: Switched to Pelipper
+p1: Heatran used Stealth Rock on Pelipper
+Turn 9:
+p1: Switched to Tornadus-Therian
+p2: Pelipper used Surf on Tornadus-Therian
+Turn 10:
+p2: Switched to Equilibra
+p1: Tornadus-Therian used Bleakwind Storm on Equilibra
+Turn 11:
+p1: Tornadus-Therian used Heat Wave on Equilibra
+p2: Equilibra used Rapid Spin on Tornadus-Therian
+Turn 12:
+p1: Tornadus-Therian used Knock Off on Equilibra
+p2: Equilibra used Doom Desire on Tornadus-Therian
+Turn 13:
+p2: Switched to Raging Bolt
+p1: Tornadus-Therian used U-turn on Raging Bolt
+p1: Switched to Heatran
+Turn 14:
+p2: Switched to Pelipper
+p1: Heatran used Earth Power on Pelipper
+Turn 15:
+p1: Switched to Tornadus-Therian
+p2: Pelipper used U-turn on Tornadus-Therian
+p2: Switched to Raging Bolt
+Turn 16:
+p1: Switched to Kyurem
+p2: Raging Bolt used Thunder on Kyurem
+Turn 17:
+p2: Raging Bolt used Thunderclap on Kyurem
+p1: Kyurem fainted
+p1: Switched to Heatran
+Turn 18:
+p1: Heatran used Stealth Rock on Raging Bolt
+p2: Raging Bolt used Thunder on Heatran
+p1: Heatran fainted
+p1: Switched to Hemogoblin
+Turn 19:
+p2: Switched to Mollux
+p1: Switched to Tornadus-Therian
+Turn 20:
+p1: Tornadus-Therian used Knock Off on Mollux
+p2: Mollux used Stealth Rock on Tornadus-Therian
+Turn 21:
+p1: Tornadus-Therian used Bleakwind Storm on Mollux
+p2: Mollux used Lava Plume on Tornadus-Therian
+Turn 22:
+p1: Tornadus-Therian used Bleakwind Storm on Mollux
+p2: Mollux used Recover on Mollux
+Turn 23:
+p1: Tornadus-Therian used U-turn on Mollux
+p1: Switched to Meowscarada
+p2: Mollux used Recover on Mollux
+Turn 24:
+p2: Switched to Pelipper
+p1: Meowscarada used Knock Off on Pelipper
+p2: Pelipper fainted
+p2: Switched to Barraskewda
+Turn 25:
+p1: Switched to Tornadus-Therian
+p2: Barraskewda used Liquidation on Tornadus-Therian
+p1: Tornadus-Therian fainted
+p1: Switched to Hemogoblin
+Turn 26:
+p2: Barraskewda used Liquidation on Hemogoblin
+p1: Hemogoblin fainted
+p1: Switched to Meowscarada
+Turn 27:
+p2: Barraskewda used Liquidation on Meowscarada
+p1: Meowscarada fainted

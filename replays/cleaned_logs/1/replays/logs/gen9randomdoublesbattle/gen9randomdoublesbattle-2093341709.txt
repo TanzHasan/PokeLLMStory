@@ -1,0 +1,63 @@
+p1: Switched to Sandaconda
+p1: Switched to Wyrdeer
+p2: Switched to Crawdaunt
+p2: Switched to Blastoise
+Turn 1:
+p1: Switched to Hydrapple
+p2: Blastoise used Shell Smash on Blastoise
+p1: Wyrdeer used Thunderbolt on Blastoise
+p2: Crawdaunt used Knock Off on Wyrdeer
+p1: Wyrdeer fainted
+p1: Switched to Zebstrika
+Turn 2:
+p2: Crawdaunt used Protect on Crawdaunt
+p2: Blastoise used Dragon Pulse on Hydrapple
+p1: Zebstrika used Thunderbolt on Blastoise
+p2: Blastoise fainted
+p1: Hydrapple used Leaf Storm on Crawdaunt
+p2: Switched to Ariados
+Turn 3:
+p1: Zebstrika used Overheat on Ariados
+p2: Crawdaunt used Knock Off on Zebstrika
+p2: Ariados used Sticky Web on Hydrapple
+p1: Hydrapple used Leaf Storm on Crawdaunt
+p2: Crawdaunt fainted
+p2: Switched to Alcremie-Mint-Cream
+Turn 4:
+p1: Switched to Sandaconda
+p1: Zebstrika used High Horsepower on Ariados
+p2: Alcremie-Mint-Cream used Alluring Voice on Sandaconda
+p2: Ariados used Megahorn on Sandaconda
+Turn 5:
+p1: Zebstrika used Overheat on Ariados
+p2: Ariados fainted
+p2: Alcremie-Mint-Cream used Alluring Voice on Sandaconda
+p1: Sandaconda fainted
+p1: Switched to Muk-Alola
+p2: Switched to Tornadus
+Turn 6:
+p1: Switched to Hydrapple
+p2: Tornadus used Tailwind on Tornadus
+p2: Alcremie-Mint-Cream used Decorate on Tornadus
+p1: Muk-Alola used Gunk Shot on Alcremie-Mint-Cream
+Turn 7:
+p2: Tornadus used Bleakwind Storm on Muk-Alola
+p1: Hydrapple fainted
+p2: Alcremie-Mint-Cream used Alluring Voice on Muk-Alola
+p1: Muk-Alola used Knock Off on Tornadus
+p1: Switched to Zebstrika
+Turn 8:
+p2: Tornadus used Bleakwind Storm on Muk-Alola
+p1: Muk-Alola fainted
+p1: Zebstrika fainted
+p2: Alcremie-Mint-Cream used Alluring Voice on p1: Muk
+p1: Switched to Enamorus-Therian
+Turn 9:
+p2: Tornadus used Bleakwind Storm on Enamorus-Therian
+p2: Alcremie-Mint-Cream used Decorate on Tornadus
+p1: Enamorus-Therian used Springtide Storm on Alcremie-Mint-Cream
+p2: Tornadus fainted
+p2: Switched to Arceus-Ice
+Turn 10:
+p2: Arceus-Ice used Judgment on Enamorus-Therian
+p1: Enamorus-Therian fainted

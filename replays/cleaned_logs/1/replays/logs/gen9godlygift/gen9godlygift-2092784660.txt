@@ -1,0 +1,104 @@
+p1: Switched to Electrode-Hisui
+p2: Switched to Clefable
+Turn 1:
+p2: Switched to Giratina
+p1: Electrode-Hisui used Leaf Storm on Giratina
+Turn 2:
+p1: Switched to Gholdengo
+p2: Giratina used Will-O-Wisp on Gholdengo
+Turn 3:
+p2: Switched to Alomomola
+p1: Gholdengo used Thunder Wave on Alomomola
+Turn 4:
+p1: Switched to Samurott-Hisui
+p2: Alomomola used Flip Turn on Samurott-Hisui
+p2: Switched to Clefable
+Turn 5:
+p1: Samurott-Hisui used Flip Turn on Clefable
+p1: Switched to Slowking-Galar
+p2: Clefable used Moonblast on Slowking-Galar
+Turn 6:
+p2: Clefable used Stealth Rock on Slowking-Galar
+p1: Slowking-Galar used Chilly Reception on Slowking-Galar
+p1: Switched to Gholdengo
+Turn 7:
+p2: Switched to Alomomola
+p1: Gholdengo used Hex on Alomomola
+Turn 8:
+p1: Gholdengo used Hex on Alomomola
+p2: Alomomola can't move
+Turn 9:
+p1: Switched to Electrode-Hisui
+p2: Alomomola used Flip Turn on Electrode-Hisui
+p2: Switched to Clefable
+Turn 10:
+p2: Switched to Alomomola
+p1: Electrode-Hisui used Volt Switch on Alomomola
+p1: Switched to Great Tusk
+Turn 11:
+p2: Switched to Giratina
+p1: Great Tusk used Rapid Spin on Giratina
+Turn 12:
+p1: Great Tusk used Knock Off on Giratina
+p2: Giratina used Will-O-Wisp on Great Tusk
+Turn 13:
+p1: Great Tusk used Stealth Rock on Giratina
+p2: Giratina used Dragon Tail on Great Tusk
+Turn 14:
+p2: Switched to Alomomola
+p1: Gholdengo used Thunder Wave on Alomomola
+Turn 15:
+p1: Gholdengo used Hex on Alomomola
+p2: Alomomola can't move
+Turn 16:
+p1: Gholdengo used Hex on Alomomola
+p2: Alomomola can't move
+Turn 17:
+p1: Gholdengo used Hex on Alomomola
+p2: Alomomola used Flip Turn on Gholdengo
+p2: Switched to Skeledirge
+Turn 18:
+p2: Switched to Alomomola
+p1: Switched to Samurott-Hisui
+Turn 19:
+p2: Switched to Clefable
+p1: Samurott-Hisui used Ceaseless Edge on Clefable
+Turn 20:
+p1: Switched to Slowking-Galar
+p2: Clefable used Knock Off on Slowking-Galar
+Turn 21:
+p2: Switched to Alomomola
+p1: Slowking-Galar used Thunder Wave on Alomomola
+Turn 22:
+p2: Alomomola used Flip Turn on Slowking-Galar
+p2: Switched to Clefable
+p1: Slowking-Galar used Future Sight on Clefable
+Turn 23:
+p2: Switched to Alomomola
+p1: Slowking-Galar used Chilly Reception on Slowking-Galar
+p1: Switched to Samurott-Hisui
+Turn 24:
+p2: Switched to Skarmory
+p1: Samurott-Hisui used Razor Shell on Skarmory
+Turn 25:
+p1: Switched to Gholdengo
+p2: Skarmory used Roost on Skarmory
+Turn 26:
+p1: Switched to Great Tusk
+p2: Skarmory used Spikes on Great Tusk
+Turn 27:
+p1: Switched to Samurott-Hisui
+p2: Switched to Giratina
+Turn 28:
+p2: Switched to Clefable
+p1: Samurott-Hisui used Ceaseless Edge on Clefable
+Turn 29:
+p1: Switched to Great Tusk
+p2: Clefable used Moonblast on Great Tusk
+Turn 30:
+p2: Switched to Skeledirge
+p1: Great Tusk used Rapid Spin on Skeledirge
+Turn 31:
+p1: Great Tusk used Knock Off on Skeledirge
+p2: Skeledirge used Torch Song on Great Tusk
+p1: Great Tusk fainted

@@ -1,0 +1,228 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] Ubers is currently suspecting Last Respects! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/np-sv-ubers-stage-3-respect.3739544/">suspect thread</a>.</strong></div>
+|j|☆SnowpointEverice
+|j|☆NotNickatron7000
+|t:|1711940671
+|gametype|singles
+|player|p1|SnowpointEverice|169|
+|player|p2|NotNickatron7000|266|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Iron Boulder|
+|poke|p1|Excadrill, M|
+|poke|p1|Frosmoth, M|
+|poke|p1|Baxcalibur, F|
+|poke|p1|Blaziken, M|
+|poke|p2|Landorus, M|
+|poke|p2|Gumshoos, M|
+|poke|p2|Regigigas|
+|poke|p2|Magcargo, M|
+|poke|p2|Regieleki|
+|poke|p2|Terrakion|
+|teampreview
+|c|☆SnowpointEverice|Good luck!
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SnowpointEverice)
+|
+|t:|1711940702
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: قنبلة|Regieleki, shiny|100/100
+|-weather|Snow|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|j| Jackatron9000
+|c| Jackatron9000|good luck both of u
+|inactive|NotNickatron7000 has 270 seconds left.
+|
+|t:|1711940738
+|move|p2a: قنبلة|Explosion|p1a: Ninetales
+|-damage|p1a: Ninetales|5/100
+|faint|p2a: قنبلة
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SnowpointEverice|move: Aurora Veil
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|c| Jackatron9000|DAMN
+|c| Jackatron9000|that did way more than i thought it would
+|c|☆SnowpointEverice|That was horrifying
+|inactive|NotNickatron7000 has 240 seconds left.
+|
+|t:|1711940768
+|switch|p2a: Mogcarogo|Magcargo, M|100/100
+|turn|2
+|inactive|NotNickatron7000 has 240 seconds left.
+|
+|t:|1711940794
+|move|p1a: Ninetales|Hypnosis|p2a: Mogcarogo|[miss]
+|-miss|p1a: Ninetales|p2a: Mogcarogo
+|move|p2a: Mogcarogo|Overheat|p1a: Ninetales|[miss]
+|-miss|p2a: Mogcarogo|p1a: Ninetales
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711940814
+|move|p1a: Ninetales|Hypnosis|p2a: Mogcarogo
+|-status|p2a: Mogcarogo|slp|[from] move: Hypnosis
+|cant|p2a: Mogcarogo|slp
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711940821
+|switch|p1a: Baxcalibur|Baxcalibur, F|100/100
+|cant|p2a: Mogcarogo|slp
+|
+|-weather|Snow|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711940841
+|move|p1a: Baxcalibur|Swords Dance|p1a: Baxcalibur
+|-boost|p1a: Baxcalibur|atk|2
+|-curestatus|p2a: Mogcarogo|slp|[msg]
+|move|p2a: Mogcarogo|Clear Smog|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|94/100
+|-clearboost|p1a: Baxcalibur
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1711940858
+|move|p1a: Baxcalibur|Scale Shot|p2a: Mogcarogo
+|-damage|p2a: Mogcarogo|87/100
+|-damage|p2a: Mogcarogo|74/100
+|-damage|p2a: Mogcarogo|61/100
+|-damage|p2a: Mogcarogo|47/100
+|-damage|p2a: Mogcarogo|34/100
+|-hitcount|p2a: Mogcarogo|5
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|move|p2a: Mogcarogo|Overheat|p1a: Baxcalibur
+|-damage|p1a: Baxcalibur|69/100
+|-unboost|p2a: Mogcarogo|spa|2
+|-ability|p1a: Baxcalibur|Thermal Exchange|boost
+|-boost|p1a: Baxcalibur|atk|1
+|
+|-heal|p2a: Mogcarogo|40/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|NotNickatron7000 has 210 seconds left.
+|
+|t:|1711940882
+|switch|p2a: Blueballs|Regigigas, shiny|100/100
+|-start|p2a: Blueballs|ability: Slow Start
+|move|p1a: Baxcalibur|Scale Shot|p2a: Blueballs
+|-damage|p2a: Blueballs|85/100
+|-crit|p2a: Blueballs
+|-damage|p2a: Blueballs|64/100
+|-damage|p2a: Blueballs|50/100
+|-damage|p2a: Blueballs|37/100
+|-damage|p2a: Blueballs|22/100
+|-hitcount|p2a: Blueballs|5
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|
+|-status|p2a: Blueballs|tox|[from] item: Toxic Orb
+|upkeep
+|turn|8
+|inactive|NotNickatron7000 has 210 seconds left.
+|
+|t:|1711940902
+|move|p1a: Baxcalibur|Scale Shot|p2a: Blueballs
+|-damage|p2a: Blueballs|8/100 tox
+|-damage|p2a: Blueballs|0 fnt
+|faint|p2a: Blueballs
+|-end|p2a: Blueballs|Slow Start|[silent]
+|-hitcount|p2: Blueballs|2
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|
+|-sideend|p1: SnowpointEverice|move: Aurora Veil
+|upkeep
+|
+|t:|1711940922
+|switch|p2a: Mogcarogo|Magcargo, M|40/100
+|turn|9
+|
+|t:|1711940926
+|move|p1a: Baxcalibur|Scale Shot|p2a: Mogcarogo
+|-damage|p2a: Mogcarogo|19/100
+|-damage|p2a: Mogcarogo|0 fnt
+|faint|p2a: Mogcarogo
+|-hitcount|p2: Mogcarogo|2
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|
+|upkeep
+|c| Jackatron9000|its over
+|
+|t:|1711940947
+|switch|p2a: Don J. Shoo|Gumshoos, M|100/100
+|turn|10
+|
+|t:|1711940955
+|move|p1a: Baxcalibur|Scale Shot|p2a: Don J. Shoo
+|-damage|p2a: Don J. Shoo|70/100
+|-damage|p2a: Don J. Shoo|37/100
+|-damage|p2a: Don J. Shoo|2/100
+|-damage|p2a: Don J. Shoo|0 fnt
+|faint|p2a: Don J. Shoo
+|-hitcount|p2: Don J. Shoo|4
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|
+|upkeep
+|
+|t:|1711940966
+|switch|p2a: Tera ICE|Terrakion, shiny|100/100
+|turn|11
+|inactive|NotNickatron7000 has 180 seconds left.
+|j| Swan175
+|
+|t:|1711941011
+|move|p1a: Baxcalibur|Scale Shot|p2a: Tera ICE
+|-damage|p2a: Tera ICE|72/100
+|-damage|p2a: Tera ICE|44/100
+|-damage|p2a: Tera ICE|18/100
+|-damage|p2a: Tera ICE|0 fnt
+|faint|p2a: Tera ICE
+|-hitcount|p2: Tera ICE|4
+|-unboost|p1a: Baxcalibur|def|1
+|-boost|p1a: Baxcalibur|spe|1
+|
+|upkeep
+|
+|t:|1711941021
+|switch|p2a: Sandorus|Landorus, M, shiny|100/100
+|turn|12
+|c| Jackatron9000|hi swan
+|c| Jackatron9000|as you can see
+|c| Jackatron9000|its over
+|c| Swan175|wtf baxcalibur the goat
+|
+|t:|1711941035
+|move|p1a: Baxcalibur|Icicle Spear|p2a: Sandorus
+|-supereffective|p2a: Sandorus
+|-damage|p2a: Sandorus|0 fnt
+|faint|p2a: Sandorus
+|-hitcount|p2: Sandorus|1
+|
+|win|SnowpointEverice
+|c| Jackatron9000|DAMN
+|c|☆SnowpointEverice|gg
+|c| Jackatron9000|oh i can upload the replay from here
+|c| Jackatron9000|cool

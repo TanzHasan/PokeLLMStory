@@ -1,0 +1,111 @@
+p1: Switched to Shroodle
+p2: Switched to Quaxly
+Turn 1:
+p1: Shroodle used Knock Off on Quaxly
+p2: Quaxly used Rapid Spin on Shroodle
+Turn 2:
+p1: Shroodle used Rain Dance on Shroodle
+p2: Quaxly used Rapid Spin on Shroodle
+Turn 3:
+p1: Switched to Tinkatink
+p2: Quaxly used Rapid Spin on Tinkatink
+Turn 4:
+p2: Quaxly used Liquidation on Tinkatink
+p1: Tinkatink used Thunder Wave on Quaxly
+Turn 5:
+p2: Quaxly can't move
+p1: Tinkatink used Stealth Rock on Quaxly
+Turn 6:
+p2: Quaxly used Rapid Spin on Tinkatink
+p1: Tinkatink used Knock Off on Quaxly
+Turn 7:
+p1: Switched to Wingull
+p2: Quaxly can't move
+Turn 8:
+p2: Quaxly used Brave Bird on Wingull
+p1: Wingull used Hurricane on Quaxly
+p2: Quaxly fainted
+p2: Switched to Mienfoo
+Turn 9:
+p1: Switched to Shroodle
+p2: Mienfoo used Fake Out on Shroodle
+Turn 10:
+p1: Shroodle used Copycat on Shroodle
+p1: Shroodle used Fake Out on Mienfoo
+p2: Mienfoo can't move
+Turn 11:
+p1: Shroodle used Rain Dance on Shroodle
+p2: Mienfoo used U-turn on Shroodle
+p1: Shroodle fainted
+p2: Switched to Stunky
+p1: Switched to Tinkatink
+Turn 12:
+p2: Switched to Voltorb-Hisui
+p1: Tinkatink used Stealth Rock on Voltorb-Hisui
+Turn 13:
+p2: Voltorb-Hisui used Volt Switch on Tinkatink
+p2: Switched to Vullaby
+p1: Tinkatink used Knock Off on Vullaby
+Turn 14:
+p2: Vullaby used Brave Bird on Tinkatink
+p1: Tinkatink fainted
+p1: Switched to Wattrel
+Turn 15:
+p2: Vullaby used Knock Off on Wattrel
+p1: Wattrel used Thunder on Vullaby
+p2: Vullaby fainted
+p2: Switched to Stunky
+Turn 16:
+p2: Stunky used Knock Off on Wattrel
+p1: Wattrel used Thunder on Stunky
+Turn 17:
+p2: Stunky used Knock Off on Wattrel
+p1: Wattrel fainted
+p1: Switched to Psyduck
+Turn 18:
+p1: Switched to Riolu
+p2: Stunky failed to use Sucker Punch
+Turn 19:
+p1: Riolu used Rain Dance on Riolu
+p2: Stunky used Gunk Shot on Riolu
+Turn 20:
+p2: Switched to Mienfoo
+p1: Riolu used Close Combat on Mienfoo
+Turn 21:
+p2: Mienfoo used Fake Out on Riolu
+p1: Riolu can't move
+Turn 22:
+p2: Switched to Gastly
+p1: Riolu used Zen Headbutt on Gastly
+p2: Gastly fainted
+p2: Switched to Mienfoo
+Turn 23:
+p2: Mienfoo used Fake Out on Riolu
+p1: Riolu can't move
+Turn 24:
+p1: Riolu used Copycat on Riolu
+p1: Riolu failed to use Fake Out
+p2: Mienfoo used High Jump Kick on Riolu
+p1: Riolu fainted
+p1: Switched to Psyduck
+Turn 25:
+p1: Psyduck used Nasty Plot on Psyduck
+p2: Mienfoo used Knock Off on Psyduck
+Turn 26:
+p1: Psyduck used Surf on Mienfoo
+p2: Mienfoo fainted
+p2: Switched to Voltorb-Hisui
+Turn 27:
+p2: Voltorb-Hisui used Volt Switch on Psyduck
+p2: Switched to Stunky
+p1: Psyduck used Ice Beam on Stunky
+p2: Stunky fainted
+p2: Switched to Voltorb-Hisui
+Turn 28:
+p2: Voltorb-Hisui used Giga Drain on Psyduck
+p1: Psyduck fainted
+p1: Switched to Wingull
+Turn 29:
+p1: Wingull used Hydro Pump on Voltorb-Hisui
+p2: Voltorb-Hisui used Volt Switch on Wingull
+p1: Wingull fainted

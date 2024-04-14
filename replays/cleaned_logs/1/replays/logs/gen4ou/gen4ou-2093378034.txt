@@ -1,0 +1,26 @@
+p1: Switched to Dragonite
+p2: Switched to Heatran
+Turn 1:
+p1: Dragonite used Superpower on Heatran
+p2: Heatran used Dragon Pulse on Dragonite
+p1: Dragonite fainted
+p1: Switched to Tentacruel
+Turn 2:
+p2: Switched to Bronzong
+p1: Tentacruel used Surf on Bronzong
+Turn 3:
+p1: Switched to Gliscor
+p2: Bronzong used Trick Room on Bronzong
+Turn 4:
+p2: Bronzong used Gyro Ball on Gliscor
+p1: Gliscor used Knock Off on Bronzong
+Turn 5:
+p1: Switched to Tentacruel
+p2: Bronzong used Gyro Ball on Tentacruel
+Turn 6:
+p2: Bronzong used Earthquake on Tentacruel
+p1: Tentacruel used Surf on Bronzong
+Turn 7:
+p1: Switched to Celebi
+p2: Bronzong used Gyro Ball on Celebi
+Turn 8:

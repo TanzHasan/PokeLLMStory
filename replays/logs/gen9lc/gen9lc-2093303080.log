@@ -1,0 +1,446 @@
+|j|☆notdburch2
+|j|☆ActualSand
+|t:|1711936768
+|gametype|singles
+|player|p1|notdburch2|theroyal|1210
+|player|p2|ActualSand|169|1150
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] LC
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Mienfoo, L5, M|
+|poke|p1|Munchlax, L5, F|
+|poke|p1|Corphish, L5, M|
+|poke|p1|Snubbull, L5, F|
+|poke|p1|Grimer, L5, F|
+|poke|p1|Vullaby, L5, F|
+|poke|p2|Drilbur, L5, M|
+|poke|p2|Hippopotas, L5, M|
+|poke|p2|Mienfoo, L5, F|
+|poke|p2|Gimmighoul, L5|
+|poke|p2|Varoom, L5, M|
+|poke|p2|Voltorb-Hisui, L5|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by notdburch2)
+|
+|t:|1711936777
+|start
+|switch|p1a: Munchlax|Munchlax, L5, F, shiny|100/100
+|switch|p2a: Varoom|Varoom, L5, M|100/100
+|turn|1
+|
+|t:|1711936792
+|switch|p2a: Hippopotas|Hippopotas, L5, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippopotas
+|move|p1a: Munchlax|Earthquake|p2a: Hippopotas
+|-damage|p2a: Hippopotas|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Munchlax|97/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1711936807
+|move|p2a: Hippopotas|Yawn|p1a: Munchlax
+|-start|p1a: Munchlax|move: Yawn|[of] p2a: Hippopotas
+|move|p1a: Munchlax|Body Slam|p2a: Hippopotas
+|-damage|p2a: Hippopotas|22/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Munchlax|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1711936815
+|move|p2a: Hippopotas|Slack Off|p2a: Hippopotas
+|-heal|p2a: Hippopotas|74/100
+|move|p1a: Munchlax|Body Slam|p2a: Hippopotas
+|-damage|p2a: Hippopotas|31/100
+|-status|p2a: Hippopotas|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Munchlax|90/100|[from] Sandstorm
+|-end|p1a: Munchlax|move: Yawn|[silent]
+|-status|p1a: Munchlax|slp
+|upkeep
+|turn|4
+|
+|t:|1711936826
+|switch|p1a: Vullaby|Vullaby, L5, F|100/100
+|move|p2a: Hippopotas|Body Press|p1a: Vullaby
+|-damage|p1a: Vullaby|79/100
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Vullaby|74/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1711936848
+|move|p1a: Vullaby|Nasty Plot|p1a: Vullaby
+|-boost|p1a: Vullaby|spa|2
+|move|p2a: Hippopotas|Body Press|p1a: Vullaby
+|-damage|p1a: Vullaby|35/100
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Vullaby|31/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1711936859
+|move|p1a: Vullaby|Dark Pulse|p2a: Hippopotas
+|-damage|p2a: Hippopotas|0 fnt
+|faint|p2a: Hippopotas
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Vullaby|27/100|[from] Sandstorm
+|upkeep
+|
+|t:|1711936864
+|switch|p2a: Mienfoo|Mienfoo, L5, F|100/100
+|turn|7
+|
+|t:|1711936867
+|move|p2a: Mienfoo|Fake Out|p1a: Vullaby
+|-damage|p1a: Vullaby|5/100
+|-ability|p1a: Vullaby|Weak Armor|boost
+|-unboost|p1a: Vullaby|def|1
+|-boost|p1a: Vullaby|spe|2
+|cant|p1a: Vullaby|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Vullaby|0 fnt|[from] Sandstorm
+|-damage|p2a: Mienfoo|96/100|[from] Sandstorm
+|faint|p1a: Vullaby
+|upkeep
+|
+|t:|1711936879
+|switch|p1a: Snubbull|Snubbull, L5, F|100/100
+|turn|8
+|
+|t:|1711936885
+|move|p2a: Mienfoo|U-turn|p1a: Snubbull
+|-resisted|p1a: Snubbull
+|-damage|p1a: Snubbull|91/100
+|-ability|p1a: Snubbull|Rattled|boost
+|-boost|p1a: Snubbull|spe|1
+|
+|t:|1711936889
+|switch|p2a: Drilbur|Drilbur, L5, M|100/100|[from] U-turn
+|move|p1a: Snubbull|Earthquake|p2a: Drilbur
+|-damage|p2a: Drilbur|50/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1711936897
+|move|p1a: Snubbull|Ice Punch|p2a: Drilbur
+|-supereffective|p2a: Drilbur
+|-damage|p2a: Drilbur|0 fnt
+|faint|p2a: Drilbur
+|
+|upkeep
+|
+|t:|1711936900
+|switch|p2a: Voltorb|Voltorb-Hisui, L5|100/100
+|turn|10
+|
+|t:|1711936922
+|move|p2a: Voltorb|Thunderbolt|p1a: Snubbull
+|-damage|p1a: Snubbull|50/100
+|move|p1a: Snubbull|Ice Punch|p2a: Voltorb
+|-supereffective|p2a: Voltorb
+|-damage|p2a: Voltorb|30/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711936935
+|move|p2a: Voltorb|Protect|p2a: Voltorb
+|-singleturn|p2a: Voltorb|Protect
+|move|p1a: Snubbull|Ice Punch|p2a: Voltorb
+|-activate|p2a: Voltorb|move: Protect
+|
+|upkeep
+|turn|12
+|
+|t:|1711936949
+|switch|p2a: Gimmighoul|Gimmighoul, L5|100/100
+|move|p1a: Snubbull|Ice Punch|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|71/100
+|
+|upkeep
+|turn|13
+|inactive|notdburch2 has 120 seconds left.
+|
+|t:|1711936999
+|move|p1a: Snubbull|Earthquake|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|34/100
+|move|p2a: Gimmighoul|Reflect|p2a: Gimmighoul
+|-sidestart|p2: ActualSand|Reflect
+|
+|upkeep
+|turn|14
+|
+|t:|1711937009
+|move|p1a: Snubbull|Earthquake|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|17/100
+|move|p2a: Gimmighoul|Shadow Ball|p1a: Snubbull
+|-damage|p1a: Snubbull|10/100
+|-ability|p1a: Snubbull|Rattled|boost
+|-boost|p1a: Snubbull|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1711937013
+|move|p1a: Snubbull|Ice Punch|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|5/100
+|move|p2a: Gimmighoul|Shadow Ball|p1a: Snubbull
+|-damage|p1a: Snubbull|0 fnt
+|faint|p1a: Snubbull
+|
+|upkeep
+|inactive|notdburch2 has 120 seconds left.
+|inactive|notdburch2 has 90 seconds left.
+|inactive|notdburch2 has 60 seconds left.
+|inactive|notdburch2 has 30 seconds left.
+|
+|t:|1711937112
+|switch|p1a: Grimer|Grimer, L5, F|100/100
+|turn|16
+|
+|t:|1711937134
+|move|p1a: Grimer|Shadow Sneak|p2a: Gimmighoul
+|-supereffective|p2a: Gimmighoul
+|-damage|p2a: Gimmighoul|0 fnt
+|faint|p2a: Gimmighoul
+|
+|upkeep
+|
+|t:|1711937140
+|switch|p2a: Voltorb|Voltorb-Hisui, L5|30/100
+|turn|17
+|
+|t:|1711937145
+|move|p2a: Voltorb|Thunderbolt|p1a: Grimer
+|-damage|p1a: Grimer|63/100
+|move|p1a: Grimer|Poison Jab|p2a: Voltorb
+|-supereffective|p2a: Voltorb
+|-damage|p2a: Voltorb|0 fnt
+|-status|p1a: Grimer|par|[from] ability: Static|[of] p2a: Voltorb
+|faint|p2a: Voltorb
+|
+|upkeep
+|
+|t:|1711937152
+|switch|p2a: Mienfoo|Mienfoo, L5, F|100/100
+|turn|18
+|
+|t:|1711937157
+|move|p2a: Mienfoo|Knock Off|p1a: Grimer
+|-damage|p1a: Grimer|38/100 par
+|-activate|p1a: Grimer|ability: Sticky Hold
+|cant|p1a: Grimer|par
+|
+|upkeep
+|turn|19
+|
+|t:|1711937162
+|move|p2a: Mienfoo|High Jump Kick|p1a: Grimer
+|-resisted|p1a: Grimer
+|-damage|p1a: Grimer|13/100 par
+|cant|p1a: Grimer|par
+|
+|upkeep
+|turn|20
+|
+|t:|1711937168
+|move|p2a: Mienfoo|Knock Off|p1a: Grimer
+|-damage|p1a: Grimer|0 fnt
+|-enditem|p1a: Grimer|Eviolite|[from] move: Knock Off|[of] p2a: Mienfoo
+|faint|p1a: Grimer
+|
+|-sideend|p2: ActualSand|Reflect
+|upkeep
+|
+|t:|1711937175
+|switch|p1a: Corphish|Corphish, L5, M|100/100
+|turn|21
+|
+|t:|1711937183
+|move|p1a: Corphish|Waterfall|p2a: Mienfoo
+|-damage|p2a: Mienfoo|53/100
+|move|p2a: Mienfoo|Knock Off|p1a: Corphish
+|-damage|p1a: Corphish|60/100
+|-enditem|p1a: Corphish|Choice Scarf|[from] move: Knock Off|[of] p2a: Mienfoo
+|
+|upkeep
+|turn|22
+|
+|t:|1711937195
+|move|p1a: Corphish|Aqua Jet|p2a: Mienfoo
+|-damage|p2a: Mienfoo|24/100
+|move|p2a: Mienfoo|High Jump Kick|p1a: Corphish
+|-damage|p1a: Corphish|0 fnt
+|faint|p1a: Corphish
+|
+|upkeep
+|
+|t:|1711937197
+|switch|p1a: Mienfoo|Mienfoo, L5, M, shiny|100/100
+|turn|23
+|
+|t:|1711937203
+|switch|p2a: Varoom|Varoom, L5, M|100/100
+|move|p1a: Mienfoo|Drain Punch|p2a: Varoom
+|-damage|p2a: Varoom|72/100
+|
+|upkeep
+|turn|24
+|
+|t:|1711937211
+|-terastallize|p2a: Varoom|Flying
+|move|p1a: Mienfoo|Bulk Up|p1a: Mienfoo
+|-boost|p1a: Mienfoo|atk|1
+|-boost|p1a: Mienfoo|def|1
+|move|p2a: Varoom|Tera Blast|p1a: Mienfoo|[anim] Tera Blast Flying
+|-supereffective|p1a: Mienfoo
+|-damage|p1a: Mienfoo|62/100
+|
+|upkeep
+|turn|25
+|inactive|notdburch2 has 120 seconds left.
+|
+|t:|1711937220
+|-terastallize|p1a: Mienfoo|Steel
+|move|p1a: Mienfoo|Bulk Up|p1a: Mienfoo
+|-boost|p1a: Mienfoo|atk|1
+|-boost|p1a: Mienfoo|def|1
+|move|p2a: Varoom|Toxic|p1a: Mienfoo
+|-immune|p1a: Mienfoo
+|
+|upkeep
+|turn|26
+|
+|t:|1711937225
+|move|p1a: Mienfoo|Agility|p1a: Mienfoo
+|-boost|p1a: Mienfoo|spe|2
+|move|p2a: Varoom|Haze|p2a: Varoom
+|-clearallboost
+|
+|upkeep
+|turn|27
+|
+|t:|1711937232
+|move|p1a: Mienfoo|Knock Off|p2a: Varoom
+|-damage|p2a: Varoom|48/100
+|-enditem|p2a: Varoom|Eviolite|[from] move: Knock Off|[of] p1a: Mienfoo
+|move|p2a: Varoom|Tera Blast|p1a: Mienfoo|[anim] Tera Blast Flying
+|-resisted|p1a: Mienfoo
+|-damage|p1a: Mienfoo|48/100
+|
+|upkeep
+|turn|28
+|
+|t:|1711937240
+|move|p1a: Mienfoo|Drain Punch|p2a: Varoom
+|-resisted|p2a: Varoom
+|-damage|p2a: Varoom|29/100
+|-heal|p1a: Mienfoo|58/100|[from] drain|[of] p2a: Varoom
+|move|p2a: Varoom|Tera Blast|p1a: Mienfoo|[anim] Tera Blast Flying
+|-resisted|p1a: Mienfoo
+|-damage|p1a: Mienfoo|43/100
+|
+|upkeep
+|turn|29
+|
+|t:|1711937247
+|switch|p1a: Munchlax|Munchlax, L5, F, shiny|90/100 slp
+|move|p2a: Varoom|Tera Blast|p1a: Munchlax|[anim] Tera Blast Flying
+|-damage|p1a: Munchlax|67/100 slp
+|
+|upkeep
+|turn|30
+|
+|t:|1711937254
+|switch|p2a: Mienfoo|Mienfoo, L5, F|58/100
+|cant|p1a: Munchlax|slp
+|
+|upkeep
+|turn|31
+|
+|t:|1711937264
+|move|p2a: Mienfoo|High Jump Kick|p1a: Munchlax
+|-supereffective|p1a: Munchlax
+|-damage|p1a: Munchlax|0 fnt
+|faint|p1a: Munchlax
+|
+|upkeep
+|
+|t:|1711937267
+|switch|p1a: Mienfoo|Mienfoo, L5, M, shiny, tera:Steel|43/100
+|turn|32
+|
+|t:|1711937271
+|switch|p2a: Varoom|Varoom, L5, M, tera:Flying|29/100
+|move|p1a: Mienfoo|Drain Punch|p2a: Varoom
+|-resisted|p2a: Varoom
+|-damage|p2a: Varoom|10/100
+|-heal|p1a: Mienfoo|53/100|[from] drain|[of] p2a: Varoom
+|
+|upkeep
+|turn|33
+|
+|t:|1711937278
+|move|p1a: Mienfoo|Drain Punch|p2a: Varoom
+|-resisted|p2a: Varoom
+|-damage|p2a: Varoom|0 fnt
+|-heal|p1a: Mienfoo|58/100|[from] drain|[of] p2a: Varoom
+|faint|p2a: Varoom
+|
+|upkeep
+|
+|t:|1711937280
+|switch|p2a: Mienfoo|Mienfoo, L5, F|91/100
+|turn|34
+|
+|t:|1711937287
+|move|p2a: Mienfoo|Fake Out|p1a: Mienfoo
+|-resisted|p1a: Mienfoo
+|-damage|p1a: Mienfoo|53/100
+|move|p1a: Mienfoo|Drain Punch|p2a: Mienfoo
+|-damage|p2a: Mienfoo|48/100
+|-heal|p1a: Mienfoo|77/100|[from] drain|[of] p2a: Mienfoo
+|
+|upkeep
+|turn|35
+|
+|t:|1711937297
+|move|p2a: Mienfoo|High Jump Kick|p1a: Mienfoo
+|-supereffective|p1a: Mienfoo
+|-damage|p1a: Mienfoo|0 fnt
+|faint|p1a: Mienfoo
+|
+|win|ActualSand
+|raw|notdburch2's rating: 1210 &rarr; <strong>1181</strong><br />(-29 for losing)
+|raw|ActualSand's rating: 1150 &rarr; <strong>1179</strong><br />(+29 for winning)
+|l|☆notdburch2
+|player|p1|
+|l|☆ActualSand
+|player|p2|

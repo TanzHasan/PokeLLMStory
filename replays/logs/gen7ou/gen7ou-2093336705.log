@@ -1,0 +1,53 @@
+|j|☆maamAlbit
+|j|☆Josesito bebe
+|t:|1711941030
+|gametype|singles
+|player|p1|maamAlbit|twins-gen4dp|1143
+|player|p2|Josesito bebe|101|1130
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Zeraora|item
+|poke|p1|Kartana|item
+|poke|p1|Celesteela|item
+|poke|p1|Sableye, F|item
+|poke|p1|Cloyster, M|item
+|poke|p1|Toxapex, M|item
+|poke|p2|Pidgeot, M|item
+|poke|p2|Ferrothorn, M|item
+|poke|p2|Rotom-Wash|item
+|poke|p2|Tapu Koko|item
+|poke|p2|Hawlucha, M|item
+|poke|p2|Gyarados, M|item
+|teampreview
+|
+|t:|1711941050
+|start
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|switch|p2a: Pidgeot|Pidgeot, M|100/100
+|turn|1
+|
+|t:|1711941057
+|detailschange|p2a: Pidgeot|Pidgeot-Mega, M
+|-mega|p2a: Pidgeot|Pidgeot|Pidgeotite
+|move|p2a: Pidgeot|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|96/100
+|-message|maamAlbit forfeited.
+|
+|win|Josesito bebe
+|raw|maamAlbit's rating: 1143 &rarr; <strong>1117</strong><br />(-26 for losing)
+|raw|Josesito bebe's rating: 1130 &rarr; <strong>1156</strong><br />(+26 for winning)
+|l|☆maamAlbit
+|player|p1|

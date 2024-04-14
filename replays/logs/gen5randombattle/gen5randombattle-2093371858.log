@@ -1,0 +1,184 @@
+|j|☆tutuisbae
+|j|☆Skullmonkey
+|t:|1711946254
+|gametype|singles
+|player|p1|tutuisbae|266|1332
+|player|p2|Skullmonkey|li|1091
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711946254
+|start
+|switch|p1a: Jellicent|Jellicent, L82, M|298/298
+|switch|p2a: Durant|Durant, L79, M|221/221
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tutuisbae)
+|
+|t:|1711946281
+|switch|p2a: Dragonair|Dragonair, L88, F|251/251
+|switch|p1a: Honchkrow|Honchkrow, L82, M|298/298
+|
+|upkeep
+|turn|2
+|
+|t:|1711946291
+|switch|p1a: Ferrothorn|Ferrothorn, L75, F|235/235
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711946301
+|switch|p2a: Durant|Durant, L79, M|221/221
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Durant
+|-sidestart|p2: Skullmonkey|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1711946314
+|move|p2a: Durant|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Durant|atk|1
+|-unboost|p2a: Durant|def|1
+|-damage|p2a: Durant|194/221|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1711946326
+|switch|p1a: Jellicent|Jellicent, L82, M|298/298
+|turn|5
+|
+|t:|1711946334
+|switch|p2a: Dragonair|Dragonair, L88, F|251/251
+|-damage|p2a: Dragonair|220/251|[from] Stealth Rock
+|move|p1a: Jellicent|Toxic|p2a: Dragonair
+|-status|p2a: Dragonair|tox
+|
+|-damage|p2a: Dragonair|205/251 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711946344
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|move|p1a: Jellicent|Scald|p2a: Dragonair
+|-resisted|p2a: Dragonair
+|-damage|p2a: Dragonair|177/251 tox
+|
+|-damage|p2a: Dragonair|147/251 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1711946351
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|move|p1a: Jellicent|Shadow Ball|p2a: Dragonair
+|-damage|p2a: Dragonair|93/251 tox
+|
+|-damage|p2a: Dragonair|48/251 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1711946362
+|move|p2a: Dragonair|Rest|p2a: Dragonair
+|-status|p2a: Dragonair|slp|[from] move: Rest
+|-heal|p2a: Dragonair|251/251 slp|[silent]
+|move|p1a: Jellicent|Recover||[still]
+|-fail|p1a: Jellicent|heal
+|
+|upkeep
+|turn|9
+|
+|t:|1711946370
+|switch|p1a: Articuno|Articuno, L84|271/271
+|-ability|p1a: Articuno|Pressure
+|cant|p2a: Dragonair|slp
+|move|p2a: Dragonair|Sleep Talk|p2a: Dragonair
+|move|p2a: Dragonair|Dragon Dance|p2a: Dragonair|[from]move: Sleep Talk
+|-boost|p2a: Dragonair|atk|1
+|-boost|p2a: Dragonair|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1711946380
+|cant|p2a: Dragonair|slp
+|move|p2a: Dragonair|Sleep Talk|p2a: Dragonair
+|move|p2a: Dragonair|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Dragonair
+|move|p1a: Articuno|Ice Beam|p2a: Dragonair
+|-supereffective|p2a: Dragonair
+|-damage|p2a: Dragonair|95/251 slp
+|
+|upkeep
+|turn|11
+|
+|t:|1711946389
+|-curestatus|p2a: Dragonair|slp|[msg]
+|move|p2a: Dragonair|Outrage|p1a: Articuno
+|-damage|p1a: Articuno|0 fnt
+|faint|p1a: Articuno
+|
+|upkeep
+|
+|t:|1711946413
+|switch|p1a: Absol|Absol, L87, M|255/255
+|turn|12
+|
+|t:|1711946429
+|move|p1a: Absol|Sucker Punch|p2a: Dragonair
+|-damage|p2a: Dragonair|0 fnt
+|faint|p2a: Dragonair
+|-damage|p1a: Absol|230/255|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946435
+|switch|p2a: Durant|Durant, L79, M|194/221
+|-damage|p2a: Durant|167/221|[from] Stealth Rock
+|turn|13
+|
+|t:|1711946442
+|move|p2a: Durant|X-Scissor|p1a: Absol
+|-supereffective|p1a: Absol
+|-damage|p1a: Absol|0 fnt
+|faint|p1a: Absol
+|
+|upkeep
+|
+|t:|1711946446
+|switch|p1a: Honchkrow|Honchkrow, L82, M|298/298
+|turn|14
+|
+|t:|1711946450
+|switch|p2a: Steelix|Steelix, L84, F|263/263
+|-damage|p2a: Steelix|255/263|[from] Stealth Rock
+|move|p1a: Honchkrow|Brave Bird|p2a: Steelix
+|-resisted|p2a: Steelix
+|-damage|p2a: Steelix|211/263
+|-damage|p1a: Honchkrow|283/298|[from] Recoil
+|-damage|p1a: Honchkrow|254/298|[from] item: Life Orb
+|
+|-heal|p2a: Steelix|227/263|[from] item: Leftovers
+|upkeep
+|turn|15
+|-message|tutuisbae forfeited.
+|
+|win|Skullmonkey
+|raw|tutuisbae's rating: 1332 &rarr; <strong>1300</strong><br />(-32 for losing)
+|raw|Skullmonkey's rating: 1091 &rarr; <strong>1133</strong><br />(+42 for winning)
+|l|☆tutuisbae
+|player|p1|

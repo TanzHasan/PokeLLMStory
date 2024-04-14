@@ -1,0 +1,93 @@
+p1: Switched to Tyranitar
+p2: Switched to Incineroar
+Turn 1:
+p1: Tyranitar used Stone Axe on Incineroar
+p2: Incineroar used Parting Shot on Tyranitar
+p2: Switched to Arcanine-Hisui
+Turn 2:
+p1: Switched to Toxapex
+p2: Arcanine-Hisui used Stone Axe on Toxapex
+Turn 3:
+p2: Switched to Incineroar
+p1: Toxapex used Flip Turn on Incineroar
+p1: Switched to Regieleki
+Turn 4:
+p1: Regieleki used Rapid Spin on Incineroar
+p2: Incineroar fainted
+p2: Switched to Landorus-Therian
+Turn 5:
+p1: Switched to Great Tusk
+p2: Landorus-Therian used Precipice Blades on Great Tusk
+Turn 6:
+p2: Switched to Iron Hands
+p1: Great Tusk used Rapid Spin on Iron Hands
+Turn 7:
+p1: Great Tusk used Bulk Up on Great Tusk
+p2: Iron Hands used Ice Punch on Great Tusk
+Turn 8:
+p2: Switched to Landorus-Therian
+p1: Great Tusk used Earthquake on Landorus-Therian
+Turn 9:
+p1: Great Tusk used Shore Up on Great Tusk
+p2: Landorus-Therian used Dragon Ascent on Great Tusk
+Turn 10:
+p2: Switched to Dragonite
+p1: Great Tusk used Bulk Up on Great Tusk
+Turn 11:
+p1: Great Tusk used Rapid Spin on Dragonite
+p2: Dragonite used Dragon Dance on Dragonite
+Turn 12:
+p2: Dragonite used Extreme Speed on Great Tusk
+p1: Great Tusk used Shore Up on Great Tusk
+Turn 13:
+p1: Great Tusk used Rapid Spin on Dragonite
+p2: Dragonite fainted
+p2: Switched to Calyrex-Ice
+Turn 14:
+p1: Great Tusk used Earthquake on Calyrex-Ice
+p2: Calyrex-Ice used Glacial Lance on Great Tusk
+p1: Great Tusk fainted
+p1: Switched to Gholdengo
+Turn 15:
+p2: Switched to Landorus-Therian
+p1: Gholdengo used Shadow Ball on Landorus-Therian
+Turn 16:
+p1: Gholdengo used Make It Rain on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Iron Hands
+Turn 17:
+p1: Gholdengo used Shadow Ball on Iron Hands
+p2: Iron Hands used Swords Dance on Iron Hands
+Turn 18:
+p1: Gholdengo used Shadow Ball on Iron Hands
+p2: Iron Hands used Zing Zap on Gholdengo
+p1: Gholdengo fainted
+p1: Switched to Regieleki
+Turn 19:
+p1: Regieleki used Extreme Speed on Iron Hands
+p2: Iron Hands fainted
+p2: Switched to Arcanine-Hisui
+Turn 20:
+p1: Switched to Toxapex
+p2: Arcanine-Hisui used Morning Sun on Arcanine-Hisui
+Turn 21:
+p2: Switched to Calyrex-Ice
+p1: Toxapex used Toxic on Calyrex-Ice
+Turn 22:
+p1: Switched to Tyranitar-Mega
+p2: Calyrex-Ice used Trick Room on Calyrex-Ice
+Turn 23:
+p2: Switched to Arcanine-Hisui
+p1: Tyranitar-Mega used Ceaseless Edge on Arcanine-Hisui
+Turn 24:
+p2: Arcanine-Hisui used Extreme Speed on Tyranitar-Mega
+p1: Tyranitar-Mega used Stone Axe on Arcanine-Hisui
+p2: Arcanine-Hisui fainted
+p2: Switched to Calyrex-Ice
+Turn 25:
+p2: Calyrex-Ice used Glacial Lance on Tyranitar-Mega
+p1: Tyranitar-Mega fainted
+p1: Switched to Regieleki
+Turn 26:
+p1: Regieleki used Extreme Speed on Calyrex-Ice
+p2: Calyrex-Ice fainted

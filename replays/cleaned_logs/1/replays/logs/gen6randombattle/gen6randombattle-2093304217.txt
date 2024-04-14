@@ -1,0 +1,103 @@
+p1: Switched to Raichu
+p2: Switched to Minun
+Turn 1:
+p1: Raichu used Nasty Plot on Raichu
+p2: Minun used Hidden Power on Raichu
+Turn 2:
+p2: Switched to Muk
+p1: Raichu used Surf on Muk
+Turn 3:
+p1: Raichu used Thunderbolt on Muk
+p2: Muk fainted
+p2: Switched to Heliolisk
+Turn 4:
+p1: Raichu used Surf on Heliolisk
+p2: Heliolisk used Thunderbolt on Raichu
+Turn 5:
+p1: Raichu used Thunderbolt on Heliolisk
+p2: Heliolisk used Hyper Voice on Raichu
+p1: Raichu fainted
+p1: Switched to Flygon
+Turn 6:
+p2: Heliolisk used Hyper Voice on Flygon
+p1: Flygon used Earthquake on Heliolisk
+p2: Heliolisk fainted
+p2: Switched to Linoone
+Turn 7:
+p1: Flygon used Roost on Flygon
+p2: Linoone used Shadow Claw on Flygon
+Turn 8:
+p2: Linoone used Seed Bomb on Flygon
+p1: Flygon used Draco Meteor on Linoone
+Turn 9:
+p2: Switched to Exeggutor
+p1: Flygon used Earthquake on Exeggutor
+Turn 10:
+p1: Switched to Moltres
+p2: Exeggutor used Psychic on Moltres
+Turn 11:
+p1: Moltres used Roost on Moltres
+p2: Exeggutor used Psychic on Moltres
+Turn 12:
+p1: Moltres used Fire Blast on Exeggutor
+p2: Exeggutor fainted
+p2: Switched to Minun
+Turn 13:
+p2: Minun used Thunderbolt on Moltres
+p1: Moltres used Roost on Moltres
+Turn 14:
+p1: Switched to Flygon
+p2: Minun used Thunderbolt on Flygon
+Turn 15:
+p2: Minun used Hidden Power on Flygon
+p1: Flygon used Earthquake on Minun
+p2: Minun fainted
+p2: Switched to Mismagius
+Turn 16:
+p2: Mismagius used Trick on Flygon
+p1: Flygon used Roost on Flygon
+Turn 17:
+p1: Switched to Swalot
+p2: Mismagius used Dazzling Gleam on Swalot
+Turn 18:
+p2: Mismagius used Thunderbolt on Swalot
+p1: Swalot used Encore on Mismagius
+Turn 19:
+p1: Switched to Flygon
+p2: Mismagius used Thunderbolt on Flygon
+Turn 20:
+p2: Switched to Linoone
+p1: Flygon used Draco Meteor on Linoone
+p2: Linoone fainted
+p2: Switched to Mismagius
+Turn 21:
+p2: Mismagius used Dazzling Gleam on Flygon
+p1: Flygon used Draco Meteor on Mismagius
+Turn 22:
+p1: Switched to Swalot
+p2: Mismagius used Dazzling Gleam on Swalot
+Turn 23:
+p2: Mismagius used Shadow Ball on Swalot
+p1: Swalot used Encore on Mismagius
+Turn 24:
+p1: Switched to Blissey
+p2: Mismagius used Shadow Ball on Blissey
+Turn 25:
+p2: Mismagius used Shadow Ball on Blissey
+p1: Blissey used Toxic on Mismagius
+Turn 26:
+p2: Mismagius used Shadow Ball on Blissey
+p1: Blissey used Stealth Rock on Mismagius
+Turn 27:
+p1: Switched to Swalot
+p2: Mismagius used Thunderbolt on Swalot
+Turn 28:
+p2: Mismagius used Thunderbolt on Swalot
+p1: Swalot used Encore on Mismagius
+Turn 29:
+p1: Switched to Flygon
+p2: Mismagius used Thunderbolt on Flygon
+Turn 30:
+p2: Mismagius used Thunderbolt on Flygon
+p1: Flygon used Roost on Flygon
+p2: Mismagius fainted

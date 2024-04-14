@@ -1,0 +1,198 @@
+p1: Switched to Abomasnow
+p2: Switched to Raichu
+Turn 1:
+p2: Raichu used Nasty Plot on Raichu
+p1: Abomasnow used Blizzard on Raichu
+Turn 2:
+p2: Raichu used Focus Blast on Abomasnow
+p1: Abomasnow used Blizzard on Raichu
+p2: Raichu fainted
+p2: Switched to Heatmor
+Turn 3:
+p2: Heatmor used Fire Lash on Abomasnow
+p1: Abomasnow fainted
+p1: Switched to Magcargo
+Turn 4:
+p2: Heatmor used Superpower on Magcargo
+p1: Magcargo used Shell Smash on Magcargo
+Turn 5:
+p2: Heatmor used Sucker Punch on Magcargo
+p1: Magcargo used Ancient Power on Heatmor
+p2: Heatmor fainted
+p2: Switched to Delcatty
+Turn 6:
+p2: Delcatty used Fake Out on Magcargo
+p1: Magcargo can't move
+Turn 7:
+p2: Delcatty used Stomping Tantrum on Magcargo
+p1: Magcargo fainted
+p1: Switched to Mewtwo
+Turn 8:
+p2: Delcatty used Thunder Wave on Mewtwo
+p1: Mewtwo used Bulk Up on Mewtwo
+Turn 9:
+p2: Switched to Meloetta
+p1: Mewtwo used Zen Headbutt on Meloetta
+Turn 10:
+p2: Meloetta used Relic Song on Mewtwo
+p1: Mewtwo used Drain Punch on Meloetta
+p2: Meloetta fainted
+p2: Switched to Zygarde-10%
+Turn 11:
+p2: Zygarde-10% used Coil on Zygarde-10%
+p1: Mewtwo can't move
+Turn 12:
+p2: Zygarde-10% used Coil on Zygarde-10%
+p1: Mewtwo used Drain Punch on Zygarde-10%
+Turn 13:
+p2: Zygarde-10% used Devastating Drake on Mewtwo
+p1: Mewtwo fainted
+p1: Switched to Noivern
+Turn 14:
+p1: Noivern used Draco Meteor on Zygarde-10%
+p2: Zygarde-10% used Outrage on Noivern
+p1: Noivern fainted
+p1: Switched to Floette-Eternal
+Turn 15:
+p1: Floette-Eternal used Moonblast on Zygarde-10%
+p2: Zygarde-10% fainted
+p2: Switched to Meganium
+Turn 16:
+p1: Switched to Giratina
+p2: Meganium used Toxic on Giratina
+Turn 17:
+p2: Meganium used Leech Seed on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 18:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 19:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina used Rest on Giratina
+Turn 20:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina failed to use Rest
+Turn 21:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 22:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina used Rest on Giratina
+Turn 23:
+p2: Switched to Delcatty
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Shadow Ball on Delcatty
+Turn 24:
+p2: Delcatty used Stomping Tantrum on Giratina
+p1: Giratina can't move
+Turn 25:
+p2: Delcatty used Stomping Tantrum on Giratina
+p1: Giratina used Dragon Tail on Delcatty
+Turn 26:
+p2: Meganium used Toxic on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 27:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina used Rest on Giratina
+Turn 28:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina failed to use Rest
+Turn 29:
+p2: Meganium used Giga Drain on Giratina
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina failed to use Rest
+Turn 30:
+p2: Meganium failed to use Toxic
+p1: Giratina used Shadow Ball on Meganium
+Turn 31:
+p2: Meganium used Toxic on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 32:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina used Rest on Giratina
+Turn 33:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 34:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Dragon Tail on Meganium
+Turn 35:
+p2: Delcatty used Fake Out on Giratina
+p1: Giratina used Dragon Tail on Delcatty
+Turn 36:
+p2: Meganium used Toxic on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 37:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina used Shadow Ball on Meganium
+Turn 38:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina used Rest on Giratina
+Turn 39:
+p2: Meganium failed to use Leech Seed
+p1: Giratina can't move
+Turn 40:
+p2: Meganium failed to use Leech Seed
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 41:
+p2: Meganium failed to use Leech Seed
+p1: Giratina used Shadow Ball on Meganium
+Turn 42:
+p1: Switched to Floette-Eternal
+p2: Meganium used Toxic on Floette-Eternal
+Turn 43:
+p1: Floette-Eternal used Light of Ruin on Meganium
+p2: Meganium used Leech Seed on Floette-Eternal
+Turn 44:
+p1: Switched to Giratina
+p2: Meganium used Synthesis on Meganium
+Turn 45:
+p2: Meganium used Toxic on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 46:
+p2: Meganium used Leech Seed on Giratina
+p1: Giratina used Shadow Ball on Meganium
+Turn 47:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina used Shadow Ball on Meganium
+Turn 48:
+p2: Meganium used Synthesis on Meganium
+p1: Giratina used Rest on Giratina
+Turn 49:
+p2: Switched to Delcatty
+p1: Giratina can't move
+Turn 50:
+p2: Delcatty used Stomping Tantrum on Giratina
+p1: Giratina can't move
+p1: Giratina used Sleep Talk on Giratina
+p1: Giratina used Dragon Tail on Delcatty
+Turn 51:
+p2: Meganium failed to use Toxic
+p1: Giratina used Dragon Tail on Meganium
+Turn 52:
+p2: Delcatty used Stomping Tantrum on Giratina
+p1: Giratina used Dragon Tail on Delcatty
+Turn 53:
+p2: Meganium used Toxic on Giratina
+p1: Giratina used Dragon Tail on Meganium
+Turn 54:
+p2: Delcatty used Stomping Tantrum on Giratina
+p1: Giratina used Dragon Tail on Delcatty
+Turn 55:
+p2: Meganium failed to use Leech Seed
+p1: Giratina used Rest on Giratina
+Turn 56:

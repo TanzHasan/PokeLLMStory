@@ -1,0 +1,151 @@
+p1: Switched to Hippowdon
+p2: Switched to Ludicolo
+Turn 1:
+p1: Switched to Cradily
+p2: Ludicolo used Rain Dance on Ludicolo
+Turn 2:
+p2: Switched to Klefki
+p1: Cradily used Stealth Rock on Klefki
+Turn 3:
+p1: Switched to Excadrill
+p2: Klefki used Light Screen on Klefki
+Turn 4:
+p2: Switched to Ludicolo
+p1: Excadrill used Swords Dance on Excadrill
+Turn 5:
+p1: Switched to Cradily
+p2: Ludicolo used Hydro Pump on Cradily
+Turn 6:
+p2: Switched to Clefable
+p1: Cradily used Giga Drain on Clefable
+Turn 7:
+p1: Switched to Hippowdon
+p2: Clefable used Flamethrower on Hippowdon
+Turn 8:
+p2: Clefable used Calm Mind on Clefable
+p1: Hippowdon used Earthquake on Clefable
+Turn 9:
+p2: Clefable used Wish on Clefable
+p1: Hippowdon used Earthquake on Clefable
+Turn 10:
+p2: Switched to Politoed
+p1: Switched to Excadrill
+Turn 11:
+p1: Switched to Celebi
+p2: Politoed used Power-Up Punch on Celebi
+Turn 12:
+p2: Switched to Chansey
+p1: Celebi used Giga Drain on Chansey
+Turn 13:
+p1: Switched to Gliscor
+p2: Chansey used Toxic on Gliscor
+Turn 14:
+p1: Gliscor used Taunt on Chansey
+p2: Chansey can't move
+Turn 15:
+p2: Switched to Ludicolo
+p1: Gliscor used Swords Dance on Gliscor
+Turn 16:
+p1: Switched to Cradily
+p2: Ludicolo used Ice Beam on Cradily
+Turn 17:
+p2: Ludicolo used Ice Beam on Cradily
+p1: Cradily used Giga Drain on Ludicolo
+Turn 18:
+p1: Switched to Excadrill
+p2: Ludicolo used Ice Beam on Excadrill
+Turn 19:
+p2: Switched to Politoed
+p1: Excadrill used Iron Head on Politoed
+Turn 20:
+p1: Switched to Cradily
+p2: Switched to Chansey
+Turn 21:
+p2: Chansey used Wish on Chansey
+p1: Cradily used Recover on Cradily
+Turn 22:
+p2: Switched to Clefable
+p1: Cradily used Ancient Power on Clefable
+p2: Clefable fainted
+p2: Switched to Kabutops
+Turn 23:
+p2: Kabutops used Superpower on Cradily
+p1: Cradily fainted
+p1: Switched to Celebi
+Turn 24:
+p2: Switched to Chansey
+p1: Celebi used Thunder Wave on Chansey
+Turn 25:
+p1: Switched to Hippowdon
+p2: Chansey used Heal Bell on Chansey
+Turn 26:
+p1: Switched to Excadrill
+p2: Chansey used Wish on Chansey
+Turn 27:
+p1: Excadrill used Earthquake on Chansey
+p2: Chansey used Counter on Excadrill
+p1: Excadrill fainted
+p2: Chansey fainted
+p1: Switched to Celebi
+p2: Switched to Klefki
+Turn 28:
+p1: Switched to Volcarona
+p2: Klefki used Toxic on Volcarona
+Turn 29:
+p2: Klefki used Light Screen on Klefki
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 30:
+p2: Switched to Politoed
+p1: Volcarona used Quiver Dance on Volcarona
+Turn 31:
+p1: Volcarona used Giga Drain on Politoed
+p2: Politoed used Rest on Politoed
+Turn 32:
+p1: Volcarona used Quiver Dance on Volcarona
+p2: Politoed can't move
+p2: Politoed used Sleep Talk on Politoed
+p2: Politoed used Power-Up Punch on Volcarona
+Turn 33:
+p1: Volcarona used Giga Drain on Politoed
+p2: Politoed can't move
+p2: Politoed used Sleep Talk on Politoed
+p2: Politoed used Waterfall on Volcarona
+p1: Volcarona fainted
+p1: Switched to Celebi
+Turn 34:
+p2: Switched to Ludicolo
+p1: Celebi used Thunder Wave on Ludicolo
+Turn 35:
+p1: Celebi used Giga Drain on Ludicolo
+p2: Ludicolo fainted
+p2: Switched to Klefki
+Turn 36:
+p1: Switched to Hippowdon
+p2: Klefki used Toxic on Hippowdon
+Turn 37:
+p2: Klefki used Reflect on Klefki
+p1: Hippowdon used Earthquake on Klefki
+Turn 38:
+p2: Klefki used Spikes on Hippowdon
+p1: Hippowdon used Earthquake on Klefki
+p2: Klefki fainted
+p2: Switched to Politoed
+Turn 39:
+p2: Politoed used Waterfall on Hippowdon
+p1: Hippowdon used Earthquake on Politoed
+Turn 40:
+p1: Switched to Celebi
+p2: Politoed used Rest on Politoed
+Turn 41:
+p2: Switched to Kabutops
+p1: Celebi used Giga Drain on Kabutops
+p2: Kabutops fainted
+p2: Switched to Politoed
+Turn 42:
+p1: Celebi used Giga Drain on Politoed
+p2: Politoed can't move
+p2: Politoed used Sleep Talk on Politoed
+p2: Politoed failed to use Rest
+Turn 43:
+p1: Celebi used Giga Drain on Politoed
+p2: Politoed fainted

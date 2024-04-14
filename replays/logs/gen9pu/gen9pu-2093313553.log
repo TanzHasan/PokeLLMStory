@@ -1,0 +1,85 @@
+|j|☆vgxdhhrvggrr
+|j|☆T2 is papa
+|t:|1711938078
+|gametype|singles
+|player|p1|vgxdhhrvggrr|170|1086
+|player|p2|T2 is papa|265|1107
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] PU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Avalugg-Hisui, F|
+|poke|p1|Dusknoir, F|
+|poke|p1|Tauros-Paldea-Combat, M|
+|poke|p1|Arbok, F|
+|poke|p1|Farigiraf, M|
+|poke|p1|Eelektross, F|
+|poke|p2|Alcremie-Salted-Cream, F|
+|poke|p2|Regirock|
+|poke|p2|Bruxish, F|
+|poke|p2|Houndoom, F|
+|poke|p2|Rotom-Mow|
+|poke|p2|Dusknoir, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by T2 is papa)
+|inactive|T2 is papa has 120 seconds left.
+|
+|t:|1711938116
+|start
+|switch|p1a: Arbok|Arbok, F, shiny|100/100
+|switch|p2a: Alcremie|Alcremie-Salted-Cream, F, shiny|100/100
+|-ability|p1a: Arbok|Intimidate|boost
+|-unboost|p2a: Alcremie|atk|1
+|turn|1
+|
+|t:|1711938139
+|-terastallize|p2a: Alcremie|Steel
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|move|p2a: Alcremie|Acid Armor|p2a: Alcremie
+|-boost|p2a: Alcremie|def|2
+|
+|upkeep
+|turn|2
+|
+|t:|1711938146
+|move|p1a: Arbok|Knock Off|p2a: Alcremie
+|-damage|p2a: Alcremie|69/100
+|-enditem|p2a: Alcremie|Leftovers|[from] move: Knock Off|[of] p1a: Arbok
+|move|p2a: Alcremie|Acid Armor|p2a: Alcremie
+|-boost|p2a: Alcremie|def|2
+|
+|upkeep
+|turn|3
+|inactive|vgxdhhrvggrr has 120 seconds left.
+|
+|t:|1711938179
+|move|p1a: Arbok|Coil|p1a: Arbok
+|-boost|p1a: Arbok|atk|1
+|-boost|p1a: Arbok|def|1
+|-boost|p1a: Arbok|accuracy|1
+|move|p2a: Alcremie|Calm Mind|p2a: Alcremie
+|-boost|p2a: Alcremie|spa|1
+|-boost|p2a: Alcremie|spd|1
+|
+|upkeep
+|turn|4
+|inactive|vgxdhhrvggrr has 120 seconds left.
+|-message|vgxdhhrvggrr forfeited.
+|
+|win|T2 is papa
+|raw|vgxdhhrvggrr's rating: 1086 &rarr; <strong>1064</strong><br />(-22 for losing)
+|raw|T2 is papa's rating: 1107 &rarr; <strong>1130</strong><br />(+23 for winning)
+|l|☆vgxdhhrvggrr
+|player|p1|

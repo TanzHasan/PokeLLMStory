@@ -1,0 +1,34 @@
+p1: Switched to Volcarona
+p2: Switched to Landorus-Therian
+Turn 1:
+p2: Landorus-Therian used Stone Edge on Volcarona
+p1: Volcarona fainted
+p1: Switched to Ferrothorn
+Turn 2:
+p2: Switched to Reuniclus
+p1: Ferrothorn used Leech Seed on Reuniclus
+Turn 3:
+p2: Reuniclus used Focus Blast on Ferrothorn
+p1: Ferrothorn used Leech Seed on Reuniclus
+Turn 4:
+p1: Ferrothorn used Protect on Ferrothorn
+p2: Reuniclus used Calm Mind on Reuniclus
+Turn 5:
+p2: Reuniclus used Focus Blast on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Dragonite
+Turn 6:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Reuniclus used Psyshock on Dragonite
+Turn 7:
+p1: Dragonite used Dragon Claw on Reuniclus
+p2: Reuniclus used Psyshock on Dragonite
+Turn 8:
+p1: Dragonite used Extreme Speed on Reuniclus
+p2: Reuniclus used Psyshock on Dragonite
+p1: Dragonite fainted
+p1: Switched to Cloyster
+Turn 9:
+p1: Cloyster used Shell Smash on Cloyster
+p2: Reuniclus used Focus Blast on Cloyster
+p1: Cloyster fainted

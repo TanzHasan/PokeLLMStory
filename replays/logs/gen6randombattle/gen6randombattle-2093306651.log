@@ -1,0 +1,841 @@
+|j|‽La.Hellhound
+|j|☆pok fanaat
+|t:|1711937214
+|gametype|singles
+|player|p1|La.Hellhound|bruno|1792
+|player|p2|pok fanaat|266|1647
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711937214
+|start
+|switch|p1a: Sudowoodo|Sudowoodo, L91, F|275/275
+|switch|p2a: Swalot|Swalot, L89, M|323/323
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by La.Hellhound)
+|inactive|pok fanaat has 120 seconds left.
+|
+|t:|1711937264
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|266/266
+|move|p1a: Sudowoodo|Stealth Rock|p2a: Furfrou
+|-sidestart|p2: pok fanaat|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711937311
+|switch|p1a: Volbeat|Volbeat, L89, M|260/260
+|move|p2a: Furfrou|Thunder Wave|p1a: Volbeat
+|-status|p1a: Volbeat|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711937334
+|switch|p2a: Swalot|Swalot, L89, M|323/323
+|-damage|p2a: Swalot|283/323|[from] Stealth Rock
+|cant|p1a: Volbeat|par
+|
+|-heal|p2a: Swalot|303/323|[from] item: Black Sludge
+|upkeep
+|turn|4
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937378
+|move|p1a: Volbeat|Thunder Wave|p2a: Swalot
+|-status|p2a: Swalot|par
+|move|p2a: Swalot|Sludge Bomb|p1a: Volbeat
+|-damage|p1a: Volbeat|176/260 par
+|
+|-heal|p1a: Volbeat|192/260 par|[from] item: Leftovers
+|-heal|p2a: Swalot|323/323 par|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1711937397
+|cant|p1a: Volbeat|par
+|cant|p2a: Swalot|par
+|
+|-heal|p1a: Volbeat|208/260 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711937403
+|cant|p1a: Volbeat|par
+|move|p2a: Swalot|Sludge Bomb|p1a: Volbeat
+|-damage|p1a: Volbeat|118/260 par
+|
+|-heal|p1a: Volbeat|134/260 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711937410
+|move|p1a: Volbeat|Roost|p1a: Volbeat
+|-heal|p1a: Volbeat|260/260 par
+|-singleturn|p1a: Volbeat|move: Roost
+|move|p2a: Swalot|Sludge Bomb|p1a: Volbeat
+|-damage|p1a: Volbeat|166/260 par
+|
+|-heal|p1a: Volbeat|182/260 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711937420
+|cant|p1a: Volbeat|par
+|move|p2a: Swalot|Sludge Bomb|p1a: Volbeat
+|-damage|p1a: Volbeat|89/260 par
+|
+|-heal|p1a: Volbeat|105/260 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937427
+|cant|p1a: Volbeat|par
+|move|p2a: Swalot|Sludge Bomb|p1a: Volbeat
+|-damage|p1a: Volbeat|12/260 par
+|
+|-heal|p1a: Volbeat|28/260 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711937434
+|switch|p1a: Sudowoodo|Sudowoodo, L91, F|275/275
+|move|p2a: Swalot|Sludge Bomb|p1a: Sudowoodo
+|-resisted|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|228/275
+|-status|p1a: Sudowoodo|psn
+|
+|-heal|p1a: Sudowoodo|245/275 psn|[from] item: Leftovers
+|-damage|p1a: Sudowoodo|211/275 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1711937445
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|266/266
+|-damage|p2a: Furfrou|233/266|[from] Stealth Rock
+|move|p1a: Sudowoodo|Stone Edge|p2a: Furfrou
+|-damage|p2a: Furfrou|154/266
+|
+|-heal|p1a: Sudowoodo|228/275 psn|[from] item: Leftovers
+|-damage|p1a: Sudowoodo|194/275 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1711937470
+|switch|p1a: Clefable|Clefable, L80, M|283/283
+|move|p2a: Furfrou|Return|p1a: Clefable
+|-damage|p1a: Clefable|174/283
+|
+|-heal|p1a: Clefable|191/283|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711937485
+|move|p2a: Furfrou|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|165/283
+|
+|t:|1711937490
+|switch|p2a: Swalot|Swalot, L89, M|323/323 par|[from] U-turn
+|-damage|p2a: Swalot|283/323 par|[from] Stealth Rock
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Sudowoodo|psn|[msg]
+|-curestatus|p1: Volbeat|par|[msg]
+|
+|-heal|p1a: Clefable|182/283|[from] item: Leftovers
+|-heal|p2a: Swalot|303/323 par|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1711937505
+|switch|p1a: Meowstic|Meowstic, L86, M|268/268
+|move|p2a: Swalot|Sludge Bomb|p1a: Meowstic
+|-damage|p1a: Meowstic|174/268
+|
+|-heal|p1a: Meowstic|190/268|[from] item: Leftovers
+|-heal|p2a: Swalot|323/323 par|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1711937522
+|switch|p2a: Reuniclus|Reuniclus, L85, F|326/326
+|move|p1a: Meowstic|Psychic|p2a: Reuniclus
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|279/326
+|
+|-heal|p1a: Meowstic|206/268|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937543
+|move|p1a: Meowstic|Thunder Wave|p2a: Reuniclus
+|-status|p2a: Reuniclus|par
+|move|p2a: Reuniclus|Shadow Ball|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|8/268
+|
+|-heal|p1a: Meowstic|24/268|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937556
+|switch|p1a: Shiftry|Shiftry, L88, F|302/302
+|move|p2a: Reuniclus|Psyshock|p1a: Shiftry
+|-immune|p1a: Shiftry
+|
+|upkeep
+|turn|18
+|inactive|pok fanaat has 120 seconds left.
+|
+|t:|1711937578
+|switch|p2a: Swalot|Swalot, L89, M|323/323 par
+|-damage|p2a: Swalot|283/323 par|[from] Stealth Rock
+|move|p1a: Shiftry|Knock Off|p2a: Swalot
+|-crit|p2a: Swalot
+|-damage|p2a: Swalot|71/323 par
+|-activate|p2a: Swalot|ability: Sticky Hold
+|-damage|p1a: Shiftry|272/302|[from] item: Life Orb
+|
+|-heal|p2a: Swalot|91/323 par|[from] item: Black Sludge
+|upkeep
+|turn|19
+|inactive|pok fanaat has 120 seconds left.
+|
+|t:|1711937593
+|move|p1a: Shiftry|Knock Off|p2a: Swalot
+|-damage|p2a: Swalot|0 fnt
+|-enditem|p2a: Swalot|Black Sludge|[from] move: Knock Off|[of] p1a: Shiftry
+|faint|p2a: Swalot
+|-damage|p1a: Shiftry|242/302|[from] item: Life Orb
+|
+|upkeep
+|inactive|pok fanaat has 120 seconds left.
+|
+|t:|1711937615
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|154/266
+|-damage|p2a: Furfrou|121/266|[from] Stealth Rock
+|turn|20
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937643
+|switch|p1a: Sudowoodo|Sudowoodo, L91, F|194/275
+|move|p2a: Furfrou|U-turn|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|161/275
+|c|☆pok fanaat|!dex sticky hold
+|raw|<ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/stickyhold">Sticky Hold</a></span> <span class="col abilitydesccol">This Pokemon cannot lose its held item due to another Pokemon's Ability or attack.</span> </li><li style="clear:both"></li></ul>
+
+|c|☆pok fanaat|how
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937702
+|switch|p2a: Seviper|Seviper, L90, F|278/278|[from] U-turn
+|-damage|p2a: Seviper|244/278|[from] Stealth Rock
+|
+|-heal|p1a: Sudowoodo|178/275|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|La.Hellhound has 90 seconds left.
+|c|☆pok fanaat|!dex pickpocket
+|raw|<ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/pickpocket">Pickpocket</a></span> <span class="col abilitydesccol">If this Pokemon has no item and is hit by a contact move, it steals the attacker's item.</span> </li><li style="clear:both"></li></ul>
+
+|
+|t:|1711937720
+|switch|p1a: Mothim|Mothim, L92, M|278/278
+|move|p2a: Seviper|Earthquake|p1a: Mothim
+|-immune|p1a: Mothim
+|
+|upkeep
+|turn|22
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937734
+|move|p1a: Mothim|Air Slash|p2a: Seviper|[miss]
+|-miss|p1a: Mothim|p2a: Seviper
+|move|p2a: Seviper|Flamethrower|p1a: Mothim
+|-supereffective|p1a: Mothim
+|-damage|p1a: Mothim|0 fnt
+|faint|p1a: Mothim
+|-damage|p2a: Seviper|217/278|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937754
+|switch|p1a: Volbeat|Volbeat, L89, M|28/260
+|turn|23
+|
+|t:|1711937777
+|move|p1a: Volbeat|U-turn|p2a: Seviper
+|-resisted|p2a: Seviper
+|-damage|p2a: Seviper|177/278
+|
+|t:|1711937779
+|switch|p1a: Sudowoodo|Sudowoodo, L91, F|178/275|[from] U-turn
+|move|p2a: Seviper|Flamethrower|p1a: Sudowoodo
+|-resisted|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|120/275
+|-damage|p2a: Seviper|150/278|[from] item: Life Orb
+|
+|-heal|p1a: Sudowoodo|137/275|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711937792
+|move|p1a: Sudowoodo|Sucker Punch|p2a: Seviper
+|-damage|p2a: Seviper|62/278
+|move|p2a: Seviper|Earthquake|p1a: Sudowoodo
+|-supereffective|p1a: Sudowoodo
+|-damage|p1a: Sudowoodo|0 fnt
+|faint|p1a: Sudowoodo
+|-damage|p2a: Seviper|35/278|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937800
+|switch|p1a: Shiftry|Shiftry, L88, F|242/302
+|turn|25
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937808
+|move|p1a: Shiftry|Sucker Punch|p2a: Seviper
+|-damage|p2a: Seviper|0 fnt
+|faint|p2a: Seviper
+|-damage|p1a: Shiftry|212/302|[from] item: Life Orb
+|
+|upkeep
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937820
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|121/266
+|-damage|p2a: Furfrou|88/266|[from] Stealth Rock
+|turn|26
+|inactive|La.Hellhound has 90 seconds left.
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937828
+|move|p2a: Furfrou|U-turn|p1a: Shiftry
+|-supereffective|p1a: Shiftry
+|-damage|p1a: Shiftry|8/302
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937854
+|switch|p2a: Pinsir|Pinsir, L74, F|217/217|[from] U-turn
+|-damage|p2a: Pinsir|163/217|[from] Stealth Rock
+|move|p1a: Shiftry|Knock Off|p2a: Pinsir
+|-damage|p2a: Pinsir|50/217
+|-damage|p1a: Shiftry|0 fnt|[from] item: Life Orb
+|faint|p1a: Shiftry
+|
+|upkeep
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937885
+|switch|p1a: Volbeat|Volbeat, L89, M|28/260
+|turn|27
+|
+|t:|1711937889
+|detailschange|p2a: Pinsir|Pinsir-Mega, L74, F
+|-mega|p2a: Pinsir|Pinsir|Pinsirite
+|move|p1a: Volbeat|Thunder Wave|p2a: Pinsir
+|-status|p2a: Pinsir|par
+|move|p2a: Pinsir|Quick Attack|p1a: Volbeat
+|-supereffective|p1a: Volbeat
+|-damage|p1a: Volbeat|0 fnt
+|faint|p1a: Volbeat
+|
+|upkeep
+|
+|t:|1711937898
+|switch|p1a: Clefable|Clefable, L80, M|182/283
+|turn|28
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937908
+|move|p2a: Pinsir|Quick Attack|p1a: Clefable
+|-damage|p1a: Clefable|107/283
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|249/283
+|
+|-heal|p1a: Clefable|266/283|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|La.Hellhound has 90 seconds left.
+|
+|t:|1711937921
+|move|p2a: Pinsir|Quick Attack|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|160/283
+|move|p1a: Clefable|Moonblast|p2a: Pinsir
+|-damage|p2a: Pinsir|0 fnt
+|faint|p2a: Pinsir
+|
+|-heal|p1a: Clefable|177/283|[from] item: Leftovers
+|upkeep
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937931
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|88/266
+|-damage|p2a: Furfrou|55/266|[from] Stealth Rock
+|turn|30
+|
+|t:|1711937938
+|move|p2a: Furfrou|Rest|p2a: Furfrou
+|-status|p2a: Furfrou|slp|[from] move: Rest
+|-heal|p2a: Furfrou|266/266 slp|[silent]
+|-enditem|p2a: Furfrou|Chesto Berry|[eat]
+|-curestatus|p2a: Furfrou|slp|[msg]
+|move|p1a: Clefable|Thunder Wave|p2a: Furfrou
+|-status|p2a: Furfrou|par
+|
+|-heal|p1a: Clefable|194/283|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711937968
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|283/283
+|cant|p2a: Furfrou|par
+|
+|upkeep
+|turn|32
+|
+|t:|1711937980
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|184/266 par
+|move|p2a: Furfrou|Return|p1a: Clefable
+|-damage|p1a: Clefable|175/283
+|
+|-heal|p1a: Clefable|192/283|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711938005
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|102/266 par
+|move|p2a: Furfrou|Rest|p2a: Furfrou
+|-status|p2a: Furfrou|slp|[from] move: Rest
+|-heal|p2a: Furfrou|266/266 slp|[silent]
+|
+|-heal|p1a: Clefable|209/283|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1711938018
+|cant|p2a: Furfrou|slp
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|178/266 slp
+|
+|-heal|p1a: Clefable|226/283|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1711938026
+|cant|p2a: Furfrou|slp
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|84/266 slp
+|-unboost|p2a: Furfrou|spa|1
+|
+|-heal|p1a: Clefable|243/283|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1711938035
+|-curestatus|p2a: Furfrou|slp|[msg]
+|move|p2a: Furfrou|Rest|p2a: Furfrou
+|-status|p2a: Furfrou|slp|[from] move: Rest
+|-heal|p2a: Furfrou|266/266 slp|[silent]
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|179/266 slp
+|
+|-heal|p1a: Clefable|260/283|[from] item: Leftovers
+|upkeep
+|turn|37
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711938060
+|switch|p1a: Meowstic|Meowstic, L86, M|24/268
+|cant|p2a: Furfrou|slp
+|
+|-heal|p1a: Meowstic|40/268|[from] item: Leftovers
+|upkeep
+|turn|38
+|inactive|La.Hellhound has 120 seconds left.
+|
+|t:|1711938069
+|switch|p1a: Clefable|Clefable, L80, M|260/283
+|cant|p2a: Furfrou|slp
+|
+|-heal|p1a: Clefable|277/283|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1711938084
+|-curestatus|p2a: Furfrou|slp|[msg]
+|move|p2a: Furfrou|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|97/266
+|-unboost|p2a: Furfrou|spa|1
+|
+|-heal|p1a: Clefable|283/283 par|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1711938096
+|move|p2a: Furfrou|Rest|p2a: Furfrou
+|-status|p2a: Furfrou|slp|[from] move: Rest
+|-heal|p2a: Furfrou|266/266 slp|[silent]
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|upkeep
+|turn|41
+|
+|t:|1711938106
+|switch|p1a: Meowstic|Meowstic, L86, M|40/268
+|cant|p2a: Furfrou|slp
+|
+|-heal|p1a: Meowstic|56/268|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1711938114
+|move|p1a: Meowstic|Psychic|p2a: Furfrou
+|-damage|p2a: Furfrou|178/266 slp
+|cant|p2a: Furfrou|slp
+|
+|-heal|p1a: Meowstic|72/268|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711938125
+|switch|p1a: Clefable|Clefable, L80, M|283/283
+|-curestatus|p2a: Furfrou|slp|[msg]
+|move|p2a: Furfrou|Return|p1a: Clefable
+|-damage|p1a: Clefable|157/283
+|
+|-heal|p1a: Clefable|174/283|[from] item: Leftovers
+|upkeep
+|turn|44
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711938136
+|move|p2a: Furfrou|Return|p1a: Clefable
+|-damage|p1a: Clefable|60/283
+|move|p1a: Clefable|Thunder Wave|p2a: Furfrou
+|-status|p2a: Furfrou|par
+|
+|-heal|p1a: Clefable|77/283|[from] item: Leftovers
+|upkeep
+|turn|45
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711938146
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|219/283
+|move|p2a: Furfrou|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|190/283
+|
+|t:|1711938159
+|switch|p2a: Reuniclus|Reuniclus, L85, F|279/326 par|[from] U-turn
+|
+|-heal|p1a: Clefable|207/283|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1711938170
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|191/326 par
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|38/283
+|
+|-heal|p1a: Clefable|55/283|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1711938178
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|197/283
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|326/326 par
+|
+|-heal|p1a: Clefable|214/283|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|pok fanaat has 90 seconds left.
+|
+|t:|1711938186
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|232/326 par
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|50/283
+|
+|-heal|p1a: Clefable|67/283|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1711938194
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|209/283
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|53/283
+|
+|-heal|p1a: Clefable|70/283|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1711938202
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|212/283
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|39/283
+|
+|-heal|p1a: Clefable|56/283|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1711938210
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|198/283
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|17/283
+|
+|-heal|p1a: Clefable|34/283|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1711938217
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|176/283
+|cant|p2a: Reuniclus|par
+|
+|-heal|p1a: Clefable|193/283|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1711938226
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|283/283
+|move|p2a: Reuniclus|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|189/283
+|
+|-heal|p1a: Clefable|206/283|[from] item: Leftovers
+|upkeep
+|turn|54
+|inactive|pok fanaat has 120 seconds left.
+|
+|t:|1711938234
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|135/326 par
+|cant|p2a: Reuniclus|par
+|
+|-heal|p1a: Clefable|223/283|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1711938241
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|35/326 par
+|cant|p2a: Reuniclus|par
+|
+|-heal|p1a: Clefable|240/283|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1711938249
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|-heal|p1a: Clefable|257/283|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938257
+|switch|p2a: Castform|Castform, L98, M|296/296
+|-damage|p2a: Castform|259/296|[from] Stealth Rock
+|turn|57
+|
+|t:|1711938266
+|move|p2a: Castform|Return|p1a: Clefable
+|-damage|p1a: Clefable|119/283
+|move|p1a: Clefable|Thunder Wave|p2a: Castform
+|-status|p2a: Castform|par
+|
+|-heal|p1a: Clefable|136/283|[from] item: Leftovers
+|-heal|p2a: Castform|277/296 par|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1711938277
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|278/283
+|move|p2a: Castform|Return|p1a: Clefable
+|-damage|p1a: Clefable|136/283
+|
+|-heal|p1a: Clefable|153/283|[from] item: Leftovers
+|-heal|p2a: Castform|295/296 par|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1711938285
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|283/283
+|move|p2a: Castform|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p2a: Castform|296/296 par|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1711938293
+|move|p2a: Castform|Return|p1a: Clefable
+|-damage|p1a: Clefable|141/283 par
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|-heal|p1a: Clefable|158/283|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1711938302
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|283/283
+|cant|p2a: Castform|par
+|
+|upkeep
+|turn|62
+|
+|t:|1711938307
+|move|p1a: Clefable|Moonblast|p2a: Castform
+|-damage|p2a: Castform|205/296 par
+|move|p2a: Castform|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p2a: Castform|223/296 par|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1711938315
+|move|p2a: Castform|Return|p1a: Clefable
+|-damage|p1a: Clefable|154/283 par
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|-heal|p1a: Clefable|171/283|[from] item: Leftovers
+|-heal|p2a: Castform|241/296 par|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1711938326
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|283/283
+|cant|p2a: Castform|par
+|
+|-heal|p2a: Castform|259/296 par|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1711938332
+|move|p1a: Clefable|Moonblast|p2a: Castform
+|-damage|p2a: Castform|174/296 par
+|-unboost|p2a: Castform|spa|1
+|move|p2a: Castform|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p2a: Castform|192/296 par|[from] item: Leftovers
+|upkeep
+|turn|66
+|
+|t:|1711938341
+|move|p2a: Castform|Return|p1a: Clefable
+|-damage|p1a: Clefable|144/283 par
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|-heal|p1a: Clefable|161/283|[from] item: Leftovers
+|-heal|p2a: Castform|210/296 par|[from] item: Leftovers
+|upkeep
+|turn|67
+|
+|t:|1711938351
+|move|p1a: Clefable|Moonblast|p2a: Castform
+|-damage|p2a: Castform|123/296 par
+|-unboost|p2a: Castform|spa|1
+|move|p2a: Castform|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p2a: Castform|141/296 par|[from] item: Leftovers
+|-heal|p1a: Clefable|178/283 par|[from] item: Leftovers
+|upkeep
+|turn|68
+|
+|t:|1711938361
+|cant|p2a: Castform|par
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|-heal|p1a: Clefable|195/283|[from] item: Leftovers
+|-heal|p2a: Castform|159/296 par|[from] item: Leftovers
+|upkeep
+|turn|69
+|
+|t:|1711938370
+|move|p1a: Clefable|Moonblast|p2a: Castform
+|-damage|p2a: Castform|71/296 par
+|cant|p2a: Castform|par
+|
+|-heal|p1a: Clefable|212/283|[from] item: Leftovers
+|-heal|p2a: Castform|89/296 par|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|t:|1711938378
+|move|p1a: Clefable|Moonblast|p2a: Castform
+|-damage|p2a: Castform|0 fnt
+|faint|p2a: Castform
+|
+|-heal|p1a: Clefable|229/283|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938383
+|switch|p2a: Furfrou|Furfrou-Diamond, L85, M|178/266 par
+|-damage|p2a: Furfrou|145/266 par|[from] Stealth Rock
+|turn|71
+|
+|t:|1711938391
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|51/266 par
+|move|p2a: Furfrou|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p1a: Clefable|246/283 par|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|t:|1711938398
+|cant|p2a: Furfrou|par
+|move|p1a: Clefable|Moonblast|p2a: Furfrou
+|-damage|p2a: Furfrou|0 fnt
+|faint|p2a: Furfrou
+|
+|win|La.Hellhound
+|raw|La.Hellhound's rating: 1792 &rarr; <strong>1804</strong><br />(+12 for winning)
+|raw|pok fanaat's rating: 1647 &rarr; <strong>1635</strong><br />(-12 for losing)

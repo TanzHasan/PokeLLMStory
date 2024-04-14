@@ -1,0 +1,170 @@
+p1: Switched to Galvantula
+p2: Switched to Toxicroak
+Turn 1:
+p1: Galvantula used Thunder on Toxicroak
+p2: Toxicroak used Gunk Shot on Galvantula
+Turn 2:
+p2: Switched to Tinkaton
+p1: Galvantula used Sticky Web on Tinkaton
+Turn 3:
+p1: Galvantula used Thunder on Tinkaton
+p2: Tinkaton used Knock Off on Galvantula
+p1: Galvantula fainted
+p1: Switched to Gyarados
+Turn 4:
+p2: Switched to Mightyena
+p1: Gyarados used Dragon Dance on Gyarados
+Turn 5:
+p1: Gyarados used Waterfall on Mightyena
+p2: Mightyena used Throat Chop on Gyarados
+Turn 6:
+p1: Switched to Quaquaval
+p2: Mightyena used Throat Chop on Quaquaval
+Turn 7:
+p2: Switched to Vespiquen
+p1: Quaquaval used Close Combat on Vespiquen
+Turn 8:
+p1: Switched to Scream Tail
+p2: Vespiquen used Spikes on Scream Tail
+Turn 9:
+p1: Scream Tail used Thunder Wave on Vespiquen
+p2: Vespiquen used Toxic Spikes on Scream Tail
+Turn 10:
+p1: Scream Tail used Wish on Scream Tail
+p2: Vespiquen used Toxic Spikes on Scream Tail
+Turn 11:
+p1: Switched to Gyarados
+p2: Vespiquen used Hurricane on Gyarados
+Turn 12:
+p2: Switched to Mightyena
+p1: Gyarados used Dragon Dance on Gyarados
+Turn 13:
+p1: Gyarados used Waterfall on Mightyena
+p2: Mightyena can't move
+Turn 14:
+p2: Mightyena failed to use Sucker Punch
+p1: Gyarados used Dragon Dance on Gyarados
+Turn 15:
+p2: Mightyena used Sucker Punch on Gyarados
+p2: Mightyena fainted
+p1: Gyarados used Waterfall on p2: Mightyena
+p2: Switched to Ambipom
+Turn 16:
+p1: Switched to Scream Tail
+p2: Switched to Tinkaton
+Turn 17:
+p1: Scream Tail used Thunder Wave on Tinkaton
+p2: Tinkaton used Knock Off on Scream Tail
+Turn 18:
+p2: Switched to Vespiquen
+p1: Scream Tail used Wish on Scream Tail
+Turn 19:
+p1: Switched to Gyarados
+p2: Vespiquen can't move
+Turn 20:
+p1: Gyarados used Dragon Dance on Gyarados
+p2: Vespiquen used Hurricane on Gyarados
+Turn 21:
+p1: Gyarados used Temper Flare on Vespiquen
+p2: Vespiquen used Hurricane on Gyarados
+p1: Gyarados fainted
+p1: Switched to Quaquaval
+Turn 22:
+p2: Switched to Toxicroak
+p1: Quaquaval used Knock Off on Toxicroak
+Turn 23:
+p1: Quaquaval used Roost on Quaquaval
+p2: Toxicroak used Close Combat on Quaquaval
+Turn 24:
+p1: Quaquaval used Knock Off on Toxicroak
+p2: Toxicroak fainted
+p2: Switched to Ambipom
+Turn 25:
+p2: Switched to Vespiquen
+p1: Quaquaval used Close Combat on Vespiquen
+Turn 26:
+p1: Quaquaval used Roost on Quaquaval
+p2: Vespiquen used Hurricane on Quaquaval
+p1: Quaquaval fainted
+p1: Switched to Shaymin
+Turn 27:
+p1: Shaymin used Air Slash on Vespiquen
+p2: Vespiquen used Roost on Vespiquen
+Turn 28:
+p1: Shaymin used Leech Seed on Vespiquen
+p2: Vespiquen used Roost on Vespiquen
+Turn 29:
+p2: Switched to Tinkaton
+p1: Shaymin used Substitute on Shaymin
+Turn 30:
+p1: Shaymin used Leech Seed on Tinkaton
+p2: Tinkaton used Gigaton Hammer on Shaymin
+Turn 31:
+p2: Switched to Smeargle
+p1: Shaymin used Seed Flare on Smeargle
+Turn 32:
+p1: Shaymin used Air Slash on Smeargle
+p2: Smeargle used Whirlwind on Shaymin
+Turn 33:
+p1: Switched to Shaymin
+p2: Smeargle used Sticky Web on Shaymin
+Turn 34:
+p1: Shaymin used Seed Flare on Smeargle
+p2: Smeargle used Ceaseless Edge on Shaymin
+Turn 35:
+p1: Shaymin used Air Slash on Smeargle
+p2: Smeargle fainted
+p2: Switched to Ambipom
+Turn 36:
+p1: Shaymin used Seed Flare on Ambipom
+p2: Ambipom used U-turn on Shaymin
+p2: Switched to Vespiquen
+Turn 37:
+p1: Shaymin used Substitute on Shaymin
+p2: Vespiquen can't move
+Turn 38:
+p1: Shaymin used Leech Seed on Vespiquen
+p2: Vespiquen can't move
+Turn 39:
+p1: Shaymin used Seed Flare on Vespiquen
+p2: Vespiquen used Spikes on Shaymin
+Turn 40:
+p2: Switched to Tinkaton
+p1: Shaymin used Seed Flare on Tinkaton
+Turn 41:
+p1: Shaymin used Air Slash on Tinkaton
+p2: Tinkaton fainted
+p2: Switched to Vespiquen
+Turn 42:
+p1: Shaymin used Leech Seed on Vespiquen
+p2: Vespiquen used Roost on Vespiquen
+Turn 43:
+p1: Switched to Scream Tail
+p2: Vespiquen used Hurricane on Scream Tail
+Turn 44:
+p2: Switched to Ambipom
+p1: Scream Tail used Wish on Scream Tail
+Turn 45:
+p2: Ambipom used Double-Edge on Scream Tail
+p1: Scream Tail used Dazzling Gleam on Ambipom
+p2: Ambipom fainted
+p2: Switched to Vespiquen
+Turn 46:
+p1: Scream Tail used Wish on Scream Tail
+p2: Vespiquen used Hurricane on Scream Tail
+Turn 47:
+p1: Scream Tail used Protect on Scream Tail
+p2: Vespiquen used Toxic Spikes on Scream Tail
+Turn 48:
+p1: Scream Tail used Wish on Scream Tail
+p2: Vespiquen used Toxic Spikes on Scream Tail
+Turn 49:
+p1: Scream Tail used Protect on Scream Tail
+p2: Vespiquen can't move
+Turn 50:
+p1: Scream Tail used Wish on Scream Tail
+p2: Vespiquen failed to use Toxic Spikes
+Turn 51:
+p1: Scream Tail used Thunder Wave on Vespiquen
+p2: Vespiquen used Roost on Vespiquen
+Turn 52:

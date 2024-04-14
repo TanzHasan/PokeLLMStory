@@ -1,0 +1,214 @@
+|j|☆rolle_2070
+|j|☆jasdfhj
+|t:|1711946108
+|gametype|singles
+|player|p1|rolle_2070|lucas|1100
+|player|p2|jasdfhj|acetrainer-gen4dp|1047
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|3
+|tier|[Gen 3] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Switch Priority Clause Mod: Faster Pokémon switch first
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|One Boost Passer Clause: Limit one Baton Passer that has a way to boost its stats
+|rule|Freeze Clause Mod: Limit one foe frozen
+|
+|t:|1711946108
+|start
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|switch|p2a: Ninjask|Ninjask, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jasdfhj)
+|
+|t:|1711946122
+|move|p2a: Ninjask|Substitute|p2a: Ninjask
+|-start|p2a: Ninjask|Substitute
+|-damage|p2a: Ninjask|76/100
+|move|p1a: Gardevoir|Psychic|p2a: Ninjask
+|-end|p2a: Ninjask|Substitute
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711946130
+|move|p2a: Ninjask|Protect|p2a: Ninjask
+|-singleturn|p2a: Ninjask|Protect
+|move|p1a: Gardevoir|Will-O-Wisp|p2a: Ninjask|[miss]
+|-miss|p1a: Gardevoir|p2a: Ninjask
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1711946139
+|switch|p1a: Metagross|Metagross|100/100
+|move|p2a: Ninjask|Substitute|p2a: Ninjask
+|-start|p2a: Ninjask|Substitute
+|-damage|p2a: Ninjask|63/100
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711946147
+|move|p2a: Ninjask|Protect|p2a: Ninjask
+|-singleturn|p2a: Ninjask|Protect
+|move|p1a: Metagross|Earthquake|p2a: Ninjask
+|-activate|p2a: Ninjask|Protect
+|
+|-ability|p2a: Ninjask|Speed Boost|boost
+|-boost|p2a: Ninjask|spe|1
+|-heal|p2a: Ninjask|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711946156
+|move|p2a: Ninjask|Baton Pass|p2a: Ninjask
+|
+|t:|1711946158
+|switch|p2a: Vaporeon|Vaporeon, F|100/100|[from] Baton Pass
+|move|p1a: Metagross|Agility|p1a: Metagross
+|-boost|p1a: Metagross|spe|2
+|
+|upkeep
+|turn|6
+|
+|t:|1711946167
+|move|p2a: Vaporeon|Surf|p1a: Metagross
+|-damage|p1a: Metagross|63/100
+|move|p1a: Metagross|Meteor Mash|p2a: Vaporeon|[miss]
+|-miss|p1a: Metagross|p2a: Vaporeon
+|
+|-heal|p1a: Metagross|69/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711946174
+|move|p2a: Vaporeon|Surf|p1a: Metagross
+|-damage|p1a: Metagross|32/100
+|move|p1a: Metagross|Meteor Mash|p2a: Vaporeon|[miss]
+|-miss|p1a: Metagross|p2a: Vaporeon
+|
+|-heal|p1a: Metagross|38/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711946186
+|move|p2a: Vaporeon|Surf|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|t:|1711946190
+|switch|p1a: Swampert|Swampert, M|100/100
+|
+|upkeep
+|turn|9
+|
+|t:|1711946195
+|move|p2a: Vaporeon|Baton Pass|p2a: Vaporeon
+|
+|t:|1711946197
+|switch|p2a: Ninjask|Ninjask, F|75/100|[from] Baton Pass
+|move|p1a: Swampert|Earthquake|p2a: Ninjask
+|-immune|p2a: Ninjask
+|
+|-heal|p2a: Ninjask|81/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1711946204
+|move|p2a: Ninjask|Baton Pass|p2a: Ninjask
+|
+|t:|1711946206
+|switch|p2a: Hariyama|Hariyama, F|100/100|[from] Baton Pass
+|move|p1a: Swampert|Ice Beam|p2a: Hariyama
+|-activate|p2a: Hariyama|Substitute|[damage]
+|
+|upkeep
+|turn|11
+|
+|t:|1711946213
+|move|p2a: Hariyama|Belly Drum|p2a: Hariyama
+|-damage|p2a: Hariyama|51/100
+|-setboost|p2a: Hariyama|atk|6|[from] move: Belly Drum
+|move|p1a: Swampert|Surf|p2a: Hariyama
+|-end|p2a: Hariyama|Substitute
+|
+|-heal|p2a: Hariyama|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711946223
+|switch|p1a: Sceptile|Sceptile, F|100/100
+|move|p2a: Hariyama|Brick Break|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|
+|t:|1711946230
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|
+|-heal|p2a: Hariyama|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711946235
+|move|p2a: Hariyama|Hidden Power|p1a: Gardevoir
+|-supereffective|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|t:|1711946239
+|switch|p1a: Swampert|Swampert, M|100/100
+|
+|-heal|p2a: Hariyama|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711946245
+|move|p2a: Hariyama|Brick Break|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|t:|1711946250
+|switch|p1a: Salamence|Salamence, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Hariyama|atk|1
+|
+|-heal|p2a: Hariyama|75/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711946257
+|move|p2a: Hariyama|Return|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|t:|1711946261
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|
+|-heal|p2a: Hariyama|81/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711946267
+|move|p2a: Hariyama|Brick Break|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|win|jasdfhj
+|raw|rolle_2070's rating: 1100 &rarr; <strong>1071</strong><br />(-29 for losing)
+|raw|jasdfhj's rating: 1047 &rarr; <strong>1085</strong><br />(+38 for winning)

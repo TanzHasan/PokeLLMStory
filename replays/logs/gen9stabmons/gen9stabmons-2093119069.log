@@ -1,0 +1,336 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] STABmons is currently suspecting Gouging Fire! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/stabmons-suspect-4-gouging-fire-i-dont-want-to-set-the-world-on-fire.3739099/">suspect thread</a>.</strong></div>
+|j|☆Quantum Tesseract
+|j|☆Giagantic
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711915091
+|gametype|singles
+|player|p1|Quantum Tesseract|#omplxtempertyrantrums|
+|player|p2|Giagantic|#giagantic|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] STABmons
+|rated|Tournament battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Heatran, M|
+|poke|p1|Ting-Lu|
+|poke|p1|Zapdos|
+|poke|p1|Ogerpon-Wellspring, F|
+|poke|p1|Latios, M|
+|poke|p2|Chesnaught, M|
+|poke|p2|Braviary-Hisui, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Volcanion|
+|poke|p2|Kyurem|
+|poke|p2|Mabosstiff, M|
+|teampreview
+|c|☆Giagantic|hf
+|inactive|Quantum Tesseract has 120 seconds left.
+|inactive|Quantum Tesseract has 90 seconds left.
+|inactive|Quantum Tesseract has 60 seconds left.
+|c|☆Quantum Tesseract|gl hf
+|
+|t:|1711915208
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Latios|atk|1
+|turn|1
+|
+|t:|1711915214
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|-terastallize|p2a: Landorus|Steel
+|-singleturn|p2a: Landorus|move: Beak Blast
+|move|p2a: Landorus|Beak Blast|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|82/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711915224
+|switch|p2a: Kyurem|Kyurem|100/100
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Zapdos|Discharge|p2a: Kyurem
+|-resisted|p2a: Kyurem
+|-damage|p2a: Kyurem|82/100
+|-status|p2a: Kyurem|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711915235
+|move|p1a: Zapdos|U-turn|p2a: Kyurem
+|-damage|p2a: Kyurem|71/100 par
+|
+|t:|1711915237
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from] U-turn
+|move|p2a: Kyurem|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|72/100
+|-unboost|p1a: Toxapex|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1711915246
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Toxapex|Flip Turn|p2a: Volcanion
+|-immune|p2a: Volcanion|[from] ability: Water Absorb
+|
+|upkeep
+|turn|5
+|
+|t:|1711915253
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|100/100
+|move|p2a: Volcanion|Substitute|p2a: Volcanion
+|-start|p2a: Volcanion|Substitute
+|-damage|p2a: Volcanion|75/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711915257
+|move|p1a: Ogerpon|Flower Trick|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-end|p2a: Volcanion|Substitute
+|move|p2a: Volcanion|Torch Song|p1a: Ogerpon
+|-damage|p1a: Ogerpon|47/100
+|-boost|p2a: Volcanion|spa|1
+|
+|upkeep
+|turn|7
+|
+|t:|1711915268
+|switch|p2a: Chesnaught|Chesnaught, M|100/100
+|move|p1a: Ogerpon|Flower Trick|p2a: Chesnaught
+|-resisted|p2a: Chesnaught
+|-crit|p2a: Chesnaught
+|-damage|p2a: Chesnaught|82/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711915276
+|switch|p1a: Zapdos|Zapdos, shiny|82/100
+|move|p2a: Chesnaught|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|67/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Chesnaught
+|
+|upkeep
+|turn|9
+|
+|t:|1711915287
+|switch|p2a: Landorus|Landorus-Therian, M, tera:Steel|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Aeroblast|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|79/100
+|
+|upkeep
+|turn|10
+|
+|t:|1711915293
+|switch|p2a: Mabosstiff|Mabosstiff, M|100/100
+|move|p1a: Zapdos|Discharge|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|47/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711915300
+|move|p2a: Mabosstiff|Wicked Blow|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|2/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|52/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1711915305
+|switch|p1a: Ting-Lu|Ting-Lu|100/100
+|-ability|p1a: Ting-Lu|Vessel of Ruin
+|move|p2a: Mabosstiff|Wicked Blow|p1a: Ting-Lu
+|-resisted|p1a: Ting-Lu
+|-crit|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|64/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711915316
+|switch|p2a: Braviary|Braviary-Hisui, M|100/100
+|move|p1a: Ting-Lu|Ceaseless Edge|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|40/100
+|-sidestart|p2: Giagantic|Spikes
+|
+|upkeep
+|turn|14
+|
+|t:|1711915320
+|move|p2a: Braviary|Aeroblast|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|29/100
+|move|p1a: Ting-Lu|Ceaseless Edge|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|-sidestart|p2: Giagantic|Spikes
+|faint|p2a: Braviary
+|
+|upkeep
+|
+|t:|1711915338
+|switch|p2a: Volcanion|Volcanion|75/100
+|-damage|p2a: Volcanion|59/100|[from] Spikes
+|turn|15
+|
+|t:|1711915345
+|move|p2a: Volcanion|Water Shuriken|p1a: Ting-Lu
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|21/100
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|14/100
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|6/100
+|-supereffective|p1a: Ting-Lu
+|-damage|p1a: Ting-Lu|0 fnt
+|faint|p1a: Ting-Lu
+|-hitcount|p1: Ting-Lu|4
+|
+|upkeep
+|
+|t:|1711915352
+|switch|p1a: Ogerpon|Ogerpon-Wellspring, F|47/100
+|turn|16
+|
+|t:|1711915361
+|move|p1a: Ogerpon|Flower Trick|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|
+|t:|1711915369
+|switch|p2a: Landorus|Landorus-Therian, M, tera:Steel|79/100
+|-damage|p2a: Landorus|63/100|[from] Spikes
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ogerpon|atk|1
+|turn|17
+|
+|t:|1711915372
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Landorus|[anim] Ivy Cudgel Water
+|-damage|p2a: Landorus|35/100
+|move|p2a: Landorus|Defog|p1a: Ogerpon
+|-unboost|p1a: Ogerpon|evasion|1
+|-sideend|p2: Giagantic|Spikes|[from] move: Defog|[of] p2a: Landorus
+|
+|upkeep
+|turn|18
+|
+|t:|1711915376
+|move|p1a: Ogerpon|Swords Dance|p1a: Ogerpon
+|-boost|p1a: Ogerpon|atk|2
+|move|p2a: Landorus|Shore Up|p2a: Landorus
+|-heal|p2a: Landorus|85/100
+|
+|upkeep
+|turn|19
+|
+|t:|1711915379
+|-singleturn|p2a: Landorus|move: Beak Blast
+|move|p1a: Ogerpon|Ivy Cudgel|p2a: Landorus|[anim] Ivy Cudgel Water
+|-damage|p2a: Landorus|24/100
+|move|p2a: Landorus|Beak Blast|p1a: Ogerpon
+|-supereffective|p1a: Ogerpon
+|-damage|p1a: Ogerpon|0 fnt
+|faint|p1a: Ogerpon
+|
+|upkeep
+|j| NeonJolteonWasUsed
+|
+|t:|1711915387
+|switch|p1a: Latios|Latios, M|100/100
+|turn|20
+|
+|t:|1711915396
+|switch|p2a: Kyurem|Kyurem|71/100 par
+|-ability|p2a: Kyurem|Pressure
+|move|p1a: Latios|Dragon Energy|p2a: Kyurem
+|-supereffective|p2a: Kyurem
+|-damage|p2a: Kyurem|0 fnt
+|faint|p2a: Kyurem
+|
+|upkeep
+|
+|t:|1711915400
+|switch|p2a: Mabosstiff|Mabosstiff, M|47/100
+|turn|21
+|
+|t:|1711915404
+|switch|p1a: Zapdos|Zapdos, shiny|52/100
+|move|p2a: Mabosstiff|Sucker Punch||[still]
+|-fail|p2a: Mabosstiff
+|
+|upkeep
+|turn|22
+|c|☆Quantum Tesseract|gg
+|
+|t:|1711915421
+|switch|p2a: Chesnaught|Chesnaught, M|82/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1711915430
+|move|p1a: Zapdos|Aeroblast|p2a: Chesnaught
+|-supereffective|p2a: Chesnaught
+|-damage|p2a: Chesnaught|0 fnt
+|faint|p2a: Chesnaught
+|
+|upkeep
+|
+|t:|1711915435
+|switch|p2a: Mabosstiff|Mabosstiff, M|47/100
+|turn|24
+|
+|t:|1711915442
+|move|p2a: Mabosstiff|Wicked Blow|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|39/100
+|-status|p2a: Mabosstiff|par|[from] ability: Static|[of] p1a: Zapdos
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|89/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1711915446
+|move|p1a: Zapdos|Discharge|p2a: Mabosstiff
+|-damage|p2a: Mabosstiff|0 fnt
+|faint|p2a: Mabosstiff
+|
+|upkeep
+|c|☆Giagantic|lol
+|c|☆Giagantic|gg
+|-message|Giagantic forfeited.
+|
+|win|Quantum Tesseract
+|n|☆Quantum Tesseract|quantumtesseract
+|n|☆Giagantic|giagantic
+|n| NeonJolteonWasUsed|neonjolteonwasused

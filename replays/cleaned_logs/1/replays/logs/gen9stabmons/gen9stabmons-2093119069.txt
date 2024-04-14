@@ -1,0 +1,87 @@
+p1: Switched to Latios
+p2: Switched to Landorus-Therian
+Turn 1:
+p1: Switched to Zapdos
+p2: Landorus-Therian used Beak Blast on Zapdos
+Turn 2:
+p2: Switched to Kyurem
+p1: Zapdos used Discharge on Kyurem
+Turn 3:
+p1: Zapdos used U-turn on Kyurem
+p1: Switched to Toxapex
+p2: Kyurem used Earth Power on Toxapex
+Turn 4:
+p2: Switched to Volcanion
+p1: Toxapex used Flip Turn on Volcanion
+Turn 5:
+p1: Switched to Ogerpon-Wellspring
+p2: Volcanion used Substitute on Volcanion
+Turn 6:
+p1: Ogerpon-Wellspring used Flower Trick on Volcanion
+p2: Volcanion used Torch Song on Ogerpon-Wellspring
+Turn 7:
+p2: Switched to Chesnaught
+p1: Ogerpon-Wellspring used Flower Trick on Chesnaught
+Turn 8:
+p1: Switched to Zapdos
+p2: Chesnaught used Knock Off on Zapdos
+Turn 9:
+p2: Switched to Landorus-Therian
+p1: Zapdos used Aeroblast on Landorus-Therian
+Turn 10:
+p2: Switched to Mabosstiff
+p1: Zapdos used Discharge on Mabosstiff
+Turn 11:
+p2: Mabosstiff used Wicked Blow on Zapdos
+p1: Zapdos used Roost on Zapdos
+Turn 12:
+p1: Switched to Ting-Lu
+p2: Mabosstiff used Wicked Blow on Ting-Lu
+Turn 13:
+p2: Switched to Braviary-Hisui
+p1: Ting-Lu used Ceaseless Edge on Braviary-Hisui
+Turn 14:
+p2: Braviary-Hisui used Aeroblast on Ting-Lu
+p1: Ting-Lu used Ceaseless Edge on Braviary-Hisui
+p2: Braviary-Hisui fainted
+p2: Switched to Volcanion
+Turn 15:
+p2: Volcanion used Water Shuriken on Ting-Lu
+p1: Ting-Lu fainted
+p1: Switched to Ogerpon-Wellspring
+Turn 16:
+p1: Ogerpon-Wellspring used Flower Trick on Volcanion
+p2: Volcanion fainted
+p2: Switched to Landorus-Therian
+Turn 17:
+p1: Ogerpon-Wellspring used Ivy Cudgel on Landorus-Therian
+p2: Landorus-Therian used Defog on Ogerpon-Wellspring
+Turn 18:
+p1: Ogerpon-Wellspring used Swords Dance on Ogerpon-Wellspring
+p2: Landorus-Therian used Shore Up on Landorus-Therian
+Turn 19:
+p1: Ogerpon-Wellspring used Ivy Cudgel on Landorus-Therian
+p2: Landorus-Therian used Beak Blast on Ogerpon-Wellspring
+p1: Ogerpon-Wellspring fainted
+p1: Switched to Latios
+Turn 20:
+p2: Switched to Kyurem
+p1: Latios used Dragon Energy on Kyurem
+p2: Kyurem fainted
+p2: Switched to Mabosstiff
+Turn 21:
+p1: Switched to Zapdos
+p2: Mabosstiff failed to use Sucker Punch
+Turn 22:
+p2: Switched to Chesnaught
+p1: Zapdos used Roost on Zapdos
+Turn 23:
+p1: Zapdos used Aeroblast on Chesnaught
+p2: Chesnaught fainted
+p2: Switched to Mabosstiff
+Turn 24:
+p2: Mabosstiff used Wicked Blow on Zapdos
+p1: Zapdos used Roost on Zapdos
+Turn 25:
+p1: Zapdos used Discharge on Mabosstiff
+p2: Mabosstiff fainted

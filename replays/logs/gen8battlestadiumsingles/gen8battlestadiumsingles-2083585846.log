@@ -1,0 +1,316 @@
+|j|☆magolor kirby
+|j|☆Yunanan
+|t:|1710768379
+|gametype|singles
+|player|p1|magolor kirby|dawn|
+|player|p2|Yunanan|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Battle Stadium Singles
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit one of each item
+|clearpoke
+|poke|p1|Rotom-Heat, L50|
+|poke|p1|Seismitoad, L50, F|
+|poke|p1|Obstagoon, L50, M|
+|poke|p1|Togekiss, L50, M|
+|poke|p1|Ferrothorn, L50, F|
+|poke|p1|Landorus-Therian, L50, M|
+|poke|p2|Swampert, L50, F|
+|poke|p2|Zapdos, L50|
+|poke|p2|Umbreon, L50, F|
+|poke|p2|Toxapex, L50, F|
+|poke|p2|Porygon2, L50|
+|poke|p2|Venusaur, L50, M|
+|teampreview|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yunanan)
+|inactive|magolor kirby also wants the timer to be on.
+|inactive|magolor kirby has 60 seconds left.
+|
+|t:|1710768413
+|start
+|switch|p1a: Seismitoad|Seismitoad, L50, F|100/100
+|switch|p2a: ばなばなそう|Venusaur, L50, M|100/100
+|turn|1
+|
+|t:|1710768419
+|switch|p1a: Rotom|Rotom-Heat, L50|100/100
+|move|p2a: ばなばなそう|Giga Drain|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|84/100
+|
+|upkeep
+|turn|2
+|
+|t:|1710768424
+|switch|p2a: ライハ|Zapdos, L50|100/100
+|move|p1a: Rotom|Overheat|p2a: ライハ
+|-damage|p2a: ライハ|44/100
+|-unboost|p1a: Rotom|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1710768429
+|move|p1a: Rotom|Volt Switch|p2a: ライハ
+|-damage|p2a: ライハ|27/100
+|
+|t:|1710768440
+|switch|p1a: 友人に指摘され顔面の圧力の強さを自覚|Landorus-Therian, L50, M|100/100|[from] Volt Switch
+|-ability|p1a: 友人に指摘され顔面の圧力の強さを自覚|Intimidate|boost
+|-unboost|p2a: ライハ|atk|1
+|move|p2a: ライハ|Roost|p2a: ライハ
+|-heal|p2a: ライハ|77/100
+|-singleturn|p2a: ライハ|move: Roost
+|
+|upkeep
+|turn|4
+|
+|t:|1710768455
+|switch|p2a: ロリコン2|Porygon2, L50|100/100
+|-ability|p2a: ロリコン2|Intimidate|boost
+|-unboost|p1a: 友人に指摘され顔面の圧力の強さを自覚|atk|1
+|-ability|p2a: ロリコン2|Intimidate|[from] ability: Trace|[of] p1a: 友人に指摘され顔面の圧力の強さを自覚
+|move|p1a: 友人に指摘され顔面の圧力の強さを自覚|Swords Dance|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|-boost|p1a: 友人に指摘され顔面の圧力の強さを自覚|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1710768471
+|-start|p1a: 友人に指摘され顔面の圧力の強さを自覚|Dynamax|
+|-heal|p1a: 友人に指摘され顔面の圧力の強さを自覚|100/100|[silent]
+|move|p1a: 友人に指摘され顔面の圧力の強さを自覚|Max Quake|p2a: ロリコン2
+|-damage|p2a: ロリコン2|48/100
+|-boost|p1a: 友人に指摘され顔面の圧力の強さを自覚|spd|1
+|move|p2a: ロリコン2|Ice Beam|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|-supereffective|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|-damage|p1a: 友人に指摘され顔面の圧力の強さを自覚|65/100
+|
+|upkeep
+|turn|6
+|
+|t:|1710768491
+|switch|p2a: ライハ|Zapdos, L50|77/100
+|move|p1a: 友人に指摘され顔面の圧力の強さを自覚|Max Rockfall|p2a: ライハ
+|-supereffective|p2a: ライハ
+|-damage|p2a: ライハ|0 fnt
+|-weather|Sandstorm
+|faint|p2a: ライハ
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1710768503
+|switch|p2a: ロリコン2|Porygon2, L50|48/100
+|-ability|p2a: ロリコン2|Intimidate|boost
+|-unboost|p1a: 友人に指摘され顔面の圧力の強さを自覚|atk|1
+|-ability|p2a: ロリコン2|Intimidate|[from] ability: Trace|[of] p1a: 友人に指摘され顔面の圧力の強さを自覚
+|turn|7
+|
+|t:|1710768512
+|move|p1a: 友人に指摘され顔面の圧力の強さを自覚|Max Quake|p2a: ロリコン2
+|-damage|p2a: ロリコン2|12/100
+|-boost|p1a: 友人に指摘され顔面の圧力の強さを自覚|spd|1
+|move|p2a: ロリコン2|Recover|p2a: ロリコン2
+|-heal|p2a: ロリコン2|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ロリコン2|57/100|[from] Sandstorm
+|upkeep
+|-end|p1a: 友人に指摘され顔面の圧力の強さを自覚|Dynamax
+|-heal|p1a: 友人に指摘され顔面の圧力の強さを自覚|65/100|[silent]
+|turn|8
+|
+|t:|1710768515
+|move|p1a: 友人に指摘され顔面の圧力の強さを自覚|Swords Dance|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|-boost|p1a: 友人に指摘され顔面の圧力の強さを自覚|atk|2
+|move|p2a: ロリコン2|Foul Play|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|-damage|p1a: 友人に指摘され顔面の圧力の強さを自覚|0 fnt
+|faint|p1a: 友人に指摘され顔面の圧力の強さを自覚
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ロリコン2|51/100|[from] Sandstorm
+|upkeep
+|c|☆magolor kirby|おお
+|
+|t:|1710768522
+|switch|p1a: Seismitoad|Seismitoad, L50, F|100/100
+|turn|9
+|
+|t:|1710768531
+|switch|p2a: ばなばなそう|Venusaur, L50, M|100/100
+|move|p1a: Seismitoad|Sludge Wave|p2a: ばなばなそう
+|-damage|p2a: ばなばなそう|87/100
+|-damage|p1a: Seismitoad|90/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ばなばなそう|81/100|[from] Sandstorm
+|upkeep
+|turn|10
+|inactive|magolor kirby has 30 seconds left.
+|inactive|magolor kirby has 20 seconds left.
+|inactive|magolor kirby has 15 seconds left.
+|inactive|magolor kirby has 10 seconds left.
+|inactive|magolor kirby has 5 seconds left.
+|inactive|Yunanan has 30 seconds left.
+|
+|t:|1710768593
+|-start|p2a: ばなばなそう|Dynamax|Gmax
+|-heal|p2a: ばなばなそう|81/100|[silent]
+|move|p1a: Seismitoad|Earth Power|p2a: ばなばなそう
+|-damage|p2a: ばなばなそう|71/100
+|-damage|p1a: Seismitoad|80/100|[from] item: Life Orb
+|move|p2a: ばなばなそう|Max Strike|p1a: Seismitoad
+|-damage|p1a: Seismitoad|23/100
+|-unboost|p1a: Seismitoad|spe|1
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1710768608
+|switch|p1a: Rotom|Rotom-Heat, L50|84/100
+|move|p2a: ばなばなそう|Max Quake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|upkeep
+|turn|12
+|
+|t:|1710768620
+|move|p1a: Rotom|Overheat|p2a: ばなばなそう
+|-supereffective|p2a: ばなばなそう
+|-damage|p2a: ばなばなそう|35/100
+|-unboost|p1a: Rotom|spa|2
+|move|p2a: ばなばなそう|Max Strike|p1a: Rotom
+|-damage|p1a: Rotom|37/100
+|-unboost|p1a: Rotom|spe|1
+|
+|upkeep
+|-end|p2a: ばなばなそう|Dynamax
+|-heal|p2a: ばなばなそう|35/100|[silent]
+|turn|13
+|
+|t:|1710768627
+|move|p1a: Rotom|Overheat|p2a: ばなばなそう
+|-supereffective|p2a: ばなばなそう
+|-damage|p2a: ばなばなそう|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: ばなばなそう
+|
+|upkeep
+|
+|t:|1710768630
+|switch|p2a: ロリコン2|Porygon2, L50|51/100
+|-ability|p2a: ロリコン2|Levitate|[from] ability: Trace|[of] p1a: Rotom
+|turn|14
+|
+|t:|1710768633
+|move|p1a: Rotom|Volt Switch|p2a: ロリコン2
+|-damage|p2a: ロリコン2|43/100
+|
+|t:|1710768636
+|switch|p1a: Seismitoad|Seismitoad, L50, F|23/100|[from] Volt Switch
+|move|p2a: ロリコン2|Recover|p2a: ロリコン2
+|-heal|p2a: ロリコン2|93/100
+|
+|upkeep
+|turn|15
+|
+|t:|1710768639
+|move|p1a: Seismitoad|Hydro Pump|p2a: ロリコン2
+|-damage|p2a: ロリコン2|66/100
+|-damage|p1a: Seismitoad|13/100|[from] item: Life Orb
+|move|p2a: ロリコン2|Foul Play|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1710768647
+|switch|p1a: Rotom|Rotom-Heat, L50|37/100
+|turn|16
+|
+|t:|1710768658
+|move|p1a: Rotom|Discharge|p2a: ロリコン2
+|-damage|p2a: ロリコン2|42/100
+|-status|p2a: ロリコン2|par
+|move|p2a: ロリコン2|Ice Beam|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|28/100
+|
+|upkeep
+|turn|17
+|
+|t:|1710768665
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|26/100 par
+|move|p2a: ロリコン2|Recover|p2a: ロリコン2
+|-heal|p2a: ロリコン2|76/100 par
+|
+|upkeep
+|turn|18
+|
+|t:|1710768669
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|61/100 par
+|cant|p2a: ロリコン2|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1710768671
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|45/100 par
+|move|p2a: ロリコン2|Recover|p2a: ロリコン2
+|-heal|p2a: ロリコン2|95/100 par
+|
+|upkeep
+|turn|20
+|
+|t:|1710768674
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|78/100 par
+|cant|p2a: ロリコン2|par
+|
+|upkeep
+|turn|21
+|
+|t:|1710768676
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|61/100 par
+|move|p2a: ロリコン2|Ice Beam|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|17/100
+|
+|upkeep
+|turn|22
+|
+|t:|1710768677
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-damage|p2a: ロリコン2|47/100 par
+|cant|p2a: ロリコン2|par
+|
+|upkeep
+|turn|23
+|
+|t:|1710768679
+|move|p1a: Rotom|Dark Pulse|p2a: ロリコン2
+|-crit|p2a: ロリコン2
+|-damage|p2a: ロリコン2|22/100 par
+|cant|p2a: ロリコン2|flinch
+|
+|upkeep
+|turn|24
+|
+|t:|1710768682
+|move|p1a: Rotom|Overheat|p2a: ロリコン2
+|-damage|p2a: ロリコン2|0 fnt
+|-unboost|p1a: Rotom|spa|2
+|faint|p2a: ロリコン2
+|
+|win|magolor kirby
+|c|☆magolor kirby|おっけ
+|c|☆Yunanan|犯罪ですね
+|c|☆magolor kirby|いいえ

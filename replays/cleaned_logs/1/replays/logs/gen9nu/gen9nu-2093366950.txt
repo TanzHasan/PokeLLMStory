@@ -1,0 +1,93 @@
+p1: Switched to Ninetales
+p2: Switched to Overqwil
+Turn 1:
+p1: Ninetales used Will-O-Wisp on Overqwil
+p2: Overqwil used Barb Barrage on Ninetales
+Turn 2:
+p1: Switched to Venusaur
+p2: Switched to Slowbro-Galar
+Turn 3:
+p1: Venusaur used Growth on Venusaur
+p2: Slowbro-Galar used Trick Room on Slowbro-Galar
+Turn 4:
+p2: Slowbro-Galar used Shell Side Arm on Venusaur
+p1: Venusaur used Earth Power on Slowbro-Galar
+p2: Slowbro-Galar fainted
+p2: Switched to Dragalge
+Turn 5:
+p2: Dragalge used Draco Meteor on Venusaur
+p1: Venusaur fainted
+p1: Switched to Brute Bonnet
+Turn 6:
+p2: Dragalge used Draco Meteor on Brute Bonnet
+p1: Brute Bonnet used Crunch on Dragalge
+Turn 7:
+p2: Switched to Quagsire
+p1: Brute Bonnet failed to use Sucker Punch
+Turn 8:
+p1: Brute Bonnet used Crunch on Quagsire
+p2: Quagsire used Toxic Spikes on Brute Bonnet
+Turn 9:
+p1: Switched to Ninetales
+p2: Quagsire used Toxic Spikes on Ninetales
+Turn 10:
+p1: Ninetales used Encore on Quagsire
+p2: Quagsire failed to use Toxic Spikes
+Turn 11:
+p1: Switched to Typhlosion-Hisui
+p2: Switched to Lapras
+Turn 12:
+p1: Typhlosion-Hisui used Eruption on Lapras
+p2: Lapras used Rain Dance on Lapras
+Turn 13:
+p1: Typhlosion-Hisui used Focus Blast on Lapras
+p2: Lapras used Rest on Lapras
+Turn 14:
+p1: Switched to Ninetales
+p2: Lapras used Brine on Ninetales
+p1: Ninetales fainted
+p1: Switched to Typhlosion-Hisui
+Turn 15:
+p1: Typhlosion-Hisui used Focus Blast on Lapras
+p2: Lapras used Rain Dance on Lapras
+Turn 16:
+p2: Switched to Overqwil
+p1: Typhlosion-Hisui used Eruption on Overqwil
+Turn 17:
+p2: Overqwil used Liquidation on Typhlosion-Hisui
+p1: Typhlosion-Hisui used Eruption on Overqwil
+Turn 18:
+p2: Overqwil used Liquidation on Typhlosion-Hisui
+p1: Typhlosion-Hisui fainted
+p1: Switched to Brute Bonnet
+Turn 19:
+p2: Switched to Dragalge
+p1: Brute Bonnet failed to use Sucker Punch
+Turn 20:
+p2: Switched to Quagsire
+p1: Brute Bonnet used Crunch on Quagsire
+Turn 21:
+p1: Brute Bonnet used Crunch on Quagsire
+p2: Quagsire fainted
+p1: Brute Bonnet fainted
+p1: Switched to Espeon
+p2: Switched to Overqwil
+Turn 22:
+p2: Overqwil used Barb Barrage on Espeon
+p1: Switched to Infernape
+Turn 23:
+p1: Infernape used Close Combat on Overqwil
+p2: Overqwil fainted
+p2: Switched to Kingdra
+Turn 24:
+p1: Infernape used Close Combat on Kingdra
+p2: Kingdra used Agility on Kingdra
+Turn 25:
+p1: Switched to Espeon
+p2: Kingdra used Surf on Espeon
+p1: Espeon fainted
+p1: Switched to Infernape
+Turn 26:
+p1: Infernape used Mach Punch on Kingdra
+p2: Kingdra used Surf on Infernape
+p1: Infernape fainted

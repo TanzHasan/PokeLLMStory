@@ -1,0 +1,91 @@
+p1: Switched to Milotic
+p2: Switched to Clefable
+Turn 1:
+p1: Milotic used Scald on Clefable
+p2: Clefable used Knock Off on Milotic
+Turn 2:
+p1: Milotic used Flip Turn on Clefable
+p1: Switched to Hatterene
+p2: Clefable used Stealth Rock on Hatterene
+p1: Hatterene used Stealth Rock on Clefable
+Turn 3:
+p2: Clefable used Knock Off on Hatterene
+p1: Hatterene used Mystical Fire on Clefable
+Turn 4:
+p2: Switched to Skeledirge
+p1: Hatterene used Mystical Fire on Skeledirge
+Turn 5:
+p1: Switched to Milotic
+p2: Skeledirge used Torch Song on Milotic
+Turn 6:
+p2: Switched to Alomomola
+p1: Milotic used Scald on Alomomola
+Turn 7:
+p1: Milotic used Scald on Alomomola
+p2: Alomomola used Wish on Alomomola
+Turn 8:
+p1: Milotic used Scald on Alomomola
+p2: Alomomola used Flip Turn on Milotic
+p2: Switched to Clefable
+Turn 9:
+p1: Milotic used Scald on Clefable
+p2: Clefable used Stealth Rock on Milotic
+Turn 10:
+p1: Milotic used Scald on Clefable
+p2: Clefable used Moonblast on Milotic
+Turn 11:
+p1: Milotic used Flip Turn on Clefable
+p1: Switched to Pecharunt
+p2: Clefable used Moonlight on Clefable
+Turn 12:
+p1: Pecharunt used Nasty Plot on Pecharunt
+p2: Clefable used Knock Off on Pecharunt
+Turn 13:
+p2: Switched to Clodsire
+p1: Pecharunt used Malignant Chain on Clodsire
+Turn 14:
+p1: Switched to Hatterene
+p2: Clodsire used Earthquake on Hatterene
+Turn 15:
+p2: Switched to Skeledirge
+p1: Hatterene used Psyshock on Skeledirge
+Turn 16:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Hatterene used Psyshock on Skeledirge
+Turn 17:
+p2: Skeledirge used Torch Song on Hatterene
+p1: Hatterene used Psyshock on Skeledirge
+Turn 18:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Hatterene used Psyshock on Skeledirge
+Turn 19:
+p2: Skeledirge used Slack Off on Skeledirge
+p1: Hatterene used Psyshock on Skeledirge
+Turn 20:
+p1: Switched to Milotic
+p2: Skeledirge used Slack Off on Skeledirge
+Turn 21:
+p2: Switched to Clefable
+p1: Milotic used Flip Turn on Clefable
+p1: Switched to Glastrier
+Turn 22:
+p2: Switched to Skarmory
+p1: Glastrier used Icicle Crash on Skarmory
+Turn 23:
+p1: Glastrier used Icicle Crash on Skarmory
+p2: Skarmory used Spikes on Glastrier
+Turn 24:
+p1: Glastrier used Icicle Crash on Skarmory
+p2: Skarmory used Roost on Skarmory
+Turn 25:
+p1: Switched to Hatterene
+p1: Hatterene fainted
+p2: Skarmory used Iron Defense on Skarmory
+p1: Switched to Milotic
+Turn 26:
+p2: Switched to Alomomola
+p1: Milotic used Scald on Alomomola
+Turn 27:
+p1: Milotic used Recover on Milotic
+p2: Alomomola used Wish on Alomomola
+Turn 28:

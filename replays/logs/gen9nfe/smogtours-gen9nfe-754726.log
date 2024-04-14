@@ -1,0 +1,207 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1711133521
+|gametype|singles
+|player|p1|Medeiaa|#bssplviiidavesdragonairs|
+|player|p2|temp|#temp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NFE
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Girafarig, M|
+|poke|p1|Quaxwell, F|
+|poke|p1|Gligar, M|
+|poke|p1|Tinkatuff, F|
+|poke|p1|Electabuzz, M|
+|poke|p1|Misdreavus, M|
+|poke|p2|Cutiefly, F|
+|poke|p2|Misdreavus, F|
+|poke|p2|Girafarig, M|
+|poke|p2|Wartortle, M|
+|poke|p2|Monferno, M|
+|poke|p2|Piloswine, M|
+|teampreview
+|inactive|Medeiaa has 270 seconds left.
+|
+|t:|1711133554
+|start
+|switch|p1a: Tinkatuff|Tinkatuff, F|100/100
+|switch|p2a: Cutiefly|Cutiefly, F|100/100
+|-ability|p1a: Tinkatuff|Mold Breaker
+|turn|1
+|
+|t:|1711133567
+|move|p2a: Cutiefly|Sticky Web|p1a: Tinkatuff
+|-sidestart|p1: Medeiaa|move: Sticky Web
+|move|p1a: Tinkatuff|Stealth Rock|p2a: Cutiefly
+|-sidestart|p2: temp|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711133583
+|move|p2a: Cutiefly|Moonblast|p1a: Tinkatuff
+|-resisted|p1a: Tinkatuff
+|-damage|p1a: Tinkatuff|92/100
+|move|p1a: Tinkatuff|Play Rough|p2a: Cutiefly
+|-damage|p2a: Cutiefly|39/100
+|-unboost|p2a: Cutiefly|atk|1
+|
+|upkeep
+|turn|3
+|
+|t:|1711133591
+|move|p2a: Cutiefly|Switcheroo|p1a: Tinkatuff
+|-activate|p2a: Cutiefly|move: Trick|[of] p1a: Tinkatuff
+|-item|p1a: Tinkatuff|Focus Sash|[from] move: Switcheroo
+|-item|p2a: Cutiefly|Eviolite|[from] move: Switcheroo
+|move|p1a: Tinkatuff|Play Rough|p2a: Cutiefly
+|-damage|p2a: Cutiefly|1/100
+|
+|upkeep
+|turn|4
+|
+|t:|1711133621
+|move|p2a: Cutiefly|Pounce|p1a: Tinkatuff
+|-resisted|p1a: Tinkatuff
+|-damage|p1a: Tinkatuff|90/100
+|-unboost|p1a: Tinkatuff|spe|1
+|move|p1a: Tinkatuff|Knock Off|p2a: Cutiefly
+|-resisted|p2a: Cutiefly
+|-damage|p2a: Cutiefly|0 fnt
+|-enditem|p2a: Cutiefly|Eviolite|[from] move: Knock Off|[of] p1a: Tinkatuff
+|faint|p2a: Cutiefly
+|
+|upkeep
+|
+|t:|1711133631
+|switch|p2a: Piloswine|Piloswine, M|100/100
+|-damage|p2a: Piloswine|88/100|[from] Stealth Rock
+|turn|5
+|inactive|Medeiaa has 270 seconds left.
+|
+|t:|1711133654
+|switch|p1a: Quaxwell|Quaxwell, F|100/100
+|-activate|p1a: Quaxwell|move: Sticky Web
+|-unboost|p1a: Quaxwell|spe|1
+|move|p2a: Piloswine|Earthquake|p1a: Quaxwell
+|-damage|p1a: Quaxwell|70/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711133662
+|switch|p2a: Misdreavus|Misdreavus, F|100/100
+|-damage|p2a: Misdreavus|88/100|[from] Stealth Rock
+|move|p1a: Quaxwell|Roost|p1a: Quaxwell
+|-heal|p1a: Quaxwell|100/100
+|-singleturn|p1a: Quaxwell|move: Roost
+|
+|upkeep
+|turn|7
+|inactive|Medeiaa has 270 seconds left.
+|inactive|Medeiaa has 240 seconds left.
+|
+|t:|1711133708
+|switch|p1a: Girafarig|Girafarig, M|100/100
+|-activate|p1a: Girafarig|move: Sticky Web
+|-unboost|p1a: Girafarig|spe|1
+|move|p2a: Misdreavus|Substitute|p2a: Misdreavus
+|-start|p2a: Misdreavus|Substitute
+|-damage|p2a: Misdreavus|63/100
+|
+|upkeep
+|turn|8
+|
+|t:|1711133717
+|move|p2a: Misdreavus|Nasty Plot|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|2
+|move|p1a: Girafarig|Psychic|p2a: Misdreavus
+|-end|p2a: Misdreavus|Substitute
+|
+|upkeep
+|turn|9
+|
+|t:|1711133733
+|move|p2a: Misdreavus|Nasty Plot|p2a: Misdreavus
+|-boost|p2a: Misdreavus|spa|2
+|move|p1a: Girafarig|Psychic|p2a: Misdreavus
+|-damage|p2a: Misdreavus|27/100
+|
+|upkeep
+|turn|10
+|inactive|Medeiaa has 240 seconds left.
+|
+|t:|1711133776
+|move|p2a: Misdreavus|Draining Kiss|p1a: Girafarig
+|-damage|p1a: Girafarig|59/100
+|-heal|p2a: Misdreavus|61/100|[from] drain|[of] p1a: Girafarig
+|move|p1a: Girafarig|Psychic|p2a: Misdreavus
+|-damage|p2a: Misdreavus|22/100
+|
+|upkeep
+|turn|11
+|
+|t:|1711133788
+|move|p2a: Misdreavus|Draining Kiss|p1a: Girafarig
+|-damage|p1a: Girafarig|13/100
+|-heal|p2a: Misdreavus|60/100|[from] drain|[of] p1a: Girafarig
+|move|p1a: Girafarig|Psychic|p2a: Misdreavus
+|-damage|p2a: Misdreavus|22/100
+|
+|upkeep
+|turn|12
+|
+|t:|1711133795
+|move|p2a: Misdreavus|Draining Kiss|p1a: Girafarig
+|-damage|p1a: Girafarig|0 fnt
+|-heal|p2a: Misdreavus|32/100|[from] drain|[of] p1a: Girafarig
+|faint|p1a: Girafarig
+|
+|upkeep
+|
+|t:|1711133809
+|switch|p1a: Gligar|Gligar, M|100/100
+|turn|13
+|
+|t:|1711133828
+|move|p2a: Misdreavus|Substitute|p2a: Misdreavus
+|-start|p2a: Misdreavus|Substitute
+|-damage|p2a: Misdreavus|7/100
+|move|p1a: Gligar|Knock Off|p2a: Misdreavus
+|-supereffective|p2a: Misdreavus
+|-end|p2a: Misdreavus|Substitute
+|
+|upkeep
+|turn|14
+|inactive|Medeiaa has 240 seconds left.
+|
+|t:|1711133835
+|move|p2a: Misdreavus|Shadow Ball|p1a: Gligar
+|-damage|p1a: Gligar|0 fnt
+|faint|p1a: Gligar
+|
+|upkeep
+|
+|t:|1711133838
+|switch|p1a: Misdreavus|Misdreavus, M|100/100
+|turn|15
+|
+|t:|1711133851
+|move|p2a: Misdreavus|Shadow Ball|p1a: Misdreavus
+|-supereffective|p1a: Misdreavus
+|-damage|p1a: Misdreavus|0 fnt
+|faint|p1a: Misdreavus
+|
+|upkeep
+|-message|Medeiaa forfeited.
+|
+|win|temp
+|player|p1|

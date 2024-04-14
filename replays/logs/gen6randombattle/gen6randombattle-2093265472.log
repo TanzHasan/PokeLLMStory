@@ -1,0 +1,95 @@
+|j|☆mridiotsauce
+|j|‽La.Hellhound
+|t:|1711932135
+|gametype|singles
+|player|p1|mridiotsauce|colress|1739
+|player|p2|La.Hellhound|bruno|1701
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|6
+|tier|[Gen 6] Random Battle
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711932135
+|start
+|switch|p1a: Blastoise|Blastoise, L84, M|270/270
+|switch|p2a: Primeape|Primeape, L86, F|252/252
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by La.Hellhound)
+|
+|t:|1711932148
+|move|p2a: Primeape|U-turn|p1a: Blastoise
+|-damage|p1a: Blastoise|199/270
+|
+|t:|1711932151
+|switch|p2a: Poliwrath|Poliwrath, L89, M|305/305|[from] U-turn
+|move|p1a: Blastoise|Scald|p2a: Poliwrath
+|-immune|p2a: Poliwrath|[from] ability: Water Absorb
+|
+|-heal|p1a: Blastoise|215/270|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1711932160
+|move|p1a: Blastoise|Toxic|p2a: Poliwrath
+|-status|p2a: Poliwrath|tox
+|move|p2a: Poliwrath|Circle Throw|p1a: Blastoise
+|-damage|p1a: Blastoise|154/270
+|drag|p1a: Heatmor|Heatmor, L89, F|296/296
+|
+|-damage|p2a: Poliwrath|286/305 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1711932176
+|move|p2a: Poliwrath|Scald|p1a: Heatmor
+|-supereffective|p1a: Heatmor
+|-damage|p1a: Heatmor|128/296
+|move|p1a: Heatmor|Giga Drain|p2a: Poliwrath
+|-supereffective|p2a: Poliwrath
+|-damage|p2a: Poliwrath|140/305 tox
+|-heal|p1a: Heatmor|201/296|[from] drain|[of] p2a: Poliwrath
+|-damage|p1a: Heatmor|172/296|[from] item: Life Orb
+|
+|-heal|p2a: Poliwrath|159/305 tox|[from] item: Leftovers
+|-damage|p2a: Poliwrath|121/305 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1711932203
+|switch|p2a: Florges|Florges, L84, F|268/268
+|switch|p1a: Parasect|Parasect, L98, M|276/276
+|
+|upkeep
+|turn|5
+|
+|t:|1711932211
+|move|p2a: Florges|Toxic|p1a: Parasect
+|-status|p1a: Parasect|tox
+|move|p1a: Parasect|Spore|p2a: Florges
+|-status|p2a: Florges|slp|[from] move: Spore
+|
+|-damage|p1a: Parasect|259/276 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1711932224
+|switch|p2a: Flareon|Flareon, L88, F|258/258
+|move|p1a: Parasect|Aromatherapy|p1a: Parasect
+|-activate|p1a: Parasect|move: Aromatherapy
+|-curestatus|p1a: Parasect|tox|[msg]
+|
+|-heal|p1a: Parasect|276/276|[from] item: Leftovers
+|-status|p2a: Flareon|tox|[from] item: Toxic Orb
+|upkeep
+|turn|7
+|-message|mridiotsauce forfeited.
+|
+|win|La.Hellhound
+|raw|mridiotsauce's rating: 1739 &rarr; <strong>1717</strong><br />(-22 for losing)
+|raw|La.Hellhound's rating: 1701 &rarr; <strong>1723</strong><br />(+22 for winning)
+|l|☆mridiotsauce
+|player|p1|

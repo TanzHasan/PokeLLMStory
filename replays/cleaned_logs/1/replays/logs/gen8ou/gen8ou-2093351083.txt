@@ -1,0 +1,124 @@
+p1: Switched to Weavile
+p2: Switched to Slowbro
+Turn 1:
+p1: Weavile used Beat Up on Slowbro
+p2: Slowbro used Body Press on Weavile
+p1: Weavile fainted
+p1: Switched to Ferrothorn
+Turn 2:
+p2: Switched to Heatran
+p1: Ferrothorn used Stealth Rock on Heatran
+Turn 3:
+p2: Heatran used Magma Storm on Ferrothorn
+p1: Ferrothorn fainted
+p1: Switched to Landorus-Therian
+Turn 4:
+p2: Switched to Landorus-Therian
+p1: Landorus-Therian used Knock Off on Landorus-Therian
+Turn 5:
+p2: Landorus-Therian used Defog on Landorus-Therian
+p1: Landorus-Therian used U-turn on Landorus-Therian
+p1: Switched to Dragonite
+Turn 6:
+p1: Dragonite used Ice Punch on Landorus-Therian
+p2: Landorus-Therian fainted
+p2: Switched to Umbreon
+Turn 7:
+p1: Switched to Melmetal
+p2: Umbreon used Wish on Umbreon
+Turn 8:
+p2: Switched to Slowbro
+p1: Melmetal used Double Iron Bash on Slowbro
+Turn 9:
+p1: Melmetal used Thunder Punch on Slowbro
+p2: Slowbro used Scald on Melmetal
+Turn 10:
+p2: Switched to Umbreon
+p1: Melmetal used Thunder Punch on Umbreon
+Turn 11:
+p2: Umbreon used Wish on Umbreon
+p1: Melmetal used Double Iron Bash on Umbreon
+Turn 12:
+p2: Umbreon used Foul Play on Melmetal
+p1: Melmetal used Double Iron Bash on Umbreon
+Turn 13:
+p2: Umbreon used Wish on Umbreon
+p1: Melmetal used Double Iron Bash on Umbreon
+Turn 14:
+p2: Umbreon used Protect on Umbreon
+p1: Melmetal used Ice Punch on Umbreon
+Turn 15:
+p2: Umbreon used Wish on Umbreon
+p1: Melmetal used Double Iron Bash on Umbreon
+Turn 16:
+p2: Umbreon used Protect on Umbreon
+p1: Melmetal used Double Iron Bash on Umbreon
+Turn 17:
+p2: Switched to Heatran
+p1: Melmetal used Double Iron Bash on Heatran
+Turn 18:
+p1: Switched to Landorus-Therian
+p2: Heatran used Magma Storm on Landorus-Therian
+Turn 19:
+p2: Switched to Slowbro
+p1: Landorus-Therian used Earthquake on Slowbro
+Turn 20:
+p1: Landorus-Therian used U-turn on Slowbro
+p1: Switched to Tapu Koko
+p2: Slowbro used Slack Off on Slowbro
+Turn 21:
+p2: Switched to Heatran
+p1: Tapu Koko used Calm Mind on Tapu Koko
+Turn 22:
+p1: Tapu Koko used Thunderbolt on Heatran
+p2: Heatran used Magma Storm on Tapu Koko
+Turn 23:
+p1: Tapu Koko used Roost on Tapu Koko
+p2: Heatran used Earth Power on Tapu Koko
+Turn 24:
+p1: Tapu Koko used Thunderbolt on Heatran
+p2: Heatran used Earth Power on Tapu Koko
+p1: Tapu Koko fainted
+p1: Switched to Landorus-Therian
+Turn 25:
+p2: Switched to Slowbro
+p1: Landorus-Therian used U-turn on Slowbro
+p1: Switched to Melmetal
+Turn 26:
+p1: Melmetal used Double Iron Bash on Slowbro
+p2: Slowbro used Scald on Melmetal
+Turn 27:
+p1: Switched to Dragonite
+p2: Slowbro used Slack Off on Slowbro
+Turn 28:
+p1: Dragonite used Dragon Dance on Dragonite
+p2: Slowbro used Teleport on Slowbro
+p2: Switched to Umbreon
+Turn 29:
+p1: Dragonite used Ice Punch on Umbreon
+p2: Umbreon used Foul Play on Dragonite
+Turn 30:
+p1: Dragonite used Ice Punch on Umbreon
+p2: Umbreon used Foul Play on Dragonite
+Turn 31:
+p1: Dragonite used Ice Punch on Umbreon
+p2: Umbreon used Foul Play on Dragonite
+p1: Dragonite fainted
+p1: Switched to Landorus-Therian
+Turn 32:
+p1: Landorus-Therian used Earthquake on Umbreon
+p2: Umbreon used Wish on Umbreon
+Turn 33:
+p2: Switched to Kartana
+p1: Landorus-Therian used Earthquake on Kartana
+Turn 34:
+p2: Kartana used Leaf Blade on Landorus-Therian
+p1: Landorus-Therian used Earthquake on Kartana
+Turn 35:
+p2: Kartana used Leaf Blade on Landorus-Therian
+p1: Landorus-Therian fainted
+p1: Switched to Melmetal
+Turn 36:
+p2: Kartana used Leaf Blade on Melmetal
+p1: Melmetal used Superpower on Kartana
+p1: Melmetal fainted

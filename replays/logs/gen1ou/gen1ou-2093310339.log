@@ -1,0 +1,907 @@
+|j|☆Princessconsuelaxo
+|j|☆Strange Cr3ature
+|t:|1711937670
+|gametype|singles
+|player|p1|Princessconsuelaxo|clerkf|1349
+|player|p2|Strange Cr3ature|swimmer-gen4dp|1235
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|1
+|tier|[Gen 1] OU
+|rated|
+|rule|Desync Clause Mod: Desyncs changed to move failure.
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Freeze Clause Mod: Limit one foe frozen
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|
+|t:|1711937670
+|start
+|switch|p1a: Gengar|Gengar|100/100
+|switch|p2a: Me when cereal|Alakazam|100/100
+|turn|1
+|
+|t:|1711937677
+|switch|p2a: An actual child|Chansey|100/100
+|move|p1a: Gengar|Hypnosis|p2a: An actual child|[miss]
+|-miss|p1a: Gengar
+|
+|upkeep
+|turn|2
+|
+|t:|1711937681
+|move|p1a: Gengar|Hypnosis|p2a: An actual child|[miss]
+|-miss|p1a: Gengar
+|move|p2a: An actual child|Thunder Wave|p1a: Gengar
+|-status|p1a: Gengar|par
+|
+|upkeep
+|turn|3
+|
+|t:|1711937686
+|move|p2a: An actual child|Seismic Toss|p1a: Gengar
+|-damage|p1a: Gengar|70/100 par
+|move|p1a: Gengar|Hypnosis|p2a: An actual child
+|-status|p2a: An actual child|slp|[from] move: Hypnosis
+|
+|upkeep
+|turn|4
+|
+|t:|1711937698
+|switch|p2a: Me when cereal|Alakazam|100/100
+|move|p1a: Gengar|Explosion|p2a: Me when cereal
+|-damage|p2a: Me when cereal|4/100
+|faint|p1a: Gengar
+|
+|t:|1711937709
+|switch|p1a: Alakazam|Alakazam|100/100
+|turn|5
+|
+|t:|1711937720
+|switch|p2a: Garfield|Slowbro|100/100
+|move|p1a: Alakazam|Psychic|p2a: Garfield
+|-resisted|p2a: Garfield
+|-damage|p2a: Garfield|82/100
+|
+|upkeep
+|turn|6
+|
+|t:|1711937725
+|move|p1a: Alakazam|Thunder Wave|p2a: Garfield
+|-status|p2a: Garfield|par
+|cant|p2a: Garfield|par
+|
+|upkeep
+|turn|7
+|
+|t:|1711937730
+|move|p1a: Alakazam|Mimic|p2a: Garfield
+|-start|p1a: Alakazam|Mimic|Thunder Wave
+|move|p2a: Garfield|Amnesia|p2a: Garfield
+|-boost|p2a: Garfield|spa|2
+|-boost|p2a: Garfield|spd|2
+|
+|upkeep
+|turn|8
+|
+|t:|1711937737
+|move|p1a: Alakazam|Psychic|p2a: Garfield
+|-resisted|p2a: Garfield
+|-damage|p2a: Garfield|72/100 par
+|move|p2a: Garfield|Amnesia|p2a: Garfield
+|-boost|p2a: Garfield|spa|2
+|-boost|p2a: Garfield|spd|2
+|
+|upkeep
+|turn|9
+|
+|t:|1711937745
+|switch|p1a: Victreebel|Victreebel|100/100
+|cant|p2a: Garfield|par
+|
+|upkeep
+|turn|10
+|
+|t:|1711937751
+|move|p1a: Victreebel|Razor Leaf|p2a: Garfield
+|-crit|p2a: Garfield
+|-supereffective|p2a: Garfield
+|-damage|p2a: Garfield|0 fnt
+|faint|p2a: Garfield
+|
+|t:|1711937760
+|switch|p2a: Me when cereal|Alakazam|4/100
+|turn|11
+|
+|t:|1711937786
+|move|p2a: Me when cereal|Recover|p2a: Me when cereal
+|-heal|p2a: Me when cereal|54/100
+|move|p1a: Victreebel|Stun Spore|p2a: Me when cereal|[miss]
+|-miss|p1a: Victreebel
+|
+|upkeep
+|turn|12
+|
+|t:|1711937793
+|switch|p1a: Slowbro|Slowbro|100/100
+|move|p2a: Me when cereal|Psychic|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|80/100
+|
+|upkeep
+|turn|13
+|
+|t:|1711937810
+|move|p2a: Me when cereal|Seismic Toss|p1a: Slowbro
+|-damage|p1a: Slowbro|54/100
+|move|p1a: Slowbro|Thunder Wave|p2a: Me when cereal
+|-status|p2a: Me when cereal|par
+|
+|upkeep
+|turn|14
+|
+|t:|1711937826
+|move|p1a: Slowbro|Amnesia|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|2
+|-boost|p1a: Slowbro|spd|2
+|move|p2a: Me when cereal|Thunder Wave|p1a: Slowbro
+|-status|p1a: Slowbro|par
+|
+|upkeep
+|turn|15
+|
+|t:|1711937834
+|switch|p2a: The fellas|Exeggutor|100/100
+|move|p1a: Slowbro|Amnesia|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|2
+|-boost|p1a: Slowbro|spd|2
+|
+|upkeep
+|turn|16
+|
+|t:|1711937842
+|move|p2a: The fellas|Sleep Powder|p1a: Slowbro
+|-fail|p1a: Slowbro
+|move|p1a: Slowbro|Thunder Wave|p2a: The fellas
+|-status|p2a: The fellas|par
+|
+|upkeep
+|turn|17
+|c|☆Strange Cr3ature|wow im dumb
+|
+|t:|1711937855
+|cant|p2a: The fellas|par
+|cant|p1a: Slowbro|par
+|
+|upkeep
+|turn|18
+|
+|t:|1711937859
+|move|p2a: The fellas|Explosion|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|faint|p2a: The fellas
+|
+|t:|1711937865
+|switch|p2a: Eepy|Snorlax|100/100
+|switch|p1a: Cloyster|Cloyster|100/100
+|turn|19
+|
+|t:|1711937878
+|switch|p2a: An actual child|Chansey|100/100 slp
+|move|p1a: Cloyster|Clamp|p2a: An actual child
+|-damage|p2a: An actual child|95/100 slp
+|
+|upkeep
+|turn|20
+|
+|t:|1711937888
+|switch|p1a: Dragonite|Dragonite|100/100
+|cant|p2a: An actual child|slp
+|
+|upkeep
+|turn|21
+|
+|t:|1711937896
+|move|p1a: Dragonite|Agility|p1a: Dragonite
+|-boost|p1a: Dragonite|spe|2
+|cant|p2a: An actual child|slp
+|
+|upkeep
+|turn|22
+|
+|t:|1711937903
+|move|p1a: Dragonite|Surf|p2a: An actual child
+|-damage|p2a: An actual child|84/100 slp
+|cant|p2a: An actual child|slp
+|
+|upkeep
+|turn|23
+|
+|t:|1711937907
+|move|p1a: Dragonite|Surf|p2a: An actual child
+|-damage|p2a: An actual child|74/100 slp
+|-curestatus|p2a: An actual child|slp|[msg]
+|
+|upkeep
+|turn|24
+|
+|t:|1711937916
+|move|p1a: Dragonite|Wrap|p2a: An actual child
+|-crit|p2a: An actual child
+|-damage|p2a: An actual child|64/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|25
+|
+|t:|1711937932
+|switch|p2a: Eepy|Snorlax|100/100
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|96/100
+|
+|upkeep
+|turn|26
+|
+|t:|1711937940
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|92/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|27
+|
+|t:|1711937944
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|88/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|28
+|
+|t:|1711937949
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[miss]
+|-miss|p1a: Dragonite
+|move|p2a: Eepy|Reflect|p2a: Eepy
+|-start|p2a: Eepy|Reflect
+|
+|upkeep
+|turn|29
+|
+|t:|1711937954
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|87/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|30
+|
+|t:|1711937958
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|85/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|31
+|
+|t:|1711937962
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|83/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|32
+|
+|t:|1711937967
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-crit|p2a: Eepy
+|-damage|p2a: Eepy|76/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|33
+|
+|t:|1711937971
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|69/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|34
+|
+|t:|1711937976
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-crit|p2a: Eepy
+|-damage|p2a: Eepy|62/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|35
+|
+|t:|1711937981
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|54/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|36
+|
+|t:|1711937987
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|47/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|37
+|
+|t:|1711937991
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|45/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|38
+|
+|t:|1711937995
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|43/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|39
+|
+|t:|1711938000
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|41/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|40
+|
+|t:|1711938004
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|39/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|41
+|
+|t:|1711938008
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|37/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|42
+|
+|t:|1711938013
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|35/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|43
+|
+|t:|1711938017
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|33/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|44
+|
+|t:|1711938022
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|31/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|45
+|
+|t:|1711938027
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|29/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|46
+|
+|t:|1711938031
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|27/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|47
+|
+|t:|1711938035
+|move|p1a: Dragonite|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|24/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|48
+|
+|t:|1711938040
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|22/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|49
+|
+|t:|1711938044
+|move|p1a: Dragonite|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|20/100
+|cant|p2a: Eepy|partiallytrapped
+|
+|upkeep
+|turn|50
+|
+|t:|1711938049
+|switch|p2a: Luigi's mansion|Tauros|100/100
+|move|p1a: Dragonite|Wrap|p2a: Luigi's mansion|[miss]
+|-miss|p1a: Dragonite
+|
+|upkeep
+|turn|51
+|
+|t:|1711938055
+|move|p1a: Dragonite|Thunder Wave|p2a: Luigi's mansion
+|-status|p2a: Luigi's mansion|par
+|cant|p2a: Luigi's mansion|par
+|
+|upkeep
+|turn|52
+|
+|t:|1711938068
+|switch|p2a: An actual child|Chansey|64/100
+|move|p1a: Dragonite|Wrap|p2a: An actual child
+|-damage|p2a: An actual child|58/100
+|
+|upkeep
+|turn|53
+|
+|t:|1711938074
+|move|p1a: Dragonite|Wrap|p2a: An actual child|[from]Wrap
+|-damage|p2a: An actual child|52/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|54
+|
+|t:|1711938078
+|move|p1a: Dragonite|Wrap|p2a: An actual child
+|-damage|p2a: An actual child|46/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|55
+|
+|t:|1711938082
+|move|p1a: Dragonite|Wrap|p2a: An actual child|[from]Wrap
+|-damage|p2a: An actual child|41/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|56
+|
+|t:|1711938087
+|move|p1a: Dragonite|Wrap|p2a: An actual child|[from]Wrap
+|-damage|p2a: An actual child|35/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|57
+|
+|t:|1711938091
+|move|p1a: Dragonite|Wrap|p2a: An actual child|[miss]
+|-miss|p1a: Dragonite
+|move|p2a: An actual child|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|58
+|
+|t:|1711938105
+|move|p2a: An actual child|Soft-Boiled|p2a: An actual child
+|-heal|p2a: An actual child|85/100
+|move|p1a: Dragonite|Thunder Wave|p2a: An actual child
+|-status|p2a: An actual child|par
+|
+|upkeep
+|turn|59
+|
+|t:|1711938112
+|move|p1a: Dragonite|Agility|p1a: Dragonite
+|-boost|p1a: Dragonite|spe|2
+|move|p2a: An actual child|Reflect|p2a: An actual child
+|-start|p2a: An actual child|Reflect
+|
+|upkeep
+|turn|60
+|
+|t:|1711938118
+|move|p1a: Dragonite|Wrap|p2a: An actual child
+|-crit|p2a: An actual child
+|-damage|p2a: An actual child|74/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|61
+|
+|t:|1711938125
+|switch|p2a: Eepy|Snorlax|20/100
+|cant|p1a: Dragonite|par
+|
+|upkeep
+|turn|62
+|
+|t:|1711938131
+|cant|p1a: Dragonite|par
+|move|p2a: Eepy|Rest|p2a: Eepy
+|-status|p2a: Eepy|slp|[from] move: Rest
+|-heal|p2a: Eepy|100/100 slp|[silent]
+|
+|upkeep
+|turn|63
+|
+|t:|1711938139
+|switch|p1a: Victreebel|Victreebel|100/100
+|switch|p2a: Luigi's mansion|Tauros|100/100 par
+|
+|upkeep
+|turn|64
+|
+|t:|1711938150
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|97/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|65
+|
+|t:|1711938155
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|94/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|66
+|
+|t:|1711938159
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|90/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|67
+|
+|t:|1711938163
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|87/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|68
+|
+|t:|1711938167
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|83/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|69
+|
+|t:|1711938172
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|79/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|70
+|
+|t:|1711938176
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|75/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|71
+|
+|t:|1711938180
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|71/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|72
+|
+|t:|1711938185
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|67/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|73
+|
+|t:|1711938189
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|63/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|74
+|
+|t:|1711938193
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|59/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|75
+|
+|t:|1711938197
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion|[from]Wrap
+|-damage|p2a: Luigi's mansion|56/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|76
+|
+|t:|1711938204
+|switch|p2a: Me when cereal|Alakazam|54/100 par
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal|[miss]
+|-miss|p1a: Victreebel
+|
+|upkeep
+|turn|77
+|
+|t:|1711938211
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal
+|-damage|p2a: Me when cereal|47/100 par
+|cant|p2a: Me when cereal|partiallytrapped
+|
+|upkeep
+|turn|78
+|
+|t:|1711938217
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal|[from]Wrap
+|-damage|p2a: Me when cereal|41/100 par
+|cant|p2a: Me when cereal|partiallytrapped
+|
+|upkeep
+|turn|79
+|
+|t:|1711938221
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal|[from]Wrap
+|-damage|p2a: Me when cereal|35/100 par
+|cant|p2a: Me when cereal|partiallytrapped
+|
+|upkeep
+|turn|80
+|
+|t:|1711938225
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal
+|-damage|p2a: Me when cereal|28/100 par
+|cant|p2a: Me when cereal|partiallytrapped
+|
+|upkeep
+|turn|81
+|
+|t:|1711938229
+|move|p1a: Victreebel|Wrap|p2a: Me when cereal|[from]Wrap
+|-damage|p2a: Me when cereal|21/100 par
+|cant|p2a: Me when cereal|partiallytrapped
+|
+|upkeep
+|turn|82
+|
+|t:|1711938234
+|move|p1a: Victreebel|Razor Leaf|p2a: Me when cereal
+|-crit|p2a: Me when cereal
+|-damage|p2a: Me when cereal|0 fnt
+|faint|p2a: Me when cereal
+|j| N00bsTeam
+|
+|t:|1711938249
+|switch|p2a: Luigi's mansion|Tauros|56/100 par
+|turn|83
+|
+|t:|1711938252
+|move|p1a: Victreebel|Wrap|p2a: Luigi's mansion
+|-crit|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|48/100 par
+|cant|p2a: Luigi's mansion|partiallytrapped
+|
+|upkeep
+|turn|84
+|
+|t:|1711938258
+|switch|p2a: An actual child|Chansey|74/100 par
+|move|p1a: Victreebel|Wrap|p2a: An actual child
+|-crit|p2a: An actual child
+|-damage|p2a: An actual child|64/100 par
+|
+|upkeep
+|turn|85
+|
+|t:|1711938268
+|switch|p2a: Eepy|Snorlax|100/100 slp
+|move|p1a: Victreebel|Wrap|p2a: Eepy
+|-damage|p2a: Eepy|97/100 slp
+|
+|upkeep
+|turn|86
+|
+|t:|1711938274
+|move|p1a: Victreebel|Wrap|p2a: Eepy|[from]Wrap
+|-damage|p2a: Eepy|94/100 slp
+|cant|p2a: Eepy|slp
+|
+|upkeep
+|turn|87
+|
+|t:|1711938280
+|move|p1a: Victreebel|Razor Leaf|p2a: Eepy
+|-crit|p2a: Eepy
+|-damage|p2a: Eepy|63/100 slp
+|-curestatus|p2a: Eepy|slp|[msg]
+|
+|upkeep
+|turn|88
+|
+|t:|1711938285
+|move|p1a: Victreebel|Sleep Powder|p2a: Eepy|[miss]
+|-miss|p1a: Victreebel
+|move|p2a: Eepy|Body Slam|p1a: Victreebel
+|-damage|p1a: Victreebel|60/100
+|-status|p1a: Victreebel|par
+|
+|upkeep
+|turn|89
+|
+|t:|1711938292
+|move|p2a: Eepy|Body Slam|p1a: Victreebel
+|-damage|p1a: Victreebel|21/100 par
+|move|p1a: Victreebel|Sleep Powder|p2a: Eepy
+|-status|p2a: Eepy|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|90
+|
+|t:|1711938299
+|cant|p2a: Eepy|slp
+|move|p1a: Victreebel|Razor Leaf|p2a: Eepy
+|-crit|p2a: Eepy
+|-damage|p2a: Eepy|34/100 slp
+|
+|upkeep
+|turn|91
+|c|☆Princessconsuelaxo|Choketreebell
+|
+|t:|1711938308
+|switch|p2a: An actual child|Chansey|64/100 par
+|move|p1a: Victreebel|Razor Leaf|p2a: An actual child
+|-crit|p2a: An actual child
+|-damage|p2a: An actual child|47/100 par
+|
+|upkeep
+|turn|92
+|
+|t:|1711938314
+|move|p1a: Victreebel|Wrap|p2a: An actual child
+|-damage|p2a: An actual child|42/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|93
+|
+|t:|1711938318
+|move|p1a: Victreebel|Wrap|p2a: An actual child|[from]Wrap
+|-damage|p2a: An actual child|38/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|94
+|
+|t:|1711938323
+|move|p1a: Victreebel|Wrap|p2a: An actual child|[from]Wrap
+|-damage|p2a: An actual child|34/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|95
+|
+|t:|1711938334
+|switch|p1a: Cloyster|Cloyster|100/100
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|96
+|
+|t:|1711938342
+|move|p1a: Cloyster|Clamp|p2a: An actual child
+|-damage|p2a: An actual child|28/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|97
+|
+|t:|1711938347
+|move|p1a: Cloyster|Clamp|p2a: An actual child|[from]Clamp
+|-damage|p2a: An actual child|23/100 par
+|cant|p2a: An actual child|partiallytrapped
+|
+|upkeep
+|turn|98
+|
+|t:|1711938369
+|switch|p2a: Luigi's mansion|Tauros|48/100 par
+|move|p1a: Cloyster|Clamp|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|36/100 par
+|
+|upkeep
+|turn|99
+|
+|t:|1711938378
+|switch|p2a: Eepy|Snorlax|34/100 slp
+|move|p1a: Cloyster|Clamp|p2a: Eepy|[miss]
+|-miss|p1a: Cloyster
+|
+|upkeep
+|turn|100
+|
+|t:|1711938382
+|move|p1a: Cloyster|Blizzard|p2a: Eepy
+|-damage|p2a: Eepy|2/100 slp
+|cant|p2a: Eepy|slp
+|
+|upkeep
+|turn|101
+|
+|t:|1711938388
+|move|p1a: Cloyster|Blizzard|p2a: Eepy
+|-damage|p2a: Eepy|0 fnt
+|faint|p2a: Eepy
+|
+|t:|1711938394
+|switch|p2a: Luigi's mansion|Tauros|36/100 par
+|turn|102
+|
+|t:|1711938398
+|move|p1a: Cloyster|Blizzard|p2a: Luigi's mansion
+|-crit|p2a: Luigi's mansion
+|-damage|p2a: Luigi's mansion|0 fnt
+|faint|p2a: Luigi's mansion
+|
+|t:|1711938402
+|switch|p2a: An actual child|Chansey|23/100 par
+|turn|103
+|c|☆Princessconsuelaxo|Gg
+|
+|t:|1711938408
+|move|p1a: Cloyster|Clamp|p2a: An actual child|[miss]
+|-miss|p1a: Cloyster
+|move|p2a: An actual child|Soft-Boiled|p2a: An actual child
+|-heal|p2a: An actual child|73/100 par
+|
+|upkeep
+|turn|104
+|
+|t:|1711938414
+|move|p1a: Cloyster|Explosion|p2a: An actual child
+|-damage|p2a: An actual child|0 fnt
+|faint|p2a: An actual child
+|faint|p1a: Cloyster
+|
+|win|Princessconsuelaxo
+|raw|Princessconsuelaxo's rating: 1349 &rarr; <strong>1363</strong><br />(+14 for winning)
+|raw|Strange Cr3ature's rating: 1235 &rarr; <strong>1218</strong><br />(-17 for losing)
+|c|☆Strange Cr3ature|gg
+|l|☆Strange Cr3ature
+|player|p2|
+|c|☆Princessconsuelaxo|Wp

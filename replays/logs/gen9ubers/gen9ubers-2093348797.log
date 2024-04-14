@@ -1,0 +1,1028 @@
+|html|<div class="broadcast-blue"><strong>[Gen 9] Ubers is currently suspecting Last Respects! For information on how to participate check out the <a href="https://www.smogon.com/forums/threads/np-sv-ubers-stage-3-respect.3739544/">suspect thread</a>.</strong></div>
+|j|☆mysticwatch
+|j|☆holmeslice
+|t:|1711942673
+|gametype|singles
+|player|p1|mysticwatch|gambler|
+|player|p2|holmeslice|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Ubers
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Darkrai|
+|poke|p1|Garchomp, F|
+|poke|p1|Zapdos|
+|poke|p1|Registeel|
+|poke|p1|Regieleki|
+|poke|p1|Sinistcha|
+|poke|p2|Gouging Fire|
+|poke|p2|Iron Bundle|
+|poke|p2|Excadrill, M|
+|poke|p2|Blissey, F|
+|poke|p2|Moltres|
+|poke|p2|Dondozo, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mysticwatch)
+|inactive|holmeslice also wants the timer to be on.
+|inactive|mysticwatch no longer wants the timer on, but the timer is staying on because holmeslice still does.
+|c|☆holmeslice|gl
+|inactiveoff|Battle timer is now OFF.
+|c|☆mysticwatch|glgl
+|
+|t:|1711942691
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Hinge Match|Blissey, F|100/100
+|turn|1
+|
+|t:|1711942697
+|move|p1a: Regieleki|Volt Switch|p2a: Hinge Match
+|-damage|p2a: Hinge Match|83/100
+|
+|t:|1711942711
+|switch|p1a: Registeel|Registeel|100/100|[from] Volt Switch
+|move|p2a: Hinge Match|Stealth Rock|p1a: Registeel
+|-sidestart|p1: mysticwatch|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1711942720
+|switch|p2a: Big Fish|Dondozo, M|100/100
+|move|p1a: Registeel|Stealth Rock|p2a: Big Fish
+|-sidestart|p2: holmeslice|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1711942741
+|switch|p1a: Sinistcha|Sinistcha|100/100
+|-damage|p1a: Sinistcha|88/100|[from] Stealth Rock
+|move|p2a: Big Fish|Body Press|p1a: Sinistcha
+|-immune|p1a: Sinistcha
+|
+|-heal|p1a: Sinistcha|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1711942765
+|switch|p2a: Hinge Match|Blissey, F|83/100
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|
+|-heal|p1a: Sinistcha|99/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1711942782
+|move|p1a: Sinistcha|Calm Mind|p1a: Sinistcha
+|-boost|p1a: Sinistcha|spa|1
+|-boost|p1a: Sinistcha|spd|1
+|move|p2a: Hinge Match|Ice Beam|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-crit|p1a: Sinistcha
+|-damage|p1a: Sinistcha|36/100
+|
+|-heal|p1a: Sinistcha|42/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1711942797
+|move|p1a: Sinistcha|Strength Sap|p2a: Hinge Match
+|-unboost|p2a: Hinge Match|atk|1
+|-heal|p1a: Sinistcha|48/100
+|move|p2a: Hinge Match|Ice Beam|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|29/100
+|
+|-heal|p1a: Sinistcha|35/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆holmeslice|my attack :(
+|
+|t:|1711942844
+|switch|p1a: Registeel|Registeel|100/100
+|-damage|p1a: Registeel|94/100|[from] Stealth Rock
+|move|p2a: Hinge Match|Ice Beam|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|90/100
+|
+|-heal|p1a: Registeel|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711942900
+|switch|p2a: Big Bird|Moltres|100/100
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1711942920
+|switch|p2a: Hinge Match|Blissey, F|83/100
+|move|p1a: Zapdos|Heat Wave|p2a: Hinge Match
+|-damage|p2a: Hinge Match|72/100
+|-status|p2a: Hinge Match|brn
+|
+|-damage|p2a: Hinge Match|66/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711942929
+|move|p1a: Zapdos|Volt Switch|p2a: Hinge Match
+|-damage|p2a: Hinge Match|56/100 brn
+|
+|t:|1711942963
+|switch|p1a: Registeel|Registeel|96/100|[from] Volt Switch
+|-damage|p1a: Registeel|90/100|[from] Stealth Rock
+|move|p2a: Hinge Match|Soft-Boiled|p2a: Hinge Match
+|-heal|p2a: Hinge Match|100/100 brn
+|
+|-heal|p1a: Registeel|96/100|[from] item: Leftovers
+|-damage|p2a: Hinge Match|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711942988
+|-curestatus|p2a: Hinge Match|brn|[from] ability: Natural Cure
+|switch|p2a: Big Fish|Dondozo, M|100/100
+|-damage|p2a: Big Fish|88/100|[from] Stealth Rock
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Big Fish|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1711943039
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|
+|-heal|p2a: Big Fish|99/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1711943052
+|switch|p2a: Hinge Match|Blissey, F|94/100
+|move|p1a: Zapdos|Volt Switch|p2a: Hinge Match
+|-damage|p2a: Hinge Match|85/100
+|
+|t:|1711943069
+|switch|p1a: Registeel|Registeel|96/100|[from] Volt Switch
+|-damage|p1a: Registeel|90/100|[from] Stealth Rock
+|
+|-heal|p1a: Registeel|96/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711943110
+|switch|p2a: Big Bird|Moltres|100/100
+|switch|p1a: Darkrai|Darkrai|100/100
+|-damage|p1a: Darkrai|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1711943138
+|switch|p2a: Hinge Match|Blissey, F|85/100
+|move|p1a: Darkrai|Dark Pulse|p2a: Hinge Match
+|-damage|p2a: Hinge Match|63/100
+|-damage|p1a: Darkrai|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1711943172
+|move|p1a: Darkrai|Nasty Plot|p1a: Darkrai
+|-boost|p1a: Darkrai|spa|2
+|move|p2a: Hinge Match|Soft-Boiled|p2a: Hinge Match
+|-heal|p2a: Hinge Match|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1711943204
+|move|p1a: Darkrai|Dark Pulse|p2a: Hinge Match
+|-damage|p2a: Hinge Match|58/100
+|-damage|p1a: Darkrai|68/100|[from] item: Life Orb
+|move|p2a: Hinge Match|Seismic Toss|p1a: Darkrai
+|-damage|p1a: Darkrai|33/100
+|
+|upkeep
+|turn|18
+|
+|t:|1711943212
+|move|p1a: Darkrai|Focus Blast|p2a: Hinge Match
+|-supereffective|p2a: Hinge Match
+|-damage|p2a: Hinge Match|0 fnt
+|faint|p2a: Hinge Match
+|-damage|p1a: Darkrai|23/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711943222
+|switch|p2a: Marty McFly|Iron Bundle|100/100
+|turn|19
+|
+|t:|1711943229
+|switch|p1a: Registeel|Registeel|96/100
+|-damage|p1a: Registeel|90/100|[from] Stealth Rock
+|move|p2a: Marty McFly|Ice Beam|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|80/100
+|
+|-heal|p1a: Registeel|86/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1711943259
+|move|p2a: Marty McFly|Flip Turn|p1a: Registeel
+|-damage|p1a: Registeel|76/100
+|
+|t:|1711943269
+|-end|p2a: Marty McFly|Quark Drive|[silent]
+|switch|p2a: Big Bird|Moltres|100/100|[from] Flip Turn
+|move|p1a: Registeel|Body Press|p2a: Big Bird
+|-resisted|p2a: Big Bird
+|-damage|p2a: Big Bird|88/100
+|
+|-heal|p1a: Registeel|82/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711943293
+|switch|p1a: Zapdos|Zapdos|79/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Bird|Will-O-Wisp|p1a: Zapdos
+|-status|p1a: Zapdos|brn
+|
+|-damage|p1a: Zapdos|73/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1711943356
+|switch|p2a: Daddy Topps|Gouging Fire|100/100
+|-damage|p2a: Daddy Topps|76/100|[from] Stealth Rock
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|60/100
+|
+|t:|1711943401
+|switch|p1a: Garchomp|Garchomp, F|94/100|[from] Volt Switch
+|-damage|p1a: Garchomp|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Daddy Topps|66/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1711943412
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|99/100
+|-damage|p2a: Big Fish|88/100|[from] Stealth Rock
+|move|p1a: Garchomp|Substitute|p1a: Garchomp
+|-start|p1a: Garchomp|Substitute
+|-damage|p1a: Garchomp|63/100
+|
+|-heal|p2a: Big Fish|94/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711943429
+|move|p1a: Garchomp|Earthquake|p2a: Big Fish
+|-damage|p2a: Big Fish|70/100
+|move|p2a: Big Fish|Liquidation|p1a: Garchomp
+|-end|p1a: Garchomp|Substitute
+|
+|-heal|p2a: Big Fish|76/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1711943442
+|switch|p1a: Zapdos|Zapdos|73/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|50/100 brn
+|-unboost|p1a: Zapdos|def|1
+|
+|-heal|p2a: Big Fish|82/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|43/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1711943453
+|switch|p2a: Tunnels|Excadrill, M|100/100
+|-damage|p2a: Tunnels|97/100|[from] Stealth Rock
+|-ability|p2a: Tunnels|Mold Breaker
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|93/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Tunnels|100/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|87/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1711943555
+|move|p2a: Tunnels|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|66/100 brn
+|-boost|p2a: Tunnels|spe|1
+|-sideend|p2: holmeslice|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Tunnels
+|move|p1a: Zapdos|Heat Wave|p2a: Tunnels
+|-supereffective|p2a: Tunnels
+|-damage|p2a: Tunnels|29/100
+|
+|-heal|p2a: Tunnels|35/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|60/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1711943586
+|switch|p1a: Sinistcha|Sinistcha|35/100
+|-damage|p1a: Sinistcha|23/100|[from] Stealth Rock
+|move|p2a: Tunnels|Rock Slide|p1a: Sinistcha
+|-damage|p1a: Sinistcha|2/100
+|
+|-heal|p2a: Tunnels|41/100|[from] item: Leftovers
+|-heal|p1a: Sinistcha|8/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1711943595
+|move|p2a: Tunnels|Shadow Claw|p1a: Sinistcha
+|-supereffective|p1a: Sinistcha
+|-damage|p1a: Sinistcha|0 fnt
+|faint|p1a: Sinistcha
+|
+|-heal|p2a: Tunnels|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711943601
+|switch|p1a: Registeel|Registeel|82/100
+|-damage|p1a: Registeel|76/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1711943648
+|switch|p2a: Big Fish|Dondozo, M|82/100
+|-terastallize|p1a: Registeel|Water
+|move|p1a: Registeel|Body Press|p2a: Big Fish
+|-damage|p2a: Big Fish|72/100
+|
+|-heal|p1a: Registeel|82/100|[from] item: Leftovers
+|-heal|p2a: Big Fish|78/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1711943673
+|move|p1a: Registeel|Stealth Rock|p2a: Big Fish
+|-sidestart|p2: holmeslice|move: Stealth Rock
+|move|p2a: Big Fish|Liquidation|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|73/100
+|
+|-heal|p1a: Registeel|79/100|[from] item: Leftovers
+|-heal|p2a: Big Fish|84/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1711943692
+|move|p1a: Registeel|Body Press|p2a: Big Fish
+|-damage|p2a: Big Fish|72/100
+|move|p2a: Big Fish|Body Press|p1a: Registeel
+|-damage|p1a: Registeel|59/100
+|
+|-heal|p1a: Registeel|65/100|[from] item: Leftovers
+|-heal|p2a: Big Fish|78/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1711943703
+|switch|p1a: Zapdos|Zapdos|60/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|49/100 brn
+|
+|-heal|p2a: Big Fish|84/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|43/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1711943722
+|switch|p2a: Tunnels|Excadrill, M|47/100
+|-damage|p2a: Tunnels|44/100|[from] Stealth Rock
+|-ability|p2a: Tunnels|Mold Breaker
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|93/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Tunnels|50/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|87/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1711943738
+|move|p2a: Tunnels|Rock Slide|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|50/100 brn
+|move|p1a: Zapdos|Heat Wave|p2a: Tunnels
+|-supereffective|p2a: Tunnels
+|-damage|p2a: Tunnels|0 fnt
+|faint|p2a: Tunnels
+|
+|-damage|p1a: Zapdos|44/100 brn|[from] brn
+|upkeep
+|
+|t:|1711943747
+|switch|p2a: Big Fish|Dondozo, M|84/100
+|-damage|p2a: Big Fish|71/100|[from] Stealth Rock
+|turn|36
+|c|☆holmeslice|Holy fucking misclick
+|
+|t:|1711943786
+|switch|p2a: Daddy Topps|Gouging Fire|66/100
+|-damage|p2a: Daddy Topps|41/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|94/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Daddy Topps|47/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|88/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1711943816
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|97/100
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|83/100
+|
+|t:|1711943827
+|switch|p1a: Registeel|Registeel, tera:Water|65/100|[from] Volt Switch
+|-damage|p1a: Registeel|53/100|[from] Stealth Rock
+|
+|-heal|p2a: Daddy Topps|89/100|[from] item: Leftovers
+|-heal|p1a: Registeel|59/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1711943846
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Registeel|Body Press|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|-status|p1a: Registeel|brn
+|
+|-heal|p2a: Daddy Topps|95/100|[from] item: Leftovers
+|-heal|p1a: Registeel|65/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|59/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1711943860
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|71/100
+|-damage|p2a: Big Fish|59/100|[from] Stealth Rock
+|move|p1a: Registeel|Iron Defense|p1a: Registeel
+|-boost|p1a: Registeel|def|2
+|
+|-heal|p1a: Registeel|65/100 brn|[from] item: Leftovers
+|-heal|p2a: Big Fish|65/100|[from] item: Leftovers
+|-damage|p1a: Registeel|59/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1711943879
+|switch|p1a: Zapdos|Zapdos|88/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|78/100 brn
+|
+|-heal|p2a: Big Fish|71/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|72/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1711943897
+|switch|p2a: Daddy Topps|Gouging Fire|95/100
+|-damage|p2a: Daddy Topps|70/100|[from] Stealth Rock
+|move|p1a: Zapdos|Discharge|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|53/100
+|
+|-heal|p2a: Daddy Topps|59/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|66/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1711943943
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|100/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p1a: Zapdos|94/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1711943957
+|move|p2a: Daddy Topps|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|56/100 brn
+|-damage|p2a: Daddy Topps|87/100|[from] Recoil
+|move|p1a: Zapdos|Discharge|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|70/100
+|
+|-heal|p2a: Daddy Topps|76/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|49/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1711943970
+|move|p2a: Daddy Topps|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|99/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Daddy Topps|82/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|93/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1711943987
+|move|p2a: Daddy Topps|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100 brn
+|-damage|p2a: Daddy Topps|67/100|[from] Recoil
+|move|p1a: Zapdos|Discharge|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|50/100
+|
+|-heal|p2a: Daddy Topps|56/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|45/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1711943996
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|100/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|95/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p1a: Zapdos|88/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1711944010
+|move|p2a: Daddy Topps|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100 brn
+|-damage|p2a: Daddy Topps|84/100|[from] Recoil
+|move|p1a: Zapdos|Discharge|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|66/100
+|
+|-heal|p2a: Daddy Topps|72/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|37/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1711944038
+|switch|p1a: Registeel|Registeel, tera:Water|59/100 brn
+|-damage|p1a: Registeel|46/100 brn|[from] Stealth Rock
+|move|p2a: Daddy Topps|Flare Blitz|p1a: Registeel
+|-resisted|p1a: Registeel
+|-damage|p1a: Registeel|26/100 brn
+|-damage|p2a: Daddy Topps|65/100|[from] Recoil
+|
+|-heal|p2a: Daddy Topps|71/100|[from] item: Leftovers
+|-heal|p1a: Registeel|32/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|26/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1711944066
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Registeel|Body Press|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|77/100|[from] item: Leftovers
+|-heal|p1a: Registeel|32/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|26/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1711944081
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|71/100
+|-damage|p2a: Big Fish|59/100|[from] Stealth Rock
+|move|p1a: Registeel|Body Press|p2a: Big Fish
+|-damage|p2a: Big Fish|53/100
+|
+|-heal|p1a: Registeel|32/100 brn|[from] item: Leftovers
+|-heal|p2a: Big Fish|59/100|[from] item: Leftovers
+|-damage|p1a: Registeel|26/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1711944092
+|switch|p1a: Zapdos|Zapdos|37/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100 brn
+|
+|-heal|p2a: Big Fish|65/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|21/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1711944101
+|switch|p2a: Daddy Topps|Gouging Fire|77/100
+|-damage|p2a: Daddy Topps|52/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|71/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Daddy Topps|58/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|65/100 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1711944117
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|84/100
+|
+|t:|1711944137
+|switch|p1a: Garchomp|Garchomp, F|63/100|[from] Volt Switch
+|-damage|p1a: Garchomp|57/100|[from] Stealth Rock
+|
+|-heal|p2a: Daddy Topps|90/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1711944151
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|65/100
+|-damage|p2a: Big Fish|53/100|[from] Stealth Rock
+|move|p1a: Garchomp|Substitute|p1a: Garchomp
+|-start|p1a: Garchomp|Substitute
+|-damage|p1a: Garchomp|32/100
+|
+|-heal|p2a: Big Fish|59/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1711944161
+|move|p1a: Garchomp|Earthquake|p2a: Big Fish
+|-damage|p2a: Big Fish|35/100
+|move|p2a: Big Fish|Liquidation|p1a: Garchomp
+|-end|p1a: Garchomp|Substitute
+|
+|-heal|p2a: Big Fish|42/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1711944197
+|switch|p1a: Zapdos|Zapdos|65/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|45/100 brn
+|
+|-heal|p2a: Big Fish|48/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|39/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|t:|1711944212
+|switch|p2a: Daddy Topps|Gouging Fire|90/100
+|-damage|p2a: Daddy Topps|65/100|[from] Stealth Rock
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|51/100
+|
+|t:|1711944227
+|switch|p1a: Garchomp|Garchomp, F|32/100|[from] Volt Switch
+|-damage|p1a: Garchomp|26/100|[from] Stealth Rock
+|
+|-heal|p2a: Daddy Topps|57/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1711944237
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Bird|Moltres|88/100
+|move|p1a: Garchomp|Earthquake|p2a: Big Bird
+|-immune|p2a: Big Bird
+|
+|upkeep
+|turn|59
+|
+|t:|1711944278
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|move|p2a: Big Bird|Air Slash|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-crit|p1a: Regieleki
+|-damage|p1a: Regieleki|39/100
+|
+|upkeep
+|turn|60
+|
+|t:|1711944312
+|move|p1a: Regieleki|Thunderbolt|p2a: Big Bird
+|-supereffective|p2a: Big Bird
+|-damage|p2a: Big Bird|0 fnt
+|faint|p2a: Big Bird
+|
+|upkeep
+|
+|t:|1711944323
+|switch|p2a: Daddy Topps|Gouging Fire|57/100
+|-damage|p2a: Daddy Topps|32/100|[from] Stealth Rock
+|turn|61
+|
+|t:|1711944344
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Regieleki|Volt Switch|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|38/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1711944360
+|move|p1a: Regieleki|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|15/100
+|
+|t:|1711944367
+|switch|p1a: Registeel|Registeel, tera:Water|26/100 brn|[from] Volt Switch
+|-damage|p1a: Registeel|14/100 brn|[from] Stealth Rock
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|65/100
+|
+|-heal|p2a: Daddy Topps|71/100|[from] item: Leftovers
+|-heal|p1a: Registeel|20/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|14/100 brn|[from] brn
+|upkeep
+|turn|63
+|
+|t:|1711944380
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Registeel|Body Press|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|77/100|[from] item: Leftovers
+|-heal|p1a: Registeel|20/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|14/100 brn|[from] brn
+|upkeep
+|turn|64
+|
+|t:|1711944391
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|48/100
+|-damage|p2a: Big Fish|35/100|[from] Stealth Rock
+|move|p1a: Registeel|Heavy Slam|p2a: Big Fish
+|-resisted|p2a: Big Fish
+|-damage|p2a: Big Fish|34/100
+|
+|-heal|p1a: Registeel|20/100 brn|[from] item: Leftovers
+|-heal|p2a: Big Fish|40/100|[from] item: Leftovers
+|-damage|p1a: Registeel|14/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1711944407
+|switch|p1a: Zapdos|Zapdos|39/100 brn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Big Fish|Rest|p2a: Big Fish
+|-status|p2a: Big Fish|slp|[from] move: Rest
+|-heal|p2a: Big Fish|100/100 slp|[silent]
+|
+|-damage|p1a: Zapdos|32/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1711944439
+|switch|p2a: Daddy Topps|Gouging Fire|77/100
+|-damage|p2a: Daddy Topps|52/100|[from] Stealth Rock
+|move|p1a: Zapdos|Discharge|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|35/100
+|
+|-heal|p2a: Daddy Topps|41/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|26/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1711944454
+|switch|p1a: Registeel|Registeel, tera:Water|14/100 brn
+|-damage|p1a: Registeel|2/100 brn|[from] Stealth Rock
+|move|p2a: Daddy Topps|Morning Sun|p2a: Daddy Topps
+|-heal|p2a: Daddy Topps|91/100
+|
+|-heal|p2a: Daddy Topps|97/100|[from] item: Leftovers
+|-heal|p1a: Registeel|8/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|2/100 brn|[from] brn
+|upkeep
+|turn|68
+|
+|t:|1711944467
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Registeel|Body Press|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|100/100|[from] item: Leftovers
+|-heal|p1a: Registeel|8/100 brn|[from] item: Leftovers
+|-damage|p1a: Registeel|2/100 brn|[from] brn
+|upkeep
+|turn|69
+|
+|t:|1711944476
+|move|p2a: Daddy Topps|Earthquake|p1a: Registeel
+|-damage|p1a: Registeel|0 fnt
+|faint|p1a: Registeel
+|
+|upkeep
+|
+|t:|1711944511
+|switch|p1a: Garchomp|Garchomp, F|26/100
+|-damage|p1a: Garchomp|20/100|[from] Stealth Rock
+|turn|70
+|
+|t:|1711944519
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Garchomp|Earthquake|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|upkeep
+|turn|71
+|
+|t:|1711944526
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|100/100 slp
+|-damage|p2a: Big Fish|88/100 slp|[from] Stealth Rock
+|move|p1a: Garchomp|Earthquake|p2a: Big Fish
+|-damage|p2a: Big Fish|64/100 slp
+|
+|-heal|p2a: Big Fish|70/100 slp|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|t:|1711944538
+|switch|p1a: Zapdos|Zapdos|26/100 brn
+|-ability|p1a: Zapdos|Pressure
+|cant|p2a: Big Fish|slp
+|move|p2a: Big Fish|Sleep Talk|p2a: Big Fish
+|move|p2a: Big Fish|Body Press|p1a: Zapdos|[from]move: Sleep Talk
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|16/100 brn
+|
+|-heal|p2a: Big Fish|76/100 slp|[from] item: Leftovers
+|-damage|p1a: Zapdos|10/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1711944550
+|switch|p2a: Daddy Topps|Gouging Fire|100/100
+|-damage|p2a: Daddy Topps|76/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|60/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Daddy Topps|82/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|53/100 brn|[from] brn
+|upkeep
+|turn|74
+|
+|t:|1711944617
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|88/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|47/100 brn|[from] brn
+|upkeep
+|turn|75
+|
+|t:|1711944681
+|move|p2a: Daddy Topps|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|5/100 brn
+|-damage|p2a: Daddy Topps|73/100|[from] Recoil
+|move|p1a: Zapdos|Volt Switch|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|58/100
+|
+|t:|1711944693
+|switch|p1a: Garchomp|Garchomp, F|20/100|[from] Volt Switch
+|-damage|p1a: Garchomp|14/100|[from] Stealth Rock
+|
+|-heal|p2a: Daddy Topps|64/100|[from] item: Leftovers
+|upkeep
+|turn|76
+|
+|t:|1711944712
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Garchomp|Earthquake|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|70/100|[from] item: Leftovers
+|upkeep
+|turn|77
+|
+|t:|1711944745
+|switch|p1a: Regieleki|Regieleki|39/100
+|-damage|p1a: Regieleki|27/100|[from] Stealth Rock
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|switch|p2a: Big Fish|Dondozo, M|76/100 slp
+|-damage|p2a: Big Fish|63/100 slp|[from] Stealth Rock
+|
+|-heal|p2a: Big Fish|70/100 slp|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|t:|1711944770
+|switch|p2a: Daddy Topps|Gouging Fire|70/100
+|-damage|p2a: Daddy Topps|45/100|[from] Stealth Rock
+|move|p1a: Regieleki|Thunderbolt|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|14/100
+|
+|-heal|p2a: Daddy Topps|20/100|[from] item: Leftovers
+|upkeep
+|turn|79
+|
+|t:|1711944783
+|move|p2a: Daddy Topps|Burning Bulwark|p2a: Daddy Topps
+|-singleturn|p2a: Daddy Topps|move: Protect
+|move|p1a: Regieleki|Thunderbolt|p2a: Daddy Topps
+|-activate|p2a: Daddy Topps|move: Protect
+|
+|-heal|p2a: Daddy Topps|26/100|[from] item: Leftovers
+|upkeep
+|turn|80
+|
+|t:|1711944807
+|move|p2a: Daddy Topps|Burning Bulwark||[still]
+|-fail|p2a: Daddy Topps
+|move|p1a: Regieleki|Thunderbolt|p2a: Daddy Topps
+|-resisted|p2a: Daddy Topps
+|-damage|p2a: Daddy Topps|0 fnt
+|faint|p2a: Daddy Topps
+|-end|p2a: Daddy Topps|Protosynthesis|[silent]
+|
+|upkeep
+|
+|t:|1711944814
+|switch|p2a: Marty McFly|Iron Bundle|100/100
+|turn|81
+|
+|t:|1711944819
+|move|p1a: Regieleki|Thunderbolt|p2a: Marty McFly
+|-supereffective|p2a: Marty McFly
+|-damage|p2a: Marty McFly|0 fnt
+|faint|p2a: Marty McFly
+|-end|p2a: Marty McFly|Quark Drive|[silent]
+|
+|upkeep
+|
+|t:|1711944822
+|switch|p2a: Big Fish|Dondozo, M|70/100 slp
+|-damage|p2a: Big Fish|57/100 slp|[from] Stealth Rock
+|turn|82
+|c|☆holmeslice|ggs
+|c|☆mysticwatch|ggs
+|
+|t:|1711944828
+|move|p1a: Regieleki|Thunderbolt|p2a: Big Fish
+|-supereffective|p2a: Big Fish
+|-damage|p2a: Big Fish|0 fnt
+|faint|p2a: Big Fish
+|
+|win|mysticwatch
+|c|☆mysticwatch|insane game, couldve gone eitherr way

@@ -1,0 +1,50 @@
+p1: Switched to Scizor
+p2: Switched to Liepard
+Turn 1:
+p2: Liepard used Trick on Scizor
+p1: Scizor used U-turn on Liepard
+p2: Liepard fainted
+p1: Switched to Politoed
+p2: Switched to Ninetales
+Turn 2:
+p1: Switched to Latios
+p2: Ninetales failed to use Solar Beam
+Turn 3:
+p1: Switched to Politoed
+p2: Ninetales used Dark Pulse on Politoed
+Turn 4:
+p2: Switched to Ambipom
+p1: Politoed used Scald on Ambipom
+p2: Ambipom fainted
+p2: Switched to Ninetales
+Turn 5:
+p1: Switched to Latios
+p2: Ninetales used Dark Pulse on Latios
+Turn 6:
+p1: Switched to Politoed
+p2: Ninetales used Dark Pulse on Politoed
+Turn 7:
+p2: Ninetales used Will-O-Wisp on Politoed
+p1: Politoed used Scald on Ninetales
+Turn 8:
+p1: Switched to Starmie
+p2: Ninetales used Will-O-Wisp on Starmie
+Turn 9:
+p1: Starmie used Thunder on Ninetales
+p2: Ninetales fainted
+p2: Switched to Gliscor
+Turn 10:
+p1: Starmie used Ice Beam on Gliscor
+p2: Gliscor fainted
+p2: Switched to Yanmega
+Turn 11:
+p1: Switched to Rotom-Wash
+p2: Yanmega used Bug Buzz on Rotom-Wash
+Turn 12:
+p2: Yanmega used Bug Buzz on Rotom-Wash
+p1: Rotom-Wash fainted
+p1: Switched to Ferrothorn
+Turn 13:
+p2: Yanmega used Hidden Power on Ferrothorn
+p1: Ferrothorn used Thunder Wave on Yanmega
+Turn 14:

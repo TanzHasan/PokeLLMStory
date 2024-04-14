@@ -1,0 +1,303 @@
+|j|☆Drackobot
+|j|☆yerpptheder
+|t:|1711938503
+|gametype|singles
+|player|p1|Drackobot|pokekid|1206
+|player|p2|yerpptheder|miku-ground|1189
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] Random Battle
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1711938503
+|start
+|switch|p1a: Omastar|Omastar, L82, M|249/249
+|switch|p2a: Drapion|Drapion, L82, M|249/249
+|turn|1
+|
+|t:|1711938514
+|move|p2a: Drapion|Earthquake|p1a: Omastar
+|-supereffective|p1a: Omastar
+|-damage|p1a: Omastar|127/249
+|-damage|p2a: Drapion|225/249|[from] item: Life Orb
+|move|p1a: Omastar|Shell Smash|p1a: Omastar
+|-unboost|p1a: Omastar|def|1
+|-unboost|p1a: Omastar|spd|1
+|-boost|p1a: Omastar|atk|2
+|-boost|p1a: Omastar|spa|2
+|-boost|p1a: Omastar|spe|2
+|-enditem|p1a: Omastar|White Herb
+|-clearnegativeboost|p1a: Omastar|[silent]
+|
+|upkeep
+|turn|2
+|
+|t:|1711938534
+|move|p1a: Omastar|Earth Power|p2a: Drapion
+|-supereffective|p2a: Drapion
+|-damage|p2a: Drapion|0 fnt
+|faint|p2a: Drapion
+|
+|upkeep
+|
+|t:|1711938535
+|switch|p2a: Starmie|Starmie, L84|238/238
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yerpptheder)
+|
+|t:|1711938541
+|move|p1a: Omastar|Earth Power|p2a: Starmie
+|-damage|p2a: Starmie|93/238
+|move|p2a: Starmie|Scald|p1a: Omastar
+|-damage|p1a: Omastar|0 fnt
+|faint|p1a: Omastar
+|-damage|p2a: Starmie|70/238|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711938547
+|switch|p1a: Blastoise|Blastoise, L82, M|264/264
+|turn|4
+|
+|t:|1711938559
+|move|p2a: Starmie|Psyshock|p1a: Blastoise
+|-damage|p1a: Blastoise|161/264
+|-damage|p2a: Starmie|47/238|[from] item: Life Orb
+|move|p1a: Blastoise|Toxic|p2a: Starmie
+|-status|p2a: Starmie|tox
+|
+|-heal|p1a: Blastoise|177/264|[from] item: Leftovers
+|-damage|p2a: Starmie|33/238 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1711938567
+|move|p2a: Starmie|Scald|p1a: Blastoise
+|-resisted|p1a: Blastoise
+|-damage|p1a: Blastoise|129/264
+|-damage|p2a: Starmie|10/238 tox|[from] item: Life Orb
+|move|p1a: Blastoise|Rapid Spin|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|-boost|p1a: Blastoise|spe|1
+|faint|p2a: Starmie
+|
+|-heal|p1a: Blastoise|145/264|[from] item: Leftovers
+|upkeep
+|
+|t:|1711938572
+|switch|p2a: Toxtricity|Toxtricity, L82, M|257/257
+|turn|6
+|
+|t:|1711938583
+|move|p1a: Blastoise|Scald|p2a: Toxtricity
+|-damage|p2a: Toxtricity|175/257
+|move|p2a: Toxtricity|Overdrive|p1a: Blastoise
+|-supereffective|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1711938590
+|switch|p1a: Dhelmise|Dhelmise, L87|264/264
+|turn|7
+|
+|t:|1711938595
+|switch|p2a: Arcanine|Arcanine, L82, M|282/282
+|move|p1a: Dhelmise|Swords Dance|p1a: Dhelmise
+|-boost|p1a: Dhelmise|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1711938606
+|-start|p1a: Dhelmise|Dynamax|
+|-heal|p1a: Dhelmise|528/528|[silent]
+|move|p2a: Arcanine|Flare Blitz|p1a: Dhelmise
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|280/528
+|-damage|p2a: Arcanine|200/282|[from] Recoil
+|move|p1a: Dhelmise|Max Phantasm|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|upkeep
+|
+|t:|1711938610
+|switch|p2a: Toxtricity|Toxtricity, L82, M|175/257
+|turn|9
+|
+|t:|1711938624
+|move|p2a: Toxtricity|Sludge Wave|p1a: Dhelmise
+|-damage|p1a: Dhelmise|169/528
+|move|p1a: Dhelmise|Max Phantasm|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|faint|p2a: Toxtricity
+|
+|upkeep
+|
+|t:|1711938626
+|switch|p2a: Latias|Latias, L80, F|259/259
+|turn|10
+|
+|t:|1711938634
+|-start|p2a: Latias|Dynamax|
+|-heal|p2a: Latias|518/518|[silent]
+|move|p2a: Latias|Max Guard|p2a: Latias
+|-singleturn|p2a: Latias|Max Guard
+|move|p1a: Dhelmise|Max Steelspike|p2a: Latias
+|-activate|p2a: Latias|move: Max Guard
+|
+|upkeep
+|-end|p1a: Dhelmise|Dynamax
+|-heal|p1a: Dhelmise|85/264|[silent]
+|turn|11
+|
+|t:|1711938641
+|move|p2a: Latias|Max Mindstorm|p1a: Dhelmise
+|-damage|p1a: Dhelmise|0 fnt
+|-fieldstart|move: Psychic Terrain
+|faint|p1a: Dhelmise
+|
+|upkeep
+|
+|t:|1711938647
+|switch|p1a: Latios|Latios, L77, M|250/250
+|turn|12
+|
+|t:|1711938656
+|move|p2a: Latias|Max Wyrmwind|p1a: Latios
+|-supereffective|p1a: Latios
+|-crit|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1711938661
+|switch|p1a: Dialga|Dialga, L74|270/270
+|-ability|p1a: Dialga|Pressure
+|-end|p2a: Latias|Dynamax
+|-heal|p2a: Latias|259/259|[silent]
+|turn|13
+|
+|t:|1711938666
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Dialga|Flash Cannon|p2a: Latias
+|-damage|p2a: Latias|210/259
+|
+|-heal|p2a: Latias|226/259|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711938669
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Dialga|Draco Meteor|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|94/259
+|-unboost|p1a: Dialga|spa|2
+|
+|-heal|p2a: Latias|110/259|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711938677
+|switch|p1a: Zacian|Zacian-Crowned, L61|214/214
+|-ability|p1a: Zacian|Intrepid Sword|boost
+|-boost|p1a: Zacian|atk|1
+|move|p2a: Latias|Roost|p2a: Latias
+|-heal|p2a: Latias|240/259
+|-singleturn|p2a: Latias|move: Roost
+|
+|-heal|p2a: Latias|256/259|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1711938681
+|move|p2a: Latias|Psychic|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|110/214
+|move|p1a: Zacian|Swords Dance|p1a: Zacian
+|-boost|p1a: Zacian|atk|2
+|
+|-heal|p2a: Latias|259/259|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711938686
+|move|p2a: Latias|Psychic|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|6/214
+|-unboost|p1a: Zacian|spd|1
+|move|p1a: Zacian|Crunch|p2a: Latias
+|-supereffective|p2a: Latias
+|-crit|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|upkeep
+|
+|t:|1711938688
+|switch|p2a: Virizion|Virizion, L81|280/280
+|turn|18
+|
+|t:|1711938697
+|move|p2a: Virizion|Leaf Blade|p1a: Zacian
+|-resisted|p1a: Zacian
+|-damage|p1a: Zacian|0 fnt
+|faint|p1a: Zacian
+|
+|upkeep
+|
+|t:|1711938701
+|switch|p1a: Dialga|Dialga, L74|270/270
+|-ability|p1a: Dialga|Pressure
+|turn|19
+|
+|t:|1711938704
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|move|p1a: Dialga|Draco Meteor|p2a: Virizion
+|-damage|p2a: Virizion|153/280
+|-unboost|p1a: Dialga|spa|2
+|
+|upkeep
+|turn|20
+|
+|t:|1711938710
+|move|p2a: Virizion|Swords Dance|p2a: Virizion
+|-boost|p2a: Virizion|atk|2
+|move|p1a: Dialga|Draco Meteor|p2a: Virizion
+|-damage|p2a: Virizion|90/280
+|-unboost|p1a: Dialga|spa|2
+|
+|upkeep
+|turn|21
+|
+|t:|1711938715
+|move|p2a: Virizion|Close Combat|p1a: Dialga
+|-supereffective|p1a: Dialga
+|-damage|p1a: Dialga|0 fnt
+|-unboost|p2a: Virizion|def|1
+|-unboost|p2a: Virizion|spd|1
+|faint|p1a: Dialga
+|
+|win|yerpptheder
+|raw|Drackobot's rating: 1206 &rarr; <strong>1180</strong><br />(-26 for losing)
+|raw|yerpptheder's rating: 1189 &rarr; <strong>1215</strong><br />(+26 for winning)
+|l|☆yerpptheder
+|player|p2|
+|l|☆Drackobot
+|player|p1|
+|j|☆yerpptheder
+|player|p2|yerpptheder|miku-ground

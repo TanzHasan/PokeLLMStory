@@ -1,0 +1,59 @@
+p1: Switched to Gardevoir
+p2: Switched to Ninjask
+Turn 1:
+p2: Ninjask used Substitute on Ninjask
+p1: Gardevoir used Psychic on Ninjask
+Turn 2:
+p2: Ninjask used Protect on Ninjask
+p1: Gardevoir used Will-O-Wisp on Ninjask
+Turn 3:
+p1: Switched to Metagross
+p2: Ninjask used Substitute on Ninjask
+Turn 4:
+p2: Ninjask used Protect on Ninjask
+p1: Metagross used Earthquake on Ninjask
+Turn 5:
+p2: Ninjask used Baton Pass on Ninjask
+p2: Switched to Vaporeon
+p1: Metagross used Agility on Metagross
+Turn 6:
+p2: Vaporeon used Surf on Metagross
+p1: Metagross used Meteor Mash on Vaporeon
+Turn 7:
+p2: Vaporeon used Surf on Metagross
+p1: Metagross used Meteor Mash on Vaporeon
+Turn 8:
+p2: Vaporeon used Surf on Metagross
+p1: Metagross fainted
+p1: Switched to Swampert
+Turn 9:
+p2: Vaporeon used Baton Pass on Vaporeon
+p2: Switched to Ninjask
+p1: Swampert used Earthquake on Ninjask
+Turn 10:
+p2: Ninjask used Baton Pass on Ninjask
+p2: Switched to Hariyama
+p1: Swampert used Ice Beam on Hariyama
+Turn 11:
+p2: Hariyama used Belly Drum on Hariyama
+p1: Swampert used Surf on Hariyama
+Turn 12:
+p1: Switched to Sceptile
+p2: Hariyama used Brick Break on Sceptile
+p1: Sceptile fainted
+p1: Switched to Gardevoir
+Turn 13:
+p2: Hariyama used Hidden Power on Gardevoir
+p1: Gardevoir fainted
+p1: Switched to Swampert
+Turn 14:
+p2: Hariyama used Brick Break on Swampert
+p1: Swampert fainted
+p1: Switched to Salamence
+Turn 15:
+p2: Hariyama used Return on Salamence
+p1: Salamence fainted
+p1: Switched to Blaziken
+Turn 16:
+p2: Hariyama used Brick Break on Blaziken
+p1: Blaziken fainted

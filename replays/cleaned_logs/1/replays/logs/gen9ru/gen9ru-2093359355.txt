@@ -1,0 +1,51 @@
+p1: Switched to Pikachu
+p2: Switched to Zapdos-Galar
+Turn 1:
+p1: Switched to Moltres
+p2: Zapdos-Galar used Substitute on Zapdos-Galar
+Turn 2:
+p2: Zapdos-Galar used Nasty Plot on Zapdos-Galar
+p1: Moltres used Air Slash on Zapdos-Galar
+Turn 3:
+p1: Switched to Muk-Alola
+p2: Zapdos-Galar used Hyper Voice on Muk-Alola
+Turn 4:
+p2: Zapdos-Galar used Substitute on Zapdos-Galar
+p1: Muk-Alola used Knock Off on Zapdos-Galar
+Turn 5:
+p2: Zapdos-Galar used Hyper Voice on Muk-Alola
+p1: Muk-Alola used Knock Off on Zapdos-Galar
+p2: p2a: Zoroark fainted
+p2: Switched to Zapdos-Galar
+Turn 6:
+p2: Zapdos-Galar used Substitute on Zapdos-Galar
+p1: Muk-Alola used Knock Off on Zapdos-Galar
+Turn 7:
+p2: Zapdos-Galar used Drill Peck on Muk-Alola
+p1: Muk-Alola fainted
+p1: Switched to Espeon
+Turn 8:
+p1: Espeon used Psychic on Zapdos-Galar
+p2: Zapdos-Galar used Substitute on Zapdos-Galar
+Turn 9:
+p1: Switched to Moltres
+p2: Zapdos-Galar used Drill Peck on Moltres
+Turn 10:
+p2: Zapdos-Galar used Thunderous Kick on Moltres
+p1: Moltres used Flamethrower on Zapdos-Galar
+Turn 11:
+p2: Zapdos-Galar used Drill Peck on Moltres
+p1: Moltres used Flamethrower on Zapdos-Galar
+p2: Zapdos-Galar fainted
+p2: Switched to Enamorus-Therian
+Turn 12:
+p1: Moltres used U-turn on Enamorus-Therian
+p1: Switched to Espeon
+p2: Enamorus-Therian used Substitute on Enamorus-Therian
+Turn 13:
+p1: Espeon failed to use Trick
+p2: Enamorus-Therian used Calm Mind on Enamorus-Therian
+Turn 14:
+p1: Espeon failed to use Trick
+p2: Enamorus-Therian used Calm Mind on Enamorus-Therian
+Turn 15:

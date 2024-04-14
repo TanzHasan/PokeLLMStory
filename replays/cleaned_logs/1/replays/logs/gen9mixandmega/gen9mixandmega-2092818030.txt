@@ -1,0 +1,97 @@
+p1: Switched to Ceruledge
+p2: Switched to Clodsire
+Turn 1:
+p1: Ceruledge used Taunt on Clodsire
+p2: Clodsire can't move
+Turn 2:
+p1: Ceruledge used Bulk Up on Ceruledge
+p2: Clodsire used Earthquake on Ceruledge
+Turn 3:
+p1: Ceruledge used Bitter Blade on Clodsire
+p2: Clodsire used Earthquake on Ceruledge
+Turn 4:
+p2: Switched to Latios
+p1: Ceruledge used Bitter Blade on Latios
+Turn 5:
+p2: Latios used Weather Ball on Ceruledge
+p1: Ceruledge used Throat Chop on Latios
+p2: Latios fainted
+p2: Switched to Palossand
+Turn 6:
+p2: Palossand used Destiny Bond on Palossand
+p1: Ceruledge used Throat Chop on Palossand
+Turn 7:
+p1: Ceruledge used Taunt on Palossand
+p2: Palossand used Poltergeist on Ceruledge
+p1: Ceruledge fainted
+p1: Switched to Keldeo
+Turn 8:
+p2: Switched to Blissey
+p1: Keldeo used Calm Mind on Keldeo
+Turn 9:
+p1: Keldeo used Sacred Sword on Blissey
+p2: Blissey used Alluring Voice on Keldeo
+Turn 10:
+p1: Keldeo used Hydro Pump on Blissey
+p2: Blissey used Alluring Voice on Keldeo
+p1: Keldeo fainted
+p1: Switched to Garganacl
+Turn 11:
+p2: Blissey used Soft-Boiled on Blissey
+p1: Garganacl used Salt Cure on Blissey
+Turn 12:
+p2: Switched to Clodsire
+p1: Garganacl used Body Press on Clodsire
+Turn 13:
+p2: Clodsire used Stealth Rock on Garganacl
+p1: Garganacl used Body Press on Clodsire
+p2: Clodsire fainted
+p2: Switched to Palossand
+Turn 14:
+p2: Palossand used Destiny Bond on Palossand
+p1: Garganacl used Salt Cure on Palossand
+p2: Palossand fainted
+p2: Switched to Pecharunt
+Turn 15:
+p2: Pecharunt used Malignant Chain on Garganacl
+p1: Garganacl used Salt Cure on Pecharunt
+Turn 16:
+p1: Switched to Kyurem
+p2: Pecharunt used Malignant Chain on Kyurem
+Turn 17:
+p1: Kyurem used Weather Ball on Pecharunt
+p2: Pecharunt used Malignant Chain on Kyurem
+p1: Kyurem fainted
+p2: Pecharunt fainted
+p1: Switched to Scream Tail
+p2: Switched to Necrozma-Dusk-Mane
+Turn 18:
+p1: Scream Tail used Fire Blast on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane used Sunsteel Strike on Scream Tail
+Turn 19:
+p1: Scream Tail used Fire Blast on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane used Moonlight on Necrozma-Dusk-Mane
+Turn 20:
+p1: Scream Tail used Encore on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane used Moonlight on Necrozma-Dusk-Mane
+Turn 21:
+p2: Switched to Blissey
+p1: Scream Tail used Calm Mind on Scream Tail
+Turn 22:
+p1: Scream Tail used Boomburst on Blissey
+p2: Blissey used Alluring Voice on Scream Tail
+p1: Scream Tail fainted
+p1: Switched to Dragonite
+Turn 23:
+p2: Switched to Necrozma-Dusk-Mane
+p1: Dragonite used Dragon Dance on Dragonite
+Turn 24:
+p1: Dragonite used Earthquake on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane used Sunsteel Strike on Dragonite
+Turn 25:
+p1: Dragonite used Earthquake on Necrozma-Dusk-Mane
+p2: Necrozma-Dusk-Mane fainted
+p2: Switched to Blissey
+Turn 26:
+p1: Dragonite used Extreme Speed on Blissey
+p2: Blissey fainted

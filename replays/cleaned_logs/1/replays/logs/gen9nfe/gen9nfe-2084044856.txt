@@ -1,0 +1,102 @@
+p1: Switched to Frogadier
+p2: Switched to Wartortle
+Turn 1:
+p1: Frogadier used U-turn on Wartortle
+p1: Switched to Murkrow
+p2: Wartortle used Shell Smash on Wartortle
+Turn 2:
+p2: Switched to Sliggoo-Hisui
+p1: Murkrow used Haze on Murkrow
+Turn 3:
+p1: Murkrow used Tailwind on Murkrow
+p2: Sliggoo-Hisui used Draco Meteor on Murkrow
+Turn 4:
+p1: Switched to Piloswine
+p2: Sliggoo-Hisui used Thunderbolt on Piloswine
+Turn 5:
+p2: Switched to Arctibax
+p1: Piloswine used Stealth Rock on Arctibax
+Turn 6:
+p1: Piloswine used Earthquake on Arctibax
+p2: Arctibax used Iron Head on Piloswine
+Turn 7:
+p1: Switched to Seadra
+p2: Arctibax used Swords Dance on Arctibax
+Turn 8:
+p1: Seadra used Agility on Seadra
+p2: Arctibax used Avalanche on Seadra
+Turn 9:
+p1: Seadra used Dragon Pulse on Arctibax
+p2: Arctibax fainted
+p2: Switched to Sliggoo-Hisui
+Turn 10:
+p1: Seadra used Dragon Pulse on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Draco Meteor on Seadra
+p1: Seadra fainted
+p1: Switched to Koffing
+Turn 11:
+p2: Sliggoo-Hisui used Draco Meteor on Koffing
+p1: Koffing used Toxic Spikes on Sliggoo-Hisui
+Turn 12:
+p2: Switched to Misdreavus
+p1: Koffing used Toxic Spikes on Misdreavus
+Turn 13:
+p1: Switched to Murkrow
+p2: Misdreavus used Substitute on Misdreavus
+Turn 14:
+p1: Murkrow used Dark Pulse on Misdreavus
+p2: Misdreavus used Draining Kiss on Murkrow
+p1: Murkrow fainted
+p1: Switched to Piloswine
+Turn 15:
+p1: Piloswine used Protect on Piloswine
+p2: Misdreavus used Shadow Ball on Piloswine
+Turn 16:
+p1: Piloswine used Ice Shard on Misdreavus
+p2: Misdreavus fainted
+p2: Switched to Sliggoo-Hisui
+Turn 17:
+p1: Piloswine used Ice Shard on Sliggoo-Hisui
+p2: Sliggoo-Hisui used Draco Meteor on Piloswine
+p1: Piloswine fainted
+p1: Switched to Torracat
+Turn 18:
+p1: Torracat used Flare Blitz on Sliggoo-Hisui
+p2: Sliggoo-Hisui fainted
+p2: Switched to Wartortle
+Turn 19:
+p1: Torracat used Taunt on Wartortle
+p2: Wartortle can't move
+Turn 20:
+p1: Torracat used U-turn on Wartortle
+p1: Switched to Koffing
+p2: Wartortle used Surf on Koffing
+Turn 21:
+p1: Koffing used Protect on Koffing
+p2: Wartortle used Aqua Jet on Koffing
+Turn 22:
+p2: Wartortle used Aqua Jet on Koffing
+p1: Koffing used Gunk Shot on Wartortle
+p2: Wartortle fainted
+p2: Switched to Floragato
+Turn 23:
+p1: Koffing used Protect on Koffing
+p2: Floragato used Play Rough on Koffing
+Turn 24:
+p2: Floragato used Play Rough on Koffing
+p1: Koffing fainted
+p1: Switched to Frogadier
+Turn 25:
+p1: Frogadier used U-turn on Floragato
+p1: Switched to Torracat
+p2: Floragato used Play Rough on Torracat
+p2: Floragato fainted
+p2: Switched to Raboot
+Turn 26:
+p2: Raboot used Sucker Punch on Torracat
+p1: Torracat fainted
+p1: Switched to Frogadier
+Turn 27:
+p2: Raboot used Sucker Punch on Frogadier
+p1: Frogadier used U-turn on Raboot
+p2: Raboot fainted

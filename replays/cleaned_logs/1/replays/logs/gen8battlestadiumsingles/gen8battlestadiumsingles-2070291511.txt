@@ -1,0 +1,125 @@
+p1: Switched to Tapu Fini
+p2: Switched to Celesteela
+Turn 1:
+p2: Celesteela failed to use Meteor Beam
+p1: Tapu Fini used Substitute on Tapu Fini
+Turn 2:
+p2: Celesteela used Flash Cannon on Tapu Fini
+p1: Tapu Fini used Calm Mind on Tapu Fini
+Turn 3:
+p2: Celesteela used Air Slash on Tapu Fini
+p1: Tapu Fini used Scald on Celesteela
+Turn 4:
+p2: Celesteela used Max Airstream on Tapu Fini
+p1: Tapu Fini fainted
+p1: Switched to Cinderace
+Turn 5:
+p1: Cinderace used Pyro Ball on Celesteela
+p2: Celesteela fainted
+p2: Switched to Corsola-Galar
+Turn 6:
+p1: Cinderace used G-Max Fireball on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Cinderace
+Turn 7:
+p1: Cinderace used Max Darkness on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Cinderace
+Turn 8:
+p1: Cinderace used G-Max Fireball on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Cinderace
+Turn 9:
+p1: Cinderace failed to use Bounce
+p2: Corsola-Galar used Strength Sap on Cinderace
+Turn 10:
+p1: Cinderace used Bounce on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Cinderace
+Turn 11:
+p1: Cinderace used Pyro Ball on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Cinderace
+Turn 12:
+p2: Switched to Centiskorch
+p1: Cinderace used Pyro Ball on Centiskorch
+Turn 13:
+p1: Switched to Landorus-Therian
+p2: Centiskorch used Knock Off on Landorus-Therian
+Turn 14:
+p2: Switched to Corsola-Galar
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+Turn 15:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 16:
+p1: Switched to Cinderace
+p2: Corsola-Galar used Strength Sap on Cinderace
+Turn 17:
+p1: Cinderace failed to use Bounce
+p2: Corsola-Galar used Hex on Cinderace
+Turn 18:
+p1: Cinderace used Bounce on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 19:
+p2: Switched to Centiskorch
+p1: Cinderace failed to use Sucker Punch
+Turn 20:
+p1: Cinderace used Sucker Punch on Centiskorch
+p2: Centiskorch used Fire Lash on Cinderace
+p1: Cinderace fainted
+p1: Switched to Landorus-Therian
+Turn 21:
+p1: Landorus-Therian used Earthquake on Centiskorch
+p2: Centiskorch used Fire Lash on Landorus-Therian
+Turn 22:
+p1: Landorus-Therian used Earthquake on Centiskorch
+p2: Centiskorch fainted
+p2: Switched to Corsola-Galar
+Turn 23:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 24:
+p1: Landorus-Therian used Iron Tail on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Landorus-Therian
+Turn 25:
+p1: Landorus-Therian used Earthquake on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Landorus-Therian
+Turn 26:
+p1: Landorus-Therian used Iron Tail on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Landorus-Therian
+Turn 27:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 28:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 29:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 30:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Landorus-Therian
+Turn 31:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 32:
+p1: Landorus-Therian used Earthquake on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Landorus-Therian
+Turn 33:
+p1: Landorus-Therian used Iron Tail on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 34:
+p1: Landorus-Therian used Earthquake on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Landorus-Therian
+Turn 35:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar used Will-O-Wisp on Landorus-Therian
+Turn 36:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 37:
+p1: Landorus-Therian used Rock Slide on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 38:
+p1: Landorus-Therian used Iron Tail on Corsola-Galar
+p2: Corsola-Galar can't move
+Turn 39:
+p1: Landorus-Therian used Iron Tail on Corsola-Galar
+p2: Corsola-Galar used Strength Sap on Landorus-Therian
+Turn 40:

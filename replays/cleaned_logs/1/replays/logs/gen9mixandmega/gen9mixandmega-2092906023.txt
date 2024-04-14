@@ -1,0 +1,81 @@
+p1: Switched to Metagross
+p2: Switched to Meowscarada
+Turn 1:
+p2: Meowscarada used U-turn on Metagross
+p2: Switched to Corviknight
+p1: Metagross used Heavy Slam on Corviknight
+Turn 2:
+p1: Metagross used Thunder Punch on Corviknight
+p2: Corviknight used Iron Defense on Corviknight
+Turn 3:
+p1: Switched to Thundurus-Therian
+p2: Corviknight used Roost on Corviknight
+Turn 4:
+p2: Switched to Clodsire
+p1: Thundurus-Therian used Weather Ball on Clodsire
+Turn 5:
+p1: Thundurus-Therian used Weather Ball on Clodsire
+p2: Clodsire fainted
+p2: Switched to Baxcalibur
+Turn 6:
+p1: Switched to Metagross-Mega
+p2: Baxcalibur used Earthquake on Metagross-Mega
+Turn 7:
+p2: Switched to Corviknight
+p1: Metagross-Mega used Heavy Slam on Corviknight
+Turn 8:
+p1: Metagross-Mega used Thunder Punch on Corviknight
+p2: Corviknight used Body Press on Metagross-Mega
+p1: Metagross-Mega fainted
+p1: Switched to Samurott-Hisui
+Turn 9:
+p1: Samurott-Hisui used Ceaseless Edge on Corviknight
+p2: Corviknight used Roost on Corviknight
+Turn 10:
+p1: Switched to Thundurus-Therian
+p2: Corviknight used Iron Defense on Corviknight
+Turn 11:
+p2: Switched to Ho-Oh
+p1: Thundurus-Therian used Thunderbolt on Ho-Oh
+Turn 12:
+p1: Thundurus-Therian used Thunderbolt on Ho-Oh
+p2: Ho-Oh fainted
+p2: Switched to Baxcalibur
+Turn 13:
+p1: Switched to Samurott-Hisui
+p2: Baxcalibur used Body Slam on Samurott-Hisui
+Turn 14:
+p2: Baxcalibur used Glaive Rush on Samurott-Hisui
+p1: Samurott-Hisui fainted
+p1: Switched to Dragonite
+Turn 15:
+p2: Switched to Corviknight
+p1: Dragonite used Extreme Speed on Corviknight
+Turn 16:
+p1: Switched to Hatterene
+p2: Corviknight used Iron Defense on Corviknight
+Turn 17:
+p2: Switched to Magearna
+p1: Hatterene used Calm Mind on Hatterene
+Turn 18:
+p1: Hatterene used Mystical Fire on Magearna
+p2: Magearna used Calm Mind on Magearna
+Turn 19:
+p1: Hatterene used Mystical Fire on Magearna
+p2: Magearna fainted
+p2: Switched to Baxcalibur
+Turn 20:
+p2: Baxcalibur used Body Slam on Hatterene
+p1: Hatterene can't move
+Turn 21:
+p2: Baxcalibur used Body Slam on Hatterene
+p1: Hatterene fainted
+p1: Switched to Dragonite
+Turn 22:
+p1: Dragonite used Extreme Speed on Baxcalibur
+p2: Baxcalibur fainted
+p2: Switched to Corviknight
+Turn 23:
+p1: Switched to Thundurus-Therian
+p2: Corviknight used Body Press on Thundurus-Therian
+Turn 24:

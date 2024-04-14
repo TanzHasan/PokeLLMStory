@@ -1,0 +1,422 @@
+|j|☆Oribi
+|j|☆LavSSBM
+|t:|1711939999
+|gametype|singles
+|player|p1|Oribi|miku-flying|
+|player|p2|LavSSBM|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|7
+|tier|[Gen 7] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|clearpoke
+|poke|p1|Magneton|item
+|poke|p1|Cobalion|item
+|poke|p1|Venomoth, M|item
+|poke|p1|Altaria, F|item
+|poke|p1|Sylveon, F|item
+|poke|p1|Diggersby, F|item
+|poke|p2|Hydreigon, F|item
+|poke|p2|Pinsir, F|item
+|poke|p2|Gengar, M|item
+|poke|p2|Quagsire, M|item
+|poke|p2|Tornadus, M|item
+|poke|p2|Cresselia, F|item
+|teampreview
+|j| DSBRUCE
+|
+|t:|1711940021
+|start
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|1
+|
+|t:|1711940060
+|move|p2a: Hydreigon|Surf|p1a: Diggersby
+|-supereffective|p1a: Diggersby
+|-damage|p1a: Diggersby|32/100
+|move|p1a: Diggersby|Return|p2a: Hydreigon
+|-damage|p2a: Hydreigon|4/100
+|-damage|p1a: Diggersby|22/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1711940067
+|move|p1a: Diggersby|Quick Attack|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-damage|p1a: Diggersby|12/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆LavSSBM|o
+|c|☆LavSSBM|LMAO
+|
+|t:|1711940084
+|switch|p2a: Pinsir|Pinsir, F|100/100
+|turn|3
+|
+|t:|1711940099
+|detailschange|p2a: Pinsir|Pinsir-Mega, F
+|-mega|p2a: Pinsir|Pinsir|Pinsirite
+|move|p2a: Pinsir|Swords Dance|p2a: Pinsir
+|-boost|p2a: Pinsir|atk|2
+|move|p1a: Diggersby|Return|p2a: Pinsir
+|-damage|p2a: Pinsir|3/100
+|-damage|p1a: Diggersby|2/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1711940109
+|move|p2a: Pinsir|Quick Attack|p1a: Diggersby
+|-damage|p1a: Diggersby|0 fnt
+|faint|p1a: Diggersby
+|
+|upkeep
+|
+|t:|1711940111
+|switch|p1a: Venomoth|Venomoth, M|100/100
+|turn|5
+|
+|t:|1711940121
+|move|p2a: Pinsir|Return|p1a: Venomoth
+|-supereffective|p1a: Venomoth
+|-enditem|p1a: Venomoth|Focus Sash
+|-damage|p1a: Venomoth|1/100
+|move|p1a: Venomoth|Bug Buzz|p2a: Pinsir
+|-resisted|p2a: Pinsir
+|-damage|p2a: Pinsir|0 fnt
+|faint|p2a: Pinsir
+|
+|upkeep
+|
+|t:|1711940134
+|switch|p2a: Tornadus|Tornadus, M|100/100
+|turn|6
+|
+|t:|1711940141
+|switch|p1a: Magneton|Magneton|100/100
+|-item|p1a: Magneton|Air Balloon
+|move|p2a: Tornadus|U-turn|p1a: Magneton
+|-resisted|p1a: Magneton
+|-damage|p1a: Magneton|86/100
+|-enditem|p1a: Magneton|Air Balloon
+|-damage|p2a: Tornadus|91/100|[from] item: Life Orb
+|
+|t:|1711940149
+|switch|p2a: trans rights|Quagsire, M, shiny|100/100|[from] U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1711940154
+|move|p1a: Magneton|Toxic|p2a: trans rights
+|-status|p2a: trans rights|tox
+|move|p2a: trans rights|Earthquake|p1a: Magneton
+|-supereffective|p1a: Magneton
+|-damage|p1a: Magneton|0 fnt
+|faint|p1a: Magneton
+|
+|-damage|p2a: trans rights|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1711940180
+|switch|p1a: Altaria|Altaria, F|100/100
+|turn|8
+|
+|t:|1711940232
+|detailschange|p1a: Altaria|Altaria-Mega, F
+|-mega|p1a: Altaria|Altaria|Altarianite
+|move|p1a: Altaria|Agility|p1a: Altaria
+|-boost|p1a: Altaria|spe|2
+|move|p2a: trans rights|Scald|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|90/100
+|-status|p1a: Altaria|brn
+|
+|-heal|p2a: trans rights|100/100 tox|[from] item: Leftovers
+|-damage|p2a: trans rights|88/100 tox|[from] psn
+|-damage|p1a: Altaria|84/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1711940248
+|move|p1a: Altaria|Hidden Power|p2a: trans rights
+|-supereffective|p2a: trans rights
+|-damage|p2a: trans rights|16/100 tox
+|move|p2a: trans rights|Recover|p2a: trans rights
+|-heal|p2a: trans rights|66/100 tox
+|
+|-heal|p2a: trans rights|72/100 tox|[from] item: Leftovers
+|-damage|p2a: trans rights|54/100 tox|[from] psn
+|-damage|p1a: Altaria|78/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1711940289
+|switch|p2a: Tornadus|Tornadus, M|91/100
+|move|p1a: Altaria|Hidden Power|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|82/100
+|
+|-damage|p1a: Altaria|72/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1711940309
+|move|p1a: Altaria|Return|p2a: Tornadus
+|-damage|p2a: Tornadus|32/100
+|move|p2a: Tornadus|Hurricane|p1a: Altaria|[miss]
+|-miss|p2a: Tornadus|p1a: Altaria
+|
+|-damage|p1a: Altaria|66/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1711940322
+|switch|p2a: trans wrongs|Cresselia, F, shiny|100/100
+|move|p1a: Altaria|Return|p2a: trans wrongs
+|-damage|p2a: trans wrongs|85/100
+|
+|-heal|p2a: trans wrongs|91/100|[from] item: Leftovers
+|-damage|p1a: Altaria|59/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1711940336
+|switch|p1a: Cobalion|Cobalion|100/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|84/100
+|
+|-heal|p2a: trans wrongs|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1711940343
+|move|p1a: Cobalion|Stealth Rock|p2a: trans wrongs
+|-sidestart|p2: LavSSBM|move: Stealth Rock
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|67/100
+|
+|-heal|p2a: trans wrongs|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1711940349
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|85/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|51/100
+|
+|-heal|p2a: trans wrongs|91/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1711940356
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|75/100
+|cant|p2a: trans wrongs|flinch
+|
+|-heal|p2a: trans wrongs|81/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1711940361
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|66/100
+|cant|p2a: trans wrongs|flinch
+|
+|-heal|p2a: trans wrongs|72/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1711940367
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|57/100
+|cant|p2a: trans wrongs|flinch
+|
+|-heal|p2a: trans wrongs|64/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆Oribi|wow
+|
+|t:|1711940375
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|48/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|36/100
+|
+|-heal|p2a: trans wrongs|55/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c| DSBRUCE|wobbling
+|c|☆LavSSBM|im getting wobbled in my favorite pokemon simulator
+|
+|t:|1711940393
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|39/100
+|move|p2a: trans wrongs|Moonlight|p2a: trans wrongs
+|-heal|p2a: trans wrongs|89/100
+|
+|-heal|p2a: trans wrongs|95/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711940399
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|79/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|19/100
+|-enditem|p1a: Cobalion|Figy Berry|[eat]
+|-heal|p1a: Cobalion|69/100|[from] item: Figy Berry
+|
+|-heal|p2a: trans wrongs|85/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1711940407
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|69/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|53/100
+|
+|-heal|p2a: trans wrongs|75/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆Oribi|this is crazy
+|
+|t:|1711940414
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|60/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|38/100
+|
+|-heal|p2a: trans wrongs|66/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1711940421
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|52/100
+|move|p2a: trans wrongs|Moonlight|p2a: trans wrongs
+|-heal|p2a: trans wrongs|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1711940434
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-crit|p2a: trans wrongs
+|-damage|p2a: trans wrongs|77/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-damage|p1a: Cobalion|20/100
+|
+|-heal|p2a: trans wrongs|83/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1711940441
+|move|p1a: Cobalion|Iron Head|p2a: trans wrongs
+|-damage|p2a: trans wrongs|66/100
+|move|p2a: trans wrongs|Psyshock|p1a: Cobalion
+|-crit|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|-heal|p2a: trans wrongs|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711940453
+|switch|p1a: Venomoth|Venomoth, M|1/100
+|turn|27
+|
+|t:|1711940460
+|move|p1a: Venomoth|Sleep Powder|p2a: trans wrongs
+|-status|p2a: trans wrongs|slp|[from] move: Sleep Powder
+|cant|p2a: trans wrongs|slp
+|
+|-heal|p2a: trans wrongs|79/100 slp|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711940469
+|switch|p2a: Gengar|Gengar, M|100/100
+|-damage|p2a: Gengar|88/100|[from] Stealth Rock
+|move|p1a: Venomoth|Quiver Dance|p1a: Venomoth
+|-boost|p1a: Venomoth|spa|1
+|-boost|p1a: Venomoth|spd|1
+|-boost|p1a: Venomoth|spe|1
+|
+|upkeep
+|turn|29
+|
+|t:|1711940487
+|move|p1a: Venomoth|Giga Drain|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|38/100
+|-heal|p1a: Venomoth|24/100|[from] drain|[of] p2a: Gengar
+|-start|p1a: Venomoth|Disable|Giga Drain|[from] ability: Cursed Body|[of] p2a: Gengar
+|move|p2a: Gengar|Trick|p1a: Venomoth
+|-activate|p2a: Gengar|move: Trick|[of] p1a: Venomoth
+|-item|p1a: Venomoth|Choice Specs|[from] move: Trick
+|-enditem|p2a: Gengar|Choice Specs|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|30
+|
+|t:|1711940519
+|move|p1a: Venomoth|Bug Buzz|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1711940538
+|switch|p2a: trans rights|Quagsire, M, shiny|54/100 tox
+|-damage|p2a: trans rights|48/100 tox|[from] Stealth Rock
+|turn|31
+|
+|t:|1711940542
+|move|p1a: Venomoth|Bug Buzz|p2a: trans rights
+|-damage|p2a: trans rights|0 fnt
+|faint|p2a: trans rights
+|
+|upkeep
+|
+|t:|1711940546
+|switch|p2a: trans wrongs|Cresselia, F, shiny|79/100 slp
+|-damage|p2a: trans wrongs|66/100 slp|[from] Stealth Rock
+|turn|32
+|
+|t:|1711940554
+|move|p1a: Venomoth|Bug Buzz|p2a: trans wrongs
+|-supereffective|p2a: trans wrongs
+|-damage|p2a: trans wrongs|0 fnt
+|faint|p2a: trans wrongs
+|
+|-end|p1a: Venomoth|Disable
+|upkeep
+|
+|t:|1711940559
+|switch|p2a: Tornadus|Tornadus, M|32/100
+|-damage|p2a: Tornadus|7/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1711940564
+|move|p1a: Venomoth|Bug Buzz|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|win|Oribi
+|c|☆LavSSBM|ggs :)
+|c|☆Oribi|gg!!<3

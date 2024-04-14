@@ -1,0 +1,161 @@
+|j|☆distortedice
+|j|☆Rival Andrew
+|t:|1711946464
+|gametype|singles
+|player|p1|distortedice|lady-gen4|1244
+|player|p2|Rival Andrew|silver-masters|1315
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] NU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Umbreon, F|
+|poke|p1|Flygon, F|
+|poke|p1|Swampert, M|
+|poke|p1|Dragalge, M|
+|poke|p1|Sylveon, F|
+|poke|p1|Mew|
+|poke|p2|Minior-Violet|
+|poke|p2|Tsareena, F|
+|poke|p2|Weezing, F|
+|poke|p2|Gligar, M|
+|poke|p2|Espeon, M|
+|poke|p2|Umbreon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by distortedice)
+|
+|t:|1711946482
+|start
+|switch|p1a: Snake|Sylveon, F|100/100
+|switch|p2a: Blooper|Gligar, M, shiny|100/100
+|turn|1
+|inactive|distortedice has 120 seconds left.
+|
+|t:|1711946515
+|move|p2a: Blooper|Stealth Rock|p1a: Snake
+|-sidestart|p1: distortedice|move: Stealth Rock
+|move|p1a: Snake|Hyper Voice|p2a: Blooper
+|-damage|p2a: Blooper|34/100
+|
+|upkeep
+|turn|2
+|
+|t:|1711946534
+|switch|p2a: Chanel|Weezing, F, shiny|100/100
+|-ability|p2a: Chanel|Neutralizing Gas
+|move|p1a: Snake|Hyper Voice|p2a: Chanel
+|-crit|p2a: Chanel
+|-damage|p2a: Chanel|4/100
+|
+|upkeep
+|turn|3
+|
+|t:|1711946547
+|move|p1a: Snake|Hyper Voice|p2a: Chanel
+|-damage|p2a: Chanel|0 fnt
+|faint|p2a: Chanel
+|-end|p2a: Chanel|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1711946563
+|switch|p2a: Nebula|Minior-Violet, shiny|100/100
+|-formechange|p2a: Nebula|Minior-Meteor||[from] ability: Shields Down
+|turn|4
+|
+|t:|1711946570
+|move|p2a: Nebula|Shell Smash|p2a: Nebula
+|-unboost|p2a: Nebula|def|1
+|-unboost|p2a: Nebula|spd|1
+|-boost|p2a: Nebula|atk|2
+|-boost|p2a: Nebula|spa|2
+|-boost|p2a: Nebula|spe|2
+|-enditem|p2a: Nebula|White Herb
+|-clearnegativeboost|p2a: Nebula|[silent]
+|move|p1a: Snake|Hyper Voice|p2a: Nebula
+|-damage|p2a: Nebula|1/100
+|
+|-formechange|p2a: Nebula|Minior-Violet||[from] ability: Shields Down
+|upkeep
+|turn|5
+|
+|t:|1711946584
+|-terastallize|p2a: Nebula|Flying
+|move|p2a: Nebula|Acrobatics|p1a: Snake
+|-damage|p1a: Snake|0 fnt
+|faint|p1a: Snake
+|
+|upkeep
+|
+|t:|1711946612
+|switch|p1a: Flygon|Flygon, F|100/100
+|-damage|p1a: Flygon|95/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1711946630
+|move|p1a: Flygon|First Impression|p2a: Nebula
+|-resisted|p2a: Nebula
+|-crit|p2a: Nebula
+|-damage|p2a: Nebula|0 fnt
+|faint|p2a: Nebula
+|-damage|p1a: Flygon|85/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711946637
+|switch|p2a: Poison Thighvy|Tsareena, F, shiny|100/100
+|turn|7
+|
+|t:|1711946647
+|switch|p1a: Swampert|Swampert, M|100/100
+|-damage|p1a: Swampert|94/100|[from] Stealth Rock
+|move|p2a: Poison Thighvy|Triple Axel|p1a: Swampert|[miss]
+|-miss|p2a: Poison Thighvy|p1a: Swampert
+|
+|-heal|p1a: Swampert|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711946659
+|move|p2a: Poison Thighvy|Power Whip|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|upkeep
+|
+|t:|1711946665
+|switch|p1a: Dragalge|Dragalge, M|100/100
+|-damage|p1a: Dragalge|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1711946667
+|move|p2a: Poison Thighvy|Triple Axel|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|71/100
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|37/100
+|-supereffective|p1a: Dragalge
+|-crit|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|-hitcount|p1: Dragalge|3
+|
+|upkeep
+|-message|distortedice forfeited.
+|
+|win|Rival Andrew
+|raw|distortedice's rating: 1244 &rarr; <strong>1224</strong><br />(-20 for losing)
+|raw|Rival Andrew's rating: 1315 &rarr; <strong>1331</strong><br />(+16 for winning)
+|l|☆distortedice
+|player|p1|
+|l|☆Rival Andrew
+|player|p2|

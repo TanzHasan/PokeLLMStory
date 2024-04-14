@@ -1,0 +1,92 @@
+p1: Switched to Croagunk
+p2: Switched to Stunky
+Turn 1:
+p2: Stunky used Knock Off on Croagunk
+p1: Croagunk used Earthquake on Stunky
+Turn 2:
+p2: Switched to Mudbray
+p1: Croagunk used Drain Punch on Mudbray
+Turn 3:
+p1: Switched to Fomantis
+p2: Mudbray used High Horsepower on Fomantis
+Turn 4:
+p2: Switched to Vullaby
+p1: Fomantis used Leaf Storm on Vullaby
+Turn 5:
+p1: Switched to Frigibax
+p2: Vullaby used Brave Bird on Frigibax
+Turn 6:
+p1: Frigibax used Icicle Crash on Vullaby
+p2: Vullaby fainted
+p2: Switched to Stunky
+Turn 7:
+p2: Stunky used Sucker Punch on Frigibax
+p1: Frigibax fainted
+p1: Switched to Charcadet
+Turn 8:
+p2: Stunky used Knock Off on Charcadet
+p1: Charcadet used Flame Charge on Stunky
+p2: Stunky fainted
+p2: Switched to Mienfoo
+Turn 9:
+p2: Mienfoo used Fake Out on Charcadet
+p1: Charcadet can't move
+Turn 10:
+p1: Charcadet used Flare Blitz on Mienfoo
+p1: Charcadet fainted
+p2: Mienfoo used Knock Off on p1: Charcadet
+p1: Switched to Croagunk
+Turn 11:
+p2: Mienfoo used U-turn on Croagunk
+p2: Switched to Mudbray
+p1: Croagunk used Drain Punch on Mudbray
+Turn 12:
+p1: Switched to Fomantis
+p2: Mudbray used High Horsepower on Fomantis
+Turn 13:
+p2: Switched to Grookey
+p1: Fomantis used Leaf Storm on Grookey
+Turn 14:
+p2: Grookey used U-turn on Fomantis
+p1: Fomantis fainted
+p2: Switched to Mienfoo
+p1: Switched to Capsakid
+Turn 15:
+p2: Mienfoo used Fake Out on Capsakid
+p1: Capsakid can't move
+Turn 16:
+p1: Capsakid used Protect on Capsakid
+p2: Mienfoo used U-turn on Capsakid
+Turn 17:
+p1: Switched to Croagunk
+p2: Mienfoo used U-turn on Croagunk
+p2: Switched to Growlithe-Hisui
+Turn 18:
+p2: Growlithe-Hisui used Psychic Fangs on Croagunk
+p1: Croagunk fainted
+p1: Switched to Clauncher
+Turn 19:
+p2: Switched to Mienfoo
+p1: Clauncher used Aqua Jet on Mienfoo
+Turn 20:
+p2: Mienfoo used Fake Out on Clauncher
+p1: Clauncher can't move
+Turn 21:
+p2: Mienfoo used Knock Off on Clauncher
+p1: Clauncher used Dragon Pulse on Mienfoo
+Turn 22:
+p2: Mienfoo used High Jump Kick on Clauncher
+p1: Clauncher fainted
+p1: Switched to Capsakid
+Turn 23:
+p2: Mienfoo used U-turn on Capsakid
+p2: Switched to Mudbray
+p1: Capsakid used Giga Drain on Mudbray
+p2: Mudbray fainted
+p2: Switched to Mienfoo
+Turn 24:
+p2: Mienfoo used Fake Out on Capsakid
+p1: Capsakid can't move
+Turn 25:
+p2: Mienfoo used U-turn on Capsakid
+p1: Capsakid fainted

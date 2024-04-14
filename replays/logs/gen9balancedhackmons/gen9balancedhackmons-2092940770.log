@@ -1,0 +1,146 @@
+|j|☆fremage
+|j|☆boppydop
+|t:|1711893900
+|gametype|singles
+|player|p1|fremage|colress|1092
+|player|p2|boppydop|1|1000
+|teamsize|p1|6
+|teamsize|p2|3
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Archaludon, M|
+|poke|p1|Blissey, F|
+|poke|p1|Delphox, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Iron Treads|
+|poke|p1|Snorlax, F|
+|poke|p2|Zacian-*|
+|poke|p2|Arceus-Steel|
+|poke|p2|Necrozma-Dawn-Wings|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fremage)
+|c|☆boppydop|sup
+|
+|t:|1711893905
+|start
+|switch|p1a: Archaludon|Archaludon, M|100/100
+|switch|p2a: Arceus|Arceus-Steel|100/100
+|-ability|p1a: Archaludon|Mold Breaker
+|turn|1
+|
+|t:|1711893912
+|move|p2a: Arceus|Taunt|p1a: Archaludon
+|-start|p1a: Archaludon|move: Taunt
+|cant|p1a: Archaludon|move: Taunt|Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1711893923
+|switch|p1a: Delphox|Delphox, M|100/100
+|-weather|DesolateLand|[from] ability: Desolate Land|[of] p1a: Delphox
+|move|p2a: Arceus|Light Screen|p2a: Arceus
+|-sidestart|p2: boppydop|move: Light Screen
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711893929
+|move|p2a: Arceus|Reflect|p2a: Arceus
+|-sidestart|p2: boppydop|Reflect
+|move|p1a: Delphox|Torch Song|p2a: Arceus
+|-supereffective|p2a: Arceus
+|-damage|p2a: Arceus|61/100
+|-boost|p1a: Delphox|spa|1
+|-damage|p1a: Delphox|91/100|[from] item: Life Orb
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711893936
+|move|p2a: Arceus|Parting Shot|p1a: Delphox
+|-unboost|p1a: Delphox|atk|1
+|-unboost|p1a: Delphox|spa|1
+|
+|t:|1711893940
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings|100/100|[from] Parting Shot
+|move|p1a: Delphox|Blue Flare|p2a: Necrozma
+|-damage|p2a: Necrozma|66/100
+|-damage|p1a: Delphox|81/100|[from] item: Life Orb
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1711893948
+|move|p1a: Delphox|Astral Barrage|p2a: Necrozma
+|-supereffective|p2a: Necrozma
+|-damage|p2a: Necrozma|10/100
+|-enditem|p2a: Necrozma|Weakness Policy
+|-boost|p2a: Necrozma|atk|4|[from] item: Weakness Policy
+|-boost|p2a: Necrozma|spa|4|[from] item: Weakness Policy
+|-damage|p1a: Delphox|71/100|[from] item: Life Orb
+|move|p2a: Necrozma|No Retreat|p2a: Necrozma
+|-boost|p2a: Necrozma|atk|2
+|-boost|p2a: Necrozma|def|2
+|-boost|p2a: Necrozma|spa|2
+|-boost|p2a: Necrozma|spd|2
+|-boost|p2a: Necrozma|spe|2
+|-start|p2a: Necrozma|move: No Retreat
+|
+|-weather|DesolateLand|[upkeep]
+|upkeep
+|turn|6
+|c|☆boppydop|:)
+|
+|t:|1711893960
+|move|p2a: Necrozma|Stored Power|p1a: Delphox
+|-resisted|p1a: Delphox
+|-damage|p1a: Delphox|0 fnt
+|faint|p1a: Delphox
+|-weather|none
+|
+|upkeep
+|
+|t:|1711893966
+|switch|p1a: Blissey|Blissey, F|100/100
+|-transform|p1a: Blissey|p2a: Necrozma|[from] ability: Imposter
+|turn|7
+|
+|t:|1711893976
+|move|p1a: Blissey|Stored Power|p2a: Necrozma
+|-resisted|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|upkeep
+|
+|t:|1711893978
+|switch|p2a: Zacian|Zacian-Crowned|100/100
+|-ability|p2a: Zacian|Intrepid Sword|boost
+|-boost|p2a: Zacian|atk|1
+|turn|8
+|c|☆boppydop|wait hwat
+|c|☆boppydop|one sec
+|-message|boppydop forfeited.
+|
+|win|fremage
+|raw|fremage's rating: 1092 &rarr; <strong>1111</strong><br />(+19 for winning)
+|raw|boppydop's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆boppydop
+|player|p2|

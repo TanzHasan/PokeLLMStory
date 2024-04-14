@@ -1,0 +1,462 @@
+|j|☆castillo919
+|j|☆harrimarron 2
+|t:|1711915388
+|gametype|singles
+|player|p1|castillo919|101|1216
+|player|p2|harrimarron 2|guitarist-gen4|1327
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Balanced Hackmons
+|rated|
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Clause: Evasion abilities, items, and moves are banned
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Reveal Clause: Reveals a Pokémon's true species in hackmons-based metagames.
+|rule|Terastal Clause: You cannot Terastallize
+|clearpoke
+|poke|p1|Scizor-Mega, M|
+|poke|p1|Swampert-Mega, F|
+|poke|p1|Arceus-Fairy|
+|poke|p1|Tyranitar-Mega, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Ho-Oh|
+|poke|p2|Greninja-Ash, M|
+|poke|p2|Arceus-Electric|
+|poke|p2|Blissey, F|
+|poke|p2|Chansey, F|
+|poke|p2|Celesteela|
+|poke|p2|Meloetta|
+|teampreview
+|j| Red de Pokemon oro
+|c|☆harrimarron 2|terry maa aka bhosarike
+|
+|t:|1711915409
+|start
+|switch|p1a: Itaçhi|Scizor-Mega, M|100/100
+|switch|p2a: Zigzag|Greninja-Ash, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Itaçhi
+|turn|1
+|l|☆castillo919
+|player|p1|
+|c|☆harrimarron 2|bakiri chod
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by harrimarron 2)
+|j|☆castillo919
+|inactive|castillo919 reconnected and has 150 seconds left.
+|player|p1|castillo919|101
+|
+|t:|1711915460
+|move|p2a: Zigzag|Surging Strikes|p1a: Itaçhi
+|-crit|p1a: Itaçhi
+|-damage|p1a: Itaçhi|56/100
+|-crit|p1a: Itaçhi
+|-damage|p1a: Itaçhi|13/100
+|-crit|p1a: Itaçhi
+|-damage|p1a: Itaçhi|0 fnt
+|faint|p1a: Itaçhi
+|-hitcount|p1: Itaçhi|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1711915475
+|switch|p1a: Tyranitar|Tyranitar-Mega, F, shiny|100/100
+|turn|2
+|
+|t:|1711915483
+|move|p2a: Zigzag|Surging Strikes|p1a: Tyranitar
+|-immune|p1a: Tyranitar|[from] ability: Dry Skin
+|move|p1a: Tyranitar|Stone Axe|p2a: Zigzag
+|-damage|p2a: Zigzag|60/100
+|-sidestart|p2: harrimarron 2|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1711915504
+|switch|p2a: Akeboshi Rocket|Celesteela|100/100
+|-damage|p2a: Akeboshi Rocket|88/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1711915516
+|move|p1a: Tyranitar|Wicked Blow|p2a: Akeboshi Rocket
+|-crit|p2a: Akeboshi Rocket
+|-damage|p2a: Akeboshi Rocket|17/100
+|move|p2a: Akeboshi Rocket|Rapid Spin|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|98/100
+|-boost|p2a: Akeboshi Rocket|spe|1
+|-sideend|p2: harrimarron 2|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Akeboshi Rocket
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tyranitar|100/100|[from] ability: Dry Skin
+|upkeep
+|turn|5
+|
+|t:|1711915528
+|switch|p2a: Heartbeat|Arceus-Electric|100/100
+|move|p1a: Tyranitar|Stone Axe|p2a: Heartbeat
+|-damage|p2a: Heartbeat|81/100
+|-sidestart|p2: harrimarron 2|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1711915550
+|move|p1a: Tyranitar|Wicked Blow|p2a: Heartbeat
+|-crit|p2a: Heartbeat
+|-damage|p2a: Heartbeat|50/100
+|move|p2a: Heartbeat|Strength Sap|p1a: Tyranitar
+|-unboost|p1a: Tyranitar|atk|1
+|-heal|p2a: Heartbeat|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1711915567
+|switch|p1a: Arceus|Arceus-Fairy, shiny|100/100
+|move|p2a: Heartbeat|Take Heart|p2a: Heartbeat
+|-boost|p2a: Heartbeat|spa|1
+|-boost|p2a: Heartbeat|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1711915577
+|move|p2a: Heartbeat|Thunder Cage|p1a: Arceus
+|-damage|p1a: Arceus|68/100
+|-activate|p1a: Arceus|move: Thunder Cage|[of] p2a: Heartbeat
+|move|p1a: Arceus|Thunder Cage|p2a: Heartbeat
+|-resisted|p2a: Heartbeat
+|-damage|p2a: Heartbeat|96/100
+|-activate|p2a: Heartbeat|move: Thunder Cage|[of] p1a: Arceus
+|
+|-weather|none
+|-heal|p1a: Arceus|74/100|[from] item: Leftovers
+|-damage|p1a: Arceus|62/100|[from] move: Thunder Cage|[partiallytrapped]
+|-damage|p2a: Heartbeat|83/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1711915591
+|move|p2a: Heartbeat|Take Heart|p2a: Heartbeat
+|-boost|p2a: Heartbeat|spa|1
+|-boost|p2a: Heartbeat|spd|1
+|move|p1a: Arceus|Take Heart|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-heal|p1a: Arceus|68/100|[from] item: Leftovers
+|-damage|p2a: Heartbeat|71/100|[from] move: Thunder Cage|[partiallytrapped]
+|-damage|p1a: Arceus|55/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1711915602
+|move|p1a: Arceus|Shore Up|p1a: Arceus
+|-heal|p1a: Arceus|100/100
+|move|p2a: Heartbeat|Thunder Cage|p1a: Arceus
+|-damage|p1a: Arceus|67/100
+|
+|-heal|p1a: Arceus|73/100|[from] item: Leftovers
+|-damage|p1a: Arceus|60/100|[from] move: Thunder Cage|[partiallytrapped]
+|-damage|p2a: Heartbeat|59/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1711915614
+|move|p2a: Heartbeat|Thunder Cage|p1a: Arceus|[miss]
+|-miss|p2a: Heartbeat|p1a: Arceus
+|move|p1a: Arceus|Take Heart|p1a: Arceus
+|-boost|p1a: Arceus|spa|1
+|-boost|p1a: Arceus|spd|1
+|
+|-heal|p1a: Arceus|66/100|[from] item: Leftovers
+|-damage|p2a: Heartbeat|46/100|[from] move: Thunder Cage|[partiallytrapped]
+|-damage|p1a: Arceus|54/100|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1711915625
+|move|p2a: Heartbeat|Strength Sap|p1a: Arceus
+|-immune|p1a: Arceus|[from] ability: Good as Gold
+|move|p1a: Arceus|Moonblast|p2a: Heartbeat
+|-crit|p2a: Heartbeat
+|-damage|p2a: Heartbeat|0 fnt
+|faint|p2a: Heartbeat
+|
+|-heal|p1a: Arceus|60/100|[from] item: Leftovers
+|-end|p1a: Arceus|Thunder Cage|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1711915635
+|switch|p2a: Zigzag|Greninja-Ash, M|60/100
+|-damage|p2a: Zigzag|47/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1711915644
+|switch|p1a: Tyranitar|Tyranitar-Mega, F, shiny|100/100
+|move|p2a: Zigzag|Surging Strikes|p1a: Tyranitar
+|-immune|p1a: Tyranitar|[from] ability: Dry Skin
+|
+|upkeep
+|turn|14
+|
+|t:|1711915660
+|switch|p2a: Nonsense User|Chansey, F|100/100
+|-damage|p2a: Nonsense User|88/100|[from] Stealth Rock
+|-transform|p2a: Nonsense User|p1a: Tyranitar|[from] ability: Imposter
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1711915681
+|move|p1a: Tyranitar|Wicked Blow|p2a: Nonsense User
+|-resisted|p2a: Nonsense User
+|-crit|p2a: Nonsense User
+|-damage|p2a: Nonsense User|76/100
+|move|p2a: Nonsense User|Victory Dance|p2a: Nonsense User
+|-boost|p2a: Nonsense User|atk|1
+|-boost|p2a: Nonsense User|def|1
+|-boost|p2a: Nonsense User|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1711915691
+|move|p2a: Nonsense User|Victory Dance|p2a: Nonsense User
+|-boost|p2a: Nonsense User|atk|1
+|-boost|p2a: Nonsense User|def|1
+|-boost|p2a: Nonsense User|spe|1
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|upkeep
+|turn|17
+|
+|t:|1711915700
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|move|p2a: Nonsense User|Victory Dance|p2a: Nonsense User
+|-boost|p2a: Nonsense User|atk|1
+|-boost|p2a: Nonsense User|def|1
+|-boost|p2a: Nonsense User|spe|1
+|
+|upkeep
+|turn|18
+|
+|t:|1711915708
+|move|p2a: Nonsense User|Victory Dance|p2a: Nonsense User
+|-boost|p2a: Nonsense User|atk|1
+|-boost|p2a: Nonsense User|def|1
+|-boost|p2a: Nonsense User|spe|1
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1711915717
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|move|p2a: Nonsense User|Victory Dance|p2a: Nonsense User
+|-boost|p2a: Nonsense User|atk|1
+|-boost|p2a: Nonsense User|def|1
+|-boost|p2a: Nonsense User|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1711915726
+|move|p2a: Nonsense User|Wicked Blow|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|33/100
+|move|p1a: Tyranitar|Victory Dance|p1a: Tyranitar
+|-boost|p1a: Tyranitar|atk|1
+|-boost|p1a: Tyranitar|def|1
+|-boost|p1a: Tyranitar|spe|1
+|
+|-heal|p1a: Tyranitar|39/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1711915737
+|move|p1a: Tyranitar|Wicked Blow|p2a: Nonsense User
+|-resisted|p2a: Nonsense User
+|-crit|p2a: Nonsense User
+|-damage|p2a: Nonsense User|45/100
+|move|p2a: Nonsense User|Wicked Blow|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|upkeep
+|
+|t:|1711915753
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|turn|22
+|
+|t:|1711915767
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|move|p2a: Nonsense User|Stone Axe|p1a: Toxapex
+|-damage|p1a: Toxapex|75/100
+|-sidestart|p1: castillo919|move: Stealth Rock
+|
+|-heal|p1a: Toxapex|82/100|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1711915777
+|switch|p2a: Utau|Meloetta|100/100
+|move|p1a: Toxapex|Scald|p2a: Utau
+|-damage|p2a: Utau|88/100
+|
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1711915788
+|switch|p1a: Ho-Oh|Ho-Oh, shiny|100/100
+|move|p2a: Utau|Glare|p1a: Ho-Oh
+|-status|p1a: Ho-Oh|par
+|
+|upkeep
+|turn|25
+|
+|t:|1711915808
+|move|p2a: Utau|Psystrike|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|67/100 par
+|move|p1a: Ho-Oh|Mortal Spin|p2a: Utau
+|-damage|p2a: Utau|80/100
+|-status|p2a: Utau|psn
+|-sideend|p1: castillo919|Stealth Rock|[from] move: Mortal Spin|[of] p1a: Ho-Oh
+|
+|-damage|p2a: Utau|68/100 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1711915819
+|switch|p1a: Arceus|Arceus-Fairy, shiny|60/100
+|move|p2a: Utau|Parting Shot|p1a: Arceus
+|-immune|p1a: Arceus|[from] ability: Good as Gold
+|
+|-heal|p1a: Arceus|66/100|[from] item: Leftovers
+|-damage|p2a: Utau|56/100 psn|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1711915830
+|switch|p2a: Zigzag|Greninja-Ash, M|47/100
+|-damage|p2a: Zigzag|35/100|[from] Stealth Rock
+|move|p1a: Arceus|Thunder Cage|p2a: Zigzag|[miss]
+|-miss|p1a: Arceus|p2a: Zigzag
+|
+|-heal|p1a: Arceus|72/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1711915841
+|switch|p1a: Toxapex|Toxapex, F|88/100
+|move|p2a: Zigzag|Surging Strikes|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|73/100
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|59/100
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|45/100
+|-hitcount|p1a: Toxapex|3
+|
+|-heal|p1a: Toxapex|51/100|[from] item: Black Sludge
+|upkeep
+|turn|29
+|
+|t:|1711915856
+|switch|p2a: Akeboshi Rocket|Celesteela|50/100
+|-damage|p2a: Akeboshi Rocket|38/100|[from] Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Akeboshi Rocket
+|-damage|p2a: Akeboshi Rocket|27/100
+|
+|-heal|p1a: Toxapex|57/100|[from] item: Black Sludge
+|upkeep
+|turn|30
+|
+|t:|1711915875
+|move|p1a: Toxapex|Scald|p2a: Akeboshi Rocket
+|-damage|p2a: Akeboshi Rocket|18/100
+|move|p2a: Akeboshi Rocket|Rapid Spin|p1a: Toxapex
+|-damage|p1a: Toxapex|48/100
+|-boost|p2a: Akeboshi Rocket|spe|1
+|-sideend|p2: harrimarron 2|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Akeboshi Rocket
+|
+|-heal|p1a: Toxapex|54/100|[from] item: Black Sludge
+|upkeep
+|turn|31
+|j| YOUDONTKNOWMYPLAYS
+|
+|t:|1711915888
+|switch|p2a: Contractor|Blissey, F|100/100
+|move|p1a: Toxapex|Scald|p2a: Contractor
+|-damage|p2a: Contractor|96/100
+|
+|-heal|p1a: Toxapex|60/100|[from] item: Black Sludge
+|upkeep
+|turn|32
+|
+|t:|1711915903
+|switch|p1a: Ho-Oh|Ho-Oh, shiny|67/100 par
+|move|p2a: Contractor|U-turn|p1a: Ho-Oh
+|-resisted|p1a: Ho-Oh
+|-damage|p1a: Ho-Oh|67/100 par
+|
+|t:|1711915907
+|switch|p2a: Zigzag|Greninja-Ash, M|35/100|[from] U-turn
+|
+|upkeep
+|turn|33
+|l| YOUDONTKNOWMYPLAYS
+|inactive|castillo919 has 120 seconds left.
+|inactive|castillo919 has 90 seconds left.
+|inactive|castillo919 has 60 seconds left.
+|inactive|castillo919 has 30 seconds left.
+|inactive|castillo919 has 20 seconds left.
+|inactive|castillo919 has 15 seconds left.
+|inactive|castillo919 has 10 seconds left.
+|inactive|castillo919 has 5 seconds left.
+|-message|castillo919 lost due to inactivity.
+|
+|win|harrimarron 2

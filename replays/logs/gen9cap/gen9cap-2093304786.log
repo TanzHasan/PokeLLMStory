@@ -1,0 +1,165 @@
+|j|☆gooddaysareback
+|j|☆Nvg1
+|t:|1711936981
+|gametype|singles
+|player|p1|gooddaysareback|firebreather|1027
+|player|p2|Nvg1|volkner|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] CAP
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|clearpoke
+|poke|p1|Chromera|
+|poke|p1|Equilibra|
+|poke|p1|Miasmaw, F|
+|poke|p1|Aurumoth, F|
+|poke|p1|Quagsire, M|
+|poke|p1|Saharaja, M|
+|poke|p2|Naviathan, M|
+|poke|p2|Pajantom, M|
+|poke|p2|Saharaja, M|
+|poke|p2|Astrolotl, M|
+|poke|p2|Plasmanta, M|
+|poke|p2|Stratagem|
+|teampreview
+|
+|t:|1711937002
+|start
+|switch|p1a: Miasmaw|Miasmaw, F|100/100
+|switch|p2a: Astrolotl|Astrolotl, M, shiny|100/100
+|-ability|p1a: Miasmaw|Neutralizing Gas
+|turn|1
+|
+|t:|1711937013
+|move|p1a: Miasmaw|U-turn|p2a: Astrolotl
+|-resisted|p2a: Astrolotl
+|-damage|p2a: Astrolotl|76/100
+|
+|t:|1711937019
+|-end|p1a: Miasmaw|ability: Neutralizing Gas
+|switch|p1a: Quagsire|Quagsire, M|100/100|[from] U-turn
+|move|p2a: Astrolotl|Dragon Tail|p1a: Quagsire
+|-damage|p1a: Quagsire|81/100
+|drag|p1a: Miasmaw|Miasmaw, F|100/100
+|-ability|p1a: Miasmaw|Neutralizing Gas
+|
+|upkeep
+|turn|2
+|
+|t:|1711937030
+|move|p2a: Astrolotl|Spikes|p1a: Miasmaw
+|-sidestart|p1: gooddaysareback|Spikes
+|move|p1a: Miasmaw|Dragon Tail|p2a: Astrolotl
+|-supereffective|p2a: Astrolotl
+|-damage|p2a: Astrolotl|0 fnt
+|faint|p2a: Astrolotl
+|
+|upkeep
+|
+|t:|1711937055
+|switch|p2a: Plasmanta|Plasmanta, M, shiny|100/100
+|turn|3
+|
+|t:|1711937062
+|move|p2a: Plasmanta|Charge Beam|p1a: Miasmaw
+|-resisted|p1a: Miasmaw
+|-damage|p1a: Miasmaw|88/100
+|move|p1a: Miasmaw|U-turn|p2a: Plasmanta
+|-resisted|p2a: Plasmanta
+|-damage|p2a: Plasmanta|81/100
+|
+|t:|1711937071
+|-end|p1a: Miasmaw|ability: Neutralizing Gas
+|switch|p1a: Aurumoth|Aurumoth, F|100/100|[from] U-turn
+|-damage|p1a: Aurumoth|88/100|[from] Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1711937103
+|move|p1a: Aurumoth|Dragon Dance|p1a: Aurumoth
+|-boost|p1a: Aurumoth|atk|1
+|-boost|p1a: Aurumoth|spe|1
+|move|p2a: Plasmanta|Charge Beam|p1a: Aurumoth
+|-damage|p1a: Aurumoth|50/100
+|-boost|p2a: Plasmanta|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711937113
+|move|p1a: Aurumoth|Zen Headbutt|p2a: Plasmanta
+|-supereffective|p2a: Plasmanta
+|-damage|p2a: Plasmanta|0 fnt
+|faint|p2a: Plasmanta
+|-damage|p1a: Aurumoth|40/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937136
+|switch|p2a: Stratagem|Stratagem, shiny|100/100
+|turn|6
+|
+|t:|1711937149
+|move|p1a: Aurumoth|Close Combat|p2a: Stratagem
+|-supereffective|p2a: Stratagem
+|-damage|p2a: Stratagem|0 fnt
+|-unboost|p1a: Aurumoth|def|1
+|-unboost|p1a: Aurumoth|spd|1
+|faint|p2a: Stratagem
+|-damage|p1a: Aurumoth|30/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937162
+|switch|p2a: Naviathan|Naviathan, M|100/100
+|turn|7
+|
+|t:|1711937167
+|move|p1a: Aurumoth|Close Combat|p2a: Naviathan
+|-supereffective|p2a: Naviathan
+|-damage|p2a: Naviathan|0 fnt
+|-unboost|p1a: Aurumoth|def|1
+|-unboost|p1a: Aurumoth|spd|1
+|faint|p2a: Naviathan
+|-damage|p1a: Aurumoth|20/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937176
+|switch|p2a: Pajantom|Pajantom, M, shiny|100/100
+|-ability|p2a: Pajantom|Comatose
+|turn|8
+|
+|t:|1711937181
+|move|p1a: Aurumoth|Zen Headbutt|p2a: Pajantom
+|-damage|p2a: Pajantom|0 fnt
+|faint|p2a: Pajantom
+|-damage|p1a: Aurumoth|10/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1711937187
+|switch|p2a: Saharaja|Saharaja, M, shiny|100/100
+|turn|9
+|
+|t:|1711937191
+|move|p1a: Aurumoth|Megahorn|p2a: Saharaja
+|-damage|p2a: Saharaja|0 fnt
+|faint|p2a: Saharaja
+|-damage|p1a: Aurumoth|0 fnt|[from] item: Life Orb
+|faint|p1a: Aurumoth
+|
+|win|gooddaysareback
+|raw|gooddaysareback's rating: 1027 &rarr; <strong>1060</strong><br />(+33 for winning)
+|raw|Nvg1's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Nvg1
+|player|p2|

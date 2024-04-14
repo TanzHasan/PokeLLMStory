@@ -1,0 +1,154 @@
+|j|☆ElSoto32
+|j|☆Nice Mice
+|t:|1711941142
+|gametype|singles
+|player|p1|ElSoto32|lucas|1152
+|player|p2|Nice Mice|colress|1275
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|5
+|tier|[Gen 5] OU
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Moody Clause: Moody is banned
+|rule|Evasion Items Clause: Evasion items are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Evasion Abilities Clause: Evasion abilities are banned
+|rule|Sleep Moves Clause: Sleep-inducing moves are banned
+|rule|Swagger Clause: Swagger is banned
+|rule|Baton Pass Stat Clause: No Baton Passer may have a way to boost its stats
+|clearpoke
+|poke|p1|Dragonite, M|item
+|poke|p1|Cloyster, F|item
+|poke|p1|Volcarona, M|item
+|poke|p1|Mamoswine, F|item
+|poke|p1|Garchomp, M|item
+|poke|p1|Ferrothorn, F|item
+|poke|p2|Tyranitar, F|item
+|poke|p2|Landorus-Therian, M|item
+|poke|p2|Ferrothorn, F|item
+|poke|p2|Jellicent, M|item
+|poke|p2|Alakazam, F|item
+|poke|p2|Reuniclus, M|item
+|teampreview
+|
+|t:|1711941157
+|start
+|switch|p1a: Volcarona|Volcarona, M, shiny|100/100
+|switch|p2a: Ground Beef|Landorus-Therian, M|100/100
+|-ability|p2a: Ground Beef|Intimidate|boost
+|-unboost|p1a: Volcarona|atk|1
+|turn|1
+|
+|t:|1711941170
+|move|p2a: Ground Beef|Stone Edge|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1711941182
+|switch|p1a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|turn|2
+|
+|t:|1711941189
+|switch|p2a: Fetus Deletus|Reuniclus, M|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Fetus Deletus|[miss]
+|-miss|p1a: Ferrothorn|p2a: Fetus Deletus
+|
+|upkeep
+|turn|3
+|
+|t:|1711941197
+|move|p2a: Fetus Deletus|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|43/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Fetus Deletus
+|-start|p2a: Fetus Deletus|move: Leech Seed
+|
+|upkeep
+|turn|4
+|
+|t:|1711941206
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Fetus Deletus|Calm Mind|p2a: Fetus Deletus
+|-boost|p2a: Fetus Deletus|spa|1
+|-boost|p2a: Fetus Deletus|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1711941214
+|move|p2a: Fetus Deletus|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1711941228
+|switch|p1a: Dragonite|Dragonite, M, shiny|100/100
+|turn|6
+|
+|t:|1711941232
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Fetus Deletus|Psyshock|p1a: Dragonite
+|-damage|p1a: Dragonite|75/100
+|
+|-heal|p1a: Dragonite|81/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1711941247
+|move|p1a: Dragonite|Dragon Claw|p2a: Fetus Deletus
+|-damage|p2a: Fetus Deletus|51/100
+|move|p2a: Fetus Deletus|Psyshock|p1a: Dragonite
+|-damage|p1a: Dragonite|24/100
+|
+|-heal|p1a: Dragonite|30/100|[from] item: Leftovers
+|-heal|p2a: Fetus Deletus|57/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1711941257
+|move|p1a: Dragonite|Extreme Speed|p2a: Fetus Deletus
+|-damage|p2a: Fetus Deletus|25/100
+|move|p2a: Fetus Deletus|Psyshock|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Fetus Deletus|32/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1711941268
+|switch|p1a: Cloyster|Cloyster, F, shiny|100/100
+|turn|9
+|
+|t:|1711941272
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Fetus Deletus|Focus Blast|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-heal|p2a: Fetus Deletus|38/100|[from] item: Leftovers
+|upkeep
+|-message|ElSoto32 forfeited.
+|
+|win|Nice Mice
+|raw|ElSoto32's rating: 1152 &rarr; <strong>1135</strong><br />(-17 for losing)
+|raw|Nice Mice's rating: 1275 &rarr; <strong>1292</strong><br />(+17 for winning)
+|l|☆ElSoto32
+|player|p1|
