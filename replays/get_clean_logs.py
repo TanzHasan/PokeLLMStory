@@ -16,7 +16,7 @@ for format in path.iterdir():
             )
 
             # Save output to cleaned_logs_dir/REVISION
-            output_dir = f"{cleaned_logs_dir}/{REVISION}/{format}"
+            output_dir = f"{cleaned_logs_dir}/{REVISION}/{format.stem}"
             # Make parent directory if it doesn't exist
             Path(output_dir).mkdir(parents=True, exist_ok=True)
             with open(f"{output_dir}/{log.stem}.txt", "w") as f:
