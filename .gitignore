@@ -1,3 +1,6 @@
 *__pycache__
 *.env
 /venv
+.ruff_cache
+wip/
+.python-version
