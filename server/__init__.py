@@ -78,15 +78,15 @@ def check_hallucination(next_part, story, battle_logs, data):
     import pymongo
     import os
     import openai
-    # entries = unpack.local(data)
+    entries = '\n'.join(unpack.local(data))
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-    prompt = f"The next part of the story is:\n\n{next_part}\n\nThe story so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}\n\n"
+    prompt = f"The next part of the story is:\n\n{next_part}\n\nThe story so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}\n\n The context is: {entries}"
     response = client.chat.completions.create(
         messages=[{
                 "role": "system",
                 "content": prompt,
             },
-            {"role": "user", "content": "Yes or No to the following question: Do the battle logs and the next part of the story make sense?"}],
+            {"role": "user", "content": "Yes or No to the following question: Do the battle logs and the next part of the story make sense? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else."}],
         model="gpt-3.5-turbo",
     )
     

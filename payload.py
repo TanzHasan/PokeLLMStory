@@ -20,6 +20,7 @@ class BattleHistory:
         self.battle_logs = []
         #save for later
         self.game_data = {}
+        self.chain_count = 2
         self.story_version_url = story_version_url
         self.hallucination_check_url = hallucination_check_url
 
@@ -43,18 +44,11 @@ class BattleHistory:
         # print(response.json())
     
         expl = response.json()["result"]
+        expl = expl.lower()
 
-        hallucination_check = expl.lower() 
-
-        res = False
-        if "No" in hallucination_check: 
-            res = True
-        # print(expl)
-        if(expl == "" or expl == None): 
-            return "Error", res
-        return expl, res
-        
-
+        if(expl == "" or expl == None or (expl != "yes" and expl != "no")): 
+            return None
+        return expl == 'yes'
         
 
     """ 
@@ -89,12 +83,14 @@ class BattleHistory:
         response = requests.post(self.story_version_url, data=json.dumps(payload), headers=headers)
 
         expl = response.json()["result"]
-        hallucination, is_hallucinating  = self.check_hallucination(expl)
-
+        
+        checks = []
+        for _ in range(self.chain_count):
+            checks.append(self.check_hallucination(expl))
         self.generated_story_history.append(expl)
         self.ai_chat_history.append({"role": "assistant", "content": expl})
 
-        return expl, hallucination
+        return expl, checks
         
 def commentator_generator_test(): 
     battle_logs = []
@@ -119,11 +115,10 @@ def commentator_generator_test():
 # Use dialogue to enhance game state and trash-talk. 
 # Make sure to align it with the battle state.
 # Make each prompt 50 words or less.'''
-    prompt = '''Pretend you are player 2 (p2) in a pokemon battle between two trainers. 
-Create dialogue to react to player 1 (p1) in an engaging way with trash-talk.
-Make sure to align it with the battle state.'''
+    prompt = '''You are player 2 (p2) in a pokemon battle between two trainers. 
+Trash-talk player 1 (p1). Do not say anything about the future. Do not say anything about the future.
+Only trash-talk about the current game state. Say 30 words or less.'''
     with open('generated_stories/gen1ou/player2-gen1ou-2093289585.txt', 'w') as f:
-        battle_logs;
         battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALUCINATION)
         for i, battle_line in enumerate(battle_logs):
             print("Round:",i)
@@ -137,44 +132,44 @@ Make sure to align it with the battle state.'''
     
 
 if __name__ == "__main__":
-    # commentator_generator_test()
+    commentator_generator_test()
 
-    story_string = '''Darkrai is sent out!
+    # story_string = '''Darkrai is sent out!
 
-    The opposing Landorus is sent out! 
+    # The opposing Landorus is sent out! 
 
-    The opposing Landorus's Intimidate cuts Darkrai's Attack!
+    # The opposing Landorus's Intimidate cuts Darkrai's Attack!
 
-    The opposing player withdrew Landorus!
+    # The opposing player withdrew Landorus!
 
-    The opposing Iron Moth is sent out!
+    # The opposing Iron Moth is sent out!
 
-    The opposing Iron Moth's Booster Energy allows it to get the Quark Drive!
+    # The opposing Iron Moth's Booster Energy allows it to get the Quark Drive!
 
-    Darkrai used Ice Beam!
+    # Darkrai used Ice Beam!
 
-    It's not very effective...
+    # It's not very effective...
 
-    The opposing Iron Moth was frozen solid!'''
+    # The opposing Iron Moth was frozen solid!'''
 
-    payload = {
-        "game_string": story_string,
-        #"query": "You are commentating a pokemon battle between two trainers. Describe the battle succinctly but in an engaging way. Say no more than 50 words.",
-        "query": "You are commentating a pokemon battle between two trainers. Describe the battle step by step but in an engaging way. Use dialogue to enhance game state and trash-talk. Make sure to align it with the battle state.",
-        "data": {
-            "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
-            "abilities": ["Quark Drive", "Intimidate"],
-            "items": ["Booster Energy"],
-            "moves": ["Dark Pulse"]
-        }
-    }
+    # payload = {
+    #     "game_string": story_string,
+    #     #"query": "You are commentating a pokemon battle between two trainers. Describe the battle succinctly but in an engaging way. Say no more than 50 words.",
+    #     "query": "You are commentating a pokemon battle between two trainers. Describe the battle step by step but in an engaging way. Use dialogue to enhance game state and trash-talk. Make sure to align it with the battle state.",
+    #     "data": {
+    #         "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
+    #         "abilities": ["Quark Drive", "Intimidate"],
+    #         "items": ["Booster Energy"],
+    #         "moves": ["Dark Pulse"]
+    #     }
+    # }
 
-    headers = {
-        "Content-Type": "application/json"
-    }
+    # headers = {
+    #     "Content-Type": "application/json"
+    # }
 
-    response = requests.post(URL_GET_BATTLE, data=json.dumps(payload), headers=headers)
+    # response = requests.post(URL_GET_BATTLE, data=json.dumps(payload), headers=headers)
 
     
 
-    # print(response.json())
+    # # print(response.json())
