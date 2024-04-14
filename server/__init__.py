@@ -48,7 +48,7 @@ def trash_talk(game_string, query, data):
             {"role": "user", "content": game_string}],
         model="gpt-3.5-turbo",
     )
-    # print(response.choices[0].message.content)
+    print(response.choices[0].message.content)
     expl = response.choices[0].message.content
 
     return {"result": expl}
