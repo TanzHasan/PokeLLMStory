@@ -38,13 +38,21 @@ class BattleHistory:
         headers = {
             "Content-Type": "application/json"
         }
+        #returns a yes or no, to the quesiton "Does the move make sense?"
         response = requests.post(self.hallucination_check_url, data=json.dumps(payload), headers=headers)
         print(response.json())
+    
         expl = response.json()["result"]
+
+        hallucination_check = expl.lower() 
+
+        res = False
+        if "No" in hallucination_check: 
+            res = True
         # print(expl)
         if(expl == "" or expl == None): 
             return "Error"
-        return expl
+        return expl, res
         
 
         
@@ -64,10 +72,14 @@ class BattleHistory:
         headers = {
         "Content-Type": "application/json"
         }
+
+
         response = requests.post(self.story_version_url, data=json.dumps(payload), headers=headers)
 
         # print(response.json())
-        expl = response.json()["result"]
+        expl, is_hallucinating= response.json()["result"]
+
+        
         hallucination = self.check_hallucination(expl)
         self.generated_story_history.append(expl)
         self.ai_chat_history.append({"role": "assistant", "content": expl})
