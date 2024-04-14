@@ -51,36 +51,46 @@ class BattleHistory:
             res = True
         # print(expl)
         if(expl == "" or expl == None): 
-            return "Error"
+            return "Error", res
         return expl, res
         
 
         
 
+    """ 
+    Generates the next part of the story 
 
+    all parts of the story are stored 
+
+    self.ai_chat_history: the chat history with gpt
+    self.battle_logs: the battle logs
+    self.generated_story_history: the story itself
+
+
+    prompt: the string text of the current round of the battle 
+    """
     def generate_next_move(self, prompt):
+
         self.ai_chat_history.append({"role": "user", "content": prompt})
         self.battle_logs.append(prompt)
+
         payload = {
-        "messages" : self.ai_chat_history,
-        "data": { 
-            "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
-            "abilities": ["Quark Drive", "Intimidate"],
-            "items": ["Booster Energy"],
-            "moves": ["Dark Pulse"]
-        }}
+            "messages" : self.ai_chat_history,
+            "data": { 
+                "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
+                "abilities": ["Quark Drive", "Intimidate"],
+                "items": ["Booster Energy"],
+                "moves": ["Dark Pulse"]
+            }
+        }  
         headers = {
-        "Content-Type": "application/json"
+            "Content-Type": "application/json"
         }
-
-
         response = requests.post(self.story_version_url, data=json.dumps(payload), headers=headers)
 
-        # print(response.json())
-        expl, is_hallucinating= response.json()["result"]
+        expl = response.json()["result"]
+        hallucination, is_hallucinating  = self.check_hallucination(expl)
 
-        
-        hallucination = self.check_hallucination(expl)
         self.generated_story_history.append(expl)
         self.ai_chat_history.append({"role": "assistant", "content": expl})
 
@@ -118,6 +128,7 @@ Make each prompt 50 words or less.'''
             expl, hallucination = battle.generate_next_move(battle_line)
             print(hallucination)
             print(expl)
+            f.write("\n\nTurn " + str(i) + ":\n")
             f.write("\n\nhallucination check (Does the move make sense?): " + str(hallucination) + "\n\n")
             f.write(expl)
     
