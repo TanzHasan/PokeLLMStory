@@ -14,8 +14,18 @@ python replays/get_replays.py --limit 5 --output_format log --output_dir replays
 
 ### Cleaning replays
 
+#### Single replay file
+
 Process the `gen9ou-2093373501.log` replay file and print only the relevant information to stdout.
 
 ```bash
 python replays/clean_log.py replays/logs/gen9ou/gen9ou-2093373501.log
+```
+
+#### All replay files
+
+Process all replay files in the `replays/logs/` directory and save the cleaned logs in the `replays/cleaned_logs/` directory.
+
+```bash
+python replays/get_clean_logs.py
 ```
