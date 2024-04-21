@@ -29,8 +29,8 @@ class BattleHistory:
     def check_hallucination(self, next_part): 
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
-        prompt = f"You are currently player 2 (p2), Your response to the player 1 (p1) actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
-        hallucination_ask = '''Yes or No to the following question: Does your response make sense to player 1's (p1) actions?
+        prompt = f"You are Gary in a pokemon battle against Ash, Your response to Ash's actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
+        hallucination_ask = '''Yes or No to the following question: Does your response make sense to Ash's actions?
  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
         payload = { 
             "prompt": prompt,
@@ -136,7 +136,11 @@ def commentator_generator_test():
             else:
                 if battle_start and "Switched to" in line:
                     line = line.replace("Switched to", "Started with")
-                current_round += line
+            if "p1" in line: 
+                line = line.replace("p1", "Ash")
+            if "p2" in line:
+                line = line.replace("p2", "Gary")
+            current_round += line
 
         battle_logs.append(current_round)
     # print(battle_logs)
@@ -145,8 +149,9 @@ def commentator_generator_test():
 # Use dialogue to enhance game state and trash-talk. 
 # Make sure to align it with the battle state.
 # Make each prompt 50 words or less.'''
-    prompt = '''You are player 2 (p2) in a pokemon battle between two trainers. 
-Trash-talk player 1 (p1). Do not say anything about the future. Do not say anything about the future.
+    prompt = '''You are Gary in a pokemon battle between you and Ash. Your actions will be described in the following format 
+"Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]".
+Trash-talk Ash. Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
     with open('hal.txt', 'w') as f:
         battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALUCINATION)
