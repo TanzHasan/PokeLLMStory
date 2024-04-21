@@ -24,6 +24,8 @@ class BattleHistory:
         self.story_version_url = story_version_url
         self.hallucination_check_url = hallucination_check_url
 
+        
+
     def check_hallucination(self, next_part): 
         payload = { 
             "next_part": next_part,
@@ -91,7 +93,16 @@ class BattleHistory:
         self.ai_chat_history.append({"role": "assistant", "content": expl})
 
         return expl, checks
-        
+    def rewind(self, rounds): 
+        if(len(self.battle_logs) < rounds): 
+            raise Exception("Not enough rounds to rewind")
+        for _ in range(rounds):
+            self.ai_chat_hisotry.pop()
+            self.ai_chat_history.pop()
+            self.battle_logs.pop()
+            self.generated_story_history.pop()
+
+            
 def commentator_generator_test(): 
     battle_logs = []
 
