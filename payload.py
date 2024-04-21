@@ -10,8 +10,7 @@ URL_CHECK_HALUCINATION = URL + "/check_hallucination_test"
 URL_BATTLE_CHAT_GENERATOR_TEST = URL + "/battle_chat_generator_test"
 
 class BattleHistory: 
-    def __init__(self, game_string, system_prompt, story_version_url, hallucination_check_url):
-        #chat history with gpt
+    def __init__(self, game_string, system_prompt, story_version_url, hallucination_check_url, chain_count = 3, rewind_limit = 5):
         self.ai_chat_history = [{"role": "system", "content": system_prompt}]
         # the story itself
         self.generated_story_history = []
@@ -20,17 +19,22 @@ class BattleHistory:
         self.battle_logs = []
         #save for later
         self.game_data = {}
-        self.chain_count = 2
+        self.chain_count = chain_count
         self.story_version_url = story_version_url
         self.hallucination_check_url = hallucination_check_url
+        self.rewind_limit = rewind_limit
 
         
 
     def check_hallucination(self, next_part): 
+        story = "\n".join(self.generated_story_history)
+        battle_logs = "\n".join(self.battle_logs)
+        prompt = f"You are currently player 2 (p2), Your response to the player 1 (p1) actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
+        hallucination_ask = '''Yes or No to the following question: Does your response make sense to player 1's (p1) actions?
+ Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
         payload = { 
-            "next_part": next_part,
-            "story": "\n".join(self.generated_story_history),
-            "battle_logs": "\n".join(self.battle_logs),
+            "prompt": prompt,
+            "hallucination_ask": hallucination_ask,
             "data": { 
                 "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
                 "abilities": ["Quark Drive", "Intimidate"],
@@ -49,7 +53,7 @@ class BattleHistory:
         expl = expl.lower()
 
         if(expl == "" or expl == None or (expl != "yes" and expl != "no")): 
-            return None
+            return False
         return expl == 'yes'
         
 
@@ -102,6 +106,21 @@ class BattleHistory:
             self.battle_logs.pop()
             self.generated_story_history.pop()
 
+    def generate_next_move_with_checks(self, prompt):
+        expl, checks = self.generate_next_move(prompt)
+        print(checks)
+        hallucinations = checks.count(False)
+        for _ in range(self.rewind_limit):
+            if hallucinations/self.chain_count >= 0.5: 
+                print(expl)
+                expl, checks = self.generate_next_move(expl)
+                print(checks)
+                hallucinations = checks.count(False)
+            else: 
+                break
+        # print(expl)
+        return expl
+
             
 def commentator_generator_test(): 
     battle_logs = []
@@ -129,18 +148,16 @@ def commentator_generator_test():
     prompt = '''You are player 2 (p2) in a pokemon battle between two trainers. 
 Trash-talk player 1 (p1). Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
-    with open('generated_stories/gen1ou/player2-gen1ou-2093289585.txt', 'w') as f:
+    with open('hal.txt', 'w') as f:
         battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALUCINATION)
         for i, battle_line in enumerate(battle_logs):
             print("Round:",i)
             print(battle_line)
-            expl, hallucination = battle.generate_next_move(battle_line)
-            print(hallucination)
+            expl = battle.generate_next_move_with_checks(battle_line)
             print(expl)
-            f.write("\n\nTurn " + str(i) + ":\n")
-            f.write("\n\nhallucination check (Does the move make sense?): " + str(hallucination) + "\n\n")
-            f.write(expl)
-    
+            print("\n\n")
+        # print(battle.generated_story_history)
+        f.write("\n\n".join(battle.generated_story_history))
 
 if __name__ == "__main__":
     commentator_generator_test()

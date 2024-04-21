@@ -74,19 +74,18 @@ def test_chat_generator(messages, data):
     return {"result": expl}
 
 @stub.function()
-def check_hallucination(next_part, story, battle_logs, data):
+def check_hallucination(prompt, hallucination_ask, data):
     import pymongo
     import os
     import openai
     entries = '\n'.join(unpack.local(data))
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-    prompt = f"The next part of the story is:\n\n{next_part}\n\nThe story so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}\n\n The context is: {entries}"
     response = client.chat.completions.create(
         messages=[{
                 "role": "system",
                 "content": prompt,
             },
-            {"role": "user", "content": "Yes or No to the following question: Do the battle logs and the next part of the story make sense? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else."}],
+            {"role": "user", "content": hallucination_ask}],
         model="gpt-3.5-turbo",
     )
     
@@ -122,11 +121,10 @@ def flask_app():
     @web_app.post('/check_hallucination_test')
     @cross_origin()
     def check_hallucination_test():
-        next_part = request.json["next_part"]
-        story = request.json["story"]
+        prompt = request.json["prompt"]
+        hallucination_ask = request.json["hallucination_ask"]
         data = request.json["data"]
-        battle_logs = request.json["battle_logs"]
-        
-        return check_hallucination.remote(next_part, story, battle_logs,data)
+
+        return check_hallucination.remote(prompt, hallucination_ask, data)
 
     return web_app
