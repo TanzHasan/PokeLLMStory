@@ -113,6 +113,7 @@ class BattleHistory:
         for _ in range(self.rewind_limit):
             if hallucinations/self.chain_count >= 0.5: 
                 print(expl)
+                self.rewind(1)
                 expl, checks = self.generate_next_move(expl)
                 print(checks)
                 hallucinations = checks.count(False)
