@@ -1,0 +1,84 @@
+Battle start:
+Player A sent out Tyranitar
+Player B sent out Lokix
+Turn 1:
+Player B: Lokix used First Impression on Tyranitar for 100 damage (supereffective)
+Player A: Tyranitar fainted
+Player A: Switched out Tyranitar for Excadrill
+Turn 2:
+Player B: Switched out Lokix for Rotom-Wash
+Player A: Excadrill used Swords Dance on self
+Turn 3:
+Player A: Excadrill used Iron Head on Rotom-Wash for 28 damage
+Player B: Rotom-Wash can't move because flinch
+Turn 4:
+Player A: Switched out Excadrill for Latios
+Player B: Rotom-Wash used Will-O-Wisp on Latios but it missed
+Turn 5:
+Player A: Latios used Draco Meteor and healed for 34
+Player B: Rotom-Wash used Pain Split on self
+Turn 6:
+Player A: Switched out Latios for Hydrapple
+Player B: Rotom-Wash used Thunder Wave
+Turn 7:
+Player B: Rotom-Wash used Pain Split on self
+Player A: Hydrapple used Infestation on Rotom-Wash for -46 damage
+Turn 8:
+Player B: Rotom-Wash used Volt Switch on Hydrapple for 44 damage
+Player B: Switched out Rotom-Wash for Skeledirge
+Player A: Hydrapple used Fickle Beam on Skeledirge for 64 damage
+Turn 9:
+Player A: Switched out Hydrapple for Slowking
+Player B: Skeledirge used Torch Song on Slowking for 11 damage
+Turn 10:
+Player B: Skeledirge used Shadow Ball on Slowking for 68 damage (supereffective)
+Player A: Slowking used Thunder Wave
+Turn 11:
+Player A: Switched out Slowking for Hydrapple
+Player B: Switched out Skeledirge for Sinistcha
+Turn 12:
+Player B: Sinistcha used Strength Sap on self
+Player A: Hydrapple can't move because it is paralyzed
+Turn 13:
+Player A: Hydrapple can't move because it is paralyzed
+Turn 14:
+Player B: Sinistcha used Strength Sap and healed for 29
+Player A: Hydrapple can't move because it is paralyzed
+Turn 15:
+Player A: Switched out Hydrapple for Latios
+Player B: Sinistcha used Strength Sap and healed for 21
+Turn 16:
+Player A: Latios used Tera Blast on Sinistcha for 38 damage (supereffective)
+Turn 17:
+Player B: Switched out Sinistcha for Toxapex
+Player A: Latios used Tera Blast on Toxapex for 17 damage
+Turn 18:
+Player A: Switched out Latios for Hydrapple
+Player B: Toxapex used Recover and healed for 17
+Turn 19:
+Player B: Switched out Toxapex for Sinistcha
+Player A: Hydrapple used Earth Power on Sinistcha for 12 damage
+Player B: Toxapex fainted
+Player B: Switched out Toxapex for Lokix
+Turn 20:
+Player A: Switched out Hydrapple for Excadrill
+Player B: Lokix used First Impression on Excadrill for 99 damage
+Turn 21:
+Player B: Switched out Lokix for Rotom-Wash
+Player A: Excadrill used Iron Head on Rotom-Wash for 30 damage
+Turn 22:
+Player A: Excadrill used Iron Head on Rotom-Wash for 12 damage
+Player B: Rotom-Wash used Will-O-Wisp on Excadrill but it missed
+Turn 23:
+Player A: Excadrill used Iron Head on Rotom-Wash for 14 damage
+Player B: Rotom-Wash used Will-O-Wisp
+Player A: Excadrill fainted
+Player A: Switched out Excadrill for Mamoswine
+Turn 24:
+Player A: Mamoswine used Trailblaze on Rotom-Wash for 29 damage (supereffective)
+Player B: Rotom-Wash fainted
+Player B: Switched out Rotom-Wash for Lokix
+Turn 25:
+Player A: Mamoswine used Icicle Spear on Lokix for 20 damage
+Player B: Lokix used Low Kick on Mamoswine for 100 damage (supereffective)
+Player A: Mamoswine fainted

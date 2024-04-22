@@ -1,0 +1,61 @@
+Battle start:
+Player A sent out Eelektross
+Player B sent out Ogerpon
+Turn 1:
+Player B: Ogerpon used Swords Dance on self
+Player A: Eelektross used Coil on self
+Turn 2:
+Player B: Ogerpon used Ivy Cudgel on Eelektross for 83 damage
+Player A: Eelektross used Knock Off on Ogerpon for 67 damage
+Turn 3:
+Player B: Ogerpon used Ivy Cudgel on Eelektross for 17 damage
+Player A: Eelektross fainted
+Player A: Switched out Eelektross for Donphan
+Turn 4:
+Player A: Donphan used Ice Shard on Ogerpon for 24 damage (supereffective)
+Player B: Ogerpon fainted
+Player B: Switched out Ogerpon for Rotom-Wash
+Turn 5:
+Player B: Rotom-Wash used Hydro Pump on Donphan for 99 damage (supereffective)
+Player A: Donphan used Stealth Rock on self
+Turn 6:
+Player B: Rotom-Wash used Hydro Pump on Donphan but it missed
+Player A: Donphan used Knock Off on Rotom-Wash for 29 damage
+Turn 7:
+Player A: Switched out Donphan for Tatsugiri-Droopy
+Player B: Rotom-Wash used Hydro Pump on self
+Turn 8:
+Player B: Rotom-Wash used Volt Switch on self
+Player B: Switched out Rotom-Wash for Latios
+Turn 9:
+Player B: Latios used Luster Purge on Tatsugiri-Droopy for 76 damage
+Player A: Tatsugiri-Droopy fainted
+Player A: Switched out Tatsugiri-Droopy for Donphan
+Turn 10:
+Player A: Donphan used Ice Shard on Latios and crit for 74 damage (supereffective)
+Player B: Latios used Luster Purge on Donphan for 1 damage
+Player A: Donphan fainted
+Player A: Switched out Donphan for Sinistcha-Masterpiece
+Turn 11:
+Player B: Latios used Luster Purge on Sinistcha-Masterpiece and crit for 100 damage
+Player A: Sinistcha-Masterpiece fainted
+Player A: Switched out Sinistcha-Masterpiece for Arbok
+Turn 12:
+Player B: Latios used Luster Purge on Arbok for 96 damage
+Player A: Arbok used Scale Shot on Latios for 12 damage (supereffective)
+Player B: Latios fainted
+Player B: Switched out Latios for Tornadus-Therian
+Turn 13:
+Player A: Arbok used Poison Jab on Tornadus-Therian for 32 damage
+Player B: Tornadus-Therian used Knock Off on Arbok for 4 damage
+Player A: Arbok fainted
+Player A: Switched out Arbok for Arcanine-Hisui
+Turn 14:
+Player B: Tornadus-Therian used Knock Off on Arcanine-Hisui for 24 damage
+Player A: Arcanine-Hisui used Head Smash on Tornadus-Therian for 68 damage (supereffective)
+Player B: Tornadus-Therian fainted
+Player B: Switched out Tornadus-Therian for Rotom-Wash
+Turn 15:
+Player A: Arcanine-Hisui used Head Smash on Rotom-Wash for 69 damage
+Player B: Rotom-Wash used Hydro Pump on Arcanine-Hisui for 76 damage (supereffective)
+Player A: Arcanine-Hisui fainted

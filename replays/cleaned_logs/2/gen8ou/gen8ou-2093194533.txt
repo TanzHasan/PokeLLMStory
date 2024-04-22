@@ -1,0 +1,67 @@
+Battle start:
+Player A sent out Dragapult
+Player B sent out Bisharp
+Turn 1:
+Player A: Switched out Dragapult for Corviknight
+Player B: Bisharp used Knock Off on Corviknight for 31 damage
+Turn 2:
+Player B: Switched out Bisharp for Mew
+Player A: Corviknight used U-turn on Mew for 25 damage (supereffective)
+Player A: Switched out Corviknight for Dragapult
+Turn 3:
+Player A: Dragapult used U-turn on Mew for 29 damage (supereffective)
+Player A: Switched out Dragapult for Tapu Lele
+Player B: Mew used Stealth Rock on self
+Turn 4:
+Player B: Mew used Spikes on self
+Player A: Tapu Lele used Moonblast on Mew for 46 damage
+Player B: Mew fainted
+Player B: Switched out Mew for Cinderace
+Turn 5:
+Player A: Switched out Tapu Lele for Dragapult
+Player B: Cinderace used Gunk Shot on Dragapult for 66 damage
+Turn 6:
+Player B: Cinderace used Sucker Punch on self
+Player A: Dragapult used Shadow Ball on Cinderace for 36 damage
+Turn 7:
+Player A: Dragapult used Shadow Ball on Cinderace for 31 damage
+Player B: Cinderace used Pyro Ball on Dragapult for 34 damage
+Player A: Dragapult fainted
+Player A: Switched out Dragapult for Rotom-Wash
+Turn 8:
+Player B: Switched out Cinderace for Garchomp
+Player A: Rotom-Wash used Volt Switch but it had no effect on Garchomp
+Turn 9:
+Player B: Garchomp used Swords Dance on self
+Player A: Rotom-Wash used Will-O-Wisp
+Turn 10:
+Player B: Garchomp used Scale Shot on Rotom-Wash for 11 damage
+Player A: Rotom-Wash fainted
+Player A: Switched out Rotom-Wash for Clefable
+Turn 11:
+Player B: Garchomp used Earthquake on Clefable for 84 damage
+Player A: Clefable used Moonblast on Garchomp for 74 damage (supereffective)
+Turn 12:
+Player B: Garchomp used Earthquake on Clefable for 16 damage
+Player A: Clefable fainted
+Player A: Switched out Clefable for Corviknight
+Turn 13:
+Player B: Garchomp used Aqua Tail on Corviknight but it missed
+Player A: Corviknight used Body Press on Garchomp for 26 damage
+Player B: Garchomp fainted
+Player B: Switched out Garchomp for Cinderace
+Turn 14:
+Player A: Switched out Corviknight for Tapu Lele
+Player B: Cinderace used Pyro Ball on Tapu Lele for 100 damage
+Player A: Corviknight fainted
+Player A: Switched out Corviknight for Hippowdon
+Turn 15:
+Player B: Switched out Cinderace for Bisharp
+Player A: Switched out Hippowdon for Corviknight
+Turn 16:
+Player B: Switched out Bisharp for Tapu Fini
+Player A: Corviknight used Roost and healed for 38
+Turn 17:
+Player B: Tapu Fini used Calm Mind on self
+Player A: Corviknight used Defog on self
+Turn 18:

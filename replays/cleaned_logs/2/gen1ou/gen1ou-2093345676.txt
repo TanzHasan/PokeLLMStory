@@ -2,12 +2,14 @@ Battle start:
 Player A sent out Starmie
 Player B sent out Zapdos
 Turn 1:
+Player A: Starmie used Blizzard on Zapdos but it missed
 Player B: Zapdos used Thunder Wave
 Turn 2:
 Player A: Switched out Starmie for Exeggutor
 Player B: Zapdos used Thunderbolt on Exeggutor for 15 damage
 Turn 3:
 Player B: Zapdos used Drill Peck on Exeggutor for 52 damage (supereffective)
+Player A: Exeggutor used Sleep Powder on Zapdos but it missed
 Turn 4:
 Player A: Switched out Exeggutor for Zapdos
 Player B: Zapdos used Drill Peck on Zapdos for 13 damage
@@ -34,6 +36,7 @@ Turn 11:
 Player A: Switched out Chansey for Tauros
 Player B: Zapdos used Drill Peck on Tauros and crit for 49 damage
 Turn 12:
+Player A: Tauros used Blizzard on Zapdos but it missed
 Player B: Zapdos used Thunderbolt on Tauros for 47 damage
 Turn 13:
 Player A: Tauros used Blizzard on Zapdos for 2 damage (supereffective)
@@ -70,6 +73,7 @@ Turn 23:
 Player A: Switched out Starmie for Chansey
 Player B: Tauros can't move because it is paralyzed
 Turn 24:
+Player B: Tauros used Hyper Beam on Chansey but it missed
 Player A: Chansey used Soft-Boiled and healed for 36
 Turn 25:
 Player A: Switched out Chansey for Starmie

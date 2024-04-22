@@ -1,0 +1,136 @@
+Battle start:
+Player A sent out Dudunsparce-Three-Segment
+Player B sent out Arceus-Psychic
+Turn 1:
+Player B: Arceus-Psychic used Cosmic Power on self
+Player A: Dudunsparce-Three-Segment used Glare
+Turn 2:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 49 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 3:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 46 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 4:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 42 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 5:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 48 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 6:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 45 damage
+Player B: Arceus-Psychic used Recover and healed for 140
+Turn 7:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 45 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 8:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 48 damage
+Player B: Arceus-Psychic can't move because it is paralyzed
+Turn 9:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 43 damage
+Player B: Arceus-Psychic can't move because flinch
+Turn 10:
+Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic and crit for 54 damage
+Player B: Arceus-Psychic fainted
+Player B: Switched out Arceus-Psychic for Grimmsnarl
+Turn 11:
+Player A: Switched out Dudunsparce-Three-Segment for Heatran
+Player B: Grimmsnarl used Thunder Wave
+Turn 12:
+Player B: Switched out Grimmsnarl for Cramorant
+Player A: Heatran used Stealth Rock on self
+Turn 13:
+Player A: Switched out Heatran for Palossand
+Player B: Cramorant used Surf on Palossand for 204 damage (supereffective)
+Turn 14:
+Player B: Cramorant used Surf on Palossand for 89 damage (supereffective)
+Player A: Palossand fainted
+Player A: Switched out Palossand for Torterra
+Turn 15:
+Player B: Switched out Cramorant for Dipplin
+Player A: Switched out Torterra for Heatran
+Turn 16:
+Player B: Switched out Dipplin for Diancie
+Player A: Heatran used Magma Storm on Diancie for 66 damage
+Turn 17:
+Player B: Diancie used Earth Power but it had no effect on Heatran
+Player A: Heatran used Flash Cannon on Diancie for 150 damage (supereffective)
+Player B: Diancie fainted
+Player B: Switched out Diancie for Cramorant
+Turn 18:
+Player B: Cramorant used Surf on Heatran for 170 damage (supereffective)
+Player A: Heatran used Magma Storm on Cramorant for 53 damage
+Turn 19:
+Player B: Cramorant used Surf on Heatran for 35 damage (supereffective)
+Player A: Heatran fainted
+Player A: Switched out Heatran for Torterra
+Turn 20:
+Player B: Switched out Cramorant for Mesprit
+Player A: Torterra used Bullet Seed on Mesprit for 21 damage
+Turn 21:
+Player B: Mesprit used Ice Beam on Torterra for 280 damage (supereffective)
+Player A: Torterra fainted
+Player A: Switched out Torterra for Roaring Moon
+Turn 22:
+Player B: Switched out Mesprit for Grimmsnarl
+Player A: Roaring Moon used Knock Off on Grimmsnarl for 88 damage
+Turn 23:
+Player A: Switched out Roaring Moon for Dudunsparce-Three-Segment
+Player B: Grimmsnarl used Thunder Wave on Dudunsparce-Three-Segment but it missed
+Turn 24:
+Player B: Grimmsnarl used Spirit Break on Dudunsparce-Three-Segment for 93 damage
+Player A: Dudunsparce-Three-Segment used Glare
+Turn 25:
+Player B: Grimmsnarl used Thunder Wave
+Player A: Dudunsparce-Three-Segment can't move because it is paralyzed
+Turn 26:
+Player B: Grimmsnarl used Throat Chop on Dudunsparce-Three-Segment for 64 damage
+Player A: Dudunsparce-Three-Segment used Headbutt on Grimmsnarl for 94 damage
+Turn 27:
+Player B: Grimmsnarl used Spirit Break on Dudunsparce-Three-Segment for 85 damage
+Player A: Dudunsparce-Three-Segment used Roost and healed for 170
+Turn 28:
+Player B: Switched out Grimmsnarl for Mesprit
+Player A: Dudunsparce-Three-Segment used Headbutt on Mesprit for 100 damage
+Turn 29:
+Player B: Mesprit used Drain Punch on Dudunsparce-Three-Segment for 144 damage (supereffective)
+Player B: Mesprit used Drain Punch and healed for 93
+Player A: Dudunsparce-Three-Segment used Headbutt on Mesprit for 61 damage
+Turn 30:
+Player B: Mesprit used Drain Punch on Dudunsparce-Three-Segment for 123 damage (supereffective)
+Player B: Mesprit used Drain Punch and healed for 72
+Player A: Dudunsparce-Three-Segment fainted
+Player A: Switched out Dudunsparce-Three-Segment for Annihilape
+Turn 31:
+Player B: Switched out Mesprit for Dipplin
+Player A: Annihilape used Rage Fist on Dipplin for 112 damage
+Turn 32:
+Player A: Annihilape used Bulk Up on self
+Player B: Dipplin used Giga Drain on Annihilape for 88 damage
+Player B: Dipplin used Giga Drain and healed for 44
+Turn 33:
+Player A: Annihilape used Drain Punch on Dipplin for 60 damage
+Player A: Annihilape used Drain Punch and healed for 30
+Player B: Dipplin used Dragon Pulse on Annihilape for 105 damage
+Turn 34:
+Player A: Annihilape used Rage Fist on Dipplin for 156 damage
+Player B: Dipplin fainted
+Player B: Switched out Dipplin for Grimmsnarl
+Turn 35:
+Player B: Grimmsnarl used Thunder Wave
+Player A: Annihilape used Rage Fist on Grimmsnarl for 111 damage
+Player B: Grimmsnarl fainted
+Player B: Switched out Grimmsnarl for Cramorant
+Turn 36:
+Player B: Cramorant used Brave Bird on Annihilape for 99 damage
+Player A: Annihilape can't move because it is paralyzed
+Turn 37:
+Player B: Cramorant used Surf on Annihilape for 30 damage
+Player A: Annihilape fainted
+Player A: Switched out Annihilape for Roaring Moon
+Turn 38:
+Player A: Roaring Moon used Outrage on Cramorant for 143 damage
+Player B: Cramorant fainted
+Player B: Switched out Cramorant for Mesprit
+Turn 39:
+Player A: Roaring Moon used Outrage on Mesprit for 137 damage
+Player B: Mesprit fainted

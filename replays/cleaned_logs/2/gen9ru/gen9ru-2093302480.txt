@@ -1,0 +1,64 @@
+Battle start:
+Player A sent out Diancie
+Player B sent out Conkeldurr
+Turn 1:
+Player B: Conkeldurr used Close Combat on Diancie for 42 damage
+Player A: Diancie used Stealth Rock on self
+Turn 2:
+Player B: Conkeldurr used Close Combat on Diancie and crit for 58 damage
+Player A: Diancie fainted
+Player A: Switched out Diancie for Exeggutor-Alola
+Turn 3:
+Player B: Switched out Conkeldurr for Cobalion
+Player A: Exeggutor-Alola used Trick Room on self
+Turn 4:
+Player A: Exeggutor-Alola used Flamethrower on Cobalion for 77 damage (supereffective)
+Player B: Cobalion used Thunder Wave on Exeggutor-Alola but it missed
+Turn 5:
+Player A: Exeggutor-Alola used Flamethrower on Cobalion for 23 damage (supereffective)
+Player B: Cobalion fainted
+Player B: Switched out Cobalion for Entei
+Turn 6:
+Player B: Entei used Extreme Speed on Exeggutor-Alola for 41 damage
+Player A: Exeggutor-Alola used Draco Meteor on Entei for 100 damage
+Player B: Entei fainted
+Player A: Switched out Exeggutor-Alola for Rampardos
+Player B: Switched out Entei for Salamence
+Turn 7:
+Player A: Rampardos used Rock Slide on Salamence for 100 damage (supereffective)
+Player B: Salamence fainted
+Player B: Switched out Salamence for Cinccino
+Turn 8:
+Player B: Cinccino used Tidy Up on self
+Player A: Rampardos used Rock Slide on Cinccino but it missed
+Turn 9:
+Player B: Cinccino used Rock Blast on Rampardos for 13 damage
+Player A: Rampardos used Rock Slide on Cinccino for 100 damage
+Player B: Cinccino fainted
+Player B: Switched out Cinccino for Conkeldurr
+Turn 10:
+Player B: Conkeldurr used Mach Punch on Rampardos for 35 damage (supereffective)
+Player A: Rampardos fainted
+Player A: Switched out Rampardos for Farigiraf
+Turn 11:
+Player B: Conkeldurr used Knock Off on Farigiraf for 61 damage
+Player A: Farigiraf used Trick Room on self
+Turn 12:
+Player B: Conkeldurr used Mach Punch on Farigiraf for 39 damage
+Player A: Farigiraf fainted
+Player A: Switched out Farigiraf for Golurk
+Turn 13:
+Player B: Switched out Conkeldurr for Gengar
+Player A: Golurk used Poltergeist on Gengar for 100 damage (supereffective)
+Player B: Conkeldurr fainted
+Player B: Switched out Conkeldurr for Conkeldurr
+Turn 14:
+Player A: Switched out Golurk for Exeggutor-Alola
+Player B: Conkeldurr used Knock Off on Exeggutor-Alola for 40 damage
+Turn 15:
+Player B: Conkeldurr used Mach Punch on Exeggutor-Alola for 19 damage
+Player A: Exeggutor-Alola fainted
+Player A: Switched out Exeggutor-Alola for Golurk
+Turn 16:
+Player B: Conkeldurr used Knock Off on Golurk for 100 damage (supereffective)
+Player A: Golurk fainted

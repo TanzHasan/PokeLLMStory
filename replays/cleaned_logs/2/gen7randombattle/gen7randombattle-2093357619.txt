@@ -1,0 +1,97 @@
+Battle start:
+Player A sent out Serperior
+Player B sent out Lycanroc-Midnight
+Turn 1:
+Player A: Serperior used Leech Seed on self
+Turn 2:
+Turn 3:
+Player A: Switched out Serperior for Rotom-Frost
+Player B: Lycanroc-Midnight used Stone Edge on Rotom-Frost for 229 damage (supereffective)
+Player A: Serperior fainted
+Player A: Switched out Serperior for Vileplume
+Turn 4:
+Player A: Vileplume used Strength Sap on self
+Turn 5:
+Player B: Lycanroc-Midnight used Stone Edge on Vileplume and crit for 253 damage
+Player A: Vileplume used Strength Sap and healed for 164
+Turn 6:
+Player B: Lycanroc-Midnight used Stone Edge on Vileplume and crit for 179 damage
+Player A: Vileplume used Strength Sap and healed for 123
+Player B: Lycanroc-Midnight fainted
+Player B: Switched out Lycanroc-Midnight for Lunala
+Turn 7:
+Player A: Switched out Vileplume for Gothitelle
+Player B: Lunala used Moongeist Beam on Gothitelle for 162 damage (supereffective)
+Turn 8:
+Player B: Lunala used Psyshock on Gothitelle for 23 damage
+Player A: Gothitelle used Signal Beam on Lunala for 28 damage
+Turn 9:
+Player B: Lunala used Moongeist Beam on Gothitelle for 84 damage (supereffective)
+Player A: Gothitelle fainted
+Player A: Switched out Gothitelle for Vileplume
+Turn 10:
+Player B: Lunala used Moongeist Beam on Vileplume for 46 damage
+Player A: Vileplume used Strength Sap and healed for 167
+Turn 11:
+Player B: Lunala used Moongeist Beam on Vileplume for 74 damage
+Player A: Vileplume used Sludge Bomb on Lunala for -1 damage
+Turn 12:
+Player B: Lunala used Psyshock on Vileplume for 135 damage (supereffective)
+Player A: Vileplume used Sludge Bomb on Lunala for 37 damage
+Turn 13:
+Player B: Lunala used Psyshock on Vileplume for 39 damage (supereffective)
+Player A: Vileplume fainted
+Player A: Switched out Vileplume for Slaking
+Turn 14:
+Player A: Slaking used Earthquake on Lunala and crit for 212 damage
+Player B: Lunala used Moongeist Beam but it had no effect on Slaking
+Turn 15:
+Player A: Slaking can't move because ability: Truant
+Player B: Lunala used Psyshock on Slaking for 81 damage
+Player B: Lunala fainted
+Player B: Switched out Lunala for Bouffalant
+Turn 16:
+Player A: Switched out Slaking for Serperior
+Player B: Bouffalant used Earthquake on Serperior for 9 damage
+Turn 17:
+Player A: Serperior used Leech Seed on self
+Player B: Bouffalant used Earthquake on Serperior for 76 damage
+Turn 18:
+Player B: Bouffalant used Earthquake on self
+Turn 19:
+Player A: Switched out Serperior for Kyogre
+Player B: Bouffalant used Earthquake on Kyogre for 232 damage
+Turn 20:
+Player A: Kyogre used Origin Pulse on Bouffalant for 258 damage
+Player B: Bouffalant used Earthquake on Kyogre for 24 damage
+Player A: Kyogre fainted
+Player A: Switched out Kyogre for Slaking
+Turn 21:
+Player A: Slaking used Earthquake on Bouffalant for 52 damage
+Player B: Bouffalant fainted
+Player B: Switched out Bouffalant for Noctowl
+Turn 22:
+Player A: Switched out Slaking for Serperior
+Player B: Noctowl used Hurricane on Serperior for 47 damage (supereffective)
+Player A: Slaking fainted
+Player A: Switched out Slaking for Slaking
+Turn 23:
+Player A: Slaking used Retaliate on Noctowl for 285 damage
+Player B: Noctowl used Toxic on Slaking but it missed
+Turn 24:
+Player A: Slaking can't move because ability: Truant
+Player B: Noctowl used Hurricane on Slaking but it missed
+Turn 25:
+Player A: Slaking used Retaliate on Noctowl for 52 damage
+Player B: Noctowl fainted
+Player B: Switched out Noctowl for Oricorio-Pom-Pom
+Turn 26:
+Player A: Slaking can't move because ability: Truant
+Player B: Oricorio-Pom-Pom used Revelation Dance on Slaking for 138 damage
+Turn 27:
+Player A: Slaking used Retaliate on Oricorio-Pom-Pom for 120 damage
+Player B: Oricorio-Pom-Pom used Hurricane on Slaking for 150 damage
+Turn 28:
+Player A: Slaking can't move because ability: Truant
+Player B: Oricorio-Pom-Pom used Revelation Dance on Slaking for 20 damage
+Player A: Slaking fainted

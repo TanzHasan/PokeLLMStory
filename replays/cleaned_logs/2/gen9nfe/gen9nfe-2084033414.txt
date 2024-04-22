@@ -1,0 +1,121 @@
+Battle start:
+Player A sent out Vullaby
+Player B sent out Drakloak
+Turn 1:
+Player B: Drakloak used Thunderbolt on Vullaby for 85 damage (supereffective)
+Player A: Vullaby used Knock Off on Drakloak for 100 damage (supereffective)
+Player B: Drakloak fainted
+Player B: Switched out Drakloak for Pikachu
+Turn 2:
+Player A: Switched out Vullaby for Metang
+Player B: Pikachu used Fake Out on Metang for 3 damage
+Turn 3:
+Player B: Pikachu used Volt Switch on Metang for 44 damage
+Player B: Switched out Pikachu for Dusclops
+Player A: Metang used Earthquake on Dusclops for 16 damage
+Turn 4:
+Player A: Switched out Metang for Servine
+Player B: Dusclops used Will-O-Wisp
+Turn 5:
+Player A: Servine used Leaf Storm on Dusclops for 24 damage
+Player B: Dusclops used Night Shade on Servine for 44 damage
+Turn 6:
+Player A: Servine used Giga Drain on Dusclops for 26 damage
+Player A: Servine used Giga Drain and healed for 9
+Player B: Dusclops used Night Shade on Servine for 39 damage
+Turn 7:
+Player A: Servine used Synthesis and healed for 44
+Player B: Dusclops used Night Shade on Servine for 38 damage
+Turn 8:
+Player A: Servine used Synthesis and healed for 44
+Player B: Dusclops used Night Shade on Servine for 38 damage
+Turn 9:
+Player A: Servine used Synthesis and healed for 44
+Player B: Dusclops used Night Shade on Servine for 38 damage
+Turn 10:
+Player A: Servine used Synthesis and healed for 44
+Player B: Dusclops used Night Shade on Servine for 39 damage
+Turn 11:
+Player A: Servine used Leaf Storm on Dusclops for 34 damage
+Player B: Dusclops fainted
+Player B: Switched out Dusclops for Cutiefly
+Turn 12:
+Player B: Cutiefly used U-turn on Servine for 40 damage (supereffective)
+Player B: Switched out Cutiefly for Quaxwell
+Player A: Servine used Giga Drain on Quaxwell for 100 damage (supereffective)
+Player A: Servine used Giga Drain and healed for 66
+Player B: Cutiefly fainted
+Player B: Switched out Cutiefly for Cutiefly
+Turn 13:
+Player B: Cutiefly used Sticky Web on self
+Player A: Servine used Giga Drain on Cutiefly for 99 damage
+Player A: Servine used Giga Drain and healed for 25
+Turn 14:
+Player B: Cutiefly used Moonblast on Servine and crit for 50 damage
+Player A: Servine used Giga Drain on Cutiefly for 1 damage
+Player A: Servine used Giga Drain and healed for 0
+Player B: Cutiefly fainted
+Player B: Switched out Cutiefly for Pikachu
+Turn 15:
+Player A: Switched out Servine for Metang
+Player B: Pikachu used Fake Out on Metang for 3 damage
+Turn 16:
+Player B: Pikachu used Volt Switch on Metang for 42 damage
+Player B: Switched out Pikachu for Vigoroth
+Player A: Metang used Earthquake on Vigoroth for 19 damage
+Turn 17:
+Player B: Vigoroth used Bulk Up on self
+Player A: Metang used Earthquake on Vigoroth for 14 damage
+Turn 18:
+Player B: Vigoroth used Slack Off and healed for 33
+Player A: Metang used Earthquake on Vigoroth for 12 damage
+Turn 19:
+Player B: Vigoroth used Bulk Up on self
+Player A: Metang used Meteor Mash on Vigoroth for 13 damage
+Turn 20:
+Player B: Vigoroth used Bulk Up on self
+Player A: Metang used Earthquake on Vigoroth for 8 damage
+Turn 21:
+Player A: Switched out Metang for Dunsparce
+Player B: Vigoroth used Bulk Up on self
+Turn 22:
+Player B: Vigoroth used Knock Off on Dunsparce for 57 damage
+Player A: Dunsparce used Glare
+Turn 23:
+Player B: Vigoroth used Slack Off and healed for 33
+Player A: Dunsparce used Zen Headbutt on Vigoroth for 4 damage
+Turn 24:
+Player B: Vigoroth used Facade on Dunsparce for 43 damage
+Player A: Dunsparce fainted
+Player A: Switched out Dunsparce for Monferno
+Turn 25:
+Player A: Monferno used Mach Punch on Vigoroth and crit for 68 damage (supereffective)
+Player B: Vigoroth can't move because it is paralyzed
+Turn 26:
+Player A: Monferno used Mach Punch on Vigoroth for 15 damage (supereffective)
+Player B: Vigoroth used Slack Off and healed for 50
+Turn 27:
+Player A: Monferno used Mach Punch on Vigoroth for 17 damage (supereffective)
+Player B: Vigoroth used Slack Off and healed for 50
+Turn 28:
+Player A: Switched out Monferno for Metang
+Player B: Vigoroth can't move because it is paralyzed
+Turn 29:
+Player A: Switched out Metang for Vullaby
+Player B: Vigoroth used Knock Off on Vullaby for 15 damage
+Player A: Metang fainted
+Player A: Switched out Metang for Electabuzz
+Turn 30:
+Player A: Electabuzz used Focus Blast on Vigoroth but it missed
+Player B: Vigoroth can't move because it is paralyzed
+Turn 31:
+Player A: Electabuzz used Focus Blast on Vigoroth for 96 damage (supereffective)
+Player B: Vigoroth fainted
+Player B: Switched out Vigoroth for Pikachu
+Turn 32:
+Player B: Pikachu used Fake Out on Electabuzz for 24 damage
+Player A: Electabuzz can't move because flinch
+Turn 33:
+Player B: Pikachu used Surf on Electabuzz for 53 damage
+Player A: Electabuzz used Focus Blast on Pikachu for 100 damage
+Player B: Pikachu fainted

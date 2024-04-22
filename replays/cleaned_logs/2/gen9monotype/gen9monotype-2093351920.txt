@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Deoxys-Speed
+Player B sent out Tyranitar
+Turn 1:
+Player A: Deoxys-Speed used Focus Blast on Tyranitar but it missed
+Player B: Tyranitar used Knock Off on Deoxys-Speed for 100 damage (supereffective)
+Player A: Deoxys-Speed fainted
+Player A: Switched out Deoxys-Speed for Iron Boulder
+Turn 2:
+Player A: Iron Boulder used Close Combat on Tyranitar for 100 damage (supereffective)
+Player B: Tyranitar fainted
+Player B: Switched out Tyranitar for Rhyperior
+Turn 3:
+Player A: Switched out Iron Boulder for Indeedee
+Player B: Rhyperior used Earthquake on Indeedee for 100 damage
+Player A: Iron Boulder fainted
+Player A: Switched out Iron Boulder for Gardevoir
+Turn 4:
+Player A: Gardevoir used Moonblast on Rhyperior for 47 damage
+Player B: Rhyperior used Earthquake on Gardevoir for 100 damage
+Player A: Gardevoir fainted
+Player A: Switched out Gardevoir for Iron Boulder
+Turn 5:
+Player A: Iron Boulder used Close Combat on Rhyperior for 39 damage (supereffective)
+Player B: Rhyperior used Earthquake on Iron Boulder for 100 damage (supereffective)
+Player A: Iron Boulder fainted
+Player A: Switched out Iron Boulder for Armarouge
+Turn 6:
+Player A: Armarouge used Flamethrower on Rhyperior for 14 damage
+Player B: Rhyperior fainted
+Player B: Switched out Rhyperior for Terrakion
+Turn 7:
+Player B: Terrakion used Stone Edge on Armarouge for 100 damage (supereffective)
+Player A: Armarouge fainted
+Player A: Switched out Armarouge for Slowking-Galar
+Turn 8:
+Player B: Terrakion used Stone Edge on Slowking-Galar for 80 damage
+Player A: Slowking-Galar used Sludge Bomb on Terrakion for 18 damage
+Turn 9:
+Player B: Terrakion used Stone Edge on Slowking-Galar for 20 damage
+Player A: Slowking-Galar fainted

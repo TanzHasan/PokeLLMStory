@@ -8,6 +8,7 @@ Turn 2:
 Player B: Switched out Electrode for Jynx
 Player A: Jynx used Blizzard on Jynx for 21 damage
 Turn 3:
+Player B: Jynx used Lovely Kiss on Jynx but it missed
 Player A: Jynx used Psychic on Jynx for 15 damage
 Turn 4:
 Player A: Jynx used Psychic on Jynx and crit for 32 damage

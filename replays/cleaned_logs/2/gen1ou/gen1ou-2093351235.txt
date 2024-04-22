@@ -15,6 +15,7 @@ Player A: Switched out Chansey for Gengar
 Player B: Exeggutor used Sleep Powder
 Turn 5:
 Player A: Switched out Gengar for Exeggutor
+Player B: Exeggutor used Stun Spore on Exeggutor but it missed
 Turn 6:
 Player A: Exeggutor used Sleep Powder
 Player B: Exeggutor can't move because it is asleep

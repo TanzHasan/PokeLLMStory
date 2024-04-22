@@ -94,16 +94,19 @@ Player A: Gengar used Ice Punch on Golem for 8 damage (supereffective)
 Player B: Golem fainted
 Player B: Switched out Golem for Snorlax
 Turn 31:
+Player A: Gengar used Dynamic Punch on Snorlax but it missed
 Player B: Snorlax can't move because it is asleep
 Turn 32:
 Player A: Gengar used Dynamic Punch on Snorlax for 20 damage (supereffective)
 Player B: Snorlax can't move because it is asleep
 Turn 33:
+Player A: Gengar used Thunder on Snorlax but it missed
 Player B: Snorlax can't move because it is asleep
 Turn 34:
 Player A: Gengar used Thunder on Snorlax for 9 damage
 Player B: Snorlax can't move because it is asleep
 Turn 35:
+Player A: Gengar used Thunder on Snorlax but it missed
 Player B: Snorlax can't move because it is asleep
 Turn 36:
 Player A: Gengar used Thunder on Snorlax for 8 damage

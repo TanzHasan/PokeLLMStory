@@ -1,0 +1,16 @@
+Battle start:
+Player A sent out Maractus
+Player B sent out Gliscor
+Turn 1:
+Player B: Switched out Gliscor for Zapdos
+Player A: Maractus used Leech Seed on self
+Turn 2:
+Player A: Maractus used Protect on self
+Player B: Zapdos used Heat Wave on self
+Turn 3:
+Player A: Switched out Maractus for Manectric
+Player B: Zapdos used Heat Wave on Manectric but it missed
+Turn 4:
+Player B: Switched out Zapdos for Gliscor
+Player A: Manectric used Volt Switch but it had no effect on Gliscor
+Turn 5:

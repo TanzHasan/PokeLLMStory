@@ -1,0 +1,133 @@
+Battle start:
+Player A sent out Skarmory
+Player B sent out Salamence
+Turn 1:
+Player B: Switched out Salamence for Forretress
+Player A: Switched out Skarmory for Aerodactyl
+Turn 2:
+Player A: Switched out Aerodactyl for Banette
+Player B: Forretress used Spikes on self
+Turn 3:
+Player B: Switched out Forretress for Houndoom
+Player A: Banette used Will-O-Wisp but it had no effect on Houndoom
+Turn 4:
+Player B: Houndoom used Pursuit on Banette for 97 damage (supereffective)
+Player A: Switched out Banette for Aerodactyl
+Turn 5:
+Player A: Switched out Aerodactyl for Skarmory
+Player B: Switched out Houndoom for Salamence
+Turn 6:
+Player B: Switched out Salamence for Forretress
+Player A: Skarmory used Spikes on self
+Turn 7:
+Player A: Skarmory used Taunt on self
+Player B: Forretress used Hidden Power on Skarmory for 28 damage (supereffective)
+Turn 8:
+Player A: Switched out Skarmory for Donphan
+Player B: Forretress used Hidden Power on Donphan for 35 damage
+Turn 9:
+Player A: Donphan used Rapid Spin on Forretress for 2 damage
+Player B: Forretress used Rapid Spin on Donphan for -3 damage
+Turn 10:
+Player A: Donphan used Earthquake on Forretress for 38 damage
+Player B: Forretress used Spikes on self
+Turn 11:
+Player B: Switched out Forretress for Salamence
+Player A: Donphan used Rapid Spin on Salamence for 6 damage
+Turn 12:
+Player A: Switched out Donphan for Skarmory
+Player B: Salamence used Hidden Power on Skarmory for 17 damage
+Turn 13:
+Player B: Switched out Salamence for Forretress
+Player A: Skarmory used Drill Peck on Forretress for 12 damage
+Turn 14:
+Player A: Skarmory used Spikes on self
+Player B: Forretress used Hidden Power on Skarmory and crit for 44 damage (supereffective)
+Turn 15:
+Player A: Switched out Skarmory for Banette
+Player B: Forretress used Spikes on self
+Turn 16:
+Player B: Switched out Forretress for Houndoom
+Player A: Banette used Knock Off on Houndoom for 14 damage
+Turn 17:
+Player B: Houndoom used Crunch on Banette for 3 damage (supereffective)
+Player A: Banette fainted
+Player A: Switched out Banette for Tyranitar
+Turn 18:
+Player B: Switched out Houndoom for Salamence
+Player A: Tyranitar used Dragon Dance on self
+Turn 19:
+Player B: Switched out Salamence for Metagross
+Player A: Tyranitar used Rock Slide on Metagross for 25 damage
+Turn 20:
+Player A: Switched out Tyranitar for Donphan
+Player B: Metagross used Meteor Mash on Donphan for 36 damage
+Turn 21:
+Player B: Switched out Metagross for Salamence
+Player A: Donphan used Earthquake but it had no effect on Salamence
+Turn 22:
+Player B: Salamence used Hidden Power on Donphan for 31 damage
+Player A: Donphan used Rock Slide on Salamence for 58 damage (supereffective)
+Turn 23:
+Player B: Salamence used Hidden Power on Donphan for 1 damage
+Player A: Donphan fainted
+Player A: Switched out Donphan for Aerodactyl
+Turn 24:
+Player B: Switched out Salamence for Metagross
+Player A: Aerodactyl used Earthquake on Metagross and crit for 75 damage (supereffective)
+Player B: Salamence fainted
+Player B: Switched out Salamence for Salamence
+Turn 25:
+Player A: Switched out Aerodactyl for Skarmory
+Player B: Salamence used Brick Break on Skarmory for 11 damage
+Player A: Aerodactyl fainted
+Player A: Switched out Aerodactyl for Celebi
+Turn 26:
+Player B: Switched out Salamence for Houndoom
+Player A: Celebi used Swords Dance on self
+Turn 27:
+Player B: Houndoom used Fire Blast on Celebi but it missed
+Player A: Celebi used Baton Pass on self
+Player A: Switched out Celebi for Tyranitar
+Turn 28:
+Player B: Switched out Houndoom for Salamence
+Player A: Tyranitar used Dragon Dance on self
+Turn 29:
+Player B: Switched out Salamence for Blissey
+Player A: Tyranitar used Rock Slide on Blissey for 89 damage
+Turn 30:
+Player B: Switched out Blissey for Salamence
+Player A: Tyranitar used Dragon Dance on self
+Player B: Blissey fainted
+Player B: Switched out Blissey for Snorlax
+Turn 31:
+Player A: Tyranitar used Rock Slide on Snorlax for 73 damage
+Player B: Snorlax used Self-Destruct on Tyranitar for 100 damage
+Player B: Snorlax fainted
+Player A: Tyranitar fainted
+Player A: Switched out Tyranitar for Aerodactyl
+Player B: Switched out Snorlax for Forretress
+Turn 32:
+Player A: Switched out Aerodactyl for Celebi
+Player B: Forretress used Hidden Power on Celebi and crit for 74 damage (supereffective)
+Turn 33:
+Player A: Celebi used Recover and healed for 50
+Player B: Forretress used Hidden Power on Celebi for 26 damage (supereffective)
+Turn 34:
+Player A: Celebi used Recover and healed for 49
+Player B: Forretress used Hidden Power on Celebi for 24 damage (supereffective)
+Turn 35:
+Player A: Celebi used Swords Dance on self
+Player B: Forretress used Hidden Power on Celebi for 26 damage (supereffective)
+Turn 36:
+Player A: Celebi used Baton Pass on self
+Player A: Switched out Celebi for Aerodactyl
+Player B: Forretress used Hidden Power on Aerodactyl for 10 damage
+Turn 37:
+Player A: Aerodactyl used Earthquake on Forretress for 21 damage
+Player B: Forretress used Explosion on Aerodactyl for 81 damage
+Player B: Forretress fainted
+Player B: Switched out Forretress for Houndoom
+Turn 38:
+Player A: Aerodactyl used Earthquake on Houndoom for 86 damage (supereffective)
+Player B: Houndoom fainted

@@ -1,0 +1,35 @@
+Battle start:
+Player A sent out Volcarona
+Player B sent out Landorus-Therian
+Turn 1:
+Player B: Landorus-Therian used Stone Edge on Volcarona for 100 damage (supereffective)
+Player A: Volcarona fainted
+Player A: Switched out Volcarona for Ferrothorn
+Turn 2:
+Player B: Switched out Landorus-Therian for Reuniclus
+Player A: Ferrothorn used Leech Seed on Reuniclus but it missed
+Turn 3:
+Player B: Reuniclus used Focus Blast on Ferrothorn for 57 damage (supereffective)
+Player A: Ferrothorn used Leech Seed on self
+Turn 4:
+Player A: Ferrothorn used Protect on self
+Player B: Reuniclus used Calm Mind on self
+Turn 5:
+Player B: Reuniclus used Focus Blast on Ferrothorn for 43 damage (supereffective)
+Player A: Ferrothorn fainted
+Player A: Switched out Ferrothorn for Dragonite
+Turn 6:
+Player A: Dragonite used Dragon Dance on self
+Player B: Reuniclus used Psyshock on Dragonite for 25 damage
+Turn 7:
+Player A: Dragonite used Dragon Claw on Reuniclus for 49 damage
+Player B: Reuniclus used Psyshock on Dragonite for 51 damage
+Turn 8:
+Player A: Dragonite used Extreme Speed on Reuniclus for 26 damage
+Player B: Reuniclus used Psyshock on Dragonite for 24 damage
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Cloyster
+Turn 9:
+Player A: Cloyster used Shell Smash on self
+Player B: Reuniclus used Focus Blast on Cloyster for 100 damage (supereffective)
+Player A: Cloyster fainted

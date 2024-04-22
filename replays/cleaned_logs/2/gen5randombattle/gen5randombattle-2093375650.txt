@@ -1,0 +1,102 @@
+Battle start:
+Player A sent out Lumineon
+Player B sent out Noctowl
+Turn 1:
+Player B: Switched out Noctowl for Toxicroak
+Player A: Lumineon used Toxic but it had no effect on Toxicroak
+Turn 2:
+Player A: Lumineon used U-turn on Toxicroak for 14 damage
+Player A: Switched out Lumineon for Nidoqueen
+Player B: Toxicroak used Swords Dance on self
+Turn 3:
+Player B: Switched out Toxicroak for Milotic
+Player A: Nidoqueen used Earth Power on Milotic for 101 damage
+Turn 4:
+Player A: Switched out Nidoqueen for Lumineon
+Player B: Milotic used Scald on self
+Turn 5:
+Player A: Lumineon used Toxic on Milotic but it missed
+Player B: Milotic used Toxic
+Turn 6:
+Player B: Switched out Milotic for Toxicroak
+Player A: Lumineon used U-turn on Toxicroak and crit for 13 damage
+Player A: Switched out Lumineon for Mesprit
+Turn 7:
+Player B: Switched out Toxicroak for Milotic
+Player A: Mesprit used Psychic on Milotic for 67 damage
+Turn 8:
+Player A: Switched out Mesprit for Spiritomb
+Player B: Milotic used Recover and healed for 163
+Turn 9:
+Player B: Milotic used Toxic
+Player A: Spiritomb used Calm Mind on self
+Turn 10:
+Player A: Spiritomb used Calm Mind on self
+Player B: Milotic used Dragon Tail on Spiritomb for 40 damage
+Turn 11:
+Player A: Spiritomb used Thunderbolt on Milotic and crit for 285 damage (supereffective)
+Player B: Milotic fainted
+Player B: Switched out Milotic for Yanmega
+Turn 12:
+Player B: Yanmega used Bug Buzz on Spiritomb for 250 damage (supereffective)
+Player A: Spiritomb used Thunderbolt on Yanmega for 248 damage (supereffective)
+Player B: Yanmega fainted
+Player B: Switched out Yanmega for Noctowl
+Turn 13:
+Player B: Noctowl used Air Slash on Spiritomb and crit for 18 damage
+Player A: Spiritomb fainted
+Player A: Switched out Spiritomb for Nidoqueen
+Turn 14:
+Player B: Noctowl used Air Slash on Nidoqueen for 82 damage
+Player A: Nidoqueen can't move because flinch
+Turn 15:
+Player B: Noctowl used Air Slash on Nidoqueen for 82 damage
+Player A: Nidoqueen used Stealth Rock on self
+Turn 16:
+Player B: Noctowl used Air Slash on Nidoqueen for 87 damage
+Player A: Nidoqueen used Ice Beam on Noctowl and crit for 302 damage (supereffective)
+Turn 17:
+Player B: Noctowl used Roost and healed for 193
+Player A: Nidoqueen used Ice Beam on Noctowl for 73 damage
+Turn 18:
+Player B: Noctowl used Air Slash on Nidoqueen for 31 damage
+Player A: Nidoqueen fainted
+Player A: Switched out Nidoqueen for Lumineon
+Turn 19:
+Player B: Switched out Noctowl for Toxicroak
+Player A: Lumineon used Ice Beam on Toxicroak for 74 damage
+Turn 20:
+Player A: Lumineon used U-turn on Toxicroak for -3 damage
+Player A: Switched out Lumineon for Banette
+Player B: Toxicroak used Swords Dance on self
+Turn 21:
+Turn 22:
+Player A: Banette used Shadow Sneak on Toxicroak for 85 damage
+Player B: Toxicroak used Poison Jab on Banette for 93 damage
+Turn 23:
+Player B: Switched out Toxicroak for Noctowl
+Player A: Banette used Thunder Wave
+Turn 24:
+Player A: Banette used Hidden Power on Noctowl for 81 damage
+Player B: Noctowl used Toxic
+Turn 25:
+Player A: Switched out Banette for Samurott
+Player B: Noctowl used Roost and healed for 193
+Turn 26:
+Player A: Samurott used Superpower on Noctowl for 98 damage
+Player B: Noctowl used Toxic
+Turn 27:
+Player A: Switched out Samurott for Spiritomb
+Player B: Noctowl used Roost and healed for 168
+Turn 28:
+Player B: Switched out Noctowl for Sawsbuck
+Player A: Spiritomb used Calm Mind on self
+Turn 29:
+Player A: Spiritomb used Dark Pulse on self
+Turn 30:
+Player A: Spiritomb used Dark Pulse on self
+Turn 31:
+Player B: Sawsbuck used Horn Leech on Spiritomb for 154 damage
+Player B: Sawsbuck used Horn Leech and healed for 51
+Player A: Spiritomb used Rest and healed for 194
+Turn 32:

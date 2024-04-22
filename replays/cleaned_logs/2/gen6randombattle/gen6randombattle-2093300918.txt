@@ -1,0 +1,126 @@
+Battle start:
+Player A sent out Metagross
+Player B sent out Umbreon
+Turn 1:
+Player A: Switched out Metagross for Azumarill
+Player B: Umbreon used Foul Play on Azumarill for 34 damage
+Turn 2:
+Player B: Umbreon used Toxic
+Player A: Azumarill used Belly Drum and healed for 72
+Turn 3:
+Player B: Umbreon used Protect on self
+Player A: Azumarill used Waterfall on self
+Turn 4:
+Player B: Switched out Umbreon for Cresselia
+Player A: Azumarill used Play Rough on Cresselia and crit for 323 damage
+Player B: Umbreon fainted
+Player B: Switched out Umbreon for Arcanine
+Turn 5:
+Player A: Switched out Azumarill for Slowking
+Player B: Arcanine used Extreme Speed on Slowking for 87 damage
+Turn 6:
+Player B: Switched out Arcanine for Cryogonal
+Player A: Switched out Slowking for Azumarill
+Turn 7:
+Player A: Azumarill used Aqua Jet on Cryogonal for 93 damage
+Player B: Cryogonal used Freeze-Dry on Azumarill for 183 damage (supereffective)
+Player A: Azumarill fainted
+Player A: Switched out Azumarill for Metagross
+Turn 8:
+Player B: Switched out Cryogonal for Umbreon
+Player A: Metagross used Agility on self
+Turn 9:
+Player A: Metagross used Meteor Mash on Umbreon for 87 damage
+Player B: Umbreon used Wish on self
+Turn 10:
+Player A: Metagross used Meteor Mash on Umbreon but it missed
+Player B: Umbreon used Foul Play on Metagross for 182 damage (supereffective)
+Turn 11:
+Player A: Switched out Metagross for Houndoom
+Player B: Umbreon used Foul Play on Houndoom for 57 damage
+Turn 12:
+Player A: Houndoom used Taunt on self
+Player B: Umbreon can't move because move: Taunt
+Turn 13:
+Player A: Houndoom used Nasty Plot on self
+Player B: Umbreon used Foul Play on Houndoom for 37 damage
+Turn 14:
+Player A: Houndoom used Fire Blast on Umbreon but it missed
+Player B: Umbreon used Foul Play on Houndoom for 36 damage
+Turn 15:
+Player B: Switched out Umbreon for Arcanine
+Player A: Houndoom used Taunt on self
+Turn 16:
+Player B: Arcanine used Extreme Speed on Houndoom for 75 damage
+Player A: Houndoom used Dark Pulse on Arcanine for 226 damage
+Player B: Arcanine fainted
+Player B: Switched out Arcanine for Cryogonal
+Turn 17:
+Player A: Switched out Houndoom for Metagross
+Player B: Cryogonal used Hidden Power on Metagross for 74 damage (supereffective)
+Player A: Houndoom fainted
+Player A: Switched out Houndoom for Cinccino
+Turn 18:
+Player A: Cinccino used Bullet Seed on Cryogonal for 11 damage
+Player B: Cryogonal fainted
+Player B: Switched out Cryogonal for Umbreon
+Turn 19:
+Player A: Switched out Cinccino for Nidoking
+Player B: Umbreon used Toxic but it had no effect on Nidoking
+Turn 20:
+Player A: Nidoking used Sludge Wave on Umbreon for 22 damage
+Player B: Umbreon used Wish on self
+Turn 21:
+Player A: Nidoking used Sludge Wave on Umbreon for 89 damage
+Player B: Umbreon used Foul Play on Nidoking for 97 damage
+Turn 22:
+Player A: Switched out Nidoking for Houndoom-Mega
+Player B: Umbreon used Wish on self
+Turn 23:
+Player A: Houndoom used Fire Blast on Umbreon for -77 damage
+Player B: Umbreon used Foul Play on Houndoom for 35 damage
+Turn 24:
+Player A: Houndoom used Taunt on self
+Player B: Umbreon used Foul Play on Houndoom for 11 damage
+Player A: Houndoom fainted
+Player A: Switched out Houndoom for Cinccino
+Turn 25:
+Player B: Switched out Umbreon for Arceus-Rock
+Player A: Cinccino used Tail Slap on Arceus-Rock for 18 damage
+Turn 26:
+Player A: Switched out Cinccino for Slowking
+Player B: Arceus-Rock used Judgment on Slowking for -21 damage
+Turn 27:
+Player B: Switched out Arceus-Rock for Umbreon
+Player A: Slowking used Scald on Umbreon for -58 damage
+Turn 28:
+Player A: Switched out Slowking for Nidoking
+Player B: Umbreon used Toxic but it had no effect on Nidoking
+Turn 29:
+Player B: Umbreon used Protect on self
+Player A: Nidoking used Sludge Wave on self
+Turn 30:
+Player A: Nidoking used Earth Power on Umbreon for 49 damage
+Player B: Umbreon used Wish on self
+Turn 31:
+Player A: Switched out Nidoking for Slowking
+Turn 32:
+Player B: Umbreon used Toxic
+Player A: Slowking used Scald on Umbreon for -40 damage
+Turn 33:
+Player A: Switched out Slowking for Cinccino
+Turn 34:
+Player B: Umbreon used Protect on self
+Player A: Cinccino used Bullet Seed on self
+Turn 35:
+Player A: Switched out Cinccino for Nidoking
+Player B: Umbreon used Wish on self
+Turn 36:
+Player A: Nidoking used Sludge Wave on Umbreon for 27 damage
+Player B: Umbreon used Foul Play on Nidoking for 94 damage
+Turn 37:
+Player A: Nidoking used Sludge Wave on Umbreon for 0 damage
+Player B: Umbreon used Foul Play on Nidoking for 73 damage
+Player A: Nidoking fainted
+Player A: Switched out Nidoking for Slowking
+Turn 38:

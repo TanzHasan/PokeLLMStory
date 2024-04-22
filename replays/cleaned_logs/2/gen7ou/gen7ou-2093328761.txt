@@ -1,0 +1,115 @@
+Battle start:
+Player A sent out Diggersby
+Player B sent out Hydreigon
+Turn 1:
+Player B: Hydreigon used Surf on Diggersby for 68 damage (supereffective)
+Player A: Diggersby used Return on Hydreigon for 96 damage
+Turn 2:
+Player A: Diggersby used Quick Attack on Hydreigon for 4 damage
+Player B: Hydreigon fainted
+Player B: Switched out Hydreigon for Pinsir
+Turn 3:
+Player B: Pinsir used Swords Dance on self
+Player A: Diggersby used Return on Pinsir for 97 damage
+Turn 4:
+Player B: Pinsir used Quick Attack on Diggersby for 2 damage
+Player A: Diggersby fainted
+Player A: Switched out Diggersby for Venomoth
+Turn 5:
+Player B: Pinsir used Return on Venomoth for 99 damage (supereffective)
+Player A: Venomoth used Bug Buzz on Pinsir for 3 damage
+Player B: Pinsir fainted
+Player B: Switched out Pinsir for Tornadus
+Turn 6:
+Player A: Switched out Venomoth for Magneton
+Player B: Tornadus used U-turn on Magneton for 14 damage
+Player B: Switched out Tornadus for Quagsire
+Turn 7:
+Player A: Magneton used Toxic
+Player B: Quagsire used Earthquake on Magneton for 86 damage (supereffective)
+Player A: Magneton fainted
+Player A: Switched out Magneton for Altaria
+Turn 8:
+Player A: Altaria used Agility on self
+Player B: Quagsire used Scald on Altaria for 10 damage
+Turn 9:
+Player A: Altaria used Hidden Power on Quagsire for 84 damage (supereffective)
+Player B: Quagsire used Recover and healed for 50
+Turn 10:
+Player B: Switched out Quagsire for Tornadus
+Player A: Altaria used Hidden Power on Tornadus for 9 damage
+Turn 11:
+Player A: Altaria used Return on Tornadus for 50 damage
+Player B: Tornadus used Hurricane on Altaria but it missed
+Turn 12:
+Player B: Switched out Tornadus for Cresselia
+Player A: Altaria used Return on Cresselia for 15 damage
+Turn 13:
+Player A: Switched out Altaria for Cobalion
+Player B: Cresselia used Psyshock on Cobalion for 16 damage
+Turn 14:
+Player A: Cobalion used Stealth Rock on self
+Player B: Cresselia used Psyshock on Cobalion for 17 damage
+Turn 15:
+Player A: Cobalion used Iron Head on Cresselia for 0 damage
+Player B: Cresselia used Psyshock on Cobalion for 16 damage
+Turn 16:
+Player A: Cobalion used Iron Head on Cresselia for 10 damage
+Player B: Cresselia can't move because flinch
+Turn 17:
+Player A: Cobalion used Iron Head on Cresselia for 9 damage
+Player B: Cresselia can't move because flinch
+Turn 18:
+Player A: Cobalion used Iron Head on Cresselia for 9 damage
+Player B: Cresselia can't move because flinch
+Turn 19:
+Player A: Cobalion used Iron Head on Cresselia for 9 damage
+Player B: Cresselia used Psyshock on Cobalion for 15 damage
+Turn 20:
+Player A: Cobalion used Iron Head on Cresselia for 9 damage
+Player B: Cresselia used Moonlight and healed for 50
+Turn 21:
+Player A: Cobalion used Iron Head on Cresselia for 10 damage
+Player B: Cresselia used Psyshock and healed for 50
+Turn 22:
+Player A: Cobalion used Iron Head on Cresselia for 10 damage
+Player B: Cresselia used Psyshock on Cobalion for 16 damage
+Turn 23:
+Player A: Cobalion used Iron Head on Cresselia for 9 damage
+Player B: Cresselia used Psyshock on Cobalion for 15 damage
+Turn 24:
+Player A: Cobalion used Iron Head on Cresselia for 8 damage
+Player B: Cresselia used Moonlight and healed for 48
+Turn 25:
+Player A: Cobalion used Iron Head on Cresselia and crit for 23 damage
+Player B: Cresselia used Psyshock on Cobalion for 18 damage
+Turn 26:
+Player A: Cobalion used Iron Head on Cresselia for 11 damage
+Player B: Cresselia used Psyshock on Cobalion and crit for 20 damage
+Player A: Cobalion fainted
+Player A: Switched out Cobalion for Venomoth
+Turn 27:
+Player A: Venomoth used Sleep Powder
+Player B: Cresselia can't move because it is asleep
+Turn 28:
+Player B: Switched out Cresselia for Gengar
+Player A: Venomoth used Quiver Dance on self
+Turn 29:
+Player A: Venomoth used Giga Drain on Gengar for 62 damage
+Player A: Venomoth used Giga Drain and healed for 23
+Player B: Gengar used Trick on self
+Turn 30:
+Player A: Venomoth used Bug Buzz on Gengar for 38 damage
+Player B: Gengar fainted
+Player B: Switched out Gengar for Quagsire
+Turn 31:
+Player A: Venomoth used Bug Buzz on Quagsire for 66 damage
+Player B: Quagsire fainted
+Player B: Switched out Quagsire for Cresselia
+Turn 32:
+Player A: Venomoth used Bug Buzz on Cresselia for 66 damage (supereffective)
+Player B: Cresselia fainted
+Player B: Switched out Cresselia for Tornadus
+Turn 33:
+Player A: Venomoth used Bug Buzz on Tornadus for 32 damage
+Player B: Tornadus fainted

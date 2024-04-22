@@ -1,0 +1,121 @@
+Battle start:
+Player A sent out Zarude-Dada
+Player B sent out Pyukumuku
+Turn 1:
+Player B: Switched out Pyukumuku for Whimsicott
+Player A: Zarude-Dada used Bulk Up on self
+Turn 2:
+Player A: Switched out Zarude-Dada for Politoed
+Player B: Whimsicott used Moonblast on Politoed for 75 damage
+Turn 3:
+Player B: Whimsicott used U-turn on Politoed for 40 damage
+Player B: Switched out Whimsicott for Tsareena
+Player A: Politoed used Toxic
+Turn 4:
+Player A: Switched out Politoed for Zarude-Dada
+Player B: Tsareena used Power Whip on Zarude-Dada for 69 damage
+Turn 5:
+Player A: Zarude-Dada used Bulk Up on self
+Player B: Tsareena used Triple Axel on Zarude-Dada for 66 damage (supereffective)
+Turn 6:
+Player B: Switched out Tsareena for Whimsicott
+Player A: Zarude-Dada used Jungle Healing and healed for 91
+Turn 7:
+Player A: Switched out Zarude-Dada for Politoed
+Player B: Whimsicott used Energy Ball on Politoed for 150 damage (supereffective)
+Turn 8:
+Player A: Switched out Politoed for Lopunny
+Player B: Whimsicott used U-turn on Lopunny for 37 damage
+Player B: Switched out Whimsicott for Landorus-Therian
+Turn 9:
+Player A: Lopunny used Facade on Landorus-Therian for 123 damage
+Player B: Landorus-Therian used Stealth Rock on self
+Turn 10:
+Player A: Lopunny used Facade on Landorus-Therian for 108 damage
+Player B: Landorus-Therian used Earthquake on Lopunny for 157 damage
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Cresselia
+Turn 11:
+Player B: Switched out Cresselia for Tsareena
+Player A: Lopunny used Healing Wish on self
+Player A: Lopunny fainted
+Player A: Switched out Lopunny for Politoed
+Turn 12:
+Player A: Switched out Politoed for Thievul
+Player B: Tsareena used Power Whip on Thievul but it missed
+Turn 13:
+Player A: Thievul used Psychic on Tsareena for 189 damage
+Player B: Tsareena used U-turn on Thievul for 171 damage (supereffective)
+Player B: Switched out Tsareena for Metagross
+Turn 14:
+Player A: Thievul used Dark Pulse on Metagross and crit for 253 damage (supereffective)
+Player B: Metagross fainted
+Player B: Switched out Metagross for Whimsicott
+Turn 15:
+Player B: Whimsicott used Moonblast on Thievul for 98 damage (supereffective)
+Player A: Thievul fainted
+Player A: Switched out Thievul for Dragalge
+Turn 16:
+Player B: Whimsicott used U-turn on Dragalge for 48 damage
+Player B: Switched out Whimsicott for Tsareena
+Player A: Dragalge used Sludge Wave on Tsareena for 69 damage (supereffective)
+Player B: Whimsicott fainted
+Player B: Switched out Whimsicott for Cresselia
+Turn 17:
+Player A: Switched out Dragalge for Politoed
+Player B: Cresselia used Calm Mind on self
+Turn 18:
+Player B: Cresselia used Max Starfall on Politoed for -100 damage
+Player A: Politoed used Toxic
+Turn 19:
+Player B: Cresselia used Max Mindstorm on Politoed for 130 damage
+Player A: Politoed fainted
+Player A: Switched out Politoed for Zarude-Dada
+Turn 20:
+Player A: Zarude-Dada used Max Darkness on Cresselia for -43 damage (supereffective)
+Player B: Cresselia used Max Starfall on Zarude-Dada for 64 damage (supereffective)
+Turn 21:
+Player B: Switched out Cresselia for Whimsicott
+Player A: Zarude-Dada used Max Darkness on Whimsicott for 79 damage
+Turn 22:
+Player B: Whimsicott used Moonblast on Zarude-Dada for 134 damage (supereffective)
+Player A: Zarude-Dada fainted
+Player A: Switched out Zarude-Dada for Dragalge
+Turn 23:
+Player B: Whimsicott used U-turn on Dragalge for 35 damage
+Player B: Switched out Whimsicott for Cresselia
+Player A: Dragalge used Sludge Wave on Cresselia for 319 damage
+Turn 24:
+Player A: Switched out Dragalge for Druddigon
+Player B: Cresselia used Moonlight and healed for 161
+Turn 25:
+Player B: Switched out Cresselia for Pyukumuku
+Player A: Druddigon used Outrage on Pyukumuku for 130 damage
+Turn 26:
+Player B: Switched out Pyukumuku for Whimsicott
+Player A: Druddigon used Outrage but it had no effect on Whimsicott
+Turn 27:
+Player B: Whimsicott used Moonblast on Druddigon for 164 damage (supereffective)
+Player A: Druddigon used Glare
+Turn 28:
+Player A: Switched out Druddigon for Dragalge
+Player B: Whimsicott used Moonblast on Dragalge for 77 damage
+Turn 29:
+Player B: Switched out Whimsicott for Cresselia
+Player A: Dragalge used Draco Meteor on Cresselia for 174 damage
+Turn 30:
+Player A: Switched out Dragalge for Druddigon
+Player B: Cresselia used Moonlight and healed for 161
+Turn 31:
+Player B: Switched out Cresselia for Pyukumuku
+Player A: Druddigon used Outrage on Pyukumuku for 102 damage
+Player B: Cresselia fainted
+Player A: Druddigon fainted
+Player A: Switched out Druddigon for Dragalge
+Player B: Switched out Cresselia for Cresselia
+Turn 32:
+Player B: Cresselia used Moonlight and healed for 128
+Player A: Dragalge used Draco Meteor on Cresselia for 144 damage
+Turn 33:
+Player B: Cresselia used Psyshock on Dragalge for 95 damage (supereffective)
+Player A: Dragalge fainted

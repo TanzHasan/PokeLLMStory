@@ -1,0 +1,75 @@
+Battle start:
+Player A sent out Ninetales-Alola
+Player B sent out Sandy Shocks
+Turn 1:
+Player A: Ninetales-Alola used Blizzard on Sandy Shocks for 100 damage (supereffective)
+Player B: Sandy Shocks fainted
+Player B: Switched out Sandy Shocks for Skeledirge
+Turn 2:
+Player A: Switched out Ninetales-Alola for Slowking
+Player B: Skeledirge used Torch Song on Slowking for 11 damage
+Turn 3:
+Player B: Skeledirge used Will-O-Wisp
+Player A: Slowking used Scald on Skeledirge for 36 damage (supereffective)
+Turn 4:
+Player B: Skeledirge used Hex on Slowking for 89 damage (supereffective)
+Player A: Slowking fainted
+Player A: Switched out Slowking for Lokix
+Turn 5:
+Player B: Switched out Skeledirge for Mandibuzz
+Player A: Lokix used Knock Off on Mandibuzz and crit for 33 damage
+Turn 6:
+Player A: Switched out Lokix for Excadrill
+Player B: Mandibuzz used Toxic but it had no effect on Excadrill
+Turn 7:
+Player A: Excadrill used Swords Dance on self
+Player B: Mandibuzz used Foul Play on Excadrill for 100 damage
+Player A: Excadrill fainted
+Player A: Switched out Excadrill for Deoxys-Speed
+Turn 8:
+Player B: Switched out Mandibuzz for Skeledirge
+Turn 9:
+Player A: Deoxys-Speed used Stealth Rock on self
+Player B: Skeledirge used Will-O-Wisp on Deoxys-Speed but it missed
+Turn 10:
+Player A: Deoxys-Speed used Spikes on self
+Player B: Skeledirge used Slack Off and healed for 36
+Turn 11:
+Player A: Deoxys-Speed used Spikes on self
+Player B: Skeledirge used Torch Song on Deoxys-Speed for 46 damage
+Turn 12:
+Player A: Deoxys-Speed used Psycho Boost on Skeledirge for 38 damage
+Player B: Skeledirge used Torch Song on Deoxys-Speed for 54 damage
+Player A: Deoxys-Speed fainted
+Player A: Switched out Deoxys-Speed for Lokix
+Turn 13:
+Player B: Switched out Skeledirge for Mandibuzz
+Player A: Lokix used Knock Off on Mandibuzz for 41 damage
+Turn 14:
+Player A: Lokix used U-turn on Mandibuzz and crit for 26 damage
+Player B: Mandibuzz fainted
+Player A: Switched out Lokix for Tornadus-Therian
+Player B: Switched out Mandibuzz for Iron Leaves
+Turn 15:
+Player B: Iron Leaves used Swords Dance on self
+Player A: Tornadus-Therian used Hurricane on Iron Leaves but it missed
+Turn 16:
+Player B: Iron Leaves used Psyblade on Tornadus-Therian for 100 damage
+Player A: Tornadus-Therian fainted
+Player A: Switched out Tornadus-Therian for Lokix
+Turn 17:
+Player A: Lokix used First Impression on Iron Leaves for 94 damage
+Player B: Iron Leaves used Leaf Blade on Lokix and crit for 91 damage
+Turn 18:
+Player B: Iron Leaves used Leaf Blade on Lokix for 9 damage
+Player A: Lokix fainted
+Player A: Switched out Lokix for Ninetales-Alola
+Turn 19:
+Player B: Iron Leaves used Psyblade on Ninetales-Alola for 78 damage
+Player A: Ninetales-Alola used Freeze-Dry on Iron Leaves for 6 damage (supereffective)
+Player B: Iron Leaves fainted
+Player B: Switched out Iron Leaves for Skeledirge
+Turn 20:
+Player A: Ninetales-Alola used Blizzard on Skeledirge for 18 damage
+Player B: Skeledirge used Torch Song on Ninetales-Alola for 22 damage (supereffective)
+Player A: Ninetales-Alola fainted

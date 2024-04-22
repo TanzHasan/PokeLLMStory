@@ -1,0 +1,87 @@
+Battle start:
+Player A sent out Golem
+Player B sent out Wyrdeer
+Turn 1:
+Player B: Wyrdeer used Agility on self
+Player A: Golem used Stealth Rock on self
+Turn 2:
+Player B: Wyrdeer used Calm Mind on self
+Player A: Golem used Stone Edge on Wyrdeer for 44 damage
+Turn 3:
+Player B: Wyrdeer used Stored Power on Golem for 99 damage
+Player A: Golem used Stone Edge on Wyrdeer but it missed
+Turn 4:
+Player A: Golem used Explosion on Wyrdeer for 56 damage
+Player A: Golem fainted
+Player B: Wyrdeer fainted
+Player B: Switched out Wyrdeer for Oricorio
+Player A: Switched out Golem for Rotom-Mow
+Turn 5:
+Player A: Rotom-Mow used Volt Switch on Oricorio for 91 damage (supereffective)
+Player A: Switched out Rotom-Mow for Bronzong
+Player B: Oricorio used Defog on self
+Turn 6:
+Player B: Oricorio used Revelation Dance on Bronzong for 26 damage (supereffective)
+Player A: Bronzong used Iron Head on Oricorio for 9 damage
+Player B: Oricorio fainted
+Player B: Switched out Oricorio for Mismagius
+Turn 7:
+Player A: Switched out Bronzong for Shiftry
+Player B: Mismagius used Shadow Ball on Shiftry for 40 damage
+Turn 8:
+Player B: Switched out Mismagius for Hitmonchan
+Player A: Shiftry used Tailwind on self
+Turn 9:
+Player A: Switched out Shiftry for Braviary-Hisui
+Player B: Hitmonchan used Close Combat on Braviary-Hisui for 15 damage
+Turn 10:
+Player B: Switched out Hitmonchan for Klawf
+Player A: Braviary-Hisui used Hurricane on Klawf but it missed
+Turn 11:
+Player A: Braviary-Hisui used Psychic on Klawf for 66 damage
+Player B: Klawf used Knock Off on Braviary-Hisui for 49 damage (supereffective)
+Turn 12:
+Player B: Klawf used Stealth Rock on self
+Player A: Braviary-Hisui used Psychic on Klawf for 34 damage
+Player B: Klawf fainted
+Player B: Switched out Klawf for Hitmonchan
+Turn 13:
+Player B: Hitmonchan used Ice Punch on Braviary-Hisui for 36 damage (supereffective)
+Player A: Braviary-Hisui fainted
+Player A: Switched out Braviary-Hisui for Bronzong
+Turn 14:
+Player B: Switched out Hitmonchan for Chimecho
+Player A: Bronzong used Iron Defense on self
+Turn 15:
+Player B: Chimecho used Calm Mind on self
+Player A: Bronzong used Iron Head on Chimecho for 23 damage
+Turn 16:
+Player A: Switched out Bronzong for Shiftry
+Player B: Chimecho used Calm Mind on self
+Turn 17:
+Player A: Shiftry used Knock Off on Chimecho for 77 damage (supereffective)
+Player B: Chimecho fainted
+Player B: Switched out Chimecho for Hitmonchan
+Turn 18:
+Player B: Hitmonchan used Close Combat on Shiftry for 60 damage (supereffective)
+Player A: Shiftry fainted
+Player A: Switched out Shiftry for Rotom-Mow
+Turn 19:
+Player A: Rotom-Mow used Leaf Storm on Hitmonchan for 100 damage
+Player B: Hitmonchan fainted
+Player B: Switched out Hitmonchan for Mismagius
+Turn 20:
+Player A: Switched out Rotom-Mow for Bronzong
+Player B: Mismagius used Shadow Ball on Bronzong for 74 damage (supereffective)
+Player A: Rotom-Mow fainted
+Player A: Switched out Rotom-Mow for Quaxwell
+Turn 21:
+Player B: Mismagius used Shadow Ball on Quaxwell for 84 damage
+Player A: Quaxwell used Liquidation on Mismagius for 50 damage
+Turn 22:
+Player B: Mismagius used Shadow Ball on Quaxwell for 16 damage
+Player A: Quaxwell fainted
+Player A: Switched out Quaxwell for Rotom-Mow
+Turn 23:
+Player A: Rotom-Mow used Leaf Storm on Mismagius for 50 damage
+Player B: Mismagius fainted

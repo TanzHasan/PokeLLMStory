@@ -70,6 +70,7 @@ Player A: Jynx can't move because it is paralyzed
 Player B: Chansey used Ice Beam on Jynx for 11 damage
 Turn 22:
 Player B: Switched out Chansey for Tauros
+Player A: Jynx used Blizzard on Tauros but it missed
 Turn 23:
 Player B: Tauros used Body Slam on Jynx for 23 damage
 Player A: Jynx fainted

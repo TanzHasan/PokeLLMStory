@@ -1,0 +1,67 @@
+Battle start:
+Player A sent out Rotom-Frost
+Player B sent out Giratina
+Turn 1:
+Player B: Switched out Giratina for Heatran
+Player A: Rotom-Frost used Will-O-Wisp on self
+Turn 2:
+Player A: Rotom-Frost used Volt Switch on Heatran for 79 damage
+Player A: Switched out Rotom-Frost for Carbink
+Player B: Heatran used Stealth Rock on self
+Turn 3:
+Player B: Heatran used Flash Cannon on Carbink for 220 damage (supereffective)
+Player A: Carbink used Stealth Rock on self
+Turn 4:
+Player B: Heatran used Flash Cannon on Carbink for 16 damage (supereffective)
+Player A: Carbink fainted
+Player A: Switched out Carbink for Ambipom
+Turn 5:
+Player A: Ambipom used Low Kick on Heatran for 194 damage (supereffective)
+Player B: Heatran fainted
+Player B: Switched out Heatran for Toucannon
+Turn 6:
+Player A: Switched out Ambipom for Rotom-Frost
+Player B: Toucannon used Beak Blast on Rotom-Frost for 62 damage
+Turn 7:
+Player A: Rotom-Frost used Will-O-Wisp on Toucannon but it missed
+Player B: Toucannon used Boomburst on Rotom-Frost for 109 damage
+Turn 8:
+Player A: Rotom-Frost used Will-O-Wisp on Toucannon but it missed
+Player B: Toucannon used Boomburst on Rotom-Frost for 55 damage
+Player A: Rotom-Frost fainted
+Player A: Switched out Rotom-Frost for Frosmoth
+Turn 9:
+Player A: Frosmoth used Quiver Dance on self
+Player B: Toucannon used Beak Blast on Frosmoth for 190 damage
+Turn 10:
+Player A: Frosmoth used Tera Blast on Toucannon for 284 damage (supereffective)
+Player B: Toucannon fainted
+Player B: Switched out Toucannon for Giratina
+Turn 11:
+Player A: Frosmoth used Ice Beam on Giratina for 349 damage (supereffective)
+Player B: Giratina fainted
+Player B: Switched out Giratina for Hitmonlee
+Turn 12:
+Player A: Frosmoth used Bug Buzz on Hitmonlee for 90 damage
+Player B: Hitmonlee used Close Combat on Frosmoth for 62 damage
+Player A: Frosmoth fainted
+Player A: Switched out Frosmoth for Flapple
+Turn 13:
+Player B: Hitmonlee used Swords Dance on self
+Player A: Flapple used Grav Apple on Hitmonlee for 131 damage
+Player B: Hitmonlee fainted
+Player B: Switched out Hitmonlee for Empoleon
+Turn 14:
+Player A: Flapple used Grav Apple on Empoleon and crit for 275 damage
+Player B: Empoleon fainted
+Player B: Switched out Empoleon for Iron Jugulis
+Turn 15:
+Player B: Iron Jugulis used Fire Blast on Flapple for 178 damage
+Player A: Flapple used Grav Apple on Iron Jugulis but it missed
+Turn 16:
+Player B: Iron Jugulis used Fire Blast on Flapple for 88 damage
+Player A: Flapple fainted
+Player A: Switched out Flapple for Iron Moth
+Turn 17:
+Player A: Iron Moth used Sludge Wave on Iron Jugulis and crit for 275 damage
+Player B: Iron Jugulis fainted

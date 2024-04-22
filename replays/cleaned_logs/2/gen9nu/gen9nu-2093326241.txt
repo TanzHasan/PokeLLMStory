@@ -1,0 +1,76 @@
+Battle start:
+Player A sent out Mew
+Player B sent out Krookodile
+Turn 1:
+Player A: Mew used Stealth Rock on self
+Player B: Krookodile used Knock Off on Mew for 86 damage (supereffective)
+Turn 2:
+Player A: Mew used Earth Power on Krookodile for 33 damage
+Player B: Krookodile used Knock Off on Mew for 14 damage (supereffective)
+Player A: Mew fainted
+Player A: Switched out Mew for Cloyster
+Turn 3:
+Player B: Krookodile used Knock Off on Cloyster for 37 damage
+Player A: Cloyster used Shell Smash on self
+Turn 4:
+Player B: Switched out Krookodile for Rotom-Heat
+Player A: Cloyster used Icicle Spear on Rotom-Heat and crit for 10 damage
+Turn 5:
+Player A: Cloyster used Rock Blast on Rotom-Heat but it missed
+Player B: Rotom-Heat used Overheat on Cloyster for 63 damage
+Player A: Cloyster fainted
+Player A: Switched out Cloyster for Thundurus
+Turn 6:
+Player A: Thundurus used Nasty Plot on self
+Player B: Rotom-Heat used Pain Split on self
+Turn 7:
+Player B: Switched out Rotom-Heat for Mew
+Player A: Thundurus used Nasty Plot on self
+Turn 8:
+Player A: Thundurus used Thunderbolt on Mew for 100 damage
+Player B: Mew fainted
+Player B: Switched out Mew for Munkidori
+Turn 9:
+Player B: Munkidori used U-turn on Thundurus for 33 damage
+Player B: Switched out Munkidori for Rotom-Heat
+Player A: Thundurus used Thunderbolt on Rotom-Heat for 49 damage
+Player B: Munkidori fainted
+Player B: Switched out Munkidori for Munkidori
+Turn 10:
+Player B: Munkidori used Sludge Wave on Thundurus for 67 damage
+Player A: Thundurus fainted
+Player A: Switched out Thundurus for Overqwil
+Turn 11:
+Player B: Switched out Munkidori for Krookodile
+Player A: Overqwil used Crunch on Krookodile for 10 damage
+Turn 12:
+Player A: Overqwil used Aqua Jet on Krookodile for 17 damage (supereffective)
+Player B: Krookodile used Earthquake on Overqwil for 100 damage (supereffective)
+Player A: Overqwil fainted
+Player A: Switched out Overqwil for Lucario
+Turn 13:
+Player B: Switched out Krookodile for Cramorant
+Player A: Lucario used Close Combat on Cramorant for 45 damage
+Turn 14:
+Player A: Lucario used Extreme Speed on Cramorant for 40 damage
+Player B: Cramorant used Surf on Lucario for 69 damage
+Turn 15:
+Player A: Lucario used Extreme Speed on Cramorant for 15 damage
+Player B: Cramorant fainted
+Player B: Switched out Cramorant for Munkidori
+Turn 16:
+Player A: Lucario used Extreme Speed on Munkidori for 75 damage
+Player B: Munkidori used Psychic on Lucario for 6 damage
+Player A: Lucario fainted
+Player A: Switched out Lucario for Lycanroc-Dusk
+Turn 17:
+Player A: Lycanroc-Dusk used Sucker Punch on Munkidori for 25 damage (supereffective)
+Player B: Munkidori fainted
+Player B: Switched out Munkidori for Krookodile
+Turn 18:
+Player A: Lycanroc-Dusk used Close Combat on Krookodile for 40 damage (supereffective)
+Player B: Krookodile fainted
+Player B: Switched out Krookodile for Cacturne
+Turn 19:
+Player B: Cacturne used Sucker Punch on Lycanroc-Dusk for 100 damage
+Player A: Lycanroc-Dusk fainted

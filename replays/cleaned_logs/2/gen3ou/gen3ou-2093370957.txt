@@ -1,0 +1,57 @@
+Battle start:
+Player A sent out Gardevoir
+Player B sent out Ninjask
+Turn 1:
+Player A: Gardevoir used Psychic on self
+Turn 2:
+Player B: Ninjask used Protect on self
+Player A: Gardevoir used Will-O-Wisp on Ninjask but it missed
+Turn 3:
+Player A: Switched out Gardevoir for Metagross
+Turn 4:
+Player B: Ninjask used Protect on self
+Player A: Metagross used Earthquake on self
+Turn 5:
+Player B: Ninjask used Baton Pass on self
+Player B: Switched out Ninjask for Vaporeon
+Player A: Metagross used Agility on self
+Turn 6:
+Player B: Vaporeon used Surf on Metagross for 37 damage
+Player A: Metagross used Meteor Mash on Vaporeon but it missed
+Turn 7:
+Player B: Vaporeon used Surf on Metagross for 31 damage
+Player A: Metagross used Meteor Mash on Vaporeon but it missed
+Turn 8:
+Player B: Vaporeon used Surf on Metagross for 32 damage
+Player A: Metagross fainted
+Player A: Switched out Metagross for Swampert
+Turn 9:
+Player B: Vaporeon used Baton Pass on self
+Player B: Switched out Vaporeon for Ninjask
+Player A: Swampert used Earthquake but it had no effect on Ninjask
+Turn 10:
+Player B: Ninjask used Baton Pass on self
+Player B: Switched out Ninjask for Hariyama
+Player A: Swampert used Ice Beam on self
+Turn 11:
+Player A: Swampert used Surf on self
+Turn 12:
+Player A: Switched out Swampert for Sceptile
+Player B: Hariyama used Brick Break on Sceptile for 100 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Gardevoir
+Turn 13:
+Player B: Hariyama used Hidden Power on Gardevoir for 100 damage (supereffective)
+Player A: Gardevoir fainted
+Player A: Switched out Gardevoir for Swampert
+Turn 14:
+Player B: Hariyama used Brick Break on Swampert for 100 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Salamence
+Turn 15:
+Player B: Hariyama used Return on Salamence for 100 damage
+Player A: Salamence fainted
+Player A: Switched out Salamence for Blaziken
+Turn 16:
+Player B: Hariyama used Brick Break on Blaziken for 100 damage
+Player A: Blaziken fainted

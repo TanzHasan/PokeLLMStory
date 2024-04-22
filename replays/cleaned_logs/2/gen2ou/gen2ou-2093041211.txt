@@ -18,6 +18,7 @@ Player B: Switched out Steelix for Gengar
 Player A: Cloyster used Spikes on self
 Turn 6:
 Player A: Switched out Cloyster for Nidoking
+Player B: Gengar used Dynamic Punch on Nidoking but it missed
 Turn 7:
 Player B: Switched out Gengar for Zapdos
 Player A: Nidoking used Earthquake but it had no effect on Zapdos

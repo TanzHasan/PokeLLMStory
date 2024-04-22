@@ -3,6 +3,7 @@ Player A sent out Exeggutor
 Player B sent out Alakazam
 Turn 1:
 Player B: Alakazam used Thunder Wave
+Player A: Exeggutor used Sleep Powder on Alakazam but it missed
 Turn 2:
 Player B: Alakazam used Seismic Toss on Exeggutor for 25 damage
 Player A: Exeggutor used Sleep Powder
@@ -44,6 +45,7 @@ Turn 14:
 Player B: Switched out Alakazam for Starmie
 Player A: Gengar used Thunderbolt on Starmie for 56 damage (supereffective)
 Turn 15:
+Player B: Starmie used Psychic on Gengar but it missed
 Player A: Gengar used Thunderbolt on Starmie for 39 damage (supereffective)
 Player B: Starmie fainted
 Player B: Switched out Starmie for Zapdos
@@ -112,6 +114,7 @@ Player B: Tauros can't move because it is partially trapped
 Player A: Cloyster used Clamp on Tauros for 13 damage
 Turn 35:
 Player B: Tauros used Body Slam on Cloyster and crit for 40 damage
+Player A: Cloyster used Clamp on Tauros but it missed
 Turn 36:
 Player B: Tauros used Body Slam on Cloyster and crit for 27 damage
 Player A: Cloyster fainted
@@ -121,6 +124,7 @@ Player A: Tauros used Body Slam on Tauros for 27 damage
 Player B: Tauros used Blizzard on Tauros for 28 damage
 Turn 38:
 Player B: Tauros used Hyper Beam on Tauros for 55 damage
+Player A: Tauros used Hyper Beam on Tauros but it missed
 Turn 39:
 Player A: Tauros used Hyper Beam on Tauros for 47 damage
 Player B: Tauros fainted

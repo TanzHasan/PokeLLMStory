@@ -11,10 +11,14 @@ Turn 3:
 Player B: Switched out Jolteon for Starmie
 Player A: Exeggutor used Psychic on Starmie for 19 damage
 Turn 4:
+Player B: Starmie used Blizzard on Exeggutor but it missed
+Player A: Exeggutor used Sleep Powder on Starmie but it missed
 Turn 5:
 Player B: Starmie used Blizzard on Exeggutor and crit for 77 damage (supereffective)
+Player A: Exeggutor used Sleep Powder on Starmie but it missed
 Turn 6:
 Player A: Switched out Exeggutor for Chansey
+Player B: Starmie used Blizzard on Chansey but it missed
 Turn 7:
 Player B: Switched out Starmie for Chansey
 Player A: Chansey used Thunder Wave
@@ -55,6 +59,7 @@ Player A: Switched out Chansey for Tauros
 Player B: Chansey used Ice Beam on Tauros for 28 damage
 Turn 19:
 Player A: Switched out Tauros for Chansey
+Player B: Chansey used Sing on Chansey but it missed
 Turn 20:
 Player A: Switched out Chansey for Zapdos
 Player B: Chansey can't move because it is paralyzed
@@ -75,6 +80,7 @@ Player A: Switched out Chansey for Zapdos
 Player B: Chansey used Soft-Boiled and healed for 48
 Turn 26:
 Player A: Zapdos used Drill Peck on Chansey for 32 damage
+Player B: Chansey used Sing on Zapdos but it missed
 Turn 27:
 Player B: Switched out Chansey for Jolteon
 Player A: Zapdos used Drill Peck on Jolteon for 18 damage

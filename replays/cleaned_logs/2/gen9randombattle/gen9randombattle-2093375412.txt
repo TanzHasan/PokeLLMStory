@@ -1,0 +1,42 @@
+Battle start:
+Player A sent out Landorus
+Player B sent out Dugtrio-Alola
+Turn 1:
+Player B: Switched out Dugtrio-Alola for Jirachi
+Player A: Landorus used Focus Blast on Jirachi for 130 damage
+Turn 2:
+Player B: Jirachi used Iron Head on Landorus for 91 damage
+Player A: Landorus can't move because flinch
+Turn 3:
+Player B: Jirachi used Iron Head on Landorus for 82 damage
+Player A: Landorus can't move because flinch
+Turn 4:
+Player B: Jirachi used Iron Head on Landorus for 84 damage
+Player A: Landorus fainted
+Player A: Switched out Landorus for Chesnaught
+Turn 5:
+Player B: Jirachi used Wish on self
+Player A: Chesnaught used Trailblaze on Jirachi for -42 damage
+Turn 6:
+Player B: Switched out Jirachi for Dragalge
+Player A: Chesnaught used Iron Defense on self
+Turn 7:
+Player A: Chesnaught used Iron Defense on self
+Player B: Dragalge used Sludge Wave but it had no effect on Chesnaught
+Turn 8:
+Player A: Chesnaught used Trailblaze on Dragalge for 13 damage
+Player B: Dragalge used Hydro Pump on Chesnaught but it missed
+Turn 9:
+Player A: Chesnaught used Body Press on Dragalge for 120 damage
+Player B: Dragalge used Hydro Pump on Chesnaught for 86 damage
+Turn 10:
+Player A: Chesnaught used Body Press on Dragalge for 122 damage
+Player B: Dragalge fainted
+Player B: Switched out Dragalge for Dugtrio-Alola
+Turn 11:
+Player A: Chesnaught used Trailblaze on Dugtrio-Alola for 146 damage (supereffective)
+Player B: Dugtrio-Alola used Earthquake on Chesnaught for 80 damage (supereffective)
+Turn 12:
+Player A: Chesnaught used Synthesis and healed for 159
+Player B: Dugtrio-Alola used Earthquake on Chesnaught for 104 damage (supereffective)
+Turn 13:

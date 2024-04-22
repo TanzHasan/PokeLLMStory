@@ -1,0 +1,201 @@
+Battle start:
+Player A sent out Espeon
+Player B sent out Kilowattrel
+Turn 1:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Ice Beam on Espeon for 27 damage
+Player A: Espeon used Metronome on self
+Player A: Espeon used Bubble Beam on Kilowattrel for 22 damage
+Turn 2:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Triple Axel on Espeon for 23 damage
+Player A: Espeon used Metronome on self
+Player A: Espeon used Acid Spray on Kilowattrel for 8 damage
+Turn 3:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Volt Switch on Espeon for 28 damage
+Player A: Espeon fainted
+Player B: Switched out Kilowattrel for Alakazam
+Player A: Switched out Espeon for Lopunny
+Turn 4:
+Player A: Lopunny used Metronome on self
+Player A: Lopunny used Poison Sting on Alakazam for 5 damage
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Work Up on self
+Turn 5:
+Player A: Lopunny used Metronome on self
+Player A: Lopunny used Thunder Punch on Alakazam for 26 damage
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Reflect Type on self
+Turn 6:
+Player A: Lopunny used Metronome on self
+Player A: Lopunny used Frenzy Plant on Alakazam for 25 damage
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Aqua Cutter on Lopunny for 16 damage
+Turn 7:
+Player A: Lopunny can't move because recharge
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Crunch on Lopunny for 19 damage
+Turn 8:
+Player A: Lopunny used Metronome on self
+Player A: Lopunny used Shadow Sneak but it had no effect on Alakazam
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Tera Blast on Lopunny for 53 damage
+Turn 9:
+Player A: Lopunny used Metronome on self
+Player A: Lopunny used Razor Leaf on Alakazam for 18 damage
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Fury Cutter on Lopunny for 12 damage
+Player A: Lopunny fainted
+Player A: Switched out Lopunny for Comfey
+Turn 10:
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Tera Blast on Comfey for 65 damage
+Player A: Comfey used Metronome on self
+Player A: Comfey used Sunny Day on self
+Turn 11:
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Arm Thrust on Comfey for 2 damage
+Player A: Comfey used Metronome on self
+Player A: Comfey used Swords Dance on self
+Turn 12:
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Spite on self
+Player A: Comfey used Metronome on self
+Player A: Comfey used Magma Storm on Alakazam for 25 damage
+Turn 13:
+Player B: Alakazam used Metronome on self
+Player B: Alakazam used Fissure on Comfey for 30 damage
+Player A: Comfey fainted
+Player A: Switched out Comfey for Dragapult
+Turn 14:
+Player B: Switched out Alakazam for Exeggutor-Alola
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Poison Powder but it had no effect on Exeggutor-Alola
+Turn 15:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Acupressure on self
+Player B: Exeggutor-Alola used Metronome on self
+Player B: Exeggutor-Alola used Safeguard on self
+Turn 16:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Crabhammer on Exeggutor-Alola but it missed
+Player B: Exeggutor-Alola used Metronome on self
+Player B: Exeggutor-Alola used Brick Break but it had no effect on Dragapult
+Turn 17:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Fly on self
+Player B: Exeggutor-Alola used Metronome on self
+Player B: Exeggutor-Alola used Gigaton Hammer on Dragapult but it missed
+Turn 18:
+Player B: Switched out Exeggutor-Alola for Kilowattrel
+Player A: Dragapult used Fly on Kilowattrel for 13 damage
+Turn 19:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Defog on self
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Psychic Fangs on Kilowattrel for 26 damage
+Turn 20:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Dynamic Punch but it had no effect on Dragapult
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Cotton Guard on self
+Turn 21:
+Player B: Kilowattrel used Metronome on self
+Player B: Kilowattrel used Soak on self
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Water Shuriken on Kilowattrel for 7 damage
+Turn 22:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Superpower on Kilowattrel for 5 damage
+Player B: Kilowattrel fainted
+Player B: Switched out Kilowattrel for Volcarona
+Turn 23:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Shadow Claw on Volcarona for 16 damage
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Psychic Fangs on Dragapult but it missed
+Turn 24:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Bolt Strike on Volcarona but it missed
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Fickle Beam on Dragapult for 32 damage
+Turn 25:
+Player B: Switched out Volcarona for Swampert
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Bullet Punch on Swampert for 3 damage
+Turn 26:
+Player A: Dragapult used Metronome on self
+Player A: Dragapult used Fickle Beam on Swampert for 15 damage
+Player A: Dragapult fainted
+Player B: Swampert used Metronome on self
+Player A: Switched out Dragapult for Quilladin
+Turn 27:
+Player B: Swampert used Metronome on self
+Player B: Swampert used Steel Wing on Quilladin for 14 damage
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Taunt on self
+Turn 28:
+Player B: Switched out Swampert for Volcarona
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Facade on Volcarona for 2 damage
+Turn 29:
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Flail on Quilladin for 3 damage
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Sweet Scent on self
+Turn 30:
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Lock-On on self
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Dragon Pulse on Volcarona for -4 damage
+Turn 31:
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Sky Attack on self
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Ember on Volcarona for -2 damage
+Turn 32:
+Player A: Switched out Quilladin for Kingambit
+Player B: Volcarona used Sky Attack on Kingambit for 11 damage
+Turn 33:
+Player B: Volcarona used Metronome on self
+Player B: Volcarona used Attract on self
+Player A: Kingambit used Metronome on self
+Player A: Kingambit used Memento on self
+Player A: Kingambit fainted
+Player A: Switched out Kingambit for Quilladin
+Turn 34:
+Player B: Switched out Volcarona for Annihilape
+Player A: Quilladin used Metronome on self
+Turn 35:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Leaf Blade on Quilladin for 10 damage
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Muddy Water on Annihilape for 9 damage
+Turn 36:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Defense Curl on self
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Hyper Beam but it had no effect on Annihilape
+Turn 37:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Gravity on self
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Super Fang but it had no effect on Annihilape
+Turn 38:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Withdraw on self
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Noble Roar on self
+Turn 39:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Judgment on Quilladin for 9 damage
+Player A: Quilladin used Metronome on self
+Player A: Quilladin used Grass Pledge on Annihilape for 11 damage
+Turn 40:
+Player B: Annihilape used Metronome on self
+Player A: Quilladin used Metronome on self
+Turn 41:
+Player B: Annihilape used Metronome on self
+Player B: Annihilape used Dire Claw on Quilladin for 64 damage (supereffective)
+Player A: Quilladin fainted

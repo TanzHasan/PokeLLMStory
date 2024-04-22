@@ -1,0 +1,95 @@
+Battle start:
+Player A sent out Vespiquen
+Player B sent out Primarina
+Turn 1:
+Player B: Primarina used Hydro Pump on Vespiquen but it missed
+Player A: Vespiquen used Toxic
+Turn 2:
+Player A: Switched out Vespiquen for Eternatus
+Player B: Primarina used Hydro Pump on Eternatus for 124 damage
+Turn 3:
+Player B: Switched out Primarina for Stunfisk
+Player A: Eternatus used Recover and healed for 124
+Turn 4:
+Player A: Switched out Eternatus for Vespiquen
+Player B: Stunfisk used Earth Power but it had no effect on Vespiquen
+Turn 5:
+Player A: Vespiquen used Toxic
+Player B: Stunfisk used Discharge on Vespiquen for 122 damage (supereffective)
+Turn 6:
+Player B: Stunfisk used Discharge on Vespiquen for 110 damage (supereffective)
+Player A: Vespiquen used Roost and healed for 147
+Turn 7:
+Player A: Switched out Vespiquen for Dedenne
+Player B: Stunfisk used Discharge on Dedenne for 44 damage
+Turn 8:
+Player A: Dedenne used Protect on self
+Player B: Stunfisk used Sludge Bomb on self
+Turn 9:
+Player A: Switched out Dedenne for Vespiquen
+Player B: Stunfisk used Sludge Bomb on Vespiquen for 43 damage
+Turn 10:
+Player B: Stunfisk used Discharge on Vespiquen for 120 damage (supereffective)
+Player A: Vespiquen used Roost and healed for 147
+Player B: Stunfisk fainted
+Player B: Switched out Stunfisk for Excadrill
+Turn 11:
+Player A: Switched out Vespiquen for Eternatus
+Player B: Excadrill used Swords Dance on self
+Turn 12:
+Player A: Eternatus used Flamethrower on Excadrill for 176 damage (supereffective)
+Player B: Excadrill used Earthquake on Eternatus for 308 damage (supereffective)
+Player A: Eternatus fainted
+Player A: Switched out Eternatus for Silvally-Psychic
+Turn 13:
+Player A: Silvally-Psychic used Multi-Attack on Excadrill for 120 damage
+Player B: Excadrill fainted
+Player B: Switched out Excadrill for Shiinotic
+Turn 14:
+Player A: Silvally-Psychic used U-turn on Shiinotic for 51 damage
+Player A: Switched out Silvally-Psychic for Vespiquen
+Turn 15:
+Player B: Shiinotic used Moonblast on Vespiquen for 90 damage
+Player A: Vespiquen used Toxic
+Turn 16:
+Player B: Shiinotic used Moonblast on Vespiquen for 78 damage
+Player A: Vespiquen can't move because it is paralyzed
+Turn 17:
+Player A: Switched out Vespiquen for Dedenne
+Player B: Shiinotic used Moonblast and healed for 88
+Turn 18:
+Player A: Dedenne used Protect on self
+Player B: Shiinotic used Moonblast on self
+Turn 19:
+Player A: Switched out Dedenne for Vespiquen
+Player B: Shiinotic used Moonblast on Vespiquen for 24 damage
+Player A: Dedenne fainted
+Player A: Switched out Dedenne for Silvally-Psychic
+Turn 20:
+Player A: Silvally-Psychic used Multi-Attack on Shiinotic for 198 damage
+Player B: Shiinotic fainted
+Player B: Switched out Shiinotic for Gallade
+Turn 21:
+Player A: Switched out Silvally-Psychic for Dedenne
+Player B: Gallade used Swords Dance on self
+Turn 22:
+Player A: Dedenne used Max Lightning on Gallade for 102 damage
+Player B: Gallade used Zen Headbutt on Dedenne for 73 damage
+Turn 23:
+Player A: Dedenne used Max Lightning on Gallade for 120 damage
+Player B: Gallade fainted
+Player B: Switched out Gallade for Flapple
+Turn 24:
+Player A: Dedenne used Max Guard on self
+Player B: Flapple used Dragon Dance on self
+Turn 25:
+Player B: Flapple used Grav Apple on Dedenne for 183 damage
+Player A: Dedenne fainted
+Player A: Switched out Dedenne for Greedent
+Turn 26:
+Player B: Flapple used Dragon Dance on self
+Player A: Greedent used Body Slam on Flapple for 130 damage
+Turn 27:
+Player B: Flapple used Grav Apple and healed for 113
+Player A: Greedent used Body Slam on Flapple for 97 damage
+Player B: Flapple fainted

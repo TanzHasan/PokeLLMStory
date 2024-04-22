@@ -1,0 +1,157 @@
+Battle start:
+Player A sent out Morgrem
+Player B sent out Dunsparce
+Turn 1:
+Player A: Morgrem used Reflect on self
+Player B: Dunsparce used Glare
+Turn 2:
+Player A: Morgrem used Light Screen on self
+Player B: Dunsparce used Earth Power on Morgrem for 8 damage
+Turn 3:
+Player B: Switched out Dunsparce for Sliggoo-Hisui
+Player A: Switched out Morgrem for Servine
+Turn 4:
+Player B: Switched out Sliggoo-Hisui for Crocalor
+Player A: Servine used Glare
+Turn 5:
+Player A: Switched out Servine for Naclstack
+Player B: Crocalor can't move because it is paralyzed
+Turn 6:
+Player B: Switched out Crocalor for Hattrem
+Player A: Naclstack used Stealth Rock on self
+Player B: Crocalor used Stealth Rock on self
+Turn 7:
+Player A: Switched out Naclstack for Servine
+Player B: Hattrem used Calm Mind on self
+Turn 8:
+Player A: Servine used Leaf Storm on Hattrem but it missed
+Player B: Hattrem used Calm Mind on self
+Turn 9:
+Player A: Servine used Leaf Storm on Hattrem for 23 damage
+Player B: Hattrem used Calm Mind on self
+Turn 10:
+Player A: Servine used Leaf Storm on Hattrem for 35 damage
+Player B: Hattrem used Psychic on Servine for 100 damage
+Player A: Servine fainted
+Player A: Switched out Servine for Pikachu
+Turn 11:
+Player B: Switched out Hattrem for Crocalor
+Player A: Pikachu used Knock Off on Crocalor for 41 damage
+Turn 12:
+Player A: Pikachu used Volt Switch on Crocalor for 37 damage
+Player A: Switched out Pikachu for Naclstack
+Player B: Crocalor can't move because it is paralyzed
+Turn 13:
+Player B: Switched out Crocalor for Dunsparce
+Player A: Naclstack used Salt Cure on Dunsparce for 9 damage
+Turn 14:
+Player B: Dunsparce used Earth Power on Naclstack for 41 damage (supereffective)
+Player A: Naclstack used Salt Cure on Dunsparce for 22 damage
+Turn 15:
+Player B: Switched out Dunsparce for Crocalor
+Player A: Naclstack used Stealth Rock on self
+Turn 16:
+Player A: Naclstack used Salt Cure on Crocalor for 22 damage (supereffective)
+Player B: Crocalor fainted
+Player B: Switched out Crocalor for Thwackey
+Turn 17:
+Player B: Thwackey used Wood Hammer on Naclstack for 59 damage (supereffective)
+Player A: Naclstack fainted
+Player A: Switched out Naclstack for Morgrem
+Turn 18:
+Player B: Switched out Thwackey for Hattrem
+Player A: Morgrem used Reflect on self
+Turn 19:
+Player A: Morgrem used Light Screen on self
+Player B: Hattrem used Calm Mind on self
+Turn 20:
+Player A: Morgrem can't move because it is paralyzed
+Player B: Hattrem used Calm Mind on self
+Turn 21:
+Player A: Morgrem used Parting Shot on self
+Player B: Hattrem used Parting Shot on self
+Player B: Switched out Hattrem for Sliggoo-Hisui
+Turn 22:
+Player A: Morgrem used Parting Shot on self
+Player A: Switched out Morgrem for Meditite
+Player B: Sliggoo-Hisui used Acid Spray on Meditite for 10 damage
+Turn 23:
+Player B: Switched out Sliggoo-Hisui for Dunsparce
+Player A: Meditite used High Jump Kick on Dunsparce for 69 damage (supereffective)
+Player B: Sliggoo-Hisui fainted
+Player B: Switched out Sliggoo-Hisui for Thwackey
+Turn 24:
+Player B: Switched out Thwackey for Grovyle
+Player A: Meditite used High Jump Kick on Grovyle for 100 damage
+Player B: Thwackey fainted
+Player B: Switched out Thwackey for Hattrem
+Turn 25:
+Player A: Meditite used High Jump Kick on Hattrem but it missed
+Player B: Hattrem used Draining Kiss on Meditite for 45 damage (supereffective)
+Player B: Hattrem used Draining Kiss and healed for 14
+Turn 26:
+Player A: Meditite used High Jump Kick on Hattrem for 30 damage
+Player A: Meditite fainted
+Player A: Switched out Meditite for Pikachu
+Turn 27:
+Player B: Switched out Hattrem for Sliggoo-Hisui
+Player A: Pikachu used Knock Off on Sliggoo-Hisui for 51 damage
+Turn 28:
+Player A: Pikachu used Volt Switch on Sliggoo-Hisui for 8 damage
+Player A: Switched out Pikachu for Morgrem
+Player B: Sliggoo-Hisui used Acid Spray on Morgrem for 20 damage (supereffective)
+Turn 29:
+Player A: Morgrem used Light Screen on self
+Player B: Sliggoo-Hisui used Flash Cannon on Morgrem for 43 damage (supereffective)
+Turn 30:
+Player A: Morgrem used Reflect on self
+Player B: Sliggoo-Hisui used Rest and healed for 59
+Turn 31:
+Player B: Switched out Sliggoo-Hisui for Hattrem
+Player A: Morgrem used Parting Shot on self
+Player B: Sliggoo-Hisui used Parting Shot on self
+Player B: Switched out Sliggoo-Hisui for Thwackey
+Turn 32:
+Player B: Switched out Thwackey for Hattrem
+Player A: Morgrem used Parting Shot on self
+Player B: Thwackey used Parting Shot on self
+Player B: Switched out Thwackey for Sliggoo-Hisui
+Turn 33:
+Player A: Morgrem used Parting Shot on self
+Player A: Switched out Morgrem for Sinistea
+Player B: Sliggoo-Hisui can't move because it is asleep
+Player B: Sliggoo-Hisui used Sleep Talk on self
+Turn 34:
+Player A: Sinistea used Shell Smash on self
+Player B: Sliggoo-Hisui can't move because it is asleep
+Player B: Sliggoo-Hisui used Sleep Talk on self
+Player B: Sliggoo-Hisui used Acid Spray on Sinistea for 9 damage
+Turn 35:
+Player A: Sinistea used Shadow Ball on Sliggoo-Hisui for 65 damage
+Player B: Sliggoo-Hisui used Flash Cannon on Sinistea for 32 damage
+Turn 36:
+Player B: Switched out Sliggoo-Hisui for Hattrem
+Player B: Sliggoo-Hisui fainted
+Player B: Switched out Sliggoo-Hisui for Sliggoo-Hisui
+Turn 37:
+Player A: Sinistea used Shadow Ball on Sliggoo-Hisui for 35 damage
+Player B: Sliggoo-Hisui fainted
+Player B: Switched out Sliggoo-Hisui for Thwackey
+Turn 38:
+Player B: Thwackey used Grassy Glide on Sinistea for 59 damage
+Player A: Sinistea fainted
+Player A: Switched out Sinistea for Pikachu
+Turn 39:
+Player A: Pikachu used Fake Out on Thwackey for 81 damage
+Player B: Thwackey can't move because flinch
+Turn 40:
+Player A: Switched out Pikachu for Morgrem
+Player B: Thwackey used Grassy Glide on Morgrem for 29 damage
+Player A: Pikachu fainted
+Player A: Switched out Pikachu for Pikachu
+Turn 41:
+Player A: Pikachu used Fake Out on Thwackey for 13 damage
+Player B: Thwackey can't move because flinch
+Turn 42:
+Player B: Thwackey used Grassy Glide on Pikachu for 100 damage
+Player A: Pikachu fainted

@@ -1,0 +1,125 @@
+Battle start:
+Player A sent out Weavile
+Player B sent out Slowbro
+Turn 1:
+Player A: Weavile used Beat Up on Slowbro for 14 damage (supereffective)
+Player B: Slowbro used Body Press on Weavile and crit for 100 damage (supereffective)
+Player A: Weavile fainted
+Player A: Switched out Weavile for Ferrothorn
+Turn 2:
+Player B: Switched out Slowbro for Heatran
+Player A: Ferrothorn used Stealth Rock on self
+Turn 3:
+Player B: Heatran used Magma Storm on Ferrothorn for 100 damage (supereffective)
+Player A: Ferrothorn fainted
+Player A: Switched out Ferrothorn for Landorus-Therian
+Turn 4:
+Player B: Switched out Heatran for Landorus-Therian
+Player A: Landorus-Therian used Knock Off on Landorus-Therian for 30 damage
+Turn 5:
+Player B: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used U-turn on Landorus-Therian for 7 damage
+Player A: Switched out Landorus-Therian for Dragonite
+Turn 6:
+Player A: Dragonite used Ice Punch on Landorus-Therian for 63 damage (supereffective)
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Umbreon
+Turn 7:
+Player A: Switched out Dragonite for Melmetal
+Player B: Umbreon used Wish on self
+Turn 8:
+Player B: Switched out Umbreon for Slowbro
+Player A: Melmetal used Double Iron Bash on Slowbro for 11 damage
+Turn 9:
+Player A: Melmetal used Thunder Punch on Slowbro for -14 damage (supereffective)
+Player B: Slowbro used Scald on Melmetal for 12 damage
+Turn 10:
+Player B: Switched out Slowbro for Umbreon
+Player A: Melmetal used Thunder Punch on Umbreon for 18 damage
+Turn 11:
+Player B: Umbreon used Wish on self
+Player A: Melmetal used Double Iron Bash on Umbreon for 23 damage
+Turn 12:
+Player B: Umbreon used Foul Play on Melmetal for 30 damage
+Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
+Turn 13:
+Player B: Umbreon used Wish on self
+Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
+Turn 14:
+Player B: Umbreon used Protect on self
+Player A: Melmetal used Ice Punch on self
+Turn 15:
+Player B: Umbreon used Wish on self
+Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
+Turn 16:
+Player B: Umbreon used Protect on self
+Player A: Melmetal used Double Iron Bash on self
+Turn 17:
+Player B: Switched out Umbreon for Heatran
+Player A: Melmetal used Double Iron Bash on Heatran for 9 damage
+Turn 18:
+Player A: Switched out Melmetal for Landorus-Therian
+Player B: Heatran used Magma Storm on Landorus-Therian but it missed
+Turn 19:
+Player B: Switched out Heatran for Slowbro
+Player A: Landorus-Therian used Earthquake on Slowbro for -3 damage
+Turn 20:
+Player A: Landorus-Therian used U-turn on Slowbro for 26 damage (supereffective)
+Player A: Switched out Landorus-Therian for Tapu Koko
+Player B: Slowbro used Slack Off and healed for 50
+Turn 21:
+Player B: Switched out Slowbro for Heatran
+Player A: Tapu Koko used Calm Mind on self
+Turn 22:
+Player A: Tapu Koko used Thunderbolt on Heatran for 33 damage
+Player B: Heatran used Magma Storm on Tapu Koko for 43 damage
+Turn 23:
+Player A: Tapu Koko used Roost and healed for 38
+Player B: Heatran used Earth Power on Tapu Koko for 57 damage (supereffective)
+Turn 24:
+Player A: Tapu Koko used Thunderbolt on Heatran for 34 damage
+Player B: Heatran used Earth Power on Tapu Koko for 38 damage (supereffective)
+Player A: Tapu Koko fainted
+Player A: Switched out Tapu Koko for Landorus-Therian
+Turn 25:
+Player B: Switched out Heatran for Slowbro
+Player A: Landorus-Therian used U-turn on Slowbro for -6 damage (supereffective)
+Player A: Switched out Landorus-Therian for Melmetal
+Turn 26:
+Player A: Melmetal used Double Iron Bash on Slowbro for 12 damage
+Player B: Slowbro used Scald on Melmetal for 14 damage
+Turn 27:
+Player A: Switched out Melmetal for Dragonite
+Player B: Slowbro used Slack Off and healed for 51
+Turn 28:
+Player A: Dragonite used Dragon Dance on self
+Player B: Slowbro used Teleport on self
+Player B: Switched out Slowbro for Umbreon
+Turn 29:
+Player A: Dragonite used Ice Punch on Umbreon for -38 damage
+Player B: Umbreon used Foul Play on Dragonite for 30 damage
+Turn 30:
+Player A: Dragonite used Ice Punch on Umbreon for 17 damage
+Player B: Umbreon used Foul Play on Dragonite for 61 damage
+Turn 31:
+Player A: Dragonite used Ice Punch on Umbreon for 17 damage
+Player B: Umbreon used Foul Play on Dragonite for 9 damage
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Landorus-Therian
+Turn 32:
+Player A: Landorus-Therian used Earthquake on Umbreon for 22 damage
+Player B: Umbreon used Wish on self
+Turn 33:
+Player B: Switched out Umbreon for Kartana
+Player A: Landorus-Therian used Earthquake on Kartana for 53 damage
+Turn 34:
+Player B: Kartana used Leaf Blade on Landorus-Therian for 59 damage
+Player A: Landorus-Therian used Earthquake on Kartana for 0 damage
+Turn 35:
+Player B: Kartana used Leaf Blade on Landorus-Therian for 41 damage
+Player A: Landorus-Therian fainted
+Player A: Switched out Landorus-Therian for Melmetal
+Turn 36:
+Player B: Kartana used Leaf Blade on Melmetal and crit for 42 damage
+Player A: Melmetal used Superpower on Kartana for 40 damage (supereffective)
+Player A: Melmetal fainted

@@ -1,0 +1,95 @@
+Battle start:
+Player A sent out Hitmonlee
+Player B sent out Excadrill
+Turn 1:
+Player A: Hitmonlee used Fake Out on Excadrill for 12 damage
+Player B: Excadrill can't move because flinch
+Turn 2:
+Player A: Hitmonlee used High Jump Kick on Excadrill and crit for 88 damage (supereffective)
+Player B: Excadrill fainted
+Player B: Switched out Excadrill for Corviknight
+Turn 3:
+Player A: Hitmonlee used High Jump Kick on Corviknight for 43 damage
+Player B: Corviknight used Body Press on Hitmonlee for 56 damage
+Turn 4:
+Player A: Hitmonlee used Rock Slide on Corviknight for 10 damage
+Player B: Corviknight used Body Press on Hitmonlee for 44 damage
+Player A: Hitmonlee fainted
+Player A: Switched out Hitmonlee for Infernape
+Turn 5:
+Player A: Infernape used Overheat on Corviknight but it missed
+Player B: Corviknight used Roost and healed for 53
+Turn 6:
+Player A: Infernape used Blast Burn on Corviknight for 100 damage (supereffective)
+Player B: Corviknight fainted
+Player B: Switched out Corviknight for Heatran
+Turn 7:
+Player A: Infernape can't move because recharge
+Player B: Heatran used Earth Power on Infernape for 99 damage (supereffective)
+Turn 8:
+Player A: Switched out Infernape for Tauros-Paldea-Aqua
+Player B: Heatran used Earth Power on Tauros-Paldea-Aqua for 38 damage
+Turn 9:
+Player B: Switched out Heatran for Goodra-Hisui
+Player A: Tauros-Paldea-Aqua used Earthquake on Goodra-Hisui for 85 damage (supereffective)
+Turn 10:
+Player B: Goodra-Hisui used Protect on self
+Player A: Tauros-Paldea-Aqua used Earthquake on self
+Turn 11:
+Player A: Tauros-Paldea-Aqua used Earthquake on Goodra-Hisui for 15 damage (supereffective)
+Player B: Goodra-Hisui fainted
+Player B: Switched out Goodra-Hisui for Gholdengo
+Turn 12:
+Player A: Tauros-Paldea-Aqua used Aqua Jet on Gholdengo for 32 damage
+Player B: Gholdengo used Nasty Plot on self
+Turn 13:
+Player A: Tauros-Paldea-Aqua used Aqua Jet on Gholdengo for 32 damage
+Player B: Gholdengo used Focus Blast on Tauros-Paldea-Aqua for 23 damage
+Player A: Tauros-Paldea-Aqua fainted
+Player A: Switched out Tauros-Paldea-Aqua for Iron Valiant
+Turn 14:
+Player A: Iron Valiant used Psychic on Gholdengo and crit for 36 damage
+Player B: Gholdengo fainted
+Player B: Switched out Gholdengo for Heatran
+Turn 15:
+Player A: Iron Valiant used Psychic on Heatran for 23 damage
+Player B: Heatran used Flash Cannon on Iron Valiant for 100 damage (supereffective)
+Player A: Iron Valiant fainted
+Player A: Switched out Iron Valiant for Breloom
+Turn 16:
+Player A: Breloom used Mach Punch on Heatran for 52 damage (supereffective)
+Player B: Heatran used Magma Storm on Breloom but it missed
+Turn 17:
+Player A: Breloom used Mach Punch on Heatran for 25 damage (supereffective)
+Player B: Heatran fainted
+Player B: Switched out Heatran for Cobalion
+Turn 18:
+Player B: Cobalion used Iron Defense on self
+Player A: Breloom used Spore
+Turn 19:
+Player A: Breloom used Mach Punch on Cobalion for 24 damage (supereffective)
+Player B: Cobalion can't move because it is asleep
+Turn 20:
+Player A: Breloom used Mach Punch on Cobalion for 15 damage (supereffective)
+Player B: Cobalion can't move because it is asleep
+Turn 21:
+Player A: Breloom used Mach Punch on Cobalion for 16 damage (supereffective)
+Player B: Cobalion used Iron Defense on self
+Turn 22:
+Player B: Cobalion used Body Press on Breloom for 100 damage
+Player A: Breloom fainted
+Player A: Switched out Breloom for Infernape
+Turn 23:
+Player B: Cobalion used Body Press on Infernape for 1 damage
+Player A: Infernape fainted
+Player A: Switched out Infernape for Iron Hands
+Turn 24:
+Player A: Iron Hands used Fake Out on Cobalion and crit for -11 damage
+Player B: Cobalion can't move because flinch
+Turn 25:
+Player B: Cobalion used Body Press on Iron Hands for 88 damage
+Player A: Iron Hands used Drain Punch on Cobalion for 16 damage (supereffective)
+Player A: Iron Hands used Drain Punch and healed for 8
+Turn 26:
+Player B: Cobalion used Body Press on Iron Hands for 20 damage
+Player A: Iron Hands fainted

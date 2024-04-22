@@ -1,0 +1,137 @@
+Battle start:
+Player A sent out Tauros
+Player B sent out Zapdos
+Turn 1:
+Player B: Switched out Zapdos for Skarmory
+Player A: Tauros used Return on Skarmory for 24 damage
+Turn 2:
+Player A: Switched out Tauros for Magneton
+Player B: Skarmory used Spikes on self
+Turn 3:
+Player B: Skarmory used Protect on self
+Player A: Magneton used Thunderbolt on self
+Turn 4:
+Player A: Magneton used Thunderbolt on Skarmory for 70 damage (supereffective)
+Player B: Skarmory used Torment on self
+Turn 5:
+Player A: Magneton used Thunder Wave
+Player B: Skarmory used Spikes on self
+Turn 6:
+Player A: Magneton used Thunderbolt on Skarmory for 6 damage (supereffective)
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Dugtrio
+Turn 7:
+Player A: Magneton used Endure on self
+Player B: Dugtrio used Sand Attack on self
+Turn 8:
+Player A: Magneton used Hidden Power
+Turn 9:
+Player A: Magneton used Endure on self
+Player B: Dugtrio used Sand Attack on self
+Turn 10:
+Player B: Dugtrio used Sand Attack on self
+Player A: Magneton used Hidden Power on Dugtrio but it missed
+Turn 11:
+Player A: Magneton used Endure on self
+Player B: Dugtrio used Sand Attack on self
+Turn 12:
+Player B: Dugtrio used Sand Attack on self
+Player A: Magneton used Hidden Power on Dugtrio for 76 damage (supereffective)
+Player B: Dugtrio fainted
+Player B: Switched out Dugtrio for Gardevoir
+Turn 13:
+Turn 14:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Thunderbolt on Gardevoir but it missed
+Turn 15:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Hidden Power on Gardevoir but it missed
+Turn 16:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Thunderbolt on Gardevoir but it missed
+Turn 17:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Hidden Power on self
+Turn 18:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Thunderbolt on self
+Turn 19:
+Player B: Gardevoir used Calm Mind on self
+Player A: Magneton used Hidden Power on Gardevoir but it missed
+Turn 20:
+Player B: Gardevoir used Psychic on Magneton for 100 damage
+Player A: Magneton fainted
+Player A: Switched out Magneton for Dugtrio
+Turn 21:
+Player A: Dugtrio used Earthquake on self
+Player B: Gardevoir used Psychic on Dugtrio for 100 damage
+Player A: Dugtrio fainted
+Player A: Switched out Dugtrio for Tauros
+Turn 22:
+Player B: Switched out Gardevoir for Flygon
+Player A: Tauros used Return on Flygon for 50 damage
+Turn 23:
+Player B: Flygon used Protect on self
+Player A: Tauros used Return on self
+Turn 24:
+Player A: Tauros used Return on Flygon for 39 damage
+Player B: Flygon used Toxic
+Turn 25:
+Player A: Switched out Tauros for Kingdra
+Turn 26:
+Player B: Flygon used Toxic
+Player A: Kingdra used Rain Dance on self
+Turn 27:
+Player B: Flygon used Protect on self
+Player A: Kingdra used Surf on self
+Turn 28:
+Player B: Switched out Flygon for Blissey
+Player A: Kingdra used Surf on Blissey for 27 damage
+Turn 29:
+Player A: Switched out Kingdra for Tauros
+Player B: Blissey used Calm Mind on self
+Turn 30:
+Player B: Switched out Blissey for Flygon
+Player A: Tauros used Return on Flygon for 11 damage
+Player B: Blissey fainted
+Player B: Switched out Blissey for Gardevoir
+Turn 31:
+Player A: Tauros used Return on Gardevoir for 76 damage
+Player B: Gardevoir fainted
+Player B: Switched out Gardevoir for Blissey
+Turn 32:
+Player A: Tauros used Return on Blissey for 47 damage
+Player B: Blissey used Soft-Boiled and healed for 49
+Player A: Tauros fainted
+Player A: Switched out Tauros for Smeargle
+Turn 33:
+Player B: Blissey used Ice Beam on self
+Turn 34:
+Player A: Smeargle used Spore
+Player B: Blissey can't move because it is asleep
+Turn 35:
+Player B: Switched out Blissey for Zapdos
+Player A: Smeargle used Spore
+Turn 36:
+Player B: Zapdos can't move because it is asleep
+Turn 37:
+Player B: Zapdos can't move because it is asleep
+Turn 38:
+Player A: Smeargle used Baton Pass on self
+Player A: Switched out Smeargle for Aerodactyl
+Player B: Zapdos used Roar on self
+Player A: Smeargle fainted
+Player A: Switched out Smeargle for Aerodactyl
+Turn 39:
+Player A: Aerodactyl used Rock Slide on Zapdos for 79 damage (supereffective)
+Player B: Zapdos used Thunderbolt on Aerodactyl for 100 damage (supereffective)
+Player A: Aerodactyl fainted
+Player A: Switched out Aerodactyl for Kingdra
+Turn 40:
+Player B: Zapdos used Thunderbolt on Kingdra for 84 damage
+Player A: Kingdra used Rain Dance on self
+Turn 41:
+Player A: Kingdra used Surf on Zapdos for 21 damage
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Blissey
+Player A: Kingdra fainted

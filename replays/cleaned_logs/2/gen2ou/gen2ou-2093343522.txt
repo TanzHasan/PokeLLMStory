@@ -74,6 +74,8 @@ Player A: Exeggutor fainted
 Player A: Switched out Exeggutor for Golem
 Turn 21:
 Player B: Skarmory used Toxic
+Player A: Golem used Fire Blast on Skarmory but it missed
 Turn 22:
+Player A: Golem used Fire Blast on Skarmory but it missed
 Player B: Skarmory used Whirlwind on self
 Turn 23:

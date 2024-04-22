@@ -1,0 +1,91 @@
+Battle start:
+Player A sent out Ninetales
+Player B sent out Overqwil
+Turn 1:
+Player A: Ninetales used Will-O-Wisp
+Player B: Overqwil used Barb Barrage on Ninetales for 28 damage
+Turn 2:
+Player A: Switched out Ninetales for Venusaur
+Player B: Switched out Overqwil for Slowbro-Galar
+Turn 3:
+Player A: Venusaur used Growth on self
+Player B: Slowbro-Galar used Trick Room on self
+Turn 4:
+Player B: Slowbro-Galar used Shell Side Arm on Venusaur and crit for 65 damage
+Player A: Venusaur used Earth Power on Slowbro-Galar for 100 damage (supereffective)
+Player B: Slowbro-Galar fainted
+Player B: Switched out Slowbro-Galar for Dragalge
+Turn 5:
+Player B: Dragalge used Draco Meteor on Venusaur for 35 damage
+Player A: Venusaur fainted
+Player A: Switched out Venusaur for Brute Bonnet
+Turn 6:
+Player B: Dragalge used Draco Meteor on Brute Bonnet for 33 damage
+Player A: Brute Bonnet used Crunch on Dragalge for 72 damage
+Turn 7:
+Player B: Switched out Dragalge for Quagsire
+Turn 8:
+Player A: Brute Bonnet used Crunch on Quagsire for 47 damage
+Player B: Quagsire used Toxic Spikes on self
+Turn 9:
+Player A: Switched out Brute Bonnet for Ninetales
+Player B: Quagsire used Toxic Spikes on self
+Turn 10:
+Player A: Ninetales used Encore on self
+Turn 11:
+Player A: Switched out Ninetales for Typhlosion-Hisui
+Player B: Switched out Quagsire for Lapras
+Turn 12:
+Player A: Typhlosion-Hisui used Eruption on Lapras for 67 damage
+Player B: Lapras used Rain Dance on self
+Turn 13:
+Player A: Typhlosion-Hisui used Focus Blast on Lapras but it missed
+Player B: Lapras used Rest and healed for 67
+Turn 14:
+Player A: Switched out Typhlosion-Hisui for Ninetales
+Player B: Lapras used Brine on Ninetales for 72 damage (supereffective)
+Player A: Typhlosion-Hisui fainted
+Player A: Switched out Typhlosion-Hisui for Typhlosion-Hisui
+Turn 15:
+Player A: Typhlosion-Hisui used Focus Blast on Lapras for 69 damage (supereffective)
+Player B: Lapras used Rain Dance on self
+Turn 16:
+Player B: Switched out Lapras for Overqwil
+Player A: Typhlosion-Hisui used Eruption on Overqwil for 61 damage
+Turn 17:
+Player B: Overqwil used Liquidation on Typhlosion-Hisui for 75 damage
+Player A: Typhlosion-Hisui used Eruption on Overqwil for 12 damage
+Turn 18:
+Player B: Overqwil used Liquidation on Typhlosion-Hisui for 25 damage
+Player A: Typhlosion-Hisui fainted
+Player A: Switched out Typhlosion-Hisui for Brute Bonnet
+Turn 19:
+Player B: Switched out Overqwil for Dragalge
+Turn 20:
+Player B: Switched out Dragalge for Quagsire
+Player A: Brute Bonnet used Crunch on Quagsire for 35 damage
+Turn 21:
+Player A: Brute Bonnet used Crunch on Quagsire for 18 damage
+Player B: Quagsire fainted
+Player A: Brute Bonnet fainted
+Player A: Switched out Brute Bonnet for Espeon
+Player B: Switched out Quagsire for Overqwil
+Turn 22:
+Player B: Overqwil used Barb Barrage on Espeon for 66 damage
+Player A: Switched out Espeon for Infernape
+Turn 23:
+Player A: Infernape used Close Combat on Overqwil for 27 damage
+Player B: Overqwil fainted
+Player B: Switched out Overqwil for Kingdra
+Turn 24:
+Player A: Infernape used Close Combat on Kingdra for 59 damage
+Player B: Kingdra used Agility on self
+Turn 25:
+Player A: Switched out Infernape for Espeon
+Player B: Kingdra used Surf on Espeon and crit for 34 damage
+Player A: Infernape fainted
+Player A: Switched out Infernape for Infernape
+Turn 26:
+Player A: Infernape used Mach Punch on Kingdra for 26 damage
+Player B: Kingdra used Surf on Infernape for 100 damage (supereffective)
+Player A: Infernape fainted

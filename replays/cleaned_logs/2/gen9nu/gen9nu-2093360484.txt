@@ -1,0 +1,84 @@
+Battle start:
+Player A sent out Infernape
+Player B sent out Muk-Alola
+Turn 1:
+Player A: Infernape used Stealth Rock on self
+Player B: Muk-Alola used Poison Jab on Infernape for 61 damage
+Turn 2:
+Player A: Infernape used Endeavor on Muk-Alola for 67 damage
+Player B: Muk-Alola used Poison Jab on Infernape and crit for 39 damage
+Player A: Infernape fainted
+Player A: Switched out Infernape for Minior
+Turn 3:
+Player A: Minior used Earthquake on Muk-Alola for 33 damage (supereffective)
+Player B: Muk-Alola fainted
+Player B: Switched out Muk-Alola for Rhyperior
+Turn 4:
+Player A: Switched out Minior for Shaymin
+Player B: Rhyperior used Stealth Rock on self
+Turn 5:
+Player B: Switched out Rhyperior for Altaria
+Player A: Shaymin used Seed Flare on Altaria but it missed
+Turn 6:
+Player A: Shaymin used Seed Flare on Altaria for 11 damage
+Player B: Altaria used Brave Bird on Shaymin for 66 damage (supereffective)
+Turn 7:
+Player B: Switched out Altaria for Slowbro
+Player A: Shaymin used Seed Flare on Slowbro for 61 damage (supereffective)
+Turn 8:
+Player B: Switched out Slowbro for Altaria
+Player A: Shaymin used Seed Flare on Altaria for 13 damage
+Turn 9:
+Player A: Switched out Shaymin for Grimmsnarl
+Player B: Altaria used Roost and healed for 46
+Turn 10:
+Player B: Altaria used Will-O-Wisp
+Player A: Grimmsnarl used Spirit Break on Altaria for 20 damage (supereffective)
+Turn 11:
+Player B: Switched out Altaria for Rhyperior
+Player A: Grimmsnarl used Reflect on self
+Turn 12:
+Player A: Grimmsnarl used Light Screen on self
+Player B: Rhyperior used Iron Defense on self
+Turn 13:
+Player A: Grimmsnarl used Parting Shot on self
+Player A: Switched out Grimmsnarl for Shaymin
+Player B: Rhyperior used Body Press on Shaymin for 34 damage
+Player A: Grimmsnarl fainted
+Player A: Switched out Grimmsnarl for Mew
+Turn 14:
+Player B: Switched out Rhyperior for Sylveon
+Player A: Mew used Nasty Plot on self
+Turn 15:
+Player A: Mew used Psyshock on Sylveon for 67 damage
+Player B: Sylveon used Roar on self
+Turn 16:
+Player B: Switched out Sylveon for Arcanine
+Player A: Mew used Defog on self
+Turn 17:
+Player A: Switched out Mew for Grimmsnarl
+Player B: Arcanine used Curse on self
+Turn 18:
+Player A: Grimmsnarl used Reflect on self
+Player B: Arcanine used Curse on self
+Turn 19:
+Player A: Grimmsnarl used Parting Shot on self
+Player A: Switched out Grimmsnarl for Minior
+Player B: Arcanine used Curse on self
+Turn 20:
+Player A: Minior used Shell Smash on self
+Player B: Arcanine used Curse on self
+Turn 21:
+Player A: Minior used Rock Slide on Arcanine for 39 damage (supereffective)
+Player B: Arcanine used Curse on self
+Turn 22:
+Player A: Minior used Earthquake on Arcanine for 14 damage
+Player B: Arcanine used Morning Sun and healed for 50
+Turn 23:
+Player A: Minior used Shell Smash on self
+Player B: Arcanine used Flare Blitz on Minior for 100 damage
+Player A: Minior fainted
+Player A: Switched out Minior for Talonflame
+Turn 24:
+Player B: Arcanine used Extreme Speed on Talonflame for 100 damage
+Player A: Talonflame fainted

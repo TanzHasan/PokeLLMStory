@@ -1,0 +1,285 @@
+Battle start:
+Player A sent out Iron Bundle
+Player B sent out Registeel
+Turn 1:
+Player A: Iron Bundle used Flip Turn on Registeel for 9 damage
+Player A: Switched out Iron Bundle for Excadrill
+Player B: Registeel used Stealth Rock on self
+Turn 2:
+Player B: Switched out Registeel for Sinistcha
+Player A: Excadrill used Shadow Claw on Sinistcha for 36 damage (supereffective)
+Turn 3:
+Player A: Switched out Excadrill for Moltres
+Player B: Sinistcha used Strength Sap and healed for 36
+Turn 4:
+Player B: Switched out Sinistcha for Zapdos
+Player A: Moltres used Air Slash on Zapdos for 15 damage
+Turn 5:
+Player A: Switched out Moltres for Excadrill
+Player B: Zapdos used Volt Switch but it had no effect on Excadrill
+Turn 6:
+Player B: Switched out Zapdos for Sinistcha
+Player A: Excadrill used Rapid Spin but it had no effect on Sinistcha
+Turn 7:
+Player A: Switched out Excadrill for Moltres
+Player B: Sinistcha used Calm Mind on self
+Turn 8:
+Player A: Moltres used Air Slash on Sinistcha for 52 damage (supereffective)
+Player B: Sinistcha can't move because flinch
+Turn 9:
+Player B: Switched out Sinistcha for Zapdos
+Player A: Moltres used Air Slash on Zapdos for 15 damage
+Turn 10:
+Player A: Switched out Moltres for Excadrill
+Player B: Zapdos used Heat Wave on Excadrill for 72 damage (supereffective)
+Turn 11:
+Player A: Switched out Excadrill for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 9 damage
+Turn 12:
+Player B: Zapdos used Roost and healed for 30
+Player A: Blissey used Stealth Rock on self
+Turn 13:
+Player B: Zapdos used Volt Switch on Blissey for 11 damage
+Player B: Switched out Zapdos for Sinistcha
+Player A: Blissey used Ice Beam on Sinistcha and crit for 48 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Garchomp
+Turn 14:
+Player A: Switched out Blissey for Dondozo
+Player B: Garchomp used Swords Dance on self
+Turn 15:
+Player B: Switched out Garchomp for Regieleki
+Player A: Dondozo used Liquidation on Regieleki for 73 damage
+Turn 16:
+Player A: Switched out Dondozo for Excadrill
+Player B: Regieleki used Thunderbolt but it had no effect on Excadrill
+Turn 17:
+Player B: Switched out Regieleki for Zapdos
+Player A: Excadrill used Rapid Spin on Zapdos for 12 damage
+Turn 18:
+Player A: Switched out Excadrill for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 10 damage
+Turn 19:
+Player B: Switched out Zapdos for Registeel
+Player A: Blissey used Soft-Boiled and healed for 30
+Turn 20:
+Player A: Switched out Blissey for Dondozo
+Player B: Registeel used Stealth Rock on self
+Turn 21:
+Player B: Switched out Registeel for Zapdos
+Player A: Dondozo used Body Press on Zapdos for 10 damage
+Turn 22:
+Player A: Switched out Dondozo for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 8 damage
+Turn 23:
+Player B: Zapdos used Roost and healed for 22
+Player A: Blissey used Seismic Toss on Zapdos for 26 damage
+Turn 24:
+Player B: Zapdos used Volt Switch on Blissey for 11 damage
+Player B: Switched out Zapdos for Registeel
+Player A: Blissey used Seismic Toss on Registeel for 24 damage
+Turn 25:
+Player A: Switched out Blissey for Dondozo
+Player B: Switched out Registeel for Zapdos
+Turn 26:
+Player A: Switched out Dondozo for Blissey
+Player B: Zapdos used Volt Switch on Blissey for 12 damage
+Player B: Switched out Zapdos for Garchomp
+Turn 27:
+Player A: Switched out Blissey for Dondozo
+Player B: Garchomp used Earthquake on Dondozo for 42 damage
+Turn 28:
+Player B: Switched out Garchomp for Zapdos
+Player A: Dondozo used Rest and healed for 42
+Turn 29:
+Player A: Switched out Dondozo for Blissey
+Player B: Zapdos used Volt Switch on Blissey for 11 damage
+Player B: Switched out Zapdos for Garchomp
+Turn 30:
+Player A: Switched out Blissey for Dondozo
+Player B: Garchomp used Earthquake on Dondozo for 37 damage
+Turn 31:
+Player B: Switched out Garchomp for Zapdos
+Player A: Switched out Dondozo for Moltres
+Turn 32:
+Player A: Switched out Moltres for Excadrill
+Player B: Zapdos used Roost and healed for 26
+Turn 33:
+Player A: Switched out Excadrill for Gouging Fire
+Player B: Zapdos used Heat Wave on Gouging Fire for 31 damage
+Turn 34:
+Player A: Gouging Fire used Flare Blitz on Zapdos for 39 damage
+Player B: Zapdos used Volt Switch on Gouging Fire for 16 damage
+Player B: Switched out Zapdos for Registeel
+Turn 35:
+Player A: Gouging Fire used Morning Sun and healed for 55
+Player B: Registeel used Iron Defense on self
+Turn 36:
+Player A: Switched out Gouging Fire for Dondozo
+Player B: Registeel used Iron Defense on self
+Turn 37:
+Player B: Switched out Registeel for Darkrai
+Player A: Dondozo can't move because it is asleep
+Player A: Dondozo used Sleep Talk on self
+Player A: Dondozo used Liquidation on Darkrai for 51 damage
+Turn 38:
+Player B: Darkrai used Dark Pulse on Dondozo for 58 damage
+Player A: Dondozo can't move because it is asleep
+Player A: Dondozo can't move because flinch
+Player A: Dondozo fainted
+Player A: Switched out Dondozo for Blissey
+Turn 39:
+Player B: Switched out Darkrai for Registeel
+Player A: Blissey used Soft-Boiled and healed for 42
+Turn 40:
+Player A: Switched out Blissey for Moltres
+Player B: Registeel used Iron Defense on self
+Turn 41:
+Player A: Moltres used Will-O-Wisp
+Player B: Registeel used Iron Defense on self
+Turn 42:
+Player A: Moltres used Air Slash on Registeel for -1 damage
+Player B: Registeel can't move because flinch
+Turn 43:
+Player B: Switched out Registeel for Zapdos
+Player A: Moltres used Air Slash on Zapdos for 17 damage
+Turn 44:
+Player A: Switched out Moltres for Blissey
+Player B: Zapdos used Roost and healed for 50
+Turn 45:
+Player B: Zapdos used Discharge on Blissey and crit for 20 damage
+Player A: Blissey used Seismic Toss on Zapdos for 26 damage
+Turn 46:
+Player B: Zapdos used Discharge on Blissey for 11 damage
+Player A: Blissey used Seismic Toss on Zapdos for 26 damage
+Turn 47:
+Player B: Zapdos used Roost and healed for 50
+Player A: Blissey used Ice Beam on Zapdos for 15 damage
+Turn 48:
+Player B: Zapdos used Heat Wave on Blissey for 10 damage
+Player A: Blissey used Soft-Boiled and healed for 41
+Turn 49:
+Player B: Zapdos used Discharge on Blissey for 12 damage
+Player A: Blissey can't move because it is paralyzed
+Turn 50:
+Player B: Zapdos used Discharge on Blissey for 11 damage
+Player A: Blissey can't move because it is paralyzed
+Turn 51:
+Player B: Zapdos used Discharge on Blissey for 12 damage
+Player A: Blissey used Ice Beam on Zapdos for 34 damage (supereffective)
+Turn 52:
+Player B: Zapdos used Roost and healed for 50
+Player A: Blissey used Soft-Boiled and healed for 35
+Turn 53:
+Player B: Zapdos used Volt Switch on Blissey for 11 damage
+Player B: Switched out Zapdos for Registeel
+Player A: Blissey used Ice Beam on Registeel for 17 damage
+Turn 54:
+Player B: Registeel used Iron Defense on self
+Player A: Blissey can't move because it is paralyzed
+Turn 55:
+Player A: Switched out Blissey for Moltres
+Player B: Registeel used Body Press on Moltres for 13 damage
+Turn 56:
+Player B: Switched out Registeel for Zapdos
+Player A: Moltres used Air Slash on Zapdos for 16 damage
+Turn 57:
+Player A: Switched out Moltres for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 9 damage
+Turn 58:
+Player B: Zapdos used Discharge on Blissey for 13 damage
+Player A: Blissey used Ice Beam on Zapdos for 31 damage (supereffective)
+Turn 59:
+Player B: Zapdos used Roost and healed for 50
+Player A: Blissey used Soft-Boiled and healed for 33
+Turn 60:
+Player B: Zapdos used Discharge on Blissey for 11 damage
+Player A: Blissey used Ice Beam on Zapdos for 33 damage (supereffective)
+Turn 61:
+Player A: Switched out Blissey for Excadrill
+Player B: Zapdos can't move because it is frozen
+Turn 62:
+Player A: Excadrill used Rapid Spin on Zapdos for 14 damage
+Player B: Zapdos can't move because it is frozen
+Turn 63:
+Player A: Excadrill used Rock Slide on Zapdos for 36 damage (supereffective)
+Player B: Zapdos used Roost and healed for 50
+Turn 64:
+Player A: Switched out Excadrill for Blissey
+Player B: Zapdos used Volt Switch on Blissey for 10 damage
+Player B: Switched out Zapdos for Garchomp
+Turn 65:
+Player A: Switched out Blissey for Iron Bundle
+Player B: Garchomp used Swords Dance on self
+Turn 66:
+Player B: Switched out Garchomp for Registeel
+Player A: Iron Bundle used Freeze-Dry on Registeel for 47 damage (supereffective)
+Turn 67:
+Player A: Iron Bundle used Freeze-Dry on Registeel for 4 damage (supereffective)
+Player B: Registeel fainted
+Player B: Switched out Registeel for Regieleki
+Turn 68:
+Player A: Switched out Iron Bundle for Excadrill
+Player B: Regieleki used Rapid Spin on Excadrill for -26 damage
+Turn 69:
+Player B: Switched out Regieleki for Zapdos
+Player A: Excadrill used Rock Slide on Zapdos for 38 damage (supereffective)
+Turn 70:
+Player A: Switched out Excadrill for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 10 damage
+Turn 71:
+Player B: Zapdos used Discharge on Blissey for 12 damage
+Player A: Blissey used Soft-Boiled and healed for 43
+Turn 72:
+Player A: Switched out Blissey for Gouging Fire
+Player B: Zapdos used Volt Switch on Gouging Fire for 14 damage
+Player B: Switched out Zapdos for Garchomp
+Turn 73:
+Player B: Garchomp used Scale Shot on Gouging Fire for 2 damage (supereffective)
+Player A: Gouging Fire fainted
+Player A: Switched out Gouging Fire for Moltres
+Turn 74:
+Player B: Garchomp used Scale Shot on Moltres for 13 damage
+Player A: Moltres used Will-O-Wisp
+Turn 75:
+Player B: Garchomp used Swords Dance on self
+Player A: Moltres used Roost and healed for 50
+Turn 76:
+Player B: Garchomp used Swords Dance on self
+Player A: Moltres used Air Slash on Garchomp for 73 damage
+Turn 77:
+Player B: Garchomp used Scale Shot on Moltres for 20 damage
+Player A: Moltres used Air Slash on Garchomp for 27 damage
+Player B: Garchomp fainted
+Player B: Switched out Garchomp for Regieleki
+Turn 78:
+Player B: Switched out Regieleki for Zapdos
+Player A: Switched out Moltres for Excadrill
+Turn 79:
+Player A: Switched out Excadrill for Blissey
+Player B: Zapdos used Heat Wave on Blissey for 10 damage
+Turn 80:
+Player B: Zapdos used Discharge on Blissey for 11 damage
+Player A: Blissey used Ice Beam on Zapdos for 25 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Darkrai
+Turn 81:
+Player B: Darkrai used Hypnosis on Blissey but it missed
+Player A: Blissey used Soft-Boiled and healed for 21
+Turn 82:
+Player B: Darkrai used Hypnosis
+Player A: Blissey can't move because it is asleep
+Turn 83:
+Player A: Switched out Blissey for Iron Bundle
+Player B: Darkrai used Nasty Plot on self
+Turn 84:
+Player A: Iron Bundle used Ice Beam on Darkrai for 39 damage
+Player B: Darkrai fainted
+Player B: Switched out Darkrai for Regieleki
+Turn 85:
+Player A: Switched out Iron Bundle for Excadrill
+Player B: Regieleki used Rapid Spin on Excadrill for -12 damage
+Turn 86:
+Player B: Regieleki used Rapid Spin on Excadrill for 1 damage
+Player A: Excadrill used Earthquake on Regieleki for 27 damage (supereffective)
+Player B: Regieleki fainted

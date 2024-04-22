@@ -1,0 +1,94 @@
+Battle start:
+Player A sent out Tyranitar
+Player B sent out Incineroar
+Turn 1:
+Player A: Tyranitar used Stone Axe on Incineroar for 30 damage (supereffective)
+Player B: Incineroar used Parting Shot on self
+Player B: Switched out Incineroar for Arcanine-Hisui
+Turn 2:
+Player A: Switched out Tyranitar for Toxapex
+Player B: Arcanine-Hisui used Stone Axe on Toxapex for 15 damage
+Turn 3:
+Player B: Switched out Arcanine-Hisui for Incineroar
+Player A: Toxapex used Flip Turn on Incineroar for 45 damage (supereffective)
+Player A: Switched out Toxapex for Regieleki
+Turn 4:
+Player A: Regieleki used Rapid Spin on Incineroar for 25 damage
+Player B: Incineroar fainted
+Player B: Switched out Incineroar for Landorus-Therian
+Turn 5:
+Player A: Switched out Regieleki for Great Tusk
+Player B: Landorus-Therian used Precipice Blades on Great Tusk but it missed
+Turn 6:
+Player B: Switched out Landorus-Therian for Iron Hands
+Player A: Great Tusk used Rapid Spin on Iron Hands for 30 damage
+Turn 7:
+Player A: Great Tusk used Bulk Up on self
+Player B: Iron Hands used Ice Punch on Great Tusk for 60 damage (supereffective)
+Turn 8:
+Player B: Switched out Iron Hands for Landorus-Therian
+Player A: Great Tusk used Earthquake but it had no effect on Landorus-Therian
+Turn 9:
+Player A: Great Tusk used Shore Up and healed for 50
+Player B: Landorus-Therian used Dragon Ascent on Great Tusk for 21 damage
+Turn 10:
+Player B: Switched out Landorus-Therian for Dragonite
+Player A: Great Tusk used Bulk Up on self
+Turn 11:
+Player A: Great Tusk used Rapid Spin on Dragonite for 75 damage
+Player B: Dragonite used Dragon Dance on self
+Turn 12:
+Player B: Dragonite used Extreme Speed on Great Tusk for 29 damage
+Player A: Great Tusk used Shore Up and healed for 50
+Turn 13:
+Player A: Great Tusk used Rapid Spin on Dragonite for 25 damage
+Player B: Dragonite fainted
+Player B: Switched out Dragonite for Calyrex-Ice
+Turn 14:
+Player A: Great Tusk used Earthquake on Calyrex-Ice for 58 damage
+Player B: Calyrex-Ice used Glacial Lance on Great Tusk and crit for 90 damage (supereffective)
+Player A: Great Tusk fainted
+Player A: Switched out Great Tusk for Gholdengo
+Turn 15:
+Player B: Switched out Calyrex-Ice for Landorus-Therian
+Player A: Gholdengo used Shadow Ball on Landorus-Therian and crit for 57 damage
+Turn 16:
+Player A: Gholdengo used Make It Rain on Landorus-Therian for 43 damage
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Iron Hands
+Turn 17:
+Player A: Gholdengo used Shadow Ball on Iron Hands for 29 damage
+Player B: Iron Hands used Swords Dance on self
+Turn 18:
+Player A: Gholdengo used Shadow Ball on Iron Hands for 23 damage
+Player B: Iron Hands used Zing Zap on Gholdengo for 100 damage
+Player A: Gholdengo fainted
+Player A: Switched out Gholdengo for Regieleki
+Turn 19:
+Player A: Regieleki used Extreme Speed on Iron Hands for 18 damage (supereffective)
+Player B: Iron Hands fainted
+Player B: Switched out Iron Hands for Arcanine-Hisui
+Turn 20:
+Player A: Switched out Regieleki for Toxapex
+Player B: Arcanine-Hisui used Morning Sun and healed for -5
+Turn 21:
+Player B: Switched out Arcanine-Hisui for Calyrex-Ice
+Player A: Toxapex used Toxic
+Turn 22:
+Player A: Switched out Toxapex for Tyranitar-Mega
+Player B: Calyrex-Ice used Trick Room on self
+Turn 23:
+Player B: Switched out Calyrex-Ice for Arcanine-Hisui
+Player A: Tyranitar used Ceaseless Edge on Arcanine-Hisui for 43 damage
+Turn 24:
+Player B: Arcanine-Hisui used Extreme Speed on Tyranitar for 67 damage (supereffective)
+Player A: Tyranitar used Stone Axe on Arcanine-Hisui for 52 damage (supereffective)
+Player B: Arcanine-Hisui fainted
+Player B: Switched out Arcanine-Hisui for Calyrex-Ice
+Turn 25:
+Player B: Calyrex-Ice used Glacial Lance on Tyranitar for 33 damage
+Player A: Tyranitar fainted
+Player A: Switched out Tyranitar for Regieleki
+Turn 26:
+Player A: Regieleki used Extreme Speed on Calyrex-Ice for 42 damage
+Player B: Calyrex-Ice fainted

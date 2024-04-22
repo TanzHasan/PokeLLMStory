@@ -1,0 +1,58 @@
+Battle start:
+Player A sent out Landorus-Therian
+Player B sent out Landorus-Therian
+Turn 1:
+Player B: Landorus-Therian used Stealth Rock on self
+Player A: Landorus-Therian used Stealth Rock on self
+Turn 2:
+Player B: Switched out Landorus-Therian for Serperior
+Player A: Landorus-Therian used U-turn on Serperior for 42 damage (supereffective)
+Player A: Switched out Landorus-Therian for Beedrill
+Turn 3:
+Player A: Beedrill used Protect on self
+Player B: Serperior used Reflect on self
+Turn 4:
+Player B: Switched out Serperior for Landorus-Therian
+Player A: Beedrill used U-turn on Landorus-Therian for 21 damage
+Player A: Switched out Beedrill for Rotom-Wash
+Turn 5:
+Player B: Landorus-Therian used Explosion on Rotom-Wash for 77 damage
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Serperior
+Turn 6:
+Player B: Serperior used Light Screen on self
+Player A: Rotom-Wash used Volt Switch on Serperior for 18 damage
+Player A: Switched out Rotom-Wash for Beedrill-Mega
+Turn 7:
+Player A: Beedrill used Poison Jab on Serperior for 40 damage (supereffective)
+Player B: Serperior fainted
+Player B: Switched out Serperior for Bisharp
+Turn 8:
+Player A: Beedrill used Drill Run on Bisharp for 43 damage (supereffective)
+Player B: Bisharp used Swords Dance on self
+Turn 9:
+Player A: Beedrill used U-turn on Bisharp for 35 damage
+Player A: Switched out Beedrill for Landorus-Therian
+Player B: Bisharp used Knock Off on Landorus-Therian for 100 damage
+Player A: Beedrill fainted
+Player A: Switched out Beedrill for Weavile
+Turn 10:
+Player A: Weavile used Ice Shard on Bisharp for 5 damage
+Player B: Bisharp fainted
+Player B: Switched out Bisharp for Volcarona
+Turn 11:
+Player A: Switched out Weavile for Tornadus-Therian
+Player B: Volcarona used Quiver Dance on self
+Turn 12:
+Player B: Volcarona used Quiver Dance on self
+Player A: Tornadus-Therian used Hurricane on Volcarona for 46 damage (supereffective)
+Turn 13:
+Player B: Volcarona used Flamethrower on Tornadus-Therian for 90 damage
+Player A: Tornadus-Therian used Hurricane on Volcarona but it missed
+Player A: Tornadus-Therian fainted
+Player A: Switched out Tornadus-Therian for Weavile
+Turn 14:
+Player A: Weavile used Ice Shard on Volcarona for 20 damage
+Player B: Volcarona used Giga Drain on Weavile for 100 damage
+Player B: Volcarona used Giga Drain and healed for 23
+Player A: Weavile fainted

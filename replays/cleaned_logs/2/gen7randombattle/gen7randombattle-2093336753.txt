@@ -1,0 +1,94 @@
+Battle start:
+Player A sent out Malamar
+Player B sent out Gothitelle
+Turn 1:
+Player A: Malamar used Knock Off on Gothitelle for 168 damage (supereffective)
+Player B: Gothitelle used Psychic but it had no effect on Malamar
+Turn 2:
+Player A: Malamar used Knock Off on Gothitelle for 101 damage (supereffective)
+Player B: Gothitelle fainted
+Player B: Switched out Gothitelle for Spiritomb
+Turn 3:
+Player A: Malamar used Z-Happy Hour on self
+Player B: Spiritomb used Will-O-Wisp
+Turn 4:
+Player B: Switched out Spiritomb for Trevenant
+Player A: Malamar used Superpower but it had no effect on Trevenant
+Turn 5:
+Player A: Malamar used Psycho Cut on Trevenant for 52 damage
+Player B: Trevenant used Rock Slide on Malamar for 95 damage
+Turn 6:
+Player A: Malamar used Knock Off on Trevenant for 144 damage (supereffective)
+Player B: Trevenant used Horn Leech on Malamar for 86 damage
+Player B: Trevenant used Horn Leech and healed for 35
+Turn 7:
+Player A: Malamar used Knock Off on Trevenant for 102 damage (supereffective)
+Player B: Trevenant used Shadow Claw on Malamar for 84 damage
+Player A: Malamar fainted
+Player A: Switched out Malamar for Beartic
+Turn 8:
+Player A: Beartic used Icicle Crash on Trevenant for 7 damage (supereffective)
+Player B: Trevenant fainted
+Player B: Switched out Trevenant for Pyroar
+Turn 9:
+Player B: Pyroar used Fire Blast on Beartic for 317 damage (supereffective)
+Player A: Beartic fainted
+Player A: Switched out Beartic for Lapras
+Turn 10:
+Player B: Switched out Pyroar for Spiritomb
+Player A: Lapras used Hydro Pump on Spiritomb but it missed
+Turn 11:
+Player A: Lapras used Hydro Pump on Spiritomb but it missed
+Player B: Spiritomb used Pursuit on Lapras for 58 damage
+Turn 12:
+Player B: Spiritomb used Sucker Punch on Lapras for 76 damage
+Player A: Lapras used Hydro Pump on Spiritomb but it missed
+Turn 13:
+Player A: Lapras used Hydro Pump on Spiritomb for 94 damage
+Player B: Spiritomb used Will-O-Wisp on Lapras but it missed
+Turn 14:
+Player B: Switched out Spiritomb for Venomoth
+Player A: Lapras used Hydro Pump on Venomoth for 124 damage
+Turn 15:
+Player B: Venomoth used Savage Spin-Out on Lapras for 78 damage
+Player A: Lapras used Hydro Pump on Venomoth for 120 damage
+Turn 16:
+Player B: Venomoth used Roost and healed for 125
+Player A: Lapras used Hydro Pump on Venomoth for 123 damage
+Turn 17:
+Player B: Venomoth used Roost and healed for 125
+Player A: Lapras used Hydro Pump on Venomoth for 127 damage
+Turn 18:
+Player B: Venomoth used Roost and healed for 125
+Player A: Lapras used Freeze-Dry on Venomoth for 79 damage
+Turn 19:
+Player B: Venomoth used Roost and healed for 125
+Player A: Lapras used Freeze-Dry on Venomoth for 85 damage
+Turn 20:
+Player B: Venomoth used Roost and healed for 125
+Player A: Lapras used Freeze-Dry on Venomoth for 90 damage
+Turn 21:
+Player B: Switched out Venomoth for Toxapex
+Player A: Lapras used Freeze-Dry on Toxapex for 96 damage (supereffective)
+Turn 22:
+Player A: Lapras used Freeze-Dry on Toxapex for 89 damage (supereffective)
+Player B: Toxapex used Recover and healed for 106
+Turn 23:
+Player A: Lapras used Freeze-Dry on Toxapex for 97 damage (supereffective)
+Player B: Toxapex used Recover and healed for 106
+Turn 24:
+Player A: Lapras used Freeze-Dry on Toxapex for 83 damage (supereffective)
+Player B: Toxapex used Recover and healed for 106
+Turn 25:
+Player B: Switched out Toxapex for Spiritomb
+Player A: Lapras used Freeze-Dry on Spiritomb for 61 damage
+Turn 26:
+Player A: Lapras used Freeze-Dry on Spiritomb for 54 damage
+Player B: Spiritomb used Foul Play on Lapras for -109 damage
+Turn 27:
+Player B: Switched out Spiritomb for Venomoth
+Player A: Lapras used Freeze-Dry on Venomoth for 78 damage
+Turn 28:
+Player B: Venomoth can't move because it is frozen
+Player A: Lapras used Freeze-Dry on Venomoth for 48 damage
+Player B: Venomoth fainted

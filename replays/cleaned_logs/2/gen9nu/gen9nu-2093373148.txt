@@ -1,0 +1,34 @@
+Battle start:
+Player A sent out Sylveon
+Player B sent out Gligar
+Turn 1:
+Player B: Gligar used Stealth Rock on self
+Player A: Sylveon used Hyper Voice on Gligar for 66 damage
+Turn 2:
+Player B: Switched out Gligar for Weezing
+Player A: Sylveon used Hyper Voice on Weezing and crit for 96 damage
+Turn 3:
+Player A: Sylveon used Hyper Voice on Weezing for 4 damage
+Player B: Weezing fainted
+Player B: Switched out Weezing for Minior-Violet
+Turn 4:
+Player B: Minior-Violet used Shell Smash on self
+Player A: Sylveon used Hyper Voice on Minior-Violet for 99 damage
+Turn 5:
+Player B: Minior-Violet used Acrobatics on Sylveon for 100 damage
+Player A: Sylveon fainted
+Player A: Switched out Sylveon for Flygon
+Turn 6:
+Player A: Flygon used First Impression on Minior-Violet and crit for 1 damage
+Player B: Minior-Violet fainted
+Player B: Switched out Minior-Violet for Tsareena
+Turn 7:
+Player A: Switched out Flygon for Swampert
+Player B: Tsareena used Triple Axel on Swampert but it missed
+Turn 8:
+Player B: Tsareena used Power Whip on Swampert for 100 damage (supereffective)
+Player A: Swampert fainted
+Player A: Switched out Swampert for Dragalge
+Turn 9:
+Player B: Tsareena used Triple Axel on Dragalge and crit for 37 damage (supereffective)
+Player A: Dragalge fainted

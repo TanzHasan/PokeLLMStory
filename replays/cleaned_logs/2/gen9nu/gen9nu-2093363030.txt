@@ -1,0 +1,97 @@
+Battle start:
+Player A sent out Thundurus
+Player B sent out Infernape
+Turn 1:
+Player A: Thundurus used Volt Switch on Infernape for 88 damage
+Player A: Switched out Thundurus for Hitmontop
+Player B: Infernape used Flare Blitz on Hitmontop for 46 damage
+Player B: Infernape fainted
+Player B: Switched out Infernape for Talonflame
+Turn 2:
+Player A: Switched out Hitmontop for Gastrodon-East
+Player B: Talonflame used Air Slash on Gastrodon-East for 18 damage
+Turn 3:
+Player B: Switched out Talonflame for Whimsicott
+Player A: Gastrodon-East used Stealth Rock on self
+Turn 4:
+Player A: Switched out Gastrodon-East for Arcanine
+Player B: Whimsicott used Moonblast on Arcanine for 19 damage
+Turn 5:
+Player B: Whimsicott used Stun Spore on Arcanine but it missed
+Player A: Arcanine used Will-O-Wisp
+Turn 6:
+Player A: Switched out Arcanine for Thundurus
+Player B: Whimsicott used Stun Spore on Thundurus but it missed
+Turn 7:
+Player B: Whimsicott used Moonblast on Thundurus for 47 damage
+Player A: Thundurus used Sludge Wave on Whimsicott for 100 damage (supereffective)
+Player B: Whimsicott fainted
+Player B: Switched out Whimsicott for Talonflame
+Turn 8:
+Player A: Switched out Thundurus for Gastrodon-East
+Player B: Talonflame used Defog on self
+Turn 9:
+Player B: Switched out Talonflame for Shaymin
+Player A: Gastrodon-East used Stealth Rock on self
+Turn 10:
+Player A: Switched out Gastrodon-East for Arcanine
+Player B: Shaymin used Seed Flare on Arcanine for 27 damage
+Turn 11:
+Player A: Switched out Arcanine for Thundurus
+Player B: Shaymin used Earth Power but it had no effect on Thundurus
+Turn 12:
+Player A: Thundurus used Sludge Wave on Shaymin for 99 damage (supereffective)
+Player B: Shaymin used Seed Flare on Thundurus for 37 damage
+Turn 13:
+Player B: Shaymin used Quick Attack on Thundurus for 9 damage
+Player A: Thundurus used Sludge Wave on Shaymin for 1 damage (supereffective)
+Player B: Shaymin fainted
+Player B: Switched out Shaymin for Talonflame
+Turn 14:
+Player B: Talonflame used Air Slash on Thundurus for 7 damage
+Player A: Thundurus fainted
+Player A: Switched out Thundurus for Drednaw
+Turn 15:
+Player B: Talonflame used Defog on self
+Player A: Drednaw used Shell Smash on self
+Turn 16:
+Player B: Talonflame used Air Slash on Drednaw for 31 damage
+Player A: Drednaw used Shell Smash on self
+Turn 17:
+Player B: Talonflame used Air Slash on Drednaw for 44 damage
+Player A: Drednaw used Liquidation on Talonflame for 100 damage (supereffective)
+Player B: Talonflame fainted
+Player B: Switched out Talonflame for Mew
+Turn 18:
+Player A: Drednaw used Crunch on Mew for 99 damage (supereffective)
+Player B: Mew used Drain Punch on Drednaw for 25 damage (supereffective)
+Player B: Mew used Drain Punch and healed for 10
+Player A: Drednaw fainted
+Player A: Switched out Drednaw for Mienshao
+Turn 19:
+Player A: Mienshao used U-turn on Mew for 11 damage (supereffective)
+Player B: Mew fainted
+Player A: Switched out Mienshao for Gastrodon-East
+Player B: Switched out Mew for Minior
+Turn 20:
+Player B: Minior used Shell Smash on self
+Player A: Gastrodon-East used Clear Smog on Minior for 13 damage
+Turn 21:
+Player B: Minior used Shell Smash on self
+Player A: Gastrodon-East used Clear Smog on Minior for 22 damage
+Turn 22:
+Player B: Minior used Acrobatics on Gastrodon-East for 38 damage
+Player A: Gastrodon-East used Clear Smog on Minior for 15 damage
+Turn 23:
+Player B: Minior used Shell Smash on self
+Player A: Gastrodon-East used Clear Smog on Minior for 30 damage
+Turn 24:
+Player B: Minior used Acrobatics on Gastrodon-East for 44 damage
+Player A: Gastrodon-East fainted
+Player A: Switched out Gastrodon-East for Hitmontop
+Turn 25:
+Player A: Hitmontop used Fake Out on Minior for 16 damage
+Player B: Minior can't move because flinch
+Turn 26:
+Player A: Hitmontop used Sucker Punch on Minior for 4 damage
+Player B: Minior fainted

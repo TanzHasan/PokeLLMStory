@@ -1,0 +1,51 @@
+Battle start:
+Player A sent out Scizor
+Player B sent out Liepard
+Turn 1:
+Player B: Liepard used Trick on self
+Player A: Scizor used U-turn on Liepard for 100 damage (supereffective)
+Player B: Liepard fainted
+Player A: Switched out Scizor for Politoed
+Player B: Switched out Liepard for Ninetales
+Turn 2:
+Player A: Switched out Politoed for Latios
+Player B: Ninetales used Solar Beam on Latios for 16 damage
+Turn 3:
+Player A: Switched out Latios for Politoed
+Player B: Ninetales used Dark Pulse on Politoed for 18 damage
+Turn 4:
+Player B: Switched out Ninetales for Ambipom
+Player A: Politoed used Scald on Ambipom for 100 damage
+Player B: Ninetales fainted
+Player B: Switched out Ninetales for Ninetales
+Turn 5:
+Player A: Switched out Politoed for Latios
+Player B: Ninetales used Dark Pulse on Latios for 43 damage (supereffective)
+Turn 6:
+Player A: Switched out Latios for Politoed
+Player B: Ninetales used Dark Pulse on Politoed for 19 damage
+Turn 7:
+Player B: Ninetales used Will-O-Wisp on Politoed but it missed
+Player A: Politoed used Scald on Ninetales and crit for 99 damage (supereffective)
+Turn 8:
+Player A: Switched out Politoed for Starmie
+Player B: Ninetales used Will-O-Wisp
+Turn 9:
+Player A: Starmie used Thunder on Ninetales for 1 damage
+Player B: Ninetales fainted
+Player B: Switched out Ninetales for Gliscor
+Turn 10:
+Player A: Starmie used Ice Beam on Gliscor for 100 damage (supereffective)
+Player B: Gliscor fainted
+Player B: Switched out Gliscor for Yanmega
+Turn 11:
+Player A: Switched out Starmie for Rotom-Wash
+Player B: Yanmega used Bug Buzz on Rotom-Wash for 78 damage
+Turn 12:
+Player B: Yanmega used Bug Buzz on Rotom-Wash for 22 damage
+Player A: Rotom-Wash fainted
+Player A: Switched out Rotom-Wash for Ferrothorn
+Turn 13:
+Player B: Yanmega used Hidden Power on Ferrothorn for 47 damage (supereffective)
+Player A: Ferrothorn used Thunder Wave
+Turn 14:

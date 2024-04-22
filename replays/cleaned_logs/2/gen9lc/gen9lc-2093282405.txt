@@ -1,0 +1,82 @@
+Battle start:
+Player A sent out Stunky
+Player B sent out Tinkatink
+Turn 1:
+Player A: Switched out Stunky for Mudbray
+Player B: Switched out Tinkatink for Larvesta
+Turn 2:
+Player B: Larvesta used Trailblaze on Mudbray for 25 damage (supereffective)
+Player A: Mudbray used Stone Edge on Larvesta for 100 damage (supereffective)
+Player B: Larvesta fainted
+Player B: Switched out Larvesta for Voltorb-Hisui
+Turn 3:
+Player A: Switched out Mudbray for Grookey
+Player B: Voltorb-Hisui used Leech Seed but it had no effect on Grookey
+Turn 4:
+Player B: Voltorb-Hisui used Tera Blast on Grookey for 100 damage (supereffective)
+Player A: Grookey fainted
+Player A: Switched out Grookey for Growlithe-Hisui
+Turn 5:
+Player A: Growlithe-Hisui used Head Smash on Voltorb-Hisui for 100 damage (supereffective)
+Player B: Voltorb-Hisui fainted
+Player B: Switched out Voltorb-Hisui for Tinkatink
+Turn 6:
+Player A: Switched out Growlithe-Hisui for Mudbray
+Player B: Tinkatink used Thunder Wave but it had no effect on Mudbray
+Turn 7:
+Player B: Switched out Tinkatink for Mienfoo
+Player A: Mudbray used High Horsepower on Mienfoo for 61 damage
+Turn 8:
+Player B: Mienfoo used Knock Off on Mudbray for 16 damage
+Player A: Mudbray used High Horsepower on Mienfoo for 39 damage
+Player B: Mienfoo fainted
+Player B: Switched out Mienfoo for Tinkatink
+Turn 9:
+Player B: Tinkatink used Will-O-Wisp
+Player A: Mudbray used High Horsepower on Tinkatink but it missed
+Turn 10:
+Player B: Tinkatink used Hex on Mudbray for 59 damage
+Player A: Mudbray fainted
+Player A: Switched out Mudbray for Stunky
+Turn 11:
+Player B: Switched out Tinkatink for Tinkatink
+Player A: Stunky used Knock Off on Tinkatink for 18 damage
+Turn 12:
+Player A: Stunky used Knock Off on Tinkatink and crit for 27 damage
+Player B: Tinkatink used Thunder Wave
+Turn 13:
+Player B: Tinkatink used Draining Kiss on Stunky for 30 damage
+Player B: Tinkatink used Draining Kiss and healed for 23
+Player A: Stunky used Temper Flare on Tinkatink for 64 damage (supereffective)
+Turn 14:
+Player B: Tinkatink used Draining Kiss on Stunky for 39 damage
+Player B: Tinkatink used Draining Kiss and healed for 32
+Player A: Stunky used Temper Flare on Tinkatink for 46 damage (supereffective)
+Player B: Tinkatink fainted
+Player B: Switched out Tinkatink for Stunky
+Turn 15:
+Player A: Switched out Stunky for Vullaby
+Player B: Stunky used Tera Blast on Vullaby for 39 damage
+Turn 16:
+Player B: Stunky used Will-O-Wisp
+Player A: Vullaby used Knock Off on Stunky for 50 damage (supereffective)
+Turn 17:
+Player B: Stunky used Tera Blast on Vullaby for 43 damage
+Player A: Vullaby used Roost and healed for 52
+Turn 18:
+Player B: Stunky used U-turn on Vullaby for 17 damage
+Player B: Switched out Stunky for Stunky
+Player A: Vullaby used Knock Off on Stunky for -37 damage
+Turn 19:
+Player A: Vullaby used Brave Bird on Stunky for 43 damage
+Player B: Stunky used Gunk Shot on Vullaby for 35 damage
+Player A: Vullaby fainted
+Player A: Switched out Vullaby for Growlithe-Hisui
+Turn 20:
+Player B: Stunky used Sucker Punch on Growlithe-Hisui for 52 damage
+Player A: Growlithe-Hisui used Flare Blitz on Stunky for 44 damage
+Player B: Stunky fainted
+Player B: Switched out Stunky for Zorua-Hisui
+Turn 21:
+Player A: Growlithe-Hisui used Flare Blitz on Zorua-Hisui for 50 damage
+Player B: Zorua-Hisui fainted

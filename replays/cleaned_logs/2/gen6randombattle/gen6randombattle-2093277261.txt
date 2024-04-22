@@ -1,0 +1,138 @@
+Battle start:
+Player A sent out Alakazam
+Player B sent out Sylveon
+Turn 1:
+Player A: Alakazam used Psychic on Sylveon for 84 damage
+Player B: Sylveon used Calm Mind on self
+Turn 2:
+Player A: Alakazam used Focus Blast on Sylveon but it missed
+Player B: Sylveon used Calm Mind on self
+Turn 3:
+Player A: Alakazam used Focus Blast on Sylveon for -15 damage
+Player B: Sylveon used Calm Mind on self
+Turn 4:
+Player B: Sylveon used Calm Mind on self
+Turn 5:
+Player A: Switched out Alakazam for Corsola
+Player B: Sylveon used Calm Mind on self
+Turn 6:
+Player B: Sylveon used Calm Mind on self
+Player A: Corsola used Toxic
+Turn 7:
+Player B: Sylveon used Hyper Voice on Corsola for 261 damage
+Player A: Corsola fainted
+Player A: Switched out Corsola for Alakazam
+Turn 8:
+Player A: Alakazam used Psychic on Sylveon for -11 damage
+Player B: Sylveon used Hyper Voice on Alakazam for 223 damage
+Turn 9:
+Player B: Sylveon used Hyper Voice on Alakazam for 1 damage
+Player A: Alakazam fainted
+Player A: Switched out Alakazam for Heliolisk
+Turn 10:
+Player A: Heliolisk used Thunder on Sylveon for 121 damage
+Player B: Sylveon used Hyper Voice on Heliolisk for 216 damage
+Player A: Heliolisk fainted
+Player A: Switched out Heliolisk for Stoutland
+Turn 11:
+Player A: Stoutland used Wild Charge on Sylveon for 114 damage
+Player B: Sylveon fainted
+Player B: Switched out Sylveon for Cobalion
+Turn 12:
+Player A: Stoutland used Wild Charge on Cobalion for 58 damage
+Player B: Cobalion used Swords Dance on self
+Turn 13:
+Player A: Stoutland used Wild Charge on Cobalion for 45 damage
+Player B: Cobalion used Close Combat on Stoutland for 249 damage (supereffective)
+Player A: Stoutland fainted
+Player A: Switched out Stoutland for Garchomp
+Turn 14:
+Player B: Cobalion used Close Combat on Garchomp for 198 damage
+Player A: Garchomp used Earthquake on Cobalion for 167 damage (supereffective)
+Player B: Cobalion fainted
+Player B: Switched out Cobalion for Magmortar
+Turn 15:
+Player B: Magmortar used Focus Blast on Garchomp for 95 damage
+Player A: Garchomp fainted
+Player A: Switched out Garchomp for Aromatisse
+Turn 16:
+Player B: Magmortar used Fire Blast on Aromatisse for 132 damage
+Player A: Aromatisse used Toxic
+Turn 17:
+Player B: Magmortar used Fire Blast on Aromatisse for 125 damage
+Player A: Aromatisse used Wish on self
+Turn 18:
+Player A: Aromatisse used Protect on self
+Player B: Magmortar used Fire Blast on self
+Turn 19:
+Player B: Switched out Magmortar for Gigalith
+Player A: Aromatisse used Wish on self
+Turn 20:
+Player A: Aromatisse used Toxic
+Player B: Gigalith used Stealth Rock on self
+Turn 21:
+Player A: Aromatisse used Wish on self
+Player B: Gigalith used Stone Edge on Aromatisse for -119 damage
+Turn 22:
+Player A: Aromatisse used Moonblast on Gigalith for 166 damage
+Player B: Gigalith used Stone Edge on Aromatisse for 133 damage
+Turn 23:
+Player A: Aromatisse used Moonblast on Gigalith for 111 damage
+Player B: Gigalith fainted
+Player B: Switched out Gigalith for Crawdaunt
+Turn 24:
+Player B: Crawdaunt used Crabhammer on Aromatisse for 42 damage
+Player A: Aromatisse used Wish on self
+Turn 25:
+Player A: Aromatisse used Protect on self
+Player B: Crawdaunt used Aqua Jet on self
+Turn 26:
+Player B: Crawdaunt used Crabhammer on Aromatisse but it missed
+Player A: Aromatisse used Wish on self
+Turn 27:
+Player B: Crawdaunt used Dragon Dance on self
+Player A: Aromatisse used Toxic on Crawdaunt but it missed
+Turn 28:
+Player B: Crawdaunt used Crabhammer on Aromatisse but it missed
+Player A: Aromatisse used Toxic
+Turn 29:
+Player B: Crawdaunt used Crabhammer on Aromatisse but it missed
+Player A: Aromatisse used Wish on self
+Turn 30:
+Player B: Crawdaunt used Dragon Dance on self
+Player A: Aromatisse used Moonblast on Crawdaunt for 216 damage (supereffective)
+Player B: Crawdaunt fainted
+Player B: Switched out Crawdaunt for Magmortar
+Turn 31:
+Player B: Magmortar used Fire Blast on Aromatisse and crit for -96 damage
+Player A: Aromatisse used Moonblast on Magmortar for 132 damage
+Turn 32:
+Player A: Aromatisse used Protect on self
+Player B: Magmortar used Fire Blast on self
+Turn 33:
+Player B: Magmortar used Fire Blast on Aromatisse for 48 damage
+Player A: Aromatisse used Wish on self
+Turn 34:
+Player A: Aromatisse used Protect on self
+Player B: Magmortar used Fire Blast on self
+Player B: Magmortar fainted
+Player B: Switched out Magmortar for Vaporeon
+Turn 35:
+Player B: Vaporeon used Ice Beam on Aromatisse for -132 damage
+Player A: Aromatisse used Toxic on Vaporeon but it missed
+Turn 36:
+Player B: Vaporeon used Ice Beam on Aromatisse for 43 damage
+Player A: Aromatisse used Toxic
+Turn 37:
+Player B: Vaporeon used Ice Beam on Aromatisse for 44 damage
+Player A: Aromatisse used Wish on self
+Turn 38:
+Player B: Vaporeon used Ice Beam on Aromatisse for 43 damage
+Player A: Aromatisse used Moonblast on Vaporeon for 151 damage
+Turn 39:
+Player B: Vaporeon used Ice Beam on Aromatisse for -121 damage
+Player A: Aromatisse used Wish on self
+Turn 40:
+Player B: Vaporeon used Ice Beam on Aromatisse for 43 damage
+Player A: Aromatisse used Moonblast on Vaporeon for 200 damage
+Player B: Vaporeon fainted

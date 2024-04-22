@@ -3,7 +3,9 @@ Player A sent out Gengar
 Player B sent out Alakazam
 Turn 1:
 Player B: Switched out Alakazam for Chansey
+Player A: Gengar used Hypnosis on Chansey but it missed
 Turn 2:
+Player A: Gengar used Hypnosis on Chansey but it missed
 Player B: Chansey used Thunder Wave
 Turn 3:
 Player B: Chansey used Seismic Toss on Gengar for 30 damage
@@ -34,6 +36,7 @@ Player B: Slowbro fainted
 Player B: Switched out Slowbro for Alakazam
 Turn 11:
 Player B: Alakazam used Recover and healed for 50
+Player A: Victreebel used Stun Spore on Alakazam but it missed
 Turn 12:
 Player A: Switched out Victreebel for Slowbro
 Player B: Alakazam used Psychic on Slowbro for 20 damage
@@ -85,6 +88,7 @@ Turn 27:
 Player A: Dragonite used Wrap on Snorlax for 4 damage
 Player B: Snorlax can't move because it is partially trapped
 Turn 28:
+Player A: Dragonite used Wrap on Snorlax but it missed
 Player B: Snorlax used Reflect on self
 Turn 29:
 Player A: Dragonite used Wrap on Snorlax for 1 damage
@@ -151,6 +155,7 @@ Player A: Dragonite used Wrap on Snorlax for 2 damage
 Player B: Snorlax can't move because it is partially trapped
 Turn 50:
 Player B: Switched out Snorlax for Tauros
+Player A: Dragonite used Wrap on Tauros but it missed
 Turn 51:
 Player A: Dragonite used Thunder Wave
 Player B: Tauros can't move because it is paralyzed
@@ -170,6 +175,7 @@ Turn 56:
 Player A: Dragonite used Wrap on Chansey for 6 damage
 Player B: Chansey can't move because it is partially trapped
 Turn 57:
+Player A: Dragonite used Wrap on Chansey but it missed
 Player B: Chansey used Thunder Wave
 Turn 58:
 Player B: Chansey used Soft-Boiled and healed for 50
@@ -227,6 +233,7 @@ Player A: Victreebel used Wrap on Tauros for 3 damage
 Player B: Tauros can't move because it is partially trapped
 Turn 76:
 Player B: Switched out Tauros for Alakazam
+Player A: Victreebel used Wrap on Alakazam but it missed
 Turn 77:
 Player A: Victreebel used Wrap on Alakazam for 7 damage
 Player B: Alakazam can't move because it is partially trapped
@@ -261,6 +268,7 @@ Player B: Snorlax can't move because it is asleep
 Turn 87:
 Player A: Victreebel used Razor Leaf on Snorlax and crit for 31 damage
 Turn 88:
+Player A: Victreebel used Sleep Powder on Snorlax but it missed
 Player B: Snorlax used Body Slam on Victreebel for 40 damage
 Turn 89:
 Player B: Snorlax used Body Slam on Victreebel for 39 damage
@@ -294,6 +302,7 @@ Player B: Switched out Chansey for Tauros
 Player A: Cloyster used Clamp on Tauros for 12 damage
 Turn 99:
 Player B: Switched out Tauros for Snorlax
+Player A: Cloyster used Clamp on Snorlax but it missed
 Turn 100:
 Player A: Cloyster used Blizzard on Snorlax for 32 damage
 Player B: Snorlax can't move because it is asleep
@@ -306,6 +315,7 @@ Player A: Cloyster used Blizzard on Tauros and crit for 36 damage
 Player B: Tauros fainted
 Player B: Switched out Tauros for Chansey
 Turn 103:
+Player A: Cloyster used Clamp on Chansey but it missed
 Player B: Chansey used Soft-Boiled and healed for 50
 Turn 104:
 Player A: Cloyster used Explosion on Chansey for 73 damage

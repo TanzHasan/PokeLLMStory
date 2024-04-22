@@ -1,0 +1,36 @@
+Battle start:
+Player A sent out Landorus-Therian
+Player B sent out Tornadus-Therian
+Turn 1:
+Player A: Landorus-Therian used Stealth Rock on self
+Player B: Tornadus-Therian used Knock Off on Landorus-Therian for 13 damage
+Turn 2:
+Player B: Switched out Tornadus-Therian for Metagross
+Player A: Landorus-Therian used Explosion on Metagross for 48 damage
+Player A: Landorus-Therian fainted
+Player A: Switched out Landorus-Therian for Serperior
+Turn 3:
+Player A: Serperior used Reflect on self
+Player B: Metagross used Meteor Mash on Serperior for 31 damage
+Turn 4:
+Player A: Serperior used Light Screen on self
+Player B: Metagross used Meteor Mash on Serperior for 34 damage
+Turn 5:
+Player A: Switched out Serperior for Manaphy
+Player B: Metagross used Meteor Mash on Manaphy for 14 damage
+Turn 6:
+Player B: Metagross used Zen Headbutt on Manaphy but it missed
+Player A: Manaphy used Tail Glow on self
+Turn 7:
+Player B: Metagross used Zen Headbutt on Manaphy for 16 damage
+Player A: Manaphy used Surf on Metagross for 52 damage
+Player B: Metagross fainted
+Player B: Switched out Metagross for Suicune
+Turn 8:
+Player A: Manaphy used Energy Ball on Suicune for 100 damage (supereffective)
+Player B: Suicune fainted
+Player B: Switched out Suicune for Thundurus
+Turn 9:
+Player B: Thundurus used Thunderbolt on Manaphy for 31 damage (supereffective)
+Player A: Manaphy used Surf on Thundurus for 100 damage
+Player B: Thundurus fainted

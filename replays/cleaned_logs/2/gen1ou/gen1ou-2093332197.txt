@@ -2,6 +2,7 @@ Battle start:
 Player A sent out Ditto
 Player B sent out Jynx
 Turn 1:
+Player B: Jynx used Lovely Kiss on Ditto but it missed
 Player A: Ditto used Transform on self
 Turn 2:
 Player B: Jynx used Lovely Kiss
@@ -11,6 +12,7 @@ Player B: Jynx used Seismic Toss on Ditto for 33 damage
 Turn 4:
 Player B: Jynx used Lovely Kiss
 Turn 5:
+Player B: Jynx used Lovely Kiss on Ditto but it missed
 Player A: Ditto used Lovely Kiss
 Turn 6:
 Player B: Switched out Jynx for Chansey
@@ -22,6 +24,7 @@ Turn 8:
 Player A: Ditto used Blizzard on Chansey for 19 damage
 Player B: Chansey used Thunderbolt on Ditto for 25 damage
 Turn 9:
+Player A: Ditto used Blizzard on Chansey but it missed
 Player B: Chansey used Soft-Boiled and healed for 46
 Turn 10:
 Player A: Ditto used Blizzard on Chansey for 17 damage
@@ -29,6 +32,7 @@ Player B: Chansey used Thunderbolt on Ditto and crit for 14 damage
 Player A: Ditto fainted
 Player A: Switched out Ditto for Snorlax
 Turn 11:
+Player B: Chansey used Sing on Snorlax but it missed
 Player A: Snorlax used Body Slam on Chansey for 41 damage
 Turn 12:
 Player B: Chansey used Soft-Boiled and healed for 50
@@ -42,6 +46,7 @@ Turn 15:
 Player B: Chansey used Soft-Boiled and healed for 42
 Player A: Snorlax used Body Slam on Chansey for 39 damage
 Turn 16:
+Player B: Chansey used Sing on Snorlax but it missed
 Player A: Snorlax used Body Slam on Chansey for 40 damage
 Turn 17:
 Player B: Chansey used Soft-Boiled and healed for 50
@@ -80,12 +85,16 @@ Turn 28:
 Player B: Chansey used Soft-Boiled and healed for 50
 Player A: Chansey used Blizzard on Chansey and crit for 25 damage
 Turn 29:
+Player A: Chansey used Blizzard on Chansey but it missed
 Player B: Chansey used Ice Beam on Chansey for 10 damage
 Turn 30:
 Player B: Chansey used Ice Beam on Chansey for 10 damage
+Player A: Chansey used Blizzard on Chansey but it missed
 Turn 31:
+Player A: Chansey used Blizzard on Chansey but it missed
 Player B: Chansey used Ice Beam on Chansey for 10 damage
 Turn 32:
+Player A: Chansey used Blizzard on Chansey but it missed
 Player B: Chansey used Ice Beam on Chansey for 11 damage
 Turn 33:
 Player A: Chansey used Blizzard on Chansey for 14 damage

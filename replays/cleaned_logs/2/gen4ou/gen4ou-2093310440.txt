@@ -1,0 +1,87 @@
+Battle start:
+Player A sent out Absol
+Player B sent out Bronzong
+Turn 1:
+Player A: Absol used Night Slash on Bronzong for 32 damage
+Player B: Bronzong used Stealth Rock on self
+Turn 2:
+Player B: Switched out Bronzong for Lucario
+Player A: Absol used Swords Dance on self
+Turn 3:
+Player B: Lucario used Close Combat on Absol for 99 damage (supereffective)
+Player A: Absol used Superpower on Lucario for 91 damage (supereffective)
+Player B: Lucario fainted
+Player B: Switched out Lucario for Flygon
+Turn 4:
+Player A: Absol used Sucker Punch on Flygon for 97 damage
+Player B: Flygon used U-turn on Absol for 1 damage (supereffective)
+Player A: Absol fainted
+Player B: Switched out Flygon for Tyranitar
+Player A: Switched out Absol for Donphan
+Turn 5:
+Player B: Switched out Tyranitar for Flygon
+Player A: Donphan used Rapid Spin on Flygon for 3 damage
+Player B: Tyranitar fainted
+Player B: Switched out Tyranitar for Bronzong
+Turn 6:
+Player A: Switched out Donphan for Aerodactyl
+Player B: Bronzong used Stealth Rock on self
+Turn 7:
+Player A: Aerodactyl used Stealth Rock on self
+Player B: Bronzong used Gyro Ball on Aerodactyl for 99 damage (supereffective)
+Turn 8:
+Player A: Switched out Aerodactyl for Slowbro
+Player B: Bronzong used Gyro Ball on Slowbro for 19 damage
+Turn 9:
+Player A: Slowbro used Surf on Bronzong for 57 damage
+Player B: Bronzong used Explosion on Slowbro for 81 damage
+Player B: Bronzong fainted
+Player A: Slowbro fainted
+Player A: Switched out Slowbro for Donphan
+Player B: Switched out Bronzong for Gengar
+Turn 10:
+Player A: Switched out Donphan for Clefable
+Player B: Gengar used Shadow Ball but it had no effect on Clefable
+Turn 11:
+Player B: Gengar used Focus Blast on Clefable for 74 damage (supereffective)
+Player A: Clefable used Thunder Wave
+Turn 12:
+Player A: Clefable used Soft-Boiled and healed for 56
+Player B: Gengar can't move because it is paralyzed
+Turn 13:
+Player A: Clefable used Knock Off on Gengar for 25 damage (supereffective)
+Player B: Gengar used Focus Blast on Clefable for 53 damage (supereffective)
+Turn 14:
+Player A: Clefable used Soft-Boiled and healed for 56
+Player B: Gengar used Focus Blast on Clefable but it missed
+Turn 15:
+Player A: Switched out Clefable for Donphan
+Player B: Gengar used Focus Blast on Donphan for 69 damage
+Turn 16:
+Player B: Switched out Gengar for Tyranitar
+Player A: Donphan used Assurance on Tyranitar for 25 damage
+Turn 17:
+Player B: Tyranitar used Crunch on Donphan for 10 damage
+Player A: Donphan used Rapid Spin on Tyranitar and crit for 6 damage
+Turn 18:
+Player B: Tyranitar used Crunch on Donphan for 18 damage
+Player A: Donphan used Earthquake on Tyranitar for 69 damage (supereffective)
+Player B: Tyranitar fainted
+Player B: Switched out Tyranitar for Kingdra
+Turn 19:
+Player B: Kingdra used Surf on Donphan for 3 damage (supereffective)
+Player A: Donphan fainted
+Player A: Switched out Donphan for Clefable
+Turn 20:
+Player B: Kingdra used Surf on Clefable for 40 damage
+Player A: Clefable used Thunder Wave
+Turn 21:
+Player A: Clefable used Soft-Boiled and healed for 55
+Player B: Kingdra used Surf on Clefable for 43 damage
+Turn 22:
+Player A: Clefable used Seismic Toss on Kingdra for 65 damage
+Player B: Kingdra used Surf on Clefable for 38 damage
+Turn 23:
+Player A: Clefable used Soft-Boiled and healed for 56
+Player B: Kingdra used Surf on Clefable for 44 damage
+Turn 24:

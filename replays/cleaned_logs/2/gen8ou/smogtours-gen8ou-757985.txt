@@ -1,0 +1,178 @@
+Battle start:
+Player A sent out Dragapult
+Player B sent out Rotom-Wash
+Turn 1:
+Player A: Dragapult used Shadow Ball on Rotom-Wash for 49 damage
+Player B: Rotom-Wash used Volt Switch on Dragapult for 17 damage
+Player B: Switched out Rotom-Wash for Melmetal
+Turn 2:
+Player A: Switched out Dragapult for Corviknight
+Player B: Melmetal used Thunder Punch on Corviknight for 38 damage (supereffective)
+Turn 3:
+Player A: Corviknight used Body Press on Melmetal for 25 damage (supereffective)
+Player B: Melmetal used Earthquake but it had no effect on Corviknight
+Turn 4:
+Player B: Switched out Melmetal for Rotom-Wash
+Player A: Corviknight used Body Press on Rotom-Wash for 20 damage
+Turn 5:
+Player A: Switched out Corviknight for Blissey
+Player B: Rotom-Wash used Pain Split on self
+Turn 6:
+Player B: Rotom-Wash used Volt Switch on Blissey for 50 damage
+Player B: Switched out Rotom-Wash for Melmetal
+Player A: Blissey used Soft-Boiled and healed for 49
+Turn 7:
+Player B: Melmetal used Thunder Punch on Blissey for 28 damage
+Player A: Blissey used Counter on Melmetal for 59 damage
+Player B: Melmetal fainted
+Player B: Switched out Melmetal for Clefable
+Turn 8:
+Player B: Clefable used Stealth Rock on self
+Player A: Blissey used Seismic Toss on Clefable for 25 damage
+Turn 9:
+Player A: Switched out Blissey for Diggersby
+Player B: Clefable used Knock Off on Diggersby for 26 damage
+Turn 10:
+Player B: Switched out Clefable for Rotom-Wash
+Player A: Diggersby used Mega Kick on Rotom-Wash for -5 damage
+Turn 11:
+Player A: Switched out Diggersby for Blissey
+Player B: Switched out Rotom-Wash for Dragapult
+Turn 12:
+Player B: Switched out Dragapult for Rotom-Wash
+Player A: Blissey used Soft-Boiled and healed for 38
+Turn 13:
+Player B: Rotom-Wash used Pain Split on self
+Player A: Blissey used Toxic on Rotom-Wash but it missed
+Turn 14:
+Player B: Rotom-Wash used Volt Switch on Blissey for 45 damage
+Player B: Switched out Rotom-Wash for Heatran
+Player A: Blissey used Soft-Boiled and healed for 50
+Turn 15:
+Player B: Heatran used Earth Power on Blissey for 9 damage
+Player A: Blissey used Seismic Toss on Heatran for 25 damage
+Turn 16:
+Player B: Heatran used Magma Storm on Blissey for 16 damage
+Player A: Blissey used Seismic Toss on Heatran for 20 damage
+Turn 17:
+Player B: Heatran used Taunt on self
+Player A: Blissey used Seismic Toss on Heatran for 20 damage
+Turn 18:
+Player B: Heatran used Magma Storm on Blissey for 41 damage
+Player A: Blissey used Seismic Toss on Heatran for 19 damage
+Turn 19:
+Player B: Switched out Heatran for Clefable
+Player A: Blissey used Seismic Toss on Clefable for 25 damage
+Turn 20:
+Player B: Clefable used Moonblast on Blissey for 2 damage
+Player A: Blissey fainted
+Player A: Switched out Blissey for Diggersby
+Turn 21:
+Player B: Switched out Clefable for Dragapult
+Player A: Diggersby used Mega Kick but it had no effect on Dragapult
+Turn 22:
+Player A: Switched out Diggersby for Chansey
+Player B: Dragapult used Draco Meteor on Chansey for 37 damage
+Turn 23:
+Player A: Switched out Chansey for Diggersby
+Player B: Dragapult used Draco Meteor on Diggersby for 65 damage
+Turn 24:
+Player B: Dragapult used Draco Meteor on Diggersby for 9 damage
+Player A: Diggersby fainted
+Player A: Switched out Diggersby for Dragapult
+Turn 25:
+Player B: Switched out Dragapult for Heatran
+Player A: Dragapult used Shadow Ball on Heatran for 16 damage
+Player B: Dragapult fainted
+Player B: Switched out Dragapult for Landorus-Therian
+Turn 26:
+Player A: Switched out Dragapult for Corviknight
+Player B: Landorus-Therian used Earthquake but it had no effect on Corviknight
+Turn 27:
+Player B: Switched out Landorus-Therian for Clefable
+Player A: Corviknight used Defog on self
+Turn 28:
+Player A: Corviknight used Roost and healed for 37
+Player B: Clefable used Soft-Boiled and healed for 49
+Turn 29:
+Player A: Switched out Corviknight for Chansey
+Player B: Clefable used Stealth Rock on self
+Turn 30:
+Player B: Clefable used Knock Off on Chansey for 10 damage
+Player A: Chansey used Soft-Boiled and healed for 47
+Turn 31:
+Player B: Clefable used Moonblast on Chansey and crit for 22 damage
+Player A: Chansey used Toxic
+Turn 32:
+Player B: Switched out Clefable for Rotom-Wash
+Player A: Switched out Chansey for Ditto
+Turn 33:
+Player A: Ditto used Volt Switch on Rotom-Wash for -40 damage
+Player A: Switched out Ditto for Chansey
+Player B: Rotom-Wash used Volt Switch on Chansey for 24 damage
+Player B: Switched out Rotom-Wash for Dragapult
+Turn 34:
+Player B: Dragapult used U-turn on Chansey for 18 damage
+Player B: Switched out Dragapult for Landorus-Therian
+Player A: Chansey used Soft-Boiled and healed for 50
+Turn 35:
+Player B: Switched out Landorus-Therian for Clefable
+Turn 36:
+Player A: Switched out Chansey for Ditto
+Player B: Clefable used Moonblast on Ditto for 64 damage
+Turn 37:
+Player A: Ditto used Soft-Boiled and healed for 50
+Player B: Clefable used Moonblast on Ditto for 35 damage
+Turn 38:
+Player A: Ditto used Soft-Boiled and healed for 49
+Player B: Clefable used Moonblast on Ditto for 38 damage
+Turn 39:
+Player A: Ditto used Soft-Boiled and healed for 38
+Player B: Clefable used Moonblast on Ditto for 40 damage
+Turn 40:
+Player A: Switched out Ditto for Chansey
+Player B: Clefable used Moonblast on Chansey for 28 damage
+Turn 41:
+Player B: Switched out Clefable for Rotom-Wash
+Player A: Chansey used Soft-Boiled and healed for 42
+Turn 42:
+Player B: Rotom-Wash used Volt Switch on Chansey for 11 damage
+Player B: Switched out Rotom-Wash for Clefable
+Player A: Chansey used Toxic but it failed
+Turn 43:
+Player A: Switched out Chansey for Ditto
+Player B: Clefable used Knock Off on Ditto for 20 damage
+Turn 44:
+Player B: Clefable used Moonblast on Ditto for 37 damage
+Player A: Ditto used Soft-Boiled and healed for 50
+Turn 45:
+Player A: Ditto used Soft-Boiled and healed for 47
+Player B: Clefable used Moonblast on Ditto for 40 damage
+Turn 46:
+Player B: Switched out Clefable for Landorus-Therian
+Player A: Ditto used Stealth Rock on self
+Turn 47:
+Player A: Switched out Ditto for Corviknight
+Player B: Landorus-Therian used Earthquake but it had no effect on Corviknight
+Turn 48:
+Player B: Switched out Landorus-Therian for Rotom-Wash
+Player A: Corviknight used Roost and healed for 1
+Turn 49:
+Player A: Switched out Corviknight for Dragapult
+Player B: Rotom-Wash used Pain Split on self
+Turn 50:
+Player A: Dragapult used Shadow Ball on Rotom-Wash for 57 damage
+Player B: Rotom-Wash used Volt Switch on Dragapult for 35 damage
+Player B: Switched out Rotom-Wash for Landorus-Therian
+Turn 51:
+Player A: Switched out Dragapult for Corviknight
+Player B: Landorus-Therian used U-turn on Corviknight for 15 damage
+Player B: Switched out Landorus-Therian for Rotom-Wash
+Turn 52:
+Player B: Rotom-Wash used Volt Switch on Corviknight for 45 damage (supereffective)
+Player B: Switched out Rotom-Wash for Dragapult
+Player A: Corviknight used Body Press but it had no effect on Dragapult
+Turn 53:
+Player A: Switched out Corviknight for Chansey
+Player B: Dragapult used Draco Meteor on Chansey but it missed
+Turn 54:

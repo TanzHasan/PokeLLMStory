@@ -1,0 +1,75 @@
+Battle start:
+Player A sent out Toxapex
+Player B sent out Kleavor
+Turn 1:
+Player B: Kleavor used Stone Axe on Toxapex for 37 damage
+Player A: Toxapex used Mortal Spin on Kleavor for 4 damage
+Turn 2:
+Player B: Kleavor used Stone Axe on Toxapex for 34 damage
+Player A: Toxapex used Scald on Kleavor for 70 damage (supereffective)
+Turn 3:
+Player A: Switched out Toxapex for Gliscor
+Player B: Kleavor used Stone Axe on Gliscor for 51 damage
+Turn 4:
+Player B: Kleavor used Stone Axe on Gliscor for 41 damage
+Player A: Gliscor used Shore Up and healed for 50
+Player B: Kleavor fainted
+Player B: Switched out Kleavor for Thundurus-Therian
+Turn 5:
+Player A: Switched out Gliscor for Tyranitar
+Player B: Thundurus-Therian used Nasty Plot on self
+Turn 6:
+Player A: Tyranitar used Accelerock on Thundurus-Therian for 100 damage (supereffective)
+Player B: Thundurus-Therian fainted
+Player B: Switched out Thundurus-Therian for Bisharp
+Turn 7:
+Player A: Switched out Tyranitar for Gliscor
+Player B: Bisharp used Swords Dance on self
+Turn 8:
+Player A: Gliscor used Precipice Blades on Bisharp but it missed
+Player B: Bisharp used Wicked Blow on Gliscor and crit for 58 damage
+Player A: Gliscor fainted
+Player A: Switched out Gliscor for Mandibuzz
+Turn 9:
+Player B: Bisharp used Sunsteel Strike on Mandibuzz and crit for 97 damage
+Player A: Mandibuzz used Foul Play on Bisharp for 42 damage
+Turn 10:
+Player B: Bisharp used Wicked Blow on Mandibuzz and crit for 3 damage
+Player A: Mandibuzz fainted
+Player A: Switched out Mandibuzz for Skeledirge
+Turn 11:
+Player B: Bisharp used Wicked Blow on Skeledirge and crit for 48 damage
+Player A: Skeledirge used Torch Song on Bisharp for 17 damage
+Turn 12:
+Player B: Bisharp used Wicked Blow on Skeledirge and crit for 52 damage
+Player A: Skeledirge fainted
+Player A: Switched out Skeledirge for Tyranitar
+Turn 13:
+Player B: Bisharp used Sucker Punch on Tyranitar for 60 damage
+Player A: Tyranitar used Accelerock on Bisharp for 41 damage (supereffective)
+Player B: Bisharp fainted
+Player B: Switched out Bisharp for Iron Valiant
+Turn 14:
+Player A: Switched out Tyranitar for Gholdengo
+Player B: Iron Valiant used Swords Dance on self
+Turn 15:
+Player B: Iron Valiant used Magical Torque on Gholdengo for 36 damage
+Player A: Gholdengo used Tachyon Cutter on Iron Valiant for 13 damage (supereffective)
+Player B: Iron Valiant fainted
+Player B: Switched out Iron Valiant for Meloetta
+Turn 16:
+Player B: Meloetta used Calm Mind on self
+Player A: Gholdengo used Nasty Plot on self
+Turn 17:
+Player B: Meloetta used Calm Mind on self
+Player A: Gholdengo used Nasty Plot on self
+Turn 18:
+Player B: Meloetta used Esper Wing on Gholdengo for 34 damage
+Player A: Gholdengo used Tachyon Cutter on Meloetta for 22 damage
+Turn 19:
+Player B: Meloetta used Esper Wing on Gholdengo for 30 damage
+Player A: Gholdengo fainted
+Player A: Switched out Gholdengo for Tyranitar
+Turn 20:
+Player B: Meloetta used Boomburst on Tyranitar for 40 damage
+Player A: Tyranitar fainted

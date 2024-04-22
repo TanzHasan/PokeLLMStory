@@ -1,0 +1,121 @@
+Battle start:
+Player A sent out Politoed
+Player B sent out Garchomp
+Turn 1:
+Player B: Switched out Garchomp for Kyurem-Black
+Player A: Politoed used Hydro Pump on Kyurem-Black for 49 damage
+Turn 2:
+Player A: Switched out Politoed for Ferrothorn
+Player B: Kyurem-Black used Fusion Bolt on Ferrothorn for 12 damage
+Turn 3:
+Player B: Kyurem-Black used Freeze Shock on Ferrothorn for 52 damage
+Player A: Ferrothorn used Spikes on self
+Turn 4:
+Player B: Kyurem-Black used Outrage on Ferrothorn for 20 damage
+Player A: Ferrothorn used Leech Seed on self
+Turn 5:
+Player B: Kyurem-Black used Outrage on Ferrothorn for 4 damage
+Player A: Ferrothorn used Spikes on self
+Turn 6:
+Player A: Switched out Ferrothorn for Politoed
+Player B: Kyurem-Black used Outrage on Politoed for 100 damage
+Player A: Ferrothorn fainted
+Player A: Switched out Ferrothorn for Starmie
+Turn 7:
+Player A: Starmie used Thunder on Kyurem-Black for 14 damage
+Player B: Kyurem-Black fainted
+Player B: Switched out Kyurem-Black for Latios
+Turn 8:
+Player A: Switched out Starmie for Ferrothorn
+Player B: Latios used Draco Meteor on Ferrothorn for 12 damage
+Player A: Starmie fainted
+Player A: Switched out Starmie for Jirachi
+Turn 9:
+Player B: Switched out Latios for Starmie
+Turn 10:
+Player B: Starmie used Rapid Spin on self
+Player A: Jirachi used Calm Mind on self
+Turn 11:
+Player B: Starmie used Hydro Pump on Jirachi but it missed
+Player A: Jirachi used Calm Mind on self
+Turn 12:
+Player B: Starmie used Hydro Pump on self
+Player A: Jirachi used Thunder on Starmie for 100 damage (supereffective)
+Player B: Starmie fainted
+Player B: Switched out Starmie for Garchomp
+Turn 13:
+Player B: Garchomp used Swords Dance on self
+Player A: Jirachi used Icy Wind on Garchomp for 70 damage (supereffective)
+Turn 14:
+Player B: Switched out Garchomp for Politoed
+Player A: Jirachi used Icy Wind on Politoed for 11 damage
+Turn 15:
+Player A: Jirachi used Thunder on Politoed for 89 damage (supereffective)
+Player B: Politoed fainted
+Player B: Switched out Politoed for Garchomp
+Turn 16:
+Player A: Switched out Jirachi for Tentacruel
+Player B: Garchomp used Earthquake on Tentacruel for 92 damage (supereffective)
+Turn 17:
+Player B: Garchomp used Earthquake on Tentacruel for 8 damage (supereffective)
+Player A: Tentacruel fainted
+Player A: Switched out Tentacruel for Starmie
+Turn 18:
+Player B: Switched out Garchomp for Ferrothorn
+Player A: Starmie used Hydro Pump on Ferrothorn for 25 damage
+Turn 19:
+Player A: Switched out Starmie for Jirachi
+Player B: Ferrothorn used Power Whip on Jirachi for -5 damage
+Turn 20:
+Player B: Switched out Ferrothorn for Latios
+Turn 21:
+Player B: Latios used Surf
+Player A: Jirachi used Thunder on Latios for 20 damage
+Turn 22:
+Player A: Switched out Jirachi for Starmie
+Player B: Latios used Surf on Starmie and crit for 72 damage
+Turn 23:
+Player B: Latios used Surf on Starmie and crit for 28 damage
+Player A: Starmie fainted
+Player A: Switched out Starmie for Mamoswine
+Turn 24:
+Player A: Mamoswine used Ice Shard on Latios and crit for 80 damage (supereffective)
+Player B: Latios fainted
+Player B: Switched out Latios for Ferrothorn
+Turn 25:
+Player A: Switched out Mamoswine for Jirachi
+Player B: Ferrothorn used Power Whip on Jirachi for 5 damage
+Turn 26:
+Player B: Switched out Ferrothorn for Garchomp
+Turn 27:
+Player B: Garchomp used Earthquake
+Player A: Jirachi used Icy Wind on Garchomp for 30 damage (supereffective)
+Player B: Garchomp fainted
+Player B: Switched out Garchomp for Ferrothorn
+Turn 28:
+Player B: Ferrothorn used Gyro Ball on self
+Turn 29:
+Player A: Jirachi used Calm Mind on self
+Player B: Ferrothorn used Gyro Ball on self
+Turn 30:
+Player B: Ferrothorn used Gyro Ball on self
+Turn 31:
+Player A: Jirachi used Thunder on Ferrothorn and crit for 13 damage
+Player B: Ferrothorn used Gyro Ball on self
+Turn 32:
+Player A: Jirachi used Thunder on Ferrothorn for 15 damage
+Player B: Ferrothorn can't move because it is paralyzed
+Turn 33:
+Player A: Jirachi used Thunder on Ferrothorn for 15 damage
+Player B: Ferrothorn used Gyro Ball on Jirachi for 3 damage
+Turn 34:
+Player A: Jirachi used Thunder on Ferrothorn for 13 damage
+Player B: Ferrothorn can't move because it is paralyzed
+Turn 35:
+Player A: Jirachi used Thunder on Ferrothorn for 14 damage
+Player B: Ferrothorn used Gyro Ball on Jirachi for 9 damage
+Player A: Jirachi fainted
+Player A: Switched out Jirachi for Mamoswine
+Turn 36:
+Player A: Mamoswine used Earthquake on Ferrothorn for 5 damage
+Player B: Ferrothorn fainted

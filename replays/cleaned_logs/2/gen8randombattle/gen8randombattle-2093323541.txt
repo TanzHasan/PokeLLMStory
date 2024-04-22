@@ -1,0 +1,63 @@
+Battle start:
+Player A sent out Zapdos
+Player B sent out Dugtrio-Alola
+Turn 1:
+Player B: Dugtrio-Alola used Stealth Rock on self
+Player A: Zapdos used Heat Wave on Dugtrio-Alola for 174 damage (supereffective)
+Turn 2:
+Player B: Switched out Dugtrio-Alola for Hippowdon
+Turn 3:
+Player A: Switched out Zapdos for Beartic
+Player B: Hippowdon used Toxic
+Turn 4:
+Player B: Switched out Hippowdon for Dugtrio-Alola
+Player A: Beartic used Icicle Crash on Dugtrio-Alola but it missed
+Player B: Hippowdon fainted
+Player B: Switched out Hippowdon for Ho-Oh
+Turn 5:
+Player B: Ho-Oh used Sacred Fire on Beartic for 295 damage (supereffective)
+Player A: Beartic used Stone Edge on Ho-Oh for 272 damage (supereffective)
+Player B: Ho-Oh fainted
+Player A: Beartic fainted
+Player B: Switched out Ho-Oh for Hippowdon
+Player A: Switched out Beartic for Zapdos
+Turn 6:
+Player A: Switched out Zapdos for Dusknoir
+Player B: Hippowdon used Toxic
+Turn 7:
+Player B: Switched out Hippowdon for Registeel
+Player A: Dusknoir used Ice Punch on Registeel for 20 damage
+Turn 8:
+Player A: Switched out Dusknoir for Zapdos
+Player B: Registeel used Curse on self
+Turn 9:
+Player B: Switched out Registeel for Hippowdon
+Player A: Zapdos used Heat Wave on Hippowdon for 84 damage
+Turn 10:
+Player A: Zapdos used Discharge but it had no effect on Hippowdon
+Player B: Hippowdon used Stone Edge on Zapdos for 194 damage (supereffective)
+Turn 11:
+Player A: Switched out Zapdos for Dusknoir
+Player B: Hippowdon used Stone Edge on Dusknoir and crit for 141 damage
+Turn 12:
+Player B: Switched out Hippowdon for Registeel
+Player A: Dusknoir used Earthquake on Registeel for 78 damage (supereffective)
+Turn 13:
+Player B: Registeel used Rest and healed for 98
+Player A: Dusknoir used Earthquake on Registeel for 106 damage (supereffective)
+Turn 14:
+Player B: Registeel can't move because it is asleep
+Player B: Registeel used Sleep Talk on self
+Player A: Dusknoir used Earthquake on Registeel for 90 damage (supereffective)
+Player A: Dusknoir fainted
+Player A: Switched out Dusknoir for Diggersby
+Turn 15:
+Player B: Switched out Registeel for Hippowdon
+Player A: Diggersby used Swords Dance on self
+Turn 16:
+Player A: Diggersby used Knock Off on Hippowdon for -193 damage
+Player B: Hippowdon used Max Quake on Diggersby for 169 damage
+Turn 17:
+Player A: Diggersby used Quick Attack on Hippowdon for 114 damage
+Player B: Hippowdon used Max Quake on Diggersby for 30 damage
+Player A: Diggersby fainted

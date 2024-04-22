@@ -1,0 +1,91 @@
+Battle start:
+Player A sent out Excadrill
+Player B sent out Rhyperior
+Turn 1:
+Player A: Excadrill used Earthquake on Rhyperior for 62 damage (supereffective)
+Player B: Rhyperior used Earthquake on Excadrill for 99 damage (supereffective)
+Turn 2:
+Player B: Switched out Rhyperior for Mandibuzz
+Player A: Excadrill used Earthquake but it had no effect on Mandibuzz
+Turn 3:
+Player A: Switched out Excadrill for Iron Crown
+Player B: Mandibuzz used U-turn on Iron Crown and crit for 16 damage
+Player B: Switched out Mandibuzz for Empoleon
+Turn 4:
+Player A: Iron Crown used Focus Blast on Empoleon for 46 damage (supereffective)
+Player B: Empoleon used Flip Turn on Iron Crown for 17 damage
+Player B: Switched out Empoleon for Mienshao
+Turn 5:
+Player B: Mienshao used U-turn on Iron Crown for 25 damage
+Player B: Switched out Mienshao for Mandibuzz
+Player A: Iron Crown used Expanding Force but it had no effect on Mandibuzz
+Turn 6:
+Player A: Iron Crown used Calm Mind on self
+Player B: Mandibuzz used Foul Play on Iron Crown for 40 damage (supereffective)
+Turn 7:
+Player A: Iron Crown used Tachyon Cutter on Mandibuzz for 33 damage
+Player B: Mandibuzz used Foul Play on Iron Crown for 2 damage (supereffective)
+Player A: Iron Crown fainted
+Player A: Switched out Iron Crown for Excadrill
+Turn 8:
+Player A: Excadrill used Rock Tomb on Mandibuzz but it missed
+Player B: Mandibuzz used Roost and healed for 51
+Turn 9:
+Player B: Switched out Mandibuzz for Hydrapple
+Player A: Excadrill used Stealth Rock on self
+Turn 10:
+Player A: Excadrill used Rock Tomb on Hydrapple for 15 damage
+Player B: Hydrapple used Giga Drain on Excadrill for 1 damage
+Player B: Hydrapple used Giga Drain and healed for 0
+Player A: Excadrill fainted
+Player A: Switched out Excadrill for Hawlucha
+Turn 11:
+Player A: Hawlucha used Acrobatics on Hydrapple for 34 damage (supereffective)
+Player B: Hydrapple used Fickle Beam on Hawlucha for 69 damage
+Turn 12:
+Player A: Hawlucha used Acrobatics on Hydrapple for 35 damage (supereffective)
+Player B: Hydrapple used Fickle Beam on Hawlucha for 31 damage
+Player A: Hawlucha fainted
+Player A: Switched out Hawlucha for Polteageist
+Turn 13:
+Player A: Polteageist used Shadow Ball on Hydrapple for 16 damage
+Player B: Hydrapple fainted
+Player B: Switched out Hydrapple for Mienshao
+Turn 14:
+Player B: Mienshao used Knock Off on Polteageist for 99 damage (supereffective)
+Player A: Polteageist used Shell Smash on self
+Turn 15:
+Player B: Switched out Mienshao for Empoleon
+Player A: Polteageist used Shadow Ball on Empoleon for 54 damage
+Player B: Mienshao fainted
+Player B: Switched out Mienshao for Lokix
+Turn 16:
+Player A: Switched out Polteageist for Mandibuzz
+Player B: Lokix used First Impression on Mandibuzz for 25 damage
+Turn 17:
+Player B: Lokix used U-turn on Mandibuzz for 21 damage
+Player B: Switched out Lokix for Mandibuzz
+Player A: Mandibuzz used Foul Play on Mandibuzz for 6 damage
+Turn 18:
+Player B: Mandibuzz used Toxic
+Player A: Mandibuzz used Toxic
+Turn 19:
+Player B: Mandibuzz used U-turn on Mandibuzz for 12 damage
+Player B: Switched out Mandibuzz for Mienshao
+Player A: Mandibuzz used Roost and healed for 50
+Turn 20:
+Player B: Mienshao used Triple Axel on Mandibuzz for 25 damage (supereffective)
+Player A: Mandibuzz used Foul Play on Mienshao for 45 damage
+Player B: Mienshao fainted
+Player B: Switched out Mienshao for Lokix
+Turn 21:
+Player B: Lokix used Knock Off on Mandibuzz for 31 damage
+Player A: Mandibuzz fainted
+Player A: Switched out Mandibuzz for Indeedee
+Turn 22:
+Player A: Indeedee used Healing Wish on self
+Player A: Indeedee fainted
+Player A: Switched out Indeedee for Polteageist
+Turn 23:
+Player B: Lokix used Knock Off on Polteageist for 1 damage (supereffective)
+Player A: Polteageist fainted

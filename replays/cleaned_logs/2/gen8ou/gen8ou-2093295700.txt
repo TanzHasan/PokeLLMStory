@@ -1,0 +1,163 @@
+Battle start:
+Player A sent out Clefable
+Player B sent out Dragapult
+Turn 1:
+Player B: Dragapult used U-turn on Clefable for 6 damage
+Player B: Switched out Dragapult for Tapu Fini
+Player A: Clefable used Knock Off on Tapu Fini for 7 damage
+Turn 2:
+Player A: Switched out Clefable for Slowking-Galar
+Player B: Tapu Fini used Trick on self
+Turn 3:
+Player B: Switched out Tapu Fini for Landorus-Therian
+Player A: Slowking-Galar used Sludge Bomb on Landorus-Therian for 16 damage
+Turn 4:
+Player A: Switched out Slowking-Galar for Rotom-Wash
+Player B: Landorus-Therian used Stealth Rock on self
+Turn 5:
+Player B: Switched out Landorus-Therian for Dragapult
+Player A: Rotom-Wash used Hydro Pump on Dragapult and crit for 41 damage
+Turn 6:
+Player B: Dragapult used Shadow Ball on Rotom-Wash for 48 damage
+Player A: Rotom-Wash used Volt Switch on Dragapult for 18 damage
+Player A: Switched out Rotom-Wash for Clefable
+Turn 7:
+Player B: Switched out Dragapult for Melmetal
+Player A: Clefable used Stealth Rock on self
+Turn 8:
+Player A: Switched out Clefable for Tangrowth
+Player B: Switched out Melmetal for Tapu Lele
+Turn 9:
+Player A: Switched out Tangrowth for Slowking-Galar
+Player B: Tapu Lele used Psyshock on Slowking-Galar for 78 damage
+Turn 10:
+Player B: Switched out Tapu Lele for Landorus-Therian
+Player A: Switched out Slowking-Galar for Tangrowth
+Turn 11:
+Player B: Landorus-Therian used Knock Off on Tangrowth for 30 damage
+Player A: Tangrowth used Sleep Powder on Landorus-Therian but it missed
+Turn 12:
+Player B: Landorus-Therian used U-turn on Tangrowth for 25 damage (supereffective)
+Player B: Switched out Landorus-Therian for Tapu Fini
+Player A: Tangrowth used Focus Blast on Tapu Fini for 39 damage
+Turn 13:
+Player B: Switched out Tapu Fini for Tapu Lele
+Player A: Switched out Tangrowth for Slowking-Galar
+Turn 14:
+Player A: Switched out Slowking-Galar for Excadrill
+Player B: Tapu Lele used Moonblast on Excadrill for 62 damage
+Turn 15:
+Player A: Switched out Excadrill for Slowking-Galar
+Player B: Tapu Lele used Moonblast on Slowking-Galar for -11 damage
+Turn 16:
+Player B: Switched out Tapu Lele for Landorus-Therian
+Player A: Switched out Slowking-Galar for Rotom-Wash
+Turn 17:
+Player B: Switched out Landorus-Therian for Tapu Fini
+Player A: Rotom-Wash used Hydro Pump on Tapu Fini but it missed
+Turn 18:
+Player B: Switched out Tapu Fini for Landorus-Therian
+Player A: Rotom-Wash used Volt Switch but it had no effect on Landorus-Therian
+Turn 19:
+Player B: Switched out Landorus-Therian for Tapu Fini
+Player A: Rotom-Wash used Hydro Pump on Tapu Fini but it missed
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Tapu Lele
+Turn 20:
+Player A: Switched out Rotom-Wash for Slowking-Galar
+Player B: Tapu Lele used Psyshock on Slowking-Galar for 33 damage
+Player A: Rotom-Wash fainted
+Player A: Switched out Rotom-Wash for Tyranitar
+Turn 21:
+Player B: Switched out Tapu Lele for Melmetal
+Player A: Tyranitar used Crunch on Melmetal for 45 damage
+Turn 22:
+Player A: Switched out Tyranitar for Rotom-Wash
+Player B: Melmetal used Double Iron Bash on Rotom-Wash for 12 damage
+Turn 23:
+Player B: Melmetal used Protect on self
+Player A: Rotom-Wash used Pain Split on self
+Turn 24:
+Player B: Switched out Melmetal for Dragapult
+Player A: Rotom-Wash used Hydro Pump on Dragapult for 25 damage
+Player B: Melmetal fainted
+Player B: Switched out Melmetal for Tapu Lele
+Turn 25:
+Player B: Tapu Lele used Moonblast on Rotom-Wash for 28 damage
+Player A: Rotom-Wash fainted
+Player A: Switched out Rotom-Wash for Clefable
+Turn 26:
+Player B: Tapu Lele used Moonblast on Clefable for 77 damage
+Player A: Clefable used Knock Off on Tapu Lele for 73 damage
+Turn 27:
+Player B: Tapu Lele used Moonblast on Clefable for 17 damage
+Player A: Clefable fainted
+Player A: Switched out Clefable for Excadrill
+Turn 28:
+Player B: Switched out Tapu Lele for Blacephalon
+Player A: Excadrill used Rapid Spin but it had no effect on Blacephalon
+Turn 29:
+Player B: Switched out Blacephalon for Landorus-Therian
+Player A: Excadrill used Rapid Spin on Landorus-Therian for 32 damage
+Turn 30:
+Player A: Excadrill used Swords Dance on self
+Player B: Landorus-Therian used U-turn on Excadrill and crit for 12 damage
+Player B: Switched out Landorus-Therian for Blacephalon
+Turn 31:
+Player B: Switched out Blacephalon for Landorus-Therian
+Player A: Excadrill used Iron Head on Landorus-Therian for 41 damage
+Player B: Blacephalon fainted
+Player B: Switched out Blacephalon for Melmetal
+Turn 32:
+Player A: Switched out Excadrill for Tangrowth
+Player B: Melmetal used Double Iron Bash on Tangrowth for 25 damage
+Turn 33:
+Player B: Melmetal used Protect on self
+Player A: Tangrowth used Sleep Powder on self
+Turn 34:
+Player B: Switched out Melmetal for Blacephalon
+Player A: Tangrowth used Sleep Powder
+Turn 35:
+Player A: Switched out Tangrowth for Tyranitar
+Player B: Blacephalon can't move because it is asleep
+Turn 36:
+Player B: Blacephalon can't move because it is asleep
+Player A: Tyranitar used Crunch on Blacephalon for 100 damage (supereffective)
+Player B: Blacephalon fainted
+Player B: Switched out Blacephalon for Melmetal
+Turn 37:
+Player A: Switched out Tyranitar for Tangrowth
+Player B: Melmetal used Double Iron Bash on Tangrowth for 24 damage
+Turn 38:
+Player B: Melmetal used Protect on self
+Player A: Tangrowth used Focus Blast on self
+Turn 39:
+Player A: Tangrowth used Focus Blast on Melmetal but it missed
+Player B: Melmetal used Double Iron Bash on Tangrowth for 16 damage
+Player A: Tangrowth fainted
+Player A: Switched out Tangrowth for Tyranitar
+Turn 40:
+Player B: Melmetal used Protect on self
+Player A: Tyranitar used Fire Punch on self
+Turn 41:
+Player A: Tyranitar used Fire Punch on Melmetal for 6 damage (supereffective)
+Player B: Melmetal used Thunder Punch on Tyranitar for 45 damage
+Turn 42:
+Player A: Switched out Tyranitar for Excadrill
+Turn 43:
+Player B: Melmetal used Protect on self
+Player A: Excadrill used Earthquake on self
+Turn 44:
+Player A: Excadrill used Earthquake on Melmetal for 49 damage (supereffective)
+Player B: Melmetal fainted
+Player B: Switched out Melmetal for Tapu Lele
+Turn 45:
+Player A: Switched out Excadrill for Tyranitar
+Player B: Tapu Lele used Thunderbolt on Tyranitar for 22 damage
+Turn 46:
+Player B: Tapu Lele used Moonblast on Tyranitar for 33 damage (supereffective)
+Player A: Tyranitar fainted
+Player A: Switched out Tyranitar for Excadrill
+Turn 47:
+Player A: Excadrill used Rapid Spin on Tapu Lele for 27 damage
+Player B: Tapu Lele fainted

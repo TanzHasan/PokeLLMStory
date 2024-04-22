@@ -1,0 +1,182 @@
+Battle start:
+Player A sent out Alomomola
+Player B sent out Alomomola
+Turn 1:
+Player A: Switched out Alomomola for Giratina
+Player B: Alomomola used Scald on Giratina for 4 damage
+Turn 2:
+Player A: Giratina used Will-O-Wisp
+Player B: Alomomola used Scald on Giratina for 4 damage
+Turn 3:
+Player A: Switched out Giratina for Alomomola
+Player B: Alomomola used Flip Turn on Alomomola and crit for 4 damage
+Player B: Switched out Alomomola for Dragapult
+Turn 4:
+Player A: Alomomola used Protect on self
+Player B: Dragapult used Will-O-Wisp on self
+Turn 5:
+Player B: Dragapult used Will-O-Wisp
+Player A: Alomomola used Flip Turn on Dragapult for 5 damage
+Player A: Switched out Alomomola for Clefable
+Turn 6:
+Player B: Dragapult used U-turn on Clefable for 6 damage
+Player B: Switched out Dragapult for Skarmory
+Player A: Clefable used Knock Off on Skarmory for 6 damage
+Turn 7:
+Player B: Skarmory used Spikes on self
+Player A: Clefable used Stealth Rock on self
+Turn 8:
+Player A: Switched out Clefable for Skarmory
+Player B: Skarmory used Spikes on self
+Turn 9:
+Player B: Switched out Skarmory for Dragapult
+Player A: Skarmory used Spikes on self
+Turn 10:
+Player A: Switched out Skarmory for Alomomola
+Player B: Dragapult used Will-O-Wisp but it failed
+Turn 11:
+Player B: Dragapult used Hex on Alomomola for 31 damage
+Player A: Alomomola used Flip Turn on Dragapult for 6 damage
+Player A: Switched out Alomomola for Clefable
+Turn 12:
+Player B: Dragapult used U-turn on Clefable for 0 damage
+Player B: Switched out Dragapult for Skarmory
+Player A: Clefable used Moonblast on Skarmory for 28 damage
+Turn 13:
+Player A: Switched out Clefable for Skarmory
+Player B: Skarmory used Body Press on Skarmory for 12 damage
+Turn 14:
+Player B: Skarmory used Roost and healed for 49
+Player A: Skarmory used Spikes on self
+Turn 15:
+Player B: Switched out Skarmory for Dragapult
+Player A: Skarmory used Spikes on self
+Turn 16:
+Player A: Switched out Skarmory for Alomomola
+Player B: Dragapult used Hex on Alomomola for 10 damage
+Turn 17:
+Player B: Dragapult used U-turn on Alomomola for 34 damage (supereffective)
+Player B: Switched out Dragapult for Alomomola
+Player A: Alomomola used Wish on self
+Turn 18:
+Player B: Switched out Alomomola for Eternatus
+Turn 19:
+Player A: Switched out Alomomola for Clodsire
+Player B: Eternatus used Toxic Spikes on self
+Turn 20:
+Player B: Switched out Eternatus for Skarmory
+Player A: Clodsire used Earthquake but it had no effect on Skarmory
+Turn 21:
+Player A: Switched out Clodsire for Skeledirge
+Player B: Skarmory used Whirlwind on self
+Turn 22:
+Player A: Switched out Skeledirge for Skeledirge
+Player B: Switched out Skarmory for Alomomola
+Turn 23:
+Player A: Skeledirge used Hex on Alomomola for 51 damage
+Player B: Alomomola used Flip Turn on Skeledirge for 14 damage (supereffective)
+Player B: Switched out Alomomola for Ting-Lu
+Turn 24:
+Player A: Skeledirge used Will-O-Wisp on Ting-Lu but it missed
+Player B: Ting-Lu used Ruination on Skeledirge for 43 damage
+Turn 25:
+Player A: Skeledirge used Will-O-Wisp
+Player B: Ting-Lu used Ruination on Skeledirge for 21 damage
+Turn 26:
+Player A: Skeledirge used Slack Off and healed for 50
+Player B: Ting-Lu used Ruination on Skeledirge but it missed
+Turn 27:
+Player A: Switched out Skeledirge for Alomomola
+Player B: Ting-Lu used Ruination on Alomomola for -25 damage
+Turn 28:
+Player B: Switched out Ting-Lu for Alomomola
+Player A: Alomomola used Whirlpool on Alomomola but it missed
+Turn 29:
+Player B: Alomomola used Wish on self
+Player A: Alomomola used Wish on self
+Turn 30:
+Player B: Alomomola used Scald on Alomomola for 24 damage
+Player A: Alomomola used Whirlpool on Alomomola for -18 damage
+Turn 31:
+Player B: Alomomola used Flip Turn on Alomomola for -38 damage
+Player B: Switched out Alomomola for Eternatus
+Player A: Alomomola used Flip Turn on Eternatus for 3 damage
+Player A: Switched out Alomomola for Skarmory
+Turn 32:
+Player A: Switched out Skarmory for Clodsire
+Player B: Eternatus used Flamethrower on Clodsire for 23 damage
+Turn 33:
+Player B: Switched out Eternatus for Alomomola
+Player A: Switched out Clodsire for Alomomola
+Turn 34:
+Player B: Switched out Alomomola for Eternatus
+Player A: Switched out Alomomola for Giratina
+Turn 35:
+Player A: Switched out Giratina for Clodsire
+Player B: Eternatus used Flamethrower on Clodsire for 23 damage
+Turn 36:
+Player B: Eternatus used Flamethrower on Clodsire for 24 damage
+Player A: Clodsire used Recover and healed for 50
+Turn 37:
+Player A: Switched out Clodsire for Giratina
+Player B: Eternatus used Flamethrower on Giratina for 29 damage
+Turn 38:
+Player B: Switched out Eternatus for Alomomola
+Player A: Switched out Giratina for Clodsire
+Turn 39:
+Player A: Switched out Clodsire for Alomomola
+Player B: Alomomola used Flip Turn on Alomomola for -35 damage
+Player B: Switched out Alomomola for Eternatus
+Turn 40:
+Player B: Eternatus used Toxic Spikes on self
+Player A: Alomomola used Wish on self
+Turn 41:
+Player B: Switched out Eternatus for Alomomola
+Player A: Alomomola used Flip Turn on Alomomola for -31 damage
+Player A: Switched out Alomomola for Giratina
+Turn 42:
+Player B: Alomomola used Flip Turn on Giratina for -30 damage
+Player B: Switched out Alomomola for Gholdengo
+Player A: Giratina used Dragon Tail on Gholdengo for 6 damage
+Turn 43:
+Player A: Switched out Giratina for Alomomola
+Player B: Gholdengo used Hex on Alomomola for 14 damage
+Turn 44:
+Player B: Gholdengo used U-turn on Alomomola for 35 damage (supereffective)
+Player B: Switched out Gholdengo for Gholdengo
+Player A: Alomomola used Flip Turn on Gholdengo for 8 damage
+Player A: Switched out Alomomola for Clodsire
+Turn 45:
+Player B: Switched out Gholdengo for Alomomola
+Player A: Clodsire used Haze on self
+Turn 46:
+Player A: Switched out Clodsire for Giratina
+Player B: Alomomola used Flip Turn on Giratina for 8 damage
+Player B: Switched out Alomomola for Dragapult
+Turn 47:
+Player A: Switched out Giratina for Alomomola
+Player B: Dragapult used U-turn on Alomomola for -5 damage (supereffective)
+Player B: Switched out Dragapult for Eternatus
+Turn 48:
+Player B: Eternatus used Flamethrower on Alomomola for 20 damage
+Player A: Alomomola used Wish on self
+Turn 49:
+Player A: Alomomola used Protect on self
+Player B: Eternatus used Toxic Spikes on self
+Turn 50:
+Player B: Switched out Eternatus for Alomomola
+Player A: Switched out Alomomola for Clodsire
+Turn 51:
+Player A: Switched out Clodsire for Giratina
+Player B: Alomomola used Flip Turn on Giratina for 8 damage
+Player B: Switched out Alomomola for Gholdengo
+Turn 52:
+Player A: Switched out Giratina for Clodsire
+Player B: Gholdengo used Shadow Ball on Clodsire for 28 damage
+Turn 53:
+Player B: Gholdengo used Make It Rain on Clodsire and crit for 52 damage
+Player A: Clodsire fainted
+Player A: Switched out Clodsire for Alomomola
+Turn 54:
+Player B: Gholdengo used Nasty Plot on self
+Player A: Alomomola used Flip Turn on Gholdengo for 9 damage

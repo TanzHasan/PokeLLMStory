@@ -1,0 +1,94 @@
+Battle start:
+Player A sent out Seismitoad
+Player B sent out Espeon
+Turn 1:
+Player B: Switched out Espeon for Leafeon
+Player A: Seismitoad used Stealth Rock on self
+Turn 2:
+Player A: Switched out Seismitoad for Arbok
+Player B: Leafeon used Toxic but it had no effect on Arbok
+Turn 3:
+Player B: Leafeon used Knock Off on Arbok for 64 damage
+Player A: Arbok used Coil on self
+Turn 4:
+Player B: Switched out Leafeon for Whiscash
+Player A: Arbok used Coil on self
+Turn 5:
+Player A: Arbok used Earthquake on Whiscash for 182 damage
+Player B: Whiscash used Earthquake on Arbok for 148 damage (supereffective)
+Turn 6:
+Player A: Arbok used Earthquake on Whiscash for 125 damage
+Player B: Whiscash fainted
+Player B: Switched out Whiscash for Leafeon
+Turn 7:
+Player A: Arbok used Sucker Punch on Leafeon for 102 damage
+Player B: Leafeon used Leaf Blade on Arbok for 31 damage
+Turn 8:
+Player B: Leafeon used Leaf Blade on Arbok for 6 damage
+Player A: Arbok fainted
+Player A: Switched out Arbok for Accelgor
+Turn 9:
+Player B: Switched out Leafeon for Passimian
+Player A: Accelgor used Toxic Spikes on self
+Turn 10:
+Player A: Switched out Accelgor for Slowking
+Player B: Passimian used Bulk Up on self
+Turn 11:
+Player B: Passimian used Bulk Up on self
+Player A: Slowking used Scald on Passimian for 126 damage
+Turn 12:
+Player B: Passimian used Knock Off on Slowking for 173 damage (supereffective)
+Player A: Slowking used Scald on Passimian for 114 damage
+Turn 13:
+Player B: Passimian used Drain Punch on Slowking for 46 damage
+Player B: Passimian used Drain Punch and healed for 23
+Player A: Slowking used Slack Off and healed for 155
+Turn 14:
+Player B: Passimian used Bulk Up on self
+Player A: Slowking used Scald on Passimian for 92 damage
+Player B: Passimian fainted
+Player B: Switched out Passimian for Leafeon
+Turn 15:
+Player A: Switched out Slowking for Accelgor
+Player B: Leafeon used Synthesis and healed for 102
+Turn 16:
+Player A: Accelgor used Encore on self
+Player B: Leafeon used Synthesis and healed for 0
+Turn 17:
+Player A: Accelgor used Bug Buzz on Leafeon for 258 damage (supereffective)
+Player B: Leafeon fainted
+Player B: Switched out Leafeon for Espeon
+Turn 18:
+Player A: Accelgor used Bug Buzz on Espeon and crit for 246 damage (supereffective)
+Player B: Espeon fainted
+Player B: Switched out Espeon for Tapu Fini
+Turn 19:
+Player A: Switched out Accelgor for Slowking
+Player B: Tapu Fini used Calm Mind on self
+Turn 20:
+Player B: Tapu Fini used Moonblast on Slowking for 39 damage
+Player A: Slowking used Ice Beam on Tapu Fini for 64 damage
+Turn 21:
+Player B: Tapu Fini used Calm Mind on self
+Player A: Slowking used Slack Off and healed for 103
+Turn 22:
+Player B: Tapu Fini used Calm Mind on self
+Player A: Slowking used Ice Beam on Tapu Fini for 42 damage
+Turn 23:
+Player B: Tapu Fini used Moonblast on Slowking for 177 damage
+Player A: Slowking used Ice Beam on Tapu Fini for 26 damage
+Turn 24:
+Player A: Switched out Slowking for Chimecho
+Player B: Tapu Fini used Calm Mind on self
+Turn 25:
+Player B: Tapu Fini used Surf on Chimecho for 226 damage
+Player A: Chimecho used Knock Off on Tapu Fini for 53 damage
+Turn 26:
+Player A: Switched out Chimecho for Slowking
+Player B: Tapu Fini used Moonblast on Slowking for 123 damage
+Player B: Tapu Fini fainted
+Player B: Switched out Tapu Fini for Reshiram
+Turn 27:
+Player B: Reshiram used Draco Meteor on Slowking but it missed
+Player A: Slowking used Scald on Reshiram for 150 damage
+Turn 28:

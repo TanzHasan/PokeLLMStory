@@ -1,0 +1,7 @@
+Battle start:
+Player A sent out Inteleon
+Player B sent out Ditto
+Turn 1:
+Player A: Switched out Inteleon for Tapu Koko
+Player B: Ditto used Air Slash on Tapu Koko but it missed
+Turn 2:

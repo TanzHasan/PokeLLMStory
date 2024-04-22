@@ -1,0 +1,99 @@
+Battle start:
+Player A sent out Ceruledge
+Player B sent out Clodsire
+Turn 1:
+Player A: Ceruledge used Taunt on self
+Player B: Clodsire can't move because move: Taunt
+Turn 2:
+Player A: Ceruledge used Bulk Up on self
+Player B: Clodsire used Earthquake on Ceruledge and crit for 83 damage (supereffective)
+Turn 3:
+Player A: Ceruledge used Bitter Blade on Clodsire for 65 damage
+Player A: Ceruledge used Bitter Blade and healed for 46
+Player B: Clodsire used Earthquake on Ceruledge for 37 damage (supereffective)
+Turn 4:
+Player B: Switched out Clodsire for Latios
+Player A: Ceruledge used Bitter Blade on Latios and crit for 44 damage
+Player A: Ceruledge used Bitter Blade and healed for 28
+Turn 5:
+Player B: Latios used Weather Ball on Ceruledge for 38 damage
+Player A: Ceruledge used Throat Chop on Latios for 56 damage
+Player B: Latios fainted
+Player B: Switched out Latios for Palossand
+Turn 6:
+Player B: Palossand used Destiny Bond on self
+Player A: Ceruledge used Throat Chop on Palossand for 90 damage (supereffective)
+Turn 7:
+Player A: Ceruledge used Taunt on self
+Player B: Palossand used Poltergeist on Ceruledge for 16 damage
+Player A: Ceruledge fainted
+Player A: Switched out Ceruledge for Keldeo
+Turn 8:
+Player B: Switched out Palossand for Blissey
+Player A: Keldeo used Calm Mind on self
+Turn 9:
+Player A: Keldeo used Sacred Sword on Blissey for 19 damage
+Player B: Blissey used Alluring Voice on Keldeo for 58 damage (supereffective)
+Turn 10:
+Player A: Keldeo used Hydro Pump on Blissey for 35 damage
+Player B: Blissey used Alluring Voice on Keldeo for 42 damage (supereffective)
+Player A: Keldeo fainted
+Player A: Switched out Keldeo for Garganacl
+Turn 11:
+Player B: Blissey used Soft-Boiled and healed for 50
+Player A: Garganacl used Salt Cure on Blissey and crit for 14 damage
+Turn 12:
+Player B: Switched out Blissey for Clodsire
+Player A: Garganacl used Body Press on Clodsire for 30 damage
+Turn 13:
+Player B: Clodsire used Stealth Rock on self
+Player A: Garganacl used Body Press on Clodsire for 5 damage
+Player B: Clodsire fainted
+Player B: Switched out Clodsire for Palossand
+Turn 14:
+Player B: Palossand used Destiny Bond on self
+Player A: Garganacl used Salt Cure on Palossand for 5 damage
+Player B: Palossand fainted
+Player B: Switched out Palossand for Pecharunt
+Turn 15:
+Player B: Pecharunt used Malignant Chain on Garganacl for 9 damage
+Player A: Garganacl used Salt Cure on Pecharunt for 8 damage
+Turn 16:
+Player A: Switched out Garganacl for Kyurem
+Player B: Pecharunt used Malignant Chain on Kyurem for 55 damage
+Turn 17:
+Player A: Kyurem used Weather Ball on Pecharunt for 88 damage
+Player B: Pecharunt used Malignant Chain on Kyurem for 40 damage
+Player A: Kyurem fainted
+Player B: Pecharunt fainted
+Player A: Switched out Kyurem for Scream Tail
+Player B: Switched out Pecharunt for Necrozma-Dusk-Mane
+Turn 18:
+Player A: Scream Tail used Fire Blast on Necrozma-Dusk-Mane but it missed
+Player B: Necrozma-Dusk-Mane used Sunsteel Strike on Scream Tail for 88 damage (supereffective)
+Turn 19:
+Player A: Scream Tail used Fire Blast on Necrozma-Dusk-Mane for 42 damage (supereffective)
+Player B: Necrozma-Dusk-Mane used Moonlight and healed for 42
+Turn 20:
+Player A: Scream Tail used Encore on self
+Turn 21:
+Player B: Switched out Necrozma-Dusk-Mane for Blissey
+Player A: Scream Tail used Calm Mind on self
+Turn 22:
+Player A: Scream Tail used Boomburst on Blissey for 55 damage
+Player B: Blissey used Alluring Voice on Scream Tail for 12 damage
+Player A: Scream Tail fainted
+Player A: Switched out Scream Tail for Dragonite
+Turn 23:
+Player B: Switched out Blissey for Necrozma-Dusk-Mane
+Player A: Dragonite used Dragon Dance on self
+Turn 24:
+Player A: Dragonite used Earthquake on Necrozma-Dusk-Mane for 51 damage (supereffective)
+Player B: Necrozma-Dusk-Mane used Sunsteel Strike on Dragonite for 98 damage (supereffective)
+Turn 25:
+Player A: Dragonite used Earthquake on Necrozma-Dusk-Mane for 49 damage (supereffective)
+Player B: Necrozma-Dusk-Mane fainted
+Player B: Switched out Necrozma-Dusk-Mane for Blissey
+Turn 26:
+Player A: Dragonite used Extreme Speed on Blissey for 27 damage
+Player B: Blissey fainted

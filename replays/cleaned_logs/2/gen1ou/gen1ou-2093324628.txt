@@ -29,6 +29,7 @@ Player B: Tauros used Body Slam on Tauros for 10 damage
 Player A: Tauros fainted
 Player A: Switched out Tauros for Ditto
 Turn 8:
+Player B: Tauros used Hyper Beam on Ditto but it missed
 Player A: Ditto used Transform on self
 Turn 9:
 Player B: Switched out Tauros for Snorlax
@@ -49,6 +50,7 @@ Player B: Snorlax fainted
 Player B: Switched out Snorlax for Raticate
 Turn 14:
 Player A: Ditto used Hyper Beam on Raticate for 81 damage
+Player B: Raticate used Hyper Beam on Ditto but it missed
 Turn 15:
 Player A: Ditto can't move because recharge
 Player B: Raticate used Hyper Beam on Ditto for 24 damage

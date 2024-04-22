@@ -1,0 +1,106 @@
+Battle start:
+Player A sent out Alomomola
+Player B sent out Necrozma-Dusk-Mane
+Turn 1:
+Player B: Switched out Necrozma-Dusk-Mane for Zapdos
+Player A: Switched out Alomomola for Corviknight
+Turn 2:
+Player A: Switched out Corviknight for Arceus-Ground
+Player B: Zapdos used U-turn on Arceus-Ground for 9 damage
+Player B: Switched out Zapdos for Chien-Pao
+Turn 3:
+Player A: Switched out Arceus-Ground for Clefable
+Player B: Chien-Pao used Icicle Crash on Clefable for 57 damage
+Turn 4:
+Player B: Switched out Chien-Pao for Zapdos
+Player A: Switched out Clefable for Alomomola
+Turn 5:
+Player B: Zapdos used Discharge on Alomomola for 26 damage (supereffective)
+Player A: Alomomola used Flip Turn on Zapdos for 9 damage
+Player A: Switched out Alomomola for Dragapult
+Turn 6:
+Player A: Dragapult used Shadow Ball on Zapdos for 57 damage
+Player B: Zapdos used Discharge on Dragapult for 20 damage
+Turn 7:
+Player A: Switched out Dragapult for Iron Hands
+Player B: Zapdos used Roost and healed for 50
+Turn 8:
+Player A: Iron Hands used Ice Punch on Zapdos for 33 damage (supereffective)
+Player B: Zapdos used Hurricane on Iron Hands but it missed
+Turn 9:
+Player A: Iron Hands used Swords Dance on self
+Player B: Zapdos used U-turn on Iron Hands for 4 damage
+Player B: Switched out Zapdos for Dragapult
+Turn 10:
+Player A: Switched out Iron Hands for Alomomola
+Player B: Dragapult used Draco Meteor on Alomomola for 10 damage
+Turn 11:
+Player B: Switched out Dragapult for Zapdos
+Player A: Alomomola used Flip Turn on Zapdos for 9 damage
+Player A: Switched out Alomomola for Iron Hands
+Turn 12:
+Player B: Switched out Zapdos for Hatterene
+Player A: Iron Hands used Swords Dance on self
+Turn 13:
+Player A: Iron Hands used Thunder Punch on Hatterene for 54 damage
+Player B: Hatterene used Draining Kiss on Iron Hands for 43 damage (supereffective)
+Player B: Hatterene used Draining Kiss and healed for 40
+Turn 14:
+Player A: Switched out Iron Hands for Alomomola
+Player B: Hatterene can't move because it is paralyzed
+Turn 15:
+Player A: Alomomola used Flip Turn on Hatterene for -1 damage
+Player A: Switched out Alomomola for Arceus-Ground
+Player B: Hatterene can't move because it is paralyzed
+Turn 16:
+Player B: Switched out Hatterene for Zapdos
+Player A: Arceus-Ground used Calm Mind on self
+Turn 17:
+Player B: Switched out Zapdos for Chien-Pao
+Player A: Arceus-Ground used Power Gem on Chien-Pao for 100 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Necrozma-Dusk-Mane
+Turn 18:
+Player A: Arceus-Ground used Judgment on Necrozma-Dusk-Mane for 63 damage (supereffective)
+Player B: Necrozma-Dusk-Mane used Sunsteel Strike on Arceus-Ground for 34 damage
+Turn 19:
+Player A: Arceus-Ground used Recover and healed for 43
+Player B: Necrozma-Dusk-Mane used Sunsteel Strike on Arceus-Ground for 31 damage
+Turn 20:
+Player A: Arceus-Ground used Judgment on Necrozma-Dusk-Mane for 37 damage (supereffective)
+Player B: Necrozma-Dusk-Mane fainted
+Player B: Switched out Necrozma-Dusk-Mane for Dragapult
+Turn 21:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 33 damage
+Player A: Arceus-Ground used Recover and healed for 50
+Turn 22:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 31 damage
+Player A: Arceus-Ground used Calm Mind on self
+Turn 23:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 24 damage
+Player A: Arceus-Ground used Recover and healed for 50
+Turn 24:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 24 damage
+Player A: Arceus-Ground used Calm Mind on self
+Turn 25:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 20 damage
+Player A: Arceus-Ground used Recover and healed for 50
+Turn 26:
+Player B: Dragapult used Shadow Ball on Arceus-Ground for 27 damage
+Player A: Arceus-Ground used Judgment on Dragapult for 100 damage
+Player B: Dragapult fainted
+Player B: Switched out Dragapult for Great Tusk
+Turn 27:
+Player A: Arceus-Ground used Recover and healed for 40
+Player B: Great Tusk used Close Combat on Arceus-Ground for 41 damage
+Turn 28:
+Player A: Arceus-Ground used Judgment on Great Tusk for 100 damage
+Player B: Great Tusk fainted
+Player B: Switched out Great Tusk for Hatterene
+Turn 29:
+Player A: Arceus-Ground used Judgment on Hatterene for 87 damage
+Player B: Hatterene fainted
+Player B: Switched out Hatterene for Zapdos
+Turn 30:
+Player A: Arceus-Ground used Power Gem on Zapdos for 42 damage (supereffective)
+Player B: Zapdos fainted

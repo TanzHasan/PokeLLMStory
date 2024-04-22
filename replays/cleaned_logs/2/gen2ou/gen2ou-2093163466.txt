@@ -9,6 +9,7 @@ Player B: Switched out Snorlax for Misdreavus
 Player A: Machamp used Rock Slide on Misdreavus for 31 damage
 Turn 3:
 Player A: Switched out Machamp for Zapdos
+Player B: Misdreavus used Toxic on Zapdos but it missed
 Turn 4:
 Player B: Misdreavus used Protect on self
 Player A: Zapdos used Thunder on self
@@ -16,6 +17,7 @@ Turn 5:
 Player A: Zapdos used Hidden Power on Misdreavus for 5 damage
 Player B: Misdreavus used Toxic
 Turn 6:
+Player A: Zapdos used Thunder on Misdreavus but it missed
 Player B: Misdreavus used Psychic on Zapdos for 18 damage
 Turn 7:
 Player B: Misdreavus used Protect on self

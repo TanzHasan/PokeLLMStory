@@ -1,0 +1,37 @@
+Battle start:
+Player A sent out Fezandipiti
+Player B sent out Seviper
+Turn 1:
+Player A: Fezandipiti used U-turn on Seviper for 26 damage
+Player A: Switched out Fezandipiti for Deoxys-Defense
+Player B: Seviper used Swords Dance on self
+Turn 2:
+Player A: Deoxys-Defense used Psychic Noise on Seviper for 65 damage
+Player B: Seviper used Trailblaze on Deoxys-Defense for 93 damage
+Turn 3:
+Player B: Seviper used Gunk Shot on Deoxys-Defense but it missed
+Player A: Deoxys-Defense used Teleport on self
+Player A: Switched out Deoxys-Defense for Tentacruel
+Turn 4:
+Player B: Seviper used Earthquake on Tentacruel for 275 damage (supereffective)
+Player A: Tentacruel fainted
+Player A: Switched out Tentacruel for Politoed
+Turn 5:
+Player B: Seviper used Trailblaze on Politoed for 302 damage (supereffective)
+Player A: Politoed fainted
+Player A: Switched out Politoed for Grimmsnarl
+Turn 6:
+Player A: Grimmsnarl used Reflect on self
+Player B: Seviper used Gunk Shot on Grimmsnarl for 293 damage (supereffective)
+Player A: Grimmsnarl fainted
+Player A: Switched out Grimmsnarl for Deoxys-Defense
+Turn 7:
+Player B: Seviper used Swords Dance on self
+Player A: Deoxys-Defense used Psychic Noise on Seviper for 34 damage
+Turn 8:
+Player B: Seviper used Gunk Shot on Deoxys-Defense for 133 damage
+Player A: Deoxys-Defense fainted
+Player A: Switched out Deoxys-Defense for Rampardos
+Turn 9:
+Player B: Seviper used Trailblaze on Rampardos for 321 damage (supereffective)
+Player A: Rampardos fainted
