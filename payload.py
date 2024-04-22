@@ -101,7 +101,7 @@ class BattleHistory:
         if(len(self.battle_logs) < rounds): 
             raise Exception("Not enough rounds to rewind")
         for _ in range(rounds):
-            self.ai_chat_hisotry.pop()
+            self.ai_chat_history.pop()
             self.ai_chat_history.pop()
             self.battle_logs.pop()
             self.generated_story_history.pop()
