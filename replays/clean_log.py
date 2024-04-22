@@ -1,81 +1,106 @@
-"""Initial attempt at cleaning the log. Might not work for every log file."""
-
+from pprint import pprint
 import argparse
-import re
+from parse_log import parse_log_file
+from data_model import Battle
 
+def process_output(battle: Battle):
+    translation = {
+        "p1a": "Player A",
+        "p2a": "Player B",
+    }
 
-def parse_log_file(file_path):
-    # Regular expressions to match different types of lines in the log
-    regex_turn = re.compile(r"^\|turn\|(\d+)$")
-    regex_move = re.compile(r"^\|move\|([^|]+)\|([^|]+)\|([^|]*)")
-    regex_switch = re.compile(r"^\|switch\|([^|]+)\|([^|]+)")
-    regex_faint = re.compile(r"^\|faint\|([^|]+)$")
-    regex_cant = re.compile(r"^\|cant\|([^|]+)\|([^|]+)")
+    status = {
+        "frz": "it is frozen",
+        "slp": "it is asleep",
+        "par": "it is paralyzed",
+        "brn": "it is burned",
+        "psn": "it is poisoned",
+        "tox": "it is badly poisoned",
+        "partiallytrapped": "it is partially trapped",
+        "": "",
+    }
 
-    # Store nickname to Pokemon mapping
-    nickname_to_pokemon = {}
+    output = []
 
-    with open(file_path, "r") as file:
-        current_turn = 0
-        for line in file:
-            line = line.strip()
-            # Check if the line represents a turn
-            match_turn = regex_turn.match(line)
-            if match_turn:
-                current_turn = int(match_turn.group(1))
-                print(f"Turn {current_turn}:")
-                continue
+    for turn in battle.turns:
+        if turn.turn_num == 0:
+            output.append("Battle start:")
+            for action in turn.actions:
+                output.append(f"{translation[action.source]} sent out {action.name}")
+            continue
 
-            # Check if the line represents a move
-            match_move = regex_move.match(line)
-            if match_move:
-                source = match_move.group(1)
-                source_player = source.split(":")[0][:-1]
-                move = match_move.group(2)
-                target = match_move.group(3)
-                if target == "":
-                    print(
-                        f"{source_player}: {nickname_to_pokemon.get(source, source)} failed to use {move}"
-                    )
-                    continue
-                print(
-                    f"{source_player}: {nickname_to_pokemon.get(source, source)} used {move} on {nickname_to_pokemon.get(target, target)}"
-                )
-                continue
+        output.append(f"Turn {turn.turn_num}:")
 
-            # Check if the line represents a switch
-            match_switch = regex_switch.match(line)
-            if match_switch:
-                nickname = match_switch.group(1)
-                nickname_player = nickname.split(":")[0][:-1]
-                pokemon = match_switch.group(2).split(",")[0]
-                nickname_to_pokemon[nickname] = pokemon
-                print(f"{nickname_player}: Switched to {pokemon}")
-                continue
+        active_pokemon = {
+            "p1a": turn.pokemon["p1a"].pokemon_name,
+            "p2a": turn.pokemon["p2a"].pokemon_name,
+        }
 
-            # Check if the line represents a faint
-            match_faint = regex_faint.match(line)
-            if match_faint:
-                pokemon = match_faint.group(1)
-                pokemon_player = pokemon.split(":")[0][:-1]
-                print(
-                    f"{pokemon_player}: {nickname_to_pokemon.get(pokemon, pokemon)} fainted"
-                )
-                continue
+        for action in turn.actions:
+            source_player = translation[action.source]
+            source_pokemon = turn.pokemon[action.source].pokemon_name
 
-            # Check if line represents a Pokemon being unable to move
-            match_cant = regex_cant.match(line)
-            if match_cant:
-                pokemon = match_cant.group(1)
-                pokemon_player = pokemon.split(":")[0][:-1]
-                move = match_cant.group(2)
-                print(
-                    f"{pokemon_player}: {nickname_to_pokemon.get(pokemon, pokemon)} can't move"
-                )
-                continue
+            match action.type:
+                case "switch":
+                    output.append(f"{source_player}: Switched out {source_pokemon} for {action.name}")
+                    active_pokemon[action.source] = action.name
 
+                case "move":
+                    line = f"{source_player}: {source_pokemon} used {action.name}"
+                    for target, action_result in action.results.items():
+                        result = action_result.result
+                        damage = action_result.damage
+                        crit = action_result.crit
+                        target_status = action_result.status
+                        effectiveness = action_result.effectiveness
+                        target_player = translation[target]
+                        target_pokemon = active_pokemon[target]
 
-def main():
+                        match result:
+                            case "hit":
+                                new_line = line + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
+                                if effectiveness:
+                                    new_line += f" ({effectiveness})"
+
+                            case "miss":
+                                new_line = line + f" on {target_pokemon} but it missed"
+
+                            case "fail":
+                                new_line = line + " but it failed"
+                            
+                            case "heal":
+                                new_line = line + f" and healed for {damage}"
+
+                            case "immune":
+                                new_line = line + f" but it had no effect on {target_pokemon}"
+
+                            case _:
+                                new_line = line
+                                # print(f"Unknown result: {result}")
+
+                        # ignore self hits for now
+                        # need to look at item self damage, status effects from pokemon abilities
+                        if action.source == target and result != "heal":
+                            pass
+                        else:
+                            output.append(new_line)
+
+                    if not action.results:
+                        output.append(line + " on self")
+
+                case "cant":
+                    # print(f"{action.name=}")
+                    output.append(f"{source_player}: {source_pokemon} can't move because {status.get(action.name, action.name)}")
+
+                case "faint":
+                    output.append(f"{source_player}: {source_pokemon} fainted")
+
+                case _:
+                    output.append(f"  ERROR  {action.source} {action.type}")
+
+    return "\n".join(output)
+
+def parse_args() -> Battle:
     # Set up arguments
     parser = argparse.ArgumentParser(
         description="Parse replay logs from Pokemon Showdown"
@@ -89,9 +114,33 @@ def main():
     )
     args = parser.parse_args()
 
-    # Save replays
-    parse_log_file(args.path)
+    # Save replays    
+    return parse_log_file(args.path)
+
+def main():
+    battle = parse_args()
+    output = process_output(battle)
+    # with open("output.txt", "w") as f:
+    #     pprint(battle, f)
+    # print(battle)
+    print(output)
 
 
 if __name__ == "__main__":
     main()
+    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen9doublesou/gen9doublesou-2093373368.log")
+    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen1ou/gen1ou-2093283146.log")
+    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen9ou/gen9ou-2093373501.log")
+    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen1ou/gen1ou-2093283146.log")
+    # print(battle)
+    # with open("gen_output.txt", "w") as f:
+    #     # pprint(battle, f)
+    #     # try:
+    #     out = process_output(battle)
+    #     pprint(out, f)
+    #     print(out)
+    #     # except:
+    #     #     pprint("error", f)
+
+    # with open("output.txt", "w") as f:
+    #     pprint(battle, f)

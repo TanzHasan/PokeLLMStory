@@ -29,3 +29,16 @@ Process all replay files in the `replays/logs/` directory and save the cleaned l
 ```bash
 python replays/get_clean_logs.py
 ```
+
+### Todo:
+
+* weather
+* items
+  * held items
+  * damage from items
+* boosts
+  * stat boost from moves
+  * stat boosts from items
+* healing
+  * healing from moves
+  * healing from items

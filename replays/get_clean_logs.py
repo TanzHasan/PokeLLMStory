@@ -3,7 +3,7 @@
 from pathlib import Path
 import subprocess
 
-REVISION = 1
+REVISION = 2
 path = Path("replays/logs")
 cleaned_logs_dir = Path("replays/cleaned_logs")
 
