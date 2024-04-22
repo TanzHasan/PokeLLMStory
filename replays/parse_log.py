@@ -1,4 +1,3 @@
-
 import re
 from data_model import Battle, Turn, Action, ActionResult, Pokemon
 from collections import defaultdict
@@ -14,12 +13,13 @@ regex_cant = re.compile(r"^\|cant\|(([^|]+): ([^|]+))\|([^|]+)")
 
 regex_damage = re.compile(r"\|-damage\|((.+): (.+))\|((\d+)\/(\d+)|\d fnt)")
 regex_heal = re.compile(r"\|-heal\|((.+): (.+))\|((\d+)\/(\d+)|\d fnt)")
-regex_status = re.compile(r"\|-status\|(([^|]+): ([^|]+))\|([^|]+)")  # 2: unit, 3: nickname, 4: status
+regex_status = re.compile(r"\|-status\|(([^|]+): ([^|]+))\|([^|]+)")
 regex_miss = re.compile(r"\|-miss\|((.+): (.+))")  # 1: target, 2: unit, 3: nickname
 regex_immune = re.compile(r"\|-immune\|((.+): (.+))")  # 1: target, 2: unit, 3: nickname
 regex_fail = re.compile(r"\|-fail\|((.+): (.+))")  # 1: target, 2: unit, 3: nickname
-regex_supereffective = re.compile(r"\|-supereffective\|((.+): (.+))")  # 1: target, 2: unit, 3: nickname
+regex_supereffective = re.compile(r"\|-supereffective\|((.+): (.+))")
 regex_crit = re.compile(r"\|-crit\|((.+): (.+))")  # 1: target, 2: unit, 3: nickname
+
 
 def parse_log_file(file_path):
     # Maps [player][nickname] to Pokemon object
@@ -29,18 +29,11 @@ def parse_log_file(file_path):
     }
 
     # Maps [unit] to Pokemon object
-    active_pokemon = {
-
-    }
+    active_pokemon = {}
 
     # print("a")
     battle = Battle()
     turns = []
-
-
-    # Store nickname to Pokemon mapping
-    # nickname_to_pokemon = {}
-
 
     with open(file_path, "r") as file:
         turn_num = 0
@@ -85,7 +78,8 @@ def parse_log_file(file_path):
                     if match_damage:
                         target = match_damage.group(1)
                         target_unit = match_damage.group(2)
-                        targets.append(target_unit)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_damage.group(3)
                         if match_damage.group(4) == "0 fnt":
@@ -106,6 +100,8 @@ def parse_log_file(file_path):
                     if match_heal:
                         target = match_heal.group(1)
                         target_unit = match_heal.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_heal.group(3)
                         if match_heal.group(4) == "0 fnt":
@@ -126,6 +122,8 @@ def parse_log_file(file_path):
                     if match_status:
                         target = match_status.group(1)
                         target_unit = match_status.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_status.group(3)
                         status = match_status.group(4)
@@ -136,10 +134,14 @@ def parse_log_file(file_path):
                     # Move missed
                     match_miss = regex_miss.match(line)
                     if match_miss:
-                        target = match_miss.group(1)
-                        target_unit = match_miss.group(2)
-                        target_player = target_unit[:-1]
-                        target_nickname = match_miss.group(3)
+                        # Should use target from parent move, not the line that says "miss"
+                        # because this line doesn't have the target
+                        # source = match_miss.group(1)
+                        # source_unit = match_miss.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
+                        # source_player = source_unit[:-1]
+                        # source_nickname = match_miss.group(3)
 
                         results[target_unit].result = "miss"
 
@@ -148,6 +150,8 @@ def parse_log_file(file_path):
                     if match_fail:
                         target = match_fail.group(1)
                         target_unit = match_fail.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_fail.group(3)
 
@@ -158,6 +162,8 @@ def parse_log_file(file_path):
                     if match_supereffective:
                         target = match_supereffective.group(1)
                         target_unit = match_supereffective.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_supereffective.group(3)
 
@@ -168,16 +174,20 @@ def parse_log_file(file_path):
                     if match_crit:
                         target = match_crit.group(1)
                         target_unit = match_crit.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_crit.group(3)
 
                         results[target_unit].crit = True
-                    
+
                     # Move immune
                     match_immune = regex_immune.match(line)
                     if match_immune:
                         target = match_immune.group(1)
                         target_unit = match_immune.group(2)
+                        if target_unit not in targets:
+                            targets.append(target_unit)
                         target_player = target_unit[:-1]
                         target_nickname = match_immune.group(3)
 
@@ -186,17 +196,10 @@ def parse_log_file(file_path):
                     index += 1
                     line = file_contents[index].strip()
 
-                # if target == "":
-                #     print(
-                #         f"{source_player}: {source_nickname} failed to use {move}"
-                #     )
-                #     continue
-                # print(
-                #     f"{source_player}: {source_nickname} used {move} on {nickname_to_pokemon.get(target, target)}"
-                # )
-
                 # Update turn
-                current_turn.actions.append(Action(source_unit, "move", move, targets, results))
+                current_turn.actions.append(
+                    Action(source_unit, "move", move, targets, results)
+                )
                 continue
 
             # Check if the line represents a switch
@@ -213,16 +216,17 @@ def parse_log_file(file_path):
                 # Use known pokemon info if available
                 if nickname not in known_pokemon[player]:
                     # Possible bug if pokemon takes damage while not active? burning, etc
-                    known_pokemon[player][nickname] = Pokemon(nickname, pokemon_name, current_hp, max_hp, None, None)
+                    known_pokemon[player][nickname] = Pokemon(
+                        nickname, pokemon_name, current_hp, max_hp, None, None
+                    )
 
                 # Update active pokemon
                 active_pokemon[unit] = known_pokemon[player][nickname]
 
-                # nickname_to_pokemon[nickname] = pokemon
-                # print(f"{player}: Switched to {pokemon_name}")
-
                 # Update turn
-                current_turn.actions.append(Action(unit, "switch", pokemon_name, [unit], {}))
+                current_turn.actions.append(
+                    Action(unit, "switch", pokemon_name, [unit], {})
+                )
                 continue
 
             # Check if the line represents a faint
@@ -234,9 +238,6 @@ def parse_log_file(file_path):
                 target_nickname = match_faint.group(3)
 
                 current_turn.actions.append(Action(target_unit, "faint", "", [], {}))
-                # print(
-                #     f"{pokemon_player}: {nickname_to_pokemon.get(pokemon, pokemon)} fainted"
-                # )
                 continue
 
             # Check if line represents a Pokemon being unable to move
@@ -247,7 +248,7 @@ def parse_log_file(file_path):
                 source_player = source_unit[:-1]
                 source_nickname = match_cant.group(3)
                 reason = match_cant.group(4)
-                
+
                 # print(
                 #     f"{source_player}: {source_nickname} can't move because {reason}"
                 # )
@@ -255,7 +256,7 @@ def parse_log_file(file_path):
                 # update turn
                 current_turn.actions.append(Action(source_unit, "cant", reason, [], {}))
                 continue
-    
+
         # Add last turn
         turns.append(current_turn)
 

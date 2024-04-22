@@ -3,6 +3,7 @@ import argparse
 from parse_log import parse_log_file
 from data_model import Battle
 
+
 def process_output(battle: Battle):
     translation = {
         "p1a": "Player A",
@@ -42,7 +43,9 @@ def process_output(battle: Battle):
 
             match action.type:
                 case "switch":
-                    output.append(f"{source_player}: Switched out {source_pokemon} for {action.name}")
+                    output.append(
+                        f"{source_player}: Switched out {source_pokemon} for {action.name}"
+                    )
                     active_pokemon[action.source] = action.name
 
                 case "move":
@@ -58,7 +61,10 @@ def process_output(battle: Battle):
 
                         match result:
                             case "hit":
-                                new_line = line + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
+                                new_line = (
+                                    line
+                                    + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
+                                )
                                 if effectiveness:
                                     new_line += f" ({effectiveness})"
 
@@ -67,12 +73,14 @@ def process_output(battle: Battle):
 
                             case "fail":
                                 new_line = line + " but it failed"
-                            
+
                             case "heal":
                                 new_line = line + f" and healed for {damage}"
 
                             case "immune":
-                                new_line = line + f" but it had no effect on {target_pokemon}"
+                                new_line = (
+                                    line + f" but it had no effect on {target_pokemon}"
+                                )
 
                             case _:
                                 new_line = line
@@ -89,8 +97,9 @@ def process_output(battle: Battle):
                         output.append(line + " on self")
 
                 case "cant":
-                    # print(f"{action.name=}")
-                    output.append(f"{source_player}: {source_pokemon} can't move because {status.get(action.name, action.name)}")
+                    output.append(
+                        f"{source_player}: {source_pokemon} can't move because {status.get(action.name, action.name)}"
+                    )
 
                 case "faint":
                     output.append(f"{source_player}: {source_pokemon} fainted")
@@ -99,6 +108,7 @@ def process_output(battle: Battle):
                     output.append(f"  ERROR  {action.source} {action.type}")
 
     return "\n".join(output)
+
 
 def parse_args() -> Battle:
     # Set up arguments
@@ -112,35 +122,26 @@ def parse_args() -> Battle:
         "path",
         help="Path to replay .log file",
     )
+    parser.add_argument(
+        "-o",
+        help="Should output be saved to a file (debug_clean_log.txt) for debugging",
+        action="store_true",
+    )
     args = parser.parse_args()
 
-    # Save replays    
-    return parse_log_file(args.path)
+    # Save replays
+    return parse_log_file(args.path), args.o
+
 
 def main():
-    battle = parse_args()
+    battle, write_debug_file = parse_args()
     output = process_output(battle)
-    # with open("output.txt", "w") as f:
-    #     pprint(battle, f)
-    # print(battle)
     print(output)
+
+    if write_debug_file:
+        with open("output.txt", "w") as f:
+            pprint(battle, f)
 
 
 if __name__ == "__main__":
     main()
-    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen9doublesou/gen9doublesou-2093373368.log")
-    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen1ou/gen1ou-2093283146.log")
-    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen9ou/gen9ou-2093373501.log")
-    # battle = parse_log_file("/home/cat/hw/PokeStoryLLM/replays/logs/gen1ou/gen1ou-2093283146.log")
-    # print(battle)
-    # with open("gen_output.txt", "w") as f:
-    #     # pprint(battle, f)
-    #     # try:
-    #     out = process_output(battle)
-    #     pprint(out, f)
-    #     print(out)
-    #     # except:
-    #     #     pprint("error", f)
-
-    # with open("output.txt", "w") as f:
-    #     pprint(battle, f)
