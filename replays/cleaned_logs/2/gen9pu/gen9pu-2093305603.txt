@@ -1,0 +1,27 @@
+Battle start:
+Player A sent out Rotom-Mow
+Player B sent out Sandslash-Alola
+Turn 1:
+Player A: Rotom-Mow used Volt Switch on Sandslash-Alola for 29 damage
+Player A: Switched out Rotom-Mow for Decidueye-Hisui
+Player B: Sandslash-Alola used Icicle Crash on Decidueye-Hisui for 75 damage (supereffective)
+Turn 2:
+Player B: Switched out Sandslash-Alola for Floatzel
+Player A: Decidueye-Hisui used Triple Arrows on Floatzel for 77 damage
+Turn 3:
+Player A: Switched out Decidueye-Hisui for Floatzel
+Player B: Floatzel used Ice Spinner on Floatzel for 22 damage
+Turn 4:
+Player B: Switched out Floatzel for Wo-Chien
+Player A: Floatzel used Flip Turn on Wo-Chien for 10 damage
+Player A: Switched out Floatzel for Decidueye-Hisui
+Turn 5:
+Player A: Decidueye-Hisui used Roost and healed for 50
+Player B: Wo-Chien used Foul Play on Decidueye-Hisui for 34 damage
+Turn 6:
+Player B: Switched out Wo-Chien for Hariyama
+Player A: Decidueye-Hisui used Roost and healed for 50
+Turn 7:
+Player A: Decidueye-Hisui used Triple Arrows on Hariyama and crit for 89 damage
+Player B: Hariyama used Knock Off on Decidueye-Hisui for 21 damage
+Turn 8:

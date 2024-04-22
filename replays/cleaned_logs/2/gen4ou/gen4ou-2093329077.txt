@@ -1,0 +1,72 @@
+Battle start:
+Player A sent out Bronzong
+Player B sent out Machamp
+Turn 1:
+Player B: Machamp used Dynamic Punch on Bronzong for 42 damage
+Player A: Bronzong used Stealth Rock on self
+Turn 2:
+Player A: Switched out Bronzong for Zapdos
+Player B: Machamp used Payback on Zapdos for 27 damage
+Turn 3:
+Player A: Zapdos used Discharge on Machamp for 32 damage
+Player B: Machamp used Dynamic Punch on Zapdos for 16 damage
+Turn 4:
+Player B: Machamp used Ice Punch on Zapdos for 43 damage (supereffective)
+Turn 5:
+Player A: Zapdos used Roost and healed for 56
+Player B: Machamp used Dynamic Punch on Zapdos for 43 damage
+Turn 6:
+Player A: Zapdos used Roost and healed for 56
+Player B: Machamp used Ice Punch on Zapdos and crit for 43 damage
+Turn 7:
+Player A: Zapdos used Roost and healed for 56
+Player B: Machamp used Dynamic Punch on Zapdos for 45 damage
+Turn 8:
+Player A: Zapdos used Roost and healed for 49
+Player B: Machamp used Ice Punch on Zapdos for 21 damage
+Turn 9:
+Player A: Switched out Zapdos for Bronzong
+Player B: Machamp used Ice Punch on Bronzong for 4 damage
+Turn 10:
+Player B: Machamp used Dynamic Punch on Bronzong for 43 damage
+Player A: Bronzong used Gyro Ball on Machamp for 22 damage
+Turn 11:
+Player A: Switched out Bronzong for Tyranitar
+Player B: Machamp used Ice Punch on Tyranitar for 26 damage
+Turn 12:
+Player A: Switched out Tyranitar for Zapdos
+Player B: Switched out Machamp for Scizor
+Turn 13:
+Player B: Switched out Scizor for Heatran
+Player A: Zapdos used Discharge on Heatran for 52 damage
+Turn 14:
+Player A: Switched out Zapdos for Clefable
+Player B: Heatran used Fire Blast on Clefable for 43 damage
+Turn 15:
+Player A: Switched out Clefable for Latias
+Player B: Heatran used Stealth Rock on self
+Turn 16:
+Player A: Switched out Latias for Bronzong
+Player B: Heatran used Explosion on Bronzong for 11 damage
+Player B: Heatran fainted
+Player A: Latias fainted
+Player B: Switched out Heatran for Latias
+Player A: Switched out Latias for Zapdos
+Turn 17:
+Player A: Switched out Zapdos for Tyranitar
+Player B: Latias used Draco Meteor on Tyranitar for 55 damage
+Turn 18:
+Player A: Tyranitar used Pursuit on Latias for 67 damage (supereffective)
+Player B: Latias used Grass Knot on Tyranitar for 19 damage (supereffective)
+Player A: Tyranitar fainted
+Player A: Switched out Tyranitar for Clefable
+Turn 19:
+Player B: Switched out Latias for Machamp
+Player A: Clefable used Thunder Wave
+Turn 20:
+Player A: Switched out Clefable for Zapdos
+Player B: Switched out Machamp for Scizor
+Turn 21:
+Player B: Switched out Scizor for Machamp
+Player A: Zapdos used Roost and healed for 6
+Turn 22:

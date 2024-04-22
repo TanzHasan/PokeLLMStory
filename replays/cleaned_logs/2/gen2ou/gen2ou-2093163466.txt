@@ -1,0 +1,58 @@
+Battle start:
+Player A sent out Raikou
+Player B sent out Snorlax
+Turn 1:
+Player A: Switched out Raikou for Machamp
+Player B: Snorlax used Body Slam on Machamp for 30 damage
+Turn 2:
+Player B: Switched out Snorlax for Misdreavus
+Player A: Machamp used Rock Slide on Misdreavus for 31 damage
+Turn 3:
+Player A: Switched out Machamp for Zapdos
+Turn 4:
+Player B: Misdreavus used Protect on self
+Player A: Zapdos used Thunder on self
+Turn 5:
+Player A: Zapdos used Hidden Power on Misdreavus for 5 damage
+Player B: Misdreavus used Toxic
+Turn 6:
+Player B: Misdreavus used Psychic on Zapdos for 18 damage
+Turn 7:
+Player B: Misdreavus used Protect on self
+Player A: Zapdos used Rest and healed for 24
+Turn 8:
+Player B: Switched out Misdreavus for Cloyster
+Player A: Zapdos can't move because it is asleep
+Player A: Zapdos used Sleep Talk on self
+Player A: Zapdos used Thunder on Cloyster for 100 damage (supereffective)
+Player B: Misdreavus fainted
+Player B: Switched out Misdreavus for Blissey
+Turn 9:
+Player A: Switched out Zapdos for Machamp
+Player B: Blissey used Flamethrower on Machamp and crit for 22 damage
+Turn 10:
+Player B: Switched out Blissey for Skarmory
+Player A: Machamp used Rock Slide on Skarmory for 17 damage
+Turn 11:
+Player A: Switched out Machamp for Cloyster
+Player B: Skarmory used Drill Peck on Cloyster for 17 damage
+Turn 12:
+Player B: Switched out Skarmory for Zapdos
+Player A: Cloyster used Spikes on self
+Turn 13:
+Player A: Switched out Cloyster for Raikou
+Player B: Zapdos used Thunder on Raikou for 21 damage
+Turn 14:
+Player B: Switched out Zapdos for Blissey
+Player A: Raikou used Rest and healed for 21
+Turn 15:
+Player A: Switched out Raikou for Misdreavus
+Player B: Blissey used Flamethrower on Misdreavus for 21 damage
+Turn 16:
+Player B: Switched out Blissey for Skarmory
+Player A: Misdreavus used Thief on Skarmory for -7 damage
+Turn 17:
+Player A: Misdreavus used Thunder on Skarmory and crit for 90 damage (supereffective)
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Blissey
+Turn 18:

@@ -1,0 +1,91 @@
+Battle start:
+Player A sent out Sableye
+Player B sent out Okidogi
+Turn 1:
+Player B: Switched out Okidogi for Entei
+Player A: Sableye used Will-O-Wisp but it had no effect on Entei
+Turn 2:
+Player A: Sableye used Thunder Wave
+Player B: Entei used Sacred Fire on Sableye for 100 damage
+Player A: Sableye fainted
+Player A: Switched out Sableye for Swampert
+Turn 3:
+Player B: Switched out Entei for Thundurus-Therian
+Player A: Switched out Swampert for Lycanroc-Dusk
+Turn 4:
+Player A: Lycanroc-Dusk used Accelerock on Thundurus-Therian for 60 damage
+Player B: Thundurus-Therian used Thunderbolt on Lycanroc-Dusk for 100 damage
+Player A: Lycanroc-Dusk fainted
+Player A: Switched out Lycanroc-Dusk for Honchkrow
+Turn 5:
+Player B: Switched out Thundurus-Therian for Entei
+Player A: Switched out Honchkrow for Jolteon
+Turn 6:
+Player A: Jolteon used Volt Switch on Entei for 38 damage
+Player A: Switched out Jolteon for Swampert
+Player B: Entei can't move because it is paralyzed
+Turn 7:
+Player B: Entei used Sacred Fire on Swampert for 31 damage
+Player A: Swampert used Stealth Rock on self
+Turn 8:
+Player B: Entei can't move because it is paralyzed
+Player A: Swampert used Earthquake on Entei for 40 damage (supereffective)
+Turn 9:
+Player B: Entei used Sacred Fire on Swampert for 36 damage
+Player A: Swampert used Earthquake on Entei and crit for 22 damage (supereffective)
+Player B: Entei fainted
+Player B: Switched out Entei for Okidogi
+Turn 10:
+Player B: Okidogi used Bulk Up on self
+Player A: Swampert used Earthquake on Okidogi for 25 damage (supereffective)
+Turn 11:
+Player B: Okidogi used Bulk Up on self
+Player A: Swampert used Roar on self
+Turn 12:
+Player B: Okidogi used Bullet Seed on Swampert for 33 damage (supereffective)
+Player A: Swampert fainted
+Player A: Switched out Swampert for Honchkrow
+Turn 13:
+Player B: Switched out Okidogi for Thundurus-Therian
+Player A: Honchkrow used Brave Bird on Thundurus-Therian and crit for 40 damage
+Player B: Okidogi fainted
+Player B: Switched out Okidogi for Azelf
+Turn 14:
+Player B: Azelf used Trick on self
+Turn 15:
+Player B: Azelf used Dazzling Gleam on Honchkrow for 79 damage (supereffective)
+Player A: Honchkrow used Brave Bird on Azelf for 100 damage
+Player B: Azelf fainted
+Player A: Honchkrow fainted
+Player B: Switched out Azelf for Okidogi
+Player A: Switched out Honchkrow for Jolteon
+Turn 16:
+Player A: Jolteon used Volt Switch on Okidogi for 33 damage
+Player A: Switched out Jolteon for Hitmontop
+Player B: Okidogi used Drain Punch on Hitmontop for 28 damage
+Player B: Okidogi used Drain Punch and healed for 12
+Turn 17:
+Player A: Switched out Hitmontop for Jolteon
+Player B: Okidogi used Knock Off on Jolteon for 46 damage
+Turn 18:
+Player A: Jolteon used Volt Switch on Okidogi for 21 damage
+Player A: Switched out Jolteon for Hitmontop
+Player B: Okidogi used Poison Jab on Hitmontop for 15 damage
+Turn 19:
+Player B: Switched out Okidogi for Torterra
+Player A: Hitmontop used Close Combat on Torterra for 51 damage
+Turn 20:
+Player B: Torterra used Bullet Seed on Hitmontop for 18 damage
+Player A: Hitmontop fainted
+Player A: Switched out Hitmontop for Jolteon
+Turn 21:
+Player A: Jolteon used Tera Blast on Torterra for 43 damage (supereffective)
+Player B: Torterra fainted
+Player B: Switched out Torterra for Okidogi
+Turn 22:
+Player A: Jolteon used Tera Blast on Okidogi for 33 damage
+Player B: Okidogi fainted
+Player B: Switched out Okidogi for Salamence
+Turn 23:
+Player A: Jolteon used Tera Blast on Salamence for 100 damage (supereffective)
+Player B: Salamence fainted

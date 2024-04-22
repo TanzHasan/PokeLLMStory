@@ -1,0 +1,12 @@
+Battle start:
+Player A sent out Seviper
+Player B sent out Seviper
+Turn 1:
+Player B: Seviper used Switcheroo on self
+Player A: Seviper used Psychic Fangs on Seviper for 47 damage (supereffective)
+Turn 2:
+Player B: Seviper used Switcheroo on self
+Player A: Seviper used Bulldoze on Seviper for 36 damage (supereffective)
+Turn 3:
+Player A: Seviper used Bulldoze on Seviper for 17 damage (supereffective)
+Player B: Seviper fainted

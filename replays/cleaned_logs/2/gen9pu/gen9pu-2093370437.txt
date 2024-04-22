@@ -1,0 +1,72 @@
+Battle start:
+Player A sent out Decidueye-Hisui
+Player B sent out Regirock
+Turn 1:
+Player A: Decidueye-Hisui used Triple Arrows on Regirock and crit for 65 damage (supereffective)
+Player B: Regirock can't move because flinch
+Turn 2:
+Player B: Switched out Regirock for Mismagius
+Player A: Decidueye-Hisui used Triple Arrows on Mismagius for 67 damage
+Turn 3:
+Player B: Mismagius used Draining Kiss on Decidueye-Hisui for 37 damage (supereffective)
+Player A: Decidueye-Hisui used Triple Arrows on Mismagius for 61 damage
+Player B: Mismagius fainted
+Player B: Switched out Mismagius for Zangoose
+Turn 4:
+Player B: Zangoose used Protect on self
+Player A: Decidueye-Hisui used Triple Arrows on self
+Turn 5:
+Player A: Switched out Decidueye-Hisui for Hoopa
+Player B: Zangoose used Facade but it had no effect on Hoopa
+Turn 6:
+Player A: Hoopa used Psychic on Zangoose for 93 damage
+Player B: Zangoose used Knock Off on Hoopa for 100 damage (supereffective)
+Player A: Hoopa fainted
+Player B: Zangoose fainted
+Player B: Switched out Zangoose for Electrode-Hisui
+Player A: Switched out Hoopa for Decidueye-Hisui
+Turn 7:
+Player B: Electrode-Hisui used Tera Blast on Decidueye-Hisui for 63 damage (supereffective)
+Player A: Decidueye-Hisui fainted
+Player A: Switched out Decidueye-Hisui for Charizard
+Turn 8:
+Player B: Switched out Electrode-Hisui for Regirock
+Player A: Charizard used Flamethrower on Regirock for 19 damage
+Turn 9:
+Player B: Regirock used Rock Slide on Charizard for 99 damage (supereffective)
+Player A: Charizard used Scorching Sands on Regirock for 16 damage (supereffective)
+Player B: Regirock fainted
+Player B: Switched out Regirock for Electrode-Hisui
+Turn 10:
+Player B: Electrode-Hisui used Volt Switch on Charizard for 1 damage (supereffective)
+Player A: Charizard fainted
+Player B: Switched out Electrode-Hisui for Marshtomp
+Player A: Switched out Charizard for Scyther
+Turn 11:
+Player A: Scyther used Trailblaze on Marshtomp for 87 damage (supereffective)
+Player B: Marshtomp used Ice Punch on Scyther for 32 damage (supereffective)
+Turn 12:
+Player A: Scyther used Trailblaze on Marshtomp for 13 damage (supereffective)
+Player B: Marshtomp fainted
+Player B: Switched out Marshtomp for Electrode-Hisui
+Turn 13:
+Player A: Scyther used Dual Wingbeat on Electrode-Hisui for 42 damage
+Player B: Electrode-Hisui fainted
+Player B: Switched out Electrode-Hisui for Sandslash-Alola
+Turn 14:
+Player A: Scyther used Dual Wingbeat on Sandslash-Alola for 15 damage
+Player B: Sandslash-Alola used Triple Axel on Scyther for 16 damage (supereffective)
+Player A: Scyther fainted
+Player A: Switched out Scyther for Morpeko
+Turn 15:
+Player A: Morpeko used Fake Out on Sandslash-Alola for -2 damage
+Player B: Sandslash-Alola can't move because flinch
+Turn 16:
+Player A: Morpeko used Charge Beam on Sandslash-Alola for 22 damage
+Player B: Sandslash-Alola used Earthquake on Morpeko for 100 damage (supereffective)
+Player A: Morpeko fainted
+Player A: Switched out Morpeko for Lapras
+Turn 17:
+Player B: Sandslash-Alola used Swords Dance on self
+Player A: Lapras used Earthquake on Sandslash-Alola and crit for 51 damage (supereffective)
+Player B: Sandslash-Alola fainted

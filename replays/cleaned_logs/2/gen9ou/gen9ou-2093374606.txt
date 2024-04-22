@@ -1,0 +1,92 @@
+Battle start:
+Player A sent out Espeon
+Player B sent out Primarina
+Turn 1:
+Player A: Espeon used Psychic on Primarina for 56 damage
+Player B: Primarina used Psychic Noise on Espeon for 43 damage
+Turn 2:
+Player B: Switched out Primarina for Kingambit
+Player A: Espeon used Psychic but it had no effect on Kingambit
+Turn 3:
+Player A: Switched out Espeon for Gliscor
+Player B: Kingambit used Iron Head on Gliscor for 31 damage
+Turn 4:
+Player B: Switched out Kingambit for Rillaboom
+Turn 5:
+Player B: Rillaboom used Grassy Glide on self
+Player A: Gliscor used Toxic
+Turn 6:
+Player A: Switched out Gliscor for Grimmsnarl
+Player B: Switched out Rillaboom for Ogerpon-Wellspring
+Turn 7:
+Player B: Switched out Ogerpon-Wellspring for Primarina
+Player A: Grimmsnarl used Reflect on self
+Turn 8:
+Player B: Primarina used Draining Kiss on Grimmsnarl for 42 damage (supereffective)
+Player B: Primarina used Draining Kiss and healed for 35
+Turn 9:
+Player A: Grimmsnarl used Light Screen on self
+Player B: Primarina used Calm Mind on self
+Turn 10:
+Player A: Grimmsnarl used Thunder Wave
+Player B: Primarina can't move because it is paralyzed
+Turn 11:
+Player A: Grimmsnarl used Spirit Break on Primarina for -3 damage
+Player B: Primarina used Calm Mind on self
+Turn 12:
+Player A: Grimmsnarl used Spirit Break on Primarina for 11 damage
+Player B: Primarina used Calm Mind on self
+Turn 13:
+Player A: Grimmsnarl used Spirit Break on Primarina for 16 damage
+Player B: Primarina can't move because it is paralyzed
+Turn 14:
+Player A: Grimmsnarl used Spirit Break on Primarina for 15 damage
+Player B: Primarina used Draining Kiss on Grimmsnarl for -10 damage (supereffective)
+Player B: Primarina used Draining Kiss and healed for 10
+Turn 15:
+Player A: Grimmsnarl used Spirit Break on Primarina for 16 damage
+Player B: Primarina used Calm Mind on self
+Turn 16:
+Player A: Grimmsnarl used Spirit Break on Primarina for 16 damage
+Player B: Primarina can't move because it is paralyzed
+Turn 17:
+Player A: Grimmsnarl used Spirit Break on Primarina for 16 damage
+Player B: Primarina can't move because it is paralyzed
+Turn 18:
+Player A: Grimmsnarl used Light Screen on self
+Player B: Primarina used Draining Kiss on Grimmsnarl for 9 damage (supereffective)
+Player B: Primarina used Draining Kiss and healed for 6
+Turn 19:
+Player A: Grimmsnarl used Spirit Break on Primarina for 8 damage
+Player B: Primarina fainted
+Player B: Switched out Primarina for Ogerpon-Wellspring
+Turn 20:
+Player B: Switched out Ogerpon-Wellspring for Landorus-Therian
+Player A: Grimmsnarl used Reflect on self
+Turn 21:
+Player A: Switched out Grimmsnarl for Gliscor
+Player B: Landorus-Therian used Taunt on self
+Turn 22:
+Player B: Landorus-Therian used Stealth Rock on self
+Player A: Gliscor used Rock Tomb on Landorus-Therian for 12 damage
+Turn 23:
+Player A: Switched out Gliscor for Espeon
+Player B: Switched out Landorus-Therian for Ogerpon-Wellspring
+Turn 24:
+Player A: Espeon used Psychic on Ogerpon-Wellspring for 72 damage
+Player B: Ogerpon-Wellspring used Ivy Cudgel on Espeon for 57 damage
+Player A: Espeon fainted
+Player A: Switched out Espeon for Serperior
+Turn 25:
+Player B: Switched out Ogerpon-Wellspring for Skeledirge
+Player A: Serperior used Glare
+Turn 26:
+Player A: Switched out Serperior for Gliscor
+Player B: Skeledirge can't move because it is paralyzed
+Turn 27:
+Player A: Gliscor used Earthquake on Skeledirge for 54 damage (supereffective)
+Player B: Skeledirge used Torch Song on Gliscor for -17 damage
+Turn 28:
+Player A: Gliscor used Earthquake on Skeledirge for 26 damage
+Player B: Skeledirge can't move because it is paralyzed
+Turn 29:

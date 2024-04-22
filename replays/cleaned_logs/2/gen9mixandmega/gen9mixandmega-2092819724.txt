@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Clodsire
+Player B sent out Kyurem
+Turn 1:
+Player B: Kyurem used Weather Ball on Clodsire and crit for 93 damage
+Player A: Clodsire used Earthquake on Kyurem for 45 damage (supereffective)
+Turn 2:
+Player A: Switched out Clodsire for Blissey
+Player B: Kyurem used Weather Ball on Blissey for 38 damage
+Turn 3:
+Player B: Kyurem used Weather Ball on Blissey for 31 damage
+Player A: Blissey used Soft-Boiled and healed for 50
+Turn 4:
+Player B: Switched out Kyurem for Ceruledge
+Player A: Blissey used Calm Mind on self
+Turn 5:
+Player B: Ceruledge used Bitter Blade on Blissey for 37 damage
+Player A: Blissey used Alluring Voice on Ceruledge for 53 damage
+Turn 6:
+Player B: Ceruledge used Bitter Blade on Blissey for 37 damage
+Player B: Ceruledge used Bitter Blade and healed for 40
+Player A: Blissey used Soft-Boiled and healed for 50
+Turn 7:
+Player B: Ceruledge used Bulk Up on self
+Player A: Blissey used Soft-Boiled and healed for 43
+Turn 8:
+Player A: Switched out Blissey for Clodsire
+Player B: Ceruledge used Bitter Blade on Clodsire for 7 damage
+Player B: Ceruledge used Bitter Blade and healed for 5
+Player A: Blissey fainted
+Player A: Switched out Blissey for Palossand
+Turn 9:
+Player A: Palossand used Destiny Bond on self
+Player B: Ceruledge used Taunt on self
+Turn 10:
+Player B: Ceruledge used Bulk Up on self
+Player A: Palossand used Poltergeist on Ceruledge for 11 damage
+Turn 11:
+Player A: Switched out Palossand for Latios
+Player B: Ceruledge used Throat Chop on Latios for 100 damage
+Player A: Palossand fainted

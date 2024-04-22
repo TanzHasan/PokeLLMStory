@@ -1,0 +1,120 @@
+Battle start:
+Player A sent out Hitmonchan
+Player B sent out Jolteon
+Turn 1:
+Player B: Jolteon used Volt Switch on Hitmonchan for 18 damage
+Player B: Switched out Jolteon for Malamar
+Player A: Hitmonchan used Drain Punch on Malamar for 47 damage
+Player A: Hitmonchan used Drain Punch and healed for 18
+Turn 2:
+Player A: Switched out Hitmonchan for Cramorant
+Player B: Malamar used Tera Blast on Cramorant for 35 damage
+Turn 3:
+Player B: Malamar used Knock Off on Cramorant for 65 damage
+Player A: Cramorant fainted
+Player A: Switched out Cramorant for Typhlosion
+Turn 4:
+Player B: Switched out Malamar for Porygon2
+Player A: Typhlosion used Eruption on self
+Turn 5:
+Player A: Switched out Typhlosion for Hitmonchan
+Player B: Porygon2 used Thunder Wave
+Turn 6:
+Player B: Switched out Porygon2 for Malamar
+Player A: Hitmonchan can't move because it is paralyzed
+Turn 7:
+Player B: Malamar used Tera Blast on Hitmonchan for 36 damage
+Player A: Hitmonchan used Drain Punch on Malamar for 34 damage
+Player A: Hitmonchan used Drain Punch and healed for 24
+Turn 8:
+Player A: Switched out Hitmonchan for Skuntank
+Player B: Malamar used Tera Blast on Skuntank for 41 damage
+Turn 9:
+Player A: Skuntank used Knock Off on self
+Turn 10:
+Player A: Skuntank used Sucker Punch on Malamar for 1 damage
+Player B: Malamar fainted
+Player B: Switched out Malamar for Hariyama
+Turn 11:
+Player A: Switched out Skuntank for Palossand
+Player B: Hariyama used Drain Punch but it had no effect on Palossand
+Turn 12:
+Player B: Switched out Hariyama for Sceptile
+Player A: Palossand used Stealth Rock on self
+Turn 13:
+Player A: Switched out Palossand for Whimsicott
+Player B: Sceptile used Scale Shot but it had no effect on Whimsicott
+Turn 14:
+Player B: Sceptile used Bullet Seed on Whimsicott for 5 damage
+Player A: Whimsicott used U-turn on Sceptile for 39 damage (supereffective)
+Player A: Switched out Whimsicott for Typhlosion
+Turn 15:
+Player A: Switched out Typhlosion for Hitmonchan
+Player B: Switched out Sceptile for Porygon2
+Turn 16:
+Player B: Switched out Porygon2 for Hariyama
+Player A: Hitmonchan used Drain Punch on Hariyama for 48 damage
+Player A: Hitmonchan used Drain Punch and healed for 12
+Turn 17:
+Player A: Switched out Hitmonchan for Palossand
+Player B: Hariyama used Belly Drum and healed for 25
+Turn 18:
+Player B: Hariyama used Knock Off on Palossand for 100 damage (supereffective)
+Player A: Palossand fainted
+Player A: Switched out Palossand for Typhlosion
+Turn 19:
+Player B: Hariyama used Bullet Punch on Typhlosion for 42 damage
+Player A: Typhlosion used Overheat on Hariyama for 27 damage
+Player B: Hariyama fainted
+Player B: Switched out Hariyama for Jolteon
+Turn 20:
+Player A: Switched out Typhlosion for Whimsicott
+Player B: Jolteon used Volt Switch on Whimsicott for 20 damage
+Player B: Switched out Jolteon for Porygon2
+Turn 21:
+Player B: Porygon2 used Thunder Wave
+Player A: Whimsicott used U-turn on Porygon2 for 32 damage
+Player A: Switched out Whimsicott for Hitmonchan
+Turn 22:
+Player B: Switched out Porygon2 for Jolteon
+Player A: Hitmonchan used Drain Punch on Jolteon for 76 damage
+Turn 23:
+Player B: Jolteon used Thunderbolt on Hitmonchan for 23 damage
+Player A: Hitmonchan used Rapid Spin on Jolteon for 24 damage
+Player B: Jolteon fainted
+Player B: Switched out Jolteon for Sceptile
+Turn 24:
+Player A: Switched out Hitmonchan for Whimsicott
+Player B: Sceptile used Swords Dance on self
+Turn 25:
+Player A: Whimsicott used Encore on self
+Player B: Sceptile used Swords Dance on self
+Turn 26:
+Player B: Sceptile used Swords Dance on self
+Player A: Whimsicott used U-turn on Sceptile for 53 damage (supereffective)
+Player A: Switched out Whimsicott for Skuntank
+Turn 27:
+Player B: Sceptile used Swords Dance on self
+Player A: Skuntank used Knock Off on Sceptile for 8 damage
+Player B: Sceptile fainted
+Player B: Switched out Sceptile for Typhlosion
+Turn 28:
+Player A: Skuntank used Sucker Punch on Typhlosion for 58 damage
+Player B: Typhlosion used Scorching Sands on Skuntank for 28 damage (supereffective)
+Turn 29:
+Player A: Switched out Skuntank for Hitmonchan
+Player B: Typhlosion used Scorching Sands on Hitmonchan for 14 damage
+Turn 30:
+Player B: Typhlosion used Scorching Sands on Hitmonchan for 14 damage
+Player A: Hitmonchan used Drain Punch on Typhlosion and crit for 42 damage
+Player A: Hitmonchan used Drain Punch and healed for 21
+Player B: Typhlosion fainted
+Player B: Switched out Typhlosion for Porygon2
+Turn 31:
+Player B: Porygon2 used Tri Attack on Hitmonchan for 18 damage
+Player A: Hitmonchan used Drain Punch on Porygon2 for 62 damage (supereffective)
+Player A: Hitmonchan used Drain Punch and healed for 31
+Turn 32:
+Player B: Porygon2 used Tri Attack on Hitmonchan for 15 damage
+Player A: Hitmonchan used Knock Off on Porygon2 for 6 damage
+Player B: Porygon2 fainted

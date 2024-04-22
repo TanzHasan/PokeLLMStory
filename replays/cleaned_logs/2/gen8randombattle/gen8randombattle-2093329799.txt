@@ -1,0 +1,123 @@
+Battle start:
+Player A sent out Hawlucha
+Player B sent out Relicanth
+Turn 1:
+Player A: Hawlucha used Swords Dance on self
+Player B: Relicanth used Yawn on self
+Turn 2:
+Player A: Switched out Hawlucha for Milotic
+Player B: Switched out Relicanth for Slowbro
+Turn 3:
+Player A: Milotic used Toxic
+Player B: Slowbro used Future Sight on self
+Turn 4:
+Player A: Milotic used Scald on Slowbro for 62 damage
+Player B: Slowbro used Teleport on self
+Player B: Switched out Slowbro for Delibird
+Turn 5:
+Player A: Switched out Milotic for Steelix
+Player B: Delibird used Spikes on self
+Turn 6:
+Player B: Delibird used Spikes on self
+Player A: Steelix used Dragon Dance on self
+Turn 7:
+Player B: Switched out Delibird for Slowbro
+Player A: Steelix used Dragon Dance on self
+Turn 8:
+Player A: Steelix used Max Quake on Slowbro for 167 damage
+Player B: Slowbro used Scald on Steelix for -35 damage (supereffective)
+Turn 9:
+Player B: Switched out Slowbro for Noivern
+Player A: Steelix used Max Quake but it had no effect on Noivern
+Turn 10:
+Player B: Noivern used Flamethrower on Steelix for 106 damage (supereffective)
+Player A: Steelix used Max Rockfall on Noivern for 211 damage (supereffective)
+Turn 11:
+Player B: Noivern used Flamethrower on Steelix for 190 damage (supereffective)
+Player A: Steelix used Heavy Slam on Noivern for 63 damage
+Player B: Noivern fainted
+Player B: Switched out Noivern for Froslass
+Turn 12:
+Player B: Froslass used Triple Axel on Steelix for 2 damage
+Player A: Steelix fainted
+Player A: Switched out Steelix for Audino
+Turn 13:
+Player B: Froslass used Taunt on self
+Player A: Audino used Knock Off on Froslass for 145 damage (supereffective)
+Turn 14:
+Player B: Froslass used Destiny Bond on self
+Player A: Audino used Knock Off on Froslass for 110 damage (supereffective)
+Player B: Froslass fainted
+Player A: Audino fainted
+Player B: Switched out Froslass for Slowbro
+Player A: Switched out Audino for Jirachi
+Turn 15:
+Player A: Jirachi used Iron Head on Slowbro for -50 damage
+Player B: Slowbro used Slack Off and healed for 150
+Turn 16:
+Player A: Jirachi used Iron Head on Slowbro for 33 damage
+Player B: Slowbro can't move because flinch
+Turn 17:
+Player A: Jirachi used Iron Head on Slowbro and crit for 69 damage
+Player B: Slowbro used Scald on Jirachi for 94 damage
+Turn 18:
+Player B: Switched out Slowbro for Relicanth
+Player A: Jirachi used Iron Head on Relicanth for 55 damage
+Turn 19:
+Player B: Switched out Relicanth for Slowbro
+Player A: Jirachi used Toxic but it failed
+Turn 20:
+Player A: Jirachi used Iron Head on Slowbro for -34 damage
+Player B: Slowbro can't move because flinch
+Turn 21:
+Player A: Jirachi used Iron Head on Slowbro for 51 damage
+Player B: Slowbro can't move because flinch
+Turn 22:
+Player A: Jirachi used Iron Head on Slowbro for 67 damage
+Player B: Slowbro used Slack Off and healed for 150
+Turn 23:
+Player A: Jirachi used Stealth Rock on self
+Player B: Slowbro used Scald on Jirachi for -6 damage
+Turn 24:
+Player A: Jirachi used Iron Head on Slowbro for 142 damage
+Player B: Slowbro can't move because flinch
+Turn 25:
+Player B: Switched out Slowbro for Relicanth
+Player A: Jirachi used Iron Head on Relicanth for 45 damage
+Turn 26:
+Player A: Jirachi used Toxic
+Player B: Relicanth used Liquidation on Jirachi for 84 damage
+Turn 27:
+Player A: Jirachi used Iron Head on Relicanth for 11 damage
+Player B: Relicanth can't move because flinch
+Turn 28:
+Player A: Jirachi used Iron Head on Relicanth for 44 damage
+Player B: Relicanth can't move because flinch
+Turn 29:
+Player A: Jirachi used Iron Head on Relicanth for 64 damage
+Player B: Relicanth used Liquidation on Jirachi for 93 damage
+Turn 30:
+Player A: Jirachi used Iron Head on Relicanth for 86 damage
+Player B: Relicanth used Liquidation on Jirachi for 23 damage
+Player A: Jirachi fainted
+Player B: Relicanth fainted
+Player A: Switched out Jirachi for Lycanroc-Midnight
+Player B: Switched out Relicanth for Delibird
+Turn 31:
+Player B: Delibird used Memento on self
+Player B: Delibird fainted
+Player B: Switched out Delibird for Shiftry
+Turn 32:
+Player B: Shiftry used Nasty Plot on self
+Player A: Lycanroc-Midnight used Close Combat on Shiftry for 203 damage (supereffective)
+Turn 33:
+Player B: Shiftry used Max Flare on Lycanroc-Midnight for 204 damage
+Player A: Lycanroc-Midnight fainted
+Player A: Switched out Lycanroc-Midnight for Hawlucha
+Turn 34:
+Player B: Shiftry used Max Flare on Hawlucha and crit for 250 damage
+Player A: Hawlucha fainted
+Player A: Switched out Hawlucha for Milotic
+Turn 35:
+Player B: Shiftry used Max Overgrowth on Milotic for 290 damage (supereffective)
+Player A: Milotic fainted

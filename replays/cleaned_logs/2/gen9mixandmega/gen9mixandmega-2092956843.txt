@@ -1,0 +1,62 @@
+Battle start:
+Player A sent out Ampharos
+Player B sent out Reuniclus
+Turn 1:
+Player A: Ampharos used Thunder Wave
+Player B: Reuniclus used Calm Mind on self
+Turn 2:
+Player A: Ampharos used Thunder on Reuniclus for 30 damage
+Player B: Reuniclus used Psychic on Ampharos for 84 damage
+Turn 3:
+Player A: Ampharos used Thunder on Reuniclus for 30 damage
+Player B: Reuniclus used Calm Mind on self
+Turn 4:
+Player A: Ampharos used Thunder on Reuniclus for 23 damage
+Player B: Reuniclus can't move because it is paralyzed
+Turn 5:
+Player A: Ampharos used Discharge on Reuniclus for 15 damage
+Player B: Reuniclus can't move because it is paralyzed
+Turn 6:
+Player A: Ampharos used Thunderbolt on Reuniclus for 2 damage
+Player B: Reuniclus fainted
+Player B: Switched out Reuniclus for Ursaluna
+Turn 7:
+Player A: Ampharos used Thunder Wave but it had no effect on Ursaluna
+Player B: Ursaluna used Swords Dance on self
+Turn 8:
+Player A: Switched out Ampharos for Lucario
+Player B: Ursaluna used Swords Dance on self
+Turn 9:
+Player A: Lucario used Close Combat on Ursaluna for 56 damage (supereffective)
+Player B: Ursaluna used Drain Punch on Lucario for 100 damage (supereffective)
+Player B: Ursaluna used Drain Punch and healed for 33
+Player A: Lucario fainted
+Player A: Switched out Lucario for Camerupt
+Turn 10:
+Player A: Camerupt used Lava Plume on Ursaluna for 46 damage
+Player B: Ursaluna used Drain Punch on Camerupt and crit for 100 damage
+Player B: Ursaluna used Drain Punch and healed for 33
+Player A: Camerupt fainted
+Player A: Switched out Camerupt for Scizor
+Turn 11:
+Player A: Scizor used Close Combat on Ursaluna for 43 damage (supereffective)
+Player B: Ursaluna used Drain Punch on Scizor for 100 damage
+Player B: Ursaluna used Drain Punch and healed for 33
+Player A: Scizor fainted
+Player A: Switched out Scizor for Kommo-o
+Turn 12:
+Player B: Switched out Ursaluna for Enamorus-Therian
+Player A: Kommo-o used Dragon Tail but it had no effect on Enamorus-Therian
+Turn 13:
+Player A: Kommo-o used Flash Cannon on Enamorus-Therian and crit for 40 damage
+Player B: Enamorus-Therian used Earth Power on Kommo-o for 86 damage (supereffective)
+Turn 14:
+Player B: Switched out Enamorus-Therian for Cresselia
+Player A: Kommo-o used Flamethrower on Cresselia for 31 damage
+Turn 15:
+Player A: Kommo-o used Dragon Tail on Cresselia for 15 damage
+Turn 16:
+Player A: Kommo-o used Flash Cannon on Cresselia for 24 damage
+Player B: Cresselia used Draining Kiss on Kommo-o for 14 damage
+Player B: Cresselia used Draining Kiss and healed for 8
+Player A: Kommo-o fainted

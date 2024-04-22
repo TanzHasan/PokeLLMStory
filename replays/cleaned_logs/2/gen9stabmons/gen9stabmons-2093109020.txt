@@ -1,0 +1,69 @@
+Battle start:
+Player A sent out Politoed
+Player B sent out Kleavor
+Turn 1:
+Player B: Kleavor used Sticky Web on self
+Player A: Politoed used Flip Turn on Kleavor for 56 damage (supereffective)
+Player A: Switched out Politoed for Pelipper
+Turn 2:
+Player B: Kleavor used Stone Axe on Pelipper for 100 damage (supereffective)
+Player A: Pelipper fainted
+Player A: Switched out Pelipper for Regigigas
+Turn 3:
+Player B: Switched out Kleavor for Great Tusk
+Player A: Regigigas used Tidy Up on self
+Turn 4:
+Player B: Great Tusk used Close Combat on Regigigas for 100 damage (supereffective)
+Player A: Regigigas fainted
+Player A: Switched out Regigigas for Kingdra
+Turn 5:
+Player B: Switched out Great Tusk for Ogerpon-Wellspring
+Player A: Kingdra used Dragon Dance on self
+Turn 6:
+Player A: Kingdra used Dragon Darts on Ogerpon-Wellspring for 38 damage
+Player B: Ogerpon-Wellspring fainted
+Player B: Switched out Ogerpon-Wellspring for Great Tusk
+Turn 7:
+Player B: Great Tusk used Close Combat on Kingdra for 68 damage
+Player A: Kingdra used Surging Strikes on Great Tusk and crit for 9 damage (supereffective)
+Player B: Great Tusk fainted
+Player B: Switched out Great Tusk for Bisharp
+Turn 8:
+Player A: Kingdra used Jet Punch on Bisharp for 67 damage
+Turn 9:
+Player B: Switched out Bisharp for Latios
+Player A: Kingdra used Jet Punch on Latios for 36 damage
+Turn 10:
+Player B: Switched out Latios for Bisharp
+Player A: Kingdra used Dragon Darts on Bisharp for 4 damage
+Player B: Latios fainted
+Player A: Kingdra fainted
+Player A: Switched out Kingdra for Politoed
+Player B: Switched out Latios for Kleavor
+Turn 11:
+Player A: Switched out Politoed for Overqwil
+Player B: Kleavor used Sticky Web on self
+Turn 12:
+Player A: Overqwil used Wicked Blow on Kleavor and crit for 44 damage
+Player B: Kleavor fainted
+Player B: Switched out Kleavor for Mimikyu
+Turn 13:
+Player A: Overqwil used Mortal Spin on Mimikyu for 0 damage
+Player B: Mimikyu used Swords Dance on self
+Turn 14:
+Player A: Overqwil used Wicked Blow on Mimikyu and crit for 70 damage
+Player B: Mimikyu used Spirit Break on Overqwil for 72 damage
+Player B: Mimikyu used Spirit Break and healed for 10
+Turn 15:
+Player B: Mimikyu used Shadow Sneak on Overqwil for 17 damage
+Player B: Mimikyu used Shadow Sneak and healed for -10
+Player A: Overqwil used Wicked Blow on Mimikyu and crit for 30 damage
+Player B: Mimikyu fainted
+Player B: Switched out Mimikyu for Latios
+Turn 16:
+Player A: Switched out Overqwil for Politoed
+Player B: Latios used Calm Mind on self
+Turn 17:
+Player B: Latios used Clanging Scales and healed for 25
+Player A: Politoed used Encore on self
+Turn 18:

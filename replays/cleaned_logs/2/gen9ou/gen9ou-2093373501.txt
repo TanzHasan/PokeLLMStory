@@ -1,0 +1,91 @@
+Battle start:
+Player A sent out Darkrai
+Player B sent out Landorus-Therian
+Turn 1:
+Player B: Switched out Landorus-Therian for Iron Moth
+Player A: Darkrai used Ice Beam on Iron Moth for 18 damage
+Turn 2:
+Player A: Darkrai used Dark Pulse on Iron Moth for 44 damage
+Player B: Iron Moth can't move because it is frozen
+Turn 3:
+Player A: Darkrai used Dark Pulse on Iron Moth for 38 damage
+Player B: Iron Moth fainted
+Player B: Switched out Iron Moth for Iron Valiant
+Turn 4:
+Player B: Iron Valiant used Moonblast on Darkrai for 99 damage (supereffective)
+Player A: Darkrai used Sludge Bomb on Iron Valiant for 100 damage (supereffective)
+Player B: Iron Valiant fainted
+Player B: Switched out Iron Valiant for Iron Treads
+Turn 5:
+Player A: Darkrai used Ice Beam on Iron Treads for 49 damage
+Player B: Iron Treads used Rapid Spin on Darkrai for 1 damage
+Player A: Darkrai fainted
+Player A: Switched out Darkrai for Rillaboom
+Turn 6:
+Player A: Rillaboom used Grassy Glide on Iron Treads for 34 damage
+Player B: Iron Treads used Ice Spinner on Rillaboom for 74 damage (supereffective)
+Turn 7:
+Player A: Switched out Rillaboom for Gholdengo
+Player B: Iron Treads used Ice Spinner on Gholdengo for 13 damage
+Turn 8:
+Player A: Switched out Gholdengo for Rillaboom
+Player B: Iron Treads used Earthquake on Rillaboom for 18 damage
+Turn 9:
+Player A: Rillaboom used Grassy Glide on Iron Treads for 17 damage
+Player B: Iron Treads fainted
+Player B: Switched out Iron Treads for Roaring Moon
+Turn 10:
+Player A: Switched out Rillaboom for Hawlucha
+Player B: Roaring Moon used Dragon Dance on self
+Turn 11:
+Player A: Hawlucha used Encore on self
+Player B: Roaring Moon used Dragon Dance on self
+Turn 12:
+Player B: Switched out Roaring Moon for Landorus-Therian
+Player A: Hawlucha used Acrobatics on Landorus-Therian for 37 damage
+Turn 13:
+Player A: Hawlucha used Swords Dance on self
+Player B: Landorus-Therian used Psychic on Hawlucha for 100 damage (supereffective)
+Player A: Hawlucha fainted
+Player A: Switched out Hawlucha for Gouging Fire
+Turn 14:
+Player B: Landorus-Therian used Earth Power on Gouging Fire for 92 damage (supereffective)
+Player A: Gouging Fire used Dragon Dance on self
+Turn 15:
+Player A: Gouging Fire used Breaking Swipe on Landorus-Therian for 40 damage
+Player B: Landorus-Therian used Earth Power on Gouging Fire for 8 damage (supereffective)
+Player A: Gouging Fire fainted
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Heatran
+Player A: Switched out Gouging Fire for Gholdengo
+Turn 16:
+Player B: Heatran used Flamethrower on Gholdengo for 87 damage (supereffective)
+Player A: Gholdengo fainted
+Player A: Switched out Gholdengo for Rillaboom
+Turn 17:
+Player A: Rillaboom used Drain Punch on Heatran for 52 damage (supereffective)
+Player A: Rillaboom used Drain Punch and healed for 38
+Player B: Heatran used Flamethrower on Rillaboom and crit for 46 damage (supereffective)
+Player A: Rillaboom fainted
+Player A: Switched out Rillaboom for Kingambit
+Turn 18:
+Player A: Kingambit used Sucker Punch on Heatran for 48 damage
+Player B: Heatran fainted
+Player B: Switched out Heatran for Roaring Moon
+Turn 19:
+Player B: Roaring Moon used Earthquake but it had no effect on Kingambit
+Player A: Kingambit used Swords Dance on self
+Turn 20:
+Player A: Kingambit used Sucker Punch on Roaring Moon for 80 damage
+Player B: Roaring Moon used Acrobatics on Kingambit for 62 damage
+Turn 21:
+Player B: Roaring Moon used Dragon Dance on self
+Turn 22:
+Player B: Roaring Moon used Dragon Dance on self
+Turn 23:
+Player B: Roaring Moon used Dragon Dance on self
+Turn 24:
+Player B: Roaring Moon used Dragon Dance on self
+Turn 25:
+Player A: Kingambit used Sucker Punch on Roaring Moon for 20 damage
+Player B: Roaring Moon fainted

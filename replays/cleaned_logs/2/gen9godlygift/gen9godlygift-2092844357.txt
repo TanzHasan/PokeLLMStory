@@ -1,0 +1,92 @@
+Battle start:
+Player A sent out Milotic
+Player B sent out Clefable
+Turn 1:
+Player A: Milotic used Scald on Clefable for 26 damage
+Player B: Clefable used Knock Off on Milotic for 11 damage
+Turn 2:
+Player A: Milotic used Flip Turn on Clefable for 2 damage
+Player A: Switched out Milotic for Hatterene
+Player B: Clefable used Stealth Rock on self
+Player A: Milotic used Stealth Rock on self
+Turn 3:
+Player B: Clefable used Knock Off on Hatterene for 13 damage
+Player A: Hatterene used Mystical Fire on Clefable for 21 damage
+Turn 4:
+Player B: Switched out Clefable for Skeledirge
+Player A: Hatterene used Mystical Fire on Skeledirge for 10 damage
+Turn 5:
+Player A: Switched out Hatterene for Milotic
+Player B: Skeledirge used Torch Song on Milotic for 6 damage
+Turn 6:
+Player B: Switched out Skeledirge for Alomomola
+Player A: Milotic used Scald on Alomomola for 5 damage
+Turn 7:
+Player A: Milotic used Scald on Alomomola and crit for 9 damage
+Player B: Alomomola used Wish on self
+Turn 8:
+Player A: Milotic used Scald on Alomomola and crit for 8 damage
+Player B: Alomomola used Flip Turn on Milotic for 5 damage
+Player B: Switched out Alomomola for Clefable
+Turn 9:
+Player A: Milotic used Scald on Clefable for -23 damage
+Player B: Clefable used Stealth Rock on self
+Turn 10:
+Player A: Milotic used Scald on Clefable for 20 damage
+Player B: Clefable used Moonblast on Milotic for 19 damage
+Turn 11:
+Player A: Milotic used Flip Turn on Clefable for 4 damage
+Player A: Switched out Milotic for Pecharunt
+Player B: Clefable used Moonlight and healed for 49
+Turn 12:
+Player A: Pecharunt used Nasty Plot on self
+Player B: Clefable used Knock Off on Pecharunt for 14 damage (supereffective)
+Turn 13:
+Player B: Switched out Clefable for Clodsire
+Player A: Pecharunt used Malignant Chain on Clodsire for 5 damage
+Turn 14:
+Player A: Switched out Pecharunt for Hatterene
+Player B: Clodsire used Earthquake on Hatterene for 35 damage
+Turn 15:
+Player B: Switched out Clodsire for Skeledirge
+Player A: Hatterene used Psyshock on Skeledirge for 41 damage
+Turn 16:
+Player B: Skeledirge used Slack Off and healed for 50
+Player A: Hatterene used Psyshock on Skeledirge for 42 damage
+Turn 17:
+Player B: Skeledirge used Torch Song on Hatterene and crit for 38 damage
+Player A: Hatterene used Psyshock on Skeledirge for 38 damage
+Turn 18:
+Player B: Skeledirge used Slack Off and healed for 50
+Player A: Hatterene used Psyshock on Skeledirge for 40 damage
+Turn 19:
+Player B: Skeledirge used Slack Off and healed for 50
+Player A: Hatterene used Psyshock on Skeledirge for 39 damage
+Turn 20:
+Player A: Switched out Hatterene for Milotic
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 21:
+Player B: Switched out Skeledirge for Clefable
+Player A: Milotic used Flip Turn on Clefable for 9 damage
+Player A: Switched out Milotic for Glastrier
+Turn 22:
+Player B: Switched out Clefable for Skarmory
+Player A: Glastrier used Icicle Crash on Skarmory for 29 damage
+Turn 23:
+Player A: Glastrier used Icicle Crash on Skarmory for 17 damage
+Player B: Skarmory used Spikes on self
+Turn 24:
+Player A: Glastrier used Icicle Crash on Skarmory for 20 damage
+Player B: Skarmory used Roost and healed for 50
+Turn 25:
+Player A: Switched out Glastrier for Hatterene
+Player A: Glastrier fainted
+Player B: Skarmory used Iron Defense on self
+Player A: Switched out Glastrier for Milotic
+Turn 26:
+Player B: Switched out Skarmory for Alomomola
+Player A: Milotic used Scald on Alomomola for -17 damage
+Turn 27:
+Player A: Milotic used Recover and healed for 13
+Player B: Alomomola used Wish on self
+Turn 28:

@@ -1,0 +1,31 @@
+Battle start:
+Player A sent out Dragapult
+Player B sent out Urshifu
+Turn 1:
+Player A: Switched out Dragapult for Naganadel
+Player B: Urshifu used Wicked Blow on Naganadel and crit for 100 damage
+Player A: Dragapult fainted
+Player A: Switched out Dragapult for Dragapult
+Turn 2:
+Player A: Dragapult used Draco Meteor on Urshifu for 99 damage
+Player B: Urshifu used Wicked Blow on Dragapult and crit for 100 damage (supereffective)
+Player A: Dragapult fainted
+Player A: Switched out Dragapult for Corsola-Galar
+Turn 3:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 68 damage (supereffective)
+Player A: Corsola-Galar used Strength Sap and healed for 68
+Turn 4:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 64 damage (supereffective)
+Player A: Corsola-Galar used Strength Sap and healed for 64
+Turn 5:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 62 damage (supereffective)
+Player A: Corsola-Galar used Strength Sap and healed for 55
+Turn 6:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 63 damage (supereffective)
+Player A: Corsola-Galar used Strength Sap and healed for 44
+Turn 7:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 66 damage (supereffective)
+Player A: Corsola-Galar used Strength Sap and healed for 36
+Turn 8:
+Player B: Urshifu used Wicked Blow on Corsola-Galar and crit for 44 damage (supereffective)
+Player A: Corsola-Galar fainted

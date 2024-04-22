@@ -1,0 +1,83 @@
+Battle start:
+Player A sent out Dudunsparce-Three-Segment
+Player B sent out Cinderace
+Turn 1:
+Player B: Cinderace used High Jump Kick on Dudunsparce-Three-Segment for 74 damage (supereffective)
+Player A: Dudunsparce-Three-Segment used Poison Tail on Cinderace for 34 damage
+Turn 2:
+Player A: Switched out Dudunsparce-Three-Segment for Landorus-Therian
+Player B: Cinderace used Pyro Ball on Landorus-Therian for 68 damage
+Turn 3:
+Player B: Cinderace used Sucker Punch on Landorus-Therian for 29 damage
+Player A: Landorus-Therian used Earthquake on Cinderace for 66 damage (supereffective)
+Player B: Cinderace fainted
+Player B: Switched out Cinderace for Volcarona
+Turn 4:
+Player A: Landorus-Therian used Earthquake on Volcarona for 100 damage
+Player B: Volcarona fainted
+Player B: Switched out Volcarona for Meowscarada
+Turn 5:
+Player A: Switched out Landorus-Therian for Great Tusk
+Turn 6:
+Player B: Meowscarada used U-turn on Great Tusk for 9 damage
+Player B: Switched out Meowscarada for Mismagius
+Player A: Great Tusk used Close Combat but it had no effect on Mismagius
+Turn 7:
+Player B: Mismagius used Skill Swap on self
+Player A: Great Tusk used Knock Off but it had no effect on Mismagius
+Turn 8:
+Player A: Switched out Great Tusk for Garganacl
+Player B: Mismagius used Nasty Plot on self
+Turn 9:
+Player B: Mismagius used Shadow Ball on Garganacl for 72 damage
+Player A: Garganacl used Salt Cure on Mismagius for 30 damage
+Turn 10:
+Player A: Switched out Garganacl for Dudunsparce-Three-Segment
+Player B: Mismagius used Shadow Ball but it had no effect on Dudunsparce-Three-Segment
+Turn 11:
+Player B: Mismagius used Dazzling Gleam on Dudunsparce-Three-Segment for 26 damage
+Player A: Dudunsparce-Three-Segment fainted
+Player A: Switched out Dudunsparce-Three-Segment for Landorus-Therian
+Turn 12:
+Player B: Switched out Mismagius for Cinccino
+Player A: Landorus-Therian used Earthquake on Cinccino for 100 damage
+Player B: Mismagius fainted
+Player B: Switched out Mismagius for Mismagius
+Turn 13:
+Player A: Landorus-Therian used Earthquake on Mismagius for 70 damage
+Player B: Mismagius fainted
+Player B: Switched out Mismagius for Meowscarada
+Turn 14:
+Player A: Switched out Landorus-Therian for Garganacl
+Turn 15:
+Player A: Garganacl used Protect on self
+Player B: Meowscarada used Flower Trick on self
+Turn 16:
+Player B: Meowscarada used Flower Trick on Garganacl and crit for 28 damage (supereffective)
+Player A: Garganacl fainted
+Player A: Switched out Garganacl for Great Tusk
+Turn 17:
+Player B: Meowscarada used U-turn on Great Tusk for 11 damage
+Player B: Switched out Meowscarada for Galvantula
+Player A: Great Tusk used Close Combat on Galvantula for 68 damage
+Turn 18:
+Player B: Galvantula used Sticky Web on self
+Player A: Great Tusk used Close Combat on Galvantula for 32 damage
+Player B: Galvantula fainted
+Player B: Switched out Galvantula for Meowscarada
+Turn 19:
+Player A: Switched out Great Tusk for Landorus-Therian
+Player B: Meowscarada used Flower Trick on Landorus-Therian and crit for 3 damage
+Player A: Great Tusk fainted
+Player A: Switched out Great Tusk for Deoxys-Speed
+Turn 20:
+Player B: Meowscarada used U-turn on Deoxys-Speed for 92 damage (supereffective)
+Player A: Deoxys-Speed used Nasty Plot on self
+Turn 21:
+Player B: Meowscarada used Sucker Punch on Deoxys-Speed for 8 damage (supereffective)
+Player A: Deoxys-Speed fainted
+Player A: Switched out Deoxys-Speed for Metagross
+Turn 22:
+Player B: Meowscarada used U-turn on Metagross for 22 damage
+Player A: Metagross used Brick Break on Meowscarada for 100 damage (supereffective)
+Player B: Meowscarada fainted

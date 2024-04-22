@@ -1,0 +1,266 @@
+Battle start:
+Player A sent out Regieleki
+Player B sent out Blissey
+Turn 1:
+Player A: Regieleki used Volt Switch on Blissey for 17 damage
+Player A: Switched out Regieleki for Registeel
+Player B: Blissey used Stealth Rock on self
+Turn 2:
+Player B: Switched out Blissey for Dondozo
+Player A: Registeel used Stealth Rock on self
+Turn 3:
+Player A: Switched out Registeel for Sinistcha
+Player B: Dondozo used Body Press but it had no effect on Sinistcha
+Turn 4:
+Player B: Switched out Dondozo for Blissey
+Player A: Sinistcha used Calm Mind on self
+Turn 5:
+Player A: Sinistcha used Calm Mind on self
+Player B: Blissey used Ice Beam on Sinistcha and crit for 64 damage (supereffective)
+Turn 6:
+Player A: Sinistcha used Strength Sap and healed for 12
+Player B: Blissey used Ice Beam on Sinistcha for 19 damage (supereffective)
+Turn 7:
+Player A: Switched out Sinistcha for Registeel
+Player B: Blissey used Ice Beam on Registeel for 10 damage
+Turn 8:
+Player B: Switched out Blissey for Moltres
+Player A: Switched out Registeel for Zapdos
+Turn 9:
+Player B: Switched out Moltres for Blissey
+Player A: Zapdos used Heat Wave on Blissey for 11 damage
+Turn 10:
+Player A: Zapdos used Volt Switch on Blissey for 16 damage
+Player A: Switched out Zapdos for Registeel
+Player B: Blissey used Soft-Boiled and healed for 44
+Turn 11:
+Player B: Switched out Blissey for Dondozo
+Player A: Switched out Registeel for Garchomp
+Turn 12:
+Player A: Switched out Garchomp for Zapdos
+Player B: Dondozo used Liquidation on Zapdos for 21 damage
+Turn 13:
+Player B: Switched out Dondozo for Blissey
+Player A: Zapdos used Volt Switch on Blissey for 15 damage
+Player A: Switched out Zapdos for Registeel
+Turn 14:
+Player B: Switched out Blissey for Moltres
+Player A: Switched out Registeel for Darkrai
+Turn 15:
+Player B: Switched out Moltres for Blissey
+Player A: Darkrai used Dark Pulse on Blissey for 22 damage
+Turn 16:
+Player A: Darkrai used Nasty Plot on self
+Player B: Blissey used Soft-Boiled and healed for 37
+Turn 17:
+Player A: Darkrai used Dark Pulse on Blissey for 42 damage
+Player B: Blissey used Seismic Toss on Darkrai for 35 damage
+Turn 18:
+Player A: Darkrai used Focus Blast on Blissey for 58 damage (supereffective)
+Player B: Blissey fainted
+Player B: Switched out Blissey for Iron Bundle
+Turn 19:
+Player A: Switched out Darkrai for Registeel
+Player B: Iron Bundle used Ice Beam on Registeel for 10 damage
+Turn 20:
+Player B: Iron Bundle used Flip Turn on Registeel for 4 damage
+Player B: Switched out Iron Bundle for Moltres
+Player A: Registeel used Body Press on Moltres for 12 damage
+Turn 21:
+Player A: Switched out Registeel for Zapdos
+Player B: Moltres used Will-O-Wisp
+Turn 22:
+Player B: Switched out Moltres for Gouging Fire
+Player A: Zapdos used Volt Switch on Gouging Fire for 40 damage
+Player A: Switched out Zapdos for Garchomp
+Turn 23:
+Player B: Switched out Gouging Fire for Dondozo
+Turn 24:
+Player A: Garchomp used Earthquake on Dondozo for 30 damage
+Player B: Dondozo used Liquidation on self
+Turn 25:
+Player A: Switched out Garchomp for Zapdos
+Player B: Dondozo used Liquidation on Zapdos for 29 damage
+Turn 26:
+Player B: Switched out Dondozo for Excadrill
+Player A: Zapdos used Roost and healed for 43
+Turn 27:
+Player B: Excadrill used Rapid Spin on Zapdos for 27 damage
+Player A: Zapdos used Heat Wave on Excadrill for 71 damage (supereffective)
+Turn 28:
+Player A: Switched out Zapdos for Sinistcha
+Player B: Excadrill used Rock Slide on Sinistcha for 27 damage
+Turn 29:
+Player B: Excadrill used Shadow Claw on Sinistcha for 2 damage (supereffective)
+Player A: Sinistcha fainted
+Player A: Switched out Sinistcha for Registeel
+Turn 30:
+Player B: Switched out Excadrill for Dondozo
+Player A: Registeel used Body Press on Dondozo for -2 damage
+Turn 31:
+Player A: Registeel used Stealth Rock on self
+Player B: Dondozo used Liquidation on Registeel for 3 damage
+Turn 32:
+Player A: Registeel used Body Press on Dondozo for 0 damage
+Player B: Dondozo used Body Press on Registeel for 14 damage
+Turn 33:
+Player A: Switched out Registeel for Zapdos
+Player B: Dondozo used Body Press on Zapdos for 17 damage
+Turn 34:
+Player B: Switched out Dondozo for Excadrill
+Player A: Zapdos used Roost and healed for 44
+Turn 35:
+Player B: Excadrill used Rock Slide on Zapdos for 43 damage (supereffective)
+Player A: Zapdos used Heat Wave on Excadrill for 29 damage (supereffective)
+Player B: Excadrill fainted
+Player B: Switched out Excadrill for Dondozo
+Turn 36:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Roost and healed for 44
+Turn 37:
+Player B: Gouging Fire used Morning Sun and healed for 37
+Player A: Zapdos used Volt Switch on Gouging Fire for 14 damage
+Player A: Switched out Zapdos for Registeel
+Turn 38:
+Player B: Gouging Fire used Burning Bulwark on self
+Turn 39:
+Player B: Switched out Gouging Fire for Dondozo
+Player A: Registeel used Iron Defense on self
+Turn 40:
+Player A: Switched out Registeel for Zapdos
+Player B: Dondozo used Body Press on Zapdos for 16 damage
+Turn 41:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Discharge on Gouging Fire for 30 damage
+Turn 42:
+Player B: Gouging Fire used Morning Sun and healed for 47
+Player A: Zapdos used Roost and healed for 22
+Turn 43:
+Player B: Gouging Fire used Flare Blitz on Zapdos for 44 damage
+Player A: Zapdos used Discharge on Gouging Fire for 17 damage
+Turn 44:
+Player B: Gouging Fire used Earthquake but it had no effect on Zapdos
+Player A: Zapdos used Roost and healed for 43
+Turn 45:
+Player B: Gouging Fire used Flare Blitz on Zapdos for 48 damage
+Player A: Zapdos used Discharge on Gouging Fire for 17 damage
+Turn 46:
+Player B: Gouging Fire used Morning Sun and healed for 50
+Player A: Zapdos used Roost and healed for 44
+Turn 47:
+Player B: Gouging Fire used Flare Blitz on Zapdos for 52 damage
+Player A: Zapdos used Discharge on Gouging Fire for 18 damage
+Turn 48:
+Player A: Switched out Zapdos for Registeel
+Player B: Gouging Fire used Flare Blitz on Registeel for 33 damage
+Turn 49:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Registeel used Body Press on self
+Turn 50:
+Player B: Switched out Gouging Fire for Dondozo
+Player A: Registeel used Body Press on Dondozo for 19 damage
+Turn 51:
+Player A: Switched out Registeel for Zapdos
+Player B: Dondozo used Body Press on Zapdos for 16 damage
+Turn 52:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Roost and healed for 44
+Turn 53:
+Player B: Gouging Fire used Morning Sun and healed for 35
+Player A: Zapdos used Volt Switch on Gouging Fire for 16 damage
+Player A: Switched out Zapdos for Garchomp
+Turn 54:
+Player B: Switched out Gouging Fire for Dondozo
+Turn 55:
+Player A: Garchomp used Earthquake on Dondozo for 18 damage
+Player B: Dondozo used Liquidation on self
+Turn 56:
+Player A: Switched out Garchomp for Zapdos
+Player B: Dondozo used Liquidation on Zapdos for 26 damage
+Turn 57:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Volt Switch on Gouging Fire for 33 damage
+Player A: Switched out Zapdos for Garchomp
+Turn 58:
+Player B: Switched out Gouging Fire for Moltres
+Player A: Garchomp used Earthquake but it had no effect on Moltres
+Turn 59:
+Player A: Switched out Garchomp for Regieleki
+Player B: Moltres used Air Slash on Regieleki and crit for 61 damage
+Turn 60:
+Player A: Regieleki used Thunderbolt on Moltres for 88 damage (supereffective)
+Player B: Moltres fainted
+Player B: Switched out Moltres for Gouging Fire
+Turn 61:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Regieleki used Volt Switch on self
+Turn 62:
+Player A: Regieleki used Volt Switch on Gouging Fire for 36 damage
+Player A: Switched out Regieleki for Registeel
+Player B: Gouging Fire used Morning Sun and healed for 50
+Turn 63:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Registeel used Body Press on self
+Turn 64:
+Player B: Switched out Gouging Fire for Dondozo
+Player A: Registeel used Heavy Slam on Dondozo for 1 damage
+Turn 65:
+Player A: Switched out Registeel for Zapdos
+Player B: Dondozo used Rest and healed for 66
+Turn 66:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Discharge on Gouging Fire for 30 damage
+Turn 67:
+Player A: Switched out Zapdos for Registeel
+Player B: Gouging Fire used Morning Sun and healed for 56
+Turn 68:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Registeel used Body Press on self
+Turn 69:
+Player B: Gouging Fire used Earthquake on Registeel for 26 damage
+Player A: Registeel fainted
+Player A: Switched out Registeel for Garchomp
+Turn 70:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Garchomp used Earthquake on self
+Turn 71:
+Player B: Switched out Gouging Fire for Dondozo
+Player A: Garchomp used Earthquake on Dondozo for 36 damage
+Turn 72:
+Player A: Switched out Garchomp for Zapdos
+Player B: Dondozo can't move because it is asleep
+Player B: Dondozo used Sleep Talk on self
+Player B: Dondozo used Body Press on Zapdos for 29 damage
+Turn 73:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Zapdos used Roost and healed for 44
+Turn 74:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Zapdos used Volt Switch on self
+Turn 75:
+Player B: Gouging Fire used Flare Blitz on Zapdos for 55 damage
+Player A: Zapdos used Volt Switch on Gouging Fire for 15 damage
+Player A: Switched out Zapdos for Garchomp
+Turn 76:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Garchomp used Earthquake on self
+Turn 77:
+Player A: Switched out Garchomp for Regieleki
+Player B: Switched out Gouging Fire for Dondozo
+Turn 78:
+Player B: Switched out Dondozo for Gouging Fire
+Player A: Regieleki used Thunderbolt on Gouging Fire for 44 damage
+Turn 79:
+Player B: Gouging Fire used Burning Bulwark on self
+Player A: Regieleki used Thunderbolt on self
+Turn 80:
+Player A: Regieleki used Thunderbolt on Gouging Fire for 14 damage
+Player B: Gouging Fire fainted
+Player B: Switched out Gouging Fire for Iron Bundle
+Turn 81:
+Player A: Regieleki used Thunderbolt on Iron Bundle for 100 damage (supereffective)
+Player B: Iron Bundle fainted
+Player B: Switched out Iron Bundle for Dondozo
+Turn 82:
+Player A: Regieleki used Thunderbolt on Dondozo for 64 damage (supereffective)
+Player B: Dondozo fainted

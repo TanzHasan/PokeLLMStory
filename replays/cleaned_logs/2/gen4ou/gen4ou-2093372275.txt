@@ -1,0 +1,262 @@
+Battle start:
+Player A sent out Mamoswine
+Player B sent out Scizor
+Turn 1:
+Player A: Switched out Mamoswine for Magnezone
+Player B: Scizor used Superpower on Magnezone for 68 damage (supereffective)
+Turn 2:
+Player B: Scizor used Superpower on Magnezone for 32 damage (supereffective)
+Player A: Magnezone fainted
+Player A: Switched out Magnezone for Staraptor
+Turn 3:
+Player B: Switched out Scizor for Suicune
+Player A: Staraptor used Close Combat on Suicune for 31 damage
+Turn 4:
+Player A: Switched out Staraptor for Rotom-Fan
+Player B: Suicune used Ice Beam on Rotom-Fan for 32 damage
+Turn 5:
+Player B: Switched out Suicune for Gengar
+Player A: Rotom-Fan used Discharge on Gengar for 95 damage
+Turn 6:
+Player A: Switched out Rotom-Fan for Furret
+Player B: Gengar used Explosion on Furret for 100 damage
+Player B: Gengar fainted
+Player A: Rotom-Fan fainted
+Player B: Switched out Gengar for Weavile
+Player A: Switched out Rotom-Fan for Rotom-Fan
+Turn 7:
+Player B: Weavile used Night Slash on Rotom-Fan for 58 damage (supereffective)
+Player A: Rotom-Fan fainted
+Player A: Switched out Rotom-Fan for Staraptor
+Turn 8:
+Player B: Weavile used Ice Shard on Staraptor for 46 damage (supereffective)
+Player A: Staraptor used Close Combat on Weavile for 100 damage (supereffective)
+Player B: Weavile fainted
+Player B: Switched out Weavile for Suicune
+Turn 9:
+Player A: Switched out Staraptor for Milotic
+Player B: Suicune used Ice Beam on Milotic for 6 damage
+Turn 10:
+Player B: Suicune used Protect on self
+Player A: Milotic used Surf on self
+Turn 11:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Surf on Suicune for -17 damage
+Turn 12:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Haze on self
+Turn 13:
+Player B: Suicune used Ice Beam on Milotic for 0 damage
+Player A: Milotic used Ice Beam on Suicune for -4 damage
+Turn 14:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Ice Beam on Suicune for -1 damage
+Turn 15:
+Player B: Suicune used Ice Beam on Milotic for 4 damage
+Player A: Milotic used Haze on self
+Turn 16:
+Player A: Switched out Milotic for Mamoswine
+Player B: Suicune used Surf on Mamoswine for 88 damage (supereffective)
+Turn 17:
+Player B: Suicune used Surf on Mamoswine for 12 damage (supereffective)
+Player A: Mamoswine fainted
+Player A: Switched out Mamoswine for Staraptor
+Turn 18:
+Player A: Staraptor used Roost and healed for 46
+Player B: Suicune used Ice Beam on Staraptor for 49 damage
+Turn 19:
+Player A: Staraptor used Roost and healed for 49
+Player B: Suicune used Calm Mind on self
+Turn 20:
+Player A: Switched out Staraptor for Milotic
+Player B: Suicune used Calm Mind on self
+Turn 21:
+Player B: Suicune used Ice Beam on Milotic for 2 damage
+Player A: Milotic used Haze on self
+Turn 22:
+Player B: Switched out Suicune for Miltank
+Player A: Milotic used Surf on Miltank and crit for 50 damage
+Turn 23:
+Player B: Miltank used Milk Drink and healed for 50
+Player A: Milotic used Ice Beam on Miltank for 18 damage
+Turn 24:
+Player B: Miltank used Body Slam on Milotic for 14 damage
+Player A: Milotic used Surf on Miltank for 18 damage
+Turn 25:
+Player B: Miltank used Body Slam on Milotic for 19 damage
+Player A: Milotic used Surf on Miltank for 19 damage
+Turn 26:
+Player B: Miltank used Body Slam on Milotic and crit for 45 damage
+Player A: Milotic used Recover and healed for 50
+Turn 27:
+Player B: Miltank used Body Slam on Milotic for 19 damage
+Player A: Milotic used Recover and healed for 50
+Turn 28:
+Player B: Miltank used Body Slam on Milotic and crit for 46 damage
+Player A: Milotic used Surf on Miltank for 7 damage
+Turn 29:
+Player B: Miltank used Milk Drink and healed for 56
+Player A: Milotic used Surf on Miltank for 25 damage
+Turn 30:
+Player B: Miltank used Curse on self
+Player A: Milotic used Recover and healed for 55
+Turn 31:
+Player A: Milotic used Surf on Miltank for 11 damage
+Player B: Miltank used Body Slam on Milotic for 40 damage
+Turn 32:
+Player A: Milotic used Ice Beam on Miltank for 12 damage
+Player B: Miltank used Body Slam on Milotic for 31 damage
+Turn 33:
+Player A: Milotic used Recover and healed for 56
+Player B: Miltank used Body Slam on Milotic and crit for 71 damage
+Turn 34:
+Player A: Milotic used Recover and healed for 56
+Player B: Miltank used Body Slam on Milotic for 35 damage
+Turn 35:
+Player A: Milotic used Recover and healed for 56
+Player B: Miltank used Body Slam on Milotic for 38 damage
+Turn 36:
+Player A: Milotic used Haze on self
+Player B: Miltank used Curse on self
+Turn 37:
+Player A: Milotic used Haze on self
+Player B: Miltank used Curse on self
+Turn 38:
+Player A: Milotic used Haze on self
+Player B: Miltank used Curse on self
+Turn 39:
+Player A: Milotic used Surf on Miltank for -16 damage
+Player B: Miltank used Curse on self
+Turn 40:
+Player A: Milotic used Haze on self
+Player B: Miltank used Body Slam on Milotic for -7 damage
+Turn 41:
+Player B: Miltank used Body Slam on Milotic for 18 damage
+Player A: Milotic used Ice Beam on Miltank for 4 damage
+Turn 42:
+Player B: Miltank can't move because it is frozen
+Player A: Milotic used Surf on Miltank for 20 damage
+Turn 43:
+Player B: Miltank can't move because it is frozen
+Player A: Milotic used Surf on Miltank for 20 damage
+Turn 44:
+Player B: Switched out Miltank for Suicune
+Player A: Milotic used Surf on Suicune for 2 damage
+Turn 45:
+Player B: Suicune used Protect on self
+Player A: Milotic used Surf on self
+Turn 46:
+Player A: Switched out Milotic for Staraptor
+Player B: Suicune used Calm Mind on self
+Turn 47:
+Player B: Suicune used Ice Beam on Staraptor for 100 damage (supereffective)
+Player A: Staraptor fainted
+Player A: Switched out Staraptor for Milotic
+Turn 48:
+Player B: Suicune used Ice Beam on Milotic and crit for -12 damage
+Player A: Milotic used Ice Beam on Suicune for -6 damage
+Turn 49:
+Player B: Suicune used Ice Beam on Milotic for 4 damage
+Player A: Milotic can't move because it is frozen
+Turn 50:
+Player B: Switched out Suicune for Scizor
+Player A: Milotic can't move because it is frozen
+Turn 51:
+Player B: Scizor used Bullet Punch on Milotic for -2 damage
+Player A: Milotic can't move because it is frozen
+Turn 52:
+Player B: Switched out Scizor for Miltank
+Player A: Milotic can't move because it is frozen
+Turn 53:
+Player B: Miltank can't move because it is frozen
+Player A: Milotic used Surf on Miltank for 13 damage
+Turn 54:
+Player B: Switched out Miltank for Suicune
+Player A: Milotic used Ice Beam on Suicune for 2 damage
+Turn 55:
+Player B: Suicune used Protect on self
+Player A: Milotic used Surf on self
+Turn 56:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Haze on self
+Turn 57:
+Player B: Suicune used Ice Beam on Milotic for -29 damage
+Player A: Milotic used Haze on self
+Turn 58:
+Player B: Suicune used Surf on Milotic for 3 damage
+Player A: Milotic used Ice Beam on Suicune for 0 damage
+Turn 59:
+Player B: Suicune used Surf on Milotic for 4 damage
+Player A: Milotic used Surf on Suicune for 6 damage
+Turn 60:
+Player B: Suicune used Surf on Milotic for 4 damage
+Player A: Milotic used Ice Beam on Suicune for 2 damage
+Turn 61:
+Player B: Suicune used Surf on Milotic for 4 damage
+Player A: Milotic used Ice Beam on Suicune for 2 damage
+Turn 62:
+Player B: Suicune used Surf on Milotic for 4 damage
+Player A: Milotic used Haze on self
+Turn 63:
+Player B: Suicune used Surf on Milotic for 5 damage
+Player A: Milotic used Haze on self
+Turn 64:
+Player B: Suicune used Protect on self
+Player A: Milotic used Haze on self
+Turn 65:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Haze on self
+Turn 66:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Surf on Suicune for -9 damage
+Turn 67:
+Player B: Suicune used Calm Mind on self
+Player A: Milotic used Haze on self
+Turn 68:
+Player B: Switched out Suicune for Lucario
+Player A: Milotic used Haze on self
+Turn 69:
+Player B: Lucario used Thunder Punch on Milotic for 11 damage (supereffective)
+Player A: Milotic used Haze on self
+Turn 70:
+Player B: Lucario used Thunder Punch on Milotic for 41 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 71:
+Player B: Lucario used Thunder Punch on Milotic for 46 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 72:
+Player B: Lucario used Thunder Punch on Milotic for 41 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 73:
+Player B: Lucario used Thunder Punch on Milotic for 43 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 74:
+Player B: Lucario used Thunder Punch on Milotic for 40 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 75:
+Player B: Lucario used Thunder Punch on Milotic for 41 damage (supereffective)
+Player A: Milotic used Haze on self
+Turn 76:
+Player B: Lucario used Thunder Punch on Milotic for 40 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 77:
+Player B: Lucario used Thunder Punch on Milotic for 40 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 78:
+Player B: Lucario used Thunder Punch on Milotic for 44 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 79:
+Player B: Lucario used Thunder Punch on Milotic for 45 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 80:
+Player B: Lucario used Thunder Punch on Milotic for 43 damage (supereffective)
+Player A: Milotic used Recover and healed for 50
+Turn 81:
+Player B: Lucario used Thunder Punch on Milotic for 39 damage (supereffective)
+Player A: Milotic used Haze on self
+Turn 82:
+Player B: Lucario used Thunder Punch on Milotic for 26 damage (supereffective)
+Player A: Milotic can't move because it is paralyzed
+Turn 83:
+Player B: Lucario used Thunder Punch on Milotic for 17 damage (supereffective)
+Player A: Milotic fainted

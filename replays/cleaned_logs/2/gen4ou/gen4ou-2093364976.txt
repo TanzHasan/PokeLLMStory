@@ -1,0 +1,93 @@
+Battle start:
+Player A sent out Gliscor
+Player B sent out Absol
+Turn 1:
+Player A: Gliscor used Stealth Rock on self
+Player B: Absol used Night Slash on Gliscor for 40 damage
+Turn 2:
+Player A: Switched out Gliscor for Furret
+Turn 3:
+Player A: Furret used U-turn on Absol for 62 damage (supereffective)
+Player A: Switched out Furret for Gliscor
+Player B: Absol used Superpower on Gliscor for 24 damage
+Turn 4:
+Player B: Switched out Absol for Miltank
+Player A: Gliscor used Ice Fang on Miltank and crit for 45 damage
+Turn 5:
+Player A: Switched out Gliscor for Furret
+Player B: Miltank can't move because it is frozen
+Turn 6:
+Player B: Switched out Miltank for Lucario
+Player A: Furret used Trick on self
+Turn 7:
+Player A: Switched out Furret for Dusknoir
+Player B: Lucario used Ice Punch on Dusknoir and crit for 39 damage
+Turn 8:
+Player B: Lucario used Thunder Punch on Dusknoir for 15 damage
+Player A: Dusknoir used Fire Punch on Lucario for 99 damage (supereffective)
+Player B: Lucario fainted
+Player B: Switched out Lucario for Miltank
+Turn 9:
+Player A: Switched out Dusknoir for Furret
+Player B: Miltank can't move because it is frozen
+Turn 10:
+Player A: Furret used Brick Break on Miltank for 49 damage (supereffective)
+Player B: Miltank used Milk Drink and healed for 50
+Turn 11:
+Player A: Furret used Brick Break on Miltank for 38 damage (supereffective)
+Player B: Miltank used Milk Drink and healed for 49
+Turn 12:
+Player A: Switched out Furret for Dusknoir
+Player B: Miltank used Milk Drink and healed for 33
+Turn 13:
+Player B: Miltank used Return on Dusknoir for 33 damage
+Player A: Dusknoir used Pain Split on self
+Turn 14:
+Player B: Miltank used Milk Drink and healed for 9
+Player A: Dusknoir used Fire Punch on Miltank for 23 damage
+Turn 15:
+Player B: Miltank used Return on Dusknoir for -12 damage
+Player A: Dusknoir used Fire Punch on Miltank for 24 damage
+Turn 16:
+Player B: Miltank used Return on Dusknoir for 25 damage
+Player A: Dusknoir fainted
+Player A: Switched out Dusknoir for Staraptor
+Turn 17:
+Player B: Switched out Miltank for Absol
+Player A: Staraptor used Close Combat on Absol for 38 damage (supereffective)
+Player B: Miltank fainted
+Player B: Switched out Miltank for Magneton
+Turn 18:
+Player A: Staraptor used Close Combat on Magneton for 100 damage (supereffective)
+Player B: Magneton fainted
+Player B: Switched out Magneton for Machamp
+Turn 19:
+Player A: Staraptor used Close Combat on Machamp for 61 damage
+Player B: Machamp used Stone Edge on Staraptor for 100 damage (supereffective)
+Player A: Staraptor fainted
+Player A: Switched out Staraptor for Rotom-Fan
+Turn 20:
+Player A: Rotom-Fan used Air Slash on Machamp for 39 damage (supereffective)
+Player B: Machamp fainted
+Player B: Switched out Machamp for Miltank
+Turn 21:
+Player B: Miltank used Milk Drink and healed for 28
+Player A: Rotom-Fan used Air Slash on Miltank for 45 damage
+Turn 22:
+Player B: Miltank used Milk Drink and healed for 50
+Player A: Rotom-Fan used Air Slash on Miltank for 46 damage
+Turn 23:
+Player B: Miltank used Milk Drink and healed for 50
+Player A: Rotom-Fan used Discharge on Miltank for 68 damage
+Turn 24:
+Player B: Miltank used Return on Rotom-Fan for 61 damage
+Player A: Rotom-Fan fainted
+Player A: Switched out Rotom-Fan for Furret
+Turn 25:
+Player A: Furret used U-turn on Miltank for 12 damage
+Player B: Miltank fainted
+Player A: Switched out Furret for Gliscor
+Player B: Switched out Miltank for Breloom
+Turn 26:
+Player A: Gliscor used Aerial Ace on Breloom for 100 damage (supereffective)
+Player B: Breloom fainted

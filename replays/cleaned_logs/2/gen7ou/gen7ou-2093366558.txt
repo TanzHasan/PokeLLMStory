@@ -1,0 +1,80 @@
+Battle start:
+Player A sent out Sandslash
+Player B sent out Alakazam
+Turn 1:
+Player B: Alakazam used Reflect on self
+Player A: Sandslash used Sandstorm on self
+Turn 2:
+Player B: Alakazam used Shadow Ball on Sandslash for 60 damage
+Player A: Sandslash used Stealth Rock on self
+Turn 3:
+Player A: Switched out Sandslash for Scizor
+Player B: Alakazam used Shadow Ball on Scizor for 44 damage
+Turn 4:
+Player A: Scizor used Bullet Punch on Alakazam for 52 damage
+Player B: Alakazam used Hidden Power on Scizor for 56 damage (supereffective)
+Player A: Scizor fainted
+Player A: Switched out Scizor for Lycanroc-Dusk
+Turn 5:
+Player A: Lycanroc-Dusk used Sucker Punch on Alakazam for 17 damage (supereffective)
+Player B: Alakazam fainted
+Player B: Switched out Alakazam for Aggron
+Turn 6:
+Player A: Switched out Lycanroc-Dusk for Sandslash
+Player B: Aggron used Block on self
+Turn 7:
+Player A: Sandslash used Earthquake on Aggron for 39 damage (supereffective)
+Player B: Aggron used Hone Claws on self
+Turn 8:
+Player A: Sandslash used Earthquake on Aggron for 31 damage (supereffective)
+Player B: Aggron used Avalanche on Sandslash for 40 damage (supereffective)
+Player A: Sandslash fainted
+Player A: Switched out Sandslash for Swanna
+Turn 9:
+Player A: Swanna used Surf on Aggron for 30 damage
+Player B: Aggron fainted
+Player B: Switched out Aggron for Goodra
+Turn 10:
+Player A: Swanna used Ice Beam on Goodra for 31 damage (supereffective)
+Player B: Goodra used Thunder on Swanna for 99 damage (supereffective)
+Turn 11:
+Player B: Goodra used Dragon Pulse on Swanna for 1 damage
+Player A: Swanna fainted
+Player A: Switched out Swanna for Lycanroc-Dusk
+Turn 12:
+Player A: Lycanroc-Dusk used Outrage on Goodra for 69 damage (supereffective)
+Player B: Goodra fainted
+Player B: Switched out Goodra for Empoleon
+Turn 13:
+Player A: Lycanroc-Dusk used Outrage on Empoleon for 45 damage
+Player B: Empoleon used Swords Dance on self
+Turn 14:
+Player B: Empoleon used Aqua Jet on Lycanroc-Dusk for 100 damage (supereffective)
+Player A: Lycanroc-Dusk fainted
+Player A: Switched out Lycanroc-Dusk for Rapidash
+Turn 15:
+Player B: Empoleon used Aqua Jet on Rapidash for 100 damage (supereffective)
+Player A: Rapidash fainted
+Player A: Switched out Rapidash for Serperior
+Turn 16:
+Player A: Serperior used Glare
+Player B: Empoleon used Steel Wing on Serperior and crit for 94 damage
+Turn 17:
+Player B: Empoleon can't move because it is paralyzed
+Player A: Serperior used Leaf Storm and healed for 50
+Turn 18:
+Player B: Empoleon used Aqua Jet on Serperior for 4 damage
+Player A: Serperior used Leaf Storm on Empoleon for 69 damage
+Turn 19:
+Player B: Empoleon can't move because it is paralyzed
+Player A: Serperior used Leaf Storm on Empoleon for 5 damage
+Player B: Empoleon fainted
+Player B: Switched out Empoleon for Dusknoir
+Turn 20:
+Player B: Dusknoir used Shadow Sneak on Serperior for 1 damage
+Player A: Serperior used Leaf Storm on Dusknoir for 100 damage
+Player B: Dusknoir fainted
+Player B: Switched out Dusknoir for Primeape
+Turn 21:
+Player A: Serperior used Leaf Storm on Primeape for 100 damage
+Player B: Primeape fainted

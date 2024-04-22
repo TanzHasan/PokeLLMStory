@@ -1,0 +1,19 @@
+Battle start:
+Player A sent out Minior
+Player B sent out Charizard
+Turn 1:
+Player B: Switched out Charizard for Vaporeon
+Player A: Minior used Shell Smash on self
+Turn 2:
+Player A: Minior used Acrobatics on Vaporeon for 196 damage
+Player B: Vaporeon used Scald on Minior for 182 damage (supereffective)
+Turn 3:
+Player A: Minior used Acrobatics on Vaporeon for 164 damage
+Player B: Vaporeon fainted
+Player B: Switched out Vaporeon for Lunala
+Turn 4:
+Player A: Minior used Acrobatics on Lunala for 128 damage
+Player B: Lunala used Moongeist Beam on Minior for 41 damage
+Player A: Minior fainted
+Player A: Switched out Minior for Tauros-Paldea-Combat
+Turn 5:

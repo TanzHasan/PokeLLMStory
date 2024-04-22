@@ -1,0 +1,99 @@
+Battle start:
+Player A sent out Rotom-Heat
+Player B sent out Tentacruel
+Turn 1:
+Player A: Rotom-Heat used Volt Switch on Tentacruel and crit for 50 damage (supereffective)
+Player A: Switched out Rotom-Heat for Espeon
+Player B: Tentacruel used Flip Turn on Espeon for 28 damage
+Player B: Switched out Tentacruel for Overqwil
+Turn 2:
+Player A: Switched out Espeon for Swampert
+Player B: Overqwil used Barb Barrage on Swampert for 8 damage
+Turn 3:
+Player B: Switched out Overqwil for Tentacruel
+Player A: Swampert used Stealth Rock on self
+Turn 4:
+Player B: Tentacruel used Giga Drain on Swampert for 47 damage (supereffective)
+Player B: Tentacruel used Giga Drain and healed for 32
+Player A: Swampert used Earthquake on Tentacruel for 82 damage (supereffective)
+Player B: Tentacruel fainted
+Player B: Switched out Tentacruel for Arboliva
+Turn 5:
+Player A: Switched out Swampert for Rotom-Heat
+Player B: Arboliva used Tera Blast on Rotom-Heat for 53 damage
+Turn 6:
+Player A: Rotom-Heat used Overheat on Arboliva for 30 damage
+Player B: Arboliva used Tera Blast on Rotom-Heat for 28 damage
+Turn 7:
+Player A: Switched out Rotom-Heat for Emboar
+Player B: Arboliva used Tera Blast on Emboar for 24 damage
+Turn 8:
+Player A: Emboar used Close Combat on Arboliva for 67 damage
+Player B: Arboliva used Strength Sap and healed for 97
+Turn 9:
+Player A: Switched out Emboar for Dragalge
+Player B: Arboliva used Earth Power on Dragalge for 31 damage (supereffective)
+Turn 10:
+Player A: Dragalge used Sludge Bomb on Arboliva for 39 damage
+Player B: Arboliva used Earth Power on Dragalge for 27 damage (supereffective)
+Turn 11:
+Player A: Dragalge used Sludge Bomb on Arboliva for 28 damage
+Player B: Arboliva used Strength Sap and healed for 46
+Turn 12:
+Player A: Dragalge used Sludge Bomb on Arboliva and crit for 45 damage
+Player B: Arboliva used Earth Power on Dragalge for 19 damage (supereffective)
+Turn 13:
+Player A: Dragalge used Sludge Bomb on Arboliva for 32 damage
+Player B: Arboliva used Earth Power on Dragalge for 23 damage (supereffective)
+Player A: Dragalge fainted
+Player A: Switched out Dragalge for Rotom-Heat
+Turn 14:
+Player A: Rotom-Heat used Volt Switch on Arboliva for 2 damage
+Player B: Arboliva fainted
+Player A: Switched out Rotom-Heat for Swampert
+Player B: Switched out Arboliva for Overqwil
+Turn 15:
+Player B: Overqwil used Barb Barrage on Swampert for -9 damage
+Player A: Swampert used Knock Off on Overqwil for 20 damage
+Turn 16:
+Player B: Overqwil used Spikes on self
+Player A: Swampert used Earthquake on Overqwil for 42 damage (supereffective)
+Turn 17:
+Player B: Overqwil used Liquidation on Swampert for -1 damage
+Player A: Swampert used Knock Off on Overqwil for 6 damage
+Turn 18:
+Player B: Overqwil used Barb Barrage on Swampert for 3 damage
+Player A: Swampert used Earthquake on Overqwil for 32 damage (supereffective)
+Player B: Overqwil fainted
+Player B: Switched out Overqwil for Tornadus
+Turn 19:
+Player B: Tornadus used Bulk Up on self
+Player A: Swampert used Knock Off on Tornadus for 46 damage
+Turn 20:
+Player B: Tornadus used Acrobatics on Swampert for 52 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Rotom-Heat
+Turn 21:
+Player A: Rotom-Heat used Volt Switch on Tornadus for 54 damage (supereffective)
+Player B: Tornadus fainted
+Player A: Switched out Rotom-Heat for Tsareena
+Player B: Switched out Tornadus for Infernape
+Turn 22:
+Player B: Infernape used Swords Dance on self
+Player A: Tsareena used Rapid Spin on Infernape for 40 damage
+Turn 23:
+Player B: Infernape used Fire Punch on Tsareena for 100 damage (supereffective)
+Player A: Tsareena fainted
+Player A: Switched out Tsareena for Rotom-Heat
+Turn 24:
+Player B: Infernape used Mach Punch on Rotom-Heat for 19 damage
+Player A: Rotom-Heat fainted
+Player A: Switched out Rotom-Heat for Espeon
+Turn 25:
+Player B: Infernape used Mach Punch on Espeon for 46 damage
+Player A: Espeon used Psychic on Infernape for 60 damage (supereffective)
+Player B: Infernape fainted
+Player B: Switched out Infernape for Vikavolt
+Turn 26:
+Player A: Espeon used Psychic on Vikavolt for 100 damage
+Player B: Vikavolt fainted

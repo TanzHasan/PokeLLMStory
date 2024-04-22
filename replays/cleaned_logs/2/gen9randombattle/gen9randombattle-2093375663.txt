@@ -1,0 +1,53 @@
+Battle start:
+Player A sent out Jumpluff
+Player B sent out Terrakion
+Turn 1:
+Player A: Switched out Jumpluff for Tinkaton
+Player B: Switched out Terrakion for Minun
+Turn 2:
+Player B: Minun used Nasty Plot on self
+Player A: Tinkaton used Swords Dance on self
+Turn 3:
+Player B: Minun used Encore on self
+Player A: Tinkaton used Swords Dance on self
+Turn 4:
+Player A: Switched out Tinkaton for Swalot
+Player B: Minun used Thunderbolt on Swalot for 234 damage
+Turn 5:
+Player B: Minun used Thunderbolt on Swalot for 92 damage
+Player A: Swalot fainted
+Player A: Switched out Swalot for Sylveon
+Turn 6:
+Player B: Minun used Nasty Plot on self
+Player A: Sylveon used Hyper Voice on Minun for 135 damage
+Turn 7:
+Player B: Minun used Thunderbolt on Sylveon for 297 damage
+Player A: Sylveon fainted
+Player A: Switched out Sylveon for Jumpluff
+Turn 8:
+Turn 9:
+Player B: Minun used Alluring Voice on Jumpluff for 137 damage
+Player A: Jumpluff fainted
+Player A: Switched out Jumpluff for Pelipper
+Turn 10:
+Player B: Minun used Thunderbolt on Pelipper for 243 damage (supereffective)
+Player A: Pelipper fainted
+Player A: Switched out Pelipper for Tinkaton
+Turn 11:
+Player B: Minun used Thunderbolt on Tinkaton for 274 damage
+Player A: Tinkaton fainted
+Player B: Minun fainted
+Player B: Switched out Minun for Ribombee
+Player A: Switched out Tinkaton for Iron Crown
+Turn 12:
+Player B: Ribombee used Stun Spore
+Player A: Iron Crown can't move because it is paralyzed
+Turn 13:
+Player B: Switched out Ribombee for Hippowdon
+Player A: Iron Crown used Tachyon Cutter on Hippowdon and crit for 63 damage
+Turn 14:
+Player B: Hippowdon used Earthquake on Iron Crown for 234 damage (supereffective)
+Player A: Iron Crown can't move because it is paralyzed
+Turn 15:
+Player B: Hippowdon used Earthquake on Iron Crown for 38 damage (supereffective)
+Player A: Iron Crown fainted

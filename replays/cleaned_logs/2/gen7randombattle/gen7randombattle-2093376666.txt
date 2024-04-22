@@ -1,0 +1,75 @@
+Battle start:
+Player A sent out Crustle
+Player B sent out Landorus
+Turn 1:
+Player A: Switched out Crustle for Latios
+Player B: Landorus used Calm Mind on self
+Turn 2:
+Player A: Latios used Calm Mind on self
+Player B: Landorus used Calm Mind on self
+Turn 3:
+Player A: Latios used Calm Mind on self
+Player B: Landorus used Rock Polish on self
+Turn 4:
+Player B: Landorus used Sludge Wave on Latios for 91 damage
+Player A: Latios used Psyshock on Landorus for 252 damage
+Turn 5:
+Player B: Landorus used Sludge Wave on Latios for 92 damage
+Player A: Latios used Psyshock on Landorus and crit for 15 damage
+Player B: Landorus fainted
+Player B: Switched out Landorus for Musharna
+Turn 6:
+Player A: Latios used Roost and healed for 130
+Player B: Musharna used Thunder Wave
+Turn 7:
+Player A: Latios can't move because it is paralyzed
+Player B: Musharna used Psychic on Latios for 25 damage
+Turn 8:
+Player B: Switched out Musharna for Dustox
+Player A: Latios used Calm Mind on self
+Turn 9:
+Player B: Dustox used Bug Buzz on Latios for 54 damage (supereffective)
+Player A: Latios used Psyshock on Dustox for 265 damage (supereffective)
+Player B: Dustox fainted
+Player B: Switched out Dustox for Marowak
+Turn 10:
+Player B: Marowak used Knock Off on Latios and crit for 127 damage (supereffective)
+Player A: Latios fainted
+Player A: Switched out Latios for Gorebyss
+Turn 11:
+Player B: Switched out Marowak for Wishiwashi
+Player A: Gorebyss used Shell Smash on self
+Turn 12:
+Player A: Gorebyss used Hidden Power on Wishiwashi for 92 damage (supereffective)
+Player B: Wishiwashi used Hidden Power on Gorebyss for 148 damage (supereffective)
+Turn 13:
+Player A: Gorebyss used Hydro Pump on Wishiwashi for 59 damage
+Player B: Wishiwashi used Hidden Power on Gorebyss for 78 damage (supereffective)
+Player A: Gorebyss fainted
+Player A: Switched out Gorebyss for Sawk
+Turn 14:
+Player A: Sawk used Knock Off on Wishiwashi for 74 damage
+Player B: Wishiwashi fainted
+Player B: Switched out Wishiwashi for Musharna
+Turn 15:
+Player A: Sawk used Knock Off on Musharna for 272 damage (supereffective)
+Player B: Musharna used Psychic on Sawk for 246 damage (supereffective)
+Turn 16:
+Player A: Sawk used Knock Off on Musharna for 83 damage (supereffective)
+Player B: Musharna fainted
+Player B: Switched out Musharna for Gigalith
+Turn 17:
+Player A: Switched out Sawk for Lopunny
+Player B: Gigalith used Earthquake on Lopunny for 98 damage
+Turn 18:
+Player A: Lopunny used High Jump Kick on Gigalith for 182 damage (supereffective)
+Player B: Gigalith used Stone Edge on Lopunny for 157 damage
+Player A: Lopunny fainted
+Player A: Switched out Lopunny for Sawk
+Turn 19:
+Player A: Sawk used Close Combat on Gigalith for 95 damage (supereffective)
+Player B: Gigalith fainted
+Player B: Switched out Gigalith for Marowak
+Turn 20:
+Player A: Sawk used Close Combat on Marowak and crit for 249 damage
+Player B: Marowak fainted

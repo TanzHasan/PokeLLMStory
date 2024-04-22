@@ -1,0 +1,125 @@
+Battle start:
+Player A sent out Arctibax
+Player B sent out Morgrem
+Turn 1:
+Player B: Morgrem used Reflect on self
+Player A: Arctibax used Swords Dance on self
+Turn 2:
+Player B: Morgrem used Parting Shot on self
+Player B: Switched out Morgrem for Porygon
+Player A: Arctibax used Brick Break on Porygon for 47 damage (supereffective)
+Turn 3:
+Player B: Switched out Porygon for Fletchinder
+Player A: Arctibax used Avalanche on Fletchinder for 93 damage
+Turn 4:
+Player A: Switched out Arctibax for Wartortle
+Player B: Fletchinder used Brave Bird on Wartortle for 35 damage
+Player B: Fletchinder fainted
+Player B: Switched out Fletchinder for Thwackey
+Turn 5:
+Player A: Switched out Wartortle for Sliggoo-Hisui
+Player B: Thwackey used U-turn on Sliggoo-Hisui for 14 damage
+Player B: Switched out Thwackey for Morgrem
+Turn 6:
+Player B: Morgrem used Parting Shot on self
+Player B: Switched out Morgrem for Croconaw
+Player A: Sliggoo-Hisui used Steel Beam on Croconaw for 33 damage
+Turn 7:
+Player A: Switched out Sliggoo-Hisui for Wartortle
+Player B: Croconaw used Dragon Dance on self
+Turn 8:
+Player B: Switched out Croconaw for Thwackey
+Player A: Wartortle used Shell Smash on self
+Turn 9:
+Player A: Switched out Wartortle for Raboot
+Player B: Thwackey used Grassy Glide on Raboot for 43 damage
+Turn 10:
+Player B: Switched out Thwackey for Gabite
+Player A: Raboot used High Jump Kick on Gabite for 58 damage
+Turn 11:
+Player A: Raboot used High Jump Kick on Gabite for 42 damage
+Player B: Gabite fainted
+Player A: Raboot fainted
+Player A: Switched out Raboot for Misdreavus
+Player B: Switched out Gabite for Morgrem
+Turn 12:
+Player B: Morgrem used Taunt on self
+Player A: Misdreavus can't move because move: Taunt
+Turn 13:
+Player B: Morgrem used Light Screen on self
+Player A: Misdreavus used Draining Kiss on Morgrem for 16 damage (supereffective)
+Turn 14:
+Player A: Switched out Misdreavus for Arctibax
+Player B: Morgrem used Reflect on self
+Turn 15:
+Player B: Morgrem used Parting Shot on self
+Player B: Switched out Morgrem for Porygon
+Player A: Arctibax used Brick Break on Porygon for 21 damage (supereffective)
+Turn 16:
+Player A: Switched out Arctibax for Misdreavus
+Player B: Porygon used Recover and healed for 50
+Turn 17:
+Player B: Switched out Porygon for Morgrem
+Turn 18:
+Player B: Morgrem used Light Screen on self
+Player A: Misdreavus used Nasty Plot on self
+Turn 19:
+Player B: Morgrem used Parting Shot on self
+Player B: Switched out Morgrem for Porygon
+Player A: Misdreavus used Nasty Plot on self
+Turn 20:
+Player A: Misdreavus used Nasty Plot on self
+Player B: Porygon used Ice Beam on self
+Turn 21:
+Player A: Misdreavus used Draining Kiss on Porygon for 19 damage
+Player A: Misdreavus used Draining Kiss and healed for 18
+Player B: Porygon used Ice Beam on Misdreavus for 25 damage
+Turn 22:
+Player B: Porygon used Ice Beam on self
+Turn 23:
+Player A: Misdreavus used Draining Kiss on Porygon for 21 damage
+Player A: Misdreavus used Draining Kiss and healed for 20
+Player B: Porygon used Ice Beam on self
+Turn 24:
+Player A: Misdreavus used Draining Kiss on Porygon for 19 damage
+Player A: Misdreavus used Draining Kiss and healed for 18
+Player B: Porygon used Recover and healed for 50
+Turn 25:
+Player B: Switched out Porygon for Thwackey
+Turn 26:
+Player B: Thwackey used Grassy Glide
+Player A: Misdreavus used Shadow Ball on Thwackey for 100 damage
+Player B: Thwackey fainted
+Player B: Switched out Thwackey for Croconaw
+Turn 27:
+Player B: Croconaw used Aqua Jet on Misdreavus for 20 damage
+Player A: Misdreavus used Draining Kiss on Croconaw for 69 damage
+Player A: Misdreavus used Draining Kiss and healed for 53
+Player B: Croconaw fainted
+Player B: Switched out Croconaw for Morgrem
+Turn 28:
+Player B: Morgrem used Taunt on self
+Player A: Misdreavus used Shadow Ball on Morgrem for 58 damage
+Turn 29:
+Player B: Morgrem used Light Screen on self
+Player A: Misdreavus used Draining Kiss on Morgrem for 26 damage (supereffective)
+Player A: Misdreavus used Draining Kiss and healed for 9
+Player B: Morgrem fainted
+Player B: Switched out Morgrem for Porygon
+Turn 30:
+Player A: Misdreavus used Draining Kiss on Porygon for 19 damage
+Player B: Porygon used Ice Beam on Misdreavus for 22 damage
+Turn 31:
+Player B: Porygon used Ice Beam on self
+Turn 32:
+Player A: Misdreavus used Draining Kiss on Porygon for 20 damage
+Player A: Misdreavus used Draining Kiss and healed for 19
+Player B: Porygon used Ice Beam on Misdreavus for 24 damage
+Turn 33:
+Player A: Misdreavus used Draining Kiss on Porygon for 18 damage
+Player A: Misdreavus used Draining Kiss and healed for 18
+Player B: Porygon used Ice Beam on Misdreavus for 26 damage
+Turn 34:
+Player A: Misdreavus used Draining Kiss on Porygon for 16 damage
+Player A: Misdreavus used Draining Kiss and healed for 15
+Player B: Porygon fainted

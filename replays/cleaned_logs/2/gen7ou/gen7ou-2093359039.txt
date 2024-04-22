@@ -1,0 +1,106 @@
+Battle start:
+Player A sent out Toxapex
+Player B sent out Hawlucha
+Turn 1:
+Player B: Hawlucha used Swords Dance on self
+Player A: Toxapex used Scald on Hawlucha for 28 damage
+Turn 2:
+Player B: Hawlucha used Sky Attack on Toxapex for 85 damage
+Player A: Toxapex used Haze on self
+Turn 3:
+Player A: Switched out Toxapex for Tapu Lele
+Player B: Hawlucha used Acrobatics on Tapu Lele for 81 damage
+Turn 4:
+Player B: Hawlucha used Acrobatics on Tapu Lele for 19 damage
+Player A: Tapu Lele fainted
+Player A: Switched out Tapu Lele for Magearna
+Turn 5:
+Player B: Hawlucha used Acrobatics on Magearna for 19 damage
+Player A: Magearna used Fleur Cannon on Hawlucha for 72 damage (supereffective)
+Player B: Hawlucha fainted
+Player B: Switched out Hawlucha for Charizard
+Turn 6:
+Player B: Charizard used Flamethrower on Magearna for 39 damage (supereffective)
+Player A: Magearna used Volt Switch on Charizard for 32 damage (supereffective)
+Player A: Switched out Magearna for Toxapex
+Turn 7:
+Player B: Charizard used Protect on self
+Player A: Toxapex used Recover and healed for 85
+Turn 8:
+Player B: Charizard used Protect on self
+Player A: Toxapex used Toxic Spikes on self
+Turn 9:
+Player B: Charizard used Dragon Dance on self
+Player A: Toxapex used Scald on Charizard for 43 damage (supereffective)
+Turn 10:
+Player B: Charizard used Solar Beam on Toxapex for 44 damage
+Player A: Toxapex used Scald on Charizard for 18 damage (supereffective)
+Turn 11:
+Player B: Charizard used Solar Beam on Toxapex for 39 damage
+Player A: Toxapex used Recover and healed for 50
+Turn 12:
+Player B: Charizard used Solar Beam on Toxapex for 38 damage
+Player A: Toxapex used Recover and healed for 50
+Turn 13:
+Player B: Charizard used Solar Beam on Toxapex for 37 damage
+Player A: Toxapex used Recover and healed for 50
+Turn 14:
+Player B: Charizard used Solar Beam on Toxapex for 32 damage
+Player A: Toxapex used Recover and healed for 40
+Turn 15:
+Player B: Charizard used Solar Beam on self
+Player A: Toxapex used Scald on Charizard for 7 damage (supereffective)
+Player B: Charizard fainted
+Player B: Switched out Charizard for Kommo-o
+Turn 16:
+Player B: Kommo-o used Clangorous Soulblaze on Toxapex for 52 damage
+Player A: Toxapex used Haze on self
+Turn 17:
+Player A: Switched out Toxapex for Gliscor
+Player B: Kommo-o used Earthquake but it had no effect on Gliscor
+Turn 18:
+Player B: Kommo-o used Clanging Scales on Gliscor for 37 damage
+Player A: Gliscor used Stealth Rock on self
+Turn 19:
+Player B: Kommo-o used Clanging Scales on Gliscor and crit for 46 damage
+Player A: Gliscor used Earthquake on Kommo-o for 98 damage
+Player B: Kommo-o fainted
+Player B: Switched out Kommo-o for Greninja
+Turn 20:
+Player A: Switched out Gliscor for Toxapex
+Player B: Greninja used Ice Beam on Toxapex for -28 damage
+Turn 21:
+Player A: Switched out Toxapex for Magearna
+Player B: Greninja used Extrasensory on Magearna for 5 damage
+Turn 22:
+Player B: Greninja used Surf on Magearna for 18 damage
+Player A: Magearna used Volt Switch on Greninja for 91 damage (supereffective)
+Player A: Switched out Magearna for Toxapex
+Turn 23:
+Player A: Switched out Toxapex for Tornadus-Therian
+Player B: Greninja used Extrasensory on Tornadus-Therian for 24 damage
+Player B: Greninja fainted
+Player B: Switched out Greninja for Lycanroc-Dusk
+Turn 24:
+Player B: Lycanroc-Dusk used Accelerock on Tornadus-Therian for 52 damage (supereffective)
+Player A: Tornadus-Therian used U-turn on Lycanroc-Dusk for 23 damage
+Player A: Switched out Tornadus-Therian for Gliscor
+Turn 25:
+Player B: Lycanroc-Dusk used Crunch on Gliscor for 1 damage
+Player A: Gliscor used Roost and healed for 50
+Turn 26:
+Player B: Lycanroc-Dusk used Crunch on Gliscor for 29 damage
+Player A: Gliscor used Earthquake on Lycanroc-Dusk for 49 damage (supereffective)
+Player B: Lycanroc-Dusk fainted
+Player B: Switched out Lycanroc-Dusk for Ferrothorn
+Turn 27:
+Player A: Gliscor used Earthquake on Ferrothorn for 29 damage
+Player B: Ferrothorn used Gyro Ball on Gliscor for 37 damage
+Player A: Gliscor fainted
+Player A: Switched out Gliscor for Hoopa-Unbound
+Turn 28:
+Player A: Hoopa-Unbound used Dark Pulse on Ferrothorn for 46 damage
+Player B: Ferrothorn can't move because flinch
+Turn 29:
+Player A: Hoopa-Unbound used Shattered Psyche on Ferrothorn for 25 damage
+Player B: Ferrothorn fainted

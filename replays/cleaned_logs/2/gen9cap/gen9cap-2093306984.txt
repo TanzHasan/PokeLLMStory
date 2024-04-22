@@ -1,0 +1,86 @@
+Battle start:
+Player A sent out Chromera
+Player B sent out Ogerpon-Wellspring
+Turn 1:
+Player B: Ogerpon-Wellspring used Knock Off on Chromera for 12 damage
+Player A: Chromera used Reflect on self
+Turn 2:
+Player B: Ogerpon-Wellspring used Swords Dance on self
+Player A: Chromera used Light Screen on self
+Turn 3:
+Player B: Ogerpon-Wellspring used Ivy Cudgel on Chromera for 41 damage
+Player A: Chromera used Boomburst on Ogerpon-Wellspring for 39 damage
+Turn 4:
+Player A: Switched out Chromera for Plasmanta
+Player B: Ogerpon-Wellspring used Power Whip on Plasmanta for 40 damage
+Turn 5:
+Player B: Switched out Ogerpon-Wellspring for Landorus-Therian
+Player A: Plasmanta used Sludge Wave on Landorus-Therian for 25 damage
+Turn 6:
+Player A: Switched out Plasmanta for Venomicon
+Player B: Landorus-Therian used Stealth Rock on self
+Turn 7:
+Player B: Landorus-Therian used Taunt on self
+Player A: Venomicon used Knock Off on Landorus-Therian for 37 damage
+Turn 8:
+Player B: Landorus-Therian used Smack Down on Venomicon for 25 damage (supereffective)
+Player A: Venomicon used Sludge Bomb on Landorus-Therian for 31 damage
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Pecharunt
+Turn 9:
+Player B: Pecharunt used Nasty Plot on self
+Player A: Venomicon used Knock Off on Pecharunt for 15 damage (supereffective)
+Turn 10:
+Player B: Pecharunt used Shadow Ball on Venomicon for 49 damage
+Player A: Venomicon used Roost and healed for 50
+Turn 11:
+Player B: Pecharunt used Nasty Plot on self
+Player A: Venomicon used Roost and healed for 40
+Turn 12:
+Player B: Pecharunt used Shadow Ball on Venomicon for 75 damage
+Player A: Venomicon used U-turn on Pecharunt for 2 damage
+Player A: Switched out Venomicon for Miasmaw
+Turn 13:
+Player A: Miasmaw used Earthquake on Pecharunt for 66 damage (supereffective)
+Player B: Pecharunt used Shadow Ball on Miasmaw for 100 damage
+Player A: Miasmaw fainted
+Player A: Switched out Miasmaw for Plasmanta
+Turn 14:
+Player A: Plasmanta used Psychic on Pecharunt for 17 damage (supereffective)
+Player B: Pecharunt fainted
+Player B: Switched out Pecharunt for Hemogoblin
+Turn 15:
+Player A: Switched out Plasmanta for Chromera
+Player B: Hemogoblin used Bulk Up on self
+Turn 16:
+Player B: Hemogoblin used Extreme Speed on Chromera for 47 damage (supereffective)
+Player A: Chromera fainted
+Player A: Switched out Chromera for Venomicon
+Turn 17:
+Player B: Hemogoblin used Bulk Up on self
+Player A: Venomicon used Roost and healed for 50
+Turn 18:
+Player B: Hemogoblin used Bulk Up on self
+Player A: Venomicon used Knock Off on Hemogoblin for 7 damage
+Turn 19:
+Player B: Hemogoblin used Bulk Up on self
+Player A: Venomicon used Sludge Bomb on Hemogoblin for 20 damage
+Turn 20:
+Player B: Hemogoblin used Bulk Up on self
+Player A: Venomicon used Sludge Bomb on Hemogoblin for 21 damage
+Turn 21:
+Player B: Hemogoblin used Bitter Blade on Venomicon for 75 damage
+Player B: Hemogoblin used Bitter Blade and healed for 44
+Player A: Venomicon fainted
+Player A: Switched out Venomicon for Plasmanta
+Turn 22:
+Player B: Hemogoblin used Extreme Speed on Plasmanta for 60 damage
+Player A: Plasmanta fainted
+Player A: Switched out Plasmanta for Tomohawk
+Turn 23:
+Player B: Hemogoblin used Extreme Speed on Tomohawk for 100 damage (supereffective)
+Player A: Tomohawk fainted
+Player A: Switched out Tomohawk for Hemogoblin
+Turn 24:
+Player B: Hemogoblin used Tera Blast on Hemogoblin for 100 damage
+Player A: Hemogoblin fainted

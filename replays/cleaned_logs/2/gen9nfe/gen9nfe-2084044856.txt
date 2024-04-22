@@ -1,0 +1,103 @@
+Battle start:
+Player A sent out Frogadier
+Player B sent out Wartortle
+Turn 1:
+Player A: Frogadier used U-turn on Wartortle for 12 damage
+Player A: Switched out Frogadier for Murkrow
+Player B: Wartortle used Shell Smash on self
+Turn 2:
+Player B: Switched out Wartortle for Sliggoo-Hisui
+Player A: Murkrow used Haze on self
+Turn 3:
+Player A: Murkrow used Tailwind on self
+Player B: Sliggoo-Hisui used Draco Meteor on Murkrow for 89 damage
+Turn 4:
+Player A: Switched out Murkrow for Piloswine
+Player B: Sliggoo-Hisui used Thunderbolt but it had no effect on Piloswine
+Turn 5:
+Player B: Switched out Sliggoo-Hisui for Arctibax
+Player A: Piloswine used Stealth Rock on self
+Turn 6:
+Player A: Piloswine used Earthquake on Arctibax for 43 damage
+Player B: Arctibax used Iron Head on Piloswine for 51 damage (supereffective)
+Turn 7:
+Player A: Switched out Piloswine for Seadra
+Player B: Arctibax used Swords Dance on self
+Turn 8:
+Player A: Seadra used Agility on self
+Player B: Arctibax used Avalanche on Seadra for 34 damage
+Turn 9:
+Player A: Seadra used Dragon Pulse on Arctibax for 57 damage (supereffective)
+Player B: Arctibax fainted
+Player B: Switched out Arctibax for Sliggoo-Hisui
+Turn 10:
+Player A: Seadra used Dragon Pulse on Sliggoo-Hisui for 25 damage
+Player B: Sliggoo-Hisui used Draco Meteor on Seadra for 66 damage
+Player A: Seadra fainted
+Player A: Switched out Seadra for Koffing
+Turn 11:
+Player B: Sliggoo-Hisui used Draco Meteor on Koffing for 42 damage
+Player A: Koffing used Toxic Spikes on self
+Turn 12:
+Player B: Switched out Sliggoo-Hisui for Misdreavus
+Player A: Koffing used Toxic Spikes on self
+Turn 13:
+Player A: Switched out Koffing for Murkrow
+Turn 14:
+Player A: Murkrow used Dark Pulse
+Player B: Misdreavus used Draining Kiss on Murkrow for 11 damage (supereffective)
+Player B: Misdreavus used Draining Kiss and healed for -4
+Player A: Murkrow fainted
+Player A: Switched out Murkrow for Piloswine
+Turn 15:
+Player A: Piloswine used Protect on self
+Player B: Misdreavus used Shadow Ball on self
+Turn 16:
+Player A: Piloswine used Ice Shard on Misdreavus for 47 damage
+Player B: Misdreavus fainted
+Player B: Switched out Misdreavus for Sliggoo-Hisui
+Turn 17:
+Player A: Piloswine used Ice Shard on Sliggoo-Hisui for 30 damage
+Player B: Sliggoo-Hisui used Draco Meteor on Piloswine for 21 damage
+Player A: Piloswine fainted
+Player A: Switched out Piloswine for Torracat
+Turn 18:
+Player A: Torracat used Flare Blitz on Sliggoo-Hisui for 45 damage
+Player B: Sliggoo-Hisui fainted
+Player B: Switched out Sliggoo-Hisui for Wartortle
+Turn 19:
+Player A: Torracat used Taunt on self
+Player B: Wartortle can't move because move: Taunt
+Turn 20:
+Player A: Torracat used U-turn on Wartortle for 38 damage
+Player A: Switched out Torracat for Koffing
+Player B: Wartortle used Surf on Koffing for 52 damage
+Turn 21:
+Player A: Koffing used Protect on self
+Player B: Wartortle used Aqua Jet on self
+Turn 22:
+Player B: Wartortle used Aqua Jet on Koffing for 5 damage
+Player A: Koffing used Gunk Shot on Wartortle for 50 damage
+Player B: Wartortle fainted
+Player B: Switched out Wartortle for Floragato
+Turn 23:
+Player A: Koffing used Protect on self
+Player B: Floragato used Play Rough on self
+Turn 24:
+Player B: Floragato used Play Rough on Koffing for 1 damage
+Player A: Koffing fainted
+Player A: Switched out Koffing for Frogadier
+Turn 25:
+Player A: Frogadier used U-turn on Floragato for 89 damage (supereffective)
+Player A: Switched out Frogadier for Torracat
+Player B: Floragato used Play Rough on Torracat for 49 damage
+Player B: Floragato fainted
+Player B: Switched out Floragato for Raboot
+Turn 26:
+Player B: Raboot used Sucker Punch on Torracat for 51 damage
+Player A: Torracat fainted
+Player A: Switched out Torracat for Frogadier
+Turn 27:
+Player B: Raboot used Sucker Punch on Frogadier for 79 damage
+Player A: Frogadier used U-turn on Raboot for 50 damage (supereffective)
+Player B: Raboot fainted

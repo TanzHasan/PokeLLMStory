@@ -1,0 +1,39 @@
+Battle start:
+Player A sent out Miasmaw
+Player B sent out Astrolotl
+Turn 1:
+Player A: Miasmaw used U-turn on Astrolotl for 24 damage
+Player A: Switched out Miasmaw for Quagsire
+Player B: Astrolotl used Dragon Tail on Quagsire for 19 damage
+Turn 2:
+Player B: Astrolotl used Spikes on self
+Player A: Quagsire used Dragon Tail on Astrolotl for 76 damage (supereffective)
+Player B: Astrolotl fainted
+Player B: Switched out Astrolotl for Plasmanta
+Turn 3:
+Player B: Plasmanta used Charge Beam on Quagsire for 12 damage
+Player A: Quagsire used U-turn on Plasmanta for 19 damage
+Player A: Switched out Quagsire for Aurumoth
+Turn 4:
+Player A: Aurumoth used Dragon Dance on self
+Player B: Plasmanta used Charge Beam on Aurumoth for 50 damage
+Turn 5:
+Player A: Aurumoth used Zen Headbutt on Plasmanta for 81 damage (supereffective)
+Player B: Plasmanta fainted
+Player B: Switched out Plasmanta for Stratagem
+Turn 6:
+Player A: Aurumoth used Close Combat on Stratagem for 100 damage (supereffective)
+Player B: Stratagem fainted
+Player B: Switched out Stratagem for Naviathan
+Turn 7:
+Player A: Aurumoth used Close Combat on Naviathan for 100 damage (supereffective)
+Player B: Naviathan fainted
+Player B: Switched out Naviathan for Pajantom
+Turn 8:
+Player A: Aurumoth used Zen Headbutt on Pajantom for 100 damage
+Player B: Pajantom fainted
+Player B: Switched out Pajantom for Saharaja
+Turn 9:
+Player A: Aurumoth used Megahorn on Saharaja for 100 damage
+Player B: Saharaja fainted
+Player A: Aurumoth fainted

@@ -1,0 +1,114 @@
+Battle start:
+Player A sent out Landorus-Therian
+Player B sent out Latios
+Turn 1:
+Player A: Switched out Landorus-Therian for Corviknight
+Player B: Latios used Dynamax Cannon on Corviknight for 18 damage
+Turn 2:
+Player B: Switched out Latios for Raging Bolt
+Player A: Corviknight used Behemoth Bash on Raging Bolt for 11 damage
+Turn 3:
+Player A: Switched out Corviknight for Landorus-Therian
+Player B: Raging Bolt used Calm Mind on self
+Turn 4:
+Player A: Landorus-Therian used Precipice Blades on Raging Bolt for 89 damage (supereffective)
+Player B: Raging Bolt fainted
+Player B: Switched out Raging Bolt for Kyurem
+Turn 5:
+Player A: Switched out Landorus-Therian for Corviknight
+Player B: Kyurem used Dragon Dance on self
+Turn 6:
+Player B: Kyurem used Dragon Dance on self
+Player A: Corviknight used Behemoth Bash on Kyurem for 60 damage (supereffective)
+Turn 7:
+Player B: Kyurem used Glacial Lance on Corviknight for 82 damage
+Player A: Corviknight fainted
+Player A: Switched out Corviknight for Moltres
+Turn 8:
+Player B: Kyurem used Glacial Lance on Moltres for 84 damage
+Player A: Moltres used Roar on self
+Turn 9:
+Player A: Moltres used Roost and healed for 50
+Player B: Kyurem used Stealth Rock on self
+Turn 10:
+Player B: Switched out Kyurem for Gouging Fire
+Player A: Moltres used Defog on self
+Turn 11:
+Player B: Gouging Fire used Dragon Dance on self
+Player A: Moltres used Roar on self
+Turn 12:
+Player B: Switched out Gouging Fire for Dragalge
+Player A: Moltres used Roost and healed for 34
+Turn 13:
+Player A: Switched out Moltres for Thundurus-Therian
+Player B: Dragalge used Mortal Spin on Thundurus-Therian for 15 damage
+Turn 14:
+Player B: Switched out Dragalge for Archaludon
+Player A: Thundurus-Therian used Psychic on Archaludon for 23 damage
+Turn 15:
+Player A: Thundurus-Therian used Focus Blast on Archaludon for 77 damage (supereffective)
+Player B: Archaludon fainted
+Player B: Switched out Archaludon for Latios
+Turn 16:
+Player B: Latios used Dynamax Cannon on Thundurus-Therian for 85 damage
+Player A: Thundurus-Therian fainted
+Player A: Switched out Thundurus-Therian for Landorus-Therian
+Turn 17:
+Player B: Latios used Dynamax Cannon on Landorus-Therian for 61 damage
+Player A: Landorus-Therian used Dragon Ascent on Latios for 100 damage
+Player B: Latios fainted
+Player B: Switched out Latios for Kyurem
+Turn 18:
+Player A: Switched out Landorus-Therian for Moltres
+Player B: Kyurem used Dragon Dance on self
+Turn 19:
+Player B: Kyurem used Glacial Lance on Moltres for 61 damage
+Player A: Moltres used Roar on self
+Turn 20:
+Player A: Moltres used Roost and healed for 51
+Player B: Kyurem used Mortal Spin on Moltres for 8 damage
+Turn 21:
+Player A: Switched out Moltres for Yanmega
+Player B: Kyurem used Malignant Chain on Yanmega for 79 damage
+Turn 22:
+Player A: Yanmega used Hurricane on Kyurem for 6 damage
+Turn 23:
+Player A: Yanmega used Hurricane on Kyurem for 40 damage
+Player B: Kyurem fainted
+Player B: Switched out Kyurem for Kyurem
+Turn 24:
+Player B: Kyurem used Ice Shard on Yanmega for 11 damage (supereffective)
+Player A: Yanmega fainted
+Player A: Switched out Yanmega for Zapdos-Galar
+Turn 25:
+Player A: Zapdos-Galar used Combat Torque on Kyurem and crit for 40 damage (supereffective)
+Player B: Kyurem fainted
+Player B: Switched out Kyurem for Gouging Fire
+Turn 26:
+Player A: Zapdos-Galar used Combat Torque on Gouging Fire for 51 damage
+Player B: Gouging Fire used Dragon Dance on self
+Turn 27:
+Player B: Gouging Fire used Bitter Blade on Zapdos-Galar for 58 damage
+Player B: Gouging Fire used Bitter Blade and healed for 23
+Player A: Zapdos-Galar used Combat Torque on Gouging Fire for 50 damage
+Turn 28:
+Player B: Gouging Fire used Bitter Blade on Zapdos-Galar for 42 damage
+Player B: Gouging Fire used Bitter Blade and healed for 16
+Player A: Zapdos-Galar fainted
+Player A: Switched out Zapdos-Galar for Moltres
+Turn 29:
+Player B: Gouging Fire used Dragon Darts on Moltres for 19 damage
+Player A: Moltres used Torch Song on Gouging Fire for 6 damage
+Turn 30:
+Player B: Gouging Fire used Dragon Dance on self
+Player A: Moltres used Roost and healed for 37
+Turn 31:
+Player B: Gouging Fire used Dragon Dance on self
+Player A: Moltres used Torch Song on Gouging Fire for 8 damage
+Turn 32:
+Player B: Gouging Fire used Dragon Darts on Moltres for 8 damage
+Player A: Moltres fainted
+Player A: Switched out Moltres for Landorus-Therian
+Turn 33:
+Player B: Gouging Fire used Dragon Darts on Landorus-Therian for 39 damage
+Player A: Landorus-Therian fainted

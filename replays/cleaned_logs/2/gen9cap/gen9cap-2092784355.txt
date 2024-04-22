@@ -1,0 +1,50 @@
+Battle start:
+Player A sent out Grimmsnarl
+Player B sent out Snaelstrom
+Turn 1:
+Player A: Grimmsnarl used Taunt on self
+Player B: Snaelstrom can't move because move: Taunt
+Turn 2:
+Player A: Grimmsnarl used Light Screen on self
+Player B: Snaelstrom used Liquidation on Grimmsnarl for 25 damage
+Turn 3:
+Player B: Switched out Snaelstrom for Cresceidon
+Player A: Grimmsnarl used Reflect on self
+Turn 4:
+Player A: Grimmsnarl used Taunt on self
+Player B: Cresceidon used Moonblast on Grimmsnarl for 32 damage (supereffective)
+Turn 5:
+Player A: Switched out Grimmsnarl for Cawmodore
+Player B: Cresceidon used Moonblast on Cawmodore for 12 damage
+Turn 6:
+Player B: Cresceidon used Scald on Cawmodore for 21 damage
+Player A: Cawmodore used Belly Drum and healed for 25
+Turn 7:
+Player A: Cawmodore used Bullet Punch on Cresceidon for 26 damage
+Player B: Cresceidon used Thunder Wave and healed for 25
+Turn 8:
+Player B: Switched out Cresceidon for Kitsunoh
+Player A: Cawmodore used Acrobatics on Kitsunoh for 100 damage
+Player B: Cresceidon fainted
+Player B: Switched out Cresceidon for Snaelstrom
+Turn 9:
+Player A: Cawmodore used Acrobatics on Snaelstrom for 100 damage (supereffective)
+Player B: Snaelstrom fainted
+Player B: Switched out Snaelstrom for Cresceidon
+Turn 10:
+Player B: Cresceidon used Scald on Cawmodore for 49 damage
+Player A: Cawmodore used Acrobatics on Cresceidon for 74 damage
+Player B: Cresceidon fainted
+Player B: Switched out Cresceidon for Astrolotl
+Turn 11:
+Player A: Cawmodore used Drain Punch on Astrolotl for 100 damage
+Player A: Cawmodore used Drain Punch and healed for 76
+Player B: Astrolotl fainted
+Player B: Switched out Astrolotl for Venomicon
+Turn 12:
+Player A: Cawmodore used Acrobatics on Venomicon for 100 damage
+Player B: Venomicon fainted
+Player B: Switched out Venomicon for Caribolt
+Turn 13:
+Player A: Cawmodore used Acrobatics on Caribolt for 100 damage
+Player B: Caribolt fainted

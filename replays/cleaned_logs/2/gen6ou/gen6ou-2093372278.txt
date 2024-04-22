@@ -1,0 +1,97 @@
+Battle start:
+Player A sent out Manectric
+Player B sent out Landorus-Therian
+Turn 1:
+Player A: Switched out Manectric for Landorus-Therian
+Player B: Landorus-Therian used Earthquake but it had no effect on Landorus-Therian
+Turn 2:
+Player B: Switched out Landorus-Therian for Serperior
+Player A: Landorus-Therian used U-turn on Serperior for 42 damage (supereffective)
+Player A: Switched out Landorus-Therian for Jirachi
+Turn 3:
+Player B: Switched out Serperior for Landorus-Therian
+Player A: Jirachi used U-turn on Landorus-Therian for 6 damage
+Player A: Switched out Jirachi for Landorus-Therian
+Turn 4:
+Player B: Landorus-Therian used Stealth Rock on self
+Player A: Landorus-Therian used Stealth Rock on self
+Turn 5:
+Player B: Switched out Landorus-Therian for Manaphy
+Player A: Landorus-Therian used U-turn on Manaphy for 34 damage
+Player A: Switched out Landorus-Therian for Manectric
+Turn 6:
+Player B: Switched out Manaphy for Landorus-Therian
+Player A: Manectric used Volt Switch but it had no effect on Landorus-Therian
+Turn 7:
+Player A: Switched out Manectric for Landorus-Therian
+Player B: Landorus-Therian used U-turn on Landorus-Therian for 16 damage
+Player B: Switched out Landorus-Therian for Serperior
+Turn 8:
+Player B: Serperior used Reflect on self
+Player A: Landorus-Therian used U-turn on Serperior for 35 damage (supereffective)
+Player A: Switched out Landorus-Therian for Jirachi
+Turn 9:
+Player A: Jirachi used U-turn on Serperior for 23 damage (supereffective)
+Player B: Serperior fainted
+Player A: Switched out Jirachi for Keldeo
+Player B: Switched out Serperior for Landorus-Therian
+Turn 10:
+Player A: Switched out Keldeo for Landorus-Therian
+Player B: Landorus-Therian used Explosion on Landorus-Therian for 56 damage
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Gallade
+Turn 11:
+Player B: Gallade used Swords Dance on self
+Player A: Landorus-Therian used Earthquake on Gallade for 31 damage
+Turn 12:
+Player B: Gallade used Psycho Cut on Landorus-Therian for 28 damage
+Player A: Landorus-Therian fainted
+Player A: Switched out Landorus-Therian for Keldeo
+Turn 13:
+Player B: Gallade used Psycho Cut on Keldeo for 100 damage (supereffective)
+Player A: Keldeo fainted
+Player A: Switched out Keldeo for Manectric-Mega
+Turn 14:
+Player A: Manectric used Volt Switch on Gallade for 37 damage
+Player A: Switched out Manectric for Latios
+Player B: Gallade used Drain Punch on Latios for 59 damage
+Player B: Gallade used Drain Punch and healed for 23
+Turn 15:
+Player B: Gallade used Drain Punch on Latios for 41 damage
+Player B: Gallade used Drain Punch and healed for 19
+Player A: Latios fainted
+Player A: Switched out Latios for Jirachi
+Turn 16:
+Player A: Jirachi used Iron Head on Gallade for 42 damage
+Player B: Gallade used Drain Punch on Jirachi for 75 damage
+Player B: Gallade used Drain Punch and healed for 34
+Turn 17:
+Player A: Jirachi used Iron Head on Gallade for 37 damage
+Player B: Gallade used Drain Punch on Jirachi for 25 damage
+Player B: Gallade used Drain Punch and healed for 14
+Player A: Jirachi fainted
+Player A: Switched out Jirachi for Manectric-Mega
+Turn 18:
+Player A: Manectric used Thunderbolt on Gallade for 43 damage
+Player B: Gallade fainted
+Player B: Switched out Gallade for Bisharp
+Turn 19:
+Player A: Switched out Manectric for Breloom
+Turn 20:
+Player B: Switched out Bisharp for Manaphy
+Player A: Breloom used Spore
+Turn 21:
+Player B: Switched out Manaphy for Volcarona
+Player A: Switched out Breloom for Manectric-Mega
+Turn 22:
+Player A: Manectric used Thunderbolt on Volcarona for 76 damage
+Player B: Volcarona used Quiver Dance on self
+Turn 23:
+Player B: Volcarona used Giga Drain on Manectric for 100 damage
+Player B: Volcarona used Giga Drain and healed for 22
+Player A: Manectric fainted
+Player A: Switched out Manectric for Breloom
+Turn 24:
+Player A: Breloom used Mach Punch on Volcarona for 31 damage
+Player B: Volcarona used Flamethrower on Breloom for 78 damage (supereffective)
+Player A: Breloom fainted

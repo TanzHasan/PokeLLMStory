@@ -1,0 +1,30 @@
+Battle start:
+Player A sent out Lanturn
+Player B sent out Regirock
+Turn 1:
+Player B: Switched out Regirock for Alcremie-Salted-Cream
+Player A: Lanturn used Agility on self
+Turn 2:
+Player A: Lanturn used Thunderbolt on Alcremie-Salted-Cream for 34 damage
+Player B: Alcremie-Salted-Cream used Calm Mind on self
+Turn 3:
+Player A: Lanturn used Scald on Alcremie-Salted-Cream for 12 damage
+Player B: Alcremie-Salted-Cream used Calm Mind on self
+Turn 4:
+Player A: Lanturn used Tera Blast on Alcremie-Salted-Cream for 24 damage (supereffective)
+Player B: Alcremie-Salted-Cream used Calm Mind on self
+Turn 5:
+Player A: Lanturn used Tera Blast on Alcremie-Salted-Cream for 18 damage (supereffective)
+Player B: Alcremie-Salted-Cream used Draining Kiss on Lanturn for 33 damage
+Player B: Alcremie-Salted-Cream used Draining Kiss and healed for 30
+Turn 6:
+Player A: Lanturn used Tera Blast on Alcremie-Salted-Cream for 16 damage (supereffective)
+Player B: Alcremie-Salted-Cream used Draining Kiss on Lanturn for 35 damage
+Player B: Alcremie-Salted-Cream used Draining Kiss and healed for 31
+Turn 7:
+Player A: Lanturn used Scald on Alcremie-Salted-Cream for 6 damage
+Player B: Alcremie-Salted-Cream used Calm Mind on self
+Turn 8:
+Player A: Lanturn used Thunderbolt on Alcremie-Salted-Cream for 5 damage
+Player B: Alcremie-Salted-Cream used Stored Power on Lanturn for 32 damage (supereffective)
+Player A: Lanturn fainted

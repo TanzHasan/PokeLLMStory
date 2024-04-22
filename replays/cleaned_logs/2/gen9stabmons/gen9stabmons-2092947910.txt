@@ -1,0 +1,67 @@
+Battle start:
+Player A sent out Hatterene
+Player B sent out Yanmega
+Turn 1:
+Player B: Yanmega used Tail Glow on self
+Player A: Hatterene used Cosmic Power on self
+Turn 2:
+Player B: Yanmega used Bug Buzz on Hatterene for 100 damage
+Player A: Hatterene fainted
+Player A: Switched out Hatterene for Mimikyu
+Turn 3:
+Player B: Yanmega used Bug Buzz on Mimikyu for 0 damage
+Player A: Mimikyu used Magical Torque on Yanmega for 69 damage
+Turn 4:
+Player A: Mimikyu used Shadow Sneak on Yanmega for 22 damage
+Player B: Yanmega used Bug Buzz on Mimikyu for 56 damage
+Player B: Yanmega fainted
+Player B: Switched out Yanmega for Thundurus-Therian
+Turn 5:
+Player B: Thundurus-Therian used Electro Drift on Mimikyu for 44 damage
+Player A: Mimikyu fainted
+Player A: Switched out Mimikyu for Tinkaton
+Turn 6:
+Player B: Switched out Thundurus-Therian for Landorus-Therian
+Player A: Tinkaton used Magical Torque on Landorus-Therian for 26 damage
+Turn 7:
+Player A: Switched out Tinkaton for Enamorus-Therian
+Player B: Landorus-Therian used Dragon Ascent on Enamorus-Therian for 57 damage
+Turn 8:
+Player B: Switched out Landorus-Therian for Thundurus-Therian
+Player A: Enamorus-Therian used Draining Kiss on Thundurus-Therian for 29 damage
+Player A: Enamorus-Therian used Draining Kiss and healed for 25
+Turn 9:
+Player A: Switched out Enamorus-Therian for Tinkaton
+Player B: Thundurus-Therian used Electro Drift on Tinkaton for 57 damage
+Turn 10:
+Player A: Tinkaton used Bullet Punch on Thundurus-Therian for 10 damage
+Player B: Thundurus-Therian used Electro Drift on Tinkaton for 43 damage
+Player A: Tinkaton fainted
+Player A: Switched out Tinkaton for Fezandipiti
+Turn 11:
+Player B: Thundurus-Therian used Psychic on Fezandipiti for 76 damage (supereffective)
+Player A: Fezandipiti used Calm Mind on self
+Turn 12:
+Player B: Thundurus-Therian used Psychic on Fezandipiti for 24 damage (supereffective)
+Player A: Fezandipiti fainted
+Player A: Switched out Fezandipiti for Iron Valiant
+Turn 13:
+Player B: Switched out Thundurus-Therian for Corviknight
+Player A: Iron Valiant used Ice Punch on Corviknight for 30 damage
+Turn 14:
+Player A: Iron Valiant used Combat Torque on Corviknight for 49 damage
+Player B: Corviknight used Iron Defense on self
+Turn 15:
+Player A: Iron Valiant used Combat Torque on Corviknight for 21 damage
+Player B: Corviknight fainted
+Player B: Switched out Corviknight for Landorus-Therian
+Turn 16:
+Player B: Landorus-Therian used Dragon Ascent on Iron Valiant for 81 damage (supereffective)
+Player A: Iron Valiant fainted
+Player A: Switched out Iron Valiant for Enamorus-Therian
+Turn 17:
+Player B: Landorus-Therian used Dragon Ascent on Enamorus-Therian for 54 damage
+Player A: Enamorus-Therian used Iron Defense on self
+Turn 18:
+Player B: Landorus-Therian used Dragon Ascent on Enamorus-Therian for 14 damage
+Player A: Enamorus-Therian fainted

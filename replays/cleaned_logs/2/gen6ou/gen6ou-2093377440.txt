@@ -1,0 +1,12 @@
+Battle start:
+Player A sent out Shuckle
+Player B sent out Medicham
+Turn 1:
+Player B: Medicham used Fake Out on Shuckle for 6 damage
+Player A: Shuckle can't move because flinch
+Turn 2:
+Player B: Medicham used Zen Headbutt on Shuckle for 41 damage
+Player A: Shuckle can't move because flinch
+Turn 3:
+Player B: Medicham used High Jump Kick on Shuckle for 53 damage
+Player A: Shuckle fainted

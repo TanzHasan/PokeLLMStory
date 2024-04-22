@@ -1,0 +1,64 @@
+Battle start:
+Player A sent out Mienfoo
+Player B sent out Toedscool
+Turn 1:
+Player B: Toedscool used Knock Off on Mienfoo for 14 damage
+Player A: Mienfoo used Knock Off on Toedscool and crit for 100 damage (supereffective)
+Player B: Toedscool fainted
+Player B: Switched out Toedscool for Quaxly
+Turn 2:
+Player A: Mienfoo used U-turn on Quaxly for 13 damage
+Player A: Switched out Mienfoo for Qwilfish-Hisui
+Player B: Quaxly used Rapid Spin on Qwilfish-Hisui for 17 damage
+Turn 3:
+Player B: Switched out Quaxly for Pawniard
+Player A: Qwilfish-Hisui used Gunk Shot but it had no effect on Pawniard
+Turn 4:
+Player A: Qwilfish-Hisui used Spikes on self
+Player B: Pawniard used Iron Head on Qwilfish-Hisui for 43 damage
+Turn 5:
+Player A: Switched out Qwilfish-Hisui for Voltorb-Hisui
+Player B: Pawniard used Iron Head on Voltorb-Hisui for 42 damage
+Turn 6:
+Player B: Pawniard used Sucker Punch on Voltorb-Hisui for 58 damage
+Player A: Voltorb-Hisui fainted
+Player A: Switched out Voltorb-Hisui for Mienfoo
+Turn 7:
+Player B: Pawniard used Sucker Punch on Mienfoo and crit for 43 damage
+Player A: Mienfoo used Close Combat on Pawniard for 100 damage (supereffective)
+Player B: Pawniard fainted
+Player B: Switched out Pawniard for Toedscool
+Turn 8:
+Player B: Toedscool used Tera Blast on Mienfoo for 43 damage (supereffective)
+Player A: Mienfoo fainted
+Player A: Switched out Mienfoo for Sandshrew-Alola
+Turn 9:
+Player B: Switched out Toedscool for Quaxly
+Player A: Sandshrew-Alola used Triple Axel on Quaxly for 31 damage
+Turn 10:
+Player A: Sandshrew-Alola used Ice Shard on Quaxly for 10 damage
+Player B: Quaxly fainted
+Player B: Switched out Quaxly for Magnemite
+Turn 11:
+Player A: Sandshrew-Alola used Knock Off on Magnemite for 47 damage
+Player B: Magnemite used Volt Switch on Sandshrew-Alola for 81 damage
+Player B: Switched out Magnemite for Chinchou
+Turn 12:
+Player A: Switched out Sandshrew-Alola for Magby
+Player B: Chinchou used Scald on Magby for 100 damage (supereffective)
+Player A: Sandshrew-Alola fainted
+Player A: Switched out Sandshrew-Alola for Qwilfish-Hisui
+Turn 13:
+Player B: Switched out Chinchou for Toedscool
+Player A: Qwilfish-Hisui used Gunk Shot on Toedscool for -30 damage
+Turn 14:
+Player A: Qwilfish-Hisui used Crunch on Toedscool for 30 damage
+Player B: Toedscool fainted
+Player B: Switched out Toedscool for Magnemite
+Turn 15:
+Player A: Qwilfish-Hisui used Crunch on Magnemite for 53 damage
+Player B: Magnemite fainted
+Player B: Switched out Magnemite for Chinchou
+Turn 16:
+Player A: Qwilfish-Hisui used Gunk Shot on Chinchou for 100 damage
+Player B: Chinchou fainted

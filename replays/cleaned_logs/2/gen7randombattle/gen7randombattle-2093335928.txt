@@ -1,0 +1,17 @@
+Battle start:
+Player A sent out Volcarona
+Player B sent out Slurpuff
+Turn 1:
+Player A: Volcarona used Inferno Overdrive and healed for 64
+Turn 2:
+Player B: Slurpuff used Return on Volcarona for 74 damage
+Player A: Volcarona used Quiver Dance on self
+Turn 3:
+Player B: Switched out Slurpuff for Mismagius
+Player A: Volcarona used Quiver Dance on self
+Turn 4:
+Player A: Volcarona used Fire Blast on Mismagius for 231 damage
+Turn 5:
+Player B: Switched out Mismagius for Purugly
+Player A: Volcarona used Bug Buzz on Purugly for 241 damage
+Turn 6:

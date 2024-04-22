@@ -1,0 +1,42 @@
+Battle start:
+Player A sent out Tornadus-Therian
+Player B sent out Charizard
+Turn 1:
+Player A: Tornadus-Therian used Weather Ball on Charizard for 67 damage
+Player B: Charizard used Dragon Claw on Tornadus-Therian for 75 damage
+Turn 2:
+Player A: Tornadus-Therian used U-turn on Charizard for 10 damage
+Player A: Switched out Tornadus-Therian for Lucario
+Player B: Charizard used Dragon Claw on Lucario for 45 damage
+Turn 3:
+Player A: Lucario used Extreme Speed on Charizard for 23 damage
+Player B: Charizard fainted
+Player B: Switched out Charizard for Banette
+Turn 4:
+Player A: Lucario used Swords Dance on self
+Player B: Banette used Gunk Shot but it had no effect on Lucario
+Turn 5:
+Player A: Lucario used Meteor Mash on Banette for 100 damage
+Player B: Banette fainted
+Player B: Switched out Banette for Meowscarada
+Turn 6:
+Player A: Lucario used Extreme Speed on Meowscarada for 100 damage (supereffective)
+Player B: Meowscarada fainted
+Player B: Switched out Meowscarada for Kyurem-Black
+Turn 7:
+Player A: Lucario used Extreme Speed on Kyurem-Black for 100 damage (supereffective)
+Player B: Kyurem-Black fainted
+Player B: Switched out Kyurem-Black for Latios
+Turn 8:
+Player A: Lucario used Extreme Speed on Latios for 100 damage (supereffective)
+Player B: Latios fainted
+Player B: Switched out Latios for Blastoise
+Turn 9:
+Player A: Lucario used Drain Punch on Blastoise for 74 damage
+Player A: Lucario used Drain Punch and healed for 45
+Player B: Blastoise used Aura Sphere on Lucario for 100 damage (supereffective)
+Player A: Lucario fainted
+Player A: Switched out Lucario for Tornadus-Therian
+Turn 10:
+Player A: Tornadus-Therian used Hurricane on Blastoise for 26 damage
+Player B: Blastoise fainted

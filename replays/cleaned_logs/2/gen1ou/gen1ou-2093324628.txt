@@ -1,0 +1,66 @@
+Battle start:
+Player A sent out Persian
+Player B sent out Gengar
+Turn 1:
+Player B: Gengar used Hypnosis
+Turn 2:
+Player A: Persian can't move because it is asleep
+Player B: Gengar used Psychic on self
+Turn 3:
+Player A: Persian can't move because it is asleep
+Player B: Gengar used Psychic on Persian and crit for 62 damage
+Turn 4:
+Player A: Persian can't move because it is asleep
+Player B: Gengar used Psychic on Persian and crit for 14 damage
+Player A: Persian fainted
+Player A: Switched out Persian for Tauros
+Turn 5:
+Player B: Gengar used Explosion on Tauros for 57 damage
+Player B: Gengar fainted
+Player B: Switched out Gengar for Starmie
+Turn 6:
+Player B: Starmie used Blizzard on Tauros for 33 damage
+Player A: Tauros used Hyper Beam on Starmie and crit for 100 damage
+Player B: Starmie fainted
+Player B: Switched out Starmie for Tauros
+Turn 7:
+Player A: Tauros used Hyper Beam on Tauros for 52 damage
+Player B: Tauros used Body Slam on Tauros for 10 damage
+Player A: Tauros fainted
+Player A: Switched out Tauros for Ditto
+Turn 8:
+Player A: Ditto used Transform on self
+Turn 9:
+Player B: Switched out Tauros for Snorlax
+Player A: Ditto used Hyper Beam on Snorlax for 41 damage
+Turn 10:
+Player A: Ditto can't move because recharge
+Player B: Snorlax used Body Slam on Ditto for 37 damage
+Turn 11:
+Player A: Ditto used Body Slam on Snorlax for 24 damage
+Player B: Snorlax used Reflect on self
+Turn 12:
+Player A: Ditto used Fire Blast on Snorlax for 19 damage
+Player B: Snorlax used Body Slam on Ditto for 39 damage
+Turn 13:
+Player B: Switched out Snorlax for Tauros
+Player A: Ditto used Hyper Beam on Tauros for 48 damage
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Raticate
+Turn 14:
+Player A: Ditto used Hyper Beam on Raticate for 81 damage
+Turn 15:
+Player A: Ditto can't move because recharge
+Player B: Raticate used Hyper Beam on Ditto for 24 damage
+Player A: Ditto fainted
+Player A: Switched out Ditto for Dodrio
+Turn 16:
+Player A: Dodrio used Drill Peck on Raticate for 19 damage
+Player B: Raticate fainted
+Player B: Switched out Raticate for Chansey
+Turn 17:
+Player A: Dodrio used Body Slam on Chansey for 40 damage
+Player B: Chansey used Thunderbolt on Dodrio for 70 damage (supereffective)
+Turn 18:
+Player A: Dodrio used Hyper Beam on Chansey for 60 damage
+Player B: Chansey fainted

@@ -1,0 +1,54 @@
+Battle start:
+Player A sent out Gastly
+Player B sent out Vullaby
+Turn 1:
+Player A: Gastly used Dazzling Gleam on Vullaby for 60 damage (supereffective)
+Player B: Vullaby used Knock Off on Gastly for 100 damage (supereffective)
+Player A: Gastly fainted
+Player A: Switched out Gastly for Timburr
+Turn 2:
+Player B: Vullaby used U-turn on Timburr for 8 damage
+Player B: Switched out Vullaby for Gligar
+Player A: Timburr used Ice Punch on Gligar for 69 damage (supereffective)
+Turn 3:
+Player B: Gligar used Dual Wingbeat on Timburr and crit for 34 damage (supereffective)
+Player A: Timburr fainted
+Player A: Switched out Timburr for Elekid
+Turn 4:
+Player A: Elekid used Volt Switch but it had no effect on Gligar
+Player B: Gligar used U-turn on Elekid for 47 damage
+Player B: Switched out Gligar for Mienfoo
+Turn 5:
+Player A: Elekid used Psychic on Mienfoo for 85 damage (supereffective)
+Player B: Mienfoo used Knock Off on Elekid for 43 damage
+Player A: Elekid fainted
+Player A: Switched out Elekid for Vullaby
+Turn 6:
+Player B: Mienfoo used U-turn on Vullaby for 21 damage
+Player B: Switched out Mienfoo for Gligar
+Player A: Vullaby used U-turn on Gligar for 4 damage
+Player A: Switched out Vullaby for Glimmet
+Turn 7:
+Player A: Glimmet used Power Gem on Gligar for 27 damage
+Player B: Gligar fainted
+Player B: Switched out Gligar for Arrokuda
+Turn 8:
+Player B: Arrokuda used Liquidation on Glimmet for 100 damage (supereffective)
+Player A: Glimmet fainted
+Player A: Switched out Glimmet for Vullaby
+Turn 9:
+Player B: Arrokuda used Flip Turn on Vullaby for 31 damage
+Player B: Switched out Arrokuda for Sandshrew-Alola
+Player A: Vullaby used Brave Bird on Sandshrew-Alola for 27 damage
+Turn 10:
+Player B: Sandshrew-Alola used Ice Shard on Vullaby for 40 damage (supereffective)
+Player A: Vullaby fainted
+Player A: Switched out Vullaby for Growlithe-Hisui
+Turn 11:
+Player B: Switched out Sandshrew-Alola for Vullaby
+Player A: Growlithe-Hisui used Head Smash on Vullaby for 40 damage (supereffective)
+Player B: Sandshrew-Alola fainted
+Player B: Switched out Sandshrew-Alola for Arrokuda
+Turn 12:
+Player B: Arrokuda used Aqua Jet on Growlithe-Hisui for 100 damage (supereffective)
+Player A: Growlithe-Hisui fainted

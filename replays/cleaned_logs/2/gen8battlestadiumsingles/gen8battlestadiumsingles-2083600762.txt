@@ -1,0 +1,66 @@
+Battle start:
+Player A sent out Ferrothorn
+Player B sent out Umbreon
+Turn 1:
+Player B: Umbreon used Taunt on self
+Player A: Ferrothorn can't move because move: Taunt
+Turn 2:
+Player B: Switched out Umbreon for Zapdos
+Player A: Ferrothorn used Body Press on Zapdos for 10 damage
+Turn 3:
+Player A: Switched out Ferrothorn for Rotom-Heat
+Player B: Zapdos used Volt Switch on Rotom-Heat for 12 damage
+Player B: Switched out Zapdos for Umbreon
+Turn 4:
+Player A: Rotom-Heat used Discharge on Umbreon for 21 damage
+Player B: Umbreon used Wish on self
+Turn 5:
+Player A: Rotom-Heat used Discharge on Umbreon for 14 damage
+Player B: Umbreon can't move because it is paralyzed
+Turn 6:
+Player A: Rotom-Heat used Volt Switch on Umbreon for -17 damage
+Player A: Switched out Rotom-Heat for Ferrothorn
+Player B: Umbreon used Wish on self
+Turn 7:
+Player B: Switched out Umbreon for Zapdos
+Player A: Ferrothorn can't move because it is paralyzed
+Turn 8:
+Player B: Zapdos used Heat Wave on Ferrothorn for 81 damage (supereffective)
+Player A: Ferrothorn used Leech Seed on self
+Turn 9:
+Player B: Zapdos used Volt Switch on Ferrothorn for -6 damage
+Player B: Switched out Zapdos for Umbreon
+Player A: Ferrothorn used Leech Seed on self
+Turn 10:
+Player B: Switched out Umbreon for Zapdos
+Player A: Ferrothorn used Body Press on Zapdos for 13 damage
+Turn 11:
+Player A: Switched out Ferrothorn for Rotom-Heat
+Player B: Zapdos used Hurricane on Rotom-Heat for 22 damage
+Turn 12:
+Player A: Rotom-Heat used Volt Switch on Zapdos for 29 damage
+Player A: Switched out Rotom-Heat for Ferrothorn
+Player B: Zapdos used Volt Switch on Ferrothorn for 8 damage
+Player B: Switched out Zapdos for Umbreon
+Turn 13:
+Player B: Umbreon used Taunt on self
+Player A: Ferrothorn can't move because it is paralyzed
+Turn 14:
+Player A: Switched out Ferrothorn for Rotom-Heat
+Player B: Umbreon used Wish on self
+Turn 15:
+Player A: Rotom-Heat used Volt Switch on Umbreon for -1 damage
+Player A: Switched out Rotom-Heat for Ferrothorn
+Player B: Umbreon used Foul Play on Ferrothorn for 5 damage
+Player A: Rotom-Heat fainted
+Player A: Switched out Rotom-Heat for Inteleon
+Turn 16:
+Player B: Switched out Umbreon for Porygon2
+Player A: Inteleon used Focus Energy on self
+Turn 17:
+Player A: Inteleon used G-Max Hydrosnipe on Porygon2 and crit for 100 damage
+Player B: Porygon2 fainted
+Player B: Switched out Porygon2 for Umbreon
+Turn 18:
+Player A: Inteleon used G-Max Hydrosnipe on Umbreon and crit for 70 damage
+Player B: Umbreon fainted

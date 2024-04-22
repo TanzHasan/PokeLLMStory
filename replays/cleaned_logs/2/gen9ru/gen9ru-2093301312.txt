@@ -1,0 +1,81 @@
+Battle start:
+Player A sent out Muk-Alola
+Player B sent out Basculegion
+Turn 1:
+Player A: Switched out Muk-Alola for Cyclizar
+Player B: Basculegion used Wave Crash on Cyclizar for 77 damage
+Turn 2:
+Player B: Switched out Basculegion for Illumise
+Player A: Cyclizar used Knock Off on Illumise for 30 damage
+Turn 3:
+Player B: Illumise used Rain Dance on self
+Player A: Cyclizar used U-turn on Illumise for 19 damage
+Player A: Switched out Cyclizar for Muk-Alola
+Turn 4:
+Player B: Illumise used U-turn on Muk-Alola for 12 damage
+Player B: Switched out Illumise for Feraligatr
+Player A: Muk-Alola used Knock Off on Feraligatr for 39 damage
+Turn 5:
+Player A: Switched out Muk-Alola for Gyarados
+Player B: Feraligatr used Liquidation on Gyarados for 32 damage
+Turn 6:
+Player B: Switched out Feraligatr for Kingdra
+Player A: Gyarados used Waterfall on Kingdra for 17 damage
+Turn 7:
+Player A: Switched out Gyarados for Muk-Alola
+Player B: Kingdra used Draco Meteor on Muk-Alola for 39 damage
+Turn 8:
+Player B: Switched out Kingdra for Illumise
+Player A: Muk-Alola used Poison Jab on Illumise for 36 damage
+Turn 9:
+Player B: Illumise used Rain Dance on self
+Player A: Muk-Alola used Poison Jab on Illumise for 15 damage
+Player B: Illumise fainted
+Player B: Switched out Illumise for Basculegion
+Turn 10:
+Player A: Switched out Muk-Alola for Cyclizar
+Player B: Basculegion used Wave Crash on Cyclizar for 23 damage
+Player A: Muk-Alola fainted
+Player A: Switched out Muk-Alola for Gyarados
+Turn 11:
+Player A: Gyarados used Waterfall on Basculegion for 55 damage
+Player B: Basculegion used Wave Crash on Gyarados for 68 damage
+Player A: Gyarados fainted
+Player A: Switched out Gyarados for Gardevoir
+Turn 12:
+Player A: Gardevoir used Moonblast on Basculegion for 22 damage
+Player B: Basculegion fainted
+Player B: Switched out Basculegion for Floatzel
+Turn 13:
+Player A: Switched out Gardevoir for Hippowdon
+Player B: Floatzel used Wave Crash on Hippowdon for 100 damage (supereffective)
+Player A: Gardevoir fainted
+Player A: Switched out Gardevoir for Gardevoir
+Turn 14:
+Player A: Gardevoir used Moonblast on Floatzel for 84 damage
+Player B: Floatzel fainted
+Player B: Switched out Floatzel for Sableye
+Turn 15:
+Player B: Sableye used Rain Dance on self
+Player A: Gardevoir used Moonblast on Sableye for 100 damage (supereffective)
+Player B: Sableye fainted
+Player B: Switched out Sableye for Kingdra
+Turn 16:
+Player A: Gardevoir used Moonblast on Kingdra for 73 damage
+Player B: Kingdra used Surf on Gardevoir for 100 damage
+Player A: Gardevoir fainted
+Player A: Switched out Gardevoir for Muk-Alola
+Turn 17:
+Player B: Switched out Kingdra for Feraligatr
+Player A: Muk-Alola used Knock Off on Feraligatr for 28 damage
+Turn 18:
+Player B: Feraligatr used Liquidation on Muk-Alola for 49 damage
+Player A: Muk-Alola fainted
+Player A: Switched out Muk-Alola for Rotom-Heat
+Turn 19:
+Player A: Rotom-Heat used Volt Switch on Feraligatr for 33 damage (supereffective)
+Player B: Feraligatr fainted
+Player B: Switched out Feraligatr for Kingdra
+Turn 20:
+Player B: Kingdra used Surf on Rotom-Heat for 100 damage (supereffective)
+Player A: Rotom-Heat fainted

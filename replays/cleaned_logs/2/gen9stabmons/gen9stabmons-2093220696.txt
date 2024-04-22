@@ -1,0 +1,37 @@
+Battle start:
+Player A sent out Rhydon
+Player B sent out Noivern
+Turn 1:
+Player B: Noivern used Draco Meteor on Rhydon for 62 damage
+Player B: Switched out Noivern for Gholdengo
+Player A: Rhydon used Stone Axe on Gholdengo for 19 damage
+Player A: Switched out Rhydon for Palafin
+Turn 2:
+Player A: Palafin used Surging Strikes on Gholdengo and crit for 25 damage
+Player A: Switched out Palafin for Rhydon
+Player B: Gholdengo used Astral Barrage on Rhydon for 38 damage
+Player A: Palafin fainted
+Player B: Switched out Gholdengo for Noivern
+Player A: Switched out Palafin for Raichu
+Turn 3:
+Player A: Raichu used Fake Out on Noivern for 34 damage
+Player A: Switched out Raichu for Palafin-Hero
+Player B: Noivern can't move because flinch
+Turn 4:
+Player A: Palafin used Jet Punch on Noivern for 52 damage
+Player A: Switched out Palafin for Raichu
+Player B: Noivern used Draco Meteor on Raichu for 100 damage
+Player A: Palafin fainted
+Player B: Switched out Noivern for Snorlax
+Player A: Switched out Palafin for Palafin-Hero
+Turn 5:
+Player B: Snorlax used Fake Out on Palafin for 30 damage
+Player B: Switched out Snorlax for Gholdengo
+Player B: Snorlax fainted
+Player A: Palafin can't move because flinch
+Player B: Switched out Snorlax for Snorlax
+Turn 6:
+Player A: Palafin used Surging Strikes on Snorlax and crit for 30 damage
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Noivern
+Player B: Snorlax fainted

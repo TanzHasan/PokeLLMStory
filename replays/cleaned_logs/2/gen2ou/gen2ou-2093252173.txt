@@ -1,0 +1,110 @@
+Battle start:
+Player A sent out Snorlax
+Player B sent out Snorlax
+Turn 1:
+Player B: Switched out Snorlax for Golem
+Player A: Snorlax used Body Slam on Golem for 12 damage
+Turn 2:
+Player A: Snorlax used Body Slam on Golem for 7 damage
+Player B: Golem used Roar on self
+Turn 3:
+Player A: Switched out Snorlax for Zapdos
+Player B: Switched out Golem for Snorlax
+Turn 4:
+Player A: Zapdos used Thunder on Snorlax for 30 damage
+Player B: Snorlax used Double-Edge on Zapdos for 46 damage
+Turn 5:
+Player A: Switched out Zapdos for Cloyster
+Player B: Snorlax can't move because it is paralyzed
+Turn 6:
+Player B: Switched out Snorlax for Moltres
+Player A: Cloyster used Spikes on self
+Turn 7:
+Player A: Switched out Cloyster for Tyranitar
+Player B: Moltres used Fire Blast on Tyranitar for 22 damage
+Turn 8:
+Player B: Switched out Moltres for Golem
+Player A: Switched out Tyranitar for Cloyster
+Turn 9:
+Player B: Switched out Golem for Exeggutor
+Player A: Cloyster used Surf on Exeggutor for 30 damage
+Turn 10:
+Player A: Cloyster used Ice Beam on Exeggutor for 70 damage (supereffective)
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Moltres
+Turn 11:
+Player A: Switched out Cloyster for Snorlax
+Player B: Moltres used Fire Blast on Snorlax and crit for 62 damage
+Turn 12:
+Player B: Moltres used Fire Blast on Snorlax for 27 damage
+Player A: Snorlax used Body Slam on Moltres for 28 damage
+Turn 13:
+Player A: Switched out Snorlax for Tyranitar
+Player B: Moltres used Fire Blast on Tyranitar for 17 damage
+Turn 14:
+Player B: Switched out Moltres for Golem
+Player A: Tyranitar used Rock Slide on Golem for 24 damage
+Turn 15:
+Player A: Switched out Tyranitar for Cloyster
+Player B: Golem used Roar on self
+Turn 16:
+Player A: Switched out Cloyster for Cloyster
+Player B: Golem used Earthquake on Cloyster for 25 damage
+Turn 17:
+Player B: Switched out Golem for Snorlax
+Player A: Cloyster used Surf on Snorlax for 18 damage
+Turn 18:
+Player A: Cloyster used Surf on Snorlax for 12 damage
+Player B: Snorlax used Rest and healed for 69
+Turn 19:
+Player A: Switched out Cloyster for Tyranitar
+Player B: Snorlax can't move because it is asleep
+Turn 20:
+Player A: Switched out Tyranitar for Nidoking
+Player B: Switched out Snorlax for Golem
+Turn 21:
+Player B: Switched out Golem for Snorlax
+Player A: Nidoking used Ice Beam on Snorlax for 23 damage
+Turn 22:
+Player A: Nidoking used Earthquake on Snorlax for 20 damage
+Player B: Snorlax can't move because it is asleep
+Turn 23:
+Player A: Nidoking used Earthquake on Snorlax for 20 damage
+Player B: Snorlax used Earthquake on Nidoking for 51 damage (supereffective)
+Turn 24:
+Player A: Nidoking used Lovely Kiss
+Player B: Snorlax can't move because it is asleep
+Turn 25:
+Player B: Switched out Snorlax for Zapdos
+Player A: Nidoking used Earthquake but it had no effect on Zapdos
+Turn 26:
+Player A: Switched out Nidoking for Cloyster
+Player B: Zapdos used Hidden Power on Cloyster for -10 damage
+Turn 27:
+Player A: Switched out Cloyster for Nidoking
+Player B: Zapdos used Thunder but it had no effect on Nidoking
+Turn 28:
+Player A: Switched out Nidoking for Gengar
+Player B: Zapdos used Hidden Power on Gengar for 27 damage
+Turn 29:
+Player B: Switched out Zapdos for Golem
+Player A: Gengar used Ice Punch on Golem for 49 damage (supereffective)
+Turn 30:
+Player A: Gengar used Ice Punch on Golem for 8 damage (supereffective)
+Player B: Golem fainted
+Player B: Switched out Golem for Snorlax
+Turn 31:
+Player B: Snorlax can't move because it is asleep
+Turn 32:
+Player A: Gengar used Dynamic Punch on Snorlax for 20 damage (supereffective)
+Player B: Snorlax can't move because it is asleep
+Turn 33:
+Player B: Snorlax can't move because it is asleep
+Turn 34:
+Player A: Gengar used Thunder on Snorlax for 9 damage
+Player B: Snorlax can't move because it is asleep
+Turn 35:
+Player B: Snorlax can't move because it is asleep
+Turn 36:
+Player A: Gengar used Thunder on Snorlax for 8 damage
+Player B: Snorlax fainted

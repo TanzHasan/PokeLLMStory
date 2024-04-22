@@ -1,0 +1,119 @@
+Battle start:
+Player A sent out Ribombee
+Player B sent out Lokix
+Turn 1:
+Player B: Lokix used First Impression on Ribombee for 99 damage
+Player A: Ribombee used Sticky Web on self
+Turn 2:
+Player B: Switched out Lokix for Excadrill
+Player A: Ribombee used Moonblast on Excadrill for 22 damage
+Turn 3:
+Player A: Ribombee used Stun Spore
+Player B: Excadrill used Rapid Spin on Ribombee for 1 damage
+Player A: Ribombee fainted
+Player A: Switched out Ribombee for Hawlucha
+Turn 4:
+Player B: Switched out Excadrill for Toxapex
+Player A: Hawlucha used Swords Dance on self
+Turn 5:
+Player A: Switched out Hawlucha for Scizor
+Player B: Toxapex used Toxic but it had no effect on Scizor
+Turn 6:
+Player B: Switched out Toxapex for Skeledirge
+Player A: Scizor used Knock Off on Skeledirge for 65 damage (supereffective)
+Turn 7:
+Player B: Skeledirge used Torch Song on Scizor for 100 damage (supereffective)
+Player A: Scizor fainted
+Player A: Switched out Scizor for Iron Moth
+Turn 8:
+Player B: Switched out Skeledirge for Rotom-Wash
+Player A: Iron Moth used Sludge Wave on Rotom-Wash for 52 damage
+Turn 9:
+Player A: Iron Moth used Sludge Wave on Rotom-Wash for 48 damage
+Player B: Rotom-Wash fainted
+Player B: Switched out Rotom-Wash for Excadrill
+Turn 10:
+Player A: Iron Moth used Fiery Dance on Excadrill for 78 damage (supereffective)
+Player B: Excadrill fainted
+Player B: Switched out Excadrill for Toxapex
+Turn 11:
+Player A: Iron Moth used Fiery Dance on Toxapex for 25 damage
+Player B: Toxapex used Liquidation on Iron Moth for 67 damage (supereffective)
+Turn 12:
+Player A: Iron Moth used Fiery Dance on Toxapex for 18 damage
+Player B: Toxapex used Liquidation on Iron Moth for 33 damage (supereffective)
+Player A: Iron Moth fainted
+Player A: Switched out Iron Moth for Weezing-Galar
+Turn 13:
+Player A: Weezing-Galar used Will-O-Wisp
+Player B: Toxapex used Recover and healed for 43
+Turn 14:
+Player A: Weezing-Galar used Strange Steam on Toxapex for 17 damage
+Player B: Toxapex used Liquidation on Weezing-Galar for 8 damage
+Turn 15:
+Player B: Switched out Toxapex for Lokix
+Player A: Weezing-Galar used Sludge Bomb on Lokix for 49 damage
+Turn 16:
+Player B: Lokix used Knock Off on Weezing-Galar for 52 damage
+Player A: Weezing-Galar used Strange Steam on Lokix for 51 damage (supereffective)
+Player B: Lokix fainted
+Player B: Switched out Lokix for Skeledirge
+Turn 17:
+Player B: Skeledirge used Slack Off and healed for 50
+Player A: Weezing-Galar used Strange Steam on Skeledirge for 9 damage
+Turn 18:
+Player B: Skeledirge used Torch Song on Weezing-Galar for 36 damage
+Player A: Weezing-Galar used Strange Steam on Skeledirge for 10 damage
+Turn 19:
+Player B: Skeledirge used Slack Off and healed for 34
+Player A: Weezing-Galar used Sludge Bomb on Skeledirge for 20 damage
+Turn 20:
+Player B: Skeledirge used Torch Song on Weezing-Galar for 4 damage
+Player A: Weezing-Galar fainted
+Player A: Switched out Weezing-Galar for Donphan
+Turn 21:
+Player B: Skeledirge used Will-O-Wisp
+Player A: Donphan used Earthquake on Skeledirge for 46 damage (supereffective)
+Turn 22:
+Player B: Skeledirge used Slack Off and healed for 50
+Player A: Donphan used Rapid Spin on Skeledirge for 5 damage
+Turn 23:
+Player A: Donphan used Earthquake on Skeledirge for 47 damage (supereffective)
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 24:
+Player A: Donphan used Earthquake on Skeledirge for 46 damage (supereffective)
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 25:
+Player A: Donphan used Earthquake on Skeledirge for 47 damage (supereffective)
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 26:
+Player A: Donphan used Earthquake on Skeledirge and crit for 65 damage (supereffective)
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 27:
+Player A: Donphan used Earthquake on Skeledirge for 43 damage (supereffective)
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 28:
+Player A: Donphan used Earthquake on Skeledirge for 44 damage (supereffective)
+Player B: Skeledirge used Shadow Ball on Donphan for 100 damage
+Player A: Donphan fainted
+Player A: Switched out Donphan for Hawlucha
+Turn 29:
+Player A: Hawlucha used Close Combat on Skeledirge for 37 damage
+Player B: Skeledirge fainted
+Player B: Switched out Skeledirge for Sinistcha
+Turn 30:
+Player A: Hawlucha used Acrobatics on Sinistcha for 88 damage (supereffective)
+Player B: Sinistcha used Strength Sap and healed for 88
+Turn 31:
+Player A: Hawlucha used Swords Dance on self
+Player B: Sinistcha used Strength Sap on self
+Turn 32:
+Player A: Hawlucha used Acrobatics on Sinistcha for 98 damage (supereffective)
+Player B: Sinistcha fainted
+Player B: Switched out Sinistcha for Toxapex
+Turn 33:
+Player A: Hawlucha used Swords Dance on self
+Turn 34:
+Player A: Hawlucha used Swords Dance on self
+Player B: Toxapex used Haze on self
+Turn 35:

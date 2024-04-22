@@ -1,0 +1,97 @@
+Battle start:
+Player A sent out Landorus-Therian
+Player B sent out Toxapex
+Turn 1:
+Player A: Landorus-Therian used Stealth Rock on self
+Player B: Toxapex used Mortal Spin on Landorus-Therian for 1 damage
+Turn 2:
+Player B: Switched out Toxapex for Gliscor
+Player A: Landorus-Therian used Stealth Rock on self
+Turn 3:
+Player A: Landorus-Therian used U-turn on Gliscor for 7 damage
+Player A: Switched out Landorus-Therian for Kyurem
+Turn 4:
+Player B: Switched out Gliscor for Sylveon
+Player A: Kyurem used Freeze-Dry on Sylveon for 41 damage
+Turn 5:
+Player A: Switched out Kyurem for Magnezone
+Player B: Sylveon used Slack Off and healed for 41
+Turn 6:
+Player B: Switched out Sylveon for Gliscor
+Player A: Magnezone used Make It Rain on Gliscor for 93 damage
+Player B: Sylveon fainted
+Player B: Switched out Sylveon for Toxapex
+Turn 7:
+Player A: Magnezone used Electro Drift on Toxapex for 9 damage
+Player B: Toxapex used Infestation on Magnezone for 2 damage
+Turn 8:
+Player A: Magnezone used Volt Switch on Toxapex for 9 damage
+Player A: Switched out Magnezone for Toxapex
+Player B: Toxapex used Flip Turn on Toxapex for 4 damage
+Player B: Switched out Toxapex for Raging Bolt
+Turn 9:
+Player B: Raging Bolt used Electro Drift on Toxapex for 73 damage (supereffective)
+Player A: Toxapex used Flip Turn on Raging Bolt for 13 damage
+Player A: Switched out Toxapex for Kyurem
+Turn 10:
+Player B: Switched out Raging Bolt for Sylveon
+Player A: Kyurem used Glacial Lance on Sylveon and crit for 96 damage
+Turn 11:
+Player A: Kyurem used Freeze-Dry on Sylveon for 4 damage
+Player B: Sylveon fainted
+Player B: Switched out Sylveon for Gholdengo
+Turn 12:
+Player A: Switched out Kyurem for Toxapex
+Player B: Gholdengo used Astral Barrage on Toxapex for -3 damage
+Turn 13:
+Player A: Switched out Toxapex for Landorus-Therian
+Player B: Gholdengo used Astral Barrage on Landorus-Therian for 91 damage
+Player A: Toxapex fainted
+Player A: Switched out Toxapex for Iron Valiant
+Turn 14:
+Player B: Switched out Gholdengo for Raging Bolt
+Player A: Iron Valiant used Knock Off on Raging Bolt for 37 damage
+Turn 15:
+Player B: Raging Bolt used Thunderclap on Iron Valiant for 68 damage
+Player A: Iron Valiant used Close Combat on Raging Bolt for 50 damage
+Player B: Raging Bolt fainted
+Player B: Switched out Raging Bolt for Greninja
+Turn 16:
+Player A: Switched out Iron Valiant for Ogerpon-Wellspring
+Player B: Greninja used Swords Dance on self
+Turn 17:
+Player A: Ogerpon-Wellspring used Jet Punch on Greninja and crit for 58 damage
+Player B: Greninja used Wicked Blow on Ogerpon-Wellspring and crit for 100 damage
+Player A: Ogerpon-Wellspring fainted
+Player A: Switched out Ogerpon-Wellspring for Toxapex
+Turn 18:
+Player A: Switched out Toxapex for Iron Valiant
+Player B: Greninja used Surging Strikes on Iron Valiant and crit for 32 damage
+Player A: Toxapex fainted
+Player A: Switched out Toxapex for Magnezone
+Turn 19:
+Player B: Greninja used Jet Punch on Magnezone for 56 damage
+Player A: Magnezone fainted
+Player A: Switched out Magnezone for Toxapex
+Turn 20:
+Player B: Greninja used Wicked Blow on Toxapex and crit for 15 damage
+Player A: Toxapex used Clear Smog on Greninja for 16 damage
+Turn 21:
+Player A: Switched out Toxapex for Kyurem
+Player B: Greninja used Wicked Blow on Kyurem and crit for 50 damage
+Turn 22:
+Player A: Switched out Kyurem for Toxapex
+Player B: Greninja used Wicked Blow on Toxapex and crit for 0 damage
+Turn 23:
+Player A: Switched out Toxapex for Kyurem
+Player B: Greninja used Surging Strikes on Kyurem and crit for 10 damage
+Turn 24:
+Player B: Greninja used Surging Strikes on Kyurem and crit for 2 damage
+Player A: Kyurem fainted
+Player A: Switched out Kyurem for Toxapex
+Turn 25:
+Player B: Greninja used Wicked Blow on Toxapex and crit for 3 damage
+Player A: Toxapex used Scald on Greninja for 13 damage
+Turn 26:
+Player B: Greninja used Wicked Blow on Toxapex and crit for 8 damage
+Player A: Toxapex fainted

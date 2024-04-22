@@ -1,0 +1,219 @@
+Battle start:
+Player A sent out Ditto
+Player B sent out Jynx
+Turn 1:
+Player A: Ditto used Transform on self
+Turn 2:
+Player B: Jynx used Lovely Kiss
+Player A: Ditto can't move because it is asleep
+Turn 3:
+Player B: Jynx used Seismic Toss on Ditto for 33 damage
+Turn 4:
+Player B: Jynx used Lovely Kiss
+Turn 5:
+Player A: Ditto used Lovely Kiss
+Turn 6:
+Player B: Switched out Jynx for Chansey
+Player A: Ditto used Seismic Toss on Chansey for 14 damage
+Turn 7:
+Player A: Ditto used Psychic on Chansey for 13 damage
+Player B: Chansey used Thunderbolt on Ditto for 28 damage
+Turn 8:
+Player A: Ditto used Blizzard on Chansey for 19 damage
+Player B: Chansey used Thunderbolt on Ditto for 25 damage
+Turn 9:
+Player B: Chansey used Soft-Boiled and healed for 46
+Turn 10:
+Player A: Ditto used Blizzard on Chansey for 17 damage
+Player B: Chansey used Thunderbolt on Ditto and crit for 14 damage
+Player A: Ditto fainted
+Player A: Switched out Ditto for Snorlax
+Turn 11:
+Player A: Snorlax used Body Slam on Chansey for 41 damage
+Turn 12:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Snorlax used Body Slam on Chansey for 43 damage
+Turn 13:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Snorlax used Body Slam on Chansey for 41 damage
+Turn 14:
+Player B: Chansey used Sing
+Turn 15:
+Player B: Chansey used Soft-Boiled and healed for 42
+Player A: Snorlax used Body Slam on Chansey for 39 damage
+Turn 16:
+Player A: Snorlax used Body Slam on Chansey for 40 damage
+Turn 17:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Snorlax used Body Slam on Chansey for 40 damage
+Turn 18:
+Player B: Chansey used Soft-Boiled and healed for 49
+Player A: Snorlax used Body Slam on Chansey for 40 damage
+Turn 19:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Snorlax used Body Slam on Chansey for 40 damage
+Turn 20:
+Player B: Chansey used Soft-Boiled and healed for 49
+Player A: Snorlax used Body Slam on Chansey for 40 damage
+Turn 21:
+Player B: Chansey used Sing
+Player A: Snorlax can't move because it is asleep
+Turn 22:
+Player B: Switched out Chansey for Starmie
+Player A: Snorlax can't move because it is asleep
+Turn 23:
+Player B: Starmie used Psychic on Snorlax for 27 damage
+Player A: Snorlax can't move because it is asleep
+Turn 24:
+Player B: Starmie used Psychic on Snorlax for 27 damage
+Player A: Snorlax can't move because it is asleep
+Turn 25:
+Player B: Starmie used Psychic on Snorlax for 24 damage
+Player A: Snorlax can't move because it is asleep
+Turn 26:
+Player A: Switched out Snorlax for Chansey
+Player B: Starmie used Psychic on Chansey for 13 damage
+Turn 27:
+Player B: Switched out Starmie for Chansey
+Player A: Chansey used Blizzard on Chansey for 15 damage
+Turn 28:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Chansey used Blizzard on Chansey and crit for 25 damage
+Turn 29:
+Player B: Chansey used Ice Beam on Chansey for 10 damage
+Turn 30:
+Player B: Chansey used Ice Beam on Chansey for 10 damage
+Turn 31:
+Player B: Chansey used Ice Beam on Chansey for 10 damage
+Turn 32:
+Player B: Chansey used Ice Beam on Chansey for 11 damage
+Turn 33:
+Player A: Chansey used Blizzard on Chansey for 14 damage
+Player B: Chansey used Soft-Boiled and healed for 45
+Turn 34:
+Player A: Chansey used Blizzard on Chansey for 14 damage
+Player B: Chansey used Ice Beam on Chansey for 11 damage
+Turn 35:
+Player B: Chansey used Ice Beam on Chansey for 11 damage
+Player A: Chansey used Soft-Boiled and healed for 50
+Turn 36:
+Player A: Switched out Chansey for Jynx
+Player B: Chansey used Ice Beam on Jynx and crit for 22 damage
+Turn 37:
+Player B: Switched out Chansey for Starmie
+Player A: Jynx used Blizzard on Starmie for 21 damage
+Turn 38:
+Player B: Switched out Starmie for Chansey
+Player A: Jynx used Psychic on Chansey for 13 damage
+Turn 39:
+Player A: Jynx used Psychic on Chansey for 22 damage
+Player B: Chansey used Soft-Boiled and healed for 49
+Turn 40:
+Player A: Jynx used Psychic on Chansey for 21 damage
+Player B: Chansey used Thunderbolt on Jynx for 11 damage
+Turn 41:
+Player B: Switched out Chansey for Starmie
+Player A: Jynx used Psychic on Starmie for 15 damage
+Turn 42:
+Player B: Switched out Starmie for Slowbro
+Player A: Jynx used Psychic on Slowbro for 13 damage
+Turn 43:
+Player A: Switched out Jynx for Jolteon
+Player B: Slowbro used Amnesia on self
+Turn 44:
+Player A: Jolteon used Thunderbolt on Slowbro for 35 damage (supereffective)
+Player B: Slowbro used Thunder Wave
+Turn 45:
+Player B: Slowbro used Psychic on Jolteon for 47 damage
+Player A: Jolteon used Agility on self
+Turn 46:
+Player A: Jolteon used Thunderbolt on Slowbro for 35 damage (supereffective)
+Player B: Slowbro used Amnesia on self
+Turn 47:
+Player A: Jolteon used Thunderbolt on Slowbro for 17 damage (supereffective)
+Player B: Slowbro fainted
+Player B: Switched out Slowbro for Snorlax
+Turn 48:
+Player A: Jolteon used Thunder Wave
+Player B: Snorlax used Body Slam on Jolteon for 45 damage
+Turn 49:
+Player A: Jolteon used Thunderbolt on Snorlax and crit for 60 damage
+Player B: Snorlax used Body Slam on Jolteon for 8 damage
+Player A: Jolteon fainted
+Player A: Switched out Jolteon for Tauros
+Turn 50:
+Player A: Tauros used Hyper Beam on Snorlax for 40 damage
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Tauros
+Turn 51:
+Player A: Switched out Tauros for Jynx
+Player B: Tauros used Body Slam on Jynx and crit for 67 damage
+Player A: Tauros fainted
+Player A: Switched out Tauros for Chansey
+Turn 52:
+Player B: Switched out Tauros for Chansey
+Player A: Chansey used Thunder Wave
+Turn 53:
+Player A: Switched out Chansey for Snorlax
+Player B: Chansey can't move because it is paralyzed
+Turn 54:
+Player B: Chansey can't move because it is paralyzed
+Turn 55:
+Player B: Switched out Chansey for Starmie
+Player A: Snorlax used Rest and healed for 78
+Turn 56:
+Player B: Switched out Starmie for Tauros
+Player A: Snorlax can't move because it is asleep
+Turn 57:
+Player A: Switched out Snorlax for Chansey
+Player B: Tauros used Body Slam on Chansey for 41 damage
+Turn 58:
+Player B: Tauros used Body Slam on Chansey for 33 damage
+Player A: Chansey fainted
+Player A: Switched out Chansey for Tauros
+Turn 59:
+Player A: Tauros used Body Slam on Tauros for 30 damage
+Player B: Tauros used Body Slam on Tauros for 29 damage
+Turn 60:
+Player B: Tauros used Body Slam on Tauros for 31 damage
+Player A: Tauros used Body Slam on Tauros for 27 damage
+Turn 61:
+Player B: Switched out Tauros for Chansey
+Player A: Tauros used Hyper Beam on Chansey for 71 damage
+Turn 62:
+Player A: Tauros can't move because recharge
+Player B: Chansey used Sing
+Turn 63:
+Player A: Switched out Tauros for Snorlax
+Player B: Chansey used Ice Beam on Snorlax for 18 damage
+Turn 64:
+Player B: Chansey can't move because it is paralyzed
+Turn 65:
+Player A: Snorlax used Reflect on self
+Player B: Chansey can't move because it is paralyzed
+Turn 66:
+Player A: Snorlax used Body Slam on Chansey for 8 damage
+Player B: Chansey fainted
+Player B: Switched out Chansey for Tauros
+Turn 67:
+Player B: Tauros used Blizzard on Snorlax for 18 damage
+Player A: Snorlax used Body Slam on Tauros for 30 damage
+Turn 68:
+Player B: Tauros used Hyper Beam on Snorlax for 21 damage
+Player A: Snorlax used Body Slam on Tauros for 13 damage
+Player B: Tauros fainted
+Player B: Switched out Tauros for Jynx
+Turn 69:
+Player B: Jynx can't move because it is asleep
+Player A: Snorlax used Body Slam on Jynx for 59 damage
+Turn 70:
+Player A: Snorlax used Body Slam on Jynx for 41 damage
+Player B: Jynx fainted
+Player B: Switched out Jynx for Starmie
+Turn 71:
+Player B: Starmie can't move because it is frozen
+Player A: Snorlax used Body Slam on Starmie for 35 damage
+Turn 72:
+Player B: Starmie can't move because it is frozen
+Player A: Snorlax used Body Slam on Starmie for 29 damage
+Player B: Starmie fainted

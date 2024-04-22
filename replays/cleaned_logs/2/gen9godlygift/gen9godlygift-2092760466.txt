@@ -1,0 +1,100 @@
+Battle start:
+Player A sent out Great Tusk
+Player B sent out Clefable
+Turn 1:
+Player A: Great Tusk used Knock Off on Clefable for 14 damage
+Player B: Clefable used Stealth Rock on self
+Turn 2:
+Player A: Great Tusk used Rapid Spin on Clefable for 13 damage
+Player B: Clefable used Knock Off on Great Tusk for 4 damage
+Turn 3:
+Player A: Switched out Great Tusk for Skarmory
+Player B: Clefable used Stealth Rock on self
+Turn 4:
+Player A: Skarmory used Spikes on self
+Player B: Clefable used Knock Off on Skarmory for 7 damage
+Turn 5:
+Player B: Switched out Clefable for Skarmory
+Player A: Skarmory used Spikes on self
+Turn 6:
+Player B: Skarmory used Spikes on self
+Player A: Skarmory used Whirlwind on self
+Turn 7:
+Player B: Skarmory used Will-O-Wisp
+Player A: Skarmory used Spikes on self
+Turn 8:
+Player A: Switched out Skarmory for Clodsire
+Player B: Skarmory used Will-O-Wisp
+Turn 9:
+Player B: Switched out Skarmory for Skarmory
+Player A: Clodsire used Stealth Rock on self
+Turn 10:
+Player A: Switched out Clodsire for Skarmory
+Player B: Skarmory used Spikes on self
+Turn 11:
+Player B: Skarmory used Spikes on self
+Player A: Skarmory used Whirlwind on self
+Turn 12:
+Player B: Skarmory used Torch Song on Skarmory for 89 damage (supereffective)
+Player A: Skarmory used Roost and healed for 50
+Turn 13:
+Player B: Skarmory used Torch Song on Skarmory for 54 damage (supereffective)
+Player A: Skarmory fainted
+Player A: Switched out Skarmory for Clodsire
+Turn 14:
+Player B: Switched out Skarmory for Clefable
+Player A: Clodsire used Toxic
+Turn 15:
+Player B: Clefable used Knock Off on Clodsire for 61 damage
+Player A: Clodsire used Recover and healed for 50
+Turn 16:
+Player A: Switched out Clodsire for Great Tusk
+Player B: Clefable used Moonblast on Great Tusk for 77 damage (supereffective)
+Turn 17:
+Player B: Switched out Clefable for Giratina
+Player A: Great Tusk used Rapid Spin but it had no effect on Giratina
+Turn 18:
+Player B: Giratina used Will-O-Wisp
+Player A: Great Tusk used Knock Off on Giratina for 16 damage (supereffective)
+Turn 19:
+Player B: Giratina used Will-O-Wisp but it failed
+Player A: Great Tusk used Earthquake on Giratina for 12 damage
+Turn 20:
+Player B: Giratina used Will-O-Wisp but it failed
+Player A: Great Tusk used Earthquake on Giratina for 12 damage
+Player A: Great Tusk fainted
+Player A: Switched out Great Tusk for Kyurem-White
+Turn 21:
+Player A: Kyurem-White used Ice Beam on Giratina for 60 damage (supereffective)
+Player B: Giratina fainted
+Player B: Switched out Giratina for Alomomola
+Turn 22:
+Player A: Kyurem-White used Draco Meteor on Alomomola for 44 damage
+Player B: Alomomola used Flip Turn on Kyurem-White for 9 damage
+Player B: Switched out Alomomola for Clefable
+Turn 23:
+Player A: Kyurem-White used Fusion Flare on Clefable for 27 damage
+Player B: Clefable used Moonblast on Kyurem-White for 13 damage (supereffective)
+Player A: Kyurem-White fainted
+Player A: Switched out Kyurem-White for Cinccino
+Turn 24:
+Player B: Switched out Clefable for Skarmory
+Player A: Cinccino used Tidy Up on self
+Turn 25:
+Player A: Cinccino used Rock Blast on Skarmory for 8 damage
+Player B: Skarmory used Body Press on Cinccino for 100 damage (supereffective)
+Player A: Cinccino fainted
+Player A: Switched out Cinccino for Dragapult
+Turn 26:
+Player B: Switched out Skarmory for Alomomola
+Player A: Dragapult used Thunderbolt on Alomomola for 13 damage (supereffective)
+Turn 27:
+Player A: Dragapult used Thunderbolt on Alomomola for 22 damage
+Player B: Alomomola used Wish on self
+Turn 28:
+Player B: Alomomola used Protect on self
+Player A: Dragapult used Thunderbolt on self
+Turn 29:
+Player B: Switched out Alomomola for Skeledirge
+Player A: Dragapult used Thunderbolt on Skeledirge for 41 damage
+Turn 30:

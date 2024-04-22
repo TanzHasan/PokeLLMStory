@@ -1,0 +1,138 @@
+Battle start:
+Player A sent out Breloom
+Player B sent out Braviary
+Turn 1:
+Player A: Breloom used Spore
+Player B: Braviary can't move because it is asleep
+Turn 2:
+Player B: Switched out Braviary for Porygon2
+Player A: Breloom used Rock Tomb on Porygon2 for 15 damage
+Turn 3:
+Player A: Switched out Breloom for Scrafty
+Player B: Porygon2 used Discharge on Scrafty for 12 damage
+Turn 4:
+Player B: Switched out Porygon2 for Ursaluna
+Player A: Scrafty used Knock Off on Ursaluna for 26 damage
+Turn 5:
+Player B: Ursaluna used Drain Punch on Scrafty for 38 damage (supereffective)
+Player B: Ursaluna used Drain Punch and healed for 21
+Player A: Scrafty used Bulk Up on self
+Turn 6:
+Player B: Ursaluna used Trailblaze on Scrafty for 5 damage
+Player A: Scrafty used Drain Punch on Ursaluna for 62 damage (supereffective)
+Player A: Scrafty used Drain Punch and healed for 37
+Turn 7:
+Player B: Ursaluna used Drain Punch on Scrafty for 27 damage (supereffective)
+Player B: Ursaluna used Drain Punch and healed for 14
+Player A: Scrafty used Drain Punch on Ursaluna for 47 damage (supereffective)
+Player A: Scrafty used Drain Punch and healed for 28
+Player B: Ursaluna fainted
+Player B: Switched out Ursaluna for Ditto
+Turn 8:
+Player A: Switched out Scrafty for Okidogi
+Player B: Ditto used Drain Punch on Okidogi for 13 damage
+Turn 9:
+Player B: Switched out Ditto for Braviary
+Player A: Okidogi used Throat Chop on Braviary for 20 damage
+Turn 10:
+Player A: Switched out Okidogi for Cobalion
+Player B: Braviary can't move because it is asleep
+Turn 11:
+Player A: Cobalion used Stealth Rock on self
+Player B: Braviary can't move because it is asleep
+Turn 12:
+Player A: Switched out Cobalion for Breloom
+Player B: Braviary used Defog on self
+Turn 13:
+Player B: Switched out Braviary for Ditto
+Player A: Breloom used Spore but it had no effect on Ditto
+Turn 14:
+Player A: Switched out Breloom for Slither Wing
+Player B: Ditto used Bullet Seed on Slither Wing for 12 damage
+Turn 15:
+Player B: Switched out Ditto for Braviary
+Player A: Slither Wing used U-turn on Braviary for 21 damage
+Player A: Switched out Slither Wing for Breloom
+Turn 16:
+Player B: Switched out Braviary for Porygon2
+Player A: Breloom used Rock Tomb on Porygon2 for 16 damage
+Turn 17:
+Player B: Switched out Porygon2 for Ditto
+Player A: Breloom used Spore but it had no effect on Ditto
+Turn 18:
+Player A: Switched out Breloom for Cobalion
+Player B: Ditto used Bullet Seed on Cobalion for 8 damage
+Turn 19:
+Player A: Cobalion used Volt Switch on Ditto for 15 damage
+Player A: Switched out Cobalion for Slither Wing
+Player B: Ditto used Bullet Seed on Slither Wing for 13 damage
+Turn 20:
+Player B: Ditto used Bullet Seed on Slither Wing for 12 damage
+Player A: Slither Wing fainted
+Player A: Switched out Slither Wing for Okidogi
+Turn 21:
+Player B: Switched out Ditto for Meloetta
+Player A: Okidogi used Ice Punch on Meloetta for 28 damage
+Turn 22:
+Player A: Switched out Okidogi for Scrafty
+Player B: Meloetta used Psychic but it had no effect on Scrafty
+Turn 23:
+Player B: Switched out Meloetta for Braviary
+Player A: Scrafty used Knock Off on Braviary for 22 damage
+Turn 24:
+Player A: Switched out Scrafty for Breloom
+Player B: Braviary used Roost and healed for 50
+Turn 25:
+Player A: Breloom used Spore
+Player B: Braviary can't move because it is asleep
+Turn 26:
+Player A: Switched out Breloom for Cobalion
+Player B: Switched out Braviary for Ditto
+Turn 27:
+Player A: Cobalion used Stealth Rock on self
+Player B: Ditto used Volt Switch on Cobalion for 28 damage
+Player B: Switched out Ditto for Blissey
+Turn 28:
+Player A: Switched out Cobalion for Breloom
+Player B: Blissey used Stealth Rock on self
+Turn 29:
+Player A: Breloom used Bullet Seed on Blissey for 18 damage
+Player B: Blissey used Seismic Toss on Breloom for 38 damage
+Turn 30:
+Player B: Switched out Blissey for Ditto
+Player A: Breloom used Bullet Seed on Ditto for 13 damage
+Turn 31:
+Player A: Breloom used Mach Punch on Ditto for 46 damage
+Player B: Ditto fainted
+Player B: Switched out Ditto for Meloetta
+Turn 32:
+Player A: Breloom used Mach Punch on Meloetta for 49 damage
+Player B: Meloetta used Alluring Voice on Breloom for 62 damage (supereffective)
+Player A: Breloom fainted
+Player A: Switched out Breloom for Cobalion
+Turn 33:
+Player B: Switched out Meloetta for Blissey
+Player A: Cobalion used Volt Switch on Blissey for 7 damage
+Player A: Switched out Cobalion for Okidogi
+Turn 34:
+Player B: Switched out Blissey for Porygon2
+Player A: Okidogi used Brick Break on Porygon2 for 46 damage (supereffective)
+Turn 35:
+Player A: Okidogi used Brick Break on Porygon2 for 23 damage (supereffective)
+Player B: Porygon2 fainted
+Player B: Switched out Porygon2 for Meloetta
+Turn 36:
+Player B: Meloetta used Alluring Voice on Okidogi for 33 damage
+Player A: Okidogi used Brick Break on Meloetta for 23 damage
+Player B: Meloetta fainted
+Player B: Switched out Meloetta for Braviary
+Turn 37:
+Player A: Okidogi used Ice Punch on Braviary for 60 damage (supereffective)
+Player B: Braviary can't move because it is asleep
+Turn 38:
+Player A: Okidogi used Ice Punch on Braviary for 27 damage (supereffective)
+Player B: Braviary fainted
+Player B: Switched out Braviary for Blissey
+Turn 39:
+Player A: Okidogi used Brick Break on Blissey for 56 damage (supereffective)
+Player B: Blissey fainted

@@ -1,0 +1,89 @@
+Battle start:
+Player A sent out Lycanroc-Dusk
+Player B sent out Zapdos-Galar
+Turn 1:
+Player A: Switched out Lycanroc-Dusk for Sableye
+Player B: Zapdos-Galar used U-turn on Sableye for 30 damage
+Player B: Switched out Zapdos-Galar for Thundurus-Therian
+Turn 2:
+Player A: Sableye used Will-O-Wisp
+Player B: Thundurus-Therian used Nasty Plot on self
+Turn 3:
+Player A: Switched out Sableye for Jolteon
+Player B: Thundurus-Therian used Sludge Wave on Jolteon for 85 damage
+Turn 4:
+Player A: Switched out Jolteon for Swampert
+Player B: Thundurus-Therian used Sludge Wave on Swampert for 25 damage
+Turn 5:
+Player B: Thundurus-Therian used Tera Blast on Swampert for 70 damage
+Player A: Swampert used Stealth Rock on self
+Turn 6:
+Player B: Thundurus-Therian used Sludge Wave on Swampert for 5 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Lycanroc-Dusk
+Turn 7:
+Player B: Switched out Thundurus-Therian for Conkeldurr
+Player A: Lycanroc-Dusk used Close Combat on Conkeldurr for 80 damage
+Turn 8:
+Player A: Switched out Lycanroc-Dusk for Sableye
+Player B: Conkeldurr used Mach Punch but it had no effect on Sableye
+Turn 9:
+Player B: Conkeldurr used Knock Off on Sableye for 61 damage
+Player A: Sableye used Foul Play on Conkeldurr for 20 damage
+Player B: Conkeldurr fainted
+Player B: Switched out Conkeldurr for Thundurus-Therian
+Turn 10:
+Player A: Sableye used Taunt on self
+Player B: Thundurus-Therian used Thunderbolt on Sableye and crit for 9 damage
+Player A: Sableye fainted
+Player A: Switched out Sableye for Honchkrow
+Turn 11:
+Player A: Switched out Honchkrow for Jolteon
+Player B: Thundurus-Therian used Thunderbolt and healed for 24
+Turn 12:
+Player A: Jolteon used Tera Blast on Thundurus-Therian for 100 damage (supereffective)
+Player B: Thundurus-Therian fainted
+Player B: Switched out Thundurus-Therian for Moltres
+Turn 13:
+Player A: Switched out Jolteon for Hitmontop
+Player B: Moltres used Flamethrower on Hitmontop for 39 damage
+Turn 14:
+Player A: Switched out Hitmontop for Lycanroc-Dusk
+Player B: Moltres used Will-O-Wisp
+Turn 15:
+Player B: Switched out Moltres for Empoleon
+Player A: Lycanroc-Dusk used Close Combat on Empoleon for 78 damage (supereffective)
+Turn 16:
+Player B: Switched out Empoleon for Moltres
+Player A: Lycanroc-Dusk used Close Combat on Moltres for 14 damage
+Turn 17:
+Player A: Switched out Lycanroc-Dusk for Hitmontop
+Player B: Moltres used Flamethrower on Hitmontop for 36 damage
+Turn 18:
+Player A: Switched out Hitmontop for Lycanroc-Dusk
+Player B: Moltres used Flamethrower on Lycanroc-Dusk for 52 damage
+Turn 19:
+Player A: Lycanroc-Dusk used Accelerock on Moltres for 55 damage (supereffective)
+Player B: Moltres used Flamethrower on Lycanroc-Dusk for 39 damage
+Turn 20:
+Player A: Lycanroc-Dusk used Accelerock on Moltres for 31 damage (supereffective)
+Player B: Moltres fainted
+Player A: Lycanroc-Dusk fainted
+Player A: Switched out Lycanroc-Dusk for Jolteon
+Player B: Switched out Moltres for Cyclizar
+Turn 21:
+Player A: Jolteon used Tera Blast on Cyclizar for 100 damage (supereffective)
+Player B: Cyclizar fainted
+Player B: Switched out Cyclizar for Zapdos-Galar
+Turn 22:
+Player A: Jolteon used Tera Blast on Zapdos-Galar for 100 damage (supereffective)
+Player B: Zapdos-Galar fainted
+Player B: Switched out Zapdos-Galar for Empoleon
+Turn 23:
+Player A: Switched out Jolteon for Hitmontop
+Player B: Empoleon used Flash Cannon on Hitmontop for 25 damage
+Player A: Jolteon fainted
+Player A: Switched out Jolteon for Jolteon
+Turn 24:
+Player A: Jolteon used Thunderbolt on Empoleon for 22 damage (supereffective)
+Player B: Empoleon fainted

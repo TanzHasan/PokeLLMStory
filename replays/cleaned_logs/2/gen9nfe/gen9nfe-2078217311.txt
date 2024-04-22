@@ -1,0 +1,100 @@
+Battle start:
+Player A sent out Frogadier
+Player B sent out Raboot
+Turn 1:
+Player B: Switched out Raboot for Quaxwell
+Player A: Frogadier used Hydro Pump on Quaxwell for 21 damage
+Turn 2:
+Player A: Frogadier used U-turn on Quaxwell for 11 damage
+Player A: Switched out Frogadier for Tinkatuff
+Player B: Quaxwell used Flip Turn on Tinkatuff for 19 damage
+Player B: Switched out Quaxwell for Raboot
+Turn 3:
+Player A: Switched out Tinkatuff for Quaxwell
+Player B: Raboot used U-turn on Quaxwell for 20 damage
+Player B: Switched out Raboot for Gligar
+Turn 4:
+Player B: Gligar used Toxic
+Player A: Quaxwell used Rapid Spin on Gligar for 5 damage
+Turn 5:
+Player A: Quaxwell used Flip Turn on Gligar for 18 damage (supereffective)
+Player A: Switched out Quaxwell for Frogadier
+Player B: Gligar used Knock Off on Frogadier for 44 damage
+Turn 6:
+Player B: Switched out Gligar for Quaxwell
+Player A: Frogadier used Toxic Spikes on self
+Turn 7:
+Player A: Frogadier used U-turn on Quaxwell and crit for 9 damage
+Player A: Switched out Frogadier for Tinkatuff
+Player B: Quaxwell used Rapid Spin on Tinkatuff for 5 damage
+Turn 8:
+Player B: Quaxwell used Flip Turn on Tinkatuff for 20 damage
+Player B: Switched out Quaxwell for Gligar
+Player A: Tinkatuff used Knock Off on Gligar for 8 damage
+Turn 9:
+Player B: Gligar used Stealth Rock on self
+Player A: Tinkatuff used Stealth Rock on self
+Turn 10:
+Player B: Gligar used Earthquake on Tinkatuff and crit for 56 damage (supereffective)
+Player A: Tinkatuff fainted
+Player A: Switched out Tinkatuff for Quaxwell
+Turn 11:
+Player B: Gligar used Knock Off on Quaxwell for 31 damage
+Player A: Quaxwell used Triple Axel on Gligar for 32 damage (supereffective)
+Player B: Gligar fainted
+Player B: Switched out Gligar for Servine
+Turn 12:
+Player A: Switched out Quaxwell for Combusken
+Player B: Servine used Leaf Storm on Combusken for 43 damage
+Turn 13:
+Player A: Combusken used Protect on self
+Player B: Servine used Glare on self
+Turn 14:
+Player A: Combusken used Fire Punch on Servine for 68 damage (supereffective)
+Player B: Servine used Glare
+Turn 15:
+Player A: Combusken used Protect on self
+Player B: Servine used Synthesis and healed for 50
+Turn 16:
+Player B: Switched out Servine for Quaxwell
+Player A: Combusken can't move because it is paralyzed
+Turn 17:
+Player A: Combusken used Close Combat on Quaxwell for 45 damage
+Player B: Quaxwell used Rapid Spin on Combusken and crit for 46 damage
+Turn 18:
+Player A: Combusken used Close Combat on Quaxwell for 14 damage
+Player B: Quaxwell fainted
+Player B: Switched out Quaxwell for Duosion
+Turn 19:
+Player A: Combusken used Fire Punch on Duosion for 24 damage
+Player B: Duosion used Acid Armor on self
+Turn 20:
+Player A: Combusken used Fire Punch on Duosion for 13 damage
+Player B: Duosion used Calm Mind on self
+Turn 21:
+Player A: Switched out Combusken for Frogadier
+Player B: Duosion used Calm Mind on self
+Turn 22:
+Player A: Frogadier used U-turn on Duosion for 13 damage (supereffective)
+Player A: Switched out Frogadier for Gligar
+Player B: Duosion used Stored Power on Gligar for 100 damage
+Player A: Frogadier fainted
+Player A: Switched out Frogadier for Pikachu
+Turn 23:
+Player A: Pikachu used Thunderbolt on Duosion for 28 damage
+Player B: Duosion used Stored Power on Pikachu for 100 damage
+Player A: Pikachu fainted
+Player A: Switched out Pikachu for Frogadier
+Turn 24:
+Player A: Frogadier used Hydro Pump on Duosion for 22 damage
+Player B: Duosion fainted
+Player B: Switched out Duosion for Krokorok
+Turn 25:
+Player B: Krokorok used Earthquake on Frogadier for 56 damage
+Player A: Frogadier fainted
+Player A: Switched out Frogadier for Quaxwell
+Turn 26:
+Player B: Krokorok used Earthquake on Quaxwell for 49 damage
+Player A: Quaxwell fainted
+Player A: Switched out Quaxwell for Combusken
+Player A: Quaxwell fainted

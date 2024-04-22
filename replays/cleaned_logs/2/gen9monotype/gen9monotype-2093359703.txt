@@ -1,0 +1,74 @@
+Battle start:
+Player A sent out Gliscor
+Player B sent out Terrakion
+Turn 1:
+Player A: Gliscor used Protect on self
+Player B: Terrakion used Taunt on self
+Turn 2:
+Player B: Switched out Terrakion for Gallade
+Player A: Gliscor used Earthquake on Gallade for 56 damage
+Turn 3:
+Player B: Gallade used Psycho Cut on Gliscor for 51 damage
+Player A: Gliscor used Earthquake on Gallade for 35 damage
+Player B: Gallade fainted
+Player B: Switched out Gallade for Quaquaval
+Turn 4:
+Player A: Switched out Gliscor for Enamorus
+Player B: Quaquaval used Aqua Step on Enamorus for 77 damage
+Turn 5:
+Player B: Quaquaval used Aqua Jet on Enamorus for 23 damage
+Player A: Enamorus fainted
+Player A: Switched out Enamorus for Zapdos
+Turn 6:
+Player B: Switched out Quaquaval for Iron Hands
+Player A: Zapdos used Discharge on Iron Hands for 6 damage
+Turn 7:
+Player B: Iron Hands used Ice Punch
+Turn 8:
+Player A: Switched out Zapdos for Articuno
+Player B: Iron Hands used Ice Punch on Articuno for 21 damage
+Turn 9:
+Player B: Iron Hands used Thunder Punch
+Turn 10:
+Player A: Articuno used Roost and healed for 45
+Player B: Iron Hands used Thunder Punch on Articuno for 33 damage
+Turn 11:
+Player A: Switched out Articuno for Gliscor
+Player B: Switched out Iron Hands for Terrakion
+Turn 12:
+Player B: Switched out Terrakion for Quaquaval
+Player A: Gliscor used Toxic
+Turn 13:
+Player A: Gliscor used Protect on self
+Player B: Quaquaval used Aqua Step on self
+Turn 14:
+Player A: Switched out Gliscor for Articuno
+Player B: Quaquaval used Aqua Step on Articuno for 45 damage
+Turn 15:
+Player B: Quaquaval used Aqua Step on Articuno for 22 damage
+Player A: Articuno fainted
+Player B: Quaquaval fainted
+Player B: Switched out Quaquaval for Iron Hands
+Player A: Switched out Articuno for Dragonite
+Turn 16:
+Player A: Dragonite used Dragon Dance on self
+Player B: Iron Hands used Ice Punch on Dragonite for 47 damage (supereffective)
+Turn 17:
+Player A: Dragonite used Earthquake on Iron Hands for 65 damage (supereffective)
+Player B: Iron Hands used Ice Punch on Dragonite for 53 damage (supereffective)
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Gliscor
+Turn 18:
+Player A: Gliscor used Earthquake on Iron Hands for 29 damage (supereffective)
+Player B: Iron Hands fainted
+Player B: Switched out Iron Hands for Zamazenta
+Turn 19:
+Player A: Gliscor used Protect on self
+Player B: Zamazenta used Close Combat on self
+Turn 20:
+Player B: Zamazenta used Close Combat on Gliscor and crit for 6 damage
+Player A: Gliscor used Toxic
+Turn 21:
+Player A: Gliscor used Protect on self
+Player B: Zamazenta used Close Combat on self
+Turn 22:

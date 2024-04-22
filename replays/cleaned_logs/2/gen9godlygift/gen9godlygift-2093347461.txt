@@ -1,0 +1,84 @@
+Battle start:
+Player A sent out Slowking-Galar
+Player B sent out Clefable
+Turn 1:
+Player B: Clefable used Stealth Rock on self
+Player A: Slowking-Galar used Future Sight on self
+Turn 2:
+Player B: Clefable used Knock Off on Slowking-Galar for 33 damage (supereffective)
+Player A: Slowking-Galar used Sludge Bomb on Clefable for 59 damage (supereffective)
+Turn 3:
+Player B: Switched out Clefable for Alomomola
+Player A: Slowking-Galar used Chilly Reception on self
+Player A: Switched out Slowking-Galar for Sinistcha
+Turn 4:
+Player B: Switched out Alomomola for Clodsire
+Player A: Sinistcha used Calm Mind on self
+Turn 5:
+Player A: Switched out Sinistcha for Slowking-Galar
+Player B: Clodsire used Poison Jab on Slowking-Galar for -10 damage
+Turn 6:
+Player B: Switched out Clodsire for Skarmory
+Player A: Slowking-Galar used Chilly Reception on self
+Player A: Switched out Slowking-Galar for Landorus-Therian
+Turn 7:
+Player A: Landorus-Therian used Taunt on self
+Player B: Skarmory can't move because move: Taunt
+Turn 8:
+Player B: Switched out Skarmory for Clefable
+Player A: Landorus-Therian used Stealth Rock on self
+Turn 9:
+Player A: Landorus-Therian used Earthquake on Clefable for 30 damage
+Player B: Clefable used Knock Off on Landorus-Therian for 10 damage
+Turn 10:
+Player B: Switched out Clefable for Giratina
+Player A: Landorus-Therian used Earthquake on Giratina for 24 damage
+Turn 11:
+Player A: Landorus-Therian used Taunt on self
+Player B: Giratina can't move because move: Taunt
+Turn 12:
+Player B: Switched out Giratina for Alomomola
+Player A: Landorus-Therian used U-turn on Alomomola for 21 damage
+Player A: Switched out Landorus-Therian for Serperior
+Turn 13:
+Player B: Switched out Alomomola for Skeledirge
+Player A: Serperior used Leaf Storm on Skeledirge for 18 damage
+Turn 14:
+Player A: Switched out Serperior for Dragapult
+Player B: Skeledirge used Torch Song on Dragapult for 33 damage
+Turn 15:
+Player B: Switched out Skeledirge for Alomomola
+Player A: Dragapult used Dragon Darts on Alomomola for 31 damage
+Turn 16:
+Player B: Switched out Alomomola for Clodsire
+Player A: Dragapult used Psychic Fangs on Clodsire for 46 damage (supereffective)
+Turn 17:
+Player A: Dragapult used Dragon Darts on Clodsire for 19 damage
+Player B: Clodsire used Recover and healed for 50
+Turn 18:
+Player A: Dragapult used Psychic Fangs on Clodsire for 47 damage (supereffective)
+Player B: Clodsire used Recover and healed for 50
+Turn 19:
+Player A: Dragapult used U-turn on Clodsire for 9 damage
+Player A: Switched out Dragapult for Landorus-Therian
+Player B: Clodsire used Recover and healed for 40
+Turn 20:
+Player B: Switched out Clodsire for Alomomola
+Player A: Landorus-Therian used U-turn on Alomomola for -13 damage
+Player A: Switched out Landorus-Therian for Dragapult
+Turn 21:
+Player B: Switched out Alomomola for Clefable
+Player A: Dragapult used Dragon Darts but it had no effect on Clefable
+Turn 22:
+Player A: Dragapult used Psychic Fangs on Clefable for 11 damage
+Player B: Clefable fainted
+Player A: Dragapult fainted
+Player A: Switched out Dragapult for Calyrex-Ice
+Player B: Switched out Clefable for Skeledirge
+Turn 23:
+Player B: Skeledirge used Will-O-Wisp
+Player A: Calyrex-Ice used Trick Room on self
+Turn 24:
+Player B: Switched out Skeledirge for Skarmory
+Player A: Calyrex-Ice used High Horsepower but it had no effect on Skarmory
+Turn 25:

@@ -1,0 +1,91 @@
+Battle start:
+Player A sent out Toxapex
+Player B sent out Heatran
+Turn 1:
+Player B: Heatran used Stealth Rock on self
+Player A: Toxapex used Flip Turn on Heatran for 23 damage (supereffective)
+Player A: Switched out Toxapex for Tyranitar
+Turn 2:
+Player B: Heatran used Burning Bulwark on self
+Turn 3:
+Player B: Switched out Heatran for Excadrill
+Player A: Tyranitar used Stone Axe on Excadrill for 5 damage
+Turn 4:
+Player A: Switched out Tyranitar for Rotom-Wash
+Player B: Excadrill used Spikes on self
+Turn 5:
+Player B: Switched out Excadrill for Hydrapple
+Player A: Rotom-Wash used Freeze-Dry on Hydrapple for 44 damage (supereffective)
+Turn 6:
+Player A: Rotom-Wash used Volt Switch on Hydrapple for 3 damage
+Player A: Switched out Rotom-Wash for Toxapex
+Player B: Hydrapple used Dragon Tail on Toxapex for 34 damage
+Turn 7:
+Player A: Switched out Toxapex for Toxapex
+Player B: Hydrapple used Fickle Beam on Toxapex and crit for 40 damage
+Turn 8:
+Player B: Switched out Hydrapple for Heatran
+Player A: Switched out Toxapex for Tyranitar
+Turn 9:
+Player B: Switched out Heatran for Landorus-Therian
+Player A: Tyranitar used Shore Up and healed for 0
+Turn 10:
+Player A: Switched out Tyranitar for Rotom-Wash
+Player B: Landorus-Therian used U-turn on Rotom-Wash for 48 damage
+Player B: Switched out Landorus-Therian for Hydrapple
+Turn 11:
+Player A: Rotom-Wash used Volt Switch on Hydrapple for -3 damage
+Player A: Switched out Rotom-Wash for Tyranitar
+Player B: Hydrapple used Fickle Beam on Tyranitar for 45 damage
+Turn 12:
+Player B: Switched out Hydrapple for Heatran
+Player A: Tyranitar used Knock Off on Heatran for 25 damage
+Turn 13:
+Player B: Heatran used Doom Desire on self
+Player A: Tyranitar used Shore Up and healed for 38
+Turn 14:
+Player A: Switched out Tyranitar for Hydrapple
+Player B: Heatran used Torch Song on Hydrapple for 35 damage
+Turn 15:
+Player A: Switched out Hydrapple for Tyranitar
+Player A: Hydrapple fainted
+Player A: Switched out Hydrapple for Hydrapple
+Turn 16:
+Player B: Heatran used Torch Song on Hydrapple for 18 damage
+Player A: Hydrapple used Earth Power on Heatran for 52 damage (supereffective)
+Player B: Heatran fainted
+Player B: Switched out Heatran for Excadrill
+Turn 17:
+Player B: Excadrill used Sunsteel Strike on Hydrapple for 47 damage
+Player A: Hydrapple fainted
+Player A: Switched out Hydrapple for Rotom-Wash
+Turn 18:
+Player B: Switched out Excadrill for Hydrapple
+Player A: Rotom-Wash used Strength Sap and healed for 39
+Turn 19:
+Player A: Rotom-Wash used Volt Switch on Hydrapple for 2 damage
+Player A: Switched out Rotom-Wash for Landorus-Therian
+Player B: Hydrapple used Matcha Gotcha on Landorus-Therian for 45 damage
+Player B: Hydrapple used Matcha Gotcha and healed for 15
+Turn 20:
+Player B: Switched out Hydrapple for Rotom-Wash
+Player A: Landorus-Therian used Shore Up and healed for 44
+Turn 21:
+Player A: Switched out Landorus-Therian for Toxapex
+Player B: Rotom-Wash used Nasty Plot on self
+Turn 22:
+Player B: Rotom-Wash used Electro Drift on Toxapex for 26 damage (supereffective)
+Player A: Toxapex fainted
+Player A: Switched out Toxapex for Iron Valiant
+Turn 23:
+Player B: Rotom-Wash used Water Shuriken on Iron Valiant for 4 damage
+Player A: Iron Valiant fainted
+Player A: Switched out Iron Valiant for Rotom-Wash
+Turn 24:
+Player A: Rotom-Wash used Freeze-Dry on Rotom-Wash for 49 damage (supereffective)
+Player B: Rotom-Wash used Electro Drift on Rotom-Wash for 91 damage
+Player A: Rotom-Wash fainted
+Player A: Switched out Rotom-Wash for Landorus-Therian
+Turn 25:
+Player B: Rotom-Wash used Water Shuriken on Landorus-Therian and crit for 49 damage (supereffective)
+Player A: Landorus-Therian fainted

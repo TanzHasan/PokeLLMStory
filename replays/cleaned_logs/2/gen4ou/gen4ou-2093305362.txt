@@ -1,0 +1,87 @@
+Battle start:
+Player A sent out Uxie
+Player B sent out Nidoqueen
+Turn 1:
+Player A: Uxie used Stealth Rock on self
+Player B: Nidoqueen used Toxic Spikes on self
+Turn 2:
+Player B: Switched out Nidoqueen for Magnezone
+Player A: Uxie used Psychic on Magnezone for 23 damage
+Turn 3:
+Player B: Magnezone used Magnet Rise on self
+Player A: Uxie used Yawn on self
+Turn 4:
+Player B: Switched out Magnezone for Latias
+Player A: Uxie used Psychic on Latias and crit for 35 damage
+Turn 5:
+Player B: Latias used Draco Meteor on Uxie for 71 damage
+Player A: Uxie used U-turn on Latias for 33 damage (supereffective)
+Player A: Switched out Uxie for Scizor
+Turn 6:
+Player A: Scizor used Pursuit on Latias for 32 damage (supereffective)
+Player B: Latias fainted
+Player B: Switched out Latias for Gastrodon-East
+Turn 7:
+Player A: Switched out Scizor for Suicune
+Player B: Gastrodon-East used Curse on self
+Turn 8:
+Player A: Suicune used Calm Mind on self
+Player B: Gastrodon-East used Earthquake on Suicune for 54 damage
+Turn 9:
+Player A: Suicune used Ice Beam on Gastrodon-East for 33 damage
+Player B: Gastrodon-East used Earthquake on Suicune for 24 damage
+Player A: Suicune fainted
+Player A: Switched out Suicune for Lucario
+Turn 10:
+Player A: Lucario used Swords Dance on self
+Player B: Gastrodon-East used Earthquake on Lucario for 100 damage (supereffective)
+Player A: Lucario fainted
+Player A: Switched out Lucario for Dragonite
+Turn 11:
+Player A: Dragonite used Draco Meteor on Gastrodon-East for 42 damage
+Player B: Gastrodon-East used Waterfall on Dragonite for 20 damage
+Turn 12:
+Player B: Switched out Gastrodon-East for Jirachi
+Player A: Dragonite used Draco Meteor on Jirachi for 23 damage
+Turn 13:
+Player B: Jirachi used Psychic on Dragonite for 45 damage
+Player A: Dragonite used Earthquake on Jirachi for 37 damage (supereffective)
+Turn 14:
+Player B: Jirachi used Thunderbolt on Dragonite for 6 damage
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Flygon
+Turn 15:
+Player A: Flygon used Earthquake on Jirachi for 40 damage (supereffective)
+Player B: Jirachi fainted
+Player B: Switched out Jirachi for Clefable
+Turn 16:
+Player A: Switched out Flygon for Uxie
+Player B: Clefable used Ice Beam on Uxie for 13 damage
+Turn 17:
+Player A: Uxie used Yawn on self
+Player B: Clefable used Knock Off on Uxie for -2 damage (supereffective)
+Turn 18:
+Player B: Switched out Clefable for Magnezone
+Player A: Uxie used U-turn on Magnezone for 13 damage
+Player A: Switched out Uxie for Flygon
+Turn 19:
+Player B: Switched out Magnezone for Gastrodon-East
+Player A: Flygon used Earthquake on Gastrodon-East for 25 damage
+Player B: Magnezone fainted
+Player B: Switched out Magnezone for Nidoqueen
+Turn 20:
+Player A: Flygon used Earthquake on Nidoqueen for 70 damage (supereffective)
+Player B: Nidoqueen used Ice Beam on Flygon and crit for 100 damage (supereffective)
+Player A: Flygon fainted
+Player A: Switched out Flygon for Uxie
+Turn 21:
+Player A: Uxie used Psychic on Nidoqueen for 30 damage (supereffective)
+Player B: Nidoqueen fainted
+Player B: Switched out Nidoqueen for Magnezone
+Turn 22:
+Player B: Magnezone used Thunderbolt on Uxie for 18 damage
+Player A: Uxie fainted
+Player A: Switched out Uxie for Scizor
+Turn 23:
+Player B: Magnezone used Hidden Power on Scizor for 100 damage (supereffective)
+Player A: Scizor fainted

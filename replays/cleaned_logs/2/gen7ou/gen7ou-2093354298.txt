@@ -1,0 +1,96 @@
+Battle start:
+Player A sent out Charizard
+Player B sent out Sandslash
+Turn 1:
+Player A: Charizard used Solar Beam on Sandslash for 100 damage (supereffective)
+Player B: Sandslash fainted
+Player B: Switched out Sandslash for Lycanroc-Dusk
+Turn 2:
+Player A: Switched out Charizard for Gliscor
+Player B: Lycanroc-Dusk used Stone Edge on Gliscor for 43 damage
+Turn 3:
+Player B: Switched out Lycanroc-Dusk for Swanna
+Player A: Gliscor used Toxic
+Turn 4:
+Player A: Switched out Gliscor for Tapu Fini
+Player B: Swanna used Ice Beam on Tapu Fini for 6 damage
+Turn 5:
+Player A: Switched out Tapu Fini for Charizard-Mega-Y
+Player B: Swanna used Tailwind on self
+Turn 6:
+Player B: Swanna used Surf on Charizard for 72 damage (supereffective)
+Player A: Charizard used Ancient Power on Swanna for 100 damage (supereffective)
+Player B: Swanna fainted
+Player B: Switched out Swanna for Serperior
+Turn 7:
+Player B: Serperior used Dragon Pulse on Charizard for 15 damage
+Player A: Charizard used Fire Blast on Serperior for 100 damage (supereffective)
+Player B: Serperior fainted
+Player B: Switched out Serperior for Lycanroc-Dusk
+Turn 8:
+Player B: Lycanroc-Dusk used Outrage on Charizard for 13 damage
+Player A: Charizard fainted
+Player A: Switched out Charizard for Tapu Fini
+Turn 9:
+Player B: Lycanroc-Dusk used Outrage but it had no effect on Tapu Fini
+Player A: Tapu Fini used Surf on Lycanroc-Dusk for 92 damage (supereffective)
+Turn 10:
+Player B: Lycanroc-Dusk used Outrage but it had no effect on Tapu Fini
+Player A: Tapu Fini used Surf on Lycanroc-Dusk for 8 damage (supereffective)
+Player B: Lycanroc-Dusk fainted
+Player B: Switched out Lycanroc-Dusk for Scizor
+Turn 11:
+Player A: Tapu Fini used Surf on Scizor for 30 damage
+Player B: Scizor used Swords Dance on self
+Turn 12:
+Player A: Tapu Fini used Surf on Scizor for 31 damage
+Player B: Scizor used Roost and healed for 50
+Turn 13:
+Player A: Switched out Tapu Fini for Rotom-Wash
+Player B: Scizor used Bullet Punch on Rotom-Wash for 13 damage
+Turn 14:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 41 damage
+Player B: Scizor used Knock Off on Rotom-Wash for 60 damage
+Turn 15:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 36 damage
+Player B: Scizor used Roost and healed for 50
+Turn 16:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 38 damage
+Player B: Scizor used Roost and healed for 50
+Turn 17:
+Player A: Rotom-Wash used Defog on self
+Player B: Scizor used Roost and healed for 26
+Turn 18:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 42 damage
+Player B: Scizor used Swords Dance on self
+Turn 19:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 38 damage
+Player B: Scizor used Roost and healed for 50
+Turn 20:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 37 damage
+Player B: Scizor used Roost and healed for 50
+Turn 21:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 36 damage
+Player B: Scizor used Roost and healed for 50
+Turn 22:
+Player A: Rotom-Wash used Hydro Pump on Scizor for 39 damage
+Player B: Scizor used Swords Dance on self
+Turn 23:
+Player A: Rotom-Wash used Volt Switch on Scizor for 23 damage
+Player A: Switched out Rotom-Wash for Darmanitan
+Player B: Scizor used Roost and healed for 50
+Turn 24:
+Player B: Scizor used Bullet Punch on Darmanitan for 100 damage
+Player A: Darmanitan fainted
+Player A: Switched out Darmanitan for Tapu Fini
+Turn 25:
+Player B: Scizor used Bullet Punch on Tapu Fini for 94 damage
+Player A: Tapu Fini fainted
+Player A: Switched out Tapu Fini for Rotom-Wash
+Turn 26:
+Player A: Rotom-Wash used Volt Switch on Scizor for 26 damage
+Player A: Switched out Rotom-Wash for Ferrothorn
+Player B: Scizor used Roost and healed for 41
+Turn 27:
+Player B: Scizor used Knock Off on Ferrothorn for 100 damage
+Player A: Ferrothorn fainted

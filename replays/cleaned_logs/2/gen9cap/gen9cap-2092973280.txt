@@ -1,0 +1,99 @@
+Battle start:
+Player A sent out Kyurem
+Player B sent out Equilibra
+Turn 1:
+Player A: Kyurem used Ice Beam on Equilibra for 23 damage
+Player B: Equilibra used Flash Cannon on Kyurem for 69 damage (supereffective)
+Turn 2:
+Player A: Switched out Kyurem for Meowscarada
+Player B: Equilibra used Rapid Spin on Meowscarada for 8 damage
+Turn 3:
+Player B: Switched out Equilibra for Pelipper
+Player A: Meowscarada used Knock Off on Pelipper for 48 damage
+Turn 4:
+Player A: Switched out Meowscarada for Tornadus-Therian
+Player B: Pelipper used U-turn on Tornadus-Therian for 4 damage
+Player B: Switched out Pelipper for Raging Bolt
+Turn 5:
+Player A: Tornadus-Therian used U-turn on Raging Bolt for 12 damage
+Player A: Switched out Tornadus-Therian for Great Tusk
+Player B: Raging Bolt used Weather Ball on Great Tusk for 100 damage (supereffective)
+Player A: Tornadus-Therian fainted
+Player A: Switched out Tornadus-Therian for Meowscarada
+Turn 6:
+Player B: Switched out Raging Bolt for Kingambit
+Player A: Meowscarada used Triple Axel on Kingambit for 18 damage
+Turn 7:
+Player A: Switched out Meowscarada for Heatran
+Player B: Kingambit used Kowtow Cleave on Heatran for 55 damage
+Turn 8:
+Player B: Switched out Kingambit for Pelipper
+Player A: Heatran used Stealth Rock on self
+Turn 9:
+Player A: Switched out Heatran for Tornadus-Therian
+Player B: Pelipper used Surf on Tornadus-Therian for 25 damage
+Turn 10:
+Player B: Switched out Pelipper for Equilibra
+Player A: Tornadus-Therian used Bleakwind Storm on Equilibra for 2 damage
+Turn 11:
+Player A: Tornadus-Therian used Heat Wave on Equilibra for 17 damage (supereffective)
+Player B: Equilibra used Rapid Spin on Tornadus-Therian for 4 damage
+Turn 12:
+Player A: Tornadus-Therian used Knock Off on Equilibra for 18 damage
+Player B: Equilibra used Doom Desire on self
+Turn 13:
+Player B: Switched out Equilibra for Raging Bolt
+Player A: Tornadus-Therian used U-turn on Raging Bolt and crit for 11 damage
+Player A: Switched out Tornadus-Therian for Heatran
+Turn 14:
+Player B: Switched out Raging Bolt for Pelipper
+Player A: Heatran used Earth Power but it had no effect on Pelipper
+Turn 15:
+Player A: Switched out Heatran for Tornadus-Therian
+Player B: Pelipper used U-turn on Tornadus-Therian for -28 damage
+Player B: Switched out Pelipper for Raging Bolt
+Turn 16:
+Player A: Switched out Tornadus-Therian for Kyurem
+Player B: Raging Bolt used Thunder on Kyurem for 28 damage
+Turn 17:
+Player B: Raging Bolt used Thunderclap on Kyurem for 3 damage
+Player A: Kyurem fainted
+Player A: Switched out Kyurem for Heatran
+Turn 18:
+Player A: Heatran used Stealth Rock on self
+Player B: Raging Bolt used Thunder on Heatran for 45 damage
+Player A: Heatran fainted
+Player A: Switched out Heatran for Hemogoblin
+Turn 19:
+Player B: Switched out Raging Bolt for Mollux
+Player A: Switched out Hemogoblin for Tornadus-Therian
+Turn 20:
+Player A: Tornadus-Therian used Knock Off on Mollux for 14 damage
+Player B: Mollux used Stealth Rock on self
+Turn 21:
+Player A: Tornadus-Therian used Bleakwind Storm on Mollux for 32 damage
+Player B: Mollux used Lava Plume on Tornadus-Therian for 19 damage
+Turn 22:
+Player A: Tornadus-Therian used Bleakwind Storm on Mollux for 34 damage
+Player B: Mollux used Recover and healed for 50
+Turn 23:
+Player A: Tornadus-Therian used U-turn on Mollux for 1 damage
+Player A: Switched out Tornadus-Therian for Meowscarada
+Player B: Mollux used Recover and healed for 31
+Turn 24:
+Player B: Switched out Mollux for Pelipper
+Player A: Meowscarada used Knock Off on Pelipper for 52 damage
+Player B: Mollux fainted
+Player B: Switched out Mollux for Barraskewda
+Turn 25:
+Player A: Switched out Meowscarada for Tornadus-Therian
+Player B: Barraskewda used Liquidation on Tornadus-Therian for 76 damage
+Player A: Meowscarada fainted
+Player A: Switched out Meowscarada for Hemogoblin
+Turn 26:
+Player B: Barraskewda used Liquidation on Hemogoblin for 100 damage (supereffective)
+Player A: Hemogoblin fainted
+Player A: Switched out Hemogoblin for Meowscarada
+Turn 27:
+Player B: Barraskewda used Liquidation on Meowscarada for 92 damage
+Player A: Meowscarada fainted

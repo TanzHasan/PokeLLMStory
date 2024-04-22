@@ -1,0 +1,60 @@
+Battle start:
+Player A sent out Excadrill
+Player B sent out Dudunsparce-Three-Segment
+Turn 1:
+Player A: Excadrill used Swords Dance on self
+Player B: Dudunsparce-Three-Segment used Lunge on Excadrill for 18 damage
+Turn 2:
+Player B: Switched out Dudunsparce-Three-Segment for Landorus-Therian
+Player A: Excadrill used Swords Dance on self
+Turn 3:
+Player B: Landorus-Therian used Earthquake on Excadrill for 82 damage (supereffective)
+Player A: Excadrill fainted
+Player A: Switched out Excadrill for Blastoise
+Turn 4:
+Player B: Landorus-Therian used Earthquake on Blastoise for 69 damage
+Player A: Blastoise used Shell Smash on self
+Turn 5:
+Player B: Landorus-Therian used Earthquake on Blastoise for 31 damage
+Player A: Blastoise fainted
+Player A: Switched out Blastoise for Chesnaught
+Turn 6:
+Player B: Landorus-Therian used Earthquake on Chesnaught for 32 damage
+Player A: Chesnaught used Bulk Up on self
+Turn 7:
+Player B: Switched out Landorus-Therian for Metagross
+Player A: Chesnaught used Bulk Up on self
+Turn 8:
+Player B: Metagross used Psychic Fangs on Chesnaught for 33 damage (supereffective)
+Player A: Chesnaught used Drain Punch on Metagross for 46 damage
+Player A: Chesnaught used Drain Punch and healed for 23
+Turn 9:
+Player B: Metagross used Psychic Fangs on Chesnaught for 40 damage (supereffective)
+Player A: Chesnaught used Earthquake on Metagross for 54 damage (supereffective)
+Player B: Metagross fainted
+Player B: Switched out Metagross for Great Tusk
+Turn 10:
+Player B: Great Tusk used Close Combat on Chesnaught and crit for 18 damage
+Player A: Chesnaught fainted
+Player A: Switched out Chesnaught for Iron Jugulis
+Turn 11:
+Player B: Switched out Great Tusk for Garganacl
+Player A: Iron Jugulis used Air Slash on Garganacl for 17 damage
+Turn 12:
+Player A: Iron Jugulis used Earth Power on Garganacl for 77 damage (supereffective)
+Player B: Garganacl used Salt Cure on Iron Jugulis for 31 damage (supereffective)
+Turn 13:
+Player B: Switched out Garganacl for Landorus-Therian
+Player A: Iron Jugulis used Dark Pulse on Landorus-Therian for 77 damage
+Turn 14:
+Player B: Landorus-Therian used Brick Break on Iron Jugulis for 69 damage
+Player A: Iron Jugulis fainted
+Player A: Switched out Iron Jugulis for Porygon-Z
+Turn 15:
+Player B: Landorus-Therian used Brick Break on Porygon-Z for 100 damage (supereffective)
+Player A: Porygon-Z fainted
+Player A: Switched out Porygon-Z for Infernape
+Turn 16:
+Player B: Landorus-Therian used Brick Break on Infernape for 60 damage
+Player A: Infernape used Rock Slide on Landorus-Therian for 23 damage
+Player B: Landorus-Therian fainted

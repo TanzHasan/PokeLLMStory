@@ -1,0 +1,49 @@
+Battle start:
+Player A sent out Garchomp
+Player B sent out Rotom-Wash
+Turn 1:
+Player B: Rotom-Wash used Trick on self
+Player A: Garchomp used Stealth Rock on self
+Turn 2:
+Player A: Switched out Garchomp for Jirachi
+Player B: Switched out Rotom-Wash for Politoed
+Turn 3:
+Player A: Jirachi used Trick on self
+Player B: Politoed used Scald on Jirachi for 44 damage
+Turn 4:
+Player A: Jirachi used Iron Head on Politoed for 31 damage
+Player B: Politoed used Scald on Jirachi for 47 damage
+Player A: Jirachi fainted
+Player A: Switched out Jirachi for Cloyster
+Turn 5:
+Player A: Cloyster used Shell Smash on self
+Player B: Politoed used Scald on Cloyster for 100 damage
+Player A: Cloyster fainted
+Player A: Switched out Cloyster for Starmie
+Turn 6:
+Player B: Switched out Politoed for Ferrothorn
+Player A: Starmie used Thunderbolt on Ferrothorn and crit for 32 damage
+Turn 7:
+Player A: Switched out Starmie for Magnezone
+Player B: Switched out Ferrothorn for Latios
+Turn 8:
+Player B: Latios used Surf on Magnezone for 60 damage
+Player A: Magnezone used Sunny Day on self
+Turn 9:
+Player A: Switched out Magnezone for Garchomp
+Player B: Latios used Surf on Garchomp for 18 damage
+Turn 10:
+Player B: Switched out Latios for Scizor
+Player A: Garchomp used Swords Dance on self
+Turn 11:
+Player A: Switched out Garchomp for Magnezone
+Player B: Scizor used U-turn on Magnezone for 31 damage
+Player B: Switched out Scizor for Latios
+Turn 12:
+Player B: Latios used Psyshock on Magnezone for 9 damage
+Player A: Magnezone fainted
+Player A: Switched out Magnezone for Garchomp
+Turn 13:
+Player B: Switched out Latios for Ferrothorn
+Player A: Garchomp used Outrage on Ferrothorn for 23 damage
+Turn 14:

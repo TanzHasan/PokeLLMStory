@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Eelektross
+Player B sent out Rampardos
+Turn 1:
+Player B: Rampardos used Head Smash on Eelektross for 100 damage
+Player A: Eelektross fainted
+Player A: Switched out Eelektross for Mabosstiff
+Turn 2:
+Player A: Mabosstiff used Crunch on Rampardos for 100 damage
+Player B: Rampardos fainted
+Player B: Switched out Rampardos for Hitmonchan
+Turn 3:
+Player A: Switched out Mabosstiff for Weezing
+Player B: Hitmonchan used Rapid Spin on Weezing for 9 damage
+Turn 4:
+Player B: Switched out Hitmonchan for Porygon2
+Player A: Weezing used Will-O-Wisp
+Turn 5:
+Player A: Switched out Weezing for Hitmonchan
+Player B: Porygon2 used Ice Beam on Hitmonchan and crit for 34 damage
+Turn 6:
+Player A: Hitmonchan used Knock Off on Porygon2 for 27 damage
+Player B: Porygon2 used Discharge on Hitmonchan for 22 damage
+Turn 7:
+Player A: Hitmonchan used Drain Punch on Porygon2 for 73 damage (supereffective)
+Player A: Hitmonchan used Drain Punch and healed for 41
+Player B: Porygon2 fainted
+Player B: Switched out Porygon2 for Qwilfish-Hisui
+Turn 8:
+Player A: Switched out Hitmonchan for Weezing
+Player B: Qwilfish-Hisui used Liquidation on Weezing for 27 damage
+Turn 9:
+Player B: Switched out Qwilfish-Hisui for Mismagius
+Player A: Weezing used Will-O-Wisp
+Turn 10:
+Player A: Switched out Weezing for Mabosstiff
+Player B: Mismagius used Calm Mind on self
+Turn 11:
+Player B: Switched out Mismagius for Qwilfish-Hisui
+Player A: Mabosstiff used Crunch on Qwilfish-Hisui and crit for 100 damage
+Player B: Mismagius fainted

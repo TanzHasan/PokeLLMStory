@@ -1,0 +1,79 @@
+Battle start:
+Player A sent out Zapdos
+Player B sent out Marowak
+Turn 1:
+Player A: Switched out Zapdos for Exeggutor
+Player B: Switched out Marowak for Blissey
+Turn 2:
+Player A: Switched out Exeggutor for Forretress
+Player B: Blissey used Seismic Toss on Forretress for 28 damage
+Turn 3:
+Player B: Switched out Blissey for Scizor
+Player A: Forretress used Spikes on self
+Turn 4:
+Player A: Switched out Forretress for Zapdos
+Player B: Scizor used Agility on self
+Turn 5:
+Player B: Scizor used Baton Pass on self
+Player B: Switched out Scizor for Marowak
+Player A: Zapdos used Thunder but it had no effect on Marowak
+Turn 6:
+Player B: Marowak used Rock Slide on Zapdos and crit for 100 damage (supereffective)
+Player A: Zapdos fainted
+Player A: Switched out Zapdos for Forretress
+Turn 7:
+Player B: Marowak used Fire Blast on Forretress for 72 damage (supereffective)
+Player A: Forretress fainted
+Player A: Switched out Forretress for Exeggutor
+Turn 8:
+Player B: Marowak used Hidden Power on Exeggutor for 55 damage (supereffective)
+Player A: Exeggutor used Sleep Powder
+Turn 9:
+Player B: Switched out Marowak for Scizor
+Player A: Exeggutor used Giga Drain on Scizor and crit for 26 damage
+Player A: Exeggutor used Giga Drain and healed for 13
+Turn 10:
+Player A: Switched out Exeggutor for Golem
+Player B: Scizor used Thief on Golem and crit for 14 damage
+Turn 11:
+Player B: Scizor used Baton Pass on self
+Player B: Switched out Scizor for Cloyster
+Player A: Golem used Fire Blast on Cloyster for 50 damage
+Turn 12:
+Player B: Cloyster used Rapid Spin on Golem for 2 damage
+Player A: Golem used Rock Slide on Cloyster for 38 damage (supereffective)
+Turn 13:
+Player A: Switched out Golem for Tentacruel
+Player B: Cloyster used Spikes on self
+Turn 14:
+Player A: Tentacruel used Swords Dance on self
+Player B: Cloyster used Hidden Power on Tentacruel for 25 damage (supereffective)
+Turn 15:
+Player A: Tentacruel used Sludge Bomb on Cloyster for 12 damage
+Player B: Cloyster fainted
+Player B: Switched out Cloyster for Snorlax
+Turn 16:
+Player A: Tentacruel used Sludge Bomb on Snorlax for 39 damage
+Turn 17:
+Player A: Tentacruel used Sludge Bomb on Snorlax for 24 damage
+Player B: Snorlax used Earthquake on Tentacruel for 75 damage (supereffective)
+Player A: Tentacruel fainted
+Player A: Switched out Tentacruel for Exeggutor
+Turn 18:
+Player A: Exeggutor used Giga Drain on Snorlax for 10 damage
+Player A: Exeggutor used Giga Drain and healed for 11
+Player B: Snorlax used Shadow Ball on Exeggutor for 63 damage (supereffective)
+Turn 19:
+Player A: Exeggutor used Giga Drain on Snorlax for 3 damage
+Player A: Exeggutor used Giga Drain and healed for 12
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Skarmory
+Turn 20:
+Player B: Skarmory used Drill Peck on Exeggutor for 18 damage (supereffective)
+Player A: Exeggutor fainted
+Player A: Switched out Exeggutor for Golem
+Turn 21:
+Player B: Skarmory used Toxic
+Turn 22:
+Player B: Skarmory used Whirlwind on self
+Turn 23:

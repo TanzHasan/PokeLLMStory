@@ -1,0 +1,9 @@
+Battle start:
+Player A sent out Emboar
+Player B sent out Torterra
+Turn 1:
+Player B: Torterra used Shell Smash on self
+Player A: Emboar used Flare Blitz on Torterra for 50 damage
+Turn 2:
+Player B: Torterra used Earthquake on Emboar for 77 damage (supereffective)
+Player A: Emboar fainted

@@ -1,0 +1,48 @@
+Battle start:
+Player A sent out Indeedee
+Player B sent out Samurott-Hisui
+Turn 1:
+Player A: Indeedee used Dazzling Gleam on Samurott-Hisui for 99 damage (supereffective)
+Player B: Samurott-Hisui used Ceaseless Edge on Indeedee for 43 damage
+Turn 2:
+Player A: Indeedee used Dazzling Gleam on Samurott-Hisui for 1 damage (supereffective)
+Player B: Samurott-Hisui fainted
+Player B: Switched out Samurott-Hisui for Iron Moth
+Turn 3:
+Player A: Switched out Indeedee for Hatterene
+Player B: Iron Moth used Fiery Dance on Hatterene for 77 damage
+Player A: Switched out Indeedee for Deoxys-Speed
+Turn 4:
+Player B: Switched out Iron Moth for Miasmaw
+Player A: Deoxys-Speed used Expanding Force on Miasmaw and crit for 100 damage
+Player B: Iron Moth fainted
+Player B: Switched out Iron Moth for Ursaluna
+Turn 5:
+Player A: Switched out Deoxys-Speed for Hatterene
+Player B: Ursaluna used Crunch on Hatterene for 23 damage
+Player A: Deoxys-Speed fainted
+Player A: Switched out Deoxys-Speed for Miasmaw
+Turn 6:
+Player A: Miasmaw used Swords Dance on self
+Player B: Ursaluna used Facade on Miasmaw for 100 damage
+Player A: Miasmaw fainted
+Player A: Switched out Miasmaw for Hawlucha
+Turn 7:
+Player B: Switched out Ursaluna for Iron Valiant
+Player A: Hawlucha used Close Combat on Iron Valiant for 36 damage
+Turn 8:
+Player A: Hawlucha used Acrobatics on Iron Valiant for 33 damage
+Player B: Iron Valiant used Moonblast on Hawlucha for 100 damage (supereffective)
+Player A: Hawlucha fainted
+Player A: Switched out Hawlucha for Indeedee
+Turn 9:
+Player B: Iron Valiant used Moonblast on Indeedee for 57 damage
+Player A: Indeedee fainted
+Player A: Switched out Indeedee for Deoxys-Speed
+Turn 10:
+Player B: Iron Valiant used Moonblast on Deoxys-Speed for 100 damage
+Player A: Deoxys-Speed fainted
+Player A: Switched out Deoxys-Speed for Venomicon-Epilogue
+Turn 11:
+Player B: Iron Valiant used Thunderbolt on Venomicon-Epilogue for 100 damage (supereffective)
+Player A: Venomicon-Epilogue fainted

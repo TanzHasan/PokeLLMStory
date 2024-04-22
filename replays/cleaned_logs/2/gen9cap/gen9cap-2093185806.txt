@@ -1,0 +1,166 @@
+Battle start:
+Player A sent out Ogerpon
+Player B sent out Slowking
+Turn 1:
+Player B: Switched out Slowking for Venomicon
+Player A: Ogerpon used Ivy Cudgel on Venomicon for 8 damage
+Turn 2:
+Player A: Ogerpon used U-turn on Venomicon for 2 damage
+Player A: Switched out Ogerpon for Mollux
+Player B: Venomicon used Stealth Rock on self
+Turn 3:
+Player B: Switched out Venomicon for Pajantom
+Player A: Mollux used Lava Plume on Pajantom and crit for 22 damage
+Turn 4:
+Player A: Switched out Mollux for Gliscor
+Player B: Pajantom used Spirit Shackle on Gliscor for 39 damage
+Turn 5:
+Player A: Gliscor used Protect on self
+Player B: Pajantom used Taunt on self
+Turn 6:
+Player B: Pajantom used Taunt on self
+Player A: Gliscor used Knock Off on Pajantom for 40 damage (supereffective)
+Turn 7:
+Player B: Pajantom used Ice Punch on Gliscor for 44 damage (supereffective)
+Player A: Gliscor used Earthquake on Pajantom for 38 damage
+Player B: Pajantom fainted
+Player B: Switched out Pajantom for Meowscarada
+Turn 8:
+Player A: Switched out Gliscor for Skarmory
+Player B: Meowscarada used Flower Trick on Skarmory and crit for 19 damage
+Turn 9:
+Player B: Meowscarada used Knock Off on Skarmory for 19 damage
+Player A: Skarmory used Stealth Rock on self
+Turn 10:
+Player B: Meowscarada used U-turn on Skarmory for 3 damage
+Player B: Switched out Meowscarada for Slowking
+Player A: Skarmory used Body Press on Slowking for 12 damage
+Turn 11:
+Player A: Switched out Skarmory for Dragapult
+Player B: Slowking used Future Sight on self
+Turn 12:
+Player B: Switched out Slowking for Equilibra
+Player A: Dragapult used Thunder Wave but it had no effect on Equilibra
+Turn 13:
+Player A: Dragapult used U-turn on Equilibra and crit for 13 damage
+Player A: Switched out Dragapult for Skarmory
+Player B: Equilibra used Earth Power but it had no effect on Skarmory
+Turn 14:
+Player A: Skarmory used Body Press on Equilibra for 49 damage (supereffective)
+Player B: Equilibra used Doom Desire on self
+Turn 15:
+Player B: Switched out Equilibra for Venomicon
+Player A: Skarmory used Body Press on Venomicon for 5 damage
+Turn 16:
+Player A: Skarmory used Roost and healed for 10
+Player B: Venomicon used Body Press on Skarmory for 50 damage (supereffective)
+Player A: Skarmory fainted
+Player A: Switched out Skarmory for Gliscor
+Turn 17:
+Player B: Switched out Venomicon for Meowscarada
+Player A: Gliscor used Knock Off on Meowscarada for 15 damage
+Turn 18:
+Player A: Gliscor used Protect on self
+Player B: Meowscarada used Triple Axel on self
+Turn 19:
+Player A: Switched out Gliscor for Mollux
+Player B: Meowscarada used Flower Trick on Mollux and crit for 8 damage
+Turn 20:
+Player B: Meowscarada used U-turn on Mollux for 6 damage
+Player B: Switched out Meowscarada for Slowking
+Player A: Mollux used Lava Plume on Slowking for -2 damage
+Turn 21:
+Player A: Switched out Mollux for Ogerpon
+Player B: Slowking used Future Sight on self
+Turn 22:
+Player B: Switched out Slowking for Venomicon
+Player A: Ogerpon used Knock Off on Venomicon for 22 damage
+Turn 23:
+Player A: Ogerpon used U-turn on Venomicon for 3 damage
+Player A: Switched out Ogerpon for Gliscor
+Player B: Venomicon used Roost and healed for 40
+Player A: Ogerpon fainted
+Player A: Switched out Ogerpon for Ogerpon
+Turn 24:
+Player A: Ogerpon used Encore on self
+Turn 25:
+Player B: Switched out Venomicon for Hemogoblin
+Player A: Ogerpon used U-turn on Hemogoblin for 6 damage
+Player A: Switched out Ogerpon for Cresceidon
+Turn 26:
+Player B: Switched out Hemogoblin for Slowking
+Player A: Cresceidon used Scald on Slowking for -2 damage
+Turn 27:
+Player A: Switched out Cresceidon for Dragapult
+Player B: Slowking used Future Sight on self
+Turn 28:
+Player B: Switched out Slowking for Hemogoblin
+Player A: Dragapult used Hex on Hemogoblin for 24 damage
+Turn 29:
+Player B: Hemogoblin used Extreme Speed on Dragapult for 63 damage
+Player A: Dragapult used U-turn on Hemogoblin for 6 damage
+Player A: Switched out Dragapult for Cresceidon
+Turn 30:
+Player A: Switched out Cresceidon for Dragapult
+Player B: Switched out Hemogoblin for Slowking
+Turn 31:
+Player B: Switched out Slowking for Equilibra
+Player A: Dragapult used Hex on Equilibra and crit for 25 damage
+Turn 32:
+Player A: Dragapult used U-turn on Equilibra for 3 damage
+Player A: Switched out Dragapult for Ogerpon
+Player B: Equilibra used Pain Split on self
+Turn 33:
+Player B: Switched out Equilibra for Venomicon
+Player A: Ogerpon used U-turn on Venomicon for 28 damage
+Player A: Switched out Ogerpon for Mollux
+Turn 34:
+Player B: Switched out Venomicon for Slowking
+Player A: Mollux used Calm Mind on self
+Turn 35:
+Player A: Mollux used Calm Mind on self
+Player B: Slowking used Future Sight on self
+Turn 36:
+Player A: Mollux used Clear Smog on Slowking for 32 damage
+Player B: Slowking used Chilly Reception on self
+Player B: Switched out Slowking for Meowscarada
+Turn 37:
+Player B: Meowscarada used Knock Off on Mollux for 48 damage
+Player A: Mollux used Lava Plume on Meowscarada for 69 damage
+Player B: Meowscarada fainted
+Player B: Switched out Meowscarada for Equilibra
+Turn 38:
+Player A: Mollux used Lava Plume on Equilibra for -18 damage
+Player B: Equilibra used Earth Power on Mollux for 38 damage (supereffective)
+Player A: Mollux fainted
+Player A: Switched out Mollux for Cresceidon
+Turn 39:
+Player B: Switched out Equilibra for Slowking
+Turn 40:
+Player A: Switched out Cresceidon for Ogerpon
+Player B: Slowking used Future Sight on self
+Turn 41:
+Player B: Switched out Slowking for Equilibra
+Player A: Ogerpon used U-turn on Equilibra for 26 damage
+Player A: Switched out Ogerpon for Cresceidon
+Turn 42:
+Player A: Cresceidon used Moonblast on Equilibra for 2 damage
+Player B: Equilibra fainted
+Player B: Switched out Equilibra for Hemogoblin
+Turn 43:
+Player A: Cresceidon used Recover and healed for -9
+Player B: Hemogoblin used Bulk Up on self
+Turn 44:
+Player B: Hemogoblin used Extreme Speed on Cresceidon for 62 damage
+Player A: Cresceidon used Scald on Hemogoblin for 51 damage (supereffective)
+Turn 45:
+Player B: Hemogoblin used Extreme Speed on Cresceidon for 29 damage
+Player A: Cresceidon fainted
+Player A: Switched out Cresceidon for Ogerpon
+Turn 46:
+Player B: Hemogoblin used Extreme Speed on Ogerpon for 100 damage
+Player A: Ogerpon fainted
+Player A: Switched out Ogerpon for Dragapult
+Turn 47:
+Player B: Hemogoblin used Extreme Speed on Dragapult for 37 damage
+Player A: Dragapult fainted

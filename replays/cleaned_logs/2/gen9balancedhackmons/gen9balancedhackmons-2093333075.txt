@@ -1,0 +1,69 @@
+Battle start:
+Player A sent out Aegislash
+Player B sent out Haxorus
+Turn 1:
+Player B: Haxorus used Sandstorm on self
+Player A: Aegislash used Stealth Rock on self
+Turn 2:
+Player B: Haxorus used Sacred Sword but it had no effect on Aegislash
+Player A: Aegislash used Sticky Web on self
+Turn 3:
+Player B: Haxorus used Sacred Fire on Aegislash for 46 damage (supereffective)
+Player A: Aegislash used Toxic Spikes on self
+Turn 4:
+Player B: Haxorus used Sacred Fire on Aegislash for 49 damage (supereffective)
+Player A: Aegislash used Toxic Spikes on self
+Turn 5:
+Player B: Haxorus used Sacred Fire on Aegislash for 5 damage (supereffective)
+Player A: Aegislash fainted
+Player A: Switched out Aegislash for Escavalier
+Turn 6:
+Player B: Haxorus used Sacred Fire on self
+Player A: Escavalier used Shift Gear on self
+Turn 7:
+Player A: Escavalier used Burning Bulwark on self
+Turn 8:
+Player B: Haxorus used Sandstorm on self
+Player A: Escavalier used Shift Gear on self
+Turn 9:
+Player B: Haxorus used Sacred Sword on Escavalier for 13 damage
+Player A: Escavalier used Gigaton Hammer on Haxorus for 100 damage
+Player B: Haxorus fainted
+Player B: Switched out Haxorus for Ho-Oh
+Turn 10:
+Player A: Escavalier used Leech Life on Ho-Oh for 66 damage
+Player A: Escavalier used Leech Life and healed for 13
+Player B: Ho-Oh used Heavy Slam on Escavalier for 8 damage
+Turn 11:
+Player A: Escavalier used Leech Life on Ho-Oh for 24 damage
+Player A: Escavalier used Leech Life and healed for 8
+Player B: Ho-Oh used Hyper Drill on Escavalier for 7 damage
+Turn 12:
+Player A: Escavalier used Leech Life on Ho-Oh for 10 damage
+Player A: Escavalier used Leech Life and healed for 7
+Player B: Ho-Oh fainted
+Player B: Switched out Ho-Oh for Sceptile
+Turn 13:
+Player A: Escavalier used Leech Life on Sceptile for 100 damage (supereffective)
+Player B: Sceptile fainted
+Player B: Switched out Sceptile for Ditto
+Turn 14:
+Player A: Escavalier used Gigaton Hammer on Sceptile for 0 damage
+Player B: Sceptile fainted
+Player B: Switched out Sceptile for Houndstone
+Turn 15:
+Player A: Escavalier used Leech Life on Houndstone for 46 damage
+Player B: Houndstone used Dive on self
+Turn 16:
+Player A: Escavalier used Burning Bulwark on self
+Player B: Houndstone used Dive on self
+Turn 17:
+Player A: Escavalier used Leech Life on Houndstone for 54 damage
+Player B: Houndstone fainted
+Player B: Switched out Houndstone for Swampert
+Turn 18:
+Player A: Escavalier used Gigaton Hammer on Swampert for 74 damage
+Player B: Swampert used Petal Blizzard on Escavalier for 3 damage
+Turn 19:
+Player A: Escavalier used Leech Life on Swampert for 26 damage
+Player B: Swampert fainted

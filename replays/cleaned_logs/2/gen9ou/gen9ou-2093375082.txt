@@ -1,0 +1,70 @@
+Battle start:
+Player A sent out Ninetales-Alola
+Player B sent out Great Tusk
+Turn 1:
+Player B: Switched out Great Tusk for Kingambit
+Player A: Ninetales-Alola used Moonblast on Kingambit for 37 damage
+Turn 2:
+Player A: Ninetales-Alola used Aurora Veil on self
+Player B: Kingambit used Iron Head on Ninetales-Alola for 90 damage (supereffective)
+Turn 3:
+Player A: Ninetales-Alola used Encore on self
+Player B: Kingambit used Iron Head on Ninetales-Alola for 10 damage (supereffective)
+Player A: Ninetales-Alola fainted
+Player A: Switched out Ninetales-Alola for Haxorus
+Turn 4:
+Player B: Switched out Kingambit for Zapdos
+Player A: Haxorus used Dragon Dance on self
+Turn 5:
+Player A: Haxorus used Dragon Dance on self
+Player B: Zapdos used Discharge on Haxorus for 13 damage
+Turn 6:
+Player A: Haxorus can't move because it is paralyzed
+Player B: Zapdos used Volt Switch on Haxorus for 12 damage
+Player B: Switched out Zapdos for Dondozo
+Turn 7:
+Player A: Haxorus can't move because it is paralyzed
+Player B: Dondozo used Body Press on Haxorus for 17 damage
+Turn 8:
+Player A: Haxorus used Outrage on Dondozo for 100 damage
+Player B: Dondozo fainted
+Player B: Switched out Dondozo for Great Tusk
+Turn 9:
+Player B: Great Tusk used Rapid Spin on Haxorus for 19 damage
+Player A: Haxorus used Outrage on Great Tusk for 100 damage
+Player B: Great Tusk fainted
+Player B: Switched out Great Tusk for Dragapult
+Turn 10:
+Player B: Dragapult used Shadow Ball on Haxorus for 39 damage
+Player A: Haxorus fainted
+Player A: Switched out Haxorus for Indeedee
+Turn 11:
+Player B: Switched out Dragapult for Kingambit
+Player A: Indeedee used Dazzling Gleam on Kingambit for 25 damage
+Turn 12:
+Player A: Indeedee used Dazzling Gleam on Kingambit for 28 damage
+Player B: Kingambit used Kowtow Cleave on Indeedee for 100 damage (supereffective)
+Player A: Indeedee fainted
+Player A: Switched out Indeedee for Gallade
+Turn 13:
+Player B: Switched out Kingambit for Zapdos
+Player A: Gallade used Agility on self
+Turn 14:
+Player A: Gallade used Psycho Cut on Zapdos for 88 damage
+Player B: Zapdos used Discharge on Gallade for 33 damage
+Turn 15:
+Player B: Switched out Zapdos for Kingambit
+Player A: Gallade used Sacred Sword on Kingambit for 10 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Slowking-Galar
+Turn 16:
+Player A: Gallade used Psycho Cut on Slowking-Galar for 100 damage
+Player B: Slowking-Galar fainted
+Player B: Switched out Slowking-Galar for Zapdos
+Turn 17:
+Player A: Gallade used Psycho Cut on Zapdos for 12 damage
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Dragapult
+Turn 18:
+Player A: Gallade used Psycho Cut on Dragapult and crit for 100 damage
+Player B: Dragapult fainted

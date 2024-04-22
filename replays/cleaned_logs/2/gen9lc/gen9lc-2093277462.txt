@@ -1,0 +1,95 @@
+Battle start:
+Player A sent out Croagunk
+Player B sent out Stunky
+Turn 1:
+Player B: Stunky used Knock Off on Croagunk for 22 damage
+Player A: Croagunk used Earthquake on Stunky for 86 damage (supereffective)
+Turn 2:
+Player B: Switched out Stunky for Mudbray
+Player A: Croagunk used Drain Punch on Mudbray for 29 damage
+Player A: Croagunk used Drain Punch and healed for 18
+Turn 3:
+Player A: Switched out Croagunk for Fomantis
+Player B: Mudbray used High Horsepower on Fomantis for 31 damage
+Turn 4:
+Player B: Switched out Mudbray for Vullaby
+Player A: Fomantis used Leaf Storm on Vullaby for 21 damage
+Turn 5:
+Player A: Switched out Fomantis for Frigibax
+Player B: Vullaby used Brave Bird on Frigibax for 65 damage
+Turn 6:
+Player A: Frigibax used Icicle Crash on Vullaby and crit for 57 damage (supereffective)
+Player B: Vullaby fainted
+Player B: Switched out Vullaby for Stunky
+Turn 7:
+Player B: Stunky used Sucker Punch on Frigibax for 35 damage
+Player A: Frigibax fainted
+Player A: Switched out Frigibax for Charcadet
+Turn 8:
+Player B: Stunky used Knock Off on Charcadet for 43 damage
+Player A: Charcadet used Flame Charge on Stunky for 14 damage
+Player B: Stunky fainted
+Player B: Switched out Stunky for Mienfoo
+Turn 9:
+Player B: Mienfoo used Fake Out on Charcadet for 21 damage
+Player A: Charcadet can't move because flinch
+Turn 10:
+Player A: Charcadet used Flare Blitz on Mienfoo for 47 damage
+Player A: Charcadet fainted
+Player A: Switched out Charcadet for Croagunk
+Turn 11:
+Player B: Mienfoo used U-turn on Croagunk for 9 damage
+Player B: Switched out Mienfoo for Mudbray
+Player A: Croagunk used Drain Punch on Mudbray and crit for 50 damage
+Player A: Croagunk used Drain Punch and healed for 13
+Turn 12:
+Player A: Switched out Croagunk for Fomantis
+Player B: Mudbray used High Horsepower on Fomantis for 28 damage
+Turn 13:
+Player B: Switched out Mudbray for Grookey
+Player A: Fomantis used Leaf Storm on Grookey for 42 damage
+Turn 14:
+Player B: Grookey used U-turn on Fomantis for 41 damage (supereffective)
+Player A: Fomantis fainted
+Player B: Switched out Grookey for Mienfoo
+Player A: Switched out Fomantis for Capsakid
+Turn 15:
+Player B: Mienfoo used Fake Out on Capsakid and crit for 21 damage
+Player A: Capsakid can't move because flinch
+Turn 16:
+Player A: Capsakid used Protect on self
+Player B: Mienfoo used U-turn on self
+Turn 17:
+Player A: Switched out Capsakid for Croagunk
+Player B: Mienfoo used U-turn on Croagunk for 9 damage
+Player B: Switched out Mienfoo for Growlithe-Hisui
+Turn 18:
+Player B: Growlithe-Hisui used Psychic Fangs on Croagunk for 91 damage (supereffective)
+Player A: Croagunk fainted
+Player A: Switched out Croagunk for Clauncher
+Turn 19:
+Player B: Switched out Growlithe-Hisui for Mienfoo
+Player A: Clauncher used Aqua Jet on Mienfoo for -33 damage
+Turn 20:
+Player B: Mienfoo used Fake Out on Clauncher for 12 damage
+Player A: Clauncher can't move because flinch
+Turn 21:
+Player B: Mienfoo used Knock Off on Clauncher for 29 damage
+Player A: Clauncher used Dragon Pulse on Mienfoo for 47 damage
+Turn 22:
+Player B: Mienfoo used High Jump Kick on Clauncher for 59 damage
+Player A: Clauncher fainted
+Player A: Switched out Clauncher for Capsakid
+Turn 23:
+Player B: Mienfoo used U-turn on Capsakid for 35 damage (supereffective)
+Player B: Switched out Mienfoo for Mudbray
+Player A: Capsakid used Giga Drain on Mudbray for 21 damage (supereffective)
+Player A: Capsakid used Giga Drain and healed for 13
+Player B: Mienfoo fainted
+Player B: Switched out Mienfoo for Mienfoo
+Turn 24:
+Player B: Mienfoo used Fake Out on Capsakid for 13 damage
+Player A: Capsakid can't move because flinch
+Turn 25:
+Player B: Mienfoo used U-turn on Capsakid for 44 damage (supereffective)
+Player A: Capsakid fainted

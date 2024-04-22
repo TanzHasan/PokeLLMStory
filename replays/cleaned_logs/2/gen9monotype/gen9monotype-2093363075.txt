@@ -1,0 +1,25 @@
+Battle start:
+Player A sent out Iron Hands
+Player B sent out Golem-Alola
+Turn 1:
+Player A: Iron Hands used Drain Punch on Golem-Alola for 73 damage (supereffective)
+Player B: Golem-Alola used Earthquake on Iron Hands for 47 damage (supereffective)
+Turn 2:
+Player B: Switched out Golem-Alola for Zapdos
+Player A: Iron Hands used Drain Punch on Zapdos for 25 damage
+Player A: Iron Hands used Drain Punch and healed for 9
+Turn 3:
+Player B: Zapdos used U-turn on Iron Hands for 4 damage
+Player B: Switched out Zapdos for Rotom-Wash
+Player A: Iron Hands used Supercell Slam on Rotom-Wash for 82 damage
+Turn 4:
+Player B: Rotom-Wash used Will-O-Wisp
+Player A: Iron Hands used Drain Punch on Rotom-Wash for 18 damage
+Player A: Iron Hands used Drain Punch and healed for 5
+Player B: Rotom-Wash fainted
+Player B: Switched out Rotom-Wash for Regieleki
+Turn 5:
+Player B: Regieleki used Thunderbolt on Iron Hands for 21 damage
+Player A: Iron Hands used Drain Punch on Regieleki for 51 damage
+Player A: Iron Hands used Drain Punch and healed for 15
+Turn 6:

@@ -1,0 +1,82 @@
+Battle start:
+Player A sent out Metagross
+Player B sent out Meowscarada
+Turn 1:
+Player B: Meowscarada used U-turn on Metagross for 26 damage
+Player B: Switched out Meowscarada for Corviknight
+Player A: Metagross used Heavy Slam on Corviknight for 27 damage
+Turn 2:
+Player A: Metagross used Thunder Punch on Corviknight for 29 damage (supereffective)
+Player B: Corviknight used Iron Defense on self
+Turn 3:
+Player A: Switched out Metagross for Thundurus-Therian
+Player B: Corviknight used Roost and healed for 50
+Turn 4:
+Player B: Switched out Corviknight for Clodsire
+Player A: Thundurus-Therian used Weather Ball on Clodsire for 60 damage
+Turn 5:
+Player A: Thundurus-Therian used Weather Ball on Clodsire for 40 damage
+Player B: Clodsire fainted
+Player B: Switched out Clodsire for Baxcalibur
+Turn 6:
+Player A: Switched out Thundurus-Therian for Metagross-Mega
+Player B: Baxcalibur used Earthquake on Metagross-Mega for 68 damage (supereffective)
+Turn 7:
+Player B: Switched out Baxcalibur for Corviknight
+Player A: Metagross used Heavy Slam on Corviknight for 19 damage
+Turn 8:
+Player A: Metagross used Thunder Punch on Corviknight for 28 damage (supereffective)
+Player B: Corviknight used Body Press on Metagross for 6 damage
+Player A: Metagross fainted
+Player A: Switched out Metagross for Samurott-Hisui
+Turn 9:
+Player A: Samurott-Hisui used Ceaseless Edge on Corviknight for 19 damage
+Player B: Corviknight used Roost and healed for 50
+Turn 10:
+Player A: Switched out Samurott-Hisui for Thundurus-Therian
+Player B: Corviknight used Iron Defense on self
+Turn 11:
+Player B: Switched out Corviknight for Ho-Oh
+Player A: Thundurus-Therian used Thunderbolt on Ho-Oh for 59 damage (supereffective)
+Turn 12:
+Player A: Thundurus-Therian used Thunderbolt on Ho-Oh for 41 damage (supereffective)
+Player B: Ho-Oh fainted
+Player B: Switched out Ho-Oh for Baxcalibur
+Turn 13:
+Player A: Switched out Thundurus-Therian for Samurott-Hisui
+Player B: Baxcalibur used Body Slam on Samurott-Hisui for 36 damage
+Turn 14:
+Player B: Baxcalibur used Glaive Rush on Samurott-Hisui for 64 damage
+Player A: Samurott-Hisui fainted
+Player A: Switched out Samurott-Hisui for Dragonite
+Turn 15:
+Player B: Switched out Baxcalibur for Corviknight
+Player A: Dragonite used Extreme Speed on Corviknight for 13 damage
+Turn 16:
+Player A: Switched out Dragonite for Hatterene
+Player B: Corviknight used Iron Defense on self
+Turn 17:
+Player B: Switched out Corviknight for Magearna
+Player A: Hatterene used Calm Mind on self
+Turn 18:
+Player A: Hatterene used Mystical Fire on Magearna for 78 damage (supereffective)
+Player B: Magearna used Calm Mind on self
+Turn 19:
+Player A: Hatterene used Mystical Fire on Magearna for 22 damage (supereffective)
+Player B: Magearna fainted
+Player B: Switched out Magearna for Baxcalibur
+Turn 20:
+Player B: Baxcalibur used Body Slam on Hatterene for 59 damage
+Player A: Hatterene can't move because it is paralyzed
+Turn 21:
+Player B: Baxcalibur used Body Slam on Hatterene for 41 damage
+Player A: Hatterene fainted
+Player A: Switched out Hatterene for Dragonite
+Turn 22:
+Player A: Dragonite used Extreme Speed on Baxcalibur for 100 damage (supereffective)
+Player B: Baxcalibur fainted
+Player B: Switched out Baxcalibur for Corviknight
+Turn 23:
+Player A: Switched out Dragonite for Thundurus-Therian
+Player B: Corviknight used Body Press on Thundurus-Therian for 46 damage
+Turn 24:

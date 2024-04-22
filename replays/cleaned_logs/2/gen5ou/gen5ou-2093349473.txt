@@ -1,0 +1,86 @@
+Battle start:
+Player A sent out Jirachi
+Player B sent out Magnezone
+Turn 1:
+Player A: Jirachi used Ice Punch on Magnezone for 9 damage
+Player B: Magnezone used Thunderbolt on Jirachi for 57 damage
+Turn 2:
+Player A: Jirachi used Ice Punch on Magnezone for 9 damage
+Player B: Magnezone used Thunderbolt on Jirachi for 43 damage
+Player A: Jirachi fainted
+Player A: Switched out Jirachi for Wobbuffet
+Turn 3:
+Player B: Switched out Magnezone for Gliscor
+Turn 4:
+Player B: Gliscor used Toxic
+Player A: Wobbuffet used Encore on self
+Turn 5:
+Player B: Switched out Gliscor for Yanmega
+Player A: Switched out Wobbuffet for Zangoose
+Turn 6:
+Player B: Yanmega used Bug Buzz on Zangoose for 100 damage
+Player A: Zangoose fainted
+Player A: Switched out Zangoose for Typhlosion
+Turn 7:
+Player A: Typhlosion used Eruption on Yanmega for 100 damage (supereffective)
+Player B: Yanmega fainted
+Player B: Switched out Yanmega for Tentacruel
+Turn 8:
+Player A: Switched out Typhlosion for Tentacruel
+Player B: Tentacruel used Scald on Tentacruel for 8 damage
+Turn 9:
+Player B: Switched out Tentacruel for Magnezone
+Player A: Tentacruel used Toxic Spikes on self
+Turn 10:
+Player A: Switched out Tentacruel for Wobbuffet
+Player B: Magnezone used Thunderbolt on Wobbuffet for 46 damage
+Turn 11:
+Player B: Magnezone used Thunderbolt on Wobbuffet for 21 damage
+Player A: Wobbuffet used Mirror Coat on Magnezone for 82 damage
+Player B: Magnezone fainted
+Player B: Switched out Magnezone for Gliscor
+Turn 12:
+Player B: Gliscor used Toxic but it failed
+Player A: Wobbuffet used Destiny Bond on self
+Turn 13:
+Player B: Gliscor used Toxic but it failed
+Player A: Wobbuffet used Encore on self
+Player A: Wobbuffet fainted
+Player A: Switched out Wobbuffet for Tentacruel
+Turn 14:
+Player B: Switched out Gliscor for Snorlax
+Player A: Tentacruel used Toxic Spikes on self
+Turn 15:
+Player B: Switched out Snorlax for Gliscor
+Player A: Tentacruel used Surf on Gliscor for 66 damage (supereffective)
+Turn 16:
+Player B: Gliscor used Roost and healed for 62
+Turn 17:
+Player B: Gliscor used Earthquake on Tentacruel for 71 damage (supereffective)
+Player A: Tentacruel used Surf on Gliscor for 67 damage (supereffective)
+Turn 18:
+Player B: Gliscor used Roost and healed for 62
+Player A: Tentacruel used Rest and healed for 79
+Turn 19:
+Player B: Gliscor used Earthquake on Tentacruel for 85 damage (supereffective)
+Player A: Tentacruel can't move because it is asleep
+Player A: Tentacruel used Sleep Talk on self
+Turn 20:
+Player B: Gliscor used Earthquake on Tentacruel for 15 damage (supereffective)
+Player A: Tentacruel fainted
+Player A: Switched out Tentacruel for Raichu
+Turn 21:
+Player A: Raichu used Thunderbolt but it had no effect on Gliscor
+Player B: Gliscor used Earthquake on Raichu for 100 damage (supereffective)
+Player A: Raichu fainted
+Player A: Switched out Raichu for Typhlosion
+Turn 22:
+Player A: Typhlosion used Eruption on Gliscor for 76 damage
+Player B: Gliscor used Earthquake on Typhlosion for 85 damage (supereffective)
+Turn 23:
+Player B: Switched out Gliscor for Tentacruel
+Player A: Typhlosion used Eruption on Tentacruel for 7 damage
+Turn 24:
+Player A: Typhlosion used Eruption on Tentacruel for 2 damage
+Player B: Tentacruel used Scald on Typhlosion for 15 damage (supereffective)
+Player A: Typhlosion fainted

@@ -1,0 +1,109 @@
+Battle start:
+Player A sent out Gliscor
+Player B sent out Crucibelle
+Turn 1:
+Player A: Gliscor used Protect on self
+Player B: Crucibelle used Trick on self
+Turn 2:
+Player B: Crucibelle used Trick on self
+Player A: Gliscor used Earthquake on Crucibelle for 100 damage (supereffective)
+Player B: Crucibelle fainted
+Player B: Switched out Crucibelle for Gliscor
+Turn 3:
+Player A: Switched out Gliscor for Corviknight
+Player B: Gliscor used Swords Dance on self
+Turn 4:
+Player B: Gliscor used Facade on Corviknight for 16 damage
+Player A: Corviknight used Iron Defense on self
+Turn 5:
+Player B: Switched out Gliscor for Cresceidon
+Player A: Corviknight used Brave Bird on Cresceidon for 15 damage
+Turn 6:
+Player A: Switched out Corviknight for Garganacl
+Player B: Cresceidon used Scald on Garganacl for 31 damage (supereffective)
+Turn 7:
+Player B: Cresceidon used Scald on Garganacl for 32 damage (supereffective)
+Player A: Garganacl used Salt Cure on Cresceidon for 12 damage
+Turn 8:
+Player B: Cresceidon used Encore on self
+Player A: Garganacl used Salt Cure on Cresceidon for 38 damage
+Turn 9:
+Player A: Switched out Garganacl for Amoonguss
+Player B: Cresceidon used Recover and healed for 25
+Turn 10:
+Player B: Switched out Cresceidon for Excadrill
+Player A: Amoonguss used Giga Drain on Excadrill for 29 damage
+Turn 11:
+Player A: Switched out Amoonguss for Corviknight
+Player B: Excadrill used Stealth Rock on self
+Turn 12:
+Player B: Switched out Excadrill for Cresceidon
+Player A: Corviknight used Defog on self
+Turn 13:
+Player A: Switched out Corviknight for Garganacl
+Player B: Cresceidon used Recover and healed for 25
+Turn 14:
+Player B: Cresceidon used Scald on Garganacl for 37 damage (supereffective)
+Player A: Garganacl fainted
+Player A: Switched out Garganacl for Amoonguss
+Turn 15:
+Player B: Switched out Cresceidon for Gliscor
+Player A: Amoonguss used Giga Drain on Gliscor for 18 damage
+Turn 16:
+Player B: Switched out Gliscor for Raging Bolt
+Player A: Switched out Amoonguss for Corviknight
+Turn 17:
+Player A: Switched out Corviknight for Amoonguss
+Player B: Raging Bolt used Thunderbolt on Amoonguss for 13 damage
+Turn 18:
+Player B: Switched out Raging Bolt for Gliscor
+Player A: Amoonguss used Sludge Bomb on Gliscor for 0 damage
+Turn 19:
+Player A: Switched out Amoonguss for Gliscor
+Player B: Gliscor used Swords Dance on self
+Turn 20:
+Player A: Gliscor used Spikes on self
+Player B: Gliscor used Swords Dance on self
+Turn 21:
+Player A: Switched out Gliscor for Corviknight
+Player B: Switched out Gliscor for Excadrill
+Turn 22:
+Player B: Switched out Excadrill for Cresceidon
+Player A: Corviknight used Brave Bird on Cresceidon for 29 damage
+Turn 23:
+Player A: Switched out Corviknight for Amoonguss
+Player B: Cresceidon used Scald on Amoonguss for -8 damage
+Turn 24:
+Player B: Switched out Cresceidon for Gliscor
+Player A: Amoonguss used Giga Drain on Gliscor for 2 damage
+Player A: Amoonguss used Giga Drain and healed for 5
+Turn 25:
+Player B: Switched out Gliscor for Cresceidon
+Player A: Amoonguss used Sludge Bomb on Cresceidon for 51 damage (supereffective)
+Turn 26:
+Player B: Cresceidon used Recover and healed for 50
+Player A: Amoonguss used Sludge Bomb on Cresceidon for 13 damage
+Turn 27:
+Player B: Cresceidon used Recover and healed for 50
+Player A: Amoonguss used Stomping Tantrum on Cresceidon for 25 damage (supereffective)
+Turn 28:
+Player B: Switched out Cresceidon for Gliscor
+Player A: Amoonguss used Stomping Tantrum but it had no effect on Gliscor
+Turn 29:
+Player B: Gliscor used Facade on Amoonguss for 29 damage
+Player A: Amoonguss used Sludge Bomb on Gliscor for -9 damage
+Turn 30:
+Player A: Switched out Amoonguss for Corviknight
+Player B: Gliscor used Swords Dance on self
+Turn 31:
+Player B: Switched out Gliscor for Cresceidon
+Player A: Corviknight used Brave Bird on Cresceidon for 29 damage
+Turn 32:
+Player A: Switched out Corviknight for Gliscor
+Player B: Cresceidon used Scald on Gliscor for 47 damage (supereffective)
+Turn 33:
+Player B: Switched out Cresceidon for Excadrill
+Player A: Gliscor used Earthquake on Excadrill for 71 damage (supereffective)
+Player B: Cresceidon fainted
+Player B: Switched out Cresceidon for Darkrai
+Turn 34:

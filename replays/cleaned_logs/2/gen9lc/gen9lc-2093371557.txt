@@ -1,0 +1,70 @@
+Battle start:
+Player A sent out Impidimp
+Player B sent out Shroodle
+Turn 1:
+Player B: Shroodle used Rain Dance on self
+Player A: Impidimp used Reflect on self
+Turn 2:
+Player B: Shroodle used Copycat on self
+Player B: Shroodle used Reflect on self
+Player A: Impidimp used Parting Shot on self
+Player A: Switched out Impidimp for Magby
+Turn 3:
+Player B: Shroodle used Parting Shot on self
+Player B: Switched out Shroodle for Horsea
+Player A: Magby used Belly Drum and healed for 50
+Turn 4:
+Player A: Magby used Mach Punch on Horsea for 38 damage
+Player B: Horsea used Weather Ball on Magby for 100 damage (supereffective)
+Player A: Magby fainted
+Player A: Switched out Magby for Mienfoo
+Turn 5:
+Player B: Switched out Horsea for Glimmet
+Player A: Mienfoo used Fake Out on Glimmet for 4 damage
+Player B: Switched out Horsea for Horsea
+Turn 6:
+Player A: Switched out Mienfoo for Stunky
+Player B: Horsea used Weather Ball on Stunky for 100 damage
+Player A: Mienfoo fainted
+Player A: Switched out Mienfoo for Mienfoo
+Turn 7:
+Player A: Mienfoo used Fake Out on Horsea for 19 damage
+Player B: Horsea can't move because flinch
+Turn 8:
+Player B: Horsea used Weather Ball on Mienfoo for 95 damage
+Player A: Mienfoo used High Jump Kick on Horsea for 43 damage
+Player B: Horsea fainted
+Player B: Switched out Horsea for Shroodle
+Turn 9:
+Player B: Shroodle used Knock Off on Mienfoo for 5 damage
+Player A: Mienfoo fainted
+Player A: Switched out Mienfoo for Impidimp
+Turn 10:
+Player B: Shroodle used Rain Dance on self
+Player A: Impidimp used Reflect on self
+Turn 11:
+Player B: Switched out Shroodle for Lotad
+Player A: Impidimp used Light Screen on self
+Turn 12:
+Player A: Impidimp used Parting Shot on self
+Player A: Switched out Impidimp for Minccino
+Player B: Lotad used Weather Ball on Minccino for 45 damage
+Turn 13:
+Player B: Lotad used Weather Ball on Minccino for 55 damage
+Player A: Minccino fainted
+Player A: Switched out Minccino for Gastly
+Turn 14:
+Player A: Gastly used Shadow Ball on Lotad for 86 damage
+Player B: Lotad used Weather Ball on Gastly for 70 damage
+Player B: Lotad fainted
+Player B: Switched out Lotad for Buizel
+Turn 15:
+Player B: Buizel used Wave Crash on Gastly and crit for 30 damage
+Player A: Gastly fainted
+Player A: Switched out Gastly for Impidimp
+Turn 16:
+Player B: Buizel used Wave Crash on Impidimp for 68 damage
+Player A: Impidimp used Dazzling Gleam and healed for 46
+Turn 17:
+Player B: Buizel used Wave Crash on Impidimp for 32 damage
+Player A: Impidimp fainted

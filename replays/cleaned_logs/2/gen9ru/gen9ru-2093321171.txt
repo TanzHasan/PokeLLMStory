@@ -1,0 +1,64 @@
+Battle start:
+Player A sent out Coalossal
+Player B sent out Conkeldurr
+Turn 1:
+Player B: Conkeldurr used Ice Punch on Coalossal for 10 damage
+Player A: Coalossal used Stealth Rock on self
+Turn 2:
+Player B: Conkeldurr used Drain Punch on Coalossal for 64 damage (supereffective)
+Player A: Coalossal used Will-O-Wisp
+Turn 3:
+Player A: Switched out Coalossal for Basculegion
+Player B: Conkeldurr used Ice Punch on Basculegion for 13 damage
+Turn 4:
+Player A: Basculegion can't move because it is frozen
+Player B: Conkeldurr used Thunder Punch on Basculegion for 51 damage (supereffective)
+Turn 5:
+Player A: Basculegion can't move because it is frozen
+Player B: Conkeldurr used Thunder Punch on Basculegion for 36 damage (supereffective)
+Player A: Basculegion fainted
+Player A: Switched out Basculegion for Gallade
+Turn 6:
+Player A: Gallade used Leaf Blade on Conkeldurr for 70 damage
+Player B: Conkeldurr used Drain Punch on Gallade for 27 damage
+Player B: Conkeldurr used Drain Punch and healed for 9
+Turn 7:
+Player B: Conkeldurr used Mach Punch on Gallade for 15 damage
+Player A: Gallade used Leaf Blade on Conkeldurr for 23 damage
+Player B: Conkeldurr fainted
+Player B: Switched out Conkeldurr for Ambipom
+Turn 8:
+Player A: Switched out Gallade for Coalossal
+Player B: Ambipom used Acrobatics on Coalossal for 7 damage
+Turn 9:
+Player A: Switched out Coalossal for Magnezone
+Player B: Ambipom used Triple Axel on Magnezone for 6 damage
+Turn 10:
+Player B: Ambipom used Triple Axel on Magnezone for 8 damage
+Player A: Magnezone used Discharge on Ambipom for 29 damage
+Player B: Ambipom fainted
+Player B: Switched out Ambipom for Azelf
+Turn 11:
+Player B: Azelf used Fire Blast on Magnezone for 71 damage (supereffective)
+Player A: Magnezone fainted
+Player A: Switched out Magnezone for Delphox
+Turn 12:
+Player B: Switched out Azelf for Gardevoir
+Player A: Delphox used Flamethrower on Gardevoir for 83 damage
+Turn 13:
+Player B: Gardevoir used Psychic on Delphox for 27 damage
+Player A: Delphox used Flamethrower on Gardevoir for 17 damage
+Player B: Gardevoir fainted
+Player B: Switched out Gardevoir for Kleavor
+Turn 14:
+Player A: Delphox used Flamethrower on Kleavor and crit for 100 damage
+Player B: Kleavor fainted
+Player B: Switched out Kleavor for Azelf
+Turn 15:
+Player B: Azelf used Psychic on Delphox for 50 damage
+Player A: Delphox used Flamethrower on Azelf for 100 damage
+Player B: Azelf fainted
+Player B: Switched out Azelf for Forretress
+Turn 16:
+Player A: Delphox used Flamethrower on Forretress for 100 damage (supereffective)
+Player B: Forretress fainted

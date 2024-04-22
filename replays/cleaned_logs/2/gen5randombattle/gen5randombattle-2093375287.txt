@@ -1,0 +1,55 @@
+Battle start:
+Player A sent out Phione
+Player B sent out Seismitoad
+Turn 1:
+Player A: Switched out Phione for Togekiss
+Player B: Switched out Seismitoad for Porygon2
+Turn 2:
+Player A: Togekiss used Trick on self
+Player B: Porygon2 used Toxic
+Turn 3:
+Player B: Switched out Porygon2 for Dusclops
+Player A: Switched out Togekiss for Phione
+Turn 4:
+Player A: Phione used Rain Dance on self
+Player B: Dusclops used Seismic Toss on Phione for 85 damage
+Turn 5:
+Player A: Phione used Toxic
+Player B: Dusclops used Seismic Toss on Phione for 85 damage
+Turn 6:
+Player A: Phione used Scald on Dusclops for 78 damage
+Player B: Dusclops used Seismic Toss on Phione for 85 damage
+Turn 7:
+Player A: Phione used Rest and healed for 255
+Player B: Dusclops used Seismic Toss on Phione for 85 damage
+Turn 8:
+Player A: Phione used Scald on Dusclops and crit for 129 damage
+Player B: Dusclops fainted
+Player B: Switched out Dusclops for Seismitoad
+Turn 9:
+Player B: Seismitoad used Earthquake on Phione for 140 damage
+Player A: Phione used Toxic
+Turn 10:
+Player A: Switched out Phione for Togekiss
+Player B: Seismitoad used Sludge Wave on Togekiss for 81 damage
+Turn 11:
+Player B: Seismitoad used Hydro Pump on Togekiss for 189 damage
+Player A: Togekiss fainted
+Player A: Switched out Togekiss for Omastar
+Turn 12:
+Player B: Switched out Seismitoad for Politoed
+Player A: Omastar used Shell Smash on self
+Turn 13:
+Player A: Omastar used Hidden Power on Politoed for 174 damage (supereffective)
+Player B: Politoed used Hidden Power on Omastar for 224 damage (supereffective)
+Turn 14:
+Player A: Omastar used Hidden Power on Politoed for 114 damage (supereffective)
+Player B: Politoed fainted
+Player B: Switched out Politoed for Seismitoad
+Turn 15:
+Player A: Omastar used Hidden Power on Seismitoad and crit for 236 damage (supereffective)
+Player B: Seismitoad fainted
+Player B: Switched out Seismitoad for Porygon2
+Turn 16:
+Player A: Omastar used Surf on Porygon2 for 274 damage
+Player B: Porygon2 fainted

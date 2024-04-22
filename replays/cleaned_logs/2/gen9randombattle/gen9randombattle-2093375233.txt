@@ -1,0 +1,29 @@
+Battle start:
+Player A sent out Greedent
+Player B sent out Trevenant
+Turn 1:
+Player B: Trevenant used Toxic
+Player A: Greedent used Swords Dance on self
+Turn 2:
+Player B: Trevenant used Protect on self
+Player A: Greedent used Swords Dance on self
+Turn 3:
+Player B: Switched out Trevenant for Wo-Chien
+Player A: Greedent used Knock Off on Wo-Chien for 69 damage
+Turn 4:
+Player B: Wo-Chien used Knock Off on Greedent for 202 damage
+Player A: Greedent used Swords Dance on self
+Turn 5:
+Player B: Wo-Chien used Protect on self
+Player A: Greedent used Body Slam on self
+Player A: Greedent fainted
+Player A: Switched out Greedent for Iron Bundle
+Turn 6:
+Player B: Switched out Wo-Chien for Sandslash-Alola
+Player A: Iron Bundle used Freeze-Dry on Sandslash-Alola for 15 damage
+Turn 7:
+Player A: Switched out Iron Bundle for Gallade
+Player B: Sandslash-Alola used Rapid Spin on Gallade for 50 damage
+Turn 8:
+Player B: Sandslash-Alola used Triple Axel on Gallade for 97 damage
+Player A: Gallade fainted

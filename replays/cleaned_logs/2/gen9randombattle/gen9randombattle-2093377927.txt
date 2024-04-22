@@ -1,0 +1,39 @@
+Battle start:
+Player A sent out Galvantula
+Player B sent out Ceruledge
+Turn 1:
+Player A: Switched out Galvantula for Garchomp
+Player B: Ceruledge used Swords Dance on self
+Turn 2:
+Player A: Garchomp used Earthquake on Ceruledge for 112 damage
+Player B: Ceruledge used Poltergeist on Garchomp for 246 damage
+Turn 3:
+Player B: Ceruledge used Bitter Blade on Garchomp for 36 damage
+Player A: Garchomp fainted
+Player A: Switched out Garchomp for Revavroom
+Turn 4:
+Player B: Ceruledge used Close Combat on Revavroom for 256 damage
+Player A: Revavroom fainted
+Player A: Switched out Revavroom for Gardevoir
+Turn 5:
+Player B: Ceruledge used Poltergeist on Gardevoir for 249 damage (supereffective)
+Player A: Gardevoir fainted
+Player A: Switched out Gardevoir for Cobalion
+Turn 6:
+Player B: Ceruledge used Bitter Blade on Cobalion for 160 damage
+Player B: Ceruledge used Bitter Blade and healed for 80
+Player A: Cobalion used Close Combat on Ceruledge for 201 damage
+Player B: Ceruledge fainted
+Player B: Switched out Ceruledge for Hippowdon
+Turn 7:
+Player A: Switched out Cobalion for Galvantula
+Player B: Hippowdon used Earthquake on Galvantula for 141 damage
+Turn 8:
+Player A: Galvantula used Sticky Web on self
+Player B: Hippowdon used Earthquake on Galvantula for 108 damage
+Player A: Galvantula fainted
+Player A: Switched out Galvantula for Cobalion
+Turn 9:
+Player A: Cobalion used Close Combat on Hippowdon for 148 damage
+Player B: Hippowdon used Earthquake on Cobalion for 63 damage
+Player A: Cobalion fainted

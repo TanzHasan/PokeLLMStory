@@ -1,0 +1,6 @@
+Battle start:
+Player A sent out Metagross
+Player B sent out Goodra-Hisui
+Turn 1:
+Player A: Metagross used Earthquake on Goodra-Hisui for 100 damage (supereffective)
+Player B: Goodra-Hisui fainted

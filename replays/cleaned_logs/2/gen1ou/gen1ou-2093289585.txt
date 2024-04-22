@@ -1,0 +1,133 @@
+Battle start:
+Player A sent out Starmie
+Player B sent out Alakazam
+Turn 1:
+Player A: Switched out Starmie for Chansey
+Player B: Alakazam used Thunder Wave
+Turn 2:
+Player B: Alakazam used Psychic on Chansey for 16 damage
+Player A: Chansey can't move because it is paralyzed
+Turn 3:
+Player B: Alakazam used Psychic on Chansey for 18 damage
+Player A: Chansey used Soft-Boiled and healed for 34
+Turn 4:
+Player B: Alakazam used Psychic on Chansey for 19 damage
+Player A: Chansey used Ice Beam on Alakazam for 12 damage
+Turn 5:
+Player B: Alakazam used Psychic on Chansey for 26 damage
+Player A: Chansey can't move because it is paralyzed
+Turn 6:
+Player B: Alakazam used Psychic on Chansey for 27 damage
+Player A: Chansey used Soft-Boiled and healed for 50
+Turn 7:
+Player A: Switched out Chansey for Starmie
+Player B: Alakazam used Psychic on Starmie for 21 damage
+Turn 8:
+Player A: Switched out Starmie for Exeggutor
+Player B: Alakazam used Psychic on Exeggutor for 14 damage
+Turn 9:
+Player B: Alakazam used Thunder Wave
+Player A: Exeggutor used Sleep Powder
+Turn 10:
+Player A: Switched out Exeggutor for Tauros
+Player B: Alakazam can't move because it is asleep
+Turn 11:
+Player B: Switched out Alakazam for Gengar
+Player A: Tauros used Body Slam but it had no effect on Gengar
+Turn 12:
+Player A: Switched out Tauros for Exeggutor
+Player B: Switched out Gengar for Snorlax
+Turn 13:
+Player B: Snorlax used Body Slam on Exeggutor for 29 damage
+Player A: Exeggutor can't move because it is paralyzed
+Turn 14:
+Player B: Snorlax used Body Slam on Exeggutor for 28 damage
+Player A: Exeggutor used Explosion on Snorlax for 61 damage
+Player A: Exeggutor fainted
+Player A: Switched out Exeggutor for Tauros
+Turn 15:
+Player B: Switched out Snorlax for Exeggutor
+Player A: Tauros used Earthquake on Exeggutor for 10 damage
+Turn 16:
+Player A: Switched out Tauros for Chansey
+Player B: Exeggutor used Psychic on Chansey for 16 damage
+Turn 17:
+Player B: Switched out Exeggutor for Snorlax
+Player A: Chansey used Thunder Wave
+Turn 18:
+Player A: Switched out Chansey for Snorlax
+Player B: Snorlax can't move because it is paralyzed
+Turn 19:
+Player B: Switched out Snorlax for Gengar
+Player A: Snorlax used Reflect on self
+Turn 20:
+Player A: Switched out Snorlax for Chansey
+Player B: Gengar used Psychic on Chansey and crit for 23 damage
+Turn 21:
+Player B: Switched out Gengar for Snorlax
+Player A: Chansey can't move because it is paralyzed
+Turn 22:
+Player A: Chansey used Soft-Boiled and healed for 50
+Player B: Snorlax used Body Slam on Chansey for 43 damage
+Turn 23:
+Player A: Chansey used Soft-Boiled and healed for 50
+Player B: Snorlax used Body Slam on Chansey for 40 damage
+Turn 24:
+Player A: Chansey used Soft-Boiled and healed for 44
+Player B: Snorlax used Body Slam on Chansey for 43 damage
+Turn 25:
+Player A: Chansey used Ice Beam on Snorlax for 19 damage
+Player B: Snorlax can't move because it is paralyzed
+Turn 26:
+Player A: Chansey can't move because it is paralyzed
+Player B: Snorlax used Self-Destruct on Chansey for 57 damage
+Player A: Chansey fainted
+Player B: Snorlax fainted
+Player A: Switched out Chansey for Starmie
+Player B: Switched out Snorlax for Zapdos
+Turn 27:
+Player A: Starmie used Ice Beam on Zapdos for 31 damage (supereffective)
+Player B: Zapdos used Thunderbolt on Starmie for 79 damage (supereffective)
+Player A: Starmie fainted
+Player A: Switched out Starmie for Zapdos
+Turn 28:
+Player B: Zapdos used Thunderbolt on Zapdos for 30 damage
+Player A: Zapdos used Thunderbolt on Zapdos for 27 damage
+Turn 29:
+Player B: Zapdos used Thunderbolt on Zapdos for 27 damage
+Player A: Zapdos used Agility on self
+Turn 30:
+Player A: Zapdos used Thunderbolt on Zapdos for 31 damage
+Player B: Zapdos used Thunder Wave
+Turn 31:
+Player B: Zapdos used Thunderbolt on Zapdos and crit for 43 damage
+Player A: Zapdos fainted
+Player A: Switched out Zapdos for Tauros
+Turn 32:
+Player B: Switched out Zapdos for Alakazam
+Player A: Tauros used Blizzard on Alakazam for 18 damage
+Turn 33:
+Player B: Alakazam can't move because it is asleep
+Player A: Tauros used Hyper Beam on Alakazam for 70 damage
+Player B: Alakazam fainted
+Player B: Switched out Alakazam for Exeggutor
+Turn 34:
+Player A: Tauros used Body Slam on Exeggutor for 26 damage
+Player B: Exeggutor used Psychic on Tauros for 47 damage
+Turn 35:
+Player A: Tauros used Hyper Beam on Exeggutor for 51 damage
+Player B: Exeggutor used Explosion on Tauros and crit for 53 damage
+Player A: Tauros fainted
+Player B: Exeggutor fainted
+Player A: Switched out Tauros for Snorlax
+Player B: Switched out Exeggutor for Zapdos
+Turn 36:
+Player B: Zapdos used Thunderbolt on Snorlax for 33 damage
+Player A: Snorlax used Ice Beam on Zapdos for 11 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Gengar
+Turn 37:
+Player B: Gengar used Explosion on Snorlax for 49 damage
+Player B: Gengar fainted
+Player B: Switched out Gengar for Tauros
+Turn 38:

@@ -1,0 +1,83 @@
+Battle start:
+Player A sent out Accelgor
+Player B sent out Blaziken
+Turn 1:
+Player A: Switched out Accelgor for Seviper
+Player B: Blaziken used High Jump Kick on Seviper for 85 damage
+Turn 2:
+Player B: Blaziken used Flare Blitz on Seviper for 151 damage
+Player A: Seviper used Glare
+Turn 3:
+Player B: Switched out Blaziken for Maractus
+Player A: Seviper used Earthquake on Maractus for 60 damage
+Turn 4:
+Player A: Seviper used Sludge Wave on Maractus for 236 damage (supereffective)
+Player B: Maractus fainted
+Player A: Seviper fainted
+Player A: Switched out Seviper for Zebstrika
+Player B: Switched out Maractus for Kabutops
+Turn 5:
+Player A: Zebstrika used Volt Switch on Kabutops for 209 damage (supereffective)
+Player A: Switched out Zebstrika for Accelgor
+Player B: Kabutops used Knock Off on Accelgor for 216 damage
+Turn 6:
+Player A: Accelgor used Energy Ball on Kabutops for 34 damage (supereffective)
+Player B: Kabutops fainted
+Player B: Switched out Kabutops for Muk
+Turn 7:
+Player A: Accelgor used Yawn on self
+Player B: Muk used Poison Jab on Accelgor for 65 damage
+Player A: Accelgor fainted
+Player A: Switched out Accelgor for Zebstrika
+Turn 8:
+Player A: Zebstrika used Wild Charge on Muk for 118 damage
+Player B: Muk used Haze on self
+Turn 9:
+Player A: Zebstrika used Wild Charge on Muk for 89 damage
+Player B: Muk can't move because it is asleep
+Turn 10:
+Player B: Switched out Muk for Chatot
+Player A: Zebstrika used Wild Charge on Chatot for 274 damage (supereffective)
+Player B: Muk fainted
+Player B: Switched out Muk for Blaziken
+Turn 11:
+Player A: Zebstrika used Wild Charge on Blaziken for 129 damage
+Player B: Blaziken used Knock Off on Zebstrika for 79 damage
+Turn 12:
+Player A: Zebstrika used Wild Charge on Blaziken for 64 damage
+Player B: Blaziken fainted
+Player B: Switched out Blaziken for Gogoat
+Turn 13:
+Player A: Zebstrika used Overheat on Gogoat for 168 damage (supereffective)
+Player B: Gogoat used Horn Leech on Zebstrika for 38 damage
+Player B: Gogoat used Horn Leech and healed for 11
+Player A: Zebstrika fainted
+Player A: Switched out Zebstrika for Blissey
+Turn 14:
+Player B: Gogoat used Milk Drink and healed for 157
+Player A: Blissey used Toxic
+Turn 15:
+Player B: Gogoat used Earthquake on Blissey for 246 damage
+Player A: Blissey used Seismic Toss on Gogoat for 106 damage
+Turn 16:
+Player B: Gogoat used Milk Drink and healed for 106
+Player A: Blissey used Soft-Boiled and healed for 246
+Turn 17:
+Player B: Gogoat used Toxic
+Player A: Blissey used Seismic Toss on Gogoat for 150 damage
+Turn 18:
+Player B: Gogoat used Milk Drink and healed for 116
+Player A: Blissey used Aromatherapy on self
+Turn 19:
+Player B: Gogoat used Earthquake on Blissey for 262 damage
+Player A: Blissey used Seismic Toss on Gogoat for 172 damage
+Turn 20:
+Player B: Gogoat used Earthquake on Blissey and crit for 304 damage
+Player A: Blissey fainted
+Player B: Gogoat fainted
+Player B: Switched out Gogoat for Muk
+Player A: Switched out Blissey for Slaking
+Turn 21:
+Player B: Muk can't move because it is asleep
+Player A: Slaking used Earthquake on Muk for 121 damage (supereffective)
+Player B: Muk fainted

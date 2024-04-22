@@ -1,0 +1,96 @@
+Battle start:
+Player A sent out Stoutland
+Player B sent out Lycanroc-Midnight
+Turn 1:
+Player B: Switched out Lycanroc-Midnight for Tapu Fini
+Player A: Stoutland used Superpower on Tapu Fini for 39 damage
+Turn 2:
+Player A: Switched out Stoutland for Victreebel
+Player B: Tapu Fini used Calm Mind on self
+Turn 3:
+Player B: Switched out Tapu Fini for Seviper
+Player A: Victreebel used Sunny Day on self
+Turn 4:
+Player A: Victreebel used Weather Ball on Seviper for 216 damage
+Player B: Seviper used Poison Jab on Victreebel for 153 damage
+Turn 5:
+Player B: Seviper used Sucker Punch on Victreebel for 84 damage
+Player A: Victreebel used Weather Ball on Seviper and crit for 9 damage
+Player B: Seviper fainted
+Player A: Victreebel fainted
+Player A: Switched out Victreebel for Flareon
+Player B: Switched out Seviper for Castform
+Turn 6:
+Player B: Castform used Thunder Wave
+Player A: Flareon can't move because it is paralyzed
+Turn 7:
+Player B: Castform used Return on Flareon for 90 damage
+Player A: Flareon used Flame Charge on Castform for 90 damage
+Turn 8:
+Player B: Castform used Return on Flareon for 153 damage
+Player A: Flareon can't move because it is paralyzed
+Turn 9:
+Player B: Castform used Return on Flareon for 15 damage
+Player A: Flareon fainted
+Player A: Switched out Flareon for Clawitzer
+Turn 10:
+Player B: Switched out Castform for Tapu Fini
+Player A: Clawitzer used Aura Sphere on Tapu Fini for 28 damage
+Turn 11:
+Player A: Switched out Clawitzer for Cradily
+Player B: Tapu Fini used Moonblast on Cradily for 81 damage
+Turn 12:
+Player B: Switched out Tapu Fini for Castform
+Player A: Cradily used Toxic on self
+Turn 13:
+Player A: Switched out Cradily for Stoutland
+Player B: Castform used Ice Beam on Stoutland for 61 damage
+Turn 14:
+Player B: Switched out Castform for Tapu Fini
+Player A: Stoutland used Wild Charge on Tapu Fini for 102 damage (supereffective)
+Turn 15:
+Player B: Switched out Tapu Fini for Lycanroc-Midnight
+Player A: Stoutland used Wild Charge on Lycanroc-Midnight for 79 damage
+Turn 16:
+Player A: Switched out Stoutland for Cradily
+Player B: Lycanroc-Midnight used Swords Dance on self
+Turn 17:
+Player B: Lycanroc-Midnight used Splintered Stormshards on Cradily for 214 damage
+Player A: Cradily fainted
+Player A: Switched out Cradily for Stoutland
+Turn 18:
+Player B: Switched out Lycanroc-Midnight for Tapu Fini
+Player A: Stoutland used Superpower on Tapu Fini for 25 damage
+Turn 19:
+Player A: Switched out Stoutland for Clawitzer
+Player B: Tapu Fini used Moonblast on Clawitzer for 93 damage
+Turn 20:
+Player B: Switched out Tapu Fini for Castform
+Player A: Clawitzer used U-turn on Castform for -51 damage
+Player A: Switched out Clawitzer for Stoutland
+Turn 21:
+Player A: Stoutland used Wild Charge on Castform for 53 damage
+Player B: Castform used Return on Stoutland for 75 damage
+Turn 22:
+Player A: Switched out Stoutland for Clawitzer
+Player B: Castform used Return on Clawitzer for 78 damage
+Turn 23:
+Player B: Castform used Return on Clawitzer for 70 damage
+Player A: Clawitzer used U-turn on Castform for 4 damage
+Player A: Switched out Clawitzer for Stoutland
+Turn 24:
+Player B: Switched out Castform for Tapu Fini
+Player A: Stoutland used Superpower on Tapu Fini for 10 damage
+Turn 25:
+Player A: Switched out Stoutland for Thundurus
+Player B: Tapu Fini used Moonblast on Thundurus for 96 damage
+Turn 26:
+Player A: Thundurus used Thunderbolt on Tapu Fini for 39 damage (supereffective)
+Player B: Tapu Fini fainted
+Player B: Switched out Tapu Fini for Lycanroc-Midnight
+Turn 27:
+Player A: Switched out Thundurus for Stoutland
+Player B: Lycanroc-Midnight used Stone Edge on Stoutland for 75 damage
+Turn 28:
+Player B: Lycanroc-Midnight used Sucker Punch on Stoutland for 8 damage
+Player A: Stoutland fainted

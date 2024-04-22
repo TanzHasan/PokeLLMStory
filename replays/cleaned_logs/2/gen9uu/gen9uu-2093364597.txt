@@ -1,0 +1,46 @@
+Battle start:
+Player A sent out Hydreigon
+Player B sent out Galvantula
+Turn 1:
+Player B: Galvantula used Thunder Wave
+Turn 2:
+Player B: Galvantula used Sticky Web on self
+Player A: Hydreigon used Dark Pulse on Galvantula for 76 damage
+Turn 3:
+Player B: Galvantula used Thunder on self
+Player A: Hydreigon can't move because it is paralyzed
+Turn 4:
+Player B: Galvantula used Thunder on Hydreigon for 10 damage
+Player A: Hydreigon used Dark Pulse on Galvantula for 24 damage
+Player B: Galvantula fainted
+Player B: Switched out Galvantula for Iron Moth
+Turn 5:
+Player B: Iron Moth used Dazzling Gleam on Hydreigon for 66 damage (supereffective)
+Player A: Hydreigon fainted
+Player A: Switched out Hydreigon for Weezing-Galar
+Turn 6:
+Player B: Iron Moth used Fiery Dance on Weezing-Galar for 71 damage
+Player A: Weezing-Galar used Defog on self
+Turn 7:
+Player B: Iron Moth used Discharge on Weezing-Galar for 29 damage
+Player A: Weezing-Galar fainted
+Player A: Switched out Weezing-Galar for Ursaluna
+Turn 8:
+Player B: Iron Moth used Energy Ball on Ursaluna for 100 damage (supereffective)
+Player A: Ursaluna fainted
+Player A: Switched out Ursaluna for Pecharunt
+Turn 9:
+Player B: Iron Moth used Fiery Dance on Pecharunt for 90 damage
+Player A: Pecharunt used Malignant Chain on Iron Moth for 15 damage
+Turn 10:
+Player B: Iron Moth used Discharge on Pecharunt for 10 damage
+Player A: Pecharunt fainted
+Player A: Switched out Pecharunt for Greninja
+Turn 11:
+Player A: Greninja used Water Shuriken on Iron Moth and crit for 5 damage
+Player B: Iron Moth used Energy Ball on Greninja for 91 damage (supereffective)
+Player A: Greninja fainted
+Player A: Switched out Greninja for Quaquaval
+Turn 12:
+Player B: Iron Moth used Discharge on Quaquaval for 100 damage (supereffective)
+Player A: Quaquaval fainted

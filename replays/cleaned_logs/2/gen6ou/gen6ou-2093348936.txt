@@ -1,0 +1,196 @@
+Battle start:
+Player A sent out Chesnaught
+Player B sent out Fletchling
+Turn 1:
+Player A: Chesnaught used Spiky Shield on self
+Turn 2:
+Player A: Switched out Chesnaught for Samurott
+Player B: Fletchling used Toxic
+Turn 3:
+Player B: Fletchling used Protect on self
+Player A: Samurott used Surf on self
+Turn 4:
+Player A: Samurott used Surf on self
+Turn 5:
+Player B: Fletchling used Protect on self
+Player A: Samurott used Surf on self
+Turn 6:
+Player A: Samurott used Surf on self
+Turn 7:
+Player B: Fletchling used Protect on self
+Player A: Samurott used Surf on self
+Player A: Samurott fainted
+Player A: Switched out Samurott for Venusaur
+Turn 8:
+Player B: Fletchling used Roost and healed for 43
+Player A: Venusaur used Venoshock on self
+Turn 9:
+Player B: Switched out Fletchling for Talonflame
+Player A: Venusaur used Leech Seed on self
+Turn 10:
+Player A: Switched out Venusaur for Typhlosion
+Player B: Talonflame used U-turn on Typhlosion for 19 damage
+Player B: Switched out Talonflame for Fletchinder
+Turn 11:
+Player A: Typhlosion used Extrasensory on Fletchinder for 67 damage
+Player B: Fletchinder used Toxic
+Turn 12:
+Player B: Fletchinder used Protect on self
+Player A: Typhlosion used Extrasensory on self
+Turn 13:
+Player B: Fletchinder used Roost and healed for 62
+Player A: Typhlosion used Extrasensory on Fletchinder for 60 damage
+Turn 14:
+Player B: Fletchinder used Roost and healed for 57
+Player A: Typhlosion used Extrasensory on Fletchinder for 59 damage
+Turn 15:
+Player B: Fletchinder used Protect on self
+Player A: Typhlosion used Extrasensory on self
+Player A: Typhlosion fainted
+Player A: Switched out Typhlosion for Venusaur
+Turn 16:
+Player B: Fletchinder used Roost and healed for 62
+Player A: Venusaur used Venoshock on Fletchinder for 42 damage
+Turn 17:
+Player B: Switched out Fletchinder for Talonflame
+Player A: Venusaur used Leech Seed on self
+Turn 18:
+Player B: Talonflame used U-turn on Venusaur for 28 damage
+Player B: Switched out Talonflame for Excadrill
+Player A: Venusaur used Toxic but it had no effect on Excadrill
+Turn 19:
+Player B: Excadrill used Earthquake on Venusaur for 57 damage
+Player A: Venusaur used Leech Seed on self
+Turn 20:
+Player A: Switched out Venusaur for Chesnaught
+Player B: Excadrill used Rapid Spin on Chesnaught for 5 damage
+Turn 21:
+Player B: Switched out Excadrill for Fletchinder
+Player A: Chesnaught used Drain Punch on Fletchinder for 9 damage
+Turn 22:
+Player A: Chesnaught used Spiky Shield on self
+Player B: Fletchinder used Roost and healed for 55
+Turn 23:
+Player B: Fletchinder used Toxic
+Player A: Chesnaught used Drain Punch on Fletchinder for 13 damage
+Turn 24:
+Player B: Switched out Fletchinder for Talonflame
+Player A: Chesnaught used Wood Hammer on Talonflame for 40 damage
+Turn 25:
+Player B: Talonflame used Roost and healed for 40
+Player A: Chesnaught used Drain Punch on Talonflame for 41 damage
+Player A: Chesnaught used Drain Punch and healed for 10
+Turn 26:
+Player B: Talonflame used Roost and healed for 41
+Player A: Chesnaught used Drain Punch on Talonflame for 45 damage
+Player A: Chesnaught used Drain Punch and healed for 0
+Turn 27:
+Player B: Talonflame used Roost and healed for 45
+Player A: Chesnaught used Drain Punch on Talonflame for 40 damage
+Player A: Chesnaught used Drain Punch and healed for -4
+Turn 28:
+Player B: Talonflame used Roost and healed for 40
+Player A: Chesnaught used Drain Punch on Talonflame for 39 damage
+Player A: Chesnaught used Drain Punch and healed for -7
+Turn 29:
+Player B: Talonflame used Roost and healed for 39
+Player A: Chesnaught used Drain Punch on Talonflame for 44 damage
+Player A: Chesnaught used Drain Punch and healed for -9
+Turn 30:
+Player B: Talonflame used Roost and healed for 44
+Player A: Chesnaught used Drain Punch on Talonflame for 38 damage
+Player A: Chesnaught used Drain Punch and healed for -17
+Turn 31:
+Player B: Talonflame used Roost and healed for 38
+Player A: Chesnaught used Drain Punch on Talonflame for 40 damage
+Player A: Chesnaught used Drain Punch and healed for -23
+Player A: Chesnaught fainted
+Player A: Switched out Chesnaught for Swampert
+Turn 32:
+Player B: Switched out Talonflame for Fletchling
+Player A: Swampert used Waterfall on Fletchling for 68 damage
+Turn 33:
+Player B: Fletchling used Protect on self
+Player A: Swampert used Waterfall on self
+Turn 34:
+Player B: Fletchling used Roost and healed for 62
+Player A: Swampert used Waterfall on Fletchling for 71 damage
+Turn 35:
+Player B: Fletchling used Protect on self
+Player A: Swampert used Waterfall on self
+Turn 36:
+Player B: Fletchling used Roost and healed for 62
+Player A: Swampert used Waterfall on Fletchling for 70 damage
+Turn 37:
+Player B: Fletchling used Protect on self
+Player A: Swampert used Waterfall on self
+Turn 38:
+Player B: Fletchling used Roost and healed for 62
+Player A: Swampert used Waterfall on Fletchling for 67 damage
+Turn 39:
+Player B: Fletchling used Protect on self
+Player A: Swampert used Waterfall on self
+Turn 40:
+Player B: Fletchling used Roost and healed for 62
+Player A: Swampert used Waterfall on Fletchling for 68 damage
+Turn 41:
+Player B: Fletchling used Protect on self
+Player A: Swampert used Waterfall on self
+Turn 42:
+Player B: Fletchling used Roost and healed for 62
+Player A: Swampert used Waterfall on Fletchling for 66 damage
+Player B: Fletchling fainted
+Player B: Switched out Fletchling for Talonflame
+Turn 43:
+Player B: Talonflame used Brave Bird on Swampert for 57 damage
+Player A: Swampert used Waterfall on Talonflame for 36 damage (supereffective)
+Player B: Talonflame fainted
+Player B: Switched out Talonflame for Excadrill
+Turn 44:
+Player B: Excadrill used Earthquake on Swampert for 43 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Infernape
+Turn 45:
+Player B: Switched out Excadrill for Fletchinder
+Player A: Infernape used Fire Punch on Fletchinder for 17 damage
+Turn 46:
+Player A: Infernape used Fire Punch on Fletchinder for 17 damage
+Player B: Fletchinder used Toxic
+Turn 47:
+Player A: Switched out Infernape for Venusaur
+Player B: Fletchinder used Roost and healed for 48
+Turn 48:
+Player B: Switched out Fletchinder for Excadrill
+Player A: Venusaur used Leech Seed on self
+Turn 49:
+Player B: Excadrill used Rapid Spin on Venusaur for -39 damage
+Player A: Venusaur used Synthesis and healed for 46
+Turn 50:
+Player B: Excadrill used Earthquake on Venusaur for 60 damage
+Player A: Venusaur used Leech Seed on self
+Turn 51:
+Player B: Excadrill used Earthquake on Venusaur for 38 damage
+Player A: Venusaur used Synthesis and healed for 50
+Turn 52:
+Player B: Excadrill used Rapid Spin on Venusaur for -13 damage
+Player A: Venusaur used Synthesis and healed for 35
+Turn 53:
+Player B: Excadrill used Earthquake on Venusaur for 56 damage
+Player A: Venusaur used Leech Seed on self
+Turn 54:
+Player B: Excadrill used Rapid Spin on Venusaur for -12 damage
+Player A: Venusaur used Synthesis and healed for 44
+Turn 55:
+Player B: Excadrill used Iron Head on Venusaur for 43 damage
+Player A: Venusaur can't move because flinch
+Turn 56:
+Player B: Excadrill used Earthquake on Venusaur for 53 damage
+Player A: Venusaur used Leech Seed on self
+Turn 57:
+Player A: Switched out Venusaur for Infernape
+Player B: Excadrill used Earthquake on Infernape for 100 damage (supereffective)
+Player A: Venusaur fainted
+Player A: Switched out Venusaur for Venusaur
+Turn 58:
+Player B: Excadrill used Earthquake on Venusaur for 4 damage
+Player A: Venusaur fainted

@@ -1,0 +1,95 @@
+Battle start:
+Player A sent out Greninja
+Player B sent out Skarmory
+Turn 1:
+Player A: Greninja used Surf on Skarmory for 71 damage
+Player B: Skarmory used Stealth Rock on self
+Turn 2:
+Player A: Greninja used Surf on Skarmory for 29 damage
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Serperior
+Turn 3:
+Player A: Switched out Greninja for Celesteela
+Player B: Serperior used Leaf Storm on Celesteela for 19 damage
+Turn 4:
+Player B: Serperior used Dragon Pulse on Celesteela for 8 damage
+Player A: Celesteela used Flamethrower on Serperior for 54 damage (supereffective)
+Turn 5:
+Player B: Serperior used Leaf Storm on Celesteela for 10 damage
+Player A: Celesteela used Flamethrower on Serperior for 44 damage (supereffective)
+Turn 6:
+Player B: Serperior used Synthesis and healed for 56
+Player A: Celesteela used Flamethrower on Serperior for 52 damage (supereffective)
+Turn 7:
+Player B: Serperior used Dragon Pulse on Celesteela for 7 damage
+Player A: Celesteela used Flamethrower on Serperior for 6 damage (supereffective)
+Player B: Serperior fainted
+Player B: Switched out Serperior for Blacephalon
+Turn 8:
+Player A: Switched out Celesteela for Toxapex
+Player B: Blacephalon used Flamethrower on Toxapex for 37 damage
+Turn 9:
+Player B: Blacephalon used Psychic on Toxapex for 59 damage (supereffective)
+Player A: Toxapex used Scald on Blacephalon for 58 damage (supereffective)
+Turn 10:
+Player A: Switched out Toxapex for Tapu Bulu
+Player B: Blacephalon used Psychic on Tapu Bulu for 68 damage
+Turn 11:
+Player B: Blacephalon used Flamethrower on Tapu Bulu for 32 damage (supereffective)
+Player A: Tapu Bulu fainted
+Player A: Switched out Tapu Bulu for Greninja-Ash
+Turn 12:
+Player A: Greninja used Surf on Blacephalon for 13 damage (supereffective)
+Player B: Blacephalon fainted
+Player B: Switched out Blacephalon for Alakazam
+Turn 13:
+Player A: Switched out Greninja for Celesteela
+Player B: Alakazam used Energy Ball on Celesteela for 17 damage
+Turn 14:
+Player B: Alakazam used Focus Blast on Celesteela for 32 damage
+Player A: Celesteela used Leech Seed on self
+Turn 15:
+Player B: Switched out Alakazam for Gardevoir
+Turn 16:
+Player A: Celesteela used Protect on self
+Player B: Gardevoir used Shadow Ball on self
+Turn 17:
+Player B: Switched out Gardevoir for Kartana
+Player A: Celesteela used Leech Seed but it had no effect on Kartana
+Turn 18:
+Player B: Switched out Kartana for Gardevoir
+Player A: Celesteela used Flamethrower on Gardevoir for 18 damage
+Turn 19:
+Player A: Celesteela used Protect on self
+Player B: Gardevoir used Shadow Ball on self
+Turn 20:
+Player A: Switched out Celesteela for Toxapex
+Player B: Gardevoir used Shadow Ball on Toxapex for -5 damage
+Turn 21:
+Player A: Switched out Toxapex for Garchomp
+Player B: Gardevoir used Psychic on Garchomp for 55 damage
+Turn 22:
+Player A: Garchomp used Earthquake on Gardevoir for 82 damage
+Player B: Gardevoir fainted
+Player B: Switched out Gardevoir for Kartana
+Turn 23:
+Player A: Switched out Garchomp for Celesteela
+Player B: Kartana used Z-Tailwind on self
+Turn 24:
+Player B: Kartana used Sacred Sword on Celesteela and crit for 7 damage
+Player A: Celesteela fainted
+Player A: Switched out Celesteela for Toxapex
+Turn 25:
+Player A: Switched out Toxapex for Tornadus-Therian
+Player B: Kartana used Psycho Cut on Tornadus-Therian and crit for 96 damage
+Turn 26:
+Player B: Kartana used Leaf Blade on Tornadus-Therian and crit for 4 damage
+Player A: Tornadus-Therian fainted
+Player A: Switched out Tornadus-Therian for Greninja-Ash
+Turn 27:
+Player A: Greninja used Dark Pulse on Kartana for 84 damage
+Player B: Kartana fainted
+Player B: Switched out Kartana for Alakazam-Mega
+Turn 28:
+Player A: Greninja used Dark Pulse on Alakazam for 100 damage (supereffective)
+Player B: Alakazam fainted

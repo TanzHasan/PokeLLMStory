@@ -1,0 +1,70 @@
+Battle start:
+Player A sent out Kyurem
+Player B sent out Volcarona
+Turn 1:
+Player A: Kyurem used Earth Power on Volcarona for 36 damage
+Player B: Volcarona used Quiver Dance on self
+Turn 2:
+Player B: Volcarona used Quiver Dance on self
+Player A: Kyurem used Earth Power on Volcarona for 16 damage
+Turn 3:
+Player A: Switched out Kyurem for Clefable
+Player B: Volcarona used Flamethrower on Clefable for 89 damage
+Turn 4:
+Player A: Switched out Clefable for Volcanion
+Player B: Volcarona used Psychic on Volcanion for 71 damage
+Turn 5:
+Player A: Switched out Volcanion for Clefable
+Player B: Volcarona used Psychic on Clefable for 11 damage
+Player A: Volcanion fainted
+Player A: Switched out Volcanion for Hemogoblin
+Turn 6:
+Player B: Volcarona used Psychic on Hemogoblin for 66 damage
+Player A: Hemogoblin used Bitter Blade on Volcarona for 48 damage
+Player A: Hemogoblin used Bitter Blade and healed for 19
+Player B: Volcarona fainted
+Player B: Switched out Volcarona for Glimmora
+Turn 7:
+Player A: Switched out Hemogoblin for Equilibra
+Player B: Glimmora used Stealth Rock on self
+Turn 8:
+Player B: Switched out Glimmora for Great Tusk
+Player A: Equilibra used Earth Power on Great Tusk for 59 damage
+Turn 9:
+Player A: Equilibra used Protect on self
+Player B: Great Tusk used Temper Flare on self
+Turn 10:
+Player A: Switched out Equilibra for Kyurem
+Player B: Great Tusk used Temper Flare on Kyurem for 31 damage
+Turn 11:
+Player A: Kyurem used Ice Beam on Great Tusk for 41 damage (supereffective)
+Player B: Great Tusk fainted
+Player B: Switched out Great Tusk for Hemogoblin
+Turn 12:
+Player A: Kyurem used Earth Power on Hemogoblin for 62 damage (supereffective)
+Player B: Hemogoblin used Bitter Blade on Kyurem for 42 damage
+Player B: Hemogoblin used Bitter Blade and healed for 22
+Turn 13:
+Player A: Kyurem used Earth Power on Hemogoblin for 60 damage (supereffective)
+Player B: Hemogoblin fainted
+Player B: Switched out Hemogoblin for Caribolt
+Turn 14:
+Player B: Caribolt used Hyper Drill on Kyurem for 25 damage
+Player A: Kyurem used Ice Beam on Caribolt for 100 damage (supereffective)
+Player B: Caribolt fainted
+Player B: Switched out Caribolt for Glimmora
+Turn 15:
+Player A: Kyurem used Earth Power on Glimmora for 99 damage (supereffective)
+Player B: Glimmora used Mortal Spin on Kyurem for 2 damage
+Player A: Kyurem fainted
+Player A: Switched out Kyurem for Hemogoblin
+Turn 16:
+Player A: Hemogoblin used Extreme Speed on Glimmora for 1 damage
+Player B: Glimmora fainted
+Player B: Switched out Glimmora for Raging Bolt
+Turn 17:
+Player A: Hemogoblin used Extreme Speed on Raging Bolt for 58 damage
+Player B: Raging Bolt used Calm Mind on self
+Turn 18:
+Player A: Hemogoblin used Extreme Speed on Raging Bolt for 42 damage
+Player B: Raging Bolt fainted

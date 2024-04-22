@@ -1,0 +1,45 @@
+Battle start:
+Player A sent out Pikachu
+Player B sent out Zapdos-Galar
+Turn 1:
+Player A: Switched out Pikachu for Moltres
+Turn 2:
+Player B: Zapdos-Galar used Nasty Plot on self
+Player A: Moltres used Air Slash on self
+Turn 3:
+Player A: Switched out Moltres for Muk-Alola
+Player B: Zapdos-Galar used Hyper Voice on Muk-Alola for 46 damage
+Turn 4:
+Player A: Muk-Alola used Knock Off
+Turn 5:
+Player B: Zapdos-Galar used Hyper Voice on Muk-Alola for 49 damage
+Player A: Muk-Alola used Knock Off on Zapdos-Galar for 51 damage (supereffective)
+Player B: Zapdos-Galar fainted
+Player B: Switched out Zapdos-Galar for Zapdos-Galar
+Turn 6:
+Player A: Muk-Alola used Knock Off on self
+Turn 7:
+Player B: Zapdos-Galar used Drill Peck on Muk-Alola for 5 damage
+Player A: Muk-Alola fainted
+Player A: Switched out Muk-Alola for Espeon
+Turn 8:
+Player A: Espeon used Psychic on Zapdos-Galar for 31 damage
+Turn 9:
+Player A: Switched out Espeon for Moltres
+Player B: Zapdos-Galar used Drill Peck on Moltres for 28 damage
+Turn 10:
+Player B: Zapdos-Galar used Thunderous Kick on Moltres for 8 damage
+Player A: Moltres used Flamethrower
+Turn 11:
+Player B: Zapdos-Galar used Drill Peck on Moltres for 22 damage
+Player A: Moltres used Flamethrower on Zapdos-Galar for 20 damage (supereffective)
+Player B: Zapdos-Galar fainted
+Player B: Switched out Zapdos-Galar for Enamorus-Therian
+Turn 12:
+Player A: Moltres used U-turn on Enamorus-Therian for 3 damage
+Player A: Switched out Moltres for Espeon
+Turn 13:
+Player B: Enamorus-Therian used Calm Mind on self
+Turn 14:
+Player B: Enamorus-Therian used Calm Mind on self
+Turn 15:

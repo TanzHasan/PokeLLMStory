@@ -1,0 +1,78 @@
+Battle start:
+Player A sent out Slither Wing
+Player B sent out Iron Boulder
+Turn 1:
+Player B: Switched out Iron Boulder for Rhyperior
+Player A: Slither Wing used First Impression on Rhyperior for 45 damage
+Turn 2:
+Player A: Switched out Slither Wing for Keldeo
+Player B: Rhyperior used Fire Punch on Keldeo for 25 damage
+Turn 3:
+Player B: Switched out Rhyperior for Ogerpon-Cornerstone
+Player A: Keldeo used Surf on Ogerpon-Cornerstone for 53 damage
+Turn 4:
+Player A: Keldeo used Vacuum Wave on Ogerpon-Cornerstone for 47 damage (supereffective)
+Player B: Ogerpon-Cornerstone fainted
+Player B: Switched out Ogerpon-Cornerstone for Iron Boulder
+Turn 5:
+Player A: Switched out Keldeo for Scrafty
+Player B: Iron Boulder used Wild Charge on Scrafty for 25 damage
+Turn 6:
+Player B: Switched out Iron Boulder for Tyranitar
+Player A: Scrafty used Drain Punch on Tyranitar for 72 damage (supereffective)
+Player A: Scrafty used Drain Punch and healed for 25
+Turn 7:
+Player B: Switched out Tyranitar for Iron Boulder
+Player A: Scrafty used Drain Punch on Iron Boulder for 31 damage
+Turn 8:
+Player A: Switched out Scrafty for Okidogi
+Player B: Iron Boulder used Close Combat on Okidogi for 14 damage
+Turn 9:
+Player B: Switched out Iron Boulder for Terrakion
+Player A: Switched out Okidogi for Keldeo
+Turn 10:
+Player A: Keldeo used Surf on Terrakion for 66 damage (supereffective)
+Player B: Terrakion used Close Combat on Keldeo for 75 damage
+Player A: Keldeo fainted
+Player A: Switched out Keldeo for Cobalion
+Turn 11:
+Player A: Cobalion used Flash Cannon on Terrakion for 34 damage (supereffective)
+Player B: Terrakion fainted
+Player B: Switched out Terrakion for Iron Boulder
+Turn 12:
+Player A: Switched out Cobalion for Breloom
+Player B: Iron Boulder used Earthquake on Breloom for 27 damage
+Turn 13:
+Player B: Switched out Iron Boulder for Coalossal
+Player A: Breloom used Mach Punch on Coalossal for 33 damage (supereffective)
+Turn 14:
+Player A: Breloom used Spore
+Player B: Coalossal can't move because it is asleep
+Turn 15:
+Player B: Switched out Coalossal for Iron Boulder
+Player A: Breloom used Bullet Seed on Iron Boulder for 12 damage (supereffective)
+Player B: Coalossal fainted
+Player B: Switched out Coalossal for Rhyperior
+Turn 16:
+Player A: Breloom used Bullet Seed on Rhyperior for 19 damage (supereffective)
+Player B: Rhyperior fainted
+Player B: Switched out Rhyperior for Coalossal
+Turn 17:
+Player A: Breloom used Bullet Seed on Coalossal for 6 damage
+Player B: Coalossal can't move because it is asleep
+Turn 18:
+Player A: Breloom used Bullet Seed on Coalossal for 5 damage
+Player B: Coalossal can't move because it is asleep
+Turn 19:
+Player A: Breloom used Rock Tomb on Coalossal for 16 damage (supereffective)
+Player B: Coalossal used Flamethrower on Breloom for 73 damage (supereffective)
+Player A: Breloom fainted
+Player A: Switched out Breloom for Cobalion
+Turn 20:
+Player A: Cobalion used Volt Switch on Coalossal for 10 damage
+Player B: Coalossal fainted
+Player A: Switched out Cobalion for Slither Wing
+Player B: Switched out Coalossal for Tyranitar
+Turn 21:
+Player A: Slither Wing used First Impression on Tyranitar for 28 damage (supereffective)
+Player B: Tyranitar fainted

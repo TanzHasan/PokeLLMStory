@@ -1,0 +1,69 @@
+Battle start:
+Player A sent out Pincurchin
+Player B sent out Scizor
+Turn 1:
+Player B: Scizor used Sticky Web on self
+Player A: Pincurchin used Rising Voltage on Scizor for 76 damage
+Turn 2:
+Player B: Scizor used Bug Buzz on Pincurchin and crit for 80 damage
+Player A: Pincurchin used Volt Switch on Scizor for 24 damage
+Player B: Scizor fainted
+Player A: Switched out Pincurchin for Iron Hands
+Player B: Switched out Scizor for Iron Hands
+Turn 3:
+Player B: Iron Hands used Secret Sword on Iron Hands for 41 damage
+Player A: Iron Hands used Volt Switch on Iron Hands for 18 damage
+Player A: Switched out Iron Hands for Iron Valiant
+Turn 4:
+Player B: Switched out Iron Hands for Toxapex
+Player A: Iron Valiant used Magical Torque on Toxapex for 20 damage
+Player B: Switched out Iron Hands for Iron Moth
+Turn 5:
+Player B: Iron Moth used Noxious Torque on Iron Valiant for 100 damage (supereffective)
+Player A: Iron Valiant fainted
+Player A: Switched out Iron Valiant for Iron Jugulis
+Turn 6:
+Player B: Switched out Iron Moth for Skarmory
+Player A: Iron Jugulis used Dragon Ascent on Skarmory for 55 damage
+Turn 7:
+Player A: Iron Jugulis used Dragon Ascent on Skarmory for 45 damage
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Iron Moth
+Turn 8:
+Player A: Iron Jugulis used Dragon Ascent on Iron Moth for 100 damage
+Player B: Iron Moth fainted
+Player B: Switched out Iron Moth for Iron Moth
+Turn 9:
+Player A: Switched out Iron Jugulis for Pincurchin
+Player B: Iron Moth used Flame Charge on Pincurchin for 20 damage
+Player A: Iron Jugulis fainted
+Player A: Switched out Iron Jugulis for Iron Jugulis
+Turn 10:
+Player A: Iron Jugulis used Sucker Punch on Iron Moth for -22 damage
+Player B: Iron Moth used Bitter Blade on Iron Jugulis for 29 damage
+Player B: Iron Moth used Bitter Blade and healed for 15
+Player A: Iron Jugulis fainted
+Player A: Switched out Iron Jugulis for Iron Hands
+Turn 11:
+Player A: Iron Hands used Thunderclap on Iron Moth for 37 damage
+Player B: Iron Moth fainted
+Player B: Switched out Iron Moth for Iron Hands
+Turn 12:
+Player A: Switched out Iron Hands for Corviknight
+Player B: Iron Hands used Secret Sword on Corviknight for 39 damage
+Turn 13:
+Player B: Iron Hands used Thunder Cage on Corviknight for 61 damage (supereffective)
+Player A: Corviknight fainted
+Player A: Switched out Corviknight for Sneasler
+Turn 14:
+Player A: Sneasler used Malignant Chain on Iron Hands for 17 damage
+Player B: Iron Hands used Thunder Cage on Sneasler for 92 damage
+Player A: Sneasler fainted
+Player A: Switched out Sneasler for Iron Hands
+Turn 15:
+Player B: Iron Hands used Secret Sword on Iron Hands for 36 damage
+Player A: Iron Hands used Secret Sword on Iron Hands for 34 damage
+Turn 16:
+Player A: Iron Hands used Thunderclap on Iron Hands for 13 damage
+Player B: Iron Hands used Secret Sword on Iron Hands for 23 damage
+Player A: Iron Hands fainted

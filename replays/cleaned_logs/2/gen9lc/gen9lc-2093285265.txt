@@ -1,0 +1,47 @@
+Battle start:
+Player A sent out Mienfoo
+Player B sent out Mudbray
+Turn 1:
+Player A: Mienfoo used Knock Off on Mudbray for 29 damage
+Player B: Mudbray used High Horsepower on Mienfoo for 57 damage
+Turn 2:
+Player A: Mienfoo used U-turn on Mudbray for 21 damage
+Player A: Switched out Mienfoo for Gastly
+Player B: Mudbray used Stealth Rock on self
+Turn 3:
+Player B: Switched out Mudbray for Stunky
+Player A: Gastly used Sludge Wave on Stunky for 30 damage
+Turn 4:
+Player A: Switched out Gastly for Mudbray
+Player B: Stunky used Knock Off on Mudbray for 41 damage
+Turn 5:
+Player B: Switched out Stunky for Grookey
+Player A: Mudbray used Heavy Slam on Grookey for 47 damage
+Turn 6:
+Player B: Grookey used Knock Off on Mudbray for 13 damage
+Player A: Mudbray used Heavy Slam on Grookey for 53 damage
+Player B: Grookey fainted
+Player B: Switched out Grookey for Growlithe-Hisui
+Turn 7:
+Player B: Growlithe-Hisui used Flare Blitz on Mudbray for 46 damage (supereffective)
+Player A: Mudbray fainted
+Player A: Switched out Mudbray for Glimmet
+Turn 8:
+Player B: Switched out Growlithe-Hisui for Mudbray
+Player A: Glimmet used Power Gem on Mudbray for 25 damage
+Turn 9:
+Player A: Glimmet used Sludge Wave on Mudbray for 20 damage
+Player B: Mudbray used High Horsepower on Glimmet for 100 damage (supereffective)
+Player A: Glimmet fainted
+Player A: Switched out Glimmet for Mienfoo
+Turn 10:
+Player A: Mienfoo used High Jump Kick on Mudbray for 5 damage
+Player B: Mudbray fainted
+Player B: Switched out Mudbray for Vullaby
+Turn 11:
+Player A: Mienfoo used U-turn on Vullaby for 17 damage
+Player A: Switched out Mienfoo for Voltorb-Hisui
+Player B: Vullaby used Brave Bird on Voltorb-Hisui for 71 damage
+Turn 12:
+Player B: Vullaby used Brave Bird on Voltorb-Hisui and crit for 29 damage
+Player A: Voltorb-Hisui fainted

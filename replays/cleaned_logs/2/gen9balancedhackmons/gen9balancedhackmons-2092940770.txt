@@ -1,0 +1,28 @@
+Battle start:
+Player A sent out Archaludon
+Player B sent out Arceus-Steel
+Turn 1:
+Player B: Arceus-Steel used Taunt on self
+Player A: Archaludon can't move because move: Taunt
+Turn 2:
+Player A: Switched out Archaludon for Delphox
+Player B: Arceus-Steel used Light Screen on self
+Turn 3:
+Player B: Arceus-Steel used Reflect on self
+Player A: Delphox used Torch Song on Arceus-Steel for 39 damage (supereffective)
+Turn 4:
+Player B: Arceus-Steel used Parting Shot on self
+Player B: Switched out Arceus-Steel for Necrozma-Dawn-Wings
+Player A: Delphox used Blue Flare on Necrozma-Dawn-Wings for 34 damage
+Turn 5:
+Player A: Delphox used Astral Barrage on Necrozma-Dawn-Wings for 56 damage (supereffective)
+Player B: Necrozma-Dawn-Wings used No Retreat on self
+Turn 6:
+Player B: Necrozma-Dawn-Wings used Stored Power on Delphox for 71 damage
+Player A: Delphox fainted
+Player A: Switched out Delphox for Blissey
+Turn 7:
+Player A: Blissey used Stored Power on Necrozma-Dawn-Wings for 10 damage
+Player B: Necrozma-Dawn-Wings fainted
+Player B: Switched out Necrozma-Dawn-Wings for Zacian-Crowned
+Turn 8:

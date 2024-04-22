@@ -1,0 +1,53 @@
+Battle start:
+Player A sent out Tinkatuff
+Player B sent out Cutiefly
+Turn 1:
+Player B: Cutiefly used Sticky Web on self
+Player A: Tinkatuff used Stealth Rock on self
+Turn 2:
+Player B: Cutiefly used Moonblast on Tinkatuff for 8 damage
+Player A: Tinkatuff used Play Rough on Cutiefly for 61 damage
+Turn 3:
+Player B: Cutiefly used Switcheroo on self
+Player A: Tinkatuff used Play Rough on Cutiefly for 38 damage
+Turn 4:
+Player B: Cutiefly used Pounce on Tinkatuff for 2 damage
+Player A: Tinkatuff used Knock Off on Cutiefly for 1 damage
+Player B: Cutiefly fainted
+Player B: Switched out Cutiefly for Piloswine
+Turn 5:
+Player A: Switched out Tinkatuff for Quaxwell
+Player B: Piloswine used Earthquake on Quaxwell for 30 damage
+Turn 6:
+Player B: Switched out Piloswine for Misdreavus
+Player A: Quaxwell used Roost and healed for 30
+Turn 7:
+Player A: Switched out Quaxwell for Girafarig
+Turn 8:
+Player B: Misdreavus used Nasty Plot on self
+Player A: Girafarig used Psychic on self
+Turn 9:
+Player B: Misdreavus used Nasty Plot on self
+Player A: Girafarig used Psychic on Misdreavus for 36 damage
+Turn 10:
+Player B: Misdreavus used Draining Kiss on Girafarig for 41 damage
+Player B: Misdreavus used Draining Kiss and healed for 34
+Player A: Girafarig used Psychic on Misdreavus for 39 damage
+Turn 11:
+Player B: Misdreavus used Draining Kiss on Girafarig for 46 damage
+Player B: Misdreavus used Draining Kiss and healed for 38
+Player A: Girafarig used Psychic on Misdreavus for 38 damage
+Turn 12:
+Player B: Misdreavus used Draining Kiss on Girafarig for 13 damage
+Player B: Misdreavus used Draining Kiss and healed for 10
+Player A: Girafarig fainted
+Player A: Switched out Girafarig for Gligar
+Turn 13:
+Player A: Gligar used Knock Off
+Turn 14:
+Player B: Misdreavus used Shadow Ball on Gligar for 100 damage
+Player A: Gligar fainted
+Player A: Switched out Gligar for Misdreavus
+Turn 15:
+Player B: Misdreavus used Shadow Ball on Misdreavus for 100 damage (supereffective)
+Player A: Misdreavus fainted

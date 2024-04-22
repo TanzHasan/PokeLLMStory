@@ -1,0 +1,94 @@
+Battle start:
+Player A sent out Heracross
+Player B sent out Spiritomb
+Turn 1:
+Player B: Switched out Spiritomb for Granbull
+Player A: Heracross used Knock Off on Granbull for 26 damage
+Turn 2:
+Player A: Switched out Heracross for Venomoth
+Player B: Granbull used Thunder Wave
+Turn 3:
+Player B: Switched out Granbull for Arbok
+Player A: Venomoth used Sludge Bomb on Arbok for 88 damage
+Turn 4:
+Player A: Switched out Venomoth for Garchomp
+Player B: Arbok used Coil on self
+Turn 5:
+Player A: Garchomp used Earthquake on Arbok for 158 damage (supereffective)
+Player B: Arbok used Earthquake on Garchomp and crit for 214 damage
+Player B: Arbok fainted
+Player B: Switched out Arbok for Flygon
+Turn 6:
+Player B: Flygon used Earthquake on Garchomp for 72 damage
+Player A: Garchomp fainted
+Player A: Switched out Garchomp for Porygon-Z
+Turn 7:
+Player B: Switched out Flygon for Spiritomb
+Player A: Porygon-Z used Ice Beam on Spiritomb for 123 damage
+Turn 8:
+Player B: Spiritomb used Sucker Punch on Porygon-Z for 114 damage
+Player A: Porygon-Z used Ice Beam on Spiritomb for 111 damage
+Player B: Spiritomb fainted
+Player B: Switched out Spiritomb for Flygon
+Turn 9:
+Player B: Flygon used Earthquake on Porygon-Z and crit for 133 damage
+Player A: Porygon-Z fainted
+Player A: Switched out Porygon-Z for Purugly
+Turn 10:
+Player B: Switched out Flygon for Granbull
+Player A: Purugly used Fake Out on Granbull for 34 damage
+Turn 11:
+Player A: Purugly used U-turn on Granbull and crit for 36 damage
+Player A: Switched out Purugly for Venomoth
+Player B: Granbull used Earthquake on Venomoth for 125 damage
+Turn 12:
+Player B: Switched out Granbull for Barbaracle
+Player A: Venomoth used Sludge Bomb on Barbaracle for 84 damage
+Turn 13:
+Player B: Barbaracle used Shell Smash on self
+Player A: Venomoth used Sludge Bomb on Barbaracle for 94 damage
+Turn 14:
+Player B: Barbaracle used Razor Shell on Venomoth for 112 damage
+Player A: Venomoth fainted
+Player A: Switched out Venomoth for Heracross
+Turn 15:
+Player B: Barbaracle used Stone Edge on Heracross for 252 damage
+Player A: Heracross used Close Combat on Barbaracle for 74 damage (supereffective)
+Player B: Barbaracle fainted
+Player A: Heracross fainted
+Player A: Switched out Heracross for Purugly
+Player B: Switched out Barbaracle for Granbull
+Turn 16:
+Player A: Purugly used Fake Out on Granbull for 34 damage
+Player B: Granbull can't move because flinch
+Turn 17:
+Player A: Purugly used Return on Granbull for 88 damage
+Player B: Granbull used Thunder Wave
+Turn 18:
+Player B: Switched out Granbull for Flygon
+Player A: Purugly used Return on Flygon for 91 damage
+Turn 19:
+Player B: Flygon used Earthquake on Purugly and crit for 183 damage
+Player A: Purugly used Return on Flygon for 62 damage
+Turn 20:
+Player B: Flygon used Roost and healed for 153
+Player A: Purugly used U-turn on Flygon and crit for 73 damage
+Player A: Switched out Purugly for Blaziken
+Turn 21:
+Player B: Switched out Flygon for Granbull
+Turn 22:
+Player B: Switched out Granbull for Flygon
+Player A: Blaziken used Swords Dance on self
+Turn 23:
+Player B: Switched out Flygon for Granbull
+Player A: Blaziken used High Jump Kick on Granbull for 80 damage
+Player B: Flygon fainted
+Player B: Switched out Flygon for Flygon
+Turn 24:
+Player A: Blaziken used High Jump Kick on Flygon for 135 damage
+Player B: Flygon used Earthquake on Blaziken and crit for 243 damage (supereffective)
+Player A: Blaziken fainted
+Player A: Switched out Blaziken for Purugly
+Turn 25:
+Player B: Flygon used Earthquake on Purugly for 82 damage
+Player A: Purugly fainted

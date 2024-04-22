@@ -1,0 +1,15 @@
+Battle start:
+Player A sent out Dragapult
+Player B sent out Rayquaza
+Turn 1:
+Player A: Dragapult used Entrainment on self
+Player B: Rayquaza used Outrage but it had no effect on Dragapult
+Turn 2:
+Player A: Dragapult used Hone Claws on self
+Player B: Rayquaza used Outrage but it had no effect on Dragapult
+Turn 3:
+Player A: Dragapult used Judgment on Rayquaza for 53 damage (supereffective)
+Player B: Rayquaza used Dragon Ascent but it had no effect on Dragapult
+Turn 4:
+Player A: Dragapult used Judgment on Rayquaza for 47 damage (supereffective)
+Player B: Rayquaza fainted

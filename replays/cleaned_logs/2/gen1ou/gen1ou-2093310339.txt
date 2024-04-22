@@ -1,0 +1,313 @@
+Battle start:
+Player A sent out Gengar
+Player B sent out Alakazam
+Turn 1:
+Player B: Switched out Alakazam for Chansey
+Turn 2:
+Player B: Chansey used Thunder Wave
+Turn 3:
+Player B: Chansey used Seismic Toss on Gengar for 30 damage
+Player A: Gengar used Hypnosis
+Turn 4:
+Player B: Switched out Chansey for Alakazam
+Player A: Gengar used Explosion on Alakazam for 96 damage
+Player A: Gengar fainted
+Player A: Switched out Gengar for Alakazam
+Turn 5:
+Player B: Switched out Alakazam for Slowbro
+Player A: Alakazam used Psychic on Slowbro for 18 damage
+Turn 6:
+Player A: Alakazam used Thunder Wave
+Player B: Slowbro can't move because it is paralyzed
+Turn 7:
+Player A: Alakazam used Mimic on self
+Player B: Slowbro used Amnesia on self
+Turn 8:
+Player A: Alakazam used Psychic on Slowbro for 10 damage
+Player B: Slowbro used Amnesia on self
+Turn 9:
+Player A: Switched out Alakazam for Victreebel
+Player B: Slowbro can't move because it is paralyzed
+Turn 10:
+Player A: Victreebel used Razor Leaf on Slowbro and crit for 72 damage (supereffective)
+Player B: Slowbro fainted
+Player B: Switched out Slowbro for Alakazam
+Turn 11:
+Player B: Alakazam used Recover and healed for 50
+Turn 12:
+Player A: Switched out Victreebel for Slowbro
+Player B: Alakazam used Psychic on Slowbro for 20 damage
+Turn 13:
+Player B: Alakazam used Seismic Toss on Slowbro for 26 damage
+Player A: Slowbro used Thunder Wave
+Turn 14:
+Player A: Slowbro used Amnesia on self
+Player B: Alakazam used Thunder Wave
+Turn 15:
+Player B: Switched out Alakazam for Exeggutor
+Player A: Slowbro used Amnesia on self
+Turn 16:
+Player B: Exeggutor used Sleep Powder but it failed
+Player A: Slowbro used Thunder Wave
+Turn 17:
+Player B: Exeggutor can't move because it is paralyzed
+Player A: Slowbro can't move because it is paralyzed
+Turn 18:
+Player B: Exeggutor used Explosion on Slowbro for 54 damage
+Player A: Slowbro fainted
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Snorlax
+Player A: Switched out Slowbro for Cloyster
+Turn 19:
+Player B: Switched out Snorlax for Chansey
+Player A: Cloyster used Clamp on Chansey for 5 damage
+Turn 20:
+Player A: Switched out Cloyster for Dragonite
+Player B: Chansey can't move because it is asleep
+Turn 21:
+Player A: Dragonite used Agility on self
+Player B: Chansey can't move because it is asleep
+Turn 22:
+Player A: Dragonite used Surf on Chansey for 11 damage
+Player B: Chansey can't move because it is asleep
+Turn 23:
+Player A: Dragonite used Surf on Chansey for 10 damage
+Turn 24:
+Player A: Dragonite used Wrap on Chansey and crit for 10 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 25:
+Player B: Switched out Chansey for Snorlax
+Player A: Dragonite used Wrap on Snorlax for 4 damage
+Turn 26:
+Player A: Dragonite used Wrap on Snorlax for 4 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 27:
+Player A: Dragonite used Wrap on Snorlax for 4 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 28:
+Player B: Snorlax used Reflect on self
+Turn 29:
+Player A: Dragonite used Wrap on Snorlax for 1 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 30:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 31:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 32:
+Player A: Dragonite used Wrap on Snorlax and crit for 7 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 33:
+Player A: Dragonite used Wrap on Snorlax for 7 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 34:
+Player A: Dragonite used Wrap on Snorlax and crit for 7 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 35:
+Player A: Dragonite used Wrap on Snorlax for 8 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 36:
+Player A: Dragonite used Wrap on Snorlax for 7 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 37:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 38:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 39:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 40:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 41:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 42:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 43:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 44:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 45:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 46:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 47:
+Player A: Dragonite used Wrap on Snorlax for 3 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 48:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 49:
+Player A: Dragonite used Wrap on Snorlax for 2 damage
+Player B: Snorlax can't move because it is partially trapped
+Turn 50:
+Player B: Switched out Snorlax for Tauros
+Turn 51:
+Player A: Dragonite used Thunder Wave
+Player B: Tauros can't move because it is paralyzed
+Turn 52:
+Player B: Switched out Tauros for Chansey
+Player A: Dragonite used Wrap on Chansey for 6 damage
+Turn 53:
+Player A: Dragonite used Wrap on Chansey for 6 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 54:
+Player A: Dragonite used Wrap on Chansey for 6 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 55:
+Player A: Dragonite used Wrap on Chansey for 5 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 56:
+Player A: Dragonite used Wrap on Chansey for 6 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 57:
+Player B: Chansey used Thunder Wave
+Turn 58:
+Player B: Chansey used Soft-Boiled and healed for 50
+Player A: Dragonite used Thunder Wave
+Turn 59:
+Player A: Dragonite used Agility on self
+Player B: Chansey used Reflect on self
+Turn 60:
+Player A: Dragonite used Wrap on Chansey and crit for 11 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 61:
+Player B: Switched out Chansey for Snorlax
+Player A: Dragonite can't move because it is paralyzed
+Turn 62:
+Player A: Dragonite can't move because it is paralyzed
+Player B: Snorlax used Rest and healed for 80
+Turn 63:
+Player A: Switched out Dragonite for Victreebel
+Player B: Switched out Snorlax for Tauros
+Turn 64:
+Player A: Victreebel used Wrap on Tauros for 3 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 65:
+Player A: Victreebel used Wrap on Tauros for 3 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 66:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 67:
+Player A: Victreebel used Wrap on Tauros for 3 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 68:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 69:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 70:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 71:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 72:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 73:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 74:
+Player A: Victreebel used Wrap on Tauros for 4 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 75:
+Player A: Victreebel used Wrap on Tauros for 3 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 76:
+Player B: Switched out Tauros for Alakazam
+Turn 77:
+Player A: Victreebel used Wrap on Alakazam for 7 damage
+Player B: Alakazam can't move because it is partially trapped
+Turn 78:
+Player A: Victreebel used Wrap on Alakazam for 6 damage
+Player B: Alakazam can't move because it is partially trapped
+Turn 79:
+Player A: Victreebel used Wrap on Alakazam for 6 damage
+Player B: Alakazam can't move because it is partially trapped
+Turn 80:
+Player A: Victreebel used Wrap on Alakazam for 7 damage
+Player B: Alakazam can't move because it is partially trapped
+Turn 81:
+Player A: Victreebel used Wrap on Alakazam for 7 damage
+Player B: Alakazam can't move because it is partially trapped
+Turn 82:
+Player A: Victreebel used Razor Leaf on Alakazam and crit for 21 damage
+Player B: Alakazam fainted
+Player B: Switched out Alakazam for Tauros
+Turn 83:
+Player A: Victreebel used Wrap on Tauros and crit for 8 damage
+Player B: Tauros can't move because it is partially trapped
+Turn 84:
+Player B: Switched out Tauros for Chansey
+Player A: Victreebel used Wrap on Chansey and crit for 10 damage
+Turn 85:
+Player B: Switched out Chansey for Snorlax
+Player A: Victreebel used Wrap on Snorlax for 3 damage
+Turn 86:
+Player A: Victreebel used Wrap on Snorlax for 3 damage
+Player B: Snorlax can't move because it is asleep
+Turn 87:
+Player A: Victreebel used Razor Leaf on Snorlax and crit for 31 damage
+Turn 88:
+Player B: Snorlax used Body Slam on Victreebel for 40 damage
+Turn 89:
+Player B: Snorlax used Body Slam on Victreebel for 39 damage
+Player A: Victreebel used Sleep Powder
+Turn 90:
+Player B: Snorlax can't move because it is asleep
+Player A: Victreebel used Razor Leaf on Snorlax and crit for 29 damage
+Turn 91:
+Player B: Switched out Snorlax for Chansey
+Player A: Victreebel used Razor Leaf on Chansey and crit for 17 damage
+Turn 92:
+Player A: Victreebel used Wrap on Chansey for 5 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 93:
+Player A: Victreebel used Wrap on Chansey for 4 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 94:
+Player A: Victreebel used Wrap on Chansey for 4 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 95:
+Player A: Switched out Victreebel for Cloyster
+Player B: Chansey can't move because it is partially trapped
+Turn 96:
+Player A: Cloyster used Clamp on Chansey for 6 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 97:
+Player A: Cloyster used Clamp on Chansey for 5 damage
+Player B: Chansey can't move because it is partially trapped
+Turn 98:
+Player B: Switched out Chansey for Tauros
+Player A: Cloyster used Clamp on Tauros for 12 damage
+Turn 99:
+Player B: Switched out Tauros for Snorlax
+Turn 100:
+Player A: Cloyster used Blizzard on Snorlax for 32 damage
+Player B: Snorlax can't move because it is asleep
+Turn 101:
+Player A: Cloyster used Blizzard on Snorlax for 2 damage
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Tauros
+Turn 102:
+Player A: Cloyster used Blizzard on Tauros and crit for 36 damage
+Player B: Tauros fainted
+Player B: Switched out Tauros for Chansey
+Turn 103:
+Player B: Chansey used Soft-Boiled and healed for 50
+Turn 104:
+Player A: Cloyster used Explosion on Chansey for 73 damage
+Player B: Chansey fainted
+Player A: Cloyster fainted

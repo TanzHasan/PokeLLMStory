@@ -1,0 +1,66 @@
+Battle start:
+Player A sent out Necrozma-Ultra
+Player B sent out Guzzlord
+Turn 1:
+Player A: Switched out Necrozma-Ultra for Magearna
+Player B: Guzzlord used Clanging Scales but it had no effect on Magearna
+Turn 2:
+Player B: Guzzlord used Blue Flare on Magearna for 62 damage (supereffective)
+Player A: Magearna used Stone Axe on Guzzlord for 7 damage
+Turn 3:
+Player B: Guzzlord used Volt Switch on Magearna for 17 damage
+Player B: Switched out Guzzlord for Regidrago
+Player A: Magearna used Mortal Spin on Regidrago for 22 damage
+Turn 4:
+Player B: Regidrago used Baneful Bunker on self
+Player A: Magearna used Springtide Storm on self
+Turn 5:
+Player B: Regidrago used Destiny Bond on self
+Player A: Magearna used Springtide Storm on Regidrago for 78 damage (supereffective)
+Player B: Regidrago fainted
+Player A: Magearna fainted
+Player B: Switched out Regidrago for Tyranitar-Mega
+Player A: Switched out Magearna for Necrozma-Ultra
+Turn 6:
+Player A: Necrozma-Ultra used Volt Switch on Tyranitar-Mega for 34 damage
+Player A: Switched out Necrozma-Ultra for Kyurem-Black
+Player B: Tyranitar-Mega used Strength Sap and healed for 34
+Turn 7:
+Player A: Kyurem-Black used Fake Out on Tyranitar-Mega for 12 damage
+Player B: Tyranitar-Mega can't move because flinch
+Turn 8:
+Player A: Switched out Kyurem-Black for Garchomp-Mega
+Player B: Tyranitar-Mega used Jaw Lock on Garchomp-Mega for 29 damage
+Turn 9:
+Player A: Garchomp-Mega used Headlong Rush on Tyranitar-Mega for 74 damage (supereffective)
+Player B: Tyranitar-Mega used Strength Sap on self
+Player A: Garchomp-Mega used Strength Sap and healed for 29
+Turn 10:
+Player A: Garchomp-Mega used Headlong Rush on Tyranitar-Mega for 14 damage (supereffective)
+Player B: Tyranitar-Mega fainted
+Player B: Switched out Tyranitar-Mega for Sceptile-Mega
+Turn 11:
+Player B: Sceptile-Mega used Dragon Energy on Garchomp-Mega for 100 damage (supereffective)
+Player A: Garchomp-Mega fainted
+Player A: Switched out Garchomp-Mega for Kyurem-Black
+Turn 12:
+Player A: Kyurem-Black used Fake Out on Sceptile-Mega for 100 damage (supereffective)
+Player B: Sceptile-Mega fainted
+Player B: Switched out Sceptile-Mega for Guzzlord
+Turn 13:
+Player B: Guzzlord used Fake Out on Kyurem-Black for 20 damage
+Player A: Kyurem-Black can't move because flinch
+Turn 14:
+Player A: Kyurem-Black used Extreme Speed on Guzzlord for 45 damage
+Player B: Guzzlord used Hyper Drill on Kyurem-Black for 45 damage
+Turn 15:
+Player A: Kyurem-Black used Hyper Drill on Guzzlord for 40 damage
+Player B: Guzzlord used Explosion on Kyurem-Black for 35 damage
+Player B: Guzzlord fainted
+Player A: Kyurem-Black fainted
+Player A: Switched out Kyurem-Black for Greninja-Ash
+Player B: Switched out Guzzlord for Arceus
+Turn 16:
+Player A: Greninja-Ash used Surging Strikes on Arceus and crit for 25 damage
+Player B: Arceus used Take Heart on self
+Turn 17:

@@ -1,0 +1,49 @@
+Battle start:
+Player A sent out Darkrai
+Player B sent out Walking Wake
+Turn 1:
+Player A: Darkrai used Dark Pulse on Walking Wake for 100 damage
+Player B: Walking Wake fainted
+Player B: Switched out Walking Wake for Iron Valiant
+Turn 2:
+Player A: Switched out Darkrai for Clodsire
+Player B: Iron Valiant used Calm Mind on self
+Turn 3:
+Player B: Switched out Iron Valiant for Iron Treads
+Player A: Clodsire used Poison Jab but it had no effect on Iron Treads
+Turn 4:
+Player A: Switched out Clodsire for Corviknight
+Player B: Iron Treads used Supercell Slam on Corviknight for 58 damage (supereffective)
+Turn 5:
+Player A: Switched out Corviknight for Garchomp
+Player B: Iron Treads used Supercell Slam but it had no effect on Garchomp
+Turn 6:
+Player B: Switched out Iron Treads for Iron Leaves
+Player A: Switched out Garchomp for Cinderace
+Turn 7:
+Player B: Switched out Iron Leaves for Pincurchin
+Player A: Cinderace used U-turn on Pincurchin for 43 damage
+Player A: Switched out Cinderace for Darkrai
+Turn 8:
+Player A: Darkrai used Dark Pulse on Pincurchin for 57 damage
+Player B: Pincurchin fainted
+Player B: Switched out Pincurchin for Iron Valiant
+Turn 9:
+Player A: Switched out Darkrai for Clodsire
+Player B: Iron Valiant used Shadow Ball on Clodsire for 18 damage
+Turn 10:
+Player B: Iron Valiant used Shadow Ball on Clodsire for 12 damage
+Player A: Clodsire used Earthquake on Iron Valiant for 35 damage
+Turn 11:
+Player B: Iron Valiant used Shadow Ball on Clodsire for 23 damage
+Player A: Clodsire used Poison Jab on Iron Valiant for 36 damage (supereffective)
+Player B: Iron Valiant fainted
+Player B: Switched out Iron Valiant for Iron Leaves
+Turn 12:
+Player B: Iron Leaves used Psyblade on Clodsire for 47 damage (supereffective)
+Player A: Clodsire fainted
+Player A: Switched out Clodsire for Cinderace
+Turn 13:
+Player A: Cinderace used U-turn on Iron Leaves for 100 damage (supereffective)
+Player B: Iron Leaves fainted
+Player A: Switched out Cinderace for Corviknight

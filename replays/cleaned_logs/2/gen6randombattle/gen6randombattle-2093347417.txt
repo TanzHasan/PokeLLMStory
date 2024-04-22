@@ -1,0 +1,62 @@
+Battle start:
+Player A sent out Alakazam
+Player B sent out Ledian
+Turn 1:
+Player B: Ledian used Knock Off
+Turn 2:
+Player A: Switched out Alakazam for Pidgeot
+Player B: Ledian used Knock Off on Pidgeot for 40 damage
+Turn 3:
+Player B: Switched out Ledian for Dugtrio
+Player A: Pidgeot used Work Up on self
+Turn 4:
+Player B: Dugtrio used Stone Edge on Pidgeot for 203 damage (supereffective)
+Player A: Pidgeot used Hurricane on Dugtrio for 180 damage
+Player B: Dugtrio fainted
+Player B: Switched out Dugtrio for Jolteon
+Turn 5:
+Player A: Switched out Pidgeot for Golem
+Player B: Jolteon used Volt Switch but it had no effect on Golem
+Turn 6:
+Player B: Switched out Jolteon for Arceus-Water
+Player A: Golem used Rock Polish on self
+Turn 7:
+Player A: Golem used Stone Edge on Arceus-Water for 120 damage
+Player B: Arceus-Water used Judgment on Golem for 280 damage (supereffective)
+Turn 8:
+Player A: Golem used Earthquake on Arceus-Water for 168 damage
+Player B: Arceus-Water fainted
+Player B: Switched out Arceus-Water for Delcatty
+Turn 9:
+Player B: Delcatty used Fake Out on Golem for 1 damage
+Player A: Golem fainted
+Player A: Switched out Golem for Toxicroak
+Turn 10:
+Player B: Delcatty used Double-Edge on Toxicroak for 192 damage
+Player A: Toxicroak used Swords Dance on self
+Turn 11:
+Player B: Delcatty used Double-Edge on Toxicroak for 78 damage
+Player A: Toxicroak fainted
+Player A: Switched out Toxicroak for Darkrai
+Turn 12:
+Player A: Darkrai used Nasty Plot on self
+Player B: Delcatty used Double-Edge on Darkrai for 153 damage
+Turn 13:
+Player A: Darkrai used Dark Pulse on Delcatty for 154 damage
+Player B: Delcatty fainted
+Player B: Switched out Delcatty for Jolteon
+Turn 14:
+Player B: Jolteon used Thunderbolt on Darkrai for 60 damage
+Player A: Darkrai fainted
+Player A: Switched out Darkrai for Ursaring
+Turn 15:
+Player B: Jolteon used Thunderbolt on Ursaring for 169 damage
+Player A: Ursaring used Crunch on Jolteon for 99 damage
+Turn 16:
+Player B: Jolteon used Thunderbolt on Ursaring for 129 damage
+Player A: Ursaring fainted
+Player A: Switched out Ursaring for Alakazam
+Turn 17:
+Player B: Switched out Jolteon for Ledian
+Player A: Alakazam used Psychic on Ledian for 101 damage
+Turn 18:

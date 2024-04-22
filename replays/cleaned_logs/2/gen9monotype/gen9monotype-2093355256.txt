@@ -1,0 +1,99 @@
+Battle start:
+Player A sent out Sneasler
+Player B sent out Landorus
+Turn 1:
+Player A: Sneasler used U-turn on Landorus for 13 damage
+Player A: Switched out Sneasler for Iron Hands
+Player B: Landorus used Earth Power on Iron Hands for 61 damage (supereffective)
+Turn 2:
+Player B: Landorus used Earth Power on Iron Hands for 39 damage (supereffective)
+Player A: Iron Hands fainted
+Player A: Switched out Iron Hands for Iron Valiant
+Turn 3:
+Player B: Switched out Landorus for Clodsire
+Player A: Iron Valiant used Moonblast on Clodsire for 14 damage
+Turn 4:
+Player A: Iron Valiant used Knock Off on Clodsire for 25 damage
+Player B: Clodsire used Toxic
+Turn 5:
+Player A: Iron Valiant used Close Combat on Clodsire for 22 damage
+Player B: Clodsire used Recover and healed for 50
+Turn 6:
+Player A: Switched out Iron Valiant for Zamazenta
+Player B: Clodsire used Spikes on self
+Turn 7:
+Turn 8:
+Player B: Switched out Clodsire for Quagsire
+Player A: Zamazenta used Iron Defense on self
+Turn 9:
+Player A: Zamazenta used Body Press on Quagsire for 22 damage
+Player B: Quagsire used Stealth Rock on self
+Turn 10:
+Player A: Switched out Zamazenta for Great Tusk
+Player B: Quagsire used Body Press on Great Tusk for 10 damage
+Turn 11:
+Player A: Great Tusk used Rapid Spin on Quagsire for -3 damage
+Player B: Quagsire used Toxic
+Turn 12:
+Player A: Great Tusk used Stealth Rock on self
+Player B: Quagsire used Body Press on Great Tusk and crit for 23 damage
+Turn 13:
+Player A: Switched out Great Tusk for Sneasler
+Player B: Quagsire used Body Press on Sneasler for 17 damage
+Turn 14:
+Player A: Sneasler used Dire Claw on Quagsire for -5 damage
+Player B: Quagsire can't move because it is asleep
+Turn 15:
+Player A: Switched out Sneasler for Iron Valiant
+Player B: Quagsire can't move because it is asleep
+Turn 16:
+Player A: Iron Valiant used Moonblast on Quagsire and crit for 81 damage
+Player B: Quagsire can't move because it is asleep
+Turn 17:
+Player B: Switched out Quagsire for Clodsire
+Player A: Iron Valiant used Knock Off on Clodsire for 24 damage
+Turn 18:
+Player A: Switched out Iron Valiant for Great Tusk
+Player B: Clodsire used Spikes on self
+Turn 19:
+Player A: Great Tusk used Rapid Spin on Clodsire for 14 damage
+Player B: Clodsire used Earthquake on Great Tusk for 30 damage
+Turn 20:
+Player A: Great Tusk used Earthquake on Clodsire for 51 damage (supereffective)
+Player B: Clodsire fainted
+Player B: Switched out Clodsire for Ursaluna-Bloodmoon
+Turn 21:
+Player B: Ursaluna-Bloodmoon used Vacuum Wave on Great Tusk for 37 damage
+Player A: Great Tusk fainted
+Player A: Switched out Great Tusk for Sneasler
+Turn 22:
+Player B: Switched out Ursaluna-Bloodmoon for Quagsire
+Player A: Sneasler used Close Combat on Quagsire for 5 damage
+Player B: Ursaluna-Bloodmoon fainted
+Player B: Switched out Ursaluna-Bloodmoon for Iron Treads
+Turn 23:
+Player A: Sneasler used Close Combat on Iron Treads and crit for 100 damage (supereffective)
+Player B: Iron Treads fainted
+Player B: Switched out Iron Treads for Landorus
+Turn 24:
+Player A: Sneasler used Close Combat on Landorus for 47 damage
+Player B: Landorus used Earth Power on Sneasler for 83 damage (supereffective)
+Player A: Sneasler fainted
+Player A: Switched out Sneasler for Iron Valiant
+Turn 25:
+Player A: Iron Valiant used Moonblast on Landorus for 40 damage
+Player B: Landorus fainted
+Player B: Switched out Landorus for Ursaluna-Bloodmoon
+Turn 26:
+Player A: Iron Valiant used Close Combat on Ursaluna-Bloodmoon for 99 damage (supereffective)
+Player B: Ursaluna-Bloodmoon used Earth Power on Iron Valiant for 100 damage
+Player A: Iron Valiant fainted
+Player A: Switched out Iron Valiant for Urshifu-Rapid-Strike
+Turn 27:
+Player B: Switched out Ursaluna-Bloodmoon for Great Tusk
+Player A: Urshifu-Rapid-Strike used Aqua Jet on Great Tusk for 33 damage (supereffective)
+Turn 28:
+Player A: Urshifu-Rapid-Strike used Surging Strikes on Great Tusk and crit for 12 damage (supereffective)
+Player B: Great Tusk fainted
+Player B: Switched out Great Tusk for Ursaluna-Bloodmoon
+Player B: Great Tusk fainted

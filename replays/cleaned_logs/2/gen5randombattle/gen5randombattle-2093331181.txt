@@ -1,0 +1,49 @@
+Battle start:
+Player A sent out Tropius
+Player B sent out Gengar
+Turn 1:
+Player B: Gengar used Sludge Wave and healed for 82
+Turn 2:
+Player B: Gengar used Sludge Wave
+Player A: Tropius used Leech Seed on self
+Turn 3:
+Player A: Tropius used Protect on self
+Player B: Gengar used Sludge Wave on self
+Turn 4:
+Player A: Switched out Tropius for Alomomola
+Player B: Gengar used Sludge Wave on Alomomola for 204 damage
+Turn 5:
+Player A: Alomomola used Protect on self
+Player B: Gengar used Sludge Wave on self
+Turn 6:
+Player B: Gengar used Sludge Wave on Alomomola for 184 damage
+Player A: Alomomola used Wish on self
+Player B: Gengar fainted
+Player B: Switched out Gengar for Terrakion
+Turn 7:
+Player A: Switched out Alomomola for Tropius
+Player B: Terrakion used Quick Attack and healed for 82
+Turn 8:
+Player B: Switched out Terrakion for Carracosta
+Player A: Tropius used Leech Seed on self
+Turn 9:
+Player B: Switched out Carracosta for Swellow
+Turn 10:
+Player B: Swellow used Quick Attack
+Player A: Tropius used Leech Seed on self
+Turn 11:
+Player A: Tropius used Protect on self
+Player B: Swellow used Facade on self
+Turn 12:
+Player B: Swellow used Facade and healed for 82
+Turn 13:
+Player A: Tropius used Protect on self
+Player B: Swellow used Quick Attack on self
+Player B: Swellow fainted
+Player B: Switched out Swellow for Ledian
+Turn 14:
+Player A: Tropius used Leech Seed on self
+Turn 15:
+Player A: Tropius used Protect on self
+Player B: Ledian used Focus Blast on self
+Turn 16:

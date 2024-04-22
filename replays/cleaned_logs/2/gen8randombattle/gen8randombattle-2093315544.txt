@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Pincurchin
+Player B sent out Aggron
+Turn 1:
+Player B: Switched out Aggron for Celebi
+Player A: Pincurchin used Rising Voltage on Celebi for 96 damage
+Turn 2:
+Player A: Switched out Pincurchin for Regice
+Player B: Celebi used Nasty Plot on self
+Turn 3:
+Player B: Switched out Celebi for Bronzong
+Player A: Regice used Ice Beam on Bronzong for 40 damage
+Turn 4:
+Player A: Switched out Regice for Dracozolt
+Player B: Bronzong used Toxic
+Turn 5:
+Player B: Bronzong used Protect on self
+Player A: Dracozolt used Bolt Beak on self
+Turn 6:
+Player B: Switched out Bronzong for Celebi
+Player A: Dracozolt used Bolt Beak on Celebi for 66 damage
+Turn 7:
+Player A: Switched out Dracozolt for Regice
+Player B: Celebi used Recover and healed for 162
+Turn 8:
+Player B: Switched out Celebi for Bronzong
+Player A: Regice used Thunderbolt on Bronzong for 12 damage
+Turn 9:
+Player A: Switched out Regice for Pincurchin
+Player B: Bronzong used Earthquake on Pincurchin and crit for 82 damage (supereffective)
+Turn 10:
+Player B: Switched out Bronzong for Celebi
+Player A: Pincurchin used Rising Voltage on Celebi for 94 damage
+Turn 11:
+Player B: Celebi used Nasty Plot on self
+Player A: Pincurchin used Spikes on self
+Turn 12:
+Player B: Celebi used Nasty Plot on self
+Turn 13:
+Player B: Celebi used Nasty Plot on self
+Turn 14:

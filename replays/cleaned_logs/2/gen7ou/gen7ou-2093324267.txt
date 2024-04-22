@@ -1,0 +1,86 @@
+Battle start:
+Player A sent out Gengar
+Player B sent out Diggersby
+Turn 1:
+Player A: Gengar used Sludge Wave on Diggersby for 43 damage
+Player B: Diggersby used Swords Dance on self
+Turn 2:
+Player A: Gengar used Sludge Wave on Diggersby for 45 damage
+Player B: Diggersby used Earthquake on Gengar for 100 damage (supereffective)
+Player A: Gengar fainted
+Player A: Switched out Gengar for Pinsir
+Turn 3:
+Player A: Pinsir used Quick Attack on Diggersby for 12 damage
+Player B: Diggersby fainted
+Player B: Switched out Diggersby for Magneton
+Turn 4:
+Player A: Switched out Pinsir for Quagsire
+Player B: Magneton used Electroweb but it had no effect on Quagsire
+Turn 5:
+Player B: Magneton used Toxic
+Player A: Quagsire used Scald on Magneton for 21 damage
+Turn 6:
+Player B: Switched out Magneton for Altaria
+Player A: Quagsire used Toxic
+Turn 7:
+Player A: Switched out Quagsire for Pinsir-Mega
+Player B: Altaria used Agility on self
+Turn 8:
+Player A: Pinsir used Quick Attack on Altaria for 49 damage
+Player B: Altaria used Return on Pinsir and crit for 100 damage
+Player A: Pinsir fainted
+Player A: Switched out Pinsir for Quagsire
+Turn 9:
+Player B: Altaria used Hidden Power on Quagsire for 83 damage (supereffective)
+Player A: Quagsire used Recover and healed for 50
+Turn 10:
+Player B: Altaria used Return on Quagsire for 41 damage
+Player A: Quagsire used Recover and healed for 50
+Player B: Altaria fainted
+Player B: Switched out Altaria for Sylveon
+Turn 11:
+Player B: Sylveon used Hyper Voice on Quagsire for 76 damage
+Player A: Quagsire fainted
+Player A: Switched out Quagsire for Tornadus
+Turn 12:
+Player A: Tornadus used Heat Wave on Sylveon for 34 damage
+Player B: Sylveon used Hyper Voice on Tornadus for 91 damage
+Player A: Tornadus fainted
+Player A: Switched out Tornadus for Cresselia
+Turn 13:
+Player B: Sylveon used Hyper Voice on Cresselia for 44 damage
+Player A: Cresselia used Psyshock on Sylveon for 31 damage
+Turn 14:
+Player B: Sylveon used Hyper Voice on Cresselia for 42 damage
+Player A: Cresselia used Moonlight and healed for 50
+Turn 15:
+Player B: Sylveon used Hyper Voice on Cresselia for 43 damage
+Player A: Cresselia used Moonlight and healed for 50
+Turn 16:
+Player B: Sylveon used Hyper Voice on Cresselia for 36 damage
+Player A: Cresselia used Psyshock on Sylveon for 30 damage
+Turn 17:
+Player B: Sylveon used Hyper Voice on Cresselia for 35 damage
+Player A: Cresselia fainted
+Player A: Switched out Cresselia for Hydreigon
+Turn 18:
+Player A: Hydreigon used Surf on Sylveon for 5 damage
+Player B: Sylveon fainted
+Player B: Switched out Sylveon for Venomoth
+Turn 19:
+Player A: Hydreigon used Surf on Venomoth for 50 damage
+Player B: Venomoth used Sleep Powder
+Turn 20:
+Player A: Hydreigon can't move because it is asleep
+Player B: Venomoth used Bug Buzz on Hydreigon for 80 damage (supereffective)
+Turn 21:
+Player A: Hydreigon used Surf on Venomoth for 50 damage
+Player B: Venomoth fainted
+Player B: Switched out Venomoth for Magneton
+Turn 22:
+Player A: Hydreigon used Surf on Magneton for 35 damage
+Player B: Magneton used Electroweb on Hydreigon for 14 damage
+Turn 23:
+Player A: Hydreigon used Surf on Magneton for 38 damage
+Player B: Magneton used Thunderbolt on Hydreigon for 6 damage
+Player A: Hydreigon fainted

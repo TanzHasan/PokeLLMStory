@@ -1,0 +1,7 @@
+Battle start:
+Player A sent out Hippowdon
+Player B sent out Flareon
+Turn 1:
+Player B: Flareon used Superpower on Hippowdon for 85 damage
+Player A: Hippowdon used Earthquake on Flareon for 251 damage (supereffective)
+Player B: Flareon fainted

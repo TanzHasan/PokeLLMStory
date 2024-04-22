@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Cosmoem
+Player B sent out Quaquaval
+Turn 1:
+Player B: Quaquaval used Swords Dance on self
+Player A: Cosmoem used Bulk Up on self
+Turn 2:
+Player B: Quaquaval used Swords Dance on self
+Player A: Cosmoem used Bulk Up on self
+Turn 3:
+Player B: Quaquaval used Liquidation on Cosmoem for 37 damage
+Player A: Cosmoem used Bulk Up on self
+Turn 4:
+Player B: Quaquaval used Liquidation on Cosmoem for 34 damage
+Player A: Cosmoem used Astral Barrage on Quaquaval for 14 damage
+Turn 5:
+Player B: Quaquaval used Liquidation on Cosmoem for 29 damage
+Player A: Cosmoem fainted
+Player A: Switched out Cosmoem for Orbeetle
+Turn 6:
+Player B: Quaquaval used Liquidation on Orbeetle and crit for 99 damage
+Player A: Orbeetle used Psychic on Quaquaval for 77 damage (supereffective)
+Turn 7:
+Player B: Quaquaval used Liquidation on Orbeetle for 1 damage
+Player A: Orbeetle fainted
+Player A: Switched out Orbeetle for Typhlosion-Hisui
+Turn 8:
+Player B: Quaquaval used Liquidation on Typhlosion-Hisui for 100 damage (supereffective)
+Player A: Typhlosion-Hisui fainted
+Player A: Switched out Typhlosion-Hisui for Urshifu-Rapid-Strike
+Turn 9:
+Player B: Quaquaval used Close Combat on Urshifu-Rapid-Strike for 100 damage
+Player A: Urshifu-Rapid-Strike fainted
+Player A: Switched out Urshifu-Rapid-Strike for Maushold-Four
+Turn 10:
+Player B: Quaquaval used Liquidation on Maushold-Four for 100 damage
+Player A: Maushold-Four fainted
+Player A: Switched out Maushold-Four for Brute Bonnet
+Turn 11:
+Player B: Quaquaval used Close Combat on Brute Bonnet for 100 damage (supereffective)
+Player A: Brute Bonnet fainted

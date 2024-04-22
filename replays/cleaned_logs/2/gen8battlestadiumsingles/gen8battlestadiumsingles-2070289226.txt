@@ -1,0 +1,22 @@
+Battle start:
+Player A sent out Landorus-Therian
+Player B sent out Celesteela
+Turn 1:
+Player A: Switched out Landorus-Therian for Tapu Fini
+Player B: Celesteela used Meteor Beam on Tapu Fini for 44 damage
+Turn 2:
+Player B: Celesteela used Flash Cannon on Tapu Fini for 34 damage
+Player A: Tapu Fini used Calm Mind on self
+Turn 3:
+Player B: Celesteela used Flash Cannon on Tapu Fini for 22 damage
+Player A: Tapu Fini fainted
+Player A: Switched out Tapu Fini for Cinderace
+Turn 4:
+Player A: Cinderace used G-Max Fireball on Celesteela for 78 damage (supereffective)
+Player B: Celesteela used Max Rockfall on Cinderace for 100 damage (supereffective)
+Player A: Cinderace fainted
+Player A: Switched out Cinderace for Landorus-Therian
+Turn 5:
+Player A: Landorus-Therian used Rock Slide on Celesteela for 14 damage
+Player B: Celesteela used Max Steelspike on Landorus-Therian for 100 damage
+Player A: Landorus-Therian fainted

@@ -1,0 +1,134 @@
+Battle start:
+Player A sent out Slowking
+Player B sent out Mandibuzz
+Turn 1:
+Player B: Mandibuzz used Toxic
+Player A: Slowking used Thunder Wave
+Turn 2:
+Player B: Mandibuzz used Knock Off on Slowking for 50 damage (supereffective)
+Player A: Slowking used Chilly Reception on self
+Player A: Switched out Slowking for Sandy Shocks
+Turn 3:
+Player B: Switched out Mandibuzz for Hippowdon
+Player A: Sandy Shocks used Stealth Rock on self
+Turn 4:
+Player A: Switched out Sandy Shocks for Mandibuzz
+Player B: Hippowdon used Stealth Rock on self
+Turn 5:
+Player A: Mandibuzz used Toxic
+Player B: Hippowdon used Whirlwind on self
+Turn 6:
+Player B: Hippowdon used Earthquake on Mandibuzz for 26 damage
+Player A: Mandibuzz used Chilly Reception on self
+Player A: Switched out Mandibuzz for Kommo-o
+Turn 7:
+Player B: Switched out Hippowdon for Mandibuzz
+Player A: Kommo-o used Dragon Dance on self
+Turn 8:
+Player A: Kommo-o used Dragon Dance on self
+Player B: Mandibuzz used Toxic
+Turn 9:
+Player A: Kommo-o used Thunder Punch on Mandibuzz for 79 damage (supereffective)
+Player B: Mandibuzz used Knock Off on Kommo-o for 30 damage
+Turn 10:
+Player B: Switched out Mandibuzz for Hippowdon
+Player A: Kommo-o used Drain Punch on Hippowdon for 62 damage
+Player A: Kommo-o used Drain Punch and healed for 20
+Turn 11:
+Player B: Switched out Hippowdon for Skeledirge
+Player A: Kommo-o used Drain Punch but it had no effect on Skeledirge
+Turn 12:
+Player A: Kommo-o used Thunder Punch on Skeledirge for 27 damage
+Player B: Skeledirge can't move because it is paralyzed
+Player A: Kommo-o fainted
+Player A: Switched out Kommo-o for Mandibuzz
+Turn 13:
+Player B: Switched out Skeledirge for Mandibuzz
+Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
+Turn 14:
+Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
+Player B: Mandibuzz used Roost and healed for 50
+Turn 15:
+Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
+Player B: Mandibuzz can't move because it is paralyzed
+Turn 16:
+Player A: Switched out Mandibuzz for Sandy Shocks
+Player B: Mandibuzz used Roost and healed for 49
+Turn 17:
+Player B: Switched out Mandibuzz for Hippowdon
+Player A: Sandy Shocks used Volt Switch but it had no effect on Hippowdon
+Turn 18:
+Player A: Sandy Shocks used Earth Power on Hippowdon for 38 damage
+Player B: Hippowdon fainted
+Player B: Switched out Hippowdon for Latios
+Turn 19:
+Player B: Latios used Draco Meteor on Sandy Shocks for 100 damage
+Player A: Sandy Shocks fainted
+Player A: Switched out Sandy Shocks for Iron Moth
+Turn 20:
+Player B: Switched out Latios for Slowking
+Player A: Iron Moth used Dazzling Gleam on Slowking for 16 damage
+Turn 21:
+Player A: Iron Moth used Energy Ball on Slowking for 45 damage (supereffective)
+Player B: Slowking used Thunder Wave
+Turn 22:
+Player B: Switched out Slowking for Mandibuzz
+Player A: Iron Moth can't move because it is paralyzed
+Turn 23:
+Player A: Iron Moth used Dazzling Gleam on Mandibuzz for 48 damage (supereffective)
+Player B: Mandibuzz can't move because it is paralyzed
+Turn 24:
+Player B: Switched out Mandibuzz for Skeledirge
+Player A: Iron Moth used Fiery Dance on Skeledirge for 25 damage
+Turn 25:
+Player A: Iron Moth used Sludge Wave on Skeledirge for 20 damage
+Player B: Skeledirge used Slack Off and healed for 50
+Turn 26:
+Player A: Iron Moth used Fiery Dance on Skeledirge for 19 damage
+Player B: Skeledirge used Slack Off and healed for 41
+Turn 27:
+Player A: Switched out Iron Moth for Mandibuzz
+Player B: Skeledirge used Hex on Mandibuzz for 10 damage
+Turn 28:
+Player B: Switched out Skeledirge for Mandibuzz
+Player A: Mandibuzz used Defog on self
+Turn 29:
+Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
+Player B: Mandibuzz used Roost and healed for 50
+Turn 30:
+Player A: Switched out Mandibuzz for Slowking
+Player B: Mandibuzz used Toxic but it failed
+Turn 31:
+Player B: Mandibuzz used Knock Off on Slowking for 4 damage (supereffective)
+Player A: Slowking used Slack Off and healed for 50
+Turn 32:
+Player B: Switched out Mandibuzz for Latios
+Player A: Slowking used Chilly Reception on self
+Player A: Switched out Slowking for Mandibuzz
+Turn 33:
+Player B: Switched out Latios for Mandibuzz
+Turn 34:
+Player A: Switched out Mandibuzz for Slowking
+Player B: Mandibuzz used Knock Off on Slowking for 6 damage (supereffective)
+Turn 35:
+Player B: Mandibuzz used Knock Off on Slowking for 37 damage (supereffective)
+Player A: Slowking used Scald on Mandibuzz for 25 damage
+Turn 36:
+Player A: Switched out Slowking for Mandibuzz
+Player B: Mandibuzz used Toxic
+Turn 37:
+Player A: Mandibuzz used Foul Play on Mandibuzz for 6 damage
+Player B: Mandibuzz used Knock Off on Mandibuzz for 13 damage
+Turn 38:
+Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
+Player B: Mandibuzz used Roost and healed for 44
+Turn 39:
+Player A: Mandibuzz used Roost and healed for 19
+Player B: Mandibuzz used Knock Off on Mandibuzz for 4 damage
+Turn 40:
+Player A: Switched out Mandibuzz for Iron Moth
+Player B: Mandibuzz used Knock Off on Iron Moth for 52 damage
+Turn 41:
+Player B: Switched out Mandibuzz for Skeledirge
+Player A: Iron Moth used Dazzling Gleam on Skeledirge for 11 damage
+Turn 42:

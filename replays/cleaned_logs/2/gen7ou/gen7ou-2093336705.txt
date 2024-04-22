@@ -1,0 +1,5 @@
+Battle start:
+Player A sent out Toxapex
+Player B sent out Pidgeot
+Turn 1:
+Player B: Pidgeot used U-turn on Toxapex for 4 damage

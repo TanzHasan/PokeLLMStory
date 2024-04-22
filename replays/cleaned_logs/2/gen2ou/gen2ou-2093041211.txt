@@ -1,0 +1,86 @@
+Battle start:
+Player A sent out Snorlax
+Player B sent out Exeggutor
+Turn 1:
+Player B: Exeggutor used Sleep Powder
+Player A: Snorlax can't move because it is asleep
+Turn 2:
+Player B: Switched out Exeggutor for Cloyster
+Player A: Switched out Snorlax for Tyranitar
+Turn 3:
+Player B: Cloyster used Spikes on self
+Player A: Tyranitar used Rock Slide on Cloyster for 46 damage (supereffective)
+Turn 4:
+Player B: Switched out Cloyster for Steelix
+Player A: Switched out Tyranitar for Cloyster
+Turn 5:
+Player B: Switched out Steelix for Gengar
+Player A: Cloyster used Spikes on self
+Turn 6:
+Player A: Switched out Cloyster for Nidoking
+Turn 7:
+Player B: Switched out Gengar for Zapdos
+Player A: Nidoking used Earthquake but it had no effect on Zapdos
+Turn 8:
+Player B: Zapdos used Hidden Power on Nidoking for 44 damage (supereffective)
+Player A: Nidoking used Ice Beam on Zapdos for 35 damage (supereffective)
+Turn 9:
+Player B: Zapdos used Hidden Power on Nidoking for 37 damage (supereffective)
+Player A: Nidoking used Lovely Kiss
+Turn 10:
+Player B: Switched out Zapdos for Snorlax
+Player A: Switched out Nidoking for Gengar
+Turn 11:
+Player A: Gengar used Dynamic Punch on Snorlax and crit for 69 damage (supereffective)
+Player B: Snorlax used Earthquake on Gengar for 87 damage (supereffective)
+Turn 12:
+Player B: Switched out Snorlax for Exeggutor
+Player A: Gengar used Thunder on Exeggutor for 30 damage
+Turn 13:
+Player A: Switched out Gengar for Snorlax
+Player B: Exeggutor can't move because it is paralyzed
+Turn 14:
+Player A: Switched out Snorlax for Tyranitar
+Player B: Exeggutor can't move because it is paralyzed
+Turn 15:
+Player A: Tyranitar used Crunch on Exeggutor for 44 damage (supereffective)
+Player B: Exeggutor used Giga Drain on Tyranitar and crit for 91 damage (supereffective)
+Player B: Exeggutor used Giga Drain and healed for 44
+Turn 16:
+Player B: Switched out Exeggutor for Steelix
+Player A: Tyranitar used Crunch on Steelix for 27 damage
+Turn 17:
+Player A: Switched out Tyranitar for Zapdos
+Player B: Steelix used Earthquake but it had no effect on Zapdos
+Turn 18:
+Player A: Zapdos used Hidden Power on Steelix for 39 damage (supereffective)
+Player B: Steelix used Curse on self
+Turn 19:
+Player B: Steelix used Earthquake but it had no effect on Zapdos
+Player A: Zapdos used Whirlwind on self
+Turn 20:
+Player B: Steelix used Ice Punch on Zapdos for 38 damage (supereffective)
+Player A: Zapdos used Thunder on Steelix for 68 damage
+Turn 21:
+Player B: Switched out Steelix for Exeggutor
+Player A: Zapdos used Thunderbolt on Exeggutor for 32 damage
+Turn 22:
+Player A: Switched out Zapdos for Cloyster
+Player B: Exeggutor used Explosion on Cloyster for 98 damage
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Cloyster
+Turn 23:
+Player B: Cloyster used Surf on Cloyster for 2 damage
+Player A: Cloyster fainted
+Player A: Switched out Cloyster for Zapdos
+Turn 24:
+Player A: Zapdos used Thunderbolt on Cloyster for 54 damage (supereffective)
+Player B: Cloyster fainted
+Player B: Switched out Cloyster for Steelix
+Turn 25:
+Player A: Zapdos used Hidden Power on Steelix for 34 damage (supereffective)
+Player B: Steelix fainted
+Player B: Switched out Steelix for Snorlax
+Turn 26:
+Player A: Zapdos used Thunder on Snorlax for 31 damage
+Player B: Snorlax fainted

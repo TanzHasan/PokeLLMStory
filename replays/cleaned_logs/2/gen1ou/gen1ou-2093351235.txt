@@ -1,0 +1,176 @@
+Battle start:
+Player A sent out Starmie
+Player B sent out Starmie
+Turn 1:
+Player A: Switched out Starmie for Chansey
+Player B: Starmie used Ice Beam on Chansey and crit for 18 damage
+Turn 2:
+Player B: Starmie used Ice Beam on Chansey for 11 damage
+Player A: Chansey used Thunderbolt on Starmie for 46 damage (supereffective)
+Turn 3:
+Player B: Switched out Starmie for Exeggutor
+Player A: Chansey used Thunderbolt on Exeggutor for 8 damage
+Turn 4:
+Player A: Switched out Chansey for Gengar
+Player B: Exeggutor used Sleep Powder
+Turn 5:
+Player A: Switched out Gengar for Exeggutor
+Turn 6:
+Player A: Exeggutor used Sleep Powder
+Player B: Exeggutor can't move because it is asleep
+Turn 7:
+Player A: Switched out Exeggutor for Starmie
+Player B: Switched out Exeggutor for Starmie
+Turn 8:
+Player B: Switched out Starmie for Chansey
+Player A: Switched out Starmie for Chansey
+Turn 9:
+Player A: Switched out Chansey for Snorlax
+Player B: Chansey used Thunder Wave
+Turn 10:
+Player B: Chansey used Ice Beam on Snorlax for 20 damage
+Player A: Snorlax used Body Slam on Chansey for 41 damage
+Turn 11:
+Player B: Chansey used Soft-Boiled and healed for 41
+Player A: Snorlax used Body Slam on Chansey for 42 damage
+Turn 12:
+Player B: Switched out Chansey for Snorlax
+Player A: Snorlax used Body Slam on Snorlax for 24 damage
+Turn 13:
+Player A: Switched out Snorlax for Gengar
+Player B: Snorlax used Body Slam but it had no effect on Gengar
+Turn 14:
+Player A: Switched out Gengar for Exeggutor
+Player B: Snorlax used Body Slam on Exeggutor for 30 damage
+Turn 15:
+Player B: Snorlax used Body Slam on Exeggutor for 31 damage
+Player A: Exeggutor used Stun Spore
+Turn 16:
+Player B: Switched out Snorlax for Exeggutor
+Player A: Exeggutor used Explosion on Exeggutor for 76 damage
+Player A: Exeggutor fainted
+Player A: Switched out Exeggutor for Gengar
+Turn 17:
+Player B: Switched out Exeggutor for Rhydon
+Player A: Gengar can't move because it is asleep
+Turn 18:
+Player A: Switched out Gengar for Starmie
+Player B: Rhydon used Earthquake on Starmie for 48 damage
+Turn 19:
+Player B: Switched out Rhydon for Chansey
+Player A: Starmie used Hydro Pump on Chansey for 20 damage
+Turn 20:
+Player A: Starmie used Hydro Pump on Chansey for 21 damage
+Player B: Chansey used Soft-Boiled and healed for 50
+Turn 21:
+Player A: Switched out Starmie for Snorlax
+Player B: Chansey used Thunder Wave but it failed
+Turn 22:
+Player B: Switched out Chansey for Snorlax
+Player A: Snorlax used Surf on Snorlax for 14 damage
+Turn 23:
+Player A: Switched out Snorlax for Gengar
+Player B: Snorlax used Body Slam but it had no effect on Gengar
+Turn 24:
+Player B: Switched out Snorlax for Starmie
+Player A: Gengar can't move because it is asleep
+Turn 25:
+Player A: Switched out Gengar for Chansey
+Player B: Starmie used Recover and healed for 46
+Turn 26:
+Player B: Switched out Starmie for Chansey
+Player A: Chansey used Ice Beam on Chansey for 10 damage
+Turn 27:
+Player A: Switched out Chansey for Snorlax
+Player B: Chansey used Thunder Wave but it failed
+Turn 28:
+Player B: Switched out Chansey for Snorlax
+Player A: Snorlax used Body Slam on Snorlax for 27 damage
+Turn 29:
+Player A: Switched out Snorlax for Gengar
+Player B: Switched out Snorlax for Rhydon
+Turn 30:
+Player A: Switched out Gengar for Starmie
+Player B: Rhydon used Earthquake on Starmie for 48 damage
+Turn 31:
+Player B: Switched out Rhydon for Chansey
+Player A: Starmie used Recover and healed for 49
+Turn 32:
+Player A: Starmie used Hydro Pump on Chansey for 20 damage
+Player B: Chansey used Thunderbolt on Starmie for 45 damage (supereffective)
+Turn 33:
+Player A: Switched out Starmie for Snorlax
+Player B: Chansey used Soft-Boiled and healed for 50
+Turn 34:
+Player B: Switched out Chansey for Exeggutor
+Player A: Snorlax used Body Slam on Exeggutor and crit for 16 damage
+Player B: Chansey fainted
+Player B: Switched out Chansey for Starmie
+Turn 35:
+Player A: Switched out Snorlax for Chansey
+Player B: Starmie used Psychic on Chansey for 15 damage
+Turn 36:
+Player B: Starmie used Thunder Wave
+Player A: Chansey can't move because it is paralyzed
+Turn 37:
+Player B: Switched out Starmie for Snorlax
+Player A: Chansey used Ice Beam on Snorlax for 21 damage
+Turn 38:
+Player A: Switched out Chansey for Gengar
+Player B: Snorlax used Rest and healed for 86
+Turn 39:
+Player A: Switched out Gengar for Snorlax
+Player B: Switched out Snorlax for Rhydon
+Turn 40:
+Player B: Rhydon used Earthquake on Snorlax for 37 damage
+Player A: Snorlax used Surf on Rhydon for 83 damage (supereffective)
+Turn 41:
+Player B: Rhydon used Earthquake on Snorlax for 38 damage
+Player A: Snorlax used Surf on Rhydon for 17 damage (supereffective)
+Player B: Rhydon fainted
+Player B: Switched out Rhydon for Tauros
+Turn 42:
+Player B: Tauros used Body Slam on Snorlax for 5 damage
+Player A: Snorlax fainted
+Player A: Switched out Snorlax for Tauros
+Turn 43:
+Player A: Tauros used Body Slam on Tauros for 29 damage
+Player B: Tauros used Body Slam on Tauros for 31 damage
+Turn 44:
+Player A: Tauros used Body Slam on Tauros for 27 damage
+Player B: Tauros used Body Slam on Tauros for 29 damage
+Turn 45:
+Player B: Switched out Tauros for Chansey
+Player A: Tauros used Hyper Beam on Chansey for 68 damage
+Turn 46:
+Player A: Tauros can't move because recharge
+Player B: Chansey used Thunder Wave
+Turn 47:
+Player B: Switched out Chansey for Snorlax
+Player A: Switched out Tauros for Chansey
+Turn 48:
+Player B: Snorlax can't move because it is asleep
+Player A: Chansey can't move because it is paralyzed
+Turn 49:
+Player A: Switched out Chansey for Starmie
+Turn 50:
+Player A: Switched out Starmie for Gengar
+Player B: Snorlax used Body Slam but it had no effect on Gengar
+Turn 51:
+Player B: Switched out Snorlax for Tauros
+Player A: Gengar can't move because it is asleep
+Turn 52:
+Player B: Tauros used Earthquake on Gengar and crit for 100 damage (supereffective)
+Player A: Gengar fainted
+Player A: Switched out Gengar for Tauros
+Turn 53:
+Player B: Tauros used Hyper Beam on Tauros for 40 damage
+Player A: Tauros fainted
+Player A: Switched out Tauros for Starmie
+Turn 54:
+Player B: Tauros used Body Slam on Starmie for 8 damage
+Player A: Starmie fainted
+Player A: Switched out Starmie for Chansey
+Turn 55:
+Player B: Tauros used Hyper Beam on Chansey for 56 damage
+Player A: Chansey fainted

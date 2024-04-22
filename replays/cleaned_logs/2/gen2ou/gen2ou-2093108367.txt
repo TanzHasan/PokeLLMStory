@@ -1,0 +1,148 @@
+Battle start:
+Player A sent out Cloyster
+Player B sent out Skarmory
+Turn 1:
+Player B: Skarmory used Toxic
+Player A: Cloyster used Ice Beam on Skarmory for 39 damage
+Turn 2:
+Player B: Switched out Skarmory for Suicune
+Turn 3:
+Player A: Switched out Cloyster for Snorlax
+Player B: Suicune used Surf on Snorlax for 20 damage
+Turn 4:
+Player B: Switched out Suicune for Skarmory
+Player A: Snorlax used Body Slam on Skarmory for 6 damage
+Turn 5:
+Player A: Switched out Snorlax for Houndoom
+Player B: Skarmory used Toxic
+Turn 6:
+Player A: Houndoom used Pursuit on Skarmory and crit for 24 damage
+Player B: Switched out Skarmory for Blissey
+Turn 7:
+Player A: Switched out Houndoom for Snorlax
+Player B: Blissey used Thunder Wave
+Turn 8:
+Player B: Blissey used Double-Edge on Snorlax for -4 damage
+Turn 9:
+Player B: Blissey used Double-Edge on Snorlax for 9 damage
+Player A: Snorlax used Body Slam on Blissey for 98 damage
+Player B: Blissey fainted
+Player B: Switched out Blissey for Nidoking
+Turn 10:
+Player A: Snorlax can't move because it is paralyzed
+Player B: Nidoking used Roar on self
+Turn 11:
+Player B: Switched out Nidoking for Machamp
+Player A: Snorlax used Ice Beam on Machamp for 39 damage
+Turn 12:
+Player A: Snorlax used Rest and healed for 12
+Player B: Machamp used Rock Slide on Snorlax for 30 damage (supereffective)
+Turn 13:
+Player A: Switched out Snorlax for Scizor
+Player B: Machamp used Rock Slide on Scizor for 21 damage
+Turn 14:
+Player A: Scizor used Swords Dance on self
+Player B: Machamp used Cross Chop on Scizor and crit for 78 damage
+Turn 15:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Snorlax
+Player B: Machamp used Cross Chop on Snorlax and crit for 25 damage (supereffective)
+Player A: Scizor fainted
+Player A: Switched out Scizor for Pikachu
+Turn 16:
+Player B: Switched out Machamp for Raikou
+Player A: Pikachu used Thunder on Raikou for 38 damage
+Turn 17:
+Player B: Raikou used Thunderbolt on Pikachu for 44 damage
+Player A: Pikachu used Surf on Raikou for 20 damage
+Turn 18:
+Player B: Raikou used Rest and healed for 58
+Player A: Pikachu used Surf on Raikou for 28 damage
+Turn 19:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Hidden Power on Pikachu for 39 damage
+Player A: Pikachu used Surf on Raikou for 19 damage
+Turn 20:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Rest and healed for 47
+Player A: Pikachu used Surf on Raikou and crit for 52 damage
+Turn 21:
+Player B: Raikou can't move because it is asleep
+Player A: Pikachu used Surf on Raikou for 19 damage
+Turn 22:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Thunderbolt on Pikachu for 17 damage
+Player A: Pikachu fainted
+Player A: Switched out Pikachu for Scizor
+Turn 23:
+Player B: Raikou used Sleep Talk on self
+Player A: Scizor used Agility on self
+Turn 24:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Marowak
+Player B: Raikou used Thunderbolt but it had no effect on Marowak
+Turn 25:
+Player B: Switched out Raikou for Suicune
+Player A: Marowak used Earthquake on Suicune for 56 damage
+Turn 26:
+Player A: Marowak used Earthquake on Suicune for 40 damage
+Player B: Suicune used Surf on Marowak for 70 damage (supereffective)
+Turn 27:
+Player B: Switched out Suicune for Skarmory
+Player A: Marowak used Earthquake but it had no effect on Skarmory
+Turn 28:
+Player A: Marowak used Rock Slide on Skarmory for 18 damage
+Player B: Skarmory used Whirlwind on self
+Turn 29:
+Player B: Switched out Skarmory for Nidoking
+Player A: Marowak used Fire Blast on Nidoking for 60 damage
+Turn 30:
+Player A: Marowak used Fire Blast on Nidoking for 40 damage
+Player B: Nidoking fainted
+Player B: Switched out Nidoking for Machamp
+Turn 31:
+Player A: Marowak used Fire Blast on Machamp for 21 damage
+Player B: Machamp used Rock Slide on Marowak for 65 damage (supereffective)
+Turn 32:
+Player A: Marowak used Fire Blast on Machamp for 36 damage
+Player B: Machamp used Cross Chop on Marowak for 16 damage (supereffective)
+Player A: Marowak fainted
+Player A: Switched out Marowak for Scizor
+Turn 33:
+Player A: Scizor used Hidden Power on Machamp for 4 damage
+Player B: Machamp fainted
+Player B: Switched out Machamp for Suicune
+Player B: Machamp fainted
+Player B: Switched out Machamp for Raikou
+Turn 34:
+Player B: Raikou used Hidden Power on Scizor for -11 damage
+Player A: Scizor used Hidden Power on Raikou for 13 damage
+Turn 35:
+Player B: Raikou used Rest and healed for 84
+Player A: Scizor used Hidden Power on Raikou for 32 damage
+Turn 36:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Hidden Power on Scizor for 7 damage
+Player A: Scizor used Agility on self
+Turn 37:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Marowak
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Rest and healed for 32
+Turn 38:
+Player B: Switched out Raikou for Skarmory
+Turn 39:
+Player A: Marowak used Rock Slide on Skarmory for 12 damage
+Player B: Skarmory can't move because flinch
+Turn 40:
+Player A: Marowak used Rock Slide on Skarmory for 1 damage
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Raikou
+Turn 41:
+Player A: Marowak used Earthquake on Raikou for 100 damage (supereffective)
+Player B: Raikou fainted

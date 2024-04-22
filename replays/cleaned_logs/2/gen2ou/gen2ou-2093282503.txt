@@ -1,0 +1,88 @@
+Battle start:
+Player A sent out Victreebel
+Player B sent out Flaaffy
+Turn 1:
+Player A: Victreebel used Sludge Bomb on Flaaffy and crit for 96 damage
+Player B: Flaaffy used Toxic but it had no effect on Victreebel
+Turn 2:
+Player B: Switched out Flaaffy for Sandslash
+Player A: Victreebel used Curse on self
+Turn 3:
+Player A: Victreebel used Sludge Bomb on self
+Turn 4:
+Player B: Sandslash used Swords Dance on self
+Player A: Victreebel used Encore on self
+Turn 5:
+Player B: Switched out Sandslash for Forretress
+Player A: Victreebel used Return on Forretress for 13 damage
+Turn 6:
+Player B: Forretress used Hidden Power on Victreebel for 12 damage
+Player A: Victreebel used Return on Forretress for 8 damage
+Turn 7:
+Player B: Forretress used Double-Edge on Victreebel for 16 damage
+Player A: Victreebel used Curse on self
+Turn 8:
+Player B: Switched out Forretress for Sandslash
+Player A: Victreebel used Curse on self
+Turn 9:
+Player A: Victreebel used Sludge Bomb on self
+Turn 10:
+Player B: Sandslash used Hidden Power on Victreebel for 6 damage (supereffective)
+Player A: Victreebel used Sludge Bomb on Sandslash for 33 damage
+Turn 11:
+Player B: Switched out Sandslash for Forretress
+Player A: Victreebel used Encore but it failed
+Turn 12:
+Player B: Forretress used Double-Edge on Victreebel for 1 damage
+Player A: Victreebel used Return on Forretress for 24 damage
+Turn 13:
+Player B: Switched out Forretress for Kingdra
+Player A: Victreebel used Curse on self
+Turn 14:
+Player B: Kingdra used Surf on Victreebel for 8 damage
+Player A: Victreebel used Sludge Bomb on Kingdra and crit for 100 damage
+Player B: Kingdra fainted
+Player B: Switched out Kingdra for Sandslash
+Turn 15:
+Player B: Sandslash used Earthquake on Victreebel for 9 damage
+Player A: Victreebel used Return on Sandslash for 36 damage
+Player B: Sandslash fainted
+Player B: Switched out Sandslash for Forretress
+Turn 16:
+Player B: Forretress used Self-Destruct on Victreebel for 30 damage
+Player B: Forretress fainted
+Player B: Switched out Forretress for Golduck
+Turn 17:
+Player A: Switched out Victreebel for Haunter
+Turn 18:
+Player A: Haunter used Curse but it failed
+Player B: Golduck used Confusion on Haunter for 38 damage (supereffective)
+Turn 19:
+Player A: Haunter used Perish Song on self
+Player B: Golduck used Confusion on Haunter and crit for 62 damage (supereffective)
+Player A: Haunter fainted
+Player A: Switched out Haunter for Crobat
+Turn 20:
+Player B: Switched out Golduck for Farfetch’d
+Player A: Crobat used Double-Edge on Farfetch’d and crit for 86 damage
+Turn 21:
+Player A: Crobat used Double-Edge on Farfetch’d for 14 damage
+Player B: Farfetch’d fainted
+Player B: Switched out Farfetch’d for Golduck
+Turn 22:
+Player A: Crobat used Double-Edge on Golduck for 3 damage
+Turn 23:
+Player B: Golduck used Confusion on Crobat for 24 damage (supereffective)
+Turn 24:
+Player A: Crobat used Double-Edge on Golduck for 18 damage
+Player B: Golduck used Double-Edge on Crobat for 26 damage
+Turn 25:
+Player A: Crobat used Confuse Ray on self
+Player B: Golduck used Surf on Crobat for 30 damage
+Turn 26:
+Player A: Crobat used Double-Edge on Golduck for 5 damage
+Player B: Golduck fainted
+Player B: Switched out Golduck for Flaaffy
+Turn 27:
+Player A: Crobat used Double-Edge on Flaaffy for 4 damage
+Player B: Flaaffy fainted

@@ -1,0 +1,177 @@
+Battle start:
+Player A sent out Starmie
+Player B sent out Zapdos
+Turn 1:
+Player B: Zapdos used Thunder Wave
+Turn 2:
+Player A: Switched out Starmie for Exeggutor
+Player B: Zapdos used Thunderbolt on Exeggutor for 15 damage
+Turn 3:
+Player B: Zapdos used Drill Peck on Exeggutor for 52 damage (supereffective)
+Turn 4:
+Player A: Switched out Exeggutor for Zapdos
+Player B: Zapdos used Drill Peck on Zapdos for 13 damage
+Turn 5:
+Player B: Zapdos used Thunder Wave
+Player A: Zapdos used Thunderbolt on Zapdos for 30 damage
+Turn 6:
+Player B: Zapdos used Thunderbolt on Zapdos for 31 damage
+Player A: Zapdos can't move because it is paralyzed
+Turn 7:
+Player B: Zapdos used Thunderbolt on Zapdos for 31 damage
+Player A: Zapdos can't move because it is paralyzed
+Turn 8:
+Player B: Zapdos used Thunderbolt on Zapdos and crit for 25 damage
+Player A: Zapdos fainted
+Player A: Switched out Zapdos for Chansey
+Turn 9:
+Player B: Zapdos used Thunder Wave
+Player A: Chansey used Ice Beam on Zapdos for 35 damage (supereffective)
+Turn 10:
+Player B: Zapdos used Drill Peck on Chansey for 36 damage
+Player A: Chansey used Ice Beam on Zapdos for 33 damage (supereffective)
+Turn 11:
+Player A: Switched out Chansey for Tauros
+Player B: Zapdos used Drill Peck on Tauros and crit for 49 damage
+Turn 12:
+Player B: Zapdos used Thunderbolt on Tauros for 47 damage
+Turn 13:
+Player A: Tauros used Blizzard on Zapdos for 2 damage (supereffective)
+Player B: Zapdos fainted
+Player B: Switched out Zapdos for Tauros
+Turn 14:
+Player A: Switched out Tauros for Snorlax
+Player B: Tauros used Body Slam on Snorlax for 25 damage
+Turn 15:
+Player B: Tauros used Body Slam on Snorlax for 26 damage
+Player A: Snorlax used Body Slam on Tauros for 29 damage
+Turn 16:
+Player B: Tauros used Body Slam on Snorlax for 25 damage
+Player A: Snorlax used Reflect on self
+Turn 17:
+Player B: Tauros used Body Slam on Snorlax for 12 damage
+Player A: Snorlax used Rest and healed for 88
+Turn 18:
+Player B: Switched out Tauros for Exeggutor
+Player A: Snorlax can't move because it is asleep
+Turn 19:
+Player A: Switched out Snorlax for Starmie
+Player B: Exeggutor used Psychic on Starmie for 20 damage
+Turn 20:
+Player B: Switched out Exeggutor for Tauros
+Player A: Starmie can't move because it is paralyzed
+Turn 21:
+Player B: Tauros used Body Slam on Starmie for 36 damage
+Player A: Starmie used Thunder Wave
+Turn 22:
+Player B: Tauros can't move because it is paralyzed
+Player A: Starmie can't move because it is paralyzed
+Turn 23:
+Player A: Switched out Starmie for Chansey
+Player B: Tauros can't move because it is paralyzed
+Turn 24:
+Player A: Chansey used Soft-Boiled and healed for 36
+Turn 25:
+Player A: Switched out Chansey for Starmie
+Player B: Tauros used Earthquake on Starmie for 28 damage
+Turn 26:
+Player A: Starmie used Psychic on Tauros for 36 damage
+Player B: Tauros used Body Slam on Starmie for 16 damage
+Player A: Starmie fainted
+Player A: Switched out Starmie for Tauros
+Turn 27:
+Player A: Tauros used Rest and healed for 96
+Player B: Tauros used Body Slam on Tauros for 28 damage
+Turn 28:
+Player A: Tauros can't move because it is asleep
+Player B: Tauros used Body Slam on Tauros for 30 damage
+Turn 29:
+Player B: Tauros can't move because it is paralyzed
+Turn 30:
+Player A: Tauros used Hyper Beam on Tauros for 35 damage
+Player B: Tauros fainted
+Player B: Switched out Tauros for Exeggutor
+Turn 31:
+Player A: Switched out Tauros for Exeggutor
+Player B: Exeggutor used Psychic on Exeggutor for 14 damage
+Turn 32:
+Player B: Exeggutor used Hyper Beam on Exeggutor for 19 damage
+Player A: Exeggutor fainted
+Player A: Switched out Exeggutor for Chansey
+Turn 33:
+Player B: Switched out Exeggutor for Chansey
+Player A: Chansey used Ice Beam on Chansey for 10 damage
+Turn 34:
+Player B: Chansey used Seismic Toss on Chansey for 14 damage
+Player A: Chansey can't move because it is paralyzed
+Turn 35:
+Player B: Chansey used Seismic Toss on Chansey for 14 damage
+Player A: Chansey used Ice Beam on Chansey for 11 damage
+Turn 36:
+Player B: Switched out Chansey for Snorlax
+Player A: Chansey can't move because it is paralyzed
+Turn 37:
+Player B: Snorlax used Amnesia on self
+Player A: Chansey can't move because it is paralyzed
+Turn 38:
+Player B: Snorlax used Amnesia on self
+Player A: Chansey used Thunder Wave
+Turn 39:
+Player B: Snorlax used Ice Beam on Chansey for 25 damage
+Player A: Chansey used Soft-Boiled and healed for 50
+Turn 40:
+Player B: Snorlax can't move because it is paralyzed
+Player A: Chansey used Ice Beam on Snorlax for 6 damage
+Turn 41:
+Player B: Snorlax can't move because it is paralyzed
+Player A: Chansey used Ice Beam on Snorlax and crit for 38 damage
+Turn 42:
+Player A: Switched out Chansey for Snorlax
+Player B: Snorlax used Ice Beam on Snorlax for 39 damage
+Turn 43:
+Player B: Snorlax used Ice Beam on Snorlax for 44 damage
+Turn 44:
+Player A: Snorlax used Body Slam on Snorlax for 25 damage
+Player B: Snorlax used Ice Beam on Snorlax for 17 damage
+Player A: Snorlax fainted
+Player A: Switched out Snorlax for Tauros
+Turn 45:
+Player B: Switched out Snorlax for Exeggutor
+Player A: Tauros used Body Slam on Exeggutor for 30 damage
+Turn 46:
+Player A: Switched out Tauros for Chansey
+Player B: Exeggutor used Psychic on Chansey for 16 damage
+Turn 47:
+Player B: Exeggutor used Psychic on Chansey for 18 damage
+Player A: Chansey used Ice Beam on Exeggutor for 36 damage (supereffective)
+Turn 48:
+Player B: Exeggutor used Psychic on Chansey for 18 damage
+Player A: Chansey used Soft-Boiled and healed for 50
+Turn 49:
+Player B: Exeggutor used Psychic on Chansey for 18 damage
+Player A: Chansey used Ice Beam on Exeggutor for 21 damage (supereffective)
+Turn 50:
+Player B: Exeggutor used Psychic on Chansey for 27 damage
+Player A: Chansey used Soft-Boiled and healed for 49
+Turn 51:
+Player B: Exeggutor used Psychic on Chansey for 26 damage
+Player A: Chansey used Ice Beam on Exeggutor for 13 damage (supereffective)
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Slowbro
+Turn 52:
+Player B: Slowbro used Amnesia on self
+Player A: Chansey used Thunder Wave
+Turn 53:
+Player B: Slowbro used Surf on Chansey for 53 damage
+Player A: Chansey can't move because it is paralyzed
+Turn 54:
+Player B: Slowbro used Surf on Chansey for 20 damage
+Player A: Chansey fainted
+Player A: Switched out Chansey for Tauros
+Turn 55:
+Player A: Tauros used Body Slam on Slowbro for 24 damage
+Player B: Slowbro can't move because it is paralyzed
+Turn 56:
+Player A: Tauros used Body Slam on Slowbro for 23 damage
+Player B: Slowbro used Surf on Tauros for 42 damage
+Player A: Tauros fainted

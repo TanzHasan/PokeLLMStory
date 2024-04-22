@@ -1,0 +1,76 @@
+Battle start:
+Player A sent out Dragapult
+Player B sent out Glimmora
+Turn 1:
+Player A: Dragapult used Shadow Ball on Glimmora for 67 damage
+Player B: Glimmora used Mud Shot on Dragapult for 25 damage
+Turn 2:
+Player B: Glimmora used Stealth Rock on self
+Player A: Dragapult used Shadow Ball on Glimmora for 33 damage
+Player B: Glimmora fainted
+Player B: Switched out Glimmora for Roaring Moon
+Turn 3:
+Player A: Switched out Dragapult for Zamazenta
+Player B: Roaring Moon used Dragon Dance on self
+Turn 4:
+Player B: Roaring Moon used Knock Off on Zamazenta for 26 damage
+Player A: Zamazenta used Body Press on Roaring Moon for 29 damage
+Turn 5:
+Player B: Roaring Moon used Acrobatics on Zamazenta for 74 damage (supereffective)
+Player A: Zamazenta fainted
+Player A: Switched out Zamazenta for Kingambit
+Turn 6:
+Player A: Kingambit used Sucker Punch on Roaring Moon for 71 damage
+Player B: Roaring Moon fainted
+Player B: Switched out Roaring Moon for Enamorus
+Turn 7:
+Player B: Enamorus used Moonblast on Kingambit for 100 damage (supereffective)
+Player A: Kingambit fainted
+Player A: Switched out Kingambit for Cinderace
+Turn 8:
+Player B: Switched out Enamorus for Pecharunt
+Player A: Cinderace used Pyro Ball on Pecharunt for 41 damage
+Turn 9:
+Player A: Cinderace used Pyro Ball on Pecharunt for 39 damage
+Player B: Pecharunt used Malignant Chain on Cinderace for 53 damage
+Turn 10:
+Player A: Cinderace used Pyro Ball on Pecharunt for 20 damage
+Player B: Pecharunt fainted
+Player B: Switched out Pecharunt for Iron Valiant
+Turn 11:
+Player B: Iron Valiant used Swords Dance on self
+Player A: Cinderace used Court Change on self
+Turn 12:
+Player B: Iron Valiant used Knock Off on Cinderace for 47 damage
+Player A: Cinderace fainted
+Player A: Switched out Cinderace for Enamorus
+Turn 13:
+Player B: Iron Valiant used Moonblast on Enamorus for 60 damage
+Player A: Enamorus used Moonblast on Iron Valiant for 100 damage (supereffective)
+Player B: Iron Valiant fainted
+Player B: Switched out Iron Valiant for Enamorus
+Turn 14:
+Player A: Enamorus used Moonblast on Enamorus for 93 damage
+Player B: Enamorus used Moonblast on Enamorus and crit for 40 damage
+Player A: Enamorus fainted
+Player A: Switched out Enamorus for Dragapult
+Turn 15:
+Player A: Dragapult used Fire Blast on Enamorus for 7 damage
+Player B: Enamorus fainted
+Player B: Switched out Enamorus for Kingambit
+Turn 16:
+Player B: Kingambit used Sucker Punch on Dragapult for 75 damage (supereffective)
+Player A: Dragapult fainted
+Player A: Switched out Dragapult for Latias
+Turn 17:
+Player A: Latias used Calm Mind on self
+Turn 18:
+Player B: Kingambit used Sucker Punch on Latias for 84 damage (supereffective)
+Player A: Latias used Thunderbolt on Kingambit for 45 damage
+Turn 19:
+Player A: Latias used Recover and healed for 56
+Player B: Kingambit used Iron Head on Latias for 54 damage
+Turn 20:
+Player A: Latias used Recover and healed for 56
+Player B: Kingambit used Iron Head on Latias and crit for 74 damage
+Player A: Latias fainted

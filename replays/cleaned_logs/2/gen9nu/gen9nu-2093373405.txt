@@ -1,0 +1,41 @@
+Battle start:
+Player A sent out Galvantula
+Player B sent out Ambipom
+Turn 1:
+Player B: Ambipom used Fake Out on Galvantula for 58 damage
+Player A: Galvantula can't move because flinch
+Turn 2:
+Player B: Ambipom used Double Hit on Galvantula for 42 damage
+Player A: Galvantula fainted
+Player A: Switched out Galvantula for Torterra
+Turn 3:
+Player B: Ambipom used Triple Axel on Torterra for 67 damage (supereffective)
+Player A: Torterra fainted
+Player A: Switched out Torterra for Gallade
+Turn 4:
+Player B: Switched out Ambipom for Cloyster
+Player A: Gallade used Sacred Sword on Cloyster for 99 damage (supereffective)
+Turn 5:
+Player B: Cloyster used Ice Shard on Gallade for 27 damage
+Player A: Gallade used Sacred Sword on Cloyster for 1 damage (supereffective)
+Player B: Cloyster fainted
+Player B: Switched out Cloyster for Ambipom
+Turn 6:
+Player A: Switched out Gallade for Oricorio-Sensu
+Player B: Ambipom used Double Hit but it had no effect on Oricorio-Sensu
+Turn 7:
+Player B: Ambipom used Triple Axel on Oricorio-Sensu for 41 damage
+Player A: Oricorio-Sensu used Revelation Dance on Ambipom for 100 damage (supereffective)
+Player B: Ambipom fainted
+Player B: Switched out Ambipom for Krookodile
+Turn 8:
+Player B: Krookodile used Knock Off on Oricorio-Sensu for 16 damage
+Player A: Oricorio-Sensu fainted
+Player A: Switched out Oricorio-Sensu for Gallade
+Turn 9:
+Player B: Krookodile used Knock Off on Gallade for 73 damage
+Player A: Gallade fainted
+Player A: Switched out Gallade for Espeon
+Turn 10:
+Player B: Krookodile used Knock Off on Espeon for 100 damage (supereffective)
+Player A: Espeon fainted

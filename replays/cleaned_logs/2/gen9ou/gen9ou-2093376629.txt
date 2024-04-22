@@ -1,0 +1,111 @@
+Battle start:
+Player A sent out Rillaboom
+Player B sent out Gliscor
+Turn 1:
+Player A: Switched out Rillaboom for Hawlucha
+Turn 2:
+Player B: Switched out Gliscor for Raging Bolt
+Player A: Hawlucha used Swords Dance on self
+Turn 3:
+Player B: Raging Bolt used Thunderclap on Hawlucha for 100 damage (supereffective)
+Player A: Hawlucha fainted
+Player A: Switched out Hawlucha for Dragonite
+Turn 4:
+Player A: Dragonite used Encore on self
+Turn 5:
+Player B: Switched out Raging Bolt for Gliscor
+Player A: Dragonite used Dragon Dance on self
+Turn 6:
+Player A: Dragonite used Dragon Dance on self
+Player B: Gliscor used Toxic
+Turn 7:
+Player A: Dragonite used Dragon Dance on self
+Player B: Gliscor used Toxic
+Turn 8:
+Player B: Switched out Gliscor for Corviknight
+Player A: Dragonite used Extreme Speed on Corviknight for 21 damage
+Turn 9:
+Player A: Dragonite used Dragon Dance on self
+Player B: Corviknight used Roost and healed for 21
+Turn 10:
+Player A: Dragonite used Encore on self
+Turn 11:
+Player A: Switched out Dragonite for Iron Moth
+Turn 12:
+Player B: Switched out Corviknight for Slowking-Galar
+Turn 13:
+Player A: Iron Moth used Tera Blast on Slowking-Galar for 44 damage (supereffective)
+Player B: Slowking-Galar used Future Sight on self
+Turn 14:
+Player A: Iron Moth used Fiery Dance on Slowking-Galar for 23 damage
+Player B: Slowking-Galar used Flamethrower on self
+Turn 15:
+Player B: Switched out Slowking-Galar for Gliscor
+Player A: Iron Moth used Fiery Dance on Gliscor for 48 damage
+Turn 16:
+Player A: Iron Moth used Fiery Dance on Gliscor for 52 damage
+Player B: Gliscor fainted
+Player B: Switched out Gliscor for Primarina
+Turn 17:
+Player A: Iron Moth used Sludge Wave but it had no effect on Primarina
+Player B: Primarina used Psychic Noise on Iron Moth for 74 damage (supereffective)
+Turn 18:
+Player B: Switched out Primarina for Slowking-Galar
+Player A: Iron Moth used Fiery Dance on Slowking-Galar for 13 damage
+Turn 19:
+Player A: Iron Moth used Fiery Dance on Slowking-Galar for 20 damage
+Player B: Slowking-Galar fainted
+Player B: Switched out Slowking-Galar for Weavile
+Turn 20:
+Player B: Weavile used Ice Shard on Iron Moth for 1 damage (supereffective)
+Player A: Iron Moth fainted
+Player A: Switched out Iron Moth for Dragonite
+Turn 21:
+Player A: Dragonite used Extreme Speed on Weavile for 58 damage
+Player B: Weavile used Ice Shard on Dragonite for 78 damage (supereffective)
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Rillaboom
+Turn 22:
+Player B: Switched out Weavile for Corviknight
+Player A: Rillaboom used U-turn on Corviknight for 3 damage
+Player A: Switched out Rillaboom for Hatterene
+Turn 23:
+Player B: Corviknight used U-turn on Hatterene for 12 damage
+Player B: Switched out Corviknight for Primarina
+Player A: Hatterene used Calm Mind on self
+Turn 24:
+Player B: Primarina used Psychic Noise on Hatterene for 19 damage
+Player A: Hatterene used Mystical Fire on Primarina for 36 damage (supereffective)
+Turn 25:
+Player B: Primarina used Flip Turn on Hatterene for 12 damage
+Player B: Switched out Primarina for Raging Bolt
+Player A: Hatterene used Mystical Fire on Raging Bolt for 16 damage
+Turn 26:
+Player B: Switched out Raging Bolt for Primarina
+Player A: Hatterene used Draining Kiss on Primarina for 3 damage
+Player A: Hatterene used Draining Kiss and healed for 7
+Turn 27:
+Player B: Primarina used Psychic Noise on Hatterene for 19 damage
+Player A: Hatterene used Mystical Fire on Primarina for 36 damage (supereffective)
+Turn 28:
+Player B: Primarina used Moonblast on Hatterene for 23 damage
+Player A: Hatterene used Calm Mind on self
+Turn 29:
+Player B: Primarina used Psychic Noise on Hatterene for 14 damage
+Player A: Hatterene used Mystical Fire on Primarina for 25 damage (supereffective)
+Player B: Primarina fainted
+Player B: Switched out Primarina for Raging Bolt
+Turn 30:
+Player B: Raging Bolt used Thunderbolt on Hatterene for 8 damage
+Player A: Hatterene fainted
+Player A: Switched out Hatterene for Rillaboom
+Turn 31:
+Player B: Switched out Raging Bolt for Corviknight
+Player A: Rillaboom used Knock Off on Corviknight for 20 damage
+Turn 32:
+Player A: Switched out Rillaboom for Kingambit
+Player B: Corviknight used Body Press on Kingambit for 80 damage (supereffective)
+Turn 33:
+Player A: Kingambit used Sucker Punch on Corviknight for 41 damage
+Player B: Corviknight used Body Press on Kingambit for 20 damage (supereffective)
+Player A: Kingambit fainted

@@ -1,0 +1,76 @@
+Battle start:
+Player A sent out Oranguru
+Player B sent out Aurorus
+Turn 1:
+Player B: Switched out Aurorus for Gothitelle
+Player A: Oranguru used Max Knuckle on Gothitelle for 28 damage
+Turn 2:
+Player B: Gothitelle used Thunderbolt on Oranguru for -253 damage
+Player A: Oranguru used Max Lightning on Gothitelle for 79 damage
+Turn 3:
+Player B: Gothitelle used Thunderbolt on Oranguru for 63 damage
+Player A: Oranguru can't move because it is paralyzed
+Turn 4:
+Player B: Gothitelle used Nasty Plot on self
+Player A: Oranguru used Thunderbolt on Gothitelle for 77 damage
+Turn 5:
+Player B: Gothitelle used Thunderbolt on Oranguru for 395 damage
+Player A: Oranguru used Thunderbolt on Gothitelle for 76 damage
+Turn 6:
+Player B: Gothitelle used Thunderbolt on Oranguru for 100 damage
+Player A: Oranguru fainted
+Player A: Switched out Oranguru for Tapu Fini
+Turn 7:
+Player A: Tapu Fini used Surf on Gothitelle for 4 damage
+Player B: Gothitelle fainted
+Player B: Switched out Gothitelle for Vileplume
+Turn 8:
+Player A: Tapu Fini used Taunt on self
+Player B: Vileplume used Sludge Bomb on Tapu Fini for 168 damage (supereffective)
+Turn 9:
+Player A: Switched out Tapu Fini for Cryogonal
+Player B: Vileplume used Sludge Bomb on Cryogonal for 79 damage
+Turn 10:
+Player B: Switched out Vileplume for Aurorus
+Player A: Cryogonal used Freeze-Dry on Aurorus for 38 damage
+Turn 11:
+Player A: Cryogonal used Toxic on self
+Player B: Aurorus used Ancient Power on Cryogonal for 199 damage (supereffective)
+Player A: Cryogonal fainted
+Player A: Switched out Cryogonal for Urshifu
+Turn 12:
+Player B: Switched out Aurorus for Vileplume
+Turn 13:
+Player A: Urshifu used Bulk Up on self
+Player B: Vileplume used Sludge Bomb on self
+Turn 14:
+Player A: Urshifu used Wicked Blow on Vileplume and crit for 189 damage
+Player B: Vileplume used Sludge Bomb on Urshifu for 147 damage
+Turn 15:
+Player A: Urshifu used Wicked Blow on Vileplume and crit for 74 damage
+Player B: Vileplume fainted
+Player B: Switched out Vileplume for Altaria
+Turn 16:
+Player A: Switched out Urshifu for Arcanine
+Player B: Altaria used Draco Meteor on Arcanine for 135 damage
+Turn 17:
+Player A: Arcanine used Morning Sun and healed for 135
+Player B: Altaria used Toxic
+Turn 18:
+Player A: Arcanine used Toxic
+Turn 19:
+Player A: Switched out Arcanine for Urshifu
+Player B: Altaria used Roost and healed for 0
+Turn 20:
+Player B: Altaria used Draco Meteor on Urshifu and crit for 56 damage
+Player A: Urshifu fainted
+Player A: Switched out Urshifu for Tapu Fini
+Turn 21:
+Player B: Switched out Altaria for Aurorus
+Player A: Tapu Fini used Moonblast on Aurorus for 84 damage
+Turn 22:
+Player A: Tapu Fini used Surf on Aurorus for 162 damage (supereffective)
+Player B: Aurorus used Freeze-Dry on Tapu Fini for 66 damage (supereffective)
+Player A: Tapu Fini fainted
+Player A: Switched out Tapu Fini for Beheeyem
+Turn 23:

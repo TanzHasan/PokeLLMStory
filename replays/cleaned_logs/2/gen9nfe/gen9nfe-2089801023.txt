@@ -1,0 +1,42 @@
+Battle start:
+Player A sent out Piloswine
+Player B sent out Growlithe-Hisui
+Turn 1:
+Player A: Piloswine used Stealth Rock on self
+Player B: Growlithe-Hisui used Flare Blitz on Piloswine for 1 damage (supereffective)
+Turn 2:
+Player A: Switched out Piloswine for Servine
+Player B: Growlithe-Hisui used Flare Blitz on Servine for 1 damage (supereffective)
+Turn 3:
+Player A: Servine used Leaf Storm on Growlithe-Hisui for 100 damage
+Player B: Growlithe-Hisui fainted
+Player B: Switched out Growlithe-Hisui for Corphish
+Turn 4:
+Player B: Corphish used Aqua Jet on Servine for 0 damage
+Player A: Servine used Knock Off on Corphish for 100 damage
+Player B: Corphish fainted
+Player B: Switched out Corphish for Impidimp
+Turn 5:
+Player B: Impidimp used Parting Shot on self
+Player B: Switched out Impidimp for Magby
+Player A: Servine used Glare
+Turn 6:
+Player A: Servine used Leaf Storm on Magby for 100 damage
+Player B: Magby fainted
+Player B: Switched out Magby for Impidimp
+Turn 7:
+Player B: Impidimp used Parting Shot on self
+Player B: Switched out Impidimp for Gastly
+Player A: Servine used Knock Off on Gastly for 100 damage (supereffective)
+Player B: Impidimp fainted
+Player B: Switched out Impidimp for Impidimp
+Turn 8:
+Player B: Impidimp used Parting Shot on self
+Player B: Switched out Impidimp for Voltorb-Hisui
+Player A: Servine used Knock Off on Voltorb-Hisui for 100 damage
+Player B: Impidimp fainted
+Player B: Switched out Impidimp for Impidimp
+Turn 9:
+Player B: Impidimp used Light Screen on self
+Player A: Servine used Knock Off on Impidimp for 100 damage
+Player B: Impidimp fainted

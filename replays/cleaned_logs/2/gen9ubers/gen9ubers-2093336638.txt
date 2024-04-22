@@ -1,0 +1,101 @@
+Battle start:
+Player A sent out Amoonguss
+Player B sent out Gengar
+Turn 1:
+Player B: Gengar used Fire Punch on Amoonguss for 23 damage (supereffective)
+Player A: Amoonguss used Spore
+Turn 2:
+Player B: Switched out Gengar for Darkrai
+Player A: Amoonguss used Foul Play on Darkrai for 12 damage
+Turn 3:
+Player B: Darkrai used Trick on self
+Player A: Amoonguss used Clear Smog on Darkrai for 18 damage
+Turn 4:
+Player B: Darkrai used Dark Void
+Player A: Amoonguss can't move because it is asleep
+Turn 5:
+Player B: Darkrai used Dream Eater on Amoonguss for 69 damage (supereffective)
+Player B: Darkrai used Dream Eater and healed for 17
+Player A: Amoonguss can't move because it is asleep
+Player A: Amoonguss fainted
+Player A: Switched out Amoonguss for Magearna
+Turn 6:
+Player B: Darkrai used Dark Void
+Player A: Magearna can't move because it is asleep
+Turn 7:
+Player B: Darkrai used Dream Eater on Magearna for 21 damage
+Player B: Darkrai used Dream Eater and healed for -38
+Player A: Magearna used Encore on self
+Turn 8:
+Player B: Switched out Darkrai for Gengar
+Player A: Magearna used Volt Switch on Gengar for 33 damage
+Player A: Switched out Magearna for Garganacl
+Turn 9:
+Player B: Gengar can't move because it is asleep
+Player A: Garganacl used Earthquake on Gengar for 67 damage (supereffective)
+Player B: Gengar fainted
+Player B: Switched out Gengar for Torterra
+Turn 10:
+Player A: Switched out Garganacl for Tornadus-Therian
+Player B: Torterra used Heavy Slam on Tornadus-Therian for 37 damage
+Turn 11:
+Player A: Tornadus-Therian used Icy Wind on Torterra for 34 damage (supereffective)
+Player B: Torterra used Rock Slide on Tornadus-Therian for 53 damage (supereffective)
+Turn 12:
+Player A: Tornadus-Therian used U-turn on Torterra for 25 damage (supereffective)
+Player A: Switched out Tornadus-Therian for Magearna
+Player B: Torterra used Leaf Storm on Magearna for 11 damage
+Turn 13:
+Player A: Magearna used Fleur Cannon on Torterra for 39 damage
+Player B: Torterra used Rock Slide on Magearna for 43 damage (supereffective)
+Turn 14:
+Player B: Switched out Torterra for Greninja
+Player A: Magearna used Fleur Cannon on Greninja for 83 damage (supereffective)
+Turn 15:
+Player B: Greninja used Rock Slide on Magearna for 25 damage (supereffective)
+Player A: Magearna fainted
+Player A: Switched out Magearna for Garganacl
+Turn 16:
+Player B: Greninja used Water Shuriken on Garganacl for 13 damage (supereffective)
+Player A: Garganacl used Salt Cure on Greninja for 17 damage
+Player B: Greninja fainted
+Player B: Switched out Greninja for Gallade
+Turn 17:
+Player A: Switched out Garganacl for Tornadus-Therian
+Player B: Gallade used Aqua Cutter on Tornadus-Therian for 5 damage
+Turn 18:
+Player A: Tornadus-Therian used Bleakwind Storm on Gallade for 84 damage (supereffective)
+Player B: Gallade used Expanding Force on Tornadus-Therian for 5 damage
+Player A: Tornadus-Therian fainted
+Player A: Switched out Tornadus-Therian for Hippowdon
+Turn 19:
+Player B: Gallade used Aqua Cutter on Hippowdon and crit for 59 damage (supereffective)
+Player A: Hippowdon used Earthquake on Gallade for 16 damage
+Player B: Gallade fainted
+Player B: Switched out Gallade for Gardevoir
+Turn 20:
+Player B: Gardevoir used Moonblast on Hippowdon for 41 damage
+Player A: Hippowdon fainted
+Player A: Switched out Hippowdon for Garganacl
+Turn 21:
+Player B: Gardevoir used Aura Sphere on Garganacl for 25 damage (supereffective)
+Player A: Garganacl used Salt Cure on Gardevoir for 25 damage
+Turn 22:
+Player B: Gardevoir used Aura Sphere on Garganacl for 23 damage (supereffective)
+Player A: Garganacl fainted
+Player A: Switched out Garganacl for Houndstone
+Turn 23:
+Player A: Houndstone used Last Respects on Gardevoir for 75 damage (supereffective)
+Player B: Gardevoir fainted
+Player B: Switched out Gardevoir for Darkrai
+Turn 24:
+Player B: Darkrai used Dark Void
+Player A: Houndstone can't move because it is asleep
+Turn 25:
+Player B: Darkrai used Trick on self
+Player A: Houndstone used Body Press on Darkrai for 49 damage (supereffective)
+Player B: Darkrai fainted
+Player B: Switched out Darkrai for Torterra
+Turn 26:
+Player A: Houndstone used Last Respects on Torterra for 2 damage
+Player B: Torterra fainted

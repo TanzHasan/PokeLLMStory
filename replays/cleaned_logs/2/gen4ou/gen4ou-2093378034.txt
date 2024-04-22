@@ -1,0 +1,27 @@
+Battle start:
+Player A sent out Dragonite
+Player B sent out Heatran
+Turn 1:
+Player A: Dragonite used Superpower on Heatran for 92 damage (supereffective)
+Player B: Heatran used Dragon Pulse on Dragonite for 91 damage (supereffective)
+Player A: Dragonite fainted
+Player A: Switched out Dragonite for Tentacruel
+Turn 2:
+Player B: Switched out Heatran for Bronzong
+Player A: Tentacruel used Surf on Bronzong for 23 damage
+Turn 3:
+Player A: Switched out Tentacruel for Gliscor
+Player B: Bronzong used Trick Room on self
+Turn 4:
+Player B: Bronzong used Gyro Ball on Gliscor for 54 damage
+Player A: Gliscor used Knock Off on Bronzong for 5 damage
+Turn 5:
+Player A: Switched out Gliscor for Tentacruel
+Player B: Bronzong used Gyro Ball on Tentacruel for 24 damage
+Turn 6:
+Player B: Bronzong used Earthquake on Tentacruel for 57 damage (supereffective)
+Player A: Tentacruel used Surf on Bronzong for 23 damage
+Turn 7:
+Player A: Switched out Tentacruel for Celebi
+Player B: Bronzong used Gyro Ball on Celebi for 29 damage
+Turn 8:

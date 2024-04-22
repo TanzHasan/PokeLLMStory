@@ -1,0 +1,114 @@
+Battle start:
+Player A sent out Jynx
+Player B sent out Chansey
+Turn 1:
+Player B: Switched out Chansey for Electrode
+Player A: Jynx used Lovely Kiss
+Turn 2:
+Player B: Switched out Electrode for Jynx
+Player A: Jynx used Blizzard on Jynx for 21 damage
+Turn 3:
+Player A: Jynx used Psychic on Jynx for 15 damage
+Turn 4:
+Player A: Jynx used Psychic on Jynx and crit for 32 damage
+Player B: Jynx used Lovely Kiss
+Turn 5:
+Player B: Switched out Jynx for Snorlax
+Player A: Jynx can't move because it is asleep
+Turn 6:
+Player A: Switched out Jynx for Snorlax
+Player B: Snorlax used Amnesia on self
+Turn 7:
+Player A: Switched out Snorlax for Starmie
+Player B: Snorlax used Blizzard on Starmie for 21 damage
+Turn 8:
+Player A: Starmie used Thunder Wave
+Player B: Snorlax can't move because it is paralyzed
+Turn 9:
+Player A: Switched out Starmie for Snorlax
+Player B: Snorlax used Body Slam on Snorlax for 27 damage
+Turn 10:
+Player A: Snorlax used Reflect on self
+Player B: Snorlax used Blizzard on Snorlax for 37 damage
+Turn 11:
+Player A: Switched out Snorlax for Starmie
+Player B: Snorlax used Amnesia on self
+Turn 12:
+Player A: Starmie used Thunderbolt on Snorlax for 6 damage
+Player B: Snorlax used Body Slam on Starmie for 38 damage
+Turn 13:
+Player A: Starmie used Recover and healed for 50
+Player B: Snorlax can't move because it is paralyzed
+Turn 14:
+Player A: Starmie used Thunderbolt on Snorlax for 6 damage
+Player B: Snorlax used Body Slam on Starmie for 39 damage
+Turn 15:
+Player A: Starmie used Recover and healed for 48
+Player B: Snorlax can't move because it is paralyzed
+Turn 16:
+Player A: Starmie used Thunderbolt on Snorlax for 6 damage
+Player B: Snorlax used Body Slam on Starmie for 34 damage
+Turn 17:
+Player A: Starmie used Recover and healed for 34
+Player B: Snorlax used Body Slam on Starmie for 34 damage
+Turn 18:
+Player A: Starmie used Recover and healed for 34
+Player B: Snorlax used Body Slam on Starmie for 35 damage
+Turn 19:
+Player A: Starmie used Recover and healed for 35
+Player B: Snorlax used Body Slam on Starmie for 37 damage
+Turn 20:
+Player A: Starmie used Recover and healed for 37
+Player B: Snorlax used Body Slam on Starmie for 37 damage
+Turn 21:
+Player A: Starmie used Recover and healed for 37
+Player B: Snorlax can't move because it is paralyzed
+Turn 22:
+Player A: Starmie used Thunderbolt on Snorlax for 7 damage
+Player B: Snorlax used Self-Destruct on Starmie for 100 damage
+Player A: Starmie fainted
+Player B: Snorlax fainted
+Player A: Switched out Starmie for Rhydon
+Player B: Switched out Snorlax for Tauros
+Turn 23:
+Player B: Tauros used Fire Blast on Rhydon for 13 damage
+Player A: Rhydon used Earthquake on Tauros for 42 damage
+Turn 24:
+Player B: Switched out Tauros for Chansey
+Player A: Rhydon used Earthquake on Chansey for 53 damage
+Turn 25:
+Player B: Chansey used Ice Beam on Rhydon for 60 damage (supereffective)
+Player A: Rhydon used Earthquake on Chansey for 47 damage
+Player B: Chansey fainted
+Player B: Switched out Chansey for Dugtrio
+Turn 26:
+Player A: Switched out Rhydon for Snorlax
+Player B: Dugtrio used Earthquake on Snorlax for 25 damage
+Turn 27:
+Player B: Dugtrio used Body Slam on Snorlax for 11 damage
+Player A: Snorlax fainted
+Player A: Switched out Snorlax for Chansey
+Turn 28:
+Player B: Dugtrio used Earthquake on Chansey and crit for 78 damage
+Player A: Chansey used Ice Beam on Dugtrio for 68 damage (supereffective)
+Turn 29:
+Player A: Switched out Chansey for Rhydon
+Player B: Dugtrio used Earthquake on Rhydon for 27 damage (supereffective)
+Player A: Chansey fainted
+Player A: Switched out Chansey for Tauros
+Turn 30:
+Player B: Dugtrio used Earthquake on Tauros for 29 damage
+Player A: Tauros used Body Slam on Dugtrio for 32 damage
+Player B: Dugtrio fainted
+Player B: Switched out Dugtrio for Tauros
+Turn 31:
+Player A: Tauros used Blizzard on Tauros for 25 damage
+Player B: Tauros used Fire Blast on Tauros for 27 damage
+Turn 32:
+Player A: Switched out Tauros for Jynx
+Player B: Tauros used Hyper Beam on Jynx and crit for 100 damage
+Player A: Tauros fainted
+Player A: Switched out Tauros for Tauros
+Turn 33:
+Player B: Tauros used Hyper Beam on Tauros and crit for 44 damage
+Player A: Tauros fainted

@@ -1,0 +1,263 @@
+Battle start:
+Player A sent out Slowbro-Mega
+Player B sent out Alakazam-Mega
+Turn 1:
+Player A: Slowbro-Mega used Light Screen on self
+Player B: Alakazam-Mega used Fleur Cannon on Slowbro-Mega for 40 damage
+Turn 2:
+Player B: Switched out Alakazam-Mega for Chansey
+Player A: Slowbro-Mega used Reflect on self
+Turn 3:
+Player A: Switched out Slowbro-Mega for Lunala
+Player B: Chansey used Light Screen on self
+Turn 4:
+Player B: Chansey used Haze on self
+Player A: Lunala used No Retreat on self
+Turn 5:
+Player B: Chansey used Haze on self
+Player A: Lunala used Judgment on Chansey for 20 damage (supereffective)
+Turn 6:
+Player A: Switched out Lunala for Slowbro-Mega
+Player B: Switched out Chansey for Arceus-Fairy
+Turn 7:
+Player A: Slowbro-Mega used Recover and healed for 40
+Player B: Arceus-Fairy used Knock Off on Slowbro-Mega for 10 damage (supereffective)
+Turn 8:
+Player B: Switched out Arceus-Fairy for Aegislash
+Turn 9:
+Player A: Slowbro-Mega used Light Screen on self
+Player B: Aegislash used Spikes on self
+Turn 10:
+Player A: Slowbro-Mega used Reflect on self
+Player B: Aegislash used Spikes on self
+Turn 11:
+Player A: Switched out Slowbro-Mega for Ting-Lu
+Player B: Aegislash used Spikes on self
+Turn 12:
+Player B: Switched out Aegislash for Chansey
+Player A: Ting-Lu used Teleport on self
+Player A: Switched out Ting-Lu for Slowbro-Mega
+Turn 13:
+Player A: Switched out Slowbro-Mega for Ting-Lu
+Player B: Chansey used Teleport on self
+Player B: Switched out Chansey for Aegislash
+Turn 14:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Teleport on self
+Player A: Switched out Ting-Lu for Slowbro-Mega
+Turn 15:
+Player A: Slowbro-Mega used Recover and healed for 1
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Miraidon
+Turn 16:
+Player A: Switched out Slowbro-Mega for Ting-Lu
+Player B: Miraidon used Mortal Spin on Ting-Lu for 1 damage
+Turn 17:
+Player B: Switched out Miraidon for Aegislash
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 18:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Teleport on self
+Player A: Switched out Ting-Lu for Slowbro-Mega
+Turn 19:
+Player A: Slowbro-Mega used Reflect on self
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Miraidon
+Turn 20:
+Player A: Slowbro-Mega used Light Screen on self
+Player B: Miraidon used Thunder Cage on Slowbro-Mega for 58 damage (supereffective)
+Turn 21:
+Player A: Slowbro-Mega used Recover and healed for 37
+Player B: Miraidon used Torch Song on Slowbro-Mega for 6 damage
+Turn 22:
+Player A: Slowbro-Mega used Haze on self
+Player B: Miraidon used Mortal Spin on Slowbro-Mega for 13 damage
+Turn 23:
+Player A: Slowbro-Mega used Recover and healed for 25
+Player B: Miraidon used Thunder Cage on Slowbro-Mega for 36 damage (supereffective)
+Turn 24:
+Player A: Slowbro-Mega used Recover and healed for 25
+Player B: Miraidon used Thunder Cage on Slowbro-Mega for 32 damage (supereffective)
+Turn 25:
+Player A: Slowbro-Mega used Light Screen on self
+Player B: Miraidon used Thunder Cage on Slowbro-Mega for 33 damage (supereffective)
+Player A: Slowbro-Mega fainted
+Player A: Switched out Slowbro-Mega for Ting-Lu
+Turn 26:
+Player B: Switched out Miraidon for Aegislash
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 27:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 28:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 29:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 30:
+Player B: Aegislash used Parting Shot but it had no effect on Ting-Lu
+Player A: Ting-Lu used Rapid Spin but it had no effect on Aegislash
+Turn 31:
+Player B: Switched out Aegislash for Koraidon
+Player A: Ting-Lu used Teleport on self
+Player A: Switched out Ting-Lu for Arceus-Ghost
+Turn 32:
+Player B: Koraidon used Glaive Rush on Arceus-Ghost for 79 damage
+Player A: Arceus-Ghost used No Retreat on self
+Turn 33:
+Player B: Switched out Koraidon for Arceus-Fairy
+Player A: Arceus-Ghost used Jungle Healing and healed for 25
+Turn 34:
+Player A: Arceus-Ghost used Judgment on Arceus-Fairy for 33 damage
+Player B: Arceus-Fairy used Take Heart on self
+Turn 35:
+Player A: Arceus-Ghost used Judgment on Arceus-Fairy for 22 damage
+Player B: Arceus-Fairy used Take Heart on self
+Turn 36:
+Player A: Arceus-Ghost used Judgment on Arceus-Fairy for 17 damage
+Player B: Arceus-Fairy used Strength Sap and healed for 72
+Turn 37:
+Player A: Switched out Arceus-Ghost for Ting-Lu
+Player B: Arceus-Fairy used Take Heart on self
+Player A: Arceus-Ghost fainted
+Player A: Switched out Arceus-Ghost for Eternatus
+Turn 38:
+Player B: Arceus-Fairy used Revelation Dance on Eternatus for 90 damage
+Player A: Eternatus used Torch Song on Arceus-Fairy for 3 damage
+Turn 39:
+Player A: Eternatus used Destiny Bond on self
+Player B: Arceus-Fairy used Revelation Dance on Eternatus for 10 damage
+Player A: Eternatus fainted
+Player B: Arceus-Fairy fainted
+Player B: Switched out Arceus-Fairy for Alakazam-Mega
+Player A: Switched out Eternatus for Arceus-Ghost
+Turn 40:
+Player B: Alakazam-Mega used Moongeist Beam on Arceus-Ghost for 46 damage (supereffective)
+Player A: Arceus-Ghost fainted
+Player A: Switched out Arceus-Ghost for Lunala
+Turn 41:
+Player B: Alakazam-Mega used Moongeist Beam on Lunala for 100 damage (supereffective)
+Player A: Lunala fainted
+Player A: Switched out Lunala for Palkia-Origin
+Turn 42:
+Player B: Switched out Alakazam-Mega for Aegislash
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 43:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 44:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 42 damage
+Turn 45:
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Chansey
+Player A: Palkia-Origin used Steam Eruption on Chansey for 2 damage
+Turn 46:
+Player B: Switched out Chansey for Miraidon
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 47:
+Player A: Palkia-Origin used Judgment on Miraidon for 100 damage (supereffective)
+Player B: Miraidon fainted
+Player B: Switched out Miraidon for Aegislash
+Turn 48:
+Player B: Aegislash used Recover and healed for 42
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 59 damage
+Turn 49:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Strength Sap and healed for -1
+Turn 50:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 51:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 43 damage
+Turn 52:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 43 damage
+Turn 53:
+Player B: Aegislash used Recover and healed for 45
+Player A: Palkia-Origin used Judgment on Aegislash for 21 damage
+Turn 54:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Judgment on Aegislash for 25 damage
+Turn 55:
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Chansey
+Player A: Palkia-Origin used Judgment on Chansey for 20 damage (supereffective)
+Turn 56:
+Player A: Palkia-Origin used Nasty Plot on self
+Player B: Chansey used Strength Sap and healed for 17
+Turn 57:
+Player A: Palkia-Origin used Judgment on Chansey for 49 damage (supereffective)
+Player B: Chansey used Steam Eruption on Palkia-Origin for 6 damage
+Turn 58:
+Player B: Switched out Chansey for Koraidon
+Player A: Palkia-Origin used Judgment on Koraidon for 100 damage (supereffective)
+Player B: Chansey fainted
+Player B: Switched out Chansey for Aegislash
+Turn 59:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Judgment on Aegislash for 24 damage
+Turn 60:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Judgment on Aegislash for 24 damage
+Turn 61:
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Chansey
+Player A: Palkia-Origin used Judgment on Chansey for 21 damage (supereffective)
+Turn 62:
+Player A: Palkia-Origin used Nasty Plot on self
+Player B: Chansey used Strength Sap and healed for 18
+Turn 63:
+Player B: Switched out Chansey for Alakazam-Mega
+Player A: Palkia-Origin used Judgment on Alakazam-Mega for 88 damage
+Turn 64:
+Player A: Palkia-Origin used Judgment on Alakazam-Mega for 12 damage
+Player B: Alakazam-Mega fainted
+Player B: Switched out Alakazam-Mega for Aegislash
+Turn 65:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 45 damage
+Turn 66:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 40 damage
+Turn 67:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Steam Eruption on Aegislash for 45 damage
+Turn 68:
+Player B: Aegislash used Recover and healed for 50
+Player A: Palkia-Origin used Judgment on Aegislash and crit for 33 damage
+Turn 69:
+Player B: Aegislash used Parting Shot on self
+Player B: Switched out Aegislash for Chansey
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 70:
+Player A: Palkia-Origin used Judgment on Chansey for 23 damage (supereffective)
+Player B: Chansey fainted
+Player B: Switched out Chansey for Aegislash
+Turn 71:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Judgment on Aegislash for 22 damage
+Turn 72:
+Player B: Aegislash used Parting Shot on self
+Player A: Palkia-Origin used Judgment on Aegislash for 14 damage
+Turn 73:
+Player B: Aegislash used Parting Shot on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 74:
+Player B: Aegislash used Parting Shot on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 75:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 76:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 77:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Nasty Plot on self
+Turn 78:
+Player B: Aegislash used Haze on self
+Player A: Palkia-Origin used Judgment on Aegislash for 7 damage
+Player B: Aegislash fainted
