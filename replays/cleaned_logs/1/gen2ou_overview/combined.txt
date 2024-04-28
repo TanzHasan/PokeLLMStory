@@ -1,0 +1,1089 @@
+p1: Switched to Snorlax
+p2: Switched to Exeggutor
+Turn 1:
+p2: Exeggutor used Sleep Powder on Snorlax
+p1: Snorlax can't move
+Turn 2:
+p2: Switched to Cloyster
+p1: Switched to Tyranitar
+Turn 3:
+p2: Cloyster used Spikes on Tyranitar
+p1: Tyranitar used Rock Slide on Cloyster
+Turn 4:
+p2: Switched to Steelix
+p1: Switched to Cloyster
+Turn 5:
+p2: Switched to Gengar
+p1: Cloyster used Spikes on Gengar
+Turn 6:
+p1: Switched to Nidoking
+p2: Gengar used Dynamic Punch on Nidoking
+Turn 7:
+p2: Switched to Zapdos
+p1: Nidoking used Earthquake on Zapdos
+Turn 8:
+p2: Zapdos used Hidden Power on Nidoking
+p1: Nidoking used Ice Beam on Zapdos
+Turn 9:
+p2: Zapdos used Hidden Power on Nidoking
+p1: Nidoking used Lovely Kiss on Zapdos
+Turn 10:
+p2: Switched to Snorlax
+p1: Switched to Gengar
+Turn 11:
+p1: Gengar used Dynamic Punch on Snorlax
+p2: Snorlax used Earthquake on Gengar
+Turn 12:
+p2: Switched to Exeggutor
+p1: Gengar used Thunder on Exeggutor
+Turn 13:
+p1: Switched to Snorlax
+p2: Exeggutor can't move
+Turn 14:
+p1: Switched to Tyranitar
+p2: Exeggutor can't move
+Turn 15:
+p1: Tyranitar used Crunch on Exeggutor
+p2: Exeggutor used Giga Drain on Tyranitar
+Turn 16:
+p2: Switched to Steelix
+p1: Tyranitar used Crunch on Steelix
+Turn 17:
+p1: Switched to Zapdos
+p2: Steelix used Earthquake on Zapdos
+Turn 18:
+p1: Zapdos used Hidden Power on Steelix
+p2: Steelix used Curse on Steelix
+Turn 19:
+p2: Steelix used Earthquake on Zapdos
+p1: Zapdos used Whirlwind on Steelix
+Turn 20:
+p2: Gengar used Ice Punch on Zapdos
+p1: Zapdos used Thunder on Gengar
+Turn 21:
+p2: Switched to Exeggutor
+p1: Zapdos used Thunderbolt on Exeggutor
+Turn 22:
+p1: Switched to Cloyster
+p2: Exeggutor used Explosion on Cloyster
+p2: Exeggutor fainted
+p2: Switched to Cloyster
+Turn 23:
+p2: Cloyster used Surf on Cloyster
+p1: Cloyster fainted
+p1: Switched to Zapdos
+Turn 24:
+p1: Zapdos used Thunderbolt on Cloyster
+p2: Cloyster fainted
+p2: Switched to Steelix
+Turn 25:
+p1: Zapdos used Hidden Power on Steelix
+p2: Steelix fainted
+p2: Switched to Snorlax
+Turn 26:
+p1: Zapdos used Thunder on Snorlax
+p2: Snorlax fainted
+
+p1: Switched to Alakazam
+p2: Switched to Aerodactyl
+Turn 1:
+p2: Aerodactyl used Ancient Power on Alakazam
+p1: Alakazam used Psychic on Aerodactyl
+Turn 2:
+p1: Switched to Azumarill
+p2: Aerodactyl used Ancient Power on Azumarill
+Turn 3:
+p2: Switched to Hypno
+p1: Azumarill used Whirlpool on Hypno
+Turn 4:
+p2: Hypno used Thunder Punch on Azumarill
+p1: Azumarill used Perish Song on Azumarill
+Turn 5:
+p2: Hypno used Thunder Punch on Azumarill
+p1: Azumarill used Rest on Azumarill
+Turn 6:
+p2: Hypno used Thunder Punch on Azumarill
+p1: Azumarill can't move
+Turn 7:
+p1: Switched to Raichu
+p2: Hypno used Psychic on Raichu
+p2: Hypno fainted
+p2: Switched to Aerodactyl
+Turn 8:
+p1: Switched to Azumarill
+p2: Aerodactyl used Earthquake on Azumarill
+Turn 9:
+p2: Switched to Lanturn
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Rest on Azumarill
+Turn 10:
+p1: Switched to Victreebel
+p2: Lanturn used Thunderbolt on Victreebel
+Turn 11:
+p2: Switched to Jumpluff
+p1: Victreebel used Substitute on Victreebel
+Turn 12:
+p2: Jumpluff used Hidden Power on Victreebel
+p1: Victreebel used Sludge Bomb on Jumpluff
+Turn 13:
+p1: Switched to Raichu
+p2: Jumpluff used Hidden Power on Raichu
+Turn 14:
+p2: Jumpluff used Giga Drain on Raichu
+p1: Raichu used Thunderbolt on Jumpluff
+p2: Jumpluff fainted
+p2: Switched to Aerodactyl
+Turn 15:
+p1: Switched to Azumarill
+p2: Aerodactyl used Earthquake on Azumarill
+Turn 16:
+p2: Switched to Lanturn
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Whirlpool on Lanturn
+Turn 17:
+p1: Switched to Victreebel
+p2: Lanturn used Thunderbolt on Victreebel
+Turn 18:
+p1: Victreebel used Giga Drain on Lanturn
+p2: Lanturn used Ice Beam on Victreebel
+Turn 19:
+p1: Victreebel used Sleep Powder on Lanturn
+p2: Lanturn can't move
+Turn 20:
+p2: Switched to Aerodactyl
+p1: Victreebel used Giga Drain on Aerodactyl
+Turn 21:
+p1: Switched to Azumarill
+p2: Aerodactyl used Hidden Power on Azumarill
+Turn 22:
+p2: Aerodactyl used Ancient Power on Azumarill
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Whirlpool on Aerodactyl
+Turn 23:
+p1: Azumarill used Rest on Azumarill
+p2: Aerodactyl used Roar on Azumarill
+Turn 24:
+p1: Switched to Azumarill
+p2: Aerodactyl used Hidden Power on Azumarill
+Turn 25:
+p2: Aerodactyl used Ancient Power on Azumarill
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Whirlpool on Aerodactyl
+p2: Aerodactyl fainted
+p2: Switched to Lanturn
+Turn 26:
+p1: Switched to Hitmonlee
+p2: Lanturn used Thunderbolt on Hitmonlee
+Turn 27:
+p1: Hitmonlee used High Jump Kick on Lanturn
+p2: Lanturn used Surf on Hitmonlee
+Turn 28:
+p1: Hitmonlee used High Jump Kick on Lanturn
+p2: Lanturn fainted
+p2: Switched to Arcanine
+Turn 29:
+p1: Switched to Azumarill
+p2: Arcanine used Flamethrower on Azumarill
+Turn 30:
+p2: Arcanine used Hidden Power on Azumarill
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Rest on Azumarill
+Turn 31:
+p2: Arcanine used Hidden Power on Azumarill
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Perish Song on Azumarill
+Turn 32:
+p2: Arcanine used Hidden Power on Azumarill
+p1: Azumarill can't move
+p1: Azumarill used Sleep Talk on Azumarill
+p1: Azumarill used Perish Song on Azumarill
+Turn 33:
+p2: Arcanine used Hidden Power on Azumarill
+p1: Azumarill fainted
+p1: Switched to Dodrio
+Turn 34:
+p2: Switched to Blissey
+p1: Dodrio used Double-Edge on Blissey
+Turn 35:
+p1: Dodrio used Double-Edge on Blissey
+p2: Blissey fainted
+p2: Switched to Arcanine
+Turn 36:
+p1: Dodrio used Double-Edge on Arcanine
+p2: Arcanine used Flamethrower on Dodrio
+p1: Dodrio fainted
+p1: Switched to Alakazam
+Turn 37:
+p1: Alakazam used Psychic on Arcanine
+p2: Arcanine used Flamethrower on Alakazam
+p1: Alakazam fainted
+p1: Switched to Raichu
+Turn 38:
+p1: Raichu used Thunderbolt on Arcanine
+p2: Arcanine fainted
+
+p1: Switched to Cloyster
+p2: Switched to Skarmory
+Turn 1:
+p2: Skarmory used Toxic on Cloyster
+p1: Cloyster used Ice Beam on Skarmory
+Turn 2:
+p2: Switched to Suicune
+p1: Cloyster used Spikes on Suicune
+Turn 3:
+p1: Switched to Snorlax
+p2: Suicune used Surf on Snorlax
+Turn 4:
+p2: Switched to Skarmory
+p1: Snorlax used Body Slam on Skarmory
+Turn 5:
+p1: Switched to Houndoom
+p2: Skarmory used Toxic on Houndoom
+Turn 6:
+p1: Houndoom used Pursuit on Skarmory
+p2: Switched to Blissey
+Turn 7:
+p1: Switched to Snorlax
+p2: Blissey used Thunder Wave on Snorlax
+Turn 8:
+p2: Blissey used Double-Edge on Snorlax
+p1: Snorlax used Belly Drum on Snorlax
+Turn 9:
+p2: Blissey used Double-Edge on Snorlax
+p1: Snorlax used Body Slam on Blissey
+p2: Blissey fainted
+p2: Switched to Nidoking
+Turn 10:
+p1: Snorlax can't move
+p2: Nidoking used Roar on Snorlax
+Turn 11:
+p2: Switched to Machamp
+p1: Cloyster used Ice Beam on Machamp
+Turn 12:
+p1: Cloyster used Rest on Cloyster
+p2: Machamp used Rock Slide on Cloyster
+Turn 13:
+p1: Switched to Scizor
+p2: Machamp used Rock Slide on Scizor
+Turn 14:
+p1: Scizor used Swords Dance on Scizor
+p2: Machamp used Cross Chop on Scizor
+Turn 15:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Snorlax
+p2: Machamp used Cross Chop on Snorlax
+p1: Snorlax fainted
+p1: Switched to Pikachu
+Turn 16:
+p2: Switched to Raikou
+p1: Pikachu used Thunder on Raikou
+Turn 17:
+p2: Raikou used Thunderbolt on Pikachu
+p1: Pikachu used Surf on Raikou
+Turn 18:
+p2: Raikou used Rest on Raikou
+p1: Pikachu used Surf on Raikou
+Turn 19:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Hidden Power on Pikachu
+p1: Pikachu used Surf on Raikou
+Turn 20:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Rest on Raikou
+p1: Pikachu used Surf on Raikou
+Turn 21:
+p2: Raikou can't move
+p1: Pikachu used Surf on Raikou
+Turn 22:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Thunderbolt on Pikachu
+p1: Pikachu fainted
+p1: Switched to Scizor
+Turn 23:
+p2: Raikou used Sleep Talk on Raikou
+p1: Scizor used Agility on Scizor
+Turn 24:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Marowak
+p2: Raikou used Thunderbolt on Marowak
+Turn 25:
+p2: Switched to Suicune
+p1: Marowak used Earthquake on Suicune
+Turn 26:
+p1: Marowak used Earthquake on Suicune
+p2: Suicune used Surf on Marowak
+Turn 27:
+p2: Switched to Skarmory
+p1: Marowak used Earthquake on Skarmory
+Turn 28:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory used Whirlwind on Marowak
+Turn 29:
+p2: Switched to Nidoking
+p1: Houndoom used Fire Blast on Nidoking
+Turn 30:
+p1: Houndoom used Fire Blast on Nidoking
+p2: Nidoking fainted
+p2: Switched to Machamp
+Turn 31:
+p1: Houndoom used Fire Blast on Machamp
+p2: Machamp used Rock Slide on Houndoom
+Turn 32:
+p1: Houndoom used Fire Blast on Machamp
+p2: Machamp used Cross Chop on Houndoom
+p1: Houndoom fainted
+p1: Switched to Scizor
+Turn 33:
+p1: Scizor used Hidden Power on Machamp
+p2: Machamp fainted
+p2: Switched to Suicune
+p2: Suicune fainted
+p2: Switched to Raikou
+Turn 34:
+p2: Raikou used Hidden Power on Scizor
+p1: Scizor used Hidden Power on Raikou
+Turn 35:
+p2: Raikou used Rest on Raikou
+p1: Scizor used Hidden Power on Raikou
+Turn 36:
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Hidden Power on Scizor
+p1: Scizor used Agility on Scizor
+Turn 37:
+p1: Scizor used Baton Pass on Scizor
+p1: Switched to Marowak
+p2: Raikou can't move
+p2: Raikou used Sleep Talk on Raikou
+p2: Raikou used Rest on Raikou
+Turn 38:
+p2: Switched to Skarmory
+p1: Marowak used Substitute on Marowak
+Turn 39:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory can't move
+Turn 40:
+p1: Marowak used Rock Slide on Skarmory
+p2: Skarmory fainted
+p2: Switched to Raikou
+Turn 41:
+p1: Marowak used Earthquake on Raikou
+p2: Raikou fainted
+
+p1: Switched to Raikou
+p2: Switched to Snorlax
+Turn 1:
+p1: Switched to Machamp
+p2: Snorlax used Body Slam on Machamp
+Turn 2:
+p2: Switched to Misdreavus
+p1: Machamp used Rock Slide on Misdreavus
+Turn 3:
+p1: Switched to Zapdos
+p2: Misdreavus used Toxic on Zapdos
+Turn 4:
+p2: Misdreavus used Protect on Misdreavus
+p1: Zapdos used Thunder on Misdreavus
+Turn 5:
+p1: Zapdos used Hidden Power on Misdreavus
+p2: Misdreavus used Toxic on Zapdos
+Turn 6:
+p1: Zapdos used Thunder on Misdreavus
+p2: Misdreavus used Psychic on Zapdos
+Turn 7:
+p2: Misdreavus used Protect on Misdreavus
+p1: Zapdos used Rest on Zapdos
+Turn 8:
+p2: Switched to Cloyster
+p1: Zapdos can't move
+p1: Zapdos used Sleep Talk on Zapdos
+p1: Zapdos used Thunder on Cloyster
+p2: Cloyster fainted
+p2: Switched to Blissey
+Turn 9:
+p1: Switched to Machamp
+p2: Blissey used Flamethrower on Machamp
+Turn 10:
+p2: Switched to Skarmory
+p1: Machamp used Rock Slide on Skarmory
+Turn 11:
+p1: Switched to Cloyster
+p2: Skarmory used Drill Peck on Cloyster
+Turn 12:
+p2: Switched to Zapdos
+p1: Cloyster used Spikes on Zapdos
+Turn 13:
+p1: Switched to Raikou
+p2: Zapdos used Thunder on Raikou
+Turn 14:
+p2: Switched to Blissey
+p1: Raikou used Rest on Raikou
+Turn 15:
+p1: Switched to Misdreavus
+p2: Blissey used Flamethrower on Misdreavus
+Turn 16:
+p2: Switched to Skarmory
+p1: Misdreavus used Thief on Skarmory
+Turn 17:
+p1: Misdreavus used Thunder on Skarmory
+p2: Skarmory fainted
+p2: Switched to Blissey
+Turn 18:
+
+p1: Switched to Electrode
+p2: Switched to Vaporeon
+Turn 1:
+p1: Electrode used Thunder Wave on Vaporeon
+p2: Vaporeon used Surf on Electrode
+Turn 2:
+p1: Electrode used Thunderbolt on Vaporeon
+p2: Vaporeon can't move
+Turn 3:
+p2: Switched to Marowak
+p1: Electrode used Thunderbolt on Marowak
+Turn 4:
+p1: Electrode used Hidden Power on Marowak
+p2: Marowak used Swords Dance on Marowak
+Turn 5:
+p1: Electrode used Explosion on Marowak
+p1: Electrode fainted
+p2: Marowak fainted
+p1: Switched to Vileplume
+p2: Switched to Charmeleon
+Turn 6:
+p1: Switched to Tentacruel
+p2: Charmeleon used Sunny Day on Charmeleon
+Turn 7:
+p1: Tentacruel used Substitute on Tentacruel
+p2: Charmeleon used Fire Blast on Tentacruel
+Turn 8:
+p1: Tentacruel used Swords Dance on Tentacruel
+p2: Charmeleon used Toxic on Tentacruel
+Turn 9:
+p2: Switched to Vaporeon
+p1: Tentacruel used Swords Dance on Tentacruel
+Turn 10:
+p1: Tentacruel used Sludge Bomb on Vaporeon
+p2: Vaporeon fainted
+p2: Switched to Poliwrath
+Turn 11:
+p1: Tentacruel used Sludge Bomb on Poliwrath
+p2: Poliwrath used Lovely Kiss on Tentacruel
+Turn 12:
+p2: Switched to Venusaur
+p1: Tentacruel used Sludge Bomb on Venusaur
+Turn 13:
+p2: Switched to Piloswine
+p1: Tentacruel used Sludge Bomb on Piloswine
+Turn 14:
+p1: Tentacruel used Surf on Piloswine
+p2: Piloswine used Earthquake on Tentacruel
+Turn 15:
+p1: Tentacruel used Surf on Piloswine
+p2: Piloswine fainted
+p2: Switched to Charmeleon
+Turn 16:
+p1: Tentacruel used Surf on Charmeleon
+p2: Charmeleon used Hidden Power on Tentacruel
+Turn 17:
+p2: Switched to Poliwrath
+p1: Tentacruel used Surf on Poliwrath
+Turn 18:
+p1: Tentacruel used Sludge Bomb on Poliwrath
+p2: Poliwrath fainted
+p2: Switched to Charmeleon
+Turn 19:
+p1: Tentacruel used Surf on Charmeleon
+p2: Charmeleon fainted
+p2: Switched to Venusaur
+Turn 20:
+p1: Tentacruel used Sludge Bomb on Venusaur
+p2: Venusaur fainted
+
+p1: Switched to Qwilfish
+p2: Switched to Ampharos
+Turn 1:
+p1: Switched to Rhydon
+p2: Ampharos used Thunder on Rhydon
+Turn 2:
+p2: Switched to Lickitung
+p1: Rhydon used Curse on Rhydon
+Turn 3:
+p2: Lickitung used Surf on Rhydon
+p1: Rhydon used Earthquake on Lickitung
+Turn 4:
+p1: Switched to Qwilfish
+p2: Lickitung used Rest on Lickitung
+Turn 5:
+p1: Qwilfish used Spikes on Lickitung
+p2: Lickitung can't move
+p2: Lickitung used Sleep Talk on Lickitung
+p2: Lickitung used Rest on Lickitung
+Turn 6:
+p1: Qwilfish used Curse on Qwilfish
+p2: Lickitung can't move
+p2: Lickitung used Sleep Talk on Lickitung
+p2: Lickitung used Rest on Lickitung
+Turn 7:
+p1: Qwilfish used Curse on Qwilfish
+p2: Lickitung used Earthquake on Qwilfish
+Turn 8:
+p2: Lickitung used Earthquake on Qwilfish
+p1: Qwilfish used Sludge Bomb on Lickitung
+Turn 9:
+p2: Lickitung used Earthquake on Qwilfish
+p1: Qwilfish fainted
+p1: Switched to Rhydon
+Turn 10:
+p1: Rhydon used Earthquake on Lickitung
+p2: Lickitung used Surf on Rhydon
+p1: Rhydon fainted
+p1: Switched to Raichu
+Turn 11:
+p1: Raichu used Surf on Lickitung
+p2: Lickitung fainted
+p2: Switched to Tauros
+Turn 12:
+p2: Tauros used Earthquake on Raichu
+p1: Raichu used Thunder on Tauros
+Turn 13:
+p1: Switched to Shuckle
+p2: Tauros used Earthquake on Shuckle
+Turn 14:
+p2: Switched to Golem
+p1: Shuckle used Toxic on Golem
+Turn 15:
+p2: Golem used Rock Slide on Shuckle
+p1: Shuckle used Defense Curl on Shuckle
+Turn 16:
+p2: Golem used Rock Slide on Shuckle
+p1: Shuckle used Defense Curl on Shuckle
+Turn 17:
+p1: Shuckle used Rest on Shuckle
+p2: Golem used Roar on Shuckle
+Turn 18:
+p1: p1a: Saturn used Growth on p1a: Saturn
+p2: Golem used Earthquake on p1a: Saturn
+Turn 19:
+p1: p1a: Saturn used Hidden Power on Golem
+p2: Golem used Roar on p1a: Saturn
+p2: Golem fainted
+p2: Switched to Ampharos
+Turn 20:
+p1: Switched to Shuckle
+p2: Ampharos failed to use Thunder Wave
+Turn 21:
+p2: Switched to Cloyster
+p1: Shuckle can't move
+Turn 22:
+p2: Cloyster used Spikes on Shuckle
+p1: Shuckle can't move
+Turn 23:
+p2: Cloyster used Surf on Shuckle
+p1: Shuckle used Toxic on Cloyster
+Turn 24:
+p2: Cloyster used Surf on Shuckle
+p1: Shuckle used Toxic on Cloyster
+Turn 25:
+p1: Switched to Raichu
+p2: Cloyster used Surf on Raichu
+p1: Raichu fainted
+p1: Switched to Umbreon
+Turn 26:
+p2: Cloyster used Toxic on Umbreon
+p1: Umbreon used Moonlight on Umbreon
+Turn 27:
+p2: Cloyster used Surf on Umbreon
+p1: Umbreon used Growth on Umbreon
+Turn 28:
+p2: Cloyster used Surf on Umbreon
+p1: Umbreon used Moonlight on Umbreon
+Turn 29:
+p1: Switched to Shuckle
+p2: Cloyster used Explosion on Shuckle
+p2: Cloyster fainted
+p1: Shuckle fainted
+p2: Switched to Ampharos
+p1: Switched to Umbreon
+Turn 30:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 31:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 32:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 33:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 34:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 35:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos failed to use Thunder Wave
+Turn 36:
+p1: Umbreon used Growth on Umbreon
+p2: Ampharos used Thunder on Umbreon
+Turn 37:
+p1: Umbreon used Moonlight on Umbreon
+p2: Ampharos failed to use Thunder Wave
+Turn 38:
+p1: Umbreon used Baton Pass on Umbreon
+p1: Switched to Alakazam
+p2: Ampharos used Thunder on Alakazam
+Turn 39:
+p1: Alakazam used Psychic on Ampharos
+p2: Ampharos used Thunder Wave on Alakazam
+Turn 40:
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam can't move
+Turn 41:
+p2: Ampharos can't move
+p1: Alakazam used Psychic on Ampharos
+Turn 42:
+p2: Ampharos can't move
+p2: Ampharos used Sleep Talk on Ampharos
+p2: Ampharos used Thunder Wave on Alakazam
+p1: Alakazam can't move
+Turn 43:
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam can't move
+Turn 44:
+p2: Ampharos can't move
+p2: Ampharos used Sleep Talk on Ampharos
+p2: Ampharos used Rest on Ampharos
+p1: Alakazam used Psychic on Ampharos
+p2: Ampharos fainted
+p2: Switched to Tauros
+Turn 45:
+p2: Tauros used Rest on Tauros
+p1: Alakazam can't move
+Turn 46:
+p2: Tauros can't move
+p2: Tauros used Sleep Talk on Tauros
+p2: Tauros used Earthquake on Alakazam
+p1: Alakazam used Psychic on Tauros
+p2: Tauros fainted
+p2: Switched to Gengar
+Turn 47:
+p2: Gengar used Thunderbolt on Alakazam
+p1: Alakazam used Psychic on Gengar
+p2: Gengar fainted
+
+p1: Switched to Snorlax
+p2: Switched to Snorlax
+Turn 1:
+p2: Switched to Golem
+p1: Snorlax used Body Slam on Golem
+Turn 2:
+p1: Snorlax used Body Slam on Golem
+p2: Golem used Roar on Snorlax
+Turn 3:
+p1: Switched to Zapdos
+p2: Switched to Snorlax
+Turn 4:
+p1: Zapdos used Thunder on Snorlax
+p2: Snorlax used Double-Edge on Zapdos
+Turn 5:
+p1: Switched to Cloyster
+p2: Snorlax can't move
+Turn 6:
+p2: Switched to Moltres
+p1: Cloyster used Spikes on Moltres
+Turn 7:
+p1: Switched to Tyranitar
+p2: Moltres used Fire Blast on Tyranitar
+Turn 8:
+p2: Switched to Golem
+p1: Switched to Cloyster
+Turn 9:
+p2: Switched to Exeggutor
+p1: Cloyster used Surf on Exeggutor
+Turn 10:
+p1: Cloyster used Ice Beam on Exeggutor
+p2: Exeggutor fainted
+p2: Switched to Moltres
+Turn 11:
+p1: Switched to Snorlax
+p2: Moltres used Fire Blast on Snorlax
+Turn 12:
+p2: Moltres used Fire Blast on Snorlax
+p1: Snorlax used Body Slam on Moltres
+Turn 13:
+p1: Switched to Tyranitar
+p2: Moltres used Fire Blast on Tyranitar
+Turn 14:
+p2: Switched to Golem
+p1: Tyranitar used Rock Slide on Golem
+Turn 15:
+p1: Switched to Cloyster
+p2: Golem used Roar on Cloyster
+Turn 16:
+p1: Switched to Cloyster
+p2: Golem used Earthquake on Cloyster
+Turn 17:
+p2: Switched to Snorlax
+p1: Cloyster used Surf on Snorlax
+Turn 18:
+p1: Cloyster used Surf on Snorlax
+p2: Snorlax used Rest on Snorlax
+Turn 19:
+p1: Switched to Tyranitar
+p2: Snorlax can't move
+Turn 20:
+p1: Switched to Nidoking
+p2: Switched to Golem
+Turn 21:
+p2: Switched to Snorlax
+p1: Nidoking used Ice Beam on Snorlax
+Turn 22:
+p1: Nidoking used Earthquake on Snorlax
+p2: Snorlax can't move
+Turn 23:
+p1: Nidoking used Earthquake on Snorlax
+p2: Snorlax used Earthquake on Nidoking
+Turn 24:
+p1: Nidoking used Lovely Kiss on Snorlax
+p2: Snorlax can't move
+Turn 25:
+p2: Switched to Zapdos
+p1: Nidoking used Earthquake on Zapdos
+Turn 26:
+p1: Switched to Cloyster
+p2: Zapdos used Hidden Power on Cloyster
+Turn 27:
+p1: Switched to Nidoking
+p2: Zapdos used Thunder on Nidoking
+Turn 28:
+p1: Switched to Gengar
+p2: Zapdos used Hidden Power on Gengar
+Turn 29:
+p2: Switched to Golem
+p1: Gengar used Ice Punch on Golem
+Turn 30:
+p1: Gengar used Ice Punch on Golem
+p2: Golem fainted
+p2: Switched to Snorlax
+Turn 31:
+p1: Gengar used Dynamic Punch on Snorlax
+p2: Snorlax can't move
+Turn 32:
+p1: Gengar used Dynamic Punch on Snorlax
+p2: Snorlax can't move
+Turn 33:
+p1: Gengar used Thunder on Snorlax
+p2: Snorlax can't move
+Turn 34:
+p1: Gengar used Thunder on Snorlax
+p2: Snorlax can't move
+Turn 35:
+p1: Gengar used Thunder on Snorlax
+p2: Snorlax can't move
+Turn 36:
+p1: Gengar used Thunder on Snorlax
+p2: Snorlax fainted
+
+p1: Switched to Misdreavus
+p2: Switched to Slowking
+Turn 1:
+p1: Misdreavus used Thunderbolt on Slowking
+p2: Slowking used Amnesia on Slowking
+Turn 2:
+p1: Misdreavus used Thunderbolt on Slowking
+p2: Slowking used Surf on Misdreavus
+Turn 3:
+p1: Misdreavus used Mean Look on Slowking
+p2: Slowking used Rest on Slowking
+Turn 4:
+p1: Misdreavus used Perish Song on Misdreavus
+p2: Slowking used Psychic on Misdreavus
+Turn 5:
+p1: Misdreavus used Perish Song on Misdreavus
+p2: Slowking used Psychic on Misdreavus
+Turn 6:
+p1: Misdreavus used Pain Split on Slowking
+p2: Slowking used Psychic on Misdreavus
+Turn 7:
+p1: Switched to Feraligatr
+p2: Slowking used Surf on Feraligatr
+p2: Slowking fainted
+p2: Switched to Hitmonlee
+Turn 8:
+p1: Switched to Scyther
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 9:
+p1: Scyther used Agility on Scyther
+p2: Hitmonlee used Body Slam on Scyther
+Turn 10:
+p1: Scyther used Baton Pass on Scyther
+p1: Switched to Misdreavus
+p2: Hitmonlee used Body Slam on Misdreavus
+Turn 11:
+p2: Switched to Steelix
+p1: Misdreavus used Pain Split on Steelix
+Turn 12:
+p1: Misdreavus used Mean Look on Steelix
+p2: Steelix used Roar on Misdreavus
+Turn 13:
+p1: p1a: Machamp used Cross Chop on Steelix
+p2: Steelix used Explosion on p1a: Machamp
+p2: Steelix fainted
+p1: p1a: Machamp fainted
+p1: Switched to Scyther
+p2: Switched to Starmie
+Turn 14:
+p1: Switched to Feraligatr
+p2: Starmie used Thunderbolt on Feraligatr
+Turn 15:
+p1: Switched to Dugtrio
+p2: Starmie used Thunderbolt on Dugtrio
+Turn 16:
+p1: Dugtrio used Substitute on Dugtrio
+p2: Starmie used Surf on Dugtrio
+Turn 17:
+p1: Dugtrio used Hidden Power on Starmie
+p2: Starmie used Surf on Dugtrio
+p1: Dugtrio fainted
+p1: Switched to Misdreavus
+Turn 18:
+p2: Switched to Hitmonlee
+p1: Misdreavus used Thunderbolt on Hitmonlee
+Turn 19:
+p2: Hitmonlee used Rest on Hitmonlee
+p1: Misdreavus used Mean Look on Hitmonlee
+Turn 20:
+p2: Hitmonlee used Curse on Hitmonlee
+p1: Misdreavus used Perish Song on Misdreavus
+Turn 21:
+p1: Misdreavus used Thunderbolt on Hitmonlee
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 22:
+p1: Misdreavus used Thunderbolt on Hitmonlee
+p2: Hitmonlee used Curse on Hitmonlee
+Turn 23:
+p1: Switched to Feraligatr
+p2: Hitmonlee used Body Slam on Feraligatr
+p2: Hitmonlee fainted
+p2: Switched to Starmie
+Turn 24:
+p2: Starmie used Thunderbolt on Feraligatr
+p1: Feraligatr fainted
+p1: Switched to Misdreavus
+Turn 25:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Mean Look on Starmie
+Turn 26:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Pain Split on Starmie
+Turn 27:
+p2: Starmie used Surf on Misdreavus
+p1: Misdreavus used Thunderbolt on Starmie
+Turn 28:
+p1: Switched to Scyther
+p2: Starmie used Surf on Scyther
+Turn 29:
+p2: Starmie used Thunderbolt on Scyther
+p1: Scyther fainted
+p1: Switched to Pikachu
+Turn 30:
+p2: Starmie used Surf on Pikachu
+p1: Pikachu used Thunderbolt on Starmie
+p2: Starmie fainted
+p2: Switched to Aerodactyl
+Turn 31:
+p2: Aerodactyl used Earthquake on Pikachu
+p1: Pikachu fainted
+p1: Switched to Misdreavus
+Turn 32:
+p2: Aerodactyl used Substitute on Aerodactyl
+p1: Misdreavus used Pain Split on Aerodactyl
+Turn 33:
+p2: Aerodactyl used Earthquake on Misdreavus
+p1: Misdreavus used Thunderbolt on Aerodactyl
+Turn 34:
+p2: Aerodactyl used Earthquake on Misdreavus
+p1: Misdreavus fainted
+
+p1: Switched to Victreebel
+p2: Switched to Flaaffy
+Turn 1:
+p1: Victreebel used Sludge Bomb on Flaaffy
+p2: Flaaffy used Toxic on Victreebel
+Turn 2:
+p2: Switched to Sandslash
+p1: Victreebel used Curse on Victreebel
+Turn 3:
+p2: Sandslash used Substitute on Sandslash
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 4:
+p2: Sandslash used Swords Dance on Sandslash
+p1: Victreebel used Encore on Sandslash
+Turn 5:
+p2: Switched to Forretress
+p1: Victreebel used Return on Forretress
+Turn 6:
+p2: Forretress used Hidden Power on Victreebel
+p1: Victreebel used Return on Forretress
+Turn 7:
+p2: Forretress used Double-Edge on Victreebel
+p1: Victreebel used Curse on Victreebel
+Turn 8:
+p2: Switched to Sandslash
+p1: Victreebel used Curse on Victreebel
+Turn 9:
+p2: Sandslash used Substitute on Sandslash
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 10:
+p2: Sandslash used Hidden Power on Victreebel
+p1: Victreebel used Sludge Bomb on Sandslash
+Turn 11:
+p2: Switched to Forretress
+p1: Victreebel used Encore on Forretress
+Turn 12:
+p2: Forretress used Double-Edge on Victreebel
+p1: Victreebel used Return on Forretress
+Turn 13:
+p2: Switched to Kingdra
+p1: Victreebel used Curse on Victreebel
+Turn 14:
+p2: Kingdra used Surf on Victreebel
+p1: Victreebel used Sludge Bomb on Kingdra
+p2: Kingdra fainted
+p2: Switched to Sandslash
+Turn 15:
+p2: Sandslash used Earthquake on Victreebel
+p1: Victreebel used Return on Sandslash
+p2: Sandslash fainted
+p2: Switched to Forretress
+Turn 16:
+p2: Forretress used Self-Destruct on Victreebel
+p2: Forretress fainted
+p2: Switched to Golduck
+Turn 17:
+p1: Switched to Haunter
+p2: Golduck used Substitute on Golduck
+Turn 18:
+p1: Haunter used Curse on Golduck
+p2: Golduck used Confusion on Haunter
+Turn 19:
+p1: Haunter used Perish Song on Haunter
+p2: Golduck used Confusion on Haunter
+p1: Haunter fainted
+p1: Switched to Crobat
+Turn 20:
+p2: Switched to Farfetch’d
+p1: Crobat used Double-Edge on Farfetch’d
+Turn 21:
+p1: Crobat used Double-Edge on Farfetch’d
+p2: Farfetch’d fainted
+p2: Switched to Golduck
+Turn 22:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Substitute on Golduck
+Turn 23:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Confusion on Crobat
+Turn 24:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck used Double-Edge on Crobat
+Turn 25:
+p1: Crobat used Confuse Ray on Golduck
+p2: Golduck used Surf on Crobat
+Turn 26:
+p1: Crobat used Double-Edge on Golduck
+p2: Golduck fainted
+p2: Switched to Flaaffy
+Turn 27:
+p1: Crobat used Double-Edge on Flaaffy
+p2: Flaaffy fainted
+
+p1: Switched to Zapdos
+p2: Switched to Marowak
+Turn 1:
+p1: Switched to Exeggutor
+p2: Switched to Blissey
+Turn 2:
+p1: Switched to Forretress
+p2: Blissey used Seismic Toss on Forretress
+Turn 3:
+p2: Switched to Scizor
+p1: Forretress used Spikes on Scizor
+Turn 4:
+p1: Switched to Zapdos
+p2: Scizor used Agility on Scizor
+Turn 5:
+p2: Scizor used Baton Pass on Scizor
+p2: Switched to Marowak
+p1: Zapdos used Thunder on Marowak
+Turn 6:
+p2: Marowak used Rock Slide on Zapdos
+p1: Zapdos fainted
+p1: Switched to Forretress
+Turn 7:
+p2: Marowak used Fire Blast on Forretress
+p1: Forretress fainted
+p1: Switched to Exeggutor
+Turn 8:
+p2: Marowak used Hidden Power on Exeggutor
+p1: Exeggutor used Sleep Powder on Marowak
+Turn 9:
+p2: Switched to Scizor
+p1: Exeggutor used Giga Drain on Scizor
+Turn 10:
+p1: Switched to Golem
+p2: Scizor used Thief on Golem
+Turn 11:
+p2: Scizor used Baton Pass on Scizor
+p2: Switched to Cloyster
+p1: Golem used Fire Blast on Cloyster
+Turn 12:
+p2: Cloyster used Rapid Spin on Golem
+p1: Golem used Rock Slide on Cloyster
+Turn 13:
+p1: Switched to Tentacruel
+p2: Cloyster used Spikes on Tentacruel
+Turn 14:
+p1: Tentacruel used Swords Dance on Tentacruel
+p2: Cloyster used Hidden Power on Tentacruel
+Turn 15:
+p1: Tentacruel used Sludge Bomb on Cloyster
+p2: Cloyster fainted
+p2: Switched to Snorlax
+Turn 16:
+p1: Tentacruel used Sludge Bomb on Snorlax
+p2: Snorlax used Curse on Snorlax
+Turn 17:
+p1: Tentacruel used Sludge Bomb on Snorlax
+p2: Snorlax used Earthquake on Tentacruel
+p1: Tentacruel fainted
+p1: Switched to Exeggutor
+Turn 18:
+p1: Exeggutor used Giga Drain on Snorlax
+p2: Snorlax used Shadow Ball on Exeggutor
+Turn 19:
+p1: Exeggutor used Giga Drain on Snorlax
+p2: Snorlax fainted
+p2: Switched to Skarmory
+Turn 20:
+p2: Skarmory used Drill Peck on Exeggutor
+p1: Exeggutor fainted
+p1: Switched to Golem
+Turn 21:
+p2: Skarmory used Toxic on Golem
+p1: Golem used Fire Blast on Skarmory
+Turn 22:
+p1: Golem used Fire Blast on Skarmory
+p2: Skarmory used Whirlwind on Golem
+Turn 23:
+

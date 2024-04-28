@@ -1,0 +1,801 @@
+Battle start:
+Player A sent out Snorlax
+Player B sent out Exeggutor
+Turn 1:
+Player B: Exeggutor used Sleep Powder
+Player A: Snorlax can't move because it is asleep
+Turn 2:
+Player B: Switched out Exeggutor for Cloyster
+Player A: Switched out Snorlax for Tyranitar
+Turn 3:
+Player B: Cloyster used Spikes on self
+Player A: Tyranitar used Rock Slide on Cloyster for 46 damage (supereffective)
+Turn 4:
+Player B: Switched out Cloyster for Steelix
+Player A: Switched out Tyranitar for Cloyster
+Turn 5:
+Player B: Switched out Steelix for Gengar
+Player A: Cloyster used Spikes on self
+Turn 6:
+Player A: Switched out Cloyster for Nidoking
+Player B: Gengar used Dynamic Punch on Nidoking but it missed
+Turn 7:
+Player B: Switched out Gengar for Zapdos
+Player A: Nidoking used Earthquake but it had no effect on Zapdos
+Turn 8:
+Player B: Zapdos used Hidden Power on Nidoking for 44 damage (supereffective)
+Player A: Nidoking used Ice Beam on Zapdos for 35 damage (supereffective)
+Turn 9:
+Player B: Zapdos used Hidden Power on Nidoking for 37 damage (supereffective)
+Player A: Nidoking used Lovely Kiss
+Turn 10:
+Player B: Switched out Zapdos for Snorlax
+Player A: Switched out Nidoking for Gengar
+Turn 11:
+Player A: Gengar used Dynamic Punch on Snorlax and crit for 69 damage (supereffective)
+Player B: Snorlax used Earthquake on Gengar for 87 damage (supereffective)
+Turn 12:
+Player B: Switched out Snorlax for Exeggutor
+Player A: Gengar used Thunder on Exeggutor for 30 damage
+Turn 13:
+Player A: Switched out Gengar for Snorlax
+Player B: Exeggutor can't move because it is paralyzed
+Turn 14:
+Player A: Switched out Snorlax for Tyranitar
+Player B: Exeggutor can't move because it is paralyzed
+Turn 15:
+Player A: Tyranitar used Crunch on Exeggutor for 44 damage (supereffective)
+Player B: Exeggutor used Giga Drain on Tyranitar and crit for 91 damage (supereffective)
+Player B: Exeggutor used Giga Drain and healed for 44
+Turn 16:
+Player B: Switched out Exeggutor for Steelix
+Player A: Tyranitar used Crunch on Steelix for 27 damage
+Turn 17:
+Player A: Switched out Tyranitar for Zapdos
+Player B: Steelix used Earthquake but it had no effect on Zapdos
+Turn 18:
+Player A: Zapdos used Hidden Power on Steelix for 39 damage (supereffective)
+Player B: Steelix used Curse on self
+Turn 19:
+Player B: Steelix used Earthquake but it had no effect on Zapdos
+Player A: Zapdos used Whirlwind on self
+Turn 20:
+Player B: Steelix used Ice Punch on Zapdos for 38 damage (supereffective)
+Player A: Zapdos used Thunder on Steelix for 68 damage
+Turn 21:
+Player B: Switched out Steelix for Exeggutor
+Player A: Zapdos used Thunderbolt on Exeggutor for 32 damage
+Turn 22:
+Player A: Switched out Zapdos for Cloyster
+Player B: Exeggutor used Explosion on Cloyster for 98 damage
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Cloyster
+Turn 23:
+Player B: Cloyster used Surf on Cloyster for 2 damage
+Player A: Cloyster fainted
+Player A: Switched out Cloyster for Zapdos
+Turn 24:
+Player A: Zapdos used Thunderbolt on Cloyster for 54 damage (supereffective)
+Player B: Cloyster fainted
+Player B: Switched out Cloyster for Steelix
+Turn 25:
+Player A: Zapdos used Hidden Power on Steelix for 34 damage (supereffective)
+Player B: Steelix fainted
+Player B: Switched out Steelix for Snorlax
+Turn 26:
+Player A: Zapdos used Thunder on Snorlax for 31 damage
+Player B: Snorlax fainted
+
+Battle start:
+Player A sent out Alakazam
+Player B sent out Aerodactyl
+Turn 1:
+Player B: Aerodactyl used Ancient Power on Alakazam and crit for 73 damage
+Player A: Alakazam used Psychic on Aerodactyl for 48 damage
+Turn 2:
+Player A: Switched out Alakazam for Azumarill
+Player B: Aerodactyl used Ancient Power on Azumarill for 24 damage
+Turn 3:
+Player B: Switched out Aerodactyl for Hypno
+Player A: Azumarill used Whirlpool on Hypno for 2 damage
+Turn 4:
+Player B: Hypno used Thunder Punch on Azumarill for 15 damage (supereffective)
+Player A: Azumarill used Perish Song on self
+Turn 5:
+Player B: Hypno used Thunder Punch on Azumarill for 24 damage (supereffective)
+Player A: Azumarill used Rest and healed for 63
+Turn 6:
+Player B: Hypno used Thunder Punch on Azumarill for 27 damage (supereffective)
+Player A: Azumarill can't move because it is asleep
+Turn 7:
+Player A: Switched out Azumarill for Raichu
+Player B: Hypno used Psychic on Raichu for 30 damage
+Player B: Hypno fainted
+Player B: Switched out Hypno for Aerodactyl
+Turn 8:
+Player A: Switched out Raichu for Azumarill
+Player B: Aerodactyl used Earthquake on Azumarill for 18 damage
+Turn 9:
+Player B: Switched out Aerodactyl for Lanturn
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Rest and healed for 45
+Turn 10:
+Player A: Switched out Azumarill for Victreebel
+Player B: Lanturn used Thunderbolt on Victreebel for 20 damage
+Turn 11:
+Player B: Switched out Lanturn for Jumpluff
+Turn 12:
+Player B: Jumpluff used Hidden Power
+Player A: Victreebel used Sludge Bomb on Jumpluff for 97 damage (supereffective)
+Turn 13:
+Player A: Switched out Victreebel for Raichu
+Player B: Jumpluff used Hidden Power on Raichu and crit for 27 damage
+Turn 14:
+Player B: Jumpluff used Giga Drain on Raichu for 19 damage
+Player B: Jumpluff used Giga Drain and healed for 8
+Player A: Raichu used Thunderbolt on Jumpluff for 11 damage
+Player B: Jumpluff fainted
+Player B: Switched out Jumpluff for Aerodactyl
+Turn 15:
+Player A: Switched out Raichu for Azumarill
+Player B: Aerodactyl used Earthquake on Azumarill for 21 damage
+Turn 16:
+Player B: Switched out Aerodactyl for Lanturn
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Whirlpool on Lanturn for 1 damage
+Turn 17:
+Player A: Switched out Azumarill for Victreebel
+Player B: Lanturn used Thunderbolt on Victreebel for 20 damage
+Turn 18:
+Player A: Victreebel used Giga Drain on Lanturn for 46 damage (supereffective)
+Player A: Victreebel used Giga Drain and healed for 25
+Player B: Lanturn used Ice Beam on Victreebel for 44 damage (supereffective)
+Turn 19:
+Player A: Victreebel used Sleep Powder
+Player B: Lanturn can't move because it is asleep
+Turn 20:
+Player B: Switched out Lanturn for Aerodactyl
+Player A: Victreebel used Giga Drain on Aerodactyl for 26 damage
+Player A: Victreebel used Giga Drain and healed for 13
+Turn 21:
+Player A: Switched out Victreebel for Azumarill
+Player B: Aerodactyl used Hidden Power on Azumarill for 12 damage
+Turn 22:
+Player B: Aerodactyl used Ancient Power on Azumarill for 17 damage
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Whirlpool on Aerodactyl and crit for 17 damage (supereffective)
+Turn 23:
+Player A: Azumarill used Rest and healed for 50
+Player B: Aerodactyl used Roar on self
+Turn 24:
+Player A: Switched out Azumarill for Azumarill
+Player B: Aerodactyl used Hidden Power on Azumarill for 25 damage
+Turn 25:
+Player B: Aerodactyl used Ancient Power on Azumarill for 15 damage
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Whirlpool on Aerodactyl for 9 damage (supereffective)
+Player B: Aerodactyl fainted
+Player B: Switched out Aerodactyl for Lanturn
+Turn 26:
+Player A: Switched out Azumarill for Hitmonlee
+Player B: Lanturn used Thunderbolt on Hitmonlee for 30 damage
+Turn 27:
+Player A: Hitmonlee used High Jump Kick on Lanturn for 37 damage
+Player B: Lanturn used Surf on Hitmonlee for 29 damage
+Turn 28:
+Player A: Hitmonlee used High Jump Kick on Lanturn for 16 damage
+Player B: Lanturn fainted
+Player B: Switched out Lanturn for Arcanine
+Turn 29:
+Player A: Switched out Hitmonlee for Azumarill
+Player B: Arcanine used Flamethrower on Azumarill for 12 damage
+Turn 30:
+Player B: Arcanine used Hidden Power on Azumarill for 25 damage (supereffective)
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Rest and healed for 77
+Turn 31:
+Player B: Arcanine used Hidden Power on Azumarill for 30 damage (supereffective)
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Perish Song on self
+Turn 32:
+Player B: Arcanine used Hidden Power on Azumarill and crit for 54 damage (supereffective)
+Player A: Azumarill can't move because it is asleep
+Player A: Azumarill used Sleep Talk on self
+Turn 33:
+Player B: Arcanine used Hidden Power on Azumarill for 16 damage (supereffective)
+Player A: Azumarill fainted
+Player A: Switched out Azumarill for Dodrio
+Turn 34:
+Player B: Switched out Arcanine for Blissey
+Player A: Dodrio used Double-Edge on Blissey for 57 damage
+Turn 35:
+Player A: Dodrio used Double-Edge on Blissey for 43 damage
+Player B: Blissey fainted
+Player B: Switched out Blissey for Arcanine
+Turn 36:
+Player A: Dodrio used Double-Edge on Arcanine for 48 damage
+Player B: Arcanine used Flamethrower on Dodrio for 29 damage
+Player A: Dodrio fainted
+Player A: Switched out Dodrio for Alakazam
+Turn 37:
+Player A: Alakazam used Psychic on Arcanine for 49 damage
+Player B: Arcanine used Flamethrower on Alakazam for 27 damage
+Player A: Alakazam fainted
+Player A: Switched out Alakazam for Raichu
+Turn 38:
+Player A: Raichu used Thunderbolt on Arcanine for 3 damage
+Player B: Arcanine fainted
+
+Battle start:
+Player A sent out Cloyster
+Player B sent out Skarmory
+Turn 1:
+Player B: Skarmory used Toxic
+Player A: Cloyster used Ice Beam on Skarmory for 39 damage
+Turn 2:
+Player B: Switched out Skarmory for Suicune
+Turn 3:
+Player A: Switched out Cloyster for Snorlax
+Player B: Suicune used Surf on Snorlax for 20 damage
+Turn 4:
+Player B: Switched out Suicune for Skarmory
+Player A: Snorlax used Body Slam on Skarmory for 6 damage
+Turn 5:
+Player A: Switched out Snorlax for Houndoom
+Player B: Skarmory used Toxic
+Turn 6:
+Player A: Houndoom used Pursuit on Skarmory and crit for 24 damage
+Player B: Switched out Skarmory for Blissey
+Turn 7:
+Player A: Switched out Houndoom for Snorlax
+Player B: Blissey used Thunder Wave
+Turn 8:
+Player B: Blissey used Double-Edge on Snorlax for -4 damage
+Turn 9:
+Player B: Blissey used Double-Edge on Snorlax for 9 damage
+Player A: Snorlax used Body Slam on Blissey for 98 damage
+Player B: Blissey fainted
+Player B: Switched out Blissey for Nidoking
+Turn 10:
+Player A: Snorlax can't move because it is paralyzed
+Player B: Nidoking used Roar on self
+Turn 11:
+Player B: Switched out Nidoking for Machamp
+Player A: Snorlax used Ice Beam on Machamp for 39 damage
+Turn 12:
+Player A: Snorlax used Rest and healed for 12
+Player B: Machamp used Rock Slide on Snorlax for 30 damage (supereffective)
+Turn 13:
+Player A: Switched out Snorlax for Scizor
+Player B: Machamp used Rock Slide on Scizor for 21 damage
+Turn 14:
+Player A: Scizor used Swords Dance on self
+Player B: Machamp used Cross Chop on Scizor and crit for 78 damage
+Turn 15:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Snorlax
+Player B: Machamp used Cross Chop on Snorlax and crit for 25 damage (supereffective)
+Player A: Scizor fainted
+Player A: Switched out Scizor for Pikachu
+Turn 16:
+Player B: Switched out Machamp for Raikou
+Player A: Pikachu used Thunder on Raikou for 38 damage
+Turn 17:
+Player B: Raikou used Thunderbolt on Pikachu for 44 damage
+Player A: Pikachu used Surf on Raikou for 20 damage
+Turn 18:
+Player B: Raikou used Rest and healed for 58
+Player A: Pikachu used Surf on Raikou for 28 damage
+Turn 19:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Hidden Power on Pikachu for 39 damage
+Player A: Pikachu used Surf on Raikou for 19 damage
+Turn 20:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Rest and healed for 47
+Player A: Pikachu used Surf on Raikou and crit for 52 damage
+Turn 21:
+Player B: Raikou can't move because it is asleep
+Player A: Pikachu used Surf on Raikou for 19 damage
+Turn 22:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Thunderbolt on Pikachu for 17 damage
+Player A: Pikachu fainted
+Player A: Switched out Pikachu for Scizor
+Turn 23:
+Player B: Raikou used Sleep Talk on self
+Player A: Scizor used Agility on self
+Turn 24:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Marowak
+Player B: Raikou used Thunderbolt but it had no effect on Marowak
+Turn 25:
+Player B: Switched out Raikou for Suicune
+Player A: Marowak used Earthquake on Suicune for 56 damage
+Turn 26:
+Player A: Marowak used Earthquake on Suicune for 40 damage
+Player B: Suicune used Surf on Marowak for 70 damage (supereffective)
+Turn 27:
+Player B: Switched out Suicune for Skarmory
+Player A: Marowak used Earthquake but it had no effect on Skarmory
+Turn 28:
+Player A: Marowak used Rock Slide on Skarmory for 18 damage
+Player B: Skarmory used Whirlwind on self
+Turn 29:
+Player B: Switched out Skarmory for Nidoking
+Player A: Marowak used Fire Blast on Nidoking for 60 damage
+Turn 30:
+Player A: Marowak used Fire Blast on Nidoking for 40 damage
+Player B: Nidoking fainted
+Player B: Switched out Nidoking for Machamp
+Turn 31:
+Player A: Marowak used Fire Blast on Machamp for 21 damage
+Player B: Machamp used Rock Slide on Marowak for 65 damage (supereffective)
+Turn 32:
+Player A: Marowak used Fire Blast on Machamp for 36 damage
+Player B: Machamp used Cross Chop on Marowak for 16 damage (supereffective)
+Player A: Marowak fainted
+Player A: Switched out Marowak for Scizor
+Turn 33:
+Player A: Scizor used Hidden Power on Machamp for 4 damage
+Player B: Machamp fainted
+Player B: Switched out Machamp for Suicune
+Player B: Machamp fainted
+Player B: Switched out Machamp for Raikou
+Turn 34:
+Player B: Raikou used Hidden Power on Scizor for -11 damage
+Player A: Scizor used Hidden Power on Raikou for 13 damage
+Turn 35:
+Player B: Raikou used Rest and healed for 84
+Player A: Scizor used Hidden Power on Raikou for 32 damage
+Turn 36:
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Hidden Power on Scizor for 7 damage
+Player A: Scizor used Agility on self
+Turn 37:
+Player A: Scizor used Baton Pass on self
+Player A: Switched out Scizor for Marowak
+Player B: Raikou can't move because it is asleep
+Player B: Raikou used Sleep Talk on self
+Player B: Raikou used Rest and healed for 32
+Turn 38:
+Player B: Switched out Raikou for Skarmory
+Turn 39:
+Player A: Marowak used Rock Slide on Skarmory for 12 damage
+Player B: Skarmory can't move because flinch
+Turn 40:
+Player A: Marowak used Rock Slide on Skarmory for 1 damage
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Raikou
+Turn 41:
+Player A: Marowak used Earthquake on Raikou for 100 damage (supereffective)
+Player B: Raikou fainted
+
+Battle start:
+Player A sent out Raikou
+Player B sent out Snorlax
+Turn 1:
+Player A: Switched out Raikou for Machamp
+Player B: Snorlax used Body Slam on Machamp for 30 damage
+Turn 2:
+Player B: Switched out Snorlax for Misdreavus
+Player A: Machamp used Rock Slide on Misdreavus for 31 damage
+Turn 3:
+Player A: Switched out Machamp for Zapdos
+Player B: Misdreavus used Toxic on Zapdos but it missed
+Turn 4:
+Player B: Misdreavus used Protect on self
+Player A: Zapdos used Thunder on self
+Turn 5:
+Player A: Zapdos used Hidden Power on Misdreavus for 5 damage
+Player B: Misdreavus used Toxic
+Turn 6:
+Player A: Zapdos used Thunder on Misdreavus but it missed
+Player B: Misdreavus used Psychic on Zapdos for 18 damage
+Turn 7:
+Player B: Misdreavus used Protect on self
+Player A: Zapdos used Rest and healed for 24
+Turn 8:
+Player B: Switched out Misdreavus for Cloyster
+Player A: Zapdos can't move because it is asleep
+Player A: Zapdos used Sleep Talk on self
+Player A: Zapdos used Thunder on Cloyster for 100 damage (supereffective)
+Player B: Misdreavus fainted
+Player B: Switched out Misdreavus for Blissey
+Turn 9:
+Player A: Switched out Zapdos for Machamp
+Player B: Blissey used Flamethrower on Machamp and crit for 22 damage
+Turn 10:
+Player B: Switched out Blissey for Skarmory
+Player A: Machamp used Rock Slide on Skarmory for 17 damage
+Turn 11:
+Player A: Switched out Machamp for Cloyster
+Player B: Skarmory used Drill Peck on Cloyster for 17 damage
+Turn 12:
+Player B: Switched out Skarmory for Zapdos
+Player A: Cloyster used Spikes on self
+Turn 13:
+Player A: Switched out Cloyster for Raikou
+Player B: Zapdos used Thunder on Raikou for 21 damage
+Turn 14:
+Player B: Switched out Zapdos for Blissey
+Player A: Raikou used Rest and healed for 21
+Turn 15:
+Player A: Switched out Raikou for Misdreavus
+Player B: Blissey used Flamethrower on Misdreavus for 21 damage
+Turn 16:
+Player B: Switched out Blissey for Skarmory
+Player A: Misdreavus used Thief on Skarmory for -7 damage
+Turn 17:
+Player A: Misdreavus used Thunder on Skarmory and crit for 90 damage (supereffective)
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Blissey
+Turn 18:
+
+Battle start:
+Player A sent out Electrode
+Player B sent out Vaporeon
+Turn 1:
+Player A: Electrode used Thunder Wave
+Player B: Vaporeon used Surf on Electrode for 44 damage
+Turn 2:
+Player A: Electrode used Thunderbolt on Vaporeon for 42 damage (supereffective)
+Player B: Vaporeon can't move because it is paralyzed
+Turn 3:
+Player B: Switched out Vaporeon for Marowak
+Player A: Electrode used Thunderbolt but it had no effect on Marowak
+Turn 4:
+Player A: Electrode used Hidden Power on Marowak for 34 damage (supereffective)
+Player B: Marowak used Swords Dance on self
+Turn 5:
+Player A: Electrode used Explosion on Marowak and crit for 66 damage
+Player A: Electrode fainted
+Player B: Marowak fainted
+Player A: Switched out Electrode for Vileplume
+Player B: Switched out Marowak for Charmeleon
+Turn 6:
+Player A: Switched out Vileplume for Tentacruel
+Player B: Charmeleon used Sunny Day on self
+Turn 7:
+Player B: Charmeleon used Fire Blast on self
+Turn 8:
+Player A: Tentacruel used Swords Dance on self
+Player B: Charmeleon used Toxic on self
+Turn 9:
+Player B: Switched out Charmeleon for Vaporeon
+Player A: Tentacruel used Swords Dance on self
+Turn 10:
+Player A: Tentacruel used Sludge Bomb on Vaporeon for 58 damage
+Player B: Vaporeon fainted
+Player B: Switched out Vaporeon for Poliwrath
+Turn 11:
+Player A: Tentacruel used Sludge Bomb on Poliwrath for 65 damage
+Player B: Poliwrath used Lovely Kiss on self
+Turn 12:
+Player B: Switched out Poliwrath for Venusaur
+Player A: Tentacruel used Sludge Bomb on Venusaur for 78 damage
+Turn 13:
+Player B: Switched out Venusaur for Piloswine
+Player A: Tentacruel used Sludge Bomb on Piloswine for 36 damage
+Turn 14:
+Player A: Tentacruel used Surf on Piloswine for 61 damage (supereffective)
+Player B: Piloswine used Earthquake
+Turn 15:
+Player A: Tentacruel used Surf on Piloswine for 3 damage (supereffective)
+Player B: Piloswine fainted
+Player B: Switched out Piloswine for Charmeleon
+Turn 16:
+Player A: Tentacruel used Surf on Charmeleon for 86 damage (supereffective)
+Player B: Charmeleon used Hidden Power on Tentacruel for -9 damage
+Turn 17:
+Player B: Switched out Charmeleon for Poliwrath
+Player A: Tentacruel used Surf on Poliwrath for 7 damage
+Turn 18:
+Player A: Tentacruel used Sludge Bomb on Poliwrath for 28 damage
+Player B: Poliwrath fainted
+Player B: Switched out Poliwrath for Charmeleon
+Turn 19:
+Player A: Tentacruel used Surf on Charmeleon for 14 damage (supereffective)
+Player B: Charmeleon fainted
+Player B: Switched out Charmeleon for Venusaur
+Turn 20:
+Player A: Tentacruel used Sludge Bomb on Venusaur for 22 damage
+Player B: Venusaur fainted
+
+
+Battle start:
+Player A sent out Snorlax
+Player B sent out Snorlax
+Turn 1:
+Player B: Switched out Snorlax for Golem
+Player A: Snorlax used Body Slam on Golem for 12 damage
+Turn 2:
+Player A: Snorlax used Body Slam on Golem for 7 damage
+Player B: Golem used Roar on self
+Turn 3:
+Player A: Switched out Snorlax for Zapdos
+Player B: Switched out Golem for Snorlax
+Turn 4:
+Player A: Zapdos used Thunder on Snorlax for 30 damage
+Player B: Snorlax used Double-Edge on Zapdos for 46 damage
+Turn 5:
+Player A: Switched out Zapdos for Cloyster
+Player B: Snorlax can't move because it is paralyzed
+Turn 6:
+Player B: Switched out Snorlax for Moltres
+Player A: Cloyster used Spikes on self
+Turn 7:
+Player A: Switched out Cloyster for Tyranitar
+Player B: Moltres used Fire Blast on Tyranitar for 22 damage
+Turn 8:
+Player B: Switched out Moltres for Golem
+Player A: Switched out Tyranitar for Cloyster
+Turn 9:
+Player B: Switched out Golem for Exeggutor
+Player A: Cloyster used Surf on Exeggutor for 30 damage
+Turn 10:
+Player A: Cloyster used Ice Beam on Exeggutor for 70 damage (supereffective)
+Player B: Exeggutor fainted
+Player B: Switched out Exeggutor for Moltres
+Turn 11:
+Player A: Switched out Cloyster for Snorlax
+Player B: Moltres used Fire Blast on Snorlax and crit for 62 damage
+Turn 12:
+Player B: Moltres used Fire Blast on Snorlax for 27 damage
+Player A: Snorlax used Body Slam on Moltres for 28 damage
+Turn 13:
+Player A: Switched out Snorlax for Tyranitar
+Player B: Moltres used Fire Blast on Tyranitar for 17 damage
+Turn 14:
+Player B: Switched out Moltres for Golem
+Player A: Tyranitar used Rock Slide on Golem for 24 damage
+Turn 15:
+Player A: Switched out Tyranitar for Cloyster
+Player B: Golem used Roar on self
+Turn 16:
+Player A: Switched out Cloyster for Cloyster
+Player B: Golem used Earthquake on Cloyster for 25 damage
+Turn 17:
+Player B: Switched out Golem for Snorlax
+Player A: Cloyster used Surf on Snorlax for 18 damage
+Turn 18:
+Player A: Cloyster used Surf on Snorlax for 12 damage
+Player B: Snorlax used Rest and healed for 69
+Turn 19:
+Player A: Switched out Cloyster for Tyranitar
+Player B: Snorlax can't move because it is asleep
+Turn 20:
+Player A: Switched out Tyranitar for Nidoking
+Player B: Switched out Snorlax for Golem
+Turn 21:
+Player B: Switched out Golem for Snorlax
+Player A: Nidoking used Ice Beam on Snorlax for 23 damage
+Turn 22:
+Player A: Nidoking used Earthquake on Snorlax for 20 damage
+Player B: Snorlax can't move because it is asleep
+Turn 23:
+Player A: Nidoking used Earthquake on Snorlax for 20 damage
+Player B: Snorlax used Earthquake on Nidoking for 51 damage (supereffective)
+Turn 24:
+Player A: Nidoking used Lovely Kiss
+Player B: Snorlax can't move because it is asleep
+Turn 25:
+Player B: Switched out Snorlax for Zapdos
+Player A: Nidoking used Earthquake but it had no effect on Zapdos
+Turn 26:
+Player A: Switched out Nidoking for Cloyster
+Player B: Zapdos used Hidden Power on Cloyster for -10 damage
+Turn 27:
+Player A: Switched out Cloyster for Nidoking
+Player B: Zapdos used Thunder but it had no effect on Nidoking
+Turn 28:
+Player A: Switched out Nidoking for Gengar
+Player B: Zapdos used Hidden Power on Gengar for 27 damage
+Turn 29:
+Player B: Switched out Zapdos for Golem
+Player A: Gengar used Ice Punch on Golem for 49 damage (supereffective)
+Turn 30:
+Player A: Gengar used Ice Punch on Golem for 8 damage (supereffective)
+Player B: Golem fainted
+Player B: Switched out Golem for Snorlax
+Turn 31:
+Player A: Gengar used Dynamic Punch on Snorlax but it missed
+Player B: Snorlax can't move because it is asleep
+Turn 32:
+Player A: Gengar used Dynamic Punch on Snorlax for 20 damage (supereffective)
+Player B: Snorlax can't move because it is asleep
+Turn 33:
+Player A: Gengar used Thunder on Snorlax but it missed
+Player B: Snorlax can't move because it is asleep
+Turn 34:
+Player A: Gengar used Thunder on Snorlax for 9 damage
+Player B: Snorlax can't move because it is asleep
+Turn 35:
+Player A: Gengar used Thunder on Snorlax but it missed
+Player B: Snorlax can't move because it is asleep
+Turn 36:
+Player A: Gengar used Thunder on Snorlax for 8 damage
+Player B: Snorlax fainted
+
+
+Battle start:
+Player A sent out Victreebel
+Player B sent out Flaaffy
+Turn 1:
+Player A: Victreebel used Sludge Bomb on Flaaffy and crit for 96 damage
+Player B: Flaaffy used Toxic but it had no effect on Victreebel
+Turn 2:
+Player B: Switched out Flaaffy for Sandslash
+Player A: Victreebel used Curse on self
+Turn 3:
+Player A: Victreebel used Sludge Bomb on self
+Turn 4:
+Player B: Sandslash used Swords Dance on self
+Player A: Victreebel used Encore on self
+Turn 5:
+Player B: Switched out Sandslash for Forretress
+Player A: Victreebel used Return on Forretress for 13 damage
+Turn 6:
+Player B: Forretress used Hidden Power on Victreebel for 12 damage
+Player A: Victreebel used Return on Forretress for 8 damage
+Turn 7:
+Player B: Forretress used Double-Edge on Victreebel for 16 damage
+Player A: Victreebel used Curse on self
+Turn 8:
+Player B: Switched out Forretress for Sandslash
+Player A: Victreebel used Curse on self
+Turn 9:
+Player A: Victreebel used Sludge Bomb on self
+Turn 10:
+Player B: Sandslash used Hidden Power on Victreebel for 6 damage (supereffective)
+Player A: Victreebel used Sludge Bomb on Sandslash for 33 damage
+Turn 11:
+Player B: Switched out Sandslash for Forretress
+Player A: Victreebel used Encore but it failed
+Turn 12:
+Player B: Forretress used Double-Edge on Victreebel for 1 damage
+Player A: Victreebel used Return on Forretress for 24 damage
+Turn 13:
+Player B: Switched out Forretress for Kingdra
+Player A: Victreebel used Curse on self
+Turn 14:
+Player B: Kingdra used Surf on Victreebel for 8 damage
+Player A: Victreebel used Sludge Bomb on Kingdra and crit for 100 damage
+Player B: Kingdra fainted
+Player B: Switched out Kingdra for Sandslash
+Turn 15:
+Player B: Sandslash used Earthquake on Victreebel for 9 damage
+Player A: Victreebel used Return on Sandslash for 36 damage
+Player B: Sandslash fainted
+Player B: Switched out Sandslash for Forretress
+Turn 16:
+Player B: Forretress used Self-Destruct on Victreebel for 30 damage
+Player B: Forretress fainted
+Player B: Switched out Forretress for Golduck
+Turn 17:
+Player A: Switched out Victreebel for Haunter
+Turn 18:
+Player A: Haunter used Curse but it failed
+Player B: Golduck used Confusion on Haunter for 38 damage (supereffective)
+Turn 19:
+Player A: Haunter used Perish Song on self
+Player B: Golduck used Confusion on Haunter and crit for 62 damage (supereffective)
+Player A: Haunter fainted
+Player A: Switched out Haunter for Crobat
+Turn 20:
+Player B: Switched out Golduck for Farfetch’d
+Player A: Crobat used Double-Edge on Farfetch’d and crit for 86 damage
+Turn 21:
+Player A: Crobat used Double-Edge on Farfetch’d for 14 damage
+Player B: Farfetch’d fainted
+Player B: Switched out Farfetch’d for Golduck
+Turn 22:
+Player A: Crobat used Double-Edge on Golduck for 3 damage
+Turn 23:
+Player B: Golduck used Confusion on Crobat for 24 damage (supereffective)
+Turn 24:
+Player A: Crobat used Double-Edge on Golduck for 18 damage
+Player B: Golduck used Double-Edge on Crobat for 26 damage
+Turn 25:
+Player A: Crobat used Confuse Ray on self
+Player B: Golduck used Surf on Crobat for 30 damage
+Turn 26:
+Player A: Crobat used Double-Edge on Golduck for 5 damage
+Player B: Golduck fainted
+Player B: Switched out Golduck for Flaaffy
+Turn 27:
+Player A: Crobat used Double-Edge on Flaaffy for 4 damage
+Player B: Flaaffy fainted
+
+Battle start:
+Player A sent out Zapdos
+Player B sent out Marowak
+Turn 1:
+Player A: Switched out Zapdos for Exeggutor
+Player B: Switched out Marowak for Blissey
+Turn 2:
+Player A: Switched out Exeggutor for Forretress
+Player B: Blissey used Seismic Toss on Forretress for 28 damage
+Turn 3:
+Player B: Switched out Blissey for Scizor
+Player A: Forretress used Spikes on self
+Turn 4:
+Player A: Switched out Forretress for Zapdos
+Player B: Scizor used Agility on self
+Turn 5:
+Player B: Scizor used Baton Pass on self
+Player B: Switched out Scizor for Marowak
+Player A: Zapdos used Thunder but it had no effect on Marowak
+Turn 6:
+Player B: Marowak used Rock Slide on Zapdos and crit for 100 damage (supereffective)
+Player A: Zapdos fainted
+Player A: Switched out Zapdos for Forretress
+Turn 7:
+Player B: Marowak used Fire Blast on Forretress for 72 damage (supereffective)
+Player A: Forretress fainted
+Player A: Switched out Forretress for Exeggutor
+Turn 8:
+Player B: Marowak used Hidden Power on Exeggutor for 55 damage (supereffective)
+Player A: Exeggutor used Sleep Powder
+Turn 9:
+Player B: Switched out Marowak for Scizor
+Player A: Exeggutor used Giga Drain on Scizor and crit for 26 damage
+Player A: Exeggutor used Giga Drain and healed for 13
+Turn 10:
+Player A: Switched out Exeggutor for Golem
+Player B: Scizor used Thief on Golem and crit for 14 damage
+Turn 11:
+Player B: Scizor used Baton Pass on self
+Player B: Switched out Scizor for Cloyster
+Player A: Golem used Fire Blast on Cloyster for 50 damage
+Turn 12:
+Player B: Cloyster used Rapid Spin on Golem for 2 damage
+Player A: Golem used Rock Slide on Cloyster for 38 damage (supereffective)
+Turn 13:
+Player A: Switched out Golem for Tentacruel
+Player B: Cloyster used Spikes on self
+Turn 14:
+Player A: Tentacruel used Swords Dance on self
+Player B: Cloyster used Hidden Power on Tentacruel for 25 damage (supereffective)
+Turn 15:
+Player A: Tentacruel used Sludge Bomb on Cloyster for 12 damage
+Player B: Cloyster fainted
+Player B: Switched out Cloyster for Snorlax
+Turn 16:
+Player A: Tentacruel used Sludge Bomb on Snorlax for 39 damage
+Turn 17:
+Player A: Tentacruel used Sludge Bomb on Snorlax for 24 damage
+Player B: Snorlax used Earthquake on Tentacruel for 75 damage (supereffective)
+Player A: Tentacruel fainted
+Player A: Switched out Tentacruel for Exeggutor
+Turn 18:
+Player A: Exeggutor used Giga Drain on Snorlax for 10 damage
+Player A: Exeggutor used Giga Drain and healed for 11
+Player B: Snorlax used Shadow Ball on Exeggutor for 63 damage (supereffective)
+Turn 19:
+Player A: Exeggutor used Giga Drain on Snorlax for 3 damage
+Player A: Exeggutor used Giga Drain and healed for 12
+Player B: Snorlax fainted
+Player B: Switched out Snorlax for Skarmory
+Turn 20:
+Player B: Skarmory used Drill Peck on Exeggutor for 18 damage (supereffective)
+Player A: Exeggutor fainted
+Player A: Switched out Exeggutor for Golem
+Turn 21:
+Player B: Skarmory used Toxic
+Player A: Golem used Fire Blast on Skarmory but it missed
+Turn 22:
+Player A: Golem used Fire Blast on Skarmory but it missed
+Player B: Skarmory used Whirlwind on self
+Turn 23:
+
