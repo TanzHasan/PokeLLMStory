@@ -16,14 +16,17 @@ def unpack(data):
     
     entries = ["pokemon", "abilities", "moves", "items"]
     ans = []
+    # print(data)
     
     for entry in entries:
         collection = db[entry]  # Access the appropriate collection
         for item in data[entry]:
             result = collection.find_one({"name": item})
+            if not result: 
+                continue
             rstring = f"{item}: "
             if 'descriptions' in result:
-                rstring = rstring + str(result["descriptions"])
+                rstring = rstring + str(result["descriptions"][0])
             if 'description' in result:
                 rstring = rstring + result["description"]
             if 'biology' in result:
@@ -60,9 +63,10 @@ def test_chat_generator(messages, data):
     import os
     import openai
     entries = unpack.local(data)
+    # print(entries)
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-    # prompt = f"{query}:\n\n"
-    # prompt += f"Context: {entries}"
+    if entries != "":
+        messages[-1]['content'] += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
         messages=messages,
         model="gpt-3.5-turbo",
@@ -71,7 +75,7 @@ def test_chat_generator(messages, data):
     print(response.choices[0].message.content)
     expl = response.choices[0].message.content
 
-    return {"result": expl}
+    return {"result": expl, "prev_message": messages[-1]['content']}
 
 @stub.function()
 def check_hallucination(prompt, hallucination_ask, data):
@@ -80,6 +84,8 @@ def check_hallucination(prompt, hallucination_ask, data):
     import openai
     entries = '\n'.join(unpack.local(data))
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    if entries != "":
+        prompt += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
         messages=[{
                 "role": "system",

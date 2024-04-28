@@ -2,11 +2,13 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
+from replays.parse_log import parse_log_file, action_to_string
+from replays.data_model import Battle, Turn, Action, ActionResult, Pokemon
 
 load_dotenv()
 URL = os.environ["MODAL_URL"]
 URL_GET_BATTLE = URL + "/get_battle"
-URL_CHECK_HALUCINATION = URL + "/check_hallucination_test"
+URL_CHECK_HALLUCINATION = URL + "/check_hallucination_test"
 URL_BATTLE_CHAT_GENERATOR_TEST = URL + "/battle_chat_generator_test"
 
 class BattleHistory: 
@@ -26,21 +28,16 @@ class BattleHistory:
 
         
 
-    def check_hallucination(self, next_part): 
+    def check_hallucination(self, next_part, action_prompt, info): 
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
-        prompt = f"You are Gary in a pokemon battle against Ash, Your response to Ash's actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
-        hallucination_ask = '''Yes or No to the following question: Does your response make sense to Ash's actions?
+        prompt = f"You are Gary in a pokemon battle against Ash, Your response to Ash's actions is:\n\n{next_part}\n\n You are responding to these actions: \n\n {action_prompt} \n\nWhat you have said so far is:\n\n{story}\n\n"
+        hallucination_ask = '''Yes or No to the following question: Does your response make sense to Ash's actions? Make sure what Gary's actions.
  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
         payload = { 
             "prompt": prompt,
             "hallucination_ask": hallucination_ask,
-            "data": { 
-                "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
-                "abilities": ["Quark Drive", "Intimidate"],
-                "items": ["Booster Energy"],
-                "moves": ["Dark Pulse"]
-            }
+            "data": info
         }
         headers = {
             "Content-Type": "application/json"
@@ -69,19 +66,14 @@ class BattleHistory:
 
     prompt: the string text of the current round of the battle 
     """
-    def generate_next_move(self, prompt):
+    def generate_next_move(self, prompt, info):
 
         self.ai_chat_history.append({"role": "user", "content": prompt})
         self.battle_logs.append(prompt)
 
         payload = {
             "messages" : self.ai_chat_history,
-            "data": { 
-                "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
-                "abilities": ["Quark Drive", "Intimidate"],
-                "items": ["Booster Energy"],
-                "moves": ["Dark Pulse"]
-            }
+            "data": info
         }  
         headers = {
             "Content-Type": "application/json"
@@ -89,10 +81,12 @@ class BattleHistory:
         response = requests.post(self.story_version_url, data=json.dumps(payload), headers=headers)
 
         expl = response.json()["result"]
+        prev_message = response.json()["prev_message"]
+        self.ai_chat_history[-1]['content'] = prev_message
         
         checks = []
         for _ in range(self.chain_count):
-            checks.append(self.check_hallucination(expl))
+            checks.append(self.check_hallucination(expl, prompt, info))
         self.generated_story_history.append(expl)
         self.ai_chat_history.append({"role": "assistant", "content": expl})
 
@@ -106,15 +100,15 @@ class BattleHistory:
             self.battle_logs.pop()
             self.generated_story_history.pop()
 
-    def generate_next_move_with_checks(self, prompt):
-        expl, checks = self.generate_next_move(prompt)
+    def generate_next_move_with_checks(self, prompt, info):
+        expl, checks = self.generate_next_move(prompt, info)
         print(checks)
         hallucinations = checks.count(False)
         for _ in range(self.rewind_limit):
             if hallucinations/self.chain_count >= 0.5: 
                 print(expl)
                 self.rewind(1)
-                expl, checks = self.generate_next_move(expl)
+                expl, checks = self.generate_next_move(prompt, info)
                 print(checks)
                 hallucinations = checks.count(False)
             else: 
@@ -122,8 +116,44 @@ class BattleHistory:
         # print(expl)
         return expl
 
-            
-def commentator_generator_test(): 
+def get_turn_info(turn: Turn):
+    info = {"pokemon": [], "moves": [], "items": [], "abilities": []}
+    for action in turn.actions:
+        if action.type == "switch":
+            info["pokemon"].append(action.name)
+        if action.type == "move":
+            info["moves"].append(action.name)
+
+    return info
+def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a": "Gary"}):
+    battle_logs = parse_log_file(file)
+    battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
+    for i, turn in enumerate(battle_logs.turns):
+        turn_info = get_turn_info(turn)
+        turn_text = ""
+        for action in turn.actions:
+            turn_text += action_to_string(turn, action, p_name_mapping)+'\n'
+        print(turn_text)
+        print(str(turn_info)+"\n")
+        # print(json.dumps(turn_info))
+        expl = battle.generate_next_move_with_checks(turn_text, turn_info)
+        print(expl)
+        print('\n\n')
+    
+    with open('hal2.txt', 'w') as f:
+        f.write("\n\n".join(battle.generated_story_history))
+
+if __name__ == "__main__":
+    prompt = '''You are Gary in a pokemon battle between you and Ash. Your actions will be described in the following format 
+"Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]".
+Trash-talk Ash. Do not say anything about the future. Do not say anything about the future.
+Only trash-talk about the current game state. Say 30 words or less.'''
+    file = "replays/logs/gen1ou/gen1ou-2093289585.log"
+    generate_story_with_file(prompt, file)
+
+
+
+def commentator_generator_test_old(prompt): 
     battle_logs = []
 
     with open('replays/cleaned_logs/1/gen1ou/gen1ou-2093289585.txt') as f:
@@ -144,18 +174,8 @@ def commentator_generator_test():
             current_round += line
 
         battle_logs.append(current_round)
-    # print(battle_logs)
-#     prompt = '''pretend you are commentating a pokemon battle between two trainers. 
-# Describe the battle step by step but in an engaging way. 
-# Use dialogue to enhance game state and trash-talk. 
-# Make sure to align it with the battle state.
-# Make each prompt 50 words or less.'''
-    prompt = '''You are Gary in a pokemon battle between you and Ash. Your actions will be described in the following format 
-"Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]".
-Trash-talk Ash. Do not say anything about the future. Do not say anything about the future.
-Only trash-talk about the current game state. Say 30 words or less.'''
     with open('hal.txt', 'w') as f:
-        battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALUCINATION)
+        battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
         for i, battle_line in enumerate(battle_logs):
             print("Round:",i)
             print(battle_line)
@@ -164,46 +184,3 @@ Only trash-talk about the current game state. Say 30 words or less.'''
             print("\n\n")
         # print(battle.generated_story_history)
         f.write("\n\n".join(battle.generated_story_history))
-
-if __name__ == "__main__":
-    commentator_generator_test()
-
-    # story_string = '''Darkrai is sent out!
-
-    # The opposing Landorus is sent out! 
-
-    # The opposing Landorus's Intimidate cuts Darkrai's Attack!
-
-    # The opposing player withdrew Landorus!
-
-    # The opposing Iron Moth is sent out!
-
-    # The opposing Iron Moth's Booster Energy allows it to get the Quark Drive!
-
-    # Darkrai used Ice Beam!
-
-    # It's not very effective...
-
-    # The opposing Iron Moth was frozen solid!'''
-
-    # payload = {
-    #     "game_string": story_string,
-    #     #"query": "You are commentating a pokemon battle between two trainers. Describe the battle succinctly but in an engaging way. Say no more than 50 words.",
-    #     "query": "You are commentating a pokemon battle between two trainers. Describe the battle step by step but in an engaging way. Use dialogue to enhance game state and trash-talk. Make sure to align it with the battle state.",
-    #     "data": {
-    #         "pokemon": ["Darkrai", "Iron Moth", "Landorus"],
-    #         "abilities": ["Quark Drive", "Intimidate"],
-    #         "items": ["Booster Energy"],
-    #         "moves": ["Dark Pulse"]
-    #     }
-    # }
-
-    # headers = {
-    #     "Content-Type": "application/json"
-    # }
-
-    # response = requests.post(URL_GET_BATTLE, data=json.dumps(payload), headers=headers)
-
-    
-
-    # # print(response.json())

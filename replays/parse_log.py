@@ -1,5 +1,5 @@
 import re
-from data_model import Battle, Turn, Action, ActionResult, Pokemon
+from replays.data_model import Battle, Turn, Action, ActionResult, Pokemon
 from collections import defaultdict
 
 from copy import deepcopy
@@ -262,3 +262,86 @@ def parse_log_file(file_path):
 
     battle.turns = turns
     return battle
+
+def action_to_string(turn: Turn, action: Action, translation: dict):
+        status =   {
+            "frz": "it is frozen",
+            "slp": "it is asleep",
+            "par": "it is paralyzed",
+            "brn": "it is burned",
+            "psn": "it is poisoned",
+            "tox": "it is badly poisoned",
+            "partiallytrapped": "it is partially trapped",
+            "": "",
+        }
+
+        if turn.turn_num == 0:
+            return f'{translation[action.source]} sent out {action.name}'
+
+
+        active_pokemon = {
+            "p1a": turn.pokemon["p1a"].pokemon_name,
+            "p2a": turn.pokemon["p2a"].pokemon_name,
+        }
+        source_player = translation[action.source]
+        source_pokemon = turn.pokemon[action.source].pokemon_name
+        match action.type:
+            case "switch":
+                return f'{source_player}: {source_pokemon} switched out for {action.name}'
+                
+            case "move":
+                line = f"{source_player}: {source_pokemon} used {action.name}"
+                for target, action_result in action.results.items():
+                    result = action_result.result
+                    damage = action_result.damage
+                    crit = action_result.crit
+                    target_status = action_result.status
+                    effectiveness = action_result.effectiveness
+                    target_player = translation[target]
+                    target_pokemon = active_pokemon[target]
+
+                    match result:
+                        case "hit":
+                            new_line = (
+                                line
+                                + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
+                            )
+                            if effectiveness:
+                                new_line += f" ({effectiveness})"
+
+                        case "miss":
+                            new_line = line + f" on {target_pokemon} but it missed"
+
+                        case "fail":
+                            new_line = line + " but it failed"
+
+                        case "heal":
+                            new_line = line + f" and healed for {damage}"
+
+                        case "immune":
+                            new_line = (
+                                line + f" but it had no effect on {target_pokemon}"
+                            )
+
+                        case _:
+                            new_line = line
+                            # print(f"Unknown result: {result}")
+
+                    # ignore self hits for now
+                    # need to look at item self damage, status effects from pokemon abilities
+                    if action.source == target and result != "heal":
+                        pass
+                    else:
+                        return new_line
+
+                if not action.results:
+                    return line + " on self"
+
+            case "cant":
+                return f"{source_player}: {source_pokemon} can't move because {status.get(action.name, action.name)}"
+
+            case "faint":
+                return f"{source_player}: {source_pokemon} fainted"
+
+            case _:
+                return f"  ERROR  {action.source} {action.type}"
