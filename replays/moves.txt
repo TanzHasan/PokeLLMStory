@@ -1,0 +1,735 @@
+Move: Wrap
+Descriptions:
+Wrap is a move that involves using a long body, vines, or similar appendages to trap and squeeze the target for multiple turns, typically ranging from two to five. While under the effects of Wrap, the target is unable to move. The descriptions consistently mention the wrapping and squeezing action, as well as the immobilizing effect on the target for the duration of the move.
+
+Move: Double-Edge
+Descriptions:
+Double-Edge is a powerful tackle attack in which the user charges recklessly at the target, risking their own well-being. While the move can inflict significant damage on the opponent, it also causes considerable recoil damage to the user, typically around one-quarter of the damage dealt. The move is described as a life-risking tackle, emphasizing the user's willingness to put themselves in harm's way to inflict damage on the target.
+
+Move: Ice Beam
+Descriptions:
+Ice Beam is an Ice-type attack that involves firing a beam of icy-cold energy at the target. Upon being struck, the target may become frozen solid, leaving them unable to act for a period of time. The chance of freezing the target is often described as being around one-in-ten or 10%. The move's descriptions consistently mention the icy nature of the beam and its potential to freeze the target, with the later descriptions emphasizing the freezing effect as a secondary result of the cold damage inflicted. One description also mentions the possibility of the move causing frostbite.
+
+Move: Hyper Beam
+Descriptions:
+Hyper Beam is an extremely powerful attack that involves firing a powerful beam at the target, causing severe damage. However, the move's intensity takes a toll on the user, requiring them to rest and recharge on the following turn, leaving them temporarily immobile and vulnerable. The attack occurs in a two-turn sequence: on the first turn, the user unleashes the devastating beam, and on the second turn, they must rest to regain their energy. The descriptions consistently emphasize the power of the attack and the subsequent need for the user to rest and recover.
+
+
+Move: Ice Punch
+Descriptions:
+Ice Punch is a special Ice-type attack where the user strikes the target with a fist encased in ice. The punch deals damage and has a chance of freezing the target, leaving them unable to act temporarily. The probability of freezing the opponent is often described as a one-in-ten or 10% chance. The move's descriptions consistently mention the icy nature of the punch and its potential to freeze the target as a secondary effect. Some descriptions also mention the possibility of the attack causing frostbite, further emphasizing the freezing capabilities of the move.
+
+
+Move: Swords Dance
+Descriptions:
+Swords Dance is a move that involves the user performing a frenetic or fighting dance to boost their offensive capabilities. The dance sharply raises the user's Attack stat, greatly enhancing their physical attacking power. Some descriptions mention that the move can typically be used up to three times, suggesting that the Attack boost can be stacked. The move is consistently described as a dance that uplifts the user's fighting spirit, resulting in a significant increase in their Attack stat. One description also mentions that the dance raises the user's offensive stats in general, potentially implying a boost to both Attack and Special Attack.
+
+Move: Blizzard
+Descriptions:
+Blizzard is described as the strongest Ice-type attack, involving a vicious snow-and-wind storm or a howling blizzard that strikes the target. The move has a chance (often mentioned as a one-in-ten or 10% probability) of freezing the target solid, leaving them unable to act temporarily. The attack's descriptions consistently emphasize the brutal, frigid nature of the blizzard and its potential to freeze the target as a secondary effect. Later descriptions mention the possibility of the move targeting multiple opposing Pokémon and leaving them frozen. One description also suggests that the move may cause frostbite, further highlighting its freezing capabilities.
+
+
+Move: Thunder Punch
+Descriptions:
+Thunder Punch is a special Electric-type attack where the user strikes the target with a fist charged with electricity. The punch deals damage and has a chance of paralyzing the target, leaving them with reduced speed and a possibility of being unable to act on certain turns. The probability of paralysis is often described as a one-in-ten or 10% chance. The move's descriptions consistently mention the electrified nature of the punch and its potential to inflict paralysis on the target as a secondary effect. The descriptions emphasize that the paralysis may be a lingering effect that persists after the initial attack.
+
+Move: Roar
+Descriptions:
+Summarize:
+A terrifying roar that drives wild Pok�mon away. It is useful only in the wild.
+A terrifying roar that drives the target away. The opposing trainer must use a new Pok�mon.
+Scares wild foes to end battle.
+Makes the foe flee to end the battle.*A savage roar that makes the foe flee to end the battle.*
+Causes the target to flee and switch out of battle.*A savage roar that swaps the target out of battle.*
+The foe is made to switch out with an ally. In the wild, the battle ends.
+The foe is scared off, to be replaced by another Pok�mon in its party. In the wild, the battle ends.
+The foe is scared off and replaced by another Pok�mon in its party.*The foe is scared off, to be replaced by another Pok�mon in its party. In the wild, the battle ends.*
+The target is scared off and replaced by another Pok�mon in its party. In the wild, the battle ends.
+The target is scared off and switched. In the wild, a battle against a single Pok�mon ends.
+The target is scared off and a different Pok�mon is dragged out. In the wild, this ends a battle against a single Pok�mon.
+The target is scared off, and a different Pok�mon is dragged out. In the wild, this ends a battle against a single Pok�mon.
+The target is scared off, and a different Pok�mon is dragged out.
+
+Move: Hydro Pump
+Descriptions:
+Summarize:The strongest Water-type attack. However, while it is powerful, it may miss the target.
+The strongest Water-type attack. While it is powerful, it may miss the target.
+A powerful water- type attack.
+Blasts water at high power to strike the foe.
+Blasts water at high power to strike the target.
+A high volume of water is blasted at the foe under great pressure.
+The foe is blasted by a huge volume of water launched under great pressure.
+The target is blasted by a huge volume of water launched under great pressure.
+
+Move: Whirlwind
+Descriptions:
+Summarize:Generates a powerful wind that blows away wild Pok�mon. Useful in the wild only.
+A powerful wind that blows the target away. The opposing trainer must use a new Pok�mon.
+Blows away the foe & ends battle.
+Blows away the foe with wind and ends the battle.
+The foe is made to switch out with an ally. In the wild, the battle ends.
+Blows away the target, switching it out of battle.
+The foe is blown away, to be replaced by another Pok�mon in its party. In the wild, the battle ends.
+The foe is blown away and replaced by another Pok�mon in its party.
+The target is blown away, to be replaced by another Pok�mon in its party. In the wild, the battle ends.
+The target is blown away and switched. In the wild, a battle against a single Pok�mon ends.
+The target is blown away, and a different Pok�mon is dragged out. In the wild, this ends a battle against a single Pok�mon.
+The target is blown away, and a different Pok�mon is dragged out.
+
+Move: Body Slam
+Descriptions:
+Summarize:A Normal-type attack. Has a one-in-three chance of paralyzing the target if it connects.
+A Normal-type attack. Has a one-in-three chance of paralyzing the target if it hits.
+An attack that may cause paralysis.
+A full-body slam that may cause paralysis.
+The user drops its full body on the foe. It may leave the foe paralyzed.
+The user drops onto the foe with its full body weight. It may leave the foe paralyzed.
+The user drops onto the target with its full body weight. It may also leave the target with paralysis.
+The user drops onto the target with its full body weight. This may also leave the target with paralysis.
+The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis.
+
+Move: Sing
+Descriptions:
+Summarize:A special Normal-type technique. A soothing melody lulls the target to sleep.
+A special Normal-type move. A soothing melody lulls the target to sleep.
+May cause the foe to fall asleep.
+A soothing song lulls the foe into a deep slumber.
+A soothing song lulls the target into a deep slumber.
+A soothing song in a calming voice lulls the foe into a deep slumber.
+A soothing lullaby is sung in a calming voice that puts the foe into a deep slumber.
+A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.
+A soothing lullaby is sung in a beautiful voice that puts the target to sleep.
+
+Move: Flamethrower
+Descriptions:
+Summarize:A powerful Fire-type attack. Has a one-in-ten chance of leaving the target with a damaging burn.
+A powerful Fire-type attack. Has a one-in-ten chance of leaving the target with a burn.
+An attack that may inflict a burn.
+A powerful fire attack that may inflict a burn.*Looses a stream of fire that may burn the foe.RSE*Looses a stream of fire that may burn the target.ColoXD*
+The foe is scorched with intense flames. The foe may suffer a burn.
+The foe is scorched with an intense blast of fire. The target may also be left with a burn.
+The target is scorched with an intense blast of fire. It may also leave the target with a burn.
+The target is scorched with an intense blast of fire. This may also leave the target with a burn.
+
+Move: Surf
+Descriptions:
+Summarize:A Water-type attack. The power of this technique is strong and highly accurate.
+A Water-type attack. This move is strong and highly accurate.
+A strong water-type attack.
+Creates a huge wave, then crashes it down on the foe.
+A big wave crashes down on the foe. Can also be used for crossing water.
+It swamps the entire battlefield with a giant wave. It can also be used for crossing water.*It swamps the entire battlefield with a giant wave. It can also be used to cross water.*
+The entire battlefield is swamped by a giant wave.
+It swamps the area around the user with a giant wave. It can also be used for crossing water.
+The user attacks everything around it by swamping its surroundings with a giant wave. This can also be used for crossing water.
+The user attacks everything around it by swamping its surroundings with a giant wave.
+The user attacks everything around it by swamping its surroundings with a giant wave. It�s also one of the Pok�tch�s hidden moves.
+
+Move: Drill Peck
+Descriptions:
+Summarize:A standard Flying-type attack. It is strong and highly likely to hit the target.
+A strong, spinning-peck attack.
+A corkscrewing attack with the beak acting as a drill.
+A corkscrewing attack, with the beak acting as a drill.
+A corkscrewing attack with the sharp beak acting as a drill.
+A corkscrewing attack with a sharp beak acting as a drill.
+A corkscrewing attack that strikes the target with a sharp beak acting as a drill.
+
+Move: Seismic Toss
+Descriptions:
+Summarize:A Fighting-type attack. Throws the target with enough force to flip the world upside down.
+A Fighting-type attack. Throws the target with enough force to flip the world.
+The user's level equals damage HP.
+Inflicts damage identical to the user's level.
+A gravity-fed throw that causes damage matching the user's level.
+The foe is thrown using the power of gravity. It inflicts damage equal to the user's level.
+The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
+
+Move: Thunderbolt
+Descriptions:
+Summarize:An Electric-type attack. Has a one-in-ten chance of paralyzing the target.
+An attack that may cause paralysis.
+A strong electrical attack that may paralyze the foe.RSE*A strong electrical attack. It may paralyze the target.ColoXD*A powerful electric attack that may cause paralysis.*
+A strong electrical attack that may also leave the foe paralyzed.
+A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.
+A strong electric blast is loosed at the target. It may also leave the target with paralysis.
+A strong electric blast crashes down on the target. This may also leave the target with paralysis.
+The user attacks the target with a strong electric blast. This may also leave the target with paralysis.
+
+Move: Thunder
+Descriptions:
+Summarize:The strongest of all Electric-type attacks. Has a one-in-ten chance of paralyzing the target.
+Strongest of all Electric-type attacks. Has a one-in-ten chance shot at paralyzing the target.
+An attack that may cause paralysis.
+A lightning attack that may cause paralysis.*Strikes the foe with thunderbolt. It may paralyze.*
+A brutal lightning attack that may also leave the foe paralyzed.
+A lightning attack that may cause paralysis.*Strikes the target with a thunderbolt. It may paralyze.*
+A wicked thunderbolt is dropped on the foe to inflict damage. It may also leave the target paralyzed.
+A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis.
+A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.
+
+Move: Toxic
+Descriptions:
+Summarize:A technique that badly poisons the target. The amount of damage from the poison increases every turn.
+A move that badly poisons the target. The amount of poison damage increases every turn.
+A poison move with increasing damage.
+Poisons the foe with an intensifying toxin.*Poisons the foe with a toxin that gradually worsens.*
+A move that badly poisons the foe. Its poison damage worsens every turn.
+Poisons the target with an intensifying toxin.*Poisons the target with a toxin that gradually worsens.*
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.*A move that leaves the foe badly poisoned. This poison damage worsens every turn.*
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+
+Move: Confusion
+Descriptions:
+Summarize:A Psychic-type attack. Has a one-in-ten chance of leaving the target confused.
+An attack that may cause confusion.
+A psychic attack that may cause confusion.
+A weak telekinetic attack that may also leave the foe confused.
+The foe is hit by a weak telekinetic force. It may also leave the foe confused.
+The target is hit by a weak telekinetic force. It may also leave the target confused.
+The target is hit by a weak telekinetic force. This may also confuse the target.
+The target is hit with a weak telekinetic force to inflict damage.
+The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target.
+
+Move: Hypnosis
+Descriptions:
+Summarize:A special Psychic-type move. The target is hypnotized into a deep sleep.
+May put the foe to sleep.
+A hypnotizing move that may induce sleep.
+Hypnotic suggestion is used to make the foe fall into a deep sleep.
+The user employs hypnotic suggestion to make the target fall into a deep sleep.
+The user employs hypnotic suggestion to make the target drowsy.
+The user employs hypnotic suggestion to make the target fall asleep.
+
+Move: Recover
+Descriptions:
+Summarize:Restores HP by 1/2 of the user's maximum HP. Few Pok�mon learn this technique on their own.
+Half of the user's maximum HP is restored. Few Pok�mon learn this move on their own.
+Restores HP by 1/2 the max HP.
+Recovers up to half the user's maximum HP.
+A self-healing move that restores HP by up to half of the user's maximum HP.
+A self-healing move. The user restores its own HP by up to half of its max HP.
+Restoring its own cells, the user restores its own HP by half of its max HP.
+The user regenerates its cells to restore its own HP.
+The user regenerates its cells, restoring its own HP by up to half its max HP.
+
+Move: Fire Blast
+Descriptions:
+Summarize:The strongest Fire-type attack. Has a one-in-three chance of inflicting a burn on the target.
+Strongest Fire-type attack. Has a one-in-ten chance of inflicting a burn on the target.
+An attack that may cause a burn.
+A fiery blast that scorches all. May cause a burn.RS*Incinerates everything it strikes. May cause a burn.E*A powerful fire attack that may burn the foe.*
+The foe is hit with an intense flame. It may leave the target with a burn.
+A fiery blast that may cause a burn.*A powerful fire attack that may burn the target.*
+The foe is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn.
+The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.
+
+Move: Amnesia
+Descriptions:
+Summarize:Sharply raises the user's Special stat. Also increases protection against special attacks.
+A move that increases the user's Spcl.Def. stat. It is normally used up to three times.
+Sharply raises the user's Spcl.Def.
+Forgets about something and sharply raises Sp. Def.
+The user temporarily empties its mind to forget its concerns. It sharply raises the user's Sp. Def stat.
+The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat.
+The user temporarily empties its mind to forget its concerns. This sharply boosts the user's Sp. Def stat.
+
+Move: Soft-Boiled
+Descriptions:
+Summarize:Restores HP by 1/2 of the user's maximum HP. May also be used in the field.
+Half of the user's maximum HP is restored. May also be used in the field.
+Restores HP by 1/2 the user's max HP.
+Recovers up to half the user's maximum HP.
+Heals the user by up to half its full HP. It can be used to heal an ally.
+The user restores its own HP by up to half of its max HP. May be used in the field to heal HP.
+The user restores its own HP by up to half of its maximum HP.
+The user restores its own HP by up to half of its maximum HP. It may also be used to heal an ally's HP.
+The user restores its own HP by up to half of its maximum HP. May also be used in the field to heal HP.
+The user restores its own HP by up to half of its max HP. May also be used in the field to heal HP.
+The user restores its own HP by up to half of its max HP.
+The user restores its own HP by up to half of its max HP. It may also be used to heal an ally�s HP outside of battle.
+The user restores its own HP.
+The user restores its own HP by up to half its max HP.
+
+Move: Explosion
+Descriptions:
+Summarize:The most powerful attack of all. However, the attacker faints after using this move.
+Very powerful but makes user faint.
+Inflicts severe damage but makes the user faint.
+The user explodes to inflict terrible damage even while fainting itself.
+The user explodes to inflict damage on all Pok�mon in battle. The user faints upon using this move.
+The user explodes to inflict damage on those around it. The user faints upon using this move.
+The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+
+Move: Rest
+Descriptions:
+Summarize:The user takes a nap to fully restore its HP and recover from any status abnormalities.
+Sleep for 2 turns to fully recover.
+The user sleeps for 2 turns, restoring HP and status.*The user sleeps for 2 turns to restore health and status.*
+The user sleeps for two turns to fully restore HP and heal any status problem.
+The user goes to sleep for two turns. It fully restores the user's HP and heals any status problem.
+The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.
+The user restores its own HP but also becomes drowsy.
+The user goes to sleep for two turns. This fully restores the user's HP and cures any status conditions.
+
+Move: Rock Slide
+Descriptions:
+Summarize:A Rock-type attack that hits the target with an avalanche of rocks and boulders.
+An attack that may cause flinching.
+Large boulders are hurled. May cause flinching.
+Large boulders are hurled at the foe. It may make the foe flinch.
+Large boulders are hurled at the foe to inflict damage. It may also make the target flinch.
+Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch.
+Large boulders are hurled at the opposing Pok�mon to inflict damage. This may also make the opposing Pok�mon flinch.
+Large boulders are hurled at opposing Pok�mon to inflict damage. This may also make the opposing Pok�mon flinch.
+Large boulders are hurled at the target to inflict damage.
+
+Move: Spikes
+Descriptions:
+Summarize:An attack that scatters Spikes and injures opponent Pok�mon when they switch.
+Hurts foes when they switch out.
+Sets spikes that hurt a foe switching out.
+Sets spikes that hurt a foe switching in.
+A trap of spikes is laid around the foe's party to hurt foes switching in.
+The user lays a trap of spikes at the foe's feet. The trap hurts foes that switch into battle.
+The user lays a trap of spikes at the opposing team's feet. The trap hurts Pok�mon that switch into battle.
+The user lays a trap of spikes at the target's feet. The spikes left behind by this attack continue to damage the target for several turns.
+The user lays a trap of spikes at the feet of the opposing team. The spikes will damage opposing Pok�mon that switch into battle.
+
+Move: Sleep Powder
+Descriptions:
+Summarize:Induces sleep. A Pok�mon will stay asleep for several turns if an item isn't used to wake it.
+May cause the foe to fall asleep.
+Scatters a powder that may cause the foe to sleep.
+A sleep-inducing dust is scattered in high volume around a foe.
+Scatters a powder that may cause the target to sleep.
+The user scatters a big cloud of sleep-inducing dust around the foe.
+The user scatters a big cloud of sleep-inducing dust around the target.
+The user scatters a cloud of sleep-inducing powder that makes the target drowsy.
+The user scatters a cloud of soporific dust that puts the target to sleep.
+
+Move: Confuse Ray
+Descriptions:
+Summarize:A sinister flash of light makes the target confused. A special Ghost-type technique.
+A sinister flash of light makes the target confused. A special Ghost-type move.
+A move that causes confusion.
+A sinister ray that confuses the foe.
+A sinister ray that confuses the target.
+The foe is exposed to a sinister ray that triggers confusion.
+The target is exposed to a sinister ray that triggers confusion.
+The target is exposed to a sinister ray that causes confusion.
+
+Move: Clamp
+Descriptions:
+Summarize:The target is gripped in the attacker's shell for two to five turns. It can't move while under the attack.
+Grips the target in the attacker's shell for two to five turns.
+Traps the foe for 2-5 turns.
+Traps and squeezes the foe for 2 to 5 turns.
+The foe is clamped and squeezed by the user's shell for two to five turns.
+Traps and squeezes the target for 2 to 5 turns.
+The foe is clamped and squeezed by the user's very thick and sturdy shell for two to five turns.
+The target is clamped and squeezed by the user's very thick and sturdy shell for four to five turns.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+
+Move: Transform
+Descriptions:
+Summarize:Transforms the user into a copy of the target, including the type. All moves have only five PP each.
+The user assumes the foe's guise.
+Alters the user's cells to become a copy of the foe.
+The user transforms into a copy of the foe with even the same move set.
+Alters the user's cells to copy the target.
+The user transforms into a copy of the foe right down to having the same move set.
+The user transforms into a copy of the target right down to having the same move set.
+The user transforms into a copy of the target, right down to having the same move set.
+
+Move: Belly Drum
+Descriptions:
+Summarize:A move that allows the user to consume half of its own HP in order to maximize its Attack.
+Reduces own HP to maximize Attack.
+Maximizes Attack while sacrificing HP.
+The user maximizes its Attack stat at the cost of half its full HP.
+The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+The user maximizes its Attack stat but loses HP equal to half its max HP.
+
+Move: Mega Drain
+Descriptions:
+Summarize:A Grass-type attack. It adds half the HP it drained from the target to the attacker's HP.
+Steals 1/2 of the damage inflicted.
+An attack that absorbs half the damage inflicted.
+A tough attack that drains half the damage it inflicted to restore HP.
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.
+
+Move: Growth
+Descriptions:
+Summarize:Raises Special to make special attacks stronger and enhance protection against special moves.
+A Normal-type move that raises Spcl.Atk. Normally used up to six times.
+Raises the Spcl. Atk rating.
+Forces the body to grow and heightens Sp. Atk.
+The user's body is forced to grow, raising the Sp. Atk stat.
+The user's body is forced to grow all at once. It raises the Sp. Atk stat.
+The user's body grows all at once, raising the Attack and Sp. Atk stats.
+The user's body grows all at once, boosting the Attack and Sp. Atk stats.
+
+Move: Earthquake
+Descriptions:
+Summarize:An attack that inflicts the damage by shaking the ground. It is useless against Flying type Pok�mon.
+An attack that inflicts the damage by shaking the ground. Useless against the Flying type.
+Tough but useless vs. flying foes.
+A powerful quake, but has no effect on flying foes.*Causes a quake that has no effect on flying foes.*
+An earthquake that strikes all Pok�mon in battle excluding the user.
+A strong quake, has no effect on flying targets.*Causes a quake that has no effects on flying targets.*
+The user sets off an earthquake that hits all the Pok�mon in the battle.
+The user sets off an earthquake that strikes those around it.
+The user sets off an earthquake that strikes every Pok�mon around it.
+
+Move: Psychic
+Descriptions:
+Summarize:A Psychic-type attack. Has a one-in-three chance of lowering the target's Special rating.
+A Psychic-type attack. Has a one-in-ten chance of lowering the target's Spcl.Def rating.
+An attack that may lower Spcl.Def.
+A powerful psychic attack that may lower Sp. Def.
+A strong telekinetic attack. It may also lower the foe's Sp. Def stat.
+The foe is hit by a strong telekinetic force. It may also reduce the foe's Sp. Def stat.
+The target is hit by a strong telekinetic force. It may also reduce the target's Sp.Def stat.
+The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.
+The target is hit with a strong telekinetic force to inflict damage. This may also lower the target�s defensive stats.
+The target is hit with a strong telekinetic force to inflict damage. This may also lower the target�s Sp. Def stat.
+
+Move: Mimic
+Descriptions:
+Summarize:A move for learning one of the opponent's moves, for use during that battle only.
+Copies a move used by the foe.
+Copies a move used by the foe during one battle.
+The user copies the move last used by the foe for the rest of the battle.
+Copies a move used by the target during one battle.
+The user copies the move last used by the foe. The move can be used for the rest of the battle.
+The user copies the target's last move. The move can be used during battle until the Pok�mon is switched out.
+The user copies the move last used by the target. The copied move can be used until the user of Mimic leaves the battle.
+
+Move: Reflect
+Descriptions:
+Summarize:Reduces damage from physical attacks by about half. A special Psychic-type technique.
+Reduces damage from physical attacks by about half. A special Psychic-type move.
+Raises Defense with a barrier.
+Creates a wall of light that weakens physical attacks.
+A wall of light cuts damage from physical attacks for five turns.
+A wondrous wall is put up to suppress damage from physical attacks for five turns.
+A wondrous wall of light is put up to reduce damage from physical attacks for five turns.
+A wondrous wall of light is put up to reduce damage from physical moves for five turns.
+
+Move: Lovely Kiss
+Descriptions:
+Summarize:A special move that puts the target to sleep with a big kiss. (Actually, the victim passes out.)
+A special move that puts the target to sleep with a big kiss. (Actually, the victim faints.)
+May cause the foe to fall asleep.
+Demands a kiss with a scary face that induces sleep.
+The user forces a kiss on the foe with a scary face that induces sleep.
+With a scary face, the user forces a kiss on the foe. It may make the target fall asleep.
+With a scary face, the user tries to force a kiss on the foe. If it succeeds, the target falls asleep.
+With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.
+With a scary face, the user tries to kiss the target. If it succeeds, the target falls asleep.
+
+Move: Thief
+Descriptions:
+Summarize:A Dark-type attack. The attacking Pok�mon may steal an item held by the target.
+An attack that may steal a held item.
+While attacking, it may steal the foe's held item.
+An attack that may take the foe's held item if the user isn't holding one.
+An attack that may steal the target's held item.*While attacking, it may steal the target's held item.*
+The user attacks and steals the foe's held item simultaneously. It can't steal if the user holds an item.
+The user attacks and steals the target's item simultaneously. It can't steal if the user holds an item.
+The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item.
+
+Move: Razor Leaf
+Descriptions:
+Summarize:A Grass-type attack that sends sharp-edged leaves at the target. Likely to get a critical hit.
+A Grass-type attack that uses sharp-edged leaves. Likely to get a critical hit.
+Has a high critical hit ratio.
+Cuts the enemy with leaves. High critical-hit ratio.
+The foe is hit with a cutting leaf. It has a high critical-hit ratio.
+A sharp-edged leaf is launched to slash at the foe. It has a high critical-hit ratio.
+Sharp-edged leaves are launched to slash at the foe. It has a high critical-hit ratio.
+Sharp-edged leaves are launched to slash at the opposing team. Critical hits land more easily.
+Sharp-edged leaves are launched to slash at the opposing Pok�mon. Critical hits land more easily.
+Sharp-edged leaves are launched to slash at opposing Pok�mon. Critical hits land more easily.
+Sharp-edged leaves are launched to slash at opposing Pok�mon. This move has a heightened chance of landing a critical hit.
+
+Move: Stun Spore
+Descriptions:
+Summarize:A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.
+Special move that causes paralysis. The victim has a one-in-four chance of immobility.
+A move that may paralyze the foe.
+Scatters a powder that may paralyze the foe.
+Paralyzing dust is scattered wildly. It may paralyze the foe.
+Scatters a powder that may paralyze the target.
+The user scatters a cloud of paralyzing powder. It may paralyze the target.
+The user scatters a cloud of paralyzing powder. It may leave the target with paralysis.
+The user scatters a cloud of numbing powder that paralyzes the target.
+
+Move: Thunder Wave
+Descriptions:
+Summarize:A special move that causes paralysis. When paralyzed, the victim has a one-in-four chance of immobility.
+A special move that causes paralysis. The victim has a one-in-four chance of immobility.
+A move that may cause paralysis.
+A weak jolt of electricity that paralyzes the foe.
+A weak electric shock that is sure to cause paralysis if it hits.
+A weak jolt of electricity that paralyzes the target.
+A weak electric charge is launched at the foe. It causes paralysis if it hits.
+A weak electric charge is launched at the target. It causes paralysis if it hits.
+The user launches a weak jolt of electricity that paralyzes the target.
+
+Move: Agility
+Descriptions:
+Summarize:A special technique that greatly boosts the user's Speed. Can normally be used up to three times.
+A special move that greatly boosts the user's Speed. Normally used up to three times.
+Sharply increases the user's Speed.
+Relaxes the body to sharply boost Speed.
+The user relaxes and lightens its body to sharply boost its Speed.
+The user relaxes and lightens its body to move faster. It sharply boosts the Speed stat.
+The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.
+The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat.
+
+Move: Self-Destruct
+Descriptions:
+Summarize:The user explodes, inflicting damage on the enemy, then faints. Useless against Ghost-type.
+The user explodes, damaging the enemy, then faints. Useless against the Ghost-type.
+Powerful but makes the user faint.
+Inflicts severe damage but makes the user faint.
+The user blows up to inflict severe damage, even making itself faint.
+The user blows up to inflict damage on all Pok�mon in battle. The user faints upon using this move.
+The user attacks everything around it by causing an explosion. The user faints upon using this move.
+The user causes an explosion to inflict damage on the target. This also damages the user.
+
+Move: Substitute
+Descriptions:
+Summarize:Uses 1/4 of the user's maximum HP to create a substitute that takes the opponent's attacks.
+Makes a decoy with 1/4 user's max HP.
+Creates a decoy using 1/4 of the user's maximum HP.
+The user creates a decoy using one-quarter of its full HP.
+The user makes a copy of itself using some of its HP. The copy serves as the user's decoy.
+The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.
+The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy.
+
+Move: Curse
+Descriptions:
+Summarize:Raises Attack and Defense at the expense of Speed. It works differently for the Ghost type.
+Works differently for ghost-types.
+A move that functions differently for Ghosts.
+A move that works differently for the Ghost-type and all the other types.
+A move that works differently for the Ghost type than for all the other types.
+A move that works differently for the Ghost type than for all other types.
+A move that has different effects depending on whether the user is a Ghost type or not.
+
+Move: Protect
+Descriptions:
+Summarize:Completely foils an opponent's attack. If used consecutively, its success rate decreases.
+Foils attack that turn. It may fail.
+Evades attack, but may fail if used in succession.*Negates all damage, but may fail if used in succession.*
+Enables the user to evade all attacks. It may fail if used in succession.
+It enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.
+This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+
+Move: Sludge Bomb
+Descriptions:
+Summarize:A Poison-type attack. Has a one-in-three chance of leaving the target poisoned.
+An attack that may poison the foe.
+Sludge is hurled to inflict damage. May also poison.*Hurls sludge at the foe. It may poison the foe.RSE*Hurl sludge at the target. It may poison the target.ColoXD*
+Filthy sludge is hurled at the foe. It may poison the target.
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.*Unsanitary sludge is hurled at the foe. It may also poison the target.*
+The user attacks by hurling filthy sludge at the foe. It may also poison the target.
+Unsanitary sludge is hurled at the target. It may also poison the target.
+Unsanitary sludge is hurled at the target. This may also poison the target.
+The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target.
+
+Move: Mean Look
+Descriptions:
+Summarize:A probing stare that prevents the target from escaping until the attacking Pok�mon is gone.
+Prevents fleeing or switching.
+Fixes the foe with a mean look that prevents escape.
+The foe is fixed with a mean look that prevents it from escaping.
+Fixes the target with a look that prevents escape.
+The user affixes the foe with a dark, arresting look. The target becomes unable to flee.
+The user pins the target with a dark, arresting look. The target becomes unable to flee.
+
+Move: Baton Pass
+Descriptions:
+Summarize:A move that transfers the user's status changes to the next Pok�mon when switching.
+Switches while keeping effects.
+Switches out the user while keeping effects in play.
+The user switches out, passing along any stat changes to the new battler.
+The user switches places with a party Pok�mon in waiting, passing along any stat changes.
+The user switches places with a party Pok�mon in waiting and passes along any stat changes.
+
+Move: Rapid Spin
+Descriptions:
+Summarize:A Normal-type attack. By spinning quickly, the user can escape from restraining moves.
+A high-speed spinning attack.
+Spins the body at high speed to strike the foe.
+An attack that frees the user from Bind, Wrap, Leech Seed, and Spikes.
+Spins the body at high speed to strike target.
+A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.
+A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user's Speed stat.
+The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.
+
+Move: Shadow Ball
+Descriptions:
+Summarize:A Ghost-type attack. Has a one-in-five chance of reducing the target Spcl.Def.
+An attack that may lower Spcl. Def.
+Hurls a black blob that may lower Sp. Def.*Hurls a dark lump at the foe. It may lower Sp. Def.*
+A shadowy blob is hurled at the foe. May also lower the foe's Sp. Def.
+Hurls a black blob that may lower the target's Sp. Def.*Hurls a dark lump at the target. It may lower Sp. Def.*
+The user hurls a shadowy blob at the foe. It may also lower the foe's Sp. Def stat.
+The user hurls a shadowy blob at the target. It may also lower the target's Sp. Def stat.
+The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat.
+The user hurls a shadowy blob at the target to deal damage. This may also lower the target�s defensive stats.
+The user attacks by hurling a shadowy blob at the target. This may also lower the target�s Sp. Def stat.
+
+Move: Perish Song
+Descriptions:
+Summarize:A malevolent melody that causes both the user and the opponent to faint in three turns.
+Both user and foe faint in 3 turns.
+Any Pok�mon hearing this song faints in 3 turns.
+Any battler that hears this faints in three turns unless it switches.
+Any Pok�mon that hears this song faints in three turns unless it switches out of battle.
+Any Pok�mon that hears this song faints in three turns, unless it switches out of battle.
+
+Move: Return
+Descriptions:
+Summarize:A Normal-type attack. The tamer the user, the more powerful the move.
+An attack that is based on loyalty.
+An attack that increases in power with friendship.*The more the user likes you, the more powerful this move.*
+This attack move grows more powerful the more the user likes its Trainer.
+A full-power attack that grows more powerful the more the user likes its Trainer.
+This full-power attack grows more powerful the more the user likes its Trainer.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+
+Move: Dynamic Punch
+Descriptions:
+Summarize:A Fighting-type attack. In-accurate but guaranteed to confuse the opponent if it hits.
+An attack that always confuses.
+Powerful and sure to cause confusion, but inaccurate.
+The foe is punched with the user's full power. It confuses the foe if it hits.
+The foe is punched with the user's full, concentrated power. It confuses the foe if it hits.
+The user punches the target with full, concentrated power. It confuses the target if it hits.
+The user punches the target with full, concentrated power. This confuses the target if it hits.
+The user attacks by punching the target with full concentrated power. This also confuses the target.
+
+Move: Encore
+Descriptions:
+Summarize:Forces the target to continue to use the move it used last for the next two to six turns.
+Makes the foe repeat 2-6 times.
+Makes the foe repeat its last move over 2 to 6 turns.
+Makes the foe use the move it last used repeatedly for two to six turns.
+Makes target repeat its last move for 2 to 6 turns.
+The user compels the foe to keep using only the move it last used for two to six turns.
+The user compels the foe to keep using only the move it last used for three to seven turns.
+The user compels the target to keep using only the move it last used for three turns.
+The user compels the target to keep using the move it encored for three turns.
+
+Move: Moonlight
+Descriptions:
+Summarize:Allows HP to be restored by the moonlight. In battle, half the user's max HP is restored.
+Restores HP (varies by time).
+Restores HP. The amount varies with the weather.
+Restores the user's HP. The amount of HP regained varies with the weather.
+The user restores its own HP. The amount of HP regained varies with the weather.
+
+Move: Cross Chop
+Descriptions:
+Summarize:A Fighting-type attack. It is powerful and often lands a critical hit.
+Has a high critical hit ratio.
+A double-chopping attack. High critical-hit ratio.
+The foe is hit with double chops. It has a high critical-hit ratio.
+The user delivers a double chop with its forearms crossed. It has a high critical-hit ratio.
+The user delivers a double chop with its forearms crossed. Critical hits land more easily.
+The user delivers a double chop with its forearms crossed. This move has a heightened chance of landing a critical hit.
+
+Move: Ancient Power
+Descriptions:
+Summarize:A Rock-type attack. This prehistoric move may boost all of the user's stats.
+An attack that may raise all stats.
+An ancient power is used to attack. It may also raise all the user's stats.
+The user attacks with a prehistoric power. It may also raise all the user's stats at once.
+The user attacks with a prehistoric power. This may also raise all the user's stats at once.
+The user attacks with a primeval power. This may also raise the user's offensive and defensive stats.
+The user attacks with a prehistoric power. This may also boost all the user's stats at once.
+
+Move: Giga Drain
+Descriptions:
+Summarize:Half of the HP drained from the target is added to the attacker's HP.
+Steals 1/2 of the damage inflicted.
+An attack that steals half the damage inflicted.RSE*An attack that absorbs half the damage inflicted.ColoXD*Recovers half the HP of the damage this move inflicts.*
+A harsh attack that absorbs half the damage it inflicted to restore HP.
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.
+
+Move: Sleep Talk
+Descriptions:
+Summarize:Randomly chooses one of the user's moves. Can be used only by a sleeping Pok�mon.
+Randomly attacks while asleep.
+Uses an own move randomly while asleep.
+Uses an available move randomly while asleep.
+While asleep, the user randomly uses one of the moves it knows.
+Uses its own moves randomly while asleep.
+While it is asleep, the user randomly uses one of the moves it knows.
+The user randomly uses one of the moves it knows. This move can only be used while the user is asleep.
+
+Move: Crunch
+Descriptions:
+Summarize:A Dark-type attack. Has a one-in-five chance of reducing the target's Spcl.Def.
+An attack that may lower Spcl.Def.
+Crunches with sharp fangs. May lower Sp. Def.
+The foe is crunched with sharp fangs. It may lower the foe's Sp. Def.
+The user crunches up the foe with sharp fangs. It may also lower the target's Defense stat.
+The user crunches up the target with sharp fangs. It may also lower the target's Defense stat.
+The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+
+Move: Pain Split
+Descriptions:
+Summarize:A move that adds the HPs of the user and the target, then divides the total between them.
+Adds user & foe's HPs. Shares total.
+Adds the user and foe's HP, then shares them equally.
+The user adds its HP to the foe's HP, then equally shares the total HP.
+Adds the user and target's HP, then shares it equally.
+The user adds its HP to the foe's HP, then equally shares the combined HP with the foe.
+The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself.
+
+Move: Hidden Power
+Descriptions:
+Summarize:A peculiar move that changes type and power depending on the Pok�mon using it.
+The power varies with the Pok�mon.
+The effectiveness varies with the user.*The attack power varies among different Pok�mon.*
+An attack that varies in type and intensity depending on the user.
+A unique attack that varies in type and intensity depending on the Pok�mon using it.*A variable move that changes type and power depending on the hidden ability of the Pok�mon using it.*
+A unique attack that varies in type and intensity depending on the Pok�mon using it.
+A unique attack that varies in type depending on the Pok�mon using it.
+This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Through some mysterious power, this move changes type to deal supereffective damage to the target.
+
+Move: Sunny Day
+Descriptions:
+Summarize:Makes the weather sunny for five turns. When sunny, Fire-type moves are more powerful.
+Boosts fire-type moves for 5 turns.
+Boosts the power of Fire-type moves for 5 turns.*Raises the power of Fire-type moves for 5 turns.*
+The sun blazes for five turns, powering up Fire-type moves.
+The user intensifies the sun for five turns, powering up Fire-type moves.
+The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.
+The user intensifies the sun for five turns, powering up Fire-type attacks. The sunlight also lowers the power of Water-type attacks.
+
+Move: Whirlpool
+Descriptions:
+Summarize:Lasts two to five turns. Foe becomes trapped in a vortex, making it impossible to switch.
+Traps the foe for 2-5 turns.
+Traps and hurts the foe in a whirlpool for 2 to 5 turns.
+Traps and hurts target in a whirlpool for 2 to 5 turns.
+The foe is trapped in a fast, vicious whirlpool for two to five turns.
+The user traps the foe inside a fast, vicious whirlpool that lasts for two to five turns.
+Traps the foe inside a whirlpool that lasts for two to five turns. The user can pass through whirlpools.*Traps foes in a violent swirling whirlpool. It can also be used to traverse whirlpools.*
+Traps foes in a violent swirling whirlpool for four to five turns.
+The user traps the target in a violent swirling whirlpool for four to five turns.
+The user traps the target inside a violent, swirling whirlpool that inflicts damage for four to five turns.
+
