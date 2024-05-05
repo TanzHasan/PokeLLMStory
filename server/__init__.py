@@ -1,6 +1,12 @@
 from modal import Image, Stub, wsgi_app
 import modal
 
+FINE_TUNED_MODELS = ["gpt-3.5-turbo",
+    "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1nzhp",
+"ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1pPFW:ckpt-step-28",
+"ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qQwq:ckpt-step-56",
+"ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qMuH:ckpt-step-84"
+]
 stub = Stub(
     "pllm",
     image=Image.debian_slim().pip_install("flask", "pymongo", "openai", "flask-cors"),
@@ -64,12 +70,12 @@ def test_chat_generator(messages, data):
     import openai
     entries = unpack.local(data)
     # print(entries)
-    client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    client = openai.OpenAI(api_key=os.environ["FINE_TUNED_OPENAI_API_KEY"])
     if entries != "":
         messages[-1]['content'] += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
         messages=messages,
-        model="gpt-3.5-turbo",
+        model=FINE_TUNED_MODELS[0],
     )
     
     print(response.choices[0].message.content)
@@ -83,7 +89,7 @@ def check_hallucination(prompt, hallucination_ask, data):
     import os
     import openai
     entries = '\n'.join(unpack.local(data))
-    client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    client = openai.OpenAI(api_key=os.environ["FINE_TUNED_OPENAI_API_KEY"])
     if entries != "":
         prompt += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
@@ -92,7 +98,7 @@ def check_hallucination(prompt, hallucination_ask, data):
                 "content": prompt,
             },
             {"role": "user", "content": hallucination_ask}],
-        model="gpt-3.5-turbo",
+        model=FINE_TUNED_MODELS[0],
     )
     
     print(response.choices[0].message.content)
