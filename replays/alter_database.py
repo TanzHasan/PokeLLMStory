@@ -104,7 +104,7 @@ def write_db():
     for move in all_moves:
         result = collection.update_one(
             {'name': move['name']},
-            {'$set': {'descriptions': move['descriptions']}}
+            {'$set': {'descriptions': [move['descriptions']]}}
         )
         print(f"Matched {result.matched_count} document(s) for move: {move['name']}")
         print(f"Modified {result.modified_count} document(s) for move: {move['name']}")
@@ -117,7 +117,6 @@ def write_db():
         # print(f"Modified {result.modified_count} document(s) for move: {move['name']}")
 
 
-write_db()
 def ping_server():
     
 
