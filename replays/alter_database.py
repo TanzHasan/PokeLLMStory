@@ -62,6 +62,29 @@ def write_out_moves():
             file.write("\n")
 
 
+def write_db():
+            
+     # Connect to the MongoDB database
+    client = MongoClient(os.environ["MONGO_URL"])
+    db = client['Data']
+    collection = db['moves'] 
+
+
+    with open('cleaned_moves.txt', 'r') as file:
+        lines = file.readlines()
+
+    for line in lines:
+        if line.startswith("Move:"):
+            move_name = line.split(":")[1].strip()
+        elif line.startswith("Descriptions:"):
+            descriptions = line.split(":")[1].strip()
+            print(move_name, descriptions)
+
+            
+        elif line == "\n":
+           continue
+
+
 def ping_server():
     
 
@@ -74,3 +97,32 @@ def ping_server():
         print("Pinged your deployment. You successfully connected to MongoDB!")
     except Exception as e:
         print(e)
+
+
+
+def summarize():
+    def replace_word(file_path, old_word, new_word):
+        try:
+            # Read the contents of the file
+            with open(file_path, 'r') as file:
+                content = file.read()
+
+            # Replace all occurrences of the old word with the new word
+            content = content.replace(old_word, new_word)
+
+            # Write the modified content back to the file
+            with open(file_path, 'w') as file:
+                file.write(content)
+
+            print(f"All instances of '{old_word}' have been replaced with '{new_word}' in the file.")
+        except FileNotFoundError:
+            print(f"File not found: {file_path}")
+        except IOError:
+            print(f"An error occurred while processing the file: {file_path}")
+
+    # Example usage
+    file_path = './moves.txt'
+    old_word = 'Summarize'
+    new_word = 'Summarize in 600 characters or less:'
+
+    replace_word(file_path, old_word, new_word)
