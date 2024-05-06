@@ -68,23 +68,56 @@ def write_db():
     client = MongoClient(os.environ["MONGO_URL"])
     db = client['Data']
     collection = db['moves'] 
+    read_descript = False
+
+    all_moves = []
+
 
 
     with open('cleaned_moves.txt', 'r') as file:
         lines = file.readlines()
 
     for line in lines:
+        if read_descript:
+            descriptions = line
+            read_descript = False
+
+            quick_dict = {'name': move_name, 'descriptions': descriptions}
+
+            all_moves.append(quick_dict)
+
+
+
         if line.startswith("Move:"):
             move_name = line.split(":")[1].strip()
         elif line.startswith("Descriptions:"):
-            descriptions = line.split(":")[1].strip()
-            print(move_name, descriptions)
+            read_descript = True
+            
 
             
         elif line == "\n":
            continue
 
+    # print(all_moves)
 
+    # Update all documents where the name is in the moves_data list
+    for move in all_moves:
+        result = collection.update_one(
+            {'name': move['name']},
+            {'$set': {'descriptions': move['descriptions']}}
+        )
+        print(f"Matched {result.matched_count} document(s) for move: {move['name']}")
+        print(f"Modified {result.modified_count} document(s) for move: {move['name']}")
+
+    # result = collection.update_one(
+    #         {'name': "Sunny Day"},
+    #         {'$set': {'descriptions': ["This move intensifies the sunlight for five turns, powering up and boosting the strength of the user's Fire-type attacks"]}}
+    #     )
+        # print(f"Matched {result.matched_count} document(s) for move: {move['name']}")
+        # print(f"Modified {result.modified_count} document(s) for move: {move['name']}")
+
+
+write_db()
 def ping_server():
     
 

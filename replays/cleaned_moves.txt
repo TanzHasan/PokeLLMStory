@@ -308,7 +308,7 @@ This unique move changes its type and power depending on the specific Pokemon us
 
 
 Move: Sunny Day
-Descriptions:
+Descriptions: 
 This move intensifies the sunlight for five turns, powering up and boosting the strength of the user's Fire-type attacks. However, the harsh sunlight also has the effect of lowering the power of any incoming Water-type moves used against the user during that time.
 
 
