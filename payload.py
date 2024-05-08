@@ -31,6 +31,10 @@ class BattleHistory:
     def check_hallucination(self, next_part, action_prompt, info): 
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
+
+#         prompt = f"You are currently player 2 (p2), Your response to the player 1 (p1) actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
+#         hallucination_ask = '''Yes or No to the following question: Does your response make sense to player 1's (p1) actions?
+#  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
         prompt = f"You are Gary in a pokemon battle against Ash, Your response to Ash's actions is:\n\n{next_part}\n\n You are responding to these actions: \n\n {action_prompt} \n\nWhat you have said so far is:\n\n{story}\n\n"
         hallucination_ask = '''Yes or No to the following question: Does your response make sense to Ash's actions? Make sure what Gary's actions.
  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
@@ -129,6 +133,7 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
     battle_logs = parse_log_file(file)
     battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
     for i, turn in enumerate(battle_logs.turns):
+        print("Round: ", i)
         turn_info = get_turn_info(turn)
         turn_text = ""
         active_pokemon = {}
@@ -137,6 +142,7 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
                 "p1a": turn.pokemon["p1a"].pokemon_name,
                 "p2a": turn.pokemon["p2a"].pokemon_name,
             }
+        # print("Testing: ", len(turn.actions))
         for action in turn.actions:
             turn_text += action_to_string(turn, action, p_name_mapping, active_pokemon)+'\n'
         print(turn_text)
@@ -146,16 +152,19 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
         print(expl)
         print('\n\n')
     
-    with open('hal8.txt', 'w') as f:
+    with open('Gen1ouExample.txt', 'w') as f:
         f.write("\n\n".join(battle.generated_story_history))
-    with open("hal8.json", "w") as f:
+    with open("Gen1ouExample.json", "w") as f:
         f.write(json.dumps(battle.ai_chat_history, indent=4))
 
 if __name__ == "__main__":
+#     prompt = '''You are player 2 in a pokemon battle between two trainers. 
+# Trash-talk player 1. Do not say anything about the future. Do not say anything about the future.
+# Only trash-talk about the current game state. Say 30 words or less.'''
     prompt = '''You are Gary in a pokemon battle between you and Ash. Trash-talk Ash based on the actions in the battle. Your actions will be described in the following format 
 "Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]". Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
-    file = "replays/logs/gen1ou/gen1ou-2093371513.log"
+    file = "replays/logs/gen1ou/gen1ou-2093289585.log"
     generate_story_with_file(prompt, file)
 
 
