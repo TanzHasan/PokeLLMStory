@@ -1,0 +1,319 @@
+Move: Wrap
+Descriptions:
+Wrap is a move that involves using a long body, vines, or similar appendages to trap and squeeze the target for multiple turns, typically ranging from two to five. While under the effects of Wrap, the target is unable to move. The descriptions consistently mention the wrapping and squeezing action, as well as the immobilizing effect on the target for the duration of the move.
+
+Move: Double-Edge
+Descriptions:
+Double-Edge is a powerful tackle attack in which the user charges recklessly at the target, risking their own well-being. While the move can inflict significant damage on the opponent, it also causes considerable recoil damage to the user, typically around one-quarter of the damage dealt. The move is described as a life-risking tackle, emphasizing the user's willingness to put themselves in harm's way to inflict damage on the target.
+
+Move: Ice Beam
+Descriptions:
+Ice Beam, an Ice-type attack, fires a frigid energy beam at the target. It may freeze them solid, immobilizing them. The freezing chance is often 10%. Later descriptions emphasize the freezing as a secondary effect to the cold damage. Frostbite is also a possible result.
+
+Move: Hyper Beam
+Descriptions:
+Hyper Beam: a devastating two-turn attack. The user fires an intense beam, causing severe damage to the target. However, the move's power exhausts the user, forcing them to rest and recharge on the next turn, leaving them vulnerable. The attack's strength is consistently emphasized, along with the mandatory recovery period afterwards.
+
+
+Move: Ice Punch
+Descriptions:
+Ice Punch: a special Ice-type move where the user strikes the target with an icy fist. It deals damage and has a 10% chance to freeze the target, immobilizing them temporarily. The attack's freezing potential and frostbite-inducing capabilities are consistently highlighted in its descriptions.
+
+
+Move: Swords Dance
+Descriptions:
+Swords Dance: The user performs an intense dance to boost their Attack stat sharply. The dance raises the user's fighting spirit, greatly increasing their physical offensive power. Descriptions suggest the move can be used up to three times, allowing the Attack boost to be stacked. Some mentions also imply a potential increase in Special Attack.
+
+Move: Blizzard
+Descriptions:
+Blizzard: The strongest Ice-type attack, it unleashes a brutal snow-and-wind storm on the target. It has a 10% chance to freeze the target solid, immobilizing them. The move's devastating power and freezing potential are consistently emphasized. Later descriptions mention its ability to hit multiple opponents and potentially cause frostbite.
+
+
+Move: Thunder Punch
+Descriptions:
+Thunder Punch: A special Electric-type move where the user hits the target with an electrified fist. It deals damage and has a 10% chance to paralyze the target, reducing their speed and potentially causing them to miss turns. The attack's paralysis-inducing secondary effect is consistently highlighted.
+
+Move: Roar
+Descriptions:
+Roar: The user unleashes a terrifying roar to scare off the target. In wild battles, it causes the opponent to flee, ending the encounter. In trainer battles, it forces the opposing trainer to switch out the targeted Pokémon. The move's frightening nature and utility in forcing switches or escaping wild encounters are consistently emphasized.
+
+
+Move: Hydro Pump
+Descriptions:
+Hydro Pump: The strongest Water-type attack, it blasts the target with a massive, high-pressure volume of water. Despite its immense power, the move has a notable drawback: it may miss the target, indicating less-than-perfect accuracy. The descriptions consistently emphasize the attack's sheer force and the potential accuracy issues trainers must consider.
+
+Move: Whirlwind
+Descriptions:
+Whirlwind is a move that blows away the target Pokémon, forcing it to switch out with another Pokémon in its party. In battles against wild Pokémon, using Whirlwind ends the battle. The move is useful for getting rid of troublesome opponents or fleeing from unwanted wild encounters.
+
+Move: Body Slam
+Descriptions:
+Body Slam is a Normal-type attack where the user drops its full weight onto the target. It has a 33% chance of paralyzing the target upon hitting. The move's descriptions emphasize the heavy impact of the user's body and the potential paralysis effect.
+
+Move: Sing
+Descriptions:
+Sing: A special Normal-type move where the user performs a soothing lullaby in a calming voice. The melodic song lulls the target into a deep slumber, putting them to sleep. The move's sleep-inducing effect is consistently described across its various descriptions.
+
+
+Move: Flamethrower
+Descriptions:
+A powerful Fire-type attack that unleashes an intense stream of flames to scorch the target. It has a 10% chance of inflicting a burn on the foe, leaving them with a damaging status condition. The move's high power and potential to burn the target are consistently emphasized across its descriptions.
+
+Move: Surf
+Descriptions:
+Surf: A powerful and accurate Water-type attack that creates a giant wave to crash down on the target, swamping the entire battlefield. It can also be used outside of battle for crossing bodies of water. The move's dual utility as a strong offensive technique and a means of transportation is consistently highlighted.
+
+
+Move: Drill Peck
+Descriptions:
+Drill Peck: A strong Flying-type attack where the user strikes the target with a spinning, corkscrewing motion, using their sharp beak as a drill. The move is described as powerful and highly accurate. Its drilling nature and the use of the beak as a piercing tool are consistently emphasized.
+
+Move: Seismic Toss
+Descriptions:
+Seismic Toss: A Fighting-type move where the user throws the target with immense force, as if flipping the world upside down. The damage inflicted is equal to the user's level. The move utilizes the power of gravity to throw the foe, consistently dealing damage matching the user's level.
+
+Move: Thunderbolt
+Descriptions:
+Thunderbolt: A powerful Electric-type attack that unleashes a strong electric blast at the target. It has a 10% chance of paralyzing the foe, potentially leaving them with paralysis. The move's high electrical power and its ability to inflict paralysis are consistently emphasized across its descriptions.
+
+Move: Thunder
+Descriptions:
+Thunder: The strongest Electric-type attack, it drops a wicked thunderbolt on the target to inflict severe damage. It has a 10% chance of paralyzing the foe, potentially leaving them with paralysis. The move's unparalleled electrical power and its ability to inflict paralysis are consistently highlighted across its descriptions.
+
+Move: Toxic
+Descriptions:
+Toxic: A move that badly poisons the target with an intensifying toxin. The poison damage gradually worsens, increasing every turn. The technique's ability to leave the foe badly poisoned and the escalating nature of the poison damage are consistently emphasized across its descriptions.
+
+Move: Confusion
+Descriptions:
+Confusion: A Psychic-type attack that hits the target with a weak telekinetic force, inflicting damage. It has a 10% chance of leaving the target confused. The move's psychic nature, its potential to cause confusion, and the relatively weak telekinetic force used are consistently mentioned across its descriptions.
+
+Move: Hypnosis
+Descriptions:
+The user employs hypnotic suggestion to make the target fall into a deep sleep. This special Psychic-type move may induce sleep in the foe. Hypnosis is used to lull the target into a deep slumber through hypnotic suggestion. The move works by making the target drowsy and eventually causing them to fall asleep.
+
+Move: Recover
+Descriptions:
+The user restores up to half of its maximum HP using a self-healing move that regenerates its cells. Few Pokémon learn this technique on their own.
+
+
+Move: Fire Blast
+Descriptions:
+The target is hit with an intense blast of all-consuming fire that may leave it with a burn. One of the strongest Fire-type attacks, with a chance to inflict a burn on the target. The chance of burn varies between games, ranging from one-in-three to one-in-ten.
+
+Move: Amnesia
+Descriptions:
+Amnesia is a move that sharply raises the user's Special Defense stat, providing increased protection against special attacks. It can be used up to three times to further boost Sp. Def. The user temporarily empties its mind to forget its concerns, resulting in this significant defensive improvement.
+
+Move: Soft-Boiled
+Descriptions:
+Restores up to half of the user's maximum HP. May be used in the field to heal the user or an ally.
+
+
+Move: Explosion
+Descriptions:
+The user unleashes a devastating explosion, inflicting severe damage on all Pokémon in battle, including itself. This powerful attack causes the user to faint upon using it, making it a double-edged sword. 
+
+Move: Rest
+Descriptions:
+User sleeps for 2 turns, fully restoring HP and curing status conditions.
+
+Move: Rock Slide
+Descriptions:
+Rock-type attack hurls large boulders at the target, inflicting damage and potentially causing flinching.
+
+
+Move: Spikes
+Descriptions:
+The user lays a trap of spikes that damages opposing Pokémon when they switch into battle. The spikes remain for several turns, continually injuring foes that enter the field. 
+
+
+Move: Sleep Powder
+Descriptions:
+The user scatters a cloud of sleep-inducing powder or dust around the target, potentially causing them to fall asleep for several turns. An item can be used to wake the affected Pokémon. 
+
+Move: Confuse Ray
+Descriptions:
+The user emits a sinister ray of light, a Ghost-type move, that exposes the target and causes confusion. 
+
+Move: Clamp
+Descriptions:
+The user traps the target in its shell, immobilizing and squeezing them for two to five turns. The move cannot be forgotten once learned. 
+
+Move: Transform
+Descriptions:
+The user transforms into an exact copy of the target, including type and moveset, with each copied move having 5 PP.
+
+
+Move: Belly Drum
+Descriptions:
+The user maximizes its Attack stat, but loses HP equal to half its maximum HP, sacrificing defenses for overwhelming offensive power in a high-risk, high-reward move.
+
+Move: Mega Drain
+Descriptions:
+This Grass-type attack steals nutrients from the target, restoring the user's HP by up to half the damage inflicted on the opponent, allowing the attacker to replenish health while dealing damage.
+
+Move: Growth
+Descriptions:
+This Normal-type move forces the user's body to rapidly grow, raising both its Attack and Special Attack stats to boost the power of its offensive moves, both physical and special.
+
+Move: Earthquake
+Descriptions:
+The user sets off a powerful earthquake that damages all surrounding Pokemon, but has no effect on airborne Flying-type opponents who are unaffected by the shaking ground.
+
+Move: Psychic
+Descriptions:
+This Psychic-type move hits the target with a powerful telekinetic force to inflict damage, and has a chance to also lower the target's Special Defense stat.
+
+Move: Mimic
+Descriptions:
+The user copies the move last used by the opponent, allowing it to use that same move during the current battle until it is switched out. This copied move can only be used temporarily during that one battle.
+
+Move: Reflect
+Descriptions:
+This Psychic-type move creates a wondrous wall of light that reduces damage taken from physical attacks for five turns, essentially raising the user's Defense stat.
+
+Move: Lovely Kiss
+Descriptions:
+With a frightening expression, the user tries to force a kiss on the target. If successful, this unsettling move causes the opponent to fall into a deep sleep.
+
+
+Move: Thief
+Descriptions:
+This Dark-type attack not only damages the target, but may also simultaneously steal the opponent's held item for the user's own, as long as the user is not already holding an item.
+
+
+Move: Razor Leaf
+Descriptions:
+This Grass-type attack launches razor-sharp leaves to slash at opposing Pokemon. It has a much higher chance than normal of scoring a critical hit, allowing it to deal substantially increased damage.
+
+
+Move: Stun Spore
+Descriptions:
+The user scatters a cloud of numbing powder that has a chance of paralyzing the target, leaving them occasionally immobile and unable to attack.
+
+
+Move: Thunder Wave
+Descriptions:
+This move launches a weak jolt of electricity at the target. If it hits, it is guaranteed to cause paralysis, leaving the opponent occasionally immobile and unable to attack.
+
+
+Move: Agility
+Descriptions:
+This move allows the user to relax and lighten its body, sharply boosting its Speed stat to drastically increase its quickness and agility in battle, though it can typically only be used a few times.
+
+
+Move: Self-Destruct
+Descriptions:
+This desperate, self-destructive move causes the user to explode, damaging all other Pokemon in battle, before fainting itself. However, it is ineffective against Ghost-types who are immune to this Normal-type attack.
+
+
+Move: Substitute
+Descriptions:
+The user creates a substitute decoy for itself by using up one-quarter of its maximum HP. This decoy takes hits from the opponent, protecting the user until it is knocked out.
+
+Move: Curse
+Descriptions:
+This move raises the user's Attack and Defense stats, but at the cost of lowering its Speed stat. However, it functions differently for Ghost-type users compared to other types, having an altered effect.
+
+
+Move: Protect
+Descriptions:
+This move protects the user from all attacks that turn, allowing it to completely evade any damage. However, if used consecutively in the same battle, the chance of the move failing increases with each repeated use.
+
+
+Move: Sludge Bomb
+Descriptions:
+This Poison-type move hurls a stream of unsanitary sludge at the target to inflict damage. It also has a chance of poisoning the opponent, leaving them to take gradual damage over time.
+
+
+Move: Mean Look
+Descriptions:
+This move fixes the target with a menacing, dark stare that pins them in place, preventing them from being able to flee or switch out until the user leaves the battle.
+
+
+Move: Baton Pass
+Descriptions:
+This move allows the user to switch out and swap places with another Pokemon in its party, while also transferring any stat changes or status conditions it has onto the new battler taking its place.
+
+
+Move: Rapid Spin
+Descriptions:
+This Normal-type spinning attack strikes the opponent while also freeing the user from restraining moves like Bind, Wrap, and Leech Seed. Additionally, successfully landing this move raises the user's Speed stat.
+
+
+Move: Shadow Ball
+Descriptions:
+This Ghost-type attack hurls a shadowy blob at the target to deal damage. It also has a chance to lower the target's Special Defense stat, making them more vulnerable to special moves.
+
+
+Move: Perish Song
+Descriptions:
+This sinister move produces a malevolent melody that causes any Pokemon that hears it, including the user, to faint within three turns unless they are able to switch out of the battle beforehand.
+
+
+Move: Return
+Descriptions:
+This Normal-type attack becomes more powerful the greater the friendship and bond between the user and its trainer. However, the move description indicates it cannot actually be used and recommends forgetting and permanently removing it from the Pokemon's moveset.
+
+
+Move: Dynamic Punch
+Descriptions:
+This powerful Fighting-type attack sees the user punch the target with full, concentrated force. While it has a chance of missing, if it lands a direct hit it is guaranteed to confuse the opponent, leaving them dazed and disoriented.
+
+
+Move: Encore
+Descriptions:
+This move compels the target to repeatedly use the same move it last used against its will for the next 3-7 consecutive turns, preventing it from being able to choose a different attack during that time.
+
+
+Move: Moonlight
+Descriptions:
+This move allows the user to restore its own HP, with the amount of HP regained varying depending on the current weather conditions during the battle. In clear weather, it will restore up to half of the user's maximum HP.
+
+
+Move: Cross Chop
+Descriptions:
+This Fighting-type move sees the user deliver a powerful double chop with its crossed forearms. It has a much higher chance than normal attacks of scoring a critical hit, allowing it to deal substantially increased damage.
+
+
+Move: Ancient Power
+Descriptions:
+This Rock-type move unleashes an ancient, primeval power to attack the opponent. As well as dealing damage, it also has a chance to simultaneously raise all of the user's offensive and defensive stats, boosting their Attack, Defense, Special Attack, Special Defense, and Speed.
+
+
+Move: Giga Drain
+Descriptions:
+This attack steals nutrients and vitality from the target, draining their HP while restoring the user's own HP by up to half the amount of damage inflicted.
+
+
+Move: Sleep Talk
+Descriptions:
+While asleep, this move allows the user to randomly use one of the other moves in its moveset without being able to select which move it uses. It can only be utilized while the user is in a sleeping state.
+
+
+Move: Crunch
+Descriptions:
+This Dark-type attack sees the user crunch down on the target with sharp fangs. As well as dealing damage, it also has a chance to lower the target's Defense stat, making them more vulnerable to future physical attacks.
+
+
+Move: Pain Split
+Descriptions:
+This move combines the current HP of both the user and the target, adds them together into a shared total pool, and then splits that combined HP evenly between the two of them.
+
+
+Move: Hidden Power
+Descriptions:
+This unique move changes its type and power depending on the specific Pokemon using it. The description indicates it cannot actually be used normally, but suggests it has the mysterious ability to change its typing to deal super-effective damage against the target when it is employed through some unknown means. It is recommended to be forgotten from the Pokemon's moveset if gained.
+
+
+Move: Sunny Day
+Descriptions: 
+This move intensifies the sunlight for five turns, powering up and boosting the strength of the user's Fire-type attacks. However, the harsh sunlight also has the effect of lowering the power of any incoming Water-type moves used against the user during that time.
+
+
+Move: Whirlpool
+Descriptions:
+This move traps the target inside a violent, swirling whirlpool for 4-5 turns, inflicting damage each turn while also preventing the opponent from being able to switch out their Pokemon during that time period. The whirlpool allows the user to move through it unhindered.
+
+
