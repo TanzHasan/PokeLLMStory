@@ -5,7 +5,9 @@ FINE_TUNED_MODELS = ["gpt-3.5-turbo",
     "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1nzhp",
 "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1pPFW:ckpt-step-28",
 "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qQwq:ckpt-step-56",
-"ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qMuH:ckpt-step-84"
+"ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qMuH:ckpt-step-84",
+"ft:gpt-3.5-turbo-1106:personal:pokellmtrashtalk:9LyPN3kH",
+"ft:gpt-3.5-turbo-1106:personal:newfinetunejsonl:9LzvImtM"
 ]
 stub = Stub(
     "pllm",
@@ -75,7 +77,7 @@ def test_chat_generator(messages, data):
         messages[-1]['content'] += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
         messages=messages,
-        model=FINE_TUNED_MODELS[0],
+        model=FINE_TUNED_MODELS[-1],
     )
     
     print(response.choices[0].message.content)
@@ -98,7 +100,7 @@ def check_hallucination(prompt, hallucination_ask, data):
                 "content": prompt,
             },
             {"role": "user", "content": hallucination_ask}],
-        model=FINE_TUNED_MODELS[0],
+        model=FINE_TUNED_MODELS[-1],
     )
     
     print(response.choices[0].message.content)

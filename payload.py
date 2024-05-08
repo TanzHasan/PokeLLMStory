@@ -131,8 +131,14 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
     for i, turn in enumerate(battle_logs.turns):
         turn_info = get_turn_info(turn)
         turn_text = ""
+        active_pokemon = {}
+        if turn.turn_num != 0:
+            active_pokemon = {
+                "p1a": turn.pokemon["p1a"].pokemon_name,
+                "p2a": turn.pokemon["p2a"].pokemon_name,
+            }
         for action in turn.actions:
-            turn_text += action_to_string(turn, action, p_name_mapping)+'\n'
+            turn_text += action_to_string(turn, action, p_name_mapping, active_pokemon)+'\n'
         print(turn_text)
         print(str(turn_info)+"\n")
         # print(json.dumps(turn_info))
@@ -140,15 +146,16 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
         print(expl)
         print('\n\n')
     
-    with open('hal2.txt', 'w') as f:
+    with open('hal8.txt', 'w') as f:
         f.write("\n\n".join(battle.generated_story_history))
+    with open("hal8.json", "w") as f:
+        f.write(json.dumps(battle.ai_chat_history, indent=4))
 
 if __name__ == "__main__":
-    prompt = '''You are Gary in a pokemon battle between you and Ash. Your actions will be described in the following format 
-"Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]".
-Trash-talk Ash. Do not say anything about the future. Do not say anything about the future.
+    prompt = '''You are Gary in a pokemon battle between you and Ash. Trash-talk Ash based on the actions in the battle. Your actions will be described in the following format 
+"Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]". Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
-    file = "replays/logs/gen1ou/gen1ou-2093289585.log"
+    file = "replays/logs/gen1ou/gen1ou-2093371513.log"
     generate_story_with_file(prompt, file)
 
 

@@ -263,7 +263,7 @@ def parse_log_file(file_path):
     battle.turns = turns
     return battle
 
-def action_to_string(turn: Turn, action: Action, translation: dict):
+def action_to_string(turn: Turn, action: Action, translation: dict, active_pokemon: dict):
         status =   {
             "frz": "it is frozen",
             "slp": "it is asleep",
@@ -278,15 +278,14 @@ def action_to_string(turn: Turn, action: Action, translation: dict):
         if turn.turn_num == 0:
             return f'{translation[action.source]} sent out {action.name}'
 
-
-        active_pokemon = {
-            "p1a": turn.pokemon["p1a"].pokemon_name,
-            "p2a": turn.pokemon["p2a"].pokemon_name,
-        }
         source_player = translation[action.source]
         source_pokemon = turn.pokemon[action.source].pokemon_name
+        # print(active_pokemon)
+
         match action.type:
             case "switch":
+
+                active_pokemon[action.source] = action.name
                 return f'{source_player}: {source_pokemon} switched out for {action.name}'
                 
             case "move":
