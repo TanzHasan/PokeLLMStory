@@ -28,16 +28,11 @@ class BattleHistory:
 
         
 
-    def check_hallucination(self, next_part, action_prompt, info): 
+    def check_hallucination(self, next_part, action_prompt, info):         
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
-
-#         prompt = f"You are currently player 2 (p2), Your response to the player 1 (p1) actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
-#         hallucination_ask = '''Yes or No to the following question: Does your response make sense to player 1's (p1) actions?
-#  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
-        prompt = f"You are Gary in a pokemon battle against Ash, Your response to Ash's actions is:\n\n{next_part}\n\n You are responding to these actions: \n\n {action_prompt} \n\nWhat you have said so far is:\n\n{story}\n\n"
-        hallucination_ask = '''Yes or No to the following question: Does your response make sense to Ash's actions? Make sure what Gary's actions.
- Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
+        prompt = f"You are Gary in a pokemon battle against Ash, You are responding to the actions in the battle in a disrespectful/trash talking tone. This is the current round of the battle: \n\n {action_prompt}"
+        hallucination_ask = f'''This is your response: \n {next_part} \n Answer Yes or No. Does your response make sense to the battle state? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
         payload = { 
             "prompt": prompt,
             "hallucination_ask": hallucination_ask,
@@ -52,10 +47,46 @@ class BattleHistory:
     
         expl = response.json()["result"]
         expl = expl.lower()
-
-        if(expl == "" or expl == None or (expl != "yes" and expl != "no")): 
+        if("no" in expl):
             return False
-        return expl == 'yes'
+        if("yes" in expl):
+            return True
+
+        return False
+    def check_hallucination_with_reason(self, next_part, action_prompt, info): 
+        story = "\n".join(self.generated_story_history)
+        battle_logs = "\n".join(self.battle_logs)
+        # print(battle_logs)
+
+#         prompt = f"You are currently player 2 (p2), Your response to the player 1 (p1) actions is:\n\n{next_part}\n\n What you have said so far is:\n\n{story}\n\n The battle logs are:\n\n{battle_logs}"
+#         hallucination_ask = '''Yes or No to the following question: Does your response make sense to player 1's (p1) actions?
+#  Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.'''
+        prompt = f"You are Gary in a pokemon battle against Ash, You are responding to the actions in the battle in a disrespectful/trash talking tone. This is the current round of the battle: \n\n {action_prompt}"
+        hallucination_ask = f'''This is your response: \n {next_part} \n Answer Yes or No and give a reason. Does your response make sense to the battle state? '''
+        payload = { 
+            "prompt": prompt,
+            "hallucination_ask": hallucination_ask,
+            "data": info
+        }
+        headers = {
+            "Content-Type": "application/json"
+        }
+        #returns a yes or no, to the quesiton "Does the move make sense?"
+        response = requests.post(self.hallucination_check_url, data=json.dumps(payload), headers=headers)
+        # print(response.json())
+    
+        expl = response.json()["result"]
+        expl = expl.lower()
+        print('\n')
+        print(expl)
+        print('\n')
+
+        if expl.startswith("no"):
+            return False
+        if expl.startswith("yes"):
+            return True
+
+        return False
         
 
     """ 
@@ -132,6 +163,7 @@ def get_turn_info(turn: Turn):
 def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a": "Gary"}):
     battle_logs = parse_log_file(file)
     battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
+    
     for i, turn in enumerate(battle_logs.turns):
         print("Round: ", i)
         turn_info = get_turn_info(turn)
@@ -152,20 +184,51 @@ def generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a"
         print(expl)
         print('\n\n')
     
-    with open('Gen1ouExample.txt', 'w') as f:
+    with open('rewind_test.txt', 'w') as f:
         f.write("\n\n".join(battle.generated_story_history))
-    with open("Gen1ouExample.json", "w") as f:
+    with open("rewind_test.json", "w") as f:
         f.write(json.dumps(battle.ai_chat_history, indent=4))
 
+def wooper_hallucination_test(prompt):
+    battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
+    turn_text = ''' Gary: Wooper used Ice punch on Dragonite for 100 damage it was super effective
+Ash: Dragonite Roost and healed for 50
+'''
+    turn_info = {"pokemon": ["Dragonite", "Tauros", "Wooper"], "moves": ["Ice Punch"], "items": [], "abilities": []}
+    expl = battle.generate_next_move_with_checks(turn_text, turn_info)
+    print(expl)
+
+def hallucination_check_test(prompt): 
+    battle = BattleHistory("", prompt, URL_BATTLE_CHAT_GENERATOR_TEST, URL_CHECK_HALLUCINATION)
+    story = '''Ash: Alakazam can't move
+Gary: Tauros used Hyper Beam on Alakazam for 100 damage
+Ash: Alakazam fainted
+Ash: Alakazam switched out for Exeggutor
+'''
+    generated_text = '''HA! Starmie stood no chance! and now your Exeggutor is next!'''
+    turn_info = {"pokemon": ["Alakazam", "Tauros", "Exeggutor"], "moves": ["Hyper Beam"], "items": [], "abilities": []}
+    expl = battle.check_hallucination_with_reason(generated_text, story, turn_info)
+    print(expl)
+
 if __name__ == "__main__":
-#     prompt = '''You are player 2 in a pokemon battle between two trainers. 
-# Trash-talk player 1. Do not say anything about the future. Do not say anything about the future.
-# Only trash-talk about the current game state. Say 30 words or less.'''
+#     prompt = '''Pretend you are player 2 in a pokemon battle between two trainers. 
+# Trash talk player 1 in an engaging and entertaining way.
+# Make sure to align it with the battle state. sat 30 words or less.'''
     prompt = '''You are Gary in a pokemon battle between you and Ash. Trash-talk Ash based on the actions in the battle. Your actions will be described in the following format 
 "Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]". Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
+
     file = "replays/logs/gen1ou/gen1ou-2093289585.log"
-    generate_story_with_file(prompt, file)
+    # wooper_hallucination_test(prompt)
+    # print("\n\n")
+    # for i in range(3):
+    #     hallucination_check_test(prompt)
+    #     print("\n\n")
+    
+
+
+
+    generate_story_with_file(prompt, file, p_name_mapping = {"p1a": "Ash", "p2a": "Gary"})
 
 
 

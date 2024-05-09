@@ -7,7 +7,8 @@ FINE_TUNED_MODELS = ["gpt-3.5-turbo",
 "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qQwq:ckpt-step-56",
 "ft:gpt-3.5-turbo-0125:personal:pokellmtest1:9Dg1qMuH:ckpt-step-84",
 "ft:gpt-3.5-turbo-1106:personal:pokellmtrashtalk:9LyPN3kH",
-"ft:gpt-3.5-turbo-1106:personal:newfinetunejsonl:9LzvImtM"
+"ft:gpt-3.5-turbo-1106:personal:newfinetunejsonl:9LzvImtM", 
+"gpt-3.5-turbo",
 ]
 stub = Stub(
     "pllm",
@@ -71,13 +72,14 @@ def test_chat_generator(messages, data):
     import os
     import openai
     entries = unpack.local(data)
+    # entries = ""
     # print(entries)
     client = openai.OpenAI(api_key=os.environ["FINE_TUNED_OPENAI_API_KEY"])
     if entries != "":
         messages[-1]['content'] += f"\n\nContext: {entries}"
     response = client.chat.completions.create(
         messages=messages,
-        model=FINE_TUNED_MODELS[-1],
+        model=FINE_TUNED_MODELS[-2],
     )
     
     print(response.choices[0].message.content)
@@ -91,6 +93,7 @@ def check_hallucination(prompt, hallucination_ask, data):
     import os
     import openai
     entries = '\n'.join(unpack.local(data))
+    # entries = ""
     client = openai.OpenAI(api_key=os.environ["FINE_TUNED_OPENAI_API_KEY"])
     if entries != "":
         prompt += f"\n\nContext: {entries}"
