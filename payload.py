@@ -26,9 +26,38 @@ class BattleHistory:
         self.hallucination_check_url = hallucination_check_url
         self.rewind_limit = rewind_limit
 
+    
+    def check_hallucination_multiple(self , next_part, action_prompt):
+        battle_logs = "\n".join(self.battle_logs)
+        hallucination_check_asks = [f'''This is your response: \n {next_part} \n Answer Yes or No. Does your response make sense to the battle state? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+                                    f'''This is your response: \n {next_part} \n Answer Yes or No. Does your response contain the correct pokemon? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+                                    f'''This is your response: \n {next_part} \n Answer Yes or No. Does your response contain the correct move? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+                                    f'''This is your response: \n {next_part} \n Answer Yes or No. Are the description of the move correct? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+                                    f'''This is your response: \n {next_part} \n, Here is the whole battle log: \n {battle_logs} \n Answer Yes or No. Does your response make sense to the battle state? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+        for hallucination_check_ask in hallucination_check_asks:
+            payload = { 
+                "prompt": hallucination_check_ask,
+                "hallucination_ask": action_prompt,
+                "data": self.game_data
+            }
+            headers = {
+                "Content-Type": "application/json"
+            }
+            #returns a yes or no, to the quesiton "Does the move make sense?"
+            response = requests.post(self.hallucination_check_url, data=json.dumps(payload), headers=headers)
+            # print(response.json())
+        
+            expl = response.json()["result"]
+            expl = expl.lower()
+            if("no" in expl):
+                return False
+            if("yes" in expl):
+                continue
+            return False
+        return True
         
 
-    def check_hallucination(self, next_part, action_prompt, info):         
+    def check_hallucination(self, next_part, action_prompt):         
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
         prompt = f"You are Gary in a pokemon battle against Ash, You are responding to the actions in the battle in a disrespectful/trash talking tone. This is the current round of the battle: \n\n {action_prompt}"
@@ -218,7 +247,7 @@ if __name__ == "__main__":
 "Gary: [your action here]". Ash actions will be described in the following format "Ash: [Ash's action here]". Do not say anything about the future. Do not say anything about the future.
 Only trash-talk about the current game state. Say 30 words or less.'''
 
-    file = "replays/logs/gen1ou/gen1ou-2093289585.log"
+    file = "replays/logs/gen1ou/gen1ou-2093371513.log"
     # wooper_hallucination_test(prompt)
     # print("\n\n")
     # for i in range(3):
