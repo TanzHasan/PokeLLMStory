@@ -1,0 +1,445 @@
+Round:  0
+Ash sent out Starmie
+Gary sent out Alakazam
+
+{'pokemon': ['Starmie', 'Alakazam'], 'moves': [], 'items': [], 'abilities': []}
+
+[True, True, True]
+A Starmie against an Alakazam? Might as well throw in the spoon now and save some time, Ash.
+
+
+
+Round:  1
+Ash: Starmie switched out for Chansey
+Gary: Alakazam used Thunder Wave
+
+{'pokemon': ['Chansey'], 'moves': ['Thunder Wave'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Oh look, Chansey's joined the party. Well, let's see how you like a little Thunder Wave paralysis therapy, pink blob!
+
+
+
+Round:  2
+Gary: Alakazam used Psychic on Chansey for 16 damage
+Ash: Chansey can't move because it is paralyzed
+
+{'pokemon': [], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, False]
+16 damage and a side of paralysis, Chansey! Your little egg won't be saving you now!
+
+
+
+Round:  3
+Gary: Alakazam used Psychic on Chansey for 18 damage
+Ash: Chansey used Soft-Boiled and healed for 34
+
+{'pokemon': [], 'moves': ['Psychic', 'Soft-Boiled'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Okay, Chansey's had her soft-boiled egg and is back on her feet. But Alakazam's just getting started!
+
+
+
+Round:  4
+Gary: Alakazam used Psychic on Chansey for 19 damage
+Ash: Chansey used Ice Beam on Alakazam for 12 damage
+
+{'pokemon': [], 'moves': ['Psychic', 'Ice Beam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Ice Beam, huh? A cute little 12 damage, but Alakazam eats Ice Beams for breakfast!
+
+
+
+Round:  5
+Gary: Alakazam used Psychic on Chansey for 26 damage
+Ash: Chansey can't move because it is paralyzed
+
+{'pokemon': [], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Chansey just can't catch a break! Paralyzed and smacked by more Psychic damage. Alakazam's just too much for your team, Ash.
+
+
+
+Round:  6
+Gary: Alakazam used Psychic on Chansey for 27 damage
+Ash: Chansey used Soft-Boiled and healed for 50
+
+{'pokemon': [], 'moves': ['Psychic', 'Soft-Boiled'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Soft-Boiled again? Chansey's dodging Psychic attacks like it's a stroll in the park. But it won't be enough!
+
+
+
+Round:  7
+Ash: Chansey switched out for Starmie
+Gary: Alakazam used Psychic on Starmie for 21 damage
+
+{'pokemon': ['Starmie'], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Starmie, meet Alakazam's Psychic. And unlike your little gem, you'll definitely feel this one!
+
+
+
+Round:  8
+Ash: Starmie switched out for Exeggutor
+Gary: Alakazam used Psychic on Exeggutor for 14 damage
+
+{'pokemon': ['Exeggutor'], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Ah, Exeggutor, joining the fray now? You're not immune to Alakazam's Psychic onslaught, big guy.
+
+
+
+Round:  9
+Gary: Alakazam used Thunder Wave
+Ash: Exeggutor used Sleep Powder
+
+{'pokemon': [], 'moves': ['Thunder Wave', 'Sleep Powder'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Sleep Powder? I'm starting to suspect your team is composed entirely of lullabies and bedtime stories!
+
+
+
+Round:  10
+Ash: Exeggutor switched out for Tauros
+Gary: Alakazam can't move because it is asleep
+
+{'pokemon': ['Tauros'], 'moves': [], 'items': [], 'abilities': []}
+
+[True, True, True]
+Oh great, now we're snoozing too? Come on, Alakazam, I expect better from you! Time to wake up and show this Tauros what a real psychic can do!
+
+
+
+Round:  11
+Gary: Alakazam switched out for Gengar
+Ash: Tauros used Body Slam but it had no effect on Gengar
+
+{'pokemon': ['Gengar'], 'moves': ['Body Slam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Nice try, Tauros, but Gengar is pretty much untouchable. You're swinging at shadows now!
+
+
+
+Round:  12
+Ash: Tauros switched out for Exeggutor
+Gary: Gengar switched out for Snorlax
+
+{'pokemon': ['Exeggutor', 'Snorlax'], 'moves': [], 'items': [], 'abilities': []}
+
+[True, True, True]
+What's going on, Ash? Changing Pokémon like you're trying to find the right outfit. But whatever, bring in the Exeggutor, Snorlax will just keep on snoozing!
+
+
+
+Round:  13
+Gary: Snorlax used Body Slam on Exeggutor for 29 damage
+Ash: Exeggutor can't move because it is paralyzed
+
+{'pokemon': [], 'moves': ['Body Slam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Snorlax just rolled out of bed and already puts Exeggutor on ice with a hefty Body Slam. Paralyzed and flattened!
+
+
+
+Round:  14
+Gary: Snorlax used Body Slam on Exeggutor for 28 damage
+Ash: Exeggutor used Explosion on Snorlax for 61 damage
+Ash: Exeggutor fainted
+Ash: Exeggutor switched out for Tauros
+
+{'pokemon': ['Tauros'], 'moves': ['Body Slam', 'Explosion'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Exeggutor pulled out the big guns with Explosion, but at the cost of fainting. Hope Tauros is ready for Snorlax's encore!
+
+
+
+Round:  15
+Gary: Snorlax switched out for Exeggutor
+Ash: Tauros used Earthquake on Exeggutor for 10 damage
+
+{'pokemon': ['Exeggutor'], 'moves': ['Earthquake'], 'items': [], 'abilities': []}
+
+[True, True, True]
+A little Earthquake? Not enough to shake up our Exeggutor! Your Tauros better step it up, Ash.
+
+
+
+Round:  16
+Ash: Tauros switched out for Chansey
+Gary: Exeggutor used Psychic on Chansey for 16 damage
+
+{'pokemon': ['Chansey'], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Exeggutor's Psychic attack gives Chansey a little love tap. But be honest, Chansey, the real reason you're here is to pass out eggs, isn't it?
+
+
+
+Round:  17
+Gary: Exeggutor switched out for Snorlax
+Ash: Chansey used Thunder Wave
+
+{'pokemon': ['Snorlax'], 'moves': ['Thunder Wave'], 'items': [], 'abilities': []}
+
+[True, True, True]
+A Thunder Wave from Chansey, huh? Snorlax might feel a little tingle, but it won't be stopping him from pulverizing in a bit!
+
+
+
+Round:  18
+Ash: Chansey switched out for Snorlax
+Gary: Snorlax can't move because it is paralyzed
+
+{'pokemon': ['Snorlax'], 'moves': [], 'items': [], 'abilities': []}
+
+[True, True, True]
+Oh, the famed Snorlax is feeling a little sluggish, isn't he? It's nap time for him, I suppose!
+
+
+
+Round:  19
+Gary: Snorlax switched out for Gengar
+Ash: Snorlax used Reflect on self
+
+{'pokemon': ['Gengar'], 'moves': ['Reflect'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Smart move with Reflect, but Gengar's a master at mind games. Let's see how you handle the shadows!
+
+
+
+Round:  20
+Ash: Snorlax switched out for Chansey
+Gary: Gengar used Psychic on Chansey and crit for 23 damage
+
+{'pokemon': ['Chansey'], 'moves': ['Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Critically hitting Chansey with Psychic! Gengar's psychic power is no laughing matter, Chansey!
+
+
+
+Round:  21
+Gary: Gengar switched out for Snorlax
+Ash: Chansey can't move because it is paralyzed
+
+{'pokemon': ['Snorlax'], 'moves': [], 'items': [], 'abilities': []}
+
+[True, True, True]
+Paralysis strikes again as Chansey's left unable to move. Snorlax better bring something more than just bulk!
+
+
+
+Round:  22
+Ash: Chansey used Soft-Boiled and healed for 50
+Gary: Snorlax used Body Slam on Chansey for 43 damage
+
+{'pokemon': [], 'moves': ['Soft-Boiled', 'Body Slam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Soft-Boiled won't save you now, Chansey. Snorlax's Body Slam makes quick work of your health restoration!
+
+
+
+Round:  23
+Ash: Chansey used Soft-Boiled and healed for 50
+Gary: Snorlax used Body Slam on Chansey for 40 damage
+
+{'pokemon': [], 'moves': ['Soft-Boiled', 'Body Slam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+A valiant effort with the Soft-Boiled, Chansey, but Snorlax isn't going easy on you with those heavy Body Slams!
+
+
+
+Round:  24
+Ash: Chansey used Soft-Boiled and healed for 44
+Gary: Snorlax used Body Slam on Chansey for 43 damage
+
+{'pokemon': [], 'moves': ['Soft-Boiled', 'Body Slam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Chansey's hanging in there, but those Body Slams from Snorlax just keep coming. How much more can you take, Chansey?
+
+
+
+Round:  25
+Ash: Chansey used Ice Beam on Snorlax for 19 damage
+Gary: Snorlax can't move because it is paralyzed
+
+{'pokemon': [], 'moves': ['Ice Beam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+An Ice Beam from Chansey crashes into Snorlax, leaving it paralyzed. Looks like Snorlax needs to thaw out!
+
+
+
+Round:  26
+Ash: Chansey can't move because it is paralyzed
+Gary: Snorlax used Self-Destruct on Chansey for 57 damage
+Ash: Chansey fainted
+Gary: Snorlax fainted
+Ash: Chansey switched out for Starmie
+Gary: Snorlax switched out for Zapdos
+
+{'pokemon': ['Starmie', 'Zapdos'], 'moves': ['Self-Destruct'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Snorlax and Chansey, sacrificing themselves in their last breaths. Now it's time for Zapdos and Starmie to bring the thunder and electrify this battlefield!
+
+
+
+Round:  27
+Ash: Starmie used Ice Beam on Zapdos for 31 damage (supereffective)
+Gary: Zapdos used Thunderbolt on Starmie for 79 damage (supereffective)
+Ash: Starmie fainted
+Ash: Starmie switched out for Zapdos
+
+{'pokemon': ['Zapdos'], 'moves': ['Ice Beam', 'Thunderbolt'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Starmie's Ice Beam barely ruffled Zapdos' feathers, while Zapdos retaliates with a massive Thunderbolt, knocking Starmie out cold! Welcome to the power of electric birds!
+
+
+
+Round:  28
+Gary: Zapdos used Thunderbolt on Zapdos for 30 damage
+Ash: Zapdos used Thunderbolt on Zapdos for 27 damage
+
+{'pokemon': [], 'moves': ['Thunderbolt', 'Thunderbolt'], 'items': [], 'abilities': []}
+
+[True, True, True]
+A classic Zapdos vs Zapdos showdown. Your electric blasts just tickled Zapdos, Ash. Like a couple of cute little static shocks!
+
+
+
+Round:  29
+Gary: Zapdos used Thunderbolt on Zapdos for 27 damage
+Ash: Zapdos used Agility on self
+
+{'pokemon': [], 'moves': ['Thunderbolt', 'Agility'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Agility, huh? Trying to outrun your own Thunderbolt, Ash? But it looks like your Zapdos could use a lightning refresher!
+
+
+
+Round:  30
+Ash: Zapdos used Thunderbolt on Zapdos for 31 damage
+Gary: Zapdos used Thunder Wave
+
+{'pokemon': [], 'moves': ['Thunderbolt', 'Thunder Wave'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Zapdos takes a Thunderbolt from your own team and then retaliates with a Thunder Wave. Looks like it's shocking all around!
+
+
+
+Round:  31
+Gary: Zapdos used Thunderbolt on Zapdos and crit for 43 damage
+Ash: Zapdos fainted
+Ash: Zapdos switched out for Tauros
+
+{'pokemon': ['Tauros'], 'moves': ['Thunderbolt'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Zapdos took a jolt of its own medicine and fainted! Tauros charges in to clean up the mess. Time for a raging bull to finish the job!
+
+
+
+Round:  32
+Gary: Zapdos switched out for Alakazam
+Ash: Tauros used Blizzard on Alakazam for 18 damage
+
+{'pokemon': ['Alakazam'], 'moves': ['Blizzard'], 'items': [], 'abilities': []}
+
+[True, True, True]
+An icy Blizzard from Tauros hits Alakazam, but Alakazam isn't flinching just yet!
+
+
+
+Round:  33
+Gary: Alakazam can't move because it is asleep
+Ash: Tauros used Hyper Beam on Alakazam for 70 damage
+Gary: Alakazam fainted
+Gary: Alakazam switched out for Exeggutor
+
+{'pokemon': ['Exeggutor'], 'moves': ['Hyper Beam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Alakazam couldn't handle the power of Tauros' Hyper Beam and now Exeggutor enters the field, but it won't be able to hide behind its coconuts for long!
+
+
+
+Round:  34
+Ash: Tauros used Body Slam on Exeggutor for 26 damage
+Gary: Exeggutor used Psychic on Tauros for 47 damage
+
+{'pokemon': [], 'moves': ['Body Slam', 'Psychic'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Tauros' Body Slam barely fazes Exeggutor, and it responds with a powerful Psychic attack. Looks like your psychic coconuts aren't just for show!
+
+
+
+Round:  35
+Ash: Tauros used Hyper Beam on Exeggutor for 51 damage
+Gary: Exeggutor used Explosion on Tauros and crit for 53 damage
+Ash: Tauros fainted
+Gary: Exeggutor fainted
+Ash: Tauros switched out for Snorlax
+Gary: Exeggutor switched out for Zapdos
+
+{'pokemon': ['Snorlax', 'Zapdos'], 'moves': ['Hyper Beam', 'Explosion'], 'items': [], 'abilities': []}
+
+[True, True, True]
+What an explosive exchange! Exeggutor and Tauros faint simultaneously, making way for Snorlax and Zapdos. We're not holding anything back now!
+
+
+
+Round:  36
+Gary: Zapdos used Thunderbolt on Snorlax for 33 damage
+Ash: Snorlax used Ice Beam on Zapdos for 11 damage (supereffective)
+Gary: Zapdos fainted
+Gary: Zapdos switched out for Gengar
+
+{'pokemon': ['Gengar'], 'moves': ['Thunderbolt', 'Ice Beam'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Zapdos goes down to a super effective Ice Beam from Snorlax, but Gengar's up next. Let's see if your mischievous shadow has the chops to face a giant like Snorlax!
+
+
+
+Round:  37
+Gary: Gengar used Explosion on Snorlax for 49 damage
+Gary: Gengar fainted
+Gary: Gengar switched out for Tauros
+
+{'pokemon': ['Tauros'], 'moves': ['Explosion'], 'items': [], 'abilities': []}
+
+[True, True, True]
+Gengar goes out with a bang, taking Snorlax with it. Now Tauros is back for more. Despite all the explosions, this battle rages on!
+
+
+
+Round:  38
+
+{'pokemon': [], 'moves': [], 'items': [], 'abilities': []}
+
+[True, False, True]
+Looks like it's just you and me now! Ready for the final showdown?
+
+
+
