@@ -34,6 +34,7 @@ class BattleHistory:
                                     f'''This is your response: \n {next_part} \n Answer Yes or No. Does your response contain the correct move? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
                                     f'''This is your response: \n {next_part} \n Answer Yes or No. Are the description of the move correct? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
                                     f'''This is your response: \n {next_part} \n, Here is the whole battle log: \n {battle_logs} \n Answer Yes or No. Does your response make sense to the battle state? Only say Yes or No, nothing else. Only say Yes or No, nothing else. Only Say Yes or No, nothing else.''',
+        ]
         for hallucination_check_ask in hallucination_check_asks:
             payload = { 
                 "prompt": hallucination_check_ask,
@@ -57,7 +58,7 @@ class BattleHistory:
         return True
         
 
-    def check_hallucination(self, next_part, action_prompt):         
+    def check_hallucination(self, next_part, action_prompt, info):         
         story = "\n".join(self.generated_story_history)
         battle_logs = "\n".join(self.battle_logs)
         prompt = f"You are Gary in a pokemon battle against Ash, You are responding to the actions in the battle in a disrespectful/trash talking tone. This is the current round of the battle: \n\n {action_prompt}"
