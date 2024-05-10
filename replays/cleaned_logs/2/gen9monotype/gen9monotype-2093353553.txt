@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Breloom
 Player B sent out Braviary
 Turn 1:
-Player A: Breloom used Spore
+Player A: Breloom used Spore on Braviary and they are now asleep
 Player B: Braviary can't move because it is asleep
 Turn 2:
 Player B: Switched out Braviary for Porygon2
@@ -16,7 +16,7 @@ Player A: Scrafty used Knock Off on Ursaluna for 26 damage
 Turn 5:
 Player B: Ursaluna used Drain Punch on Scrafty for 38 damage (supereffective)
 Player B: Ursaluna used Drain Punch and healed for 21
-Player A: Scrafty used Bulk Up on self
+Player A: Scrafty used Bulk Up on Scrafty
 Turn 6:
 Player B: Ursaluna used Trailblaze on Scrafty for 5 damage
 Player A: Scrafty used Drain Punch on Ursaluna for 62 damage (supereffective)
@@ -38,11 +38,11 @@ Turn 10:
 Player A: Switched out Okidogi for Cobalion
 Player B: Braviary can't move because it is asleep
 Turn 11:
-Player A: Cobalion used Stealth Rock on self
+Player A: Cobalion used Stealth Rock on Braviary
 Player B: Braviary can't move because it is asleep
 Turn 12:
 Player A: Switched out Cobalion for Breloom
-Player B: Braviary used Defog on self
+Player B: Braviary used Defog on Breloom
 Turn 13:
 Player B: Switched out Braviary for Ditto
 Player A: Breloom used Spore but it had no effect on Ditto
@@ -83,18 +83,18 @@ Turn 24:
 Player A: Switched out Scrafty for Breloom
 Player B: Braviary used Roost and healed for 50
 Turn 25:
-Player A: Breloom used Spore
+Player A: Breloom used Spore on Braviary and they are now asleep
 Player B: Braviary can't move because it is asleep
 Turn 26:
 Player A: Switched out Breloom for Cobalion
 Player B: Switched out Braviary for Ditto
 Turn 27:
-Player A: Cobalion used Stealth Rock on self
+Player A: Cobalion used Stealth Rock on Ditto
 Player B: Ditto used Volt Switch on Cobalion for 28 damage
 Player B: Switched out Ditto for Blissey
 Turn 28:
 Player A: Switched out Cobalion for Breloom
-Player B: Blissey used Stealth Rock on self
+Player B: Blissey used Stealth Rock on Breloom
 Turn 29:
 Player A: Breloom used Bullet Seed on Blissey for 18 damage
 Player B: Blissey used Seismic Toss on Breloom for 38 damage

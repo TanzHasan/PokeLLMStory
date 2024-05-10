@@ -2,13 +2,13 @@ Battle start:
 Player A sent out Tinkatuff
 Player B sent out Cutiefly
 Turn 1:
-Player B: Cutiefly used Sticky Web on self
-Player A: Tinkatuff used Stealth Rock on self
+Player B: Cutiefly used Sticky Web on Tinkatuff
+Player A: Tinkatuff used Stealth Rock on Cutiefly
 Turn 2:
 Player B: Cutiefly used Moonblast on Tinkatuff for 8 damage
 Player A: Tinkatuff used Play Rough on Cutiefly for 61 damage
 Turn 3:
-Player B: Cutiefly used Switcheroo on self
+Player B: Cutiefly used Switcheroo on Tinkatuff
 Player A: Tinkatuff used Play Rough on Cutiefly for 38 damage
 Turn 4:
 Player B: Cutiefly used Pounce on Tinkatuff for 2 damage
@@ -23,12 +23,13 @@ Player B: Switched out Piloswine for Misdreavus
 Player A: Quaxwell used Roost and healed for 30
 Turn 7:
 Player A: Switched out Quaxwell for Girafarig
+Player B: Misdreavus used Substitute on Misdreavus
 Turn 8:
-Player B: Misdreavus used Nasty Plot on self
-Player A: Girafarig used Psychic on self
+Player B: Misdreavus used Nasty Plot on Misdreavus
+Player A: Girafarig used Psychic on Misdreavus
 Turn 9:
-Player B: Misdreavus used Nasty Plot on self
-Player A: Girafarig used Psychic on Misdreavus for 36 damage
+Player B: Misdreavus used Nasty Plot on Misdreavus
+Player A: Girafarig used Psychic on Misdreavus for 73 damage
 Turn 10:
 Player B: Misdreavus used Draining Kiss on Girafarig for 41 damage
 Player B: Misdreavus used Draining Kiss and healed for 34
@@ -43,6 +44,7 @@ Player B: Misdreavus used Draining Kiss and healed for 10
 Player A: Girafarig fainted
 Player A: Switched out Girafarig for Gligar
 Turn 13:
+Player B: Misdreavus used Substitute on Misdreavus
 Player A: Gligar used Knock Off
 Turn 14:
 Player B: Misdreavus used Shadow Ball on Gligar for 100 damage

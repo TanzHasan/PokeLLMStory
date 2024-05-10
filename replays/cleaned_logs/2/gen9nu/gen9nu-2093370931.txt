@@ -3,10 +3,10 @@ Player A sent out Ambipom
 Player B sent out Chansey
 Turn 1:
 Player A: Ambipom used Fake Out on Chansey for 21 damage
-Player B: Chansey can't move because flinch
+Player B: Chansey can't move because it is flinch
 Turn 2:
 Player A: Ambipom used Double Hit on Chansey but it missed
-Player B: Chansey used Stealth Rock on self
+Player B: Chansey used Stealth Rock on Ambipom
 Turn 3:
 Player A: Ambipom used Double Hit on Chansey but it missed
 Player B: Chansey used Seismic Toss on Ambipom for 34 damage
@@ -18,22 +18,22 @@ Player B: Switched out Chansey for Slowbro
 Player A: Ambipom used Double Hit on Slowbro for 21 damage
 Turn 6:
 Player A: Ambipom used Trailblaze on Slowbro for 27 damage (supereffective)
-Player B: Slowbro used Future Sight on self
+Player B: Slowbro used Future Sight on Ambipom
 Turn 7:
 Player B: Switched out Slowbro for Dragalge
 Player A: Ambipom used Double Hit on Dragalge but it missed
 Turn 8:
 Player A: Switched out Ambipom for Krookodile
-Player B: Dragalge used Toxic Spikes on self
+Player B: Dragalge used Toxic Spikes on Krookodile
 Turn 9:
 Player B: Switched out Dragalge for Umbreon
 Player A: Krookodile used Earthquake on Umbreon for 41 damage
 Turn 10:
 Player A: Switched out Krookodile for Galvantula
-Player B: Umbreon used Toxic
+Player B: Umbreon used Toxic on Galvantula and they are now badly poisoned
 Turn 11:
-Player A: Galvantula used Sticky Web on self
-Player B: Umbreon used Wish on self
+Player A: Galvantula used Sticky Web on Umbreon
+Player B: Umbreon used Wish on Umbreon
 Turn 12:
 Player A: Switched out Galvantula for Krookodile
 Player B: Switched out Umbreon for Chansey

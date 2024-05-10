@@ -2,42 +2,42 @@ Battle start:
 Player A sent out Dudunsparce-Three-Segment
 Player B sent out Arceus-Psychic
 Turn 1:
-Player B: Arceus-Psychic used Cosmic Power on self
-Player A: Dudunsparce-Three-Segment used Glare
+Player B: Arceus-Psychic used Cosmic Power on Arceus-Psychic
+Player A: Dudunsparce-Three-Segment used Glare on Arceus-Psychic and they are now paralyzed
 Turn 2:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 49 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 3:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 46 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 4:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 42 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 5:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 48 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 6:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 45 damage
 Player B: Arceus-Psychic used Recover and healed for 140
 Turn 7:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 45 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 8:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 48 damage
 Player B: Arceus-Psychic can't move because it is paralyzed
 Turn 9:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic for 43 damage
-Player B: Arceus-Psychic can't move because flinch
+Player B: Arceus-Psychic can't move because it is flinch
 Turn 10:
 Player A: Dudunsparce-Three-Segment used Headbutt on Arceus-Psychic and crit for 54 damage
 Player B: Arceus-Psychic fainted
 Player B: Switched out Arceus-Psychic for Grimmsnarl
 Turn 11:
 Player A: Switched out Dudunsparce-Three-Segment for Heatran
-Player B: Grimmsnarl used Thunder Wave
+Player B: Grimmsnarl used Thunder Wave on Heatran and they are now paralyzed
 Turn 12:
 Player B: Switched out Grimmsnarl for Cramorant
-Player A: Heatran used Stealth Rock on self
+Player A: Heatran used Stealth Rock on Cramorant
 Turn 13:
 Player A: Switched out Heatran for Palossand
 Player B: Cramorant used Surf on Palossand for 204 damage (supereffective)
@@ -60,7 +60,7 @@ Turn 18:
 Player B: Cramorant used Surf on Heatran for 170 damage (supereffective)
 Player A: Heatran used Magma Storm on Cramorant for 53 damage
 Turn 19:
-Player B: Cramorant used Surf on Heatran for 35 damage (supereffective)
+Player B: Cramorant used Surf on Heatran for 103 damage (supereffective)
 Player A: Heatran fainted
 Player A: Switched out Heatran for Torterra
 Turn 20:
@@ -78,9 +78,9 @@ Player A: Switched out Roaring Moon for Dudunsparce-Three-Segment
 Player B: Grimmsnarl used Thunder Wave on Dudunsparce-Three-Segment but it missed
 Turn 24:
 Player B: Grimmsnarl used Spirit Break on Dudunsparce-Three-Segment for 93 damage
-Player A: Dudunsparce-Three-Segment used Glare
+Player A: Dudunsparce-Three-Segment used Glare on Grimmsnarl and they are now paralyzed
 Turn 25:
-Player B: Grimmsnarl used Thunder Wave
+Player B: Grimmsnarl used Thunder Wave on Dudunsparce-Three-Segment and they are now paralyzed
 Player A: Dudunsparce-Three-Segment can't move because it is paralyzed
 Turn 26:
 Player B: Grimmsnarl used Throat Chop on Dudunsparce-Three-Segment for 64 damage
@@ -104,7 +104,7 @@ Turn 31:
 Player B: Switched out Mesprit for Dipplin
 Player A: Annihilape used Rage Fist on Dipplin for 112 damage
 Turn 32:
-Player A: Annihilape used Bulk Up on self
+Player A: Annihilape used Bulk Up on Annihilape
 Player B: Dipplin used Giga Drain on Annihilape for 88 damage
 Player B: Dipplin used Giga Drain and healed for 44
 Turn 33:
@@ -116,7 +116,7 @@ Player A: Annihilape used Rage Fist on Dipplin for 156 damage
 Player B: Dipplin fainted
 Player B: Switched out Dipplin for Grimmsnarl
 Turn 35:
-Player B: Grimmsnarl used Thunder Wave
+Player B: Grimmsnarl used Thunder Wave on Annihilape and they are now paralyzed
 Player A: Annihilape used Rage Fist on Grimmsnarl for 111 damage
 Player B: Grimmsnarl fainted
 Player B: Switched out Grimmsnarl for Cramorant
@@ -128,7 +128,7 @@ Player B: Cramorant used Surf on Annihilape for 30 damage
 Player A: Annihilape fainted
 Player A: Switched out Annihilape for Roaring Moon
 Turn 38:
-Player A: Roaring Moon used Outrage on Cramorant for 143 damage
+Player A: Roaring Moon used Outrage on Cramorant for 208 damage
 Player B: Cramorant fainted
 Player B: Switched out Cramorant for Mesprit
 Turn 39:

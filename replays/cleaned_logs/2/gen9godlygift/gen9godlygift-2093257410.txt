@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Hatterene
 Player B sent out Glimmora
 Turn 1:
-Player B: Glimmora used Mortal Spin on Hatterene for 11 damage (supereffective)
+Player B: Glimmora used Mortal Spin on Hatterene for 11 damage and they are now poisoned (supereffective)
 Player A: Hatterene used Psyshock on Glimmora for 97 damage (supereffective)
 Turn 2:
 Player B: Switched out Glimmora for Calyrex-Ice
@@ -10,7 +10,7 @@ Player A: Hatterene used Draining Kiss on Calyrex-Ice for 20 damage
 Player A: Hatterene used Draining Kiss and healed for 10
 Turn 3:
 Player B: Calyrex-Ice used Glacial Lance on Hatterene for 87 damage
-Player A: Hatterene used Calm Mind on self
+Player A: Hatterene used Calm Mind on Hatterene
 Turn 4:
 Player A: Hatterene used Mystical Fire on Calyrex-Ice for 55 damage (supereffective)
 Player B: Calyrex-Ice used High Horsepower on Hatterene for 12 damage
@@ -22,8 +22,8 @@ Player A: Zacian-Crowned used Behemoth Blade on Glimmora for 3 damage (supereffe
 Player B: Calyrex-Ice fainted
 Player B: Switched out Calyrex-Ice for Blaziken
 Turn 6:
-Player B: Blaziken used Protect on self
-Player A: Zacian-Crowned used Swords Dance on self
+Player B: Blaziken used Protect on Blaziken
+Player A: Zacian-Crowned used Swords Dance on Zacian-Crowned
 Turn 7:
 Player A: Zacian-Crowned used Play Rough on Blaziken and crit for 100 damage
 Player B: Blaziken fainted

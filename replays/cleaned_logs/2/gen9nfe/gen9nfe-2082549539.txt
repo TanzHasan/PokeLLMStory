@@ -2,8 +2,8 @@ Battle start:
 Player A sent out Duosion
 Player B sent out Charjabug
 Turn 1:
-Player B: Charjabug used Sticky Web on self
-Player A: Duosion used Trick Room on self
+Player B: Charjabug used Sticky Web on Duosion
+Player A: Duosion used Trick Room on Duosion
 Turn 2:
 Player A: Duosion used Psychic on Charjabug for 50 damage
 Player B: Charjabug used Skitter Smack on Duosion for 66 damage (supereffective)
@@ -17,14 +17,14 @@ Player A: Brionne used Hyper Voice on Charjabug for 21 damage
 Player B: Charjabug fainted
 Player B: Switched out Charjabug for Morgrem
 Turn 5:
-Player B: Morgrem used Parting Shot on self
+Player B: Morgrem used Parting Shot on Brionne
 Player B: Switched out Morgrem for Sliggoo-Hisui
 Player A: Brionne used Hyper Voice on Sliggoo-Hisui for 14 damage
 Turn 6:
 Player A: Switched out Brionne for Tinkatuff
 Player B: Sliggoo-Hisui used Iron Head on Tinkatuff for 21 damage
 Turn 7:
-Player A: Tinkatuff used Stealth Rock on self
+Player A: Tinkatuff used Stealth Rock on Sliggoo-Hisui
 Player B: Sliggoo-Hisui used Iron Head on Tinkatuff for 22 damage
 Turn 8:
 Player A: Switched out Tinkatuff for Monferno
@@ -39,33 +39,34 @@ Player A: Switched out Monferno for Metang
 Player B: Dartrix used Brave Bird on Metang for 22 damage
 Turn 11:
 Player B: Switched out Dartrix for Morgrem
-Player A: Metang used Agility on self
+Player A: Metang used Agility on Metang
 Turn 12:
-Player B: Morgrem used Reflect on self
+Player B: Morgrem used Reflect on Morgrem
 Player A: Metang used Iron Head on Morgrem for 48 damage (supereffective)
 Turn 13:
 Player B: Switched out Morgrem for Wartortle
 Player A: Metang used Iron Head on Wartortle for 23 damage
 Turn 14:
 Player A: Metang used Earthquake on Wartortle for 16 damage
+Player B: Wartortle used Substitute on Wartortle
 Turn 15:
-Player A: Metang used Earthquake on self
-Player B: Wartortle used Shell Smash on self
+Player A: Metang used Earthquake on Wartortle
+Player B: Wartortle used Shell Smash on Wartortle
 Turn 16:
-Player A: Metang used Earthquake on self
+Player A: Metang used Earthquake on Wartortle
 Player B: Wartortle used Surf on Metang for 78 damage
 Player A: Metang fainted
 Player A: Switched out Metang for Monferno
 Turn 17:
-Player A: Monferno used Fake Out on Wartortle for 7 damage
-Player B: Wartortle can't move because flinch
+Player A: Monferno used Fake Out on Wartortle for 32 damage
+Player B: Wartortle can't move because it is flinch
 Turn 18:
 Player B: Wartortle used Surf on Monferno for 73 damage (supereffective)
 Player A: Monferno fainted
 Player A: Switched out Monferno for Tinkatuff
 Turn 19:
 Player A: Tinkatuff used Fake Out on Wartortle for 4 damage
-Player B: Wartortle can't move because flinch
+Player B: Wartortle can't move because it is flinch
 Turn 20:
 Player B: Wartortle used Surf on Tinkatuff for 57 damage
 Player A: Tinkatuff fainted
@@ -76,14 +77,14 @@ Player A: Brionne used Moonblast on Wartortle for 25 damage
 Player B: Wartortle fainted
 Player B: Switched out Wartortle for Morgrem
 Turn 22:
-Player B: Morgrem used Light Screen on self
+Player B: Morgrem used Light Screen on Morgrem
 Player A: Brionne used Flip Turn on Morgrem for 29 damage
 Player A: Switched out Brionne for Servine
 Turn 23:
 Player B: Switched out Morgrem for Sliggoo-Hisui
-Player A: Servine used Leaf Storm on self
+Player A: Servine used Leaf Storm on Sliggoo-Hisui
 Turn 24:
-Player A: Servine used Glare
+Player A: Servine used Glare on Sliggoo-Hisui and they are now paralyzed
 Player B: Sliggoo-Hisui used Iron Head on Servine for 47 damage
 Turn 25:
 Player A: Switched out Servine for Brionne
@@ -97,16 +98,16 @@ Player B: Sliggoo-Hisui used Iron Head on Brionne for 10 damage
 Player A: Brionne fainted
 Player A: Switched out Brionne for Servine
 Turn 28:
-Player A: Servine used Leech Seed on self
+Player A: Servine used Leech Seed on Sliggoo-Hisui
 Player B: Sliggoo-Hisui used Rest and healed for 12
 Turn 29:
 Player A: Servine used Tera Blast on Sliggoo-Hisui for 2 damage
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
 Player B: Sliggoo-Hisui used Draco Meteor on Servine for 29 damage
 Turn 30:
 Player A: Servine used Tera Blast on Sliggoo-Hisui for 2 damage
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
 Player B: Sliggoo-Hisui used Iron Head on Servine for 24 damage
 Player A: Servine fainted

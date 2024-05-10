@@ -10,12 +10,12 @@ Player A: Magearna used Stone Axe on Guzzlord for 7 damage
 Turn 3:
 Player B: Guzzlord used Volt Switch on Magearna for 17 damage
 Player B: Switched out Guzzlord for Regidrago
-Player A: Magearna used Mortal Spin on Regidrago for 22 damage
+Player A: Magearna used Mortal Spin on Regidrago for 22 damage and they are now poisoned
 Turn 4:
-Player B: Regidrago used Baneful Bunker on self
-Player A: Magearna used Springtide Storm on self
+Player B: Regidrago used Baneful Bunker on Regidrago
+Player A: Magearna used Springtide Storm on Regidrago
 Turn 5:
-Player B: Regidrago used Destiny Bond on self
+Player B: Regidrago used Destiny Bond on Regidrago
 Player A: Magearna used Springtide Storm on Regidrago for 78 damage (supereffective)
 Player B: Regidrago fainted
 Player A: Magearna fainted
@@ -27,13 +27,13 @@ Player A: Switched out Necrozma-Ultra for Kyurem-Black
 Player B: Tyranitar-Mega used Strength Sap and healed for 34
 Turn 7:
 Player A: Kyurem-Black used Fake Out on Tyranitar-Mega for 12 damage
-Player B: Tyranitar-Mega can't move because flinch
+Player B: Tyranitar-Mega can't move because it is flinch
 Turn 8:
 Player A: Switched out Kyurem-Black for Garchomp-Mega
 Player B: Tyranitar-Mega used Jaw Lock on Garchomp-Mega for 29 damage
 Turn 9:
 Player A: Garchomp-Mega used Headlong Rush on Tyranitar-Mega for 74 damage (supereffective)
-Player B: Tyranitar-Mega used Strength Sap on self
+Player B: Tyranitar-Mega used Strength Sap on Garchomp-Mega
 Player A: Garchomp-Mega used Strength Sap and healed for 29
 Turn 10:
 Player A: Garchomp-Mega used Headlong Rush on Tyranitar-Mega for 14 damage (supereffective)
@@ -49,7 +49,7 @@ Player B: Sceptile-Mega fainted
 Player B: Switched out Sceptile-Mega for Guzzlord
 Turn 13:
 Player B: Guzzlord used Fake Out on Kyurem-Black for 20 damage
-Player A: Kyurem-Black can't move because flinch
+Player A: Kyurem-Black can't move because it is flinch
 Turn 14:
 Player A: Kyurem-Black used Extreme Speed on Guzzlord for 45 damage
 Player B: Guzzlord used Hyper Drill on Kyurem-Black for 45 damage
@@ -62,5 +62,5 @@ Player A: Switched out Kyurem-Black for Greninja-Ash
 Player B: Switched out Guzzlord for Arceus
 Turn 16:
 Player A: Greninja-Ash used Surging Strikes on Arceus and crit for 25 damage
-Player B: Arceus used Take Heart on self
+Player B: Arceus used Take Heart on Arceus
 Turn 17:

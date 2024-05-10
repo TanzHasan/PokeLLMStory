@@ -3,18 +3,19 @@ Player A sent out Decidueye-Hisui
 Player B sent out Regirock
 Turn 1:
 Player A: Decidueye-Hisui used Triple Arrows on Regirock and crit for 65 damage (supereffective)
-Player B: Regirock can't move because flinch
+Player B: Regirock can't move because it is flinch
 Turn 2:
 Player B: Switched out Regirock for Mismagius
 Player A: Decidueye-Hisui used Triple Arrows on Mismagius for 67 damage
 Turn 3:
 Player B: Mismagius used Draining Kiss on Decidueye-Hisui for 37 damage (supereffective)
-Player A: Decidueye-Hisui used Triple Arrows on Mismagius for 61 damage
+Player B: Mismagius used Draining Kiss and healed for 38
+Player A: Decidueye-Hisui used Triple Arrows on Mismagius for 71 damage
 Player B: Mismagius fainted
 Player B: Switched out Mismagius for Zangoose
 Turn 4:
-Player B: Zangoose used Protect on self
-Player A: Decidueye-Hisui used Triple Arrows on self
+Player B: Zangoose used Protect on Zangoose
+Player A: Decidueye-Hisui used Triple Arrows on Zangoose
 Turn 5:
 Player A: Switched out Decidueye-Hisui for Hoopa
 Player B: Zangoose used Facade but it had no effect on Hoopa
@@ -60,13 +61,13 @@ Player A: Scyther fainted
 Player A: Switched out Scyther for Morpeko
 Turn 15:
 Player A: Morpeko used Fake Out on Sandslash-Alola for -2 damage
-Player B: Sandslash-Alola can't move because flinch
+Player B: Sandslash-Alola can't move because it is flinch
 Turn 16:
 Player A: Morpeko used Charge Beam on Sandslash-Alola for 22 damage
 Player B: Sandslash-Alola used Earthquake on Morpeko for 100 damage (supereffective)
 Player A: Morpeko fainted
 Player A: Switched out Morpeko for Lapras
 Turn 17:
-Player B: Sandslash-Alola used Swords Dance on self
+Player B: Sandslash-Alola used Swords Dance on Sandslash-Alola
 Player A: Lapras used Earthquake on Sandslash-Alola and crit for 51 damage (supereffective)
 Player B: Sandslash-Alola fainted

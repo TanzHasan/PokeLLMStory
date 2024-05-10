@@ -1,0 +1,168 @@
+Battle start:
+Player A sent out Qwilfish
+Player B sent out Ampharos
+Turn 1:
+Player A: Switched out Qwilfish for Rhydon
+Player B: Ampharos used Thunder but it had no effect on Rhydon
+Turn 2:
+Player B: Switched out Ampharos for Lickitung
+Player A: Rhydon used Curse on Rhydon
+Turn 3:
+Player B: Lickitung used Surf on Rhydon for 85 damage (supereffective)
+Player A: Rhydon used Earthquake on Lickitung for 67 damage
+Turn 4:
+Player A: Switched out Rhydon for Qwilfish
+Player B: Lickitung used Rest and healed for 67
+Turn 5:
+Player A: Qwilfish used Spikes on Lickitung
+Player B: Lickitung can't move because it is asleep
+Player B: Lickitung used Sleep Talk on Lickitung
+Turn 6:
+Player A: Qwilfish used Curse on Qwilfish
+Player B: Lickitung can't move because it is asleep
+Player B: Lickitung used Sleep Talk on Lickitung
+Turn 7:
+Player A: Qwilfish used Curse on Qwilfish
+Player B: Lickitung used Earthquake on Qwilfish and crit for 77 damage (supereffective)
+Turn 8:
+Player B: Lickitung used Earthquake on Qwilfish for 13 damage (supereffective)
+Player A: Qwilfish used Sludge Bomb on Lickitung for 62 damage
+Turn 9:
+Player B: Lickitung used Earthquake on Qwilfish for 10 damage (supereffective)
+Player A: Qwilfish fainted
+Player A: Switched out Qwilfish for Rhydon
+Turn 10:
+Player A: Rhydon used Earthquake on Lickitung for 32 damage
+Player B: Lickitung used Surf on Rhydon for 15 damage (supereffective)
+Player A: Rhydon fainted
+Player A: Switched out Rhydon for Raichu
+Turn 11:
+Player A: Raichu used Surf on Lickitung for 6 damage
+Player B: Lickitung fainted
+Player B: Switched out Lickitung for Tauros
+Turn 12:
+Player B: Tauros used Earthquake on Raichu for 65 damage (supereffective)
+Player A: Raichu used Thunder on Tauros for 55 damage
+Turn 13:
+Player A: Switched out Raichu for Shuckle
+Player B: Tauros used Earthquake on Shuckle for 16 damage
+Turn 14:
+Player B: Switched out Tauros for Golem
+Player A: Shuckle used Toxic on Golem and they are now badly poisoned
+Turn 15:
+Player B: Golem used Rock Slide on Shuckle for 28 damage (supereffective)
+Player A: Shuckle used Defense Curl on Shuckle
+Turn 16:
+Player B: Golem used Rock Slide on Shuckle but it missed
+Player A: Shuckle used Defense Curl on Shuckle
+Turn 17:
+Player A: Shuckle used Rest and healed for 44
+Player B: Golem used Roar on Shuckle
+Player A: Shuckle got dragged out for Umbreon by opponent's move
+Turn 18:
+Player A: Umbreon used Growth on Umbreon
+Player B: Golem used Earthquake on Umbreon for 29 damage
+Turn 19:
+Player A: Umbreon used Hidden Power on Golem for 76 damage
+Player B: Golem used Roar on Umbreon
+Player A: Umbreon got dragged out for Alakazam by opponent's move
+Player B: Golem fainted
+Player B: Switched out Golem for Ampharos
+Turn 20:
+Player A: Switched out Alakazam for Shuckle
+Turn 21:
+Player B: Switched out Ampharos for Cloyster
+Player A: Shuckle can't move because it is asleep
+Turn 22:
+Player B: Cloyster used Spikes on Shuckle
+Player A: Shuckle can't move because it is asleep
+Turn 23:
+Player B: Cloyster used Surf on Shuckle for 42 damage (supereffective)
+Player A: Shuckle used Toxic on Cloyster but it missed
+Turn 24:
+Player B: Cloyster used Surf on Shuckle for 37 damage (supereffective)
+Player A: Shuckle used Toxic on Cloyster and they are now badly poisoned
+Turn 25:
+Player A: Switched out Shuckle for Raichu
+Player B: Cloyster used Surf on Raichu for 35 damage
+Player A: Shuckle fainted
+Player A: Switched out Shuckle for Umbreon
+Turn 26:
+Player B: Cloyster used Toxic on Umbreon and they are now badly poisoned
+Player A: Umbreon used Moonlight and healed for 29
+Turn 27:
+Player B: Cloyster used Surf on Umbreon for 23 damage
+Player A: Umbreon used Growth on Umbreon
+Turn 28:
+Player B: Cloyster used Surf on Umbreon and crit for 52 damage
+Player A: Umbreon used Moonlight and healed for 50
+Turn 29:
+Player A: Switched out Umbreon for Shuckle
+Player B: Cloyster used Explosion on Shuckle for 21 damage
+Player B: Cloyster fainted
+Player A: Umbreon fainted
+Player B: Switched out Cloyster for Ampharos
+Player A: Switched out Umbreon for Umbreon
+Turn 30:
+Player A: Umbreon used Moonlight and healed for 25
+Player B: Ampharos used Thunder on Umbreon for 43 damage
+Turn 31:
+Player A: Umbreon used Moonlight and healed for 43
+Player B: Ampharos used Thunder on Umbreon for 44 damage
+Turn 32:
+Player A: Umbreon used Moonlight and healed for 44
+Player B: Ampharos used Thunder on Umbreon but it missed
+Turn 33:
+Player A: Umbreon used Growth on Umbreon
+Player B: Ampharos used Thunder on Umbreon but it missed
+Turn 34:
+Player A: Umbreon used Growth on Umbreon
+Player B: Ampharos used Thunder on Umbreon for 60 damage
+Turn 35:
+Player A: Umbreon used Moonlight and healed for 56
+Turn 36:
+Player A: Umbreon used Growth on Umbreon
+Player B: Ampharos used Thunder on Umbreon for 49 damage
+Turn 37:
+Player A: Umbreon used Moonlight and healed for 53
+Turn 38:
+Player A: Umbreon used Baton Pass on Umbreon
+Player A: Switched out Umbreon for Alakazam
+Player B: Ampharos used Thunder on Alakazam but it missed
+Turn 39:
+Player A: Alakazam used Psychic on Ampharos for 91 damage
+Player B: Ampharos used Thunder Wave on Alakazam and they are now paralyzed
+Turn 40:
+Player B: Ampharos used Rest and healed for 91
+Player A: Alakazam can't move because it is paralyzed
+Turn 41:
+Player B: Ampharos can't move because it is asleep
+Player A: Alakazam used Psychic on Ampharos for 93 damage
+Turn 42:
+Player B: Ampharos can't move because it is asleep
+Player B: Ampharos used Sleep Talk on Ampharos
+Player B: Ampharos used Thunder Wave but it failed
+Player A: Alakazam can't move because it is paralyzed
+Turn 43:
+Player B: Ampharos used Rest and healed for 93
+Player A: Alakazam can't move because it is paralyzed
+Turn 44:
+Player B: Ampharos can't move because it is asleep
+Player B: Ampharos used Sleep Talk on Ampharos
+Player A: Alakazam used Psychic on Ampharos and crit for 100 damage
+Player B: Ampharos fainted
+Player B: Switched out Ampharos for Tauros
+Turn 45:
+Player B: Tauros used Rest and healed for 55
+Player A: Alakazam can't move because it is paralyzed
+Turn 46:
+Player B: Tauros can't move because it is asleep
+Player B: Tauros used Sleep Talk on Tauros
+Player B: Tauros used Earthquake on Alakazam for 37 damage
+Player A: Alakazam used Psychic on Tauros for 100 damage
+Player B: Tauros fainted
+Player B: Switched out Tauros for Gengar
+Turn 47:
+Player B: Gengar used Thunderbolt on Alakazam for 27 damage
+Player A: Alakazam used Psychic on Gengar for 100 damage (supereffective)
+Player B: Gengar fainted

@@ -35,7 +35,7 @@ Player A: Armarouge fainted
 Player A: Switched out Armarouge for Slowking-Galar
 Turn 8:
 Player B: Terrakion used Stone Edge on Slowking-Galar for 80 damage
-Player A: Slowking-Galar used Sludge Bomb on Terrakion for 18 damage
+Player A: Slowking-Galar used Sludge Bomb on Terrakion for 18 damage and they are now poisoned
 Turn 9:
 Player B: Terrakion used Stone Edge on Slowking-Galar for 20 damage
 Player A: Slowking-Galar fainted

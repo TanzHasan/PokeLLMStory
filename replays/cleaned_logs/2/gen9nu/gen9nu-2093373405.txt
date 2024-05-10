@@ -3,7 +3,7 @@ Player A sent out Galvantula
 Player B sent out Ambipom
 Turn 1:
 Player B: Ambipom used Fake Out on Galvantula for 58 damage
-Player A: Galvantula can't move because flinch
+Player A: Galvantula can't move because it is flinch
 Turn 2:
 Player B: Ambipom used Double Hit on Galvantula for 42 damage
 Player A: Galvantula fainted

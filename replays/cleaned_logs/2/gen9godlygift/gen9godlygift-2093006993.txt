@@ -20,7 +20,7 @@ Player A: Alomomola used Flip Turn on Zapdos for 9 damage
 Player A: Switched out Alomomola for Dragapult
 Turn 6:
 Player A: Dragapult used Shadow Ball on Zapdos for 57 damage
-Player B: Zapdos used Discharge on Dragapult for 20 damage
+Player B: Zapdos used Discharge on Dragapult for 20 damage and they are now paralyzed
 Turn 7:
 Player A: Switched out Dragapult for Iron Hands
 Player B: Zapdos used Roost and healed for 50
@@ -28,7 +28,7 @@ Turn 8:
 Player A: Iron Hands used Ice Punch on Zapdos for 33 damage (supereffective)
 Player B: Zapdos used Hurricane on Iron Hands but it missed
 Turn 9:
-Player A: Iron Hands used Swords Dance on self
+Player A: Iron Hands used Swords Dance on Iron Hands
 Player B: Zapdos used U-turn on Iron Hands for 4 damage
 Player B: Switched out Zapdos for Dragapult
 Turn 10:
@@ -40,9 +40,9 @@ Player A: Alomomola used Flip Turn on Zapdos for 9 damage
 Player A: Switched out Alomomola for Iron Hands
 Turn 12:
 Player B: Switched out Zapdos for Hatterene
-Player A: Iron Hands used Swords Dance on self
+Player A: Iron Hands used Swords Dance on Iron Hands
 Turn 13:
-Player A: Iron Hands used Thunder Punch on Hatterene for 54 damage
+Player A: Iron Hands used Thunder Punch on Hatterene for 54 damage and they are now paralyzed
 Player B: Hatterene used Draining Kiss on Iron Hands for 43 damage (supereffective)
 Player B: Hatterene used Draining Kiss and healed for 40
 Turn 14:
@@ -54,7 +54,7 @@ Player A: Switched out Alomomola for Arceus-Ground
 Player B: Hatterene can't move because it is paralyzed
 Turn 16:
 Player B: Switched out Hatterene for Zapdos
-Player A: Arceus-Ground used Calm Mind on self
+Player A: Arceus-Ground used Calm Mind on Arceus-Ground
 Turn 17:
 Player B: Switched out Zapdos for Chien-Pao
 Player A: Arceus-Ground used Power Gem on Chien-Pao for 100 damage (supereffective)
@@ -75,13 +75,13 @@ Player B: Dragapult used Shadow Ball on Arceus-Ground for 33 damage
 Player A: Arceus-Ground used Recover and healed for 50
 Turn 22:
 Player B: Dragapult used Shadow Ball on Arceus-Ground for 31 damage
-Player A: Arceus-Ground used Calm Mind on self
+Player A: Arceus-Ground used Calm Mind on Arceus-Ground
 Turn 23:
 Player B: Dragapult used Shadow Ball on Arceus-Ground for 24 damage
 Player A: Arceus-Ground used Recover and healed for 50
 Turn 24:
 Player B: Dragapult used Shadow Ball on Arceus-Ground for 24 damage
-Player A: Arceus-Ground used Calm Mind on self
+Player A: Arceus-Ground used Calm Mind on Arceus-Ground
 Turn 25:
 Player B: Dragapult used Shadow Ball on Arceus-Ground for 20 damage
 Player A: Arceus-Ground used Recover and healed for 50

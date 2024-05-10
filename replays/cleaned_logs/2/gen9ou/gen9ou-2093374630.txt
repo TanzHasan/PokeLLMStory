@@ -7,10 +7,10 @@ Player B: Switched out Dragapult for Iron Crown
 Player A: Clefable used Moonblast on Iron Crown for 10 damage
 Turn 2:
 Player A: Switched out Clefable for Ting-Lu
-Player B: Iron Crown used Future Sight on self
+Player B: Iron Crown used Future Sight on Ting-Lu
 Turn 3:
 Player B: Switched out Iron Crown for Samurott-Hisui
-Player A: Ting-Lu used Spikes on self
+Player A: Ting-Lu used Spikes on Samurott-Hisui
 Turn 4:
 Player A: Switched out Ting-Lu for Clefable
 Player B: Samurott-Hisui used Knock Off on Clefable for 20 damage
@@ -18,7 +18,7 @@ Turn 5:
 Player B: Samurott-Hisui used Ceaseless Edge on Clefable for 60 damage
 Player A: Clefable used Moonlight and healed for 50
 Turn 6:
-Player B: Samurott-Hisui used Encore on self
+Player B: Samurott-Hisui used Encore on Clefable
 Player A: Clefable used Moonlight and healed for 48
 Turn 7:
 Player A: Switched out Clefable for Zamazenta
@@ -28,15 +28,15 @@ Player B: Switched out Samurott-Hisui for Landorus-Therian
 Player A: Zamazenta used Body Press on Landorus-Therian for 20 damage
 Turn 9:
 Player A: Switched out Zamazenta for Corviknight
-Player B: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Corviknight
 Turn 10:
 Player B: Switched out Landorus-Therian for Primarina
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Primarina
 Turn 11:
 Player B: Switched out Primarina for Iron Crown
 Player A: Switched out Corviknight for Volcanion
 Turn 12:
-Player B: Iron Crown used Future Sight on self
+Player B: Iron Crown used Future Sight on Volcanion
 Player A: Volcanion used Fire Spin on Iron Crown for 30 damage (supereffective)
 Turn 13:
 Player B: Iron Crown used Volt Switch on Volcanion for 54 damage (supereffective)
@@ -70,37 +70,38 @@ Player A: Switched out Ting-Lu for Corviknight
 Player B: Samurott-Hisui used Razor Shell on Corviknight for 30 damage
 Turn 21:
 Player A: Switched out Corviknight for Zamazenta
-Player B: Samurott-Hisui used Ceaseless Edge on Zamazenta for 9 damage
+Player B: Samurott-Hisui used Ceaseless Edge on Zamazenta for 31 damage
 Turn 22:
 Player B: Switched out Samurott-Hisui for Landorus-Therian
 Player A: Zamazenta used Body Press on Landorus-Therian for 14 damage
 Turn 23:
 Player A: Switched out Zamazenta for Corviknight
-Player B: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Corviknight
 Turn 24:
 Player B: Switched out Landorus-Therian for Samurott-Hisui
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Samurott-Hisui
 Turn 25:
 Player A: Switched out Corviknight for Zamazenta
-Player B: Samurott-Hisui used Knock Off on Zamazenta for 10 damage
+Player B: Samurott-Hisui used Knock Off on Zamazenta for 20 damage
 Turn 26:
 Player B: Switched out Samurott-Hisui for Landorus-Therian
 Player A: Zamazenta used Crunch on Landorus-Therian for 10 damage
 Turn 27:
 Player A: Zamazenta used Body Press on Landorus-Therian for 13 damage
-Player B: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Zamazenta
 Turn 28:
-Player B: Landorus-Therian used U-turn on Zamazenta for 6 damage
+Player B: Landorus-Therian used U-turn on Zamazenta for 39 damage
 Player B: Switched out Landorus-Therian for Samurott-Hisui
-Player A: Zamazenta used Roar on self
+Player A: Zamazenta used Roar on Samurott-Hisui
+Player B: Landorus-Therian got dragged out for Dragapult by opponent's move
 Turn 29:
-Player B: Samurott-Hisui used U-turn on Zamazenta for 10 damage
+Player B: Dragapult used U-turn on Zamazenta for 10 damage
 Player A: Zamazenta fainted
-Player B: Switched out Samurott-Hisui for Samurott-Hisui
+Player B: Switched out Dragapult for Samurott-Hisui
 Player A: Switched out Zamazenta for Corviknight
 Turn 30:
 Player B: Samurott-Hisui used Knock Off on Corviknight for 41 damage
-Player A: Corviknight used Body Press on Samurott-Hisui for 67 damage (supereffective)
+Player A: Corviknight used Body Press on Samurott-Hisui for 100 damage (supereffective)
 Player B: Samurott-Hisui fainted
 Player B: Switched out Samurott-Hisui for Dragapult
 Turn 31:
@@ -109,7 +110,7 @@ Player A: Corviknight fainted
 Player A: Switched out Corviknight for Weavile
 Turn 32:
 Player B: Switched out Dragapult for Landorus-Therian
-Player A: Weavile used Swords Dance on self
+Player A: Weavile used Swords Dance on Weavile
 Turn 33:
 Player A: Weavile used Triple Axel on Landorus-Therian for 5 damage (supereffective)
 Player B: Landorus-Therian fainted
@@ -122,5 +123,5 @@ Player B: Dragapult used Dragon Darts on Ting-Lu for 9 damage
 Player A: Ting-Lu fainted
 Player A: Switched out Ting-Lu for Weavile
 Turn 36:
-Player B: Dragapult used Dragon Darts on Weavile and crit for 68 damage
+Player B: Dragapult used Dragon Darts on Weavile and crit for 100 damage
 Player A: Weavile fainted

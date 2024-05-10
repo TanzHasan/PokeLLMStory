@@ -6,11 +6,11 @@ Player B: Switched out Swampert for Corviknight
 Player A: Roaring Moon used Knock Off on Corviknight for 19 damage
 Turn 2:
 Player A: Roaring Moon used Knock Off on Corviknight for 15 damage
-Player B: Corviknight used U-turn on Roaring Moon for 38 damage (supereffective)
+Player B: Corviknight used U-turn on Roaring Moon for 54 damage (supereffective)
 Player B: Switched out Corviknight for Kingambit
 Turn 3:
 Player A: Switched out Roaring Moon for Corviknight
-Player B: Kingambit used Swords Dance on self
+Player B: Kingambit used Swords Dance on Kingambit
 Turn 4:
 Player B: Switched out Kingambit for Gholdengo
 Player A: Corviknight used U-turn on Gholdengo for 4 damage
@@ -46,7 +46,7 @@ Player A: Roaring Moon used U-turn on Corviknight and crit for 3 damage
 Player A: Switched out Roaring Moon for Gengar
 Turn 13:
 Player B: Switched out Corviknight for Swampert
-Player A: Gengar used Will-O-Wisp
+Player A: Gengar used Will-O-Wisp on Swampert and they are now burned
 Turn 14:
 Player A: Switched out Gengar for Manaphy
 Player B: Swampert used Flip Turn on Manaphy for 3 damage
@@ -63,7 +63,7 @@ Turn 17:
 Player B: Switched out Dragonite for Corviknight
 Player A: Manaphy used Ice Beam on Corviknight for 20 damage
 Turn 18:
-Player A: Manaphy used Scald on Corviknight for 29 damage
+Player A: Manaphy used Scald on Corviknight for 29 damage and they are now burned
 Player B: Corviknight used U-turn on Manaphy for -29 damage
 Player B: Switched out Corviknight for Ogerpon-Wellspring
 Turn 19:
@@ -89,8 +89,8 @@ Turn 24:
 Player A: Switched out Gengar for Corviknight
 Player B: Dragonite used Extreme Speed on Corviknight for 17 damage
 Turn 25:
-Player B: Dragonite used Dragon Dance on self
-Player A: Corviknight used U-turn on Dragonite for 7 damage
+Player B: Dragonite used Dragon Dance on Dragonite
+Player A: Corviknight used U-turn on Dragonite for 24 damage
 Player A: Switched out Corviknight for Deoxys-Speed
 Turn 26:
 Player B: Switched out Dragonite for Kingambit
@@ -105,16 +105,16 @@ Turn 29:
 Player A: Switched out Deoxys-Speed for Corviknight
 Player B: Kingambit used Kowtow Cleave on Corviknight for 40 damage
 Turn 30:
-Player A: Corviknight used U-turn on Kingambit for 5 damage
+Player A: Corviknight used U-turn on Kingambit for 15 damage
 Player A: Switched out Corviknight for Empoleon
-Player B: Kingambit used Swords Dance on self
+Player B: Kingambit used Swords Dance on Kingambit
 Turn 31:
 Player B: Kingambit used Kowtow Cleave on Empoleon for 36 damage
 Player A: Empoleon fainted
 Player A: Switched out Empoleon for Deoxys-Speed
 Turn 32:
 Player B: Switched out Kingambit for Swampert
-Player A: Deoxys-Speed used Superpower on Swampert for 0 damage
+Player A: Deoxys-Speed used Superpower on Swampert
 Turn 33:
 Player A: Deoxys-Speed used Expanding Force on Swampert for 26 damage
 Player B: Swampert fainted
@@ -124,7 +124,7 @@ Player A: Switched out Deoxys-Speed for Gengar
 Player B: Corviknight used Roost and healed for 43
 Turn 35:
 Player B: Switched out Corviknight for Ogerpon-Wellspring
-Player A: Gengar used Will-O-Wisp
+Player A: Gengar used Will-O-Wisp on Ogerpon-Wellspring and they are now burned
 Turn 36:
 Player A: Switched out Gengar for Manaphy
 Player B: Ogerpon-Wellspring used Horn Leech on Manaphy for 26 damage (supereffective)
@@ -145,9 +145,9 @@ Turn 40:
 Player A: Corviknight used Roost and healed for 50
 Player B: Kingambit used Kowtow Cleave on Corviknight for 42 damage
 Turn 41:
-Player A: Corviknight used U-turn on Kingambit for 3 damage
+Player A: Corviknight used U-turn on Kingambit for 1 damage
 Player A: Switched out Corviknight for Roaring Moon
-Player B: Kingambit used Swords Dance on self
+Player B: Kingambit used Swords Dance on Kingambit
 Turn 42:
 Player A: Roaring Moon used Knock Off on Kingambit for 18 damage
 Player B: Kingambit used Kowtow Cleave on Roaring Moon for 56 damage
@@ -160,12 +160,12 @@ Turn 44:
 Player A: Switched out Deoxys-Speed for Corviknight
 Player B: Switched out Corviknight for Dragonite
 Turn 45:
-Player B: Dragonite used Dragon Dance on self
+Player B: Dragonite used Dragon Dance on Dragonite
 Player A: Corviknight used U-turn on Dragonite for 6 damage
 Player A: Switched out Corviknight for Manaphy
 Turn 46:
 Player B: Dragonite used Roost and healed for 44
-Player A: Manaphy used Ice Beam on Dragonite for 39 damage (supereffective)
+Player A: Manaphy used Ice Beam on Dragonite for 39 damage and they are now frozen (supereffective)
 Turn 47:
 Player B: Dragonite can't move because it is frozen
 Player A: Manaphy used Ice Beam on Dragonite for 61 damage (supereffective)

@@ -7,23 +7,23 @@ Player B: Switched out Dragapult for Tapu Fini
 Player A: Clefable used Knock Off on Tapu Fini for 7 damage
 Turn 2:
 Player A: Switched out Clefable for Slowking-Galar
-Player B: Tapu Fini used Trick on self
+Player B: Tapu Fini used Trick on Slowking-Galar
 Turn 3:
 Player B: Switched out Tapu Fini for Landorus-Therian
 Player A: Slowking-Galar used Sludge Bomb on Landorus-Therian for 16 damage
 Turn 4:
 Player A: Switched out Slowking-Galar for Rotom-Wash
-Player B: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Rotom-Wash
 Turn 5:
 Player B: Switched out Landorus-Therian for Dragapult
-Player A: Rotom-Wash used Hydro Pump on Dragapult and crit for 41 damage
+Player A: Rotom-Wash used Hydro Pump on Dragapult and crit for 57 damage
 Turn 6:
 Player B: Dragapult used Shadow Ball on Rotom-Wash for 48 damage
 Player A: Rotom-Wash used Volt Switch on Dragapult for 18 damage
 Player A: Switched out Rotom-Wash for Clefable
 Turn 7:
 Player B: Switched out Dragapult for Melmetal
-Player A: Clefable used Stealth Rock on self
+Player A: Clefable used Stealth Rock on Melmetal
 Turn 8:
 Player A: Switched out Clefable for Tangrowth
 Player B: Switched out Melmetal for Tapu Lele
@@ -75,8 +75,8 @@ Turn 22:
 Player A: Switched out Tyranitar for Rotom-Wash
 Player B: Melmetal used Double Iron Bash on Rotom-Wash for 12 damage
 Turn 23:
-Player B: Melmetal used Protect on self
-Player A: Rotom-Wash used Pain Split on self
+Player B: Melmetal used Protect on Melmetal
+Player A: Rotom-Wash used Pain Split on Melmetal
 Turn 24:
 Player B: Switched out Melmetal for Dragapult
 Player A: Rotom-Wash used Hydro Pump on Dragapult for 25 damage
@@ -98,9 +98,9 @@ Player B: Switched out Tapu Lele for Blacephalon
 Player A: Excadrill used Rapid Spin but it had no effect on Blacephalon
 Turn 29:
 Player B: Switched out Blacephalon for Landorus-Therian
-Player A: Excadrill used Rapid Spin on Landorus-Therian for 32 damage
+Player A: Excadrill used Rapid Spin on Landorus-Therian for 43 damage
 Turn 30:
-Player A: Excadrill used Swords Dance on self
+Player A: Excadrill used Swords Dance on Excadrill
 Player B: Landorus-Therian used U-turn on Excadrill and crit for 12 damage
 Player B: Switched out Landorus-Therian for Blacephalon
 Turn 31:
@@ -112,11 +112,11 @@ Turn 32:
 Player A: Switched out Excadrill for Tangrowth
 Player B: Melmetal used Double Iron Bash on Tangrowth for 25 damage
 Turn 33:
-Player B: Melmetal used Protect on self
-Player A: Tangrowth used Sleep Powder on self
+Player B: Melmetal used Protect on Melmetal
+Player A: Tangrowth used Sleep Powder on Melmetal
 Turn 34:
 Player B: Switched out Melmetal for Blacephalon
-Player A: Tangrowth used Sleep Powder
+Player A: Tangrowth used Sleep Powder on Blacephalon and they are now asleep
 Turn 35:
 Player A: Switched out Tangrowth for Tyranitar
 Player B: Blacephalon can't move because it is asleep
@@ -129,24 +129,24 @@ Turn 37:
 Player A: Switched out Tyranitar for Tangrowth
 Player B: Melmetal used Double Iron Bash on Tangrowth for 24 damage
 Turn 38:
-Player B: Melmetal used Protect on self
-Player A: Tangrowth used Focus Blast on self
+Player B: Melmetal used Protect on Melmetal
+Player A: Tangrowth used Focus Blast on Melmetal
 Turn 39:
 Player A: Tangrowth used Focus Blast on Melmetal but it missed
 Player B: Melmetal used Double Iron Bash on Tangrowth for 16 damage
 Player A: Tangrowth fainted
 Player A: Switched out Tangrowth for Tyranitar
 Turn 40:
-Player B: Melmetal used Protect on self
-Player A: Tyranitar used Fire Punch on self
+Player B: Melmetal used Protect on Melmetal
+Player A: Tyranitar used Fire Punch on Melmetal
 Turn 41:
 Player A: Tyranitar used Fire Punch on Melmetal for 6 damage (supereffective)
 Player B: Melmetal used Thunder Punch on Tyranitar for 45 damage
 Turn 42:
 Player A: Switched out Tyranitar for Excadrill
 Turn 43:
-Player B: Melmetal used Protect on self
-Player A: Excadrill used Earthquake on self
+Player B: Melmetal used Protect on Melmetal
+Player A: Excadrill used Earthquake on Melmetal
 Turn 44:
 Player A: Excadrill used Earthquake on Melmetal for 49 damage (supereffective)
 Player B: Melmetal fainted

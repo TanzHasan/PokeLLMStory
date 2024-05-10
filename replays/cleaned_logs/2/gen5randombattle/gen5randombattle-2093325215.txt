@@ -3,10 +3,10 @@ Player A sent out Maractus
 Player B sent out Gliscor
 Turn 1:
 Player B: Switched out Gliscor for Zapdos
-Player A: Maractus used Leech Seed on self
+Player A: Maractus used Leech Seed on Zapdos
 Turn 2:
-Player A: Maractus used Protect on self
-Player B: Zapdos used Heat Wave on self
+Player A: Maractus used Protect on Maractus
+Player B: Zapdos used Heat Wave on Maractus
 Turn 3:
 Player A: Switched out Maractus for Manectric
 Player B: Zapdos used Heat Wave on Manectric but it missed

@@ -6,15 +6,15 @@ Player A: Cyclizar used U-turn on Grimmsnarl for 18 damage
 Player A: Switched out Cyclizar for Empoleon
 Player B: Grimmsnarl used Spirit Break on Empoleon for 14 damage
 Turn 2:
-Player B: Grimmsnarl used Taunt on self
-Player A: Empoleon can't move because move: Taunt
+Player B: Grimmsnarl used Taunt on Empoleon
+Player A: Empoleon can't move because it is move: Taunt
 Turn 3:
-Player B: Grimmsnarl used Parting Shot on self
+Player B: Grimmsnarl used Parting Shot on Empoleon
 Player B: Switched out Grimmsnarl for Registeel
 Player A: Empoleon used Flash Cannon on Registeel for 22 damage
 Turn 4:
 Player A: Empoleon used Surf on Registeel for 46 damage
-Player B: Registeel used Iron Defense on self
+Player B: Registeel used Iron Defense on Registeel
 Turn 5:
 Player A: Empoleon used Surf on Registeel for 32 damage
 Player B: Registeel fainted
@@ -25,12 +25,12 @@ Player A: Empoleon used Surf on Flygon and crit for 100 damage
 Player B: Flygon fainted
 Player B: Switched out Flygon for Lilligant-Hisui
 Turn 7:
-Player B: Lilligant-Hisui used Victory Dance on self
-Player A: Empoleon used Stealth Rock on self
+Player B: Lilligant-Hisui used Victory Dance on Lilligant-Hisui
+Player A: Empoleon used Stealth Rock on Lilligant-Hisui
 Turn 8:
 Player A: Switched out Empoleon for Moltres
-Player B: Lilligant-Hisui used Victory Dance on self
+Player B: Lilligant-Hisui used Victory Dance on Lilligant-Hisui
 Turn 9:
 Player B: Lilligant-Hisui used Triple Axel on Moltres for 12 damage
-Player A: Moltres used Will-O-Wisp
+Player A: Moltres used Will-O-Wisp on Lilligant-Hisui and they are now burned
 Turn 10:

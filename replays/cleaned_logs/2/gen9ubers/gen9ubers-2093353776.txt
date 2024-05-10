@@ -1,0 +1,120 @@
+Battle start:
+Player A sent out Ribombee
+Player B sent out Landorus-Therian
+Turn 1:
+Player A: Ribombee used Stun Spore on Landorus-Therian but it missed
+Player B: Landorus-Therian used Stealth Rock on Ribombee
+Turn 2:
+Player A: Ribombee used Stun Spore on Landorus-Therian and they are now paralyzed
+Player B: Landorus-Therian used Earthquake on Ribombee for 43 damage
+Turn 3:
+Player A: Ribombee used Sticky Web on Landorus-Therian
+Player B: Landorus-Therian used U-turn on Ribombee for 24 damage
+Player B: Switched out Landorus-Therian for Rayquaza
+Turn 4:
+Player A: Switched out Ribombee for Iron Treads
+Player B: Rayquaza used Extreme Speed on Iron Treads for 19 damage
+Player B: Rayquaza got dragged out for Arceus-Steel by opponent's move
+Turn 5:
+Player B: Switched out Arceus-Steel for Giratina
+Player A: Switched out Iron Treads for Mewtwo
+Turn 6:
+Player A: Mewtwo used Taunt on Giratina
+Player B: Giratina used Dragon Tail on Mewtwo for 32 damage
+Player A: Mewtwo got dragged out for Kyurem-Black by opponent's move
+Turn 7:
+Player A: Switched out Kyurem-Black for Ribombee
+Player B: Switched out Giratina for Arceus-Steel
+Turn 8:
+Player A: Ribombee used Stun Spore on Arceus-Steel but it missed
+Player B: Arceus-Steel used Judgment on Ribombee for 33 damage (supereffective)
+Player A: Ribombee fainted
+Player A: Switched out Ribombee for Mewtwo
+Turn 9:
+Player A: Mewtwo used Thunder Wave on Arceus-Steel and they are now paralyzed
+Player B: Arceus-Steel used Judgment on Mewtwo for 53 damage
+Turn 10:
+Player A: Mewtwo used Light Screen on Mewtwo
+Player B: Arceus-Steel used Judgment on Mewtwo for 15 damage
+Player A: Mewtwo fainted
+Player A: Switched out Mewtwo for Kyurem-Black
+Turn 11:
+Player A: Kyurem-Black used Dragon Dance on Kyurem-Black
+Player B: Arceus-Steel used Judgment on Kyurem-Black for 97 damage (supereffective)
+Turn 12:
+Player B: Switched out Arceus-Steel for Landorus-Therian
+Player A: Kyurem-Black used Fusion Bolt but it had no effect on Landorus-Therian
+Turn 13:
+Player A: Switched out Kyurem-Black for Indeedee
+Player B: Landorus-Therian used Earthquake on Indeedee for 98 damage
+Turn 14:
+Player A: Indeedee used Healing Wish on Indeedee
+Player A: Indeedee fainted
+Player A: Switched out Indeedee for Kyurem-Black
+Turn 15:
+Player A: Kyurem-Black used Dragon Dance on Kyurem-Black
+Player B: Landorus-Therian used Earthquake on Kyurem-Black for -30 damage
+Turn 16:
+Player A: Kyurem-Black used Icicle Spear on Landorus-Therian for 100 damage (supereffective)
+Player B: Landorus-Therian fainted
+Player B: Switched out Landorus-Therian for Rayquaza
+Turn 17:
+Player B: Rayquaza used Extreme Speed on Kyurem-Black
+Player A: Kyurem-Black used Icicle Spear on Rayquaza for 100 damage (supereffective)
+Player B: Rayquaza fainted
+Player B: Switched out Rayquaza for Arceus-Steel
+Turn 18:
+Player A: Kyurem-Black used Fusion Bolt on Arceus-Steel for 68 damage
+Player B: Arceus-Steel can't move because it is paralyzed
+Turn 19:
+Player A: Kyurem-Black used Scale Shot on Arceus-Steel for 6 damage
+Player B: Arceus-Steel fainted
+Player B: Switched out Arceus-Steel for Kyogre
+Turn 20:
+Player A: Kyurem-Black used Fusion Bolt on Kyogre for 100 damage (supereffective)
+Player B: Kyogre fainted
+Player B: Switched out Kyogre for Giratina
+Turn 21:
+Player A: Kyurem-Black used Icicle Spear on Giratina for 10 damage
+Player B: Giratina used Dragon Tail on Kyurem-Black for 26 damage
+Player A: Kyurem-Black got dragged out for Darkrai by opponent's move
+Turn 22:
+Player A: Darkrai used Hypnosis on Giratina but it missed
+Player B: Giratina used Dragon Tail on Darkrai for 42 damage
+Player A: Darkrai got dragged out for Kyurem-Black by opponent's move
+Player A: Darkrai fainted
+Player A: Switched out Darkrai for Iron Treads
+Turn 23:
+Player A: Iron Treads used Rapid Spin on Giratina and crit for -4 damage
+Player B: Giratina used Rest and healed for 52
+Turn 24:
+Player A: Switched out Iron Treads for Darkrai
+Player B: Giratina can't move because it is asleep
+Turn 25:
+Player A: Darkrai used Nasty Plot on Darkrai
+Player B: Giratina can't move because it is asleep
+Turn 26:
+Player A: Darkrai used Blizzard on Giratina for 66 damage
+Player B: Giratina used Dragon Tail on Darkrai for 26 damage
+Player A: Darkrai got dragged out for Iron Treads by opponent's move
+Turn 27:
+Player A: Iron Treads used Earthquake on Giratina for 10 damage
+Player B: Giratina used Dragon Tail on Iron Treads for 11 damage
+Player A: Iron Treads got dragged out for Darkrai by opponent's move
+Turn 28:
+Player A: Darkrai used Hypnosis on Giratina but it missed
+Player B: Giratina used Rest and healed for 76
+Turn 29:
+Player A: Darkrai used Nasty Plot on Darkrai
+Player B: Giratina can't move because it is asleep
+Turn 30:
+Player A: Darkrai used Nasty Plot on Darkrai
+Player B: Giratina can't move because it is asleep
+Turn 31:
+Player A: Darkrai used Blizzard on Giratina for 100 damage
+Player B: Giratina fainted
+Player B: Switched out Giratina for Lugia
+Turn 32:
+Player A: Darkrai used Dark Pulse on Lugia for 64 damage (supereffective)
+Player B: Lugia used Aeroblast on Darkrai but it missed
+Turn 33:

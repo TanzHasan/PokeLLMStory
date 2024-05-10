@@ -3,7 +3,7 @@ Player A sent out Infernape
 Player B sent out Gardevoir
 Turn 1:
 Player A: Infernape used Flare Blitz on Gardevoir for 87 damage
-Player B: Gardevoir used Psyshock on Infernape for 73 damage (supereffective)
+Player B: Gardevoir used Psyshock on Infernape for 100 damage (supereffective)
 Player A: Infernape fainted
 Player A: Switched out Infernape for Keldeo-Resolute
 Turn 2:
@@ -11,7 +11,7 @@ Player B: Switched out Gardevoir for Slowking-Galar
 Player A: Keldeo-Resolute used Secret Sword on Slowking-Galar for 12 damage
 Turn 3:
 Player A: Switched out Keldeo-Resolute for Gallade
-Player B: Slowking-Galar used Chilly Reception on self
+Player B: Slowking-Galar used Chilly Reception on Slowking-Galar
 Player B: Switched out Slowking-Galar for Deoxys-Speed
 Turn 4:
 Player B: Deoxys-Speed used Psycho Boost on Gallade for 63 damage
@@ -19,7 +19,7 @@ Player A: Gallade used Night Slash on Deoxys-Speed and crit for 100 damage (supe
 Player B: Deoxys-Speed fainted
 Player B: Switched out Deoxys-Speed for Armarouge
 Turn 5:
-Player B: Armarouge used Calm Mind on self
+Player B: Armarouge used Calm Mind on Armarouge
 Player A: Gallade used Night Slash on Armarouge for 55 damage (supereffective)
 Turn 6:
 Player A: Gallade used Shadow Sneak on Armarouge for 45 damage (supereffective)

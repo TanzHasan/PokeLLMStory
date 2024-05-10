@@ -13,7 +13,7 @@ Player A: Entei used Sacred Fire on Forretress for 65 damage (supereffective)
 Player B: Forretress fainted
 Player B: Switched out Forretress for Maushold
 Turn 4:
-Player B: Maushold used Tidy Up on self
+Player B: Maushold used Tidy Up on Maushold
 Player A: Entei used Sacred Fire on Maushold for 100 damage
 Player B: Maushold fainted
 Player B: Switched out Maushold for Necrozma
@@ -35,7 +35,7 @@ Player A: Staraptor used Brave Bird on Magnezone for 34 damage
 Player A: Staraptor fainted
 Player A: Switched out Staraptor for Galvantula
 Turn 10:
-Player A: Galvantula used Sticky Web on self
+Player A: Galvantula used Sticky Web on Magnezone
 Player B: Magnezone used Volt Switch on Galvantula for 51 damage
 Player B: Switched out Magnezone for Gengar
 Turn 11:

@@ -3,21 +3,22 @@ Player A sent out Tropius
 Player B sent out Gengar
 Turn 1:
 Player B: Gengar used Sludge Wave and healed for 82
+Player A: Tropius used Substitute on Tropius
 Turn 2:
 Player B: Gengar used Sludge Wave
-Player A: Tropius used Leech Seed on self
+Player A: Tropius used Leech Seed on Gengar
 Turn 3:
-Player A: Tropius used Protect on self
-Player B: Gengar used Sludge Wave on self
+Player A: Tropius used Protect on Tropius
+Player B: Gengar used Sludge Wave on Tropius
 Turn 4:
 Player A: Switched out Tropius for Alomomola
 Player B: Gengar used Sludge Wave on Alomomola for 204 damage
 Turn 5:
-Player A: Alomomola used Protect on self
-Player B: Gengar used Sludge Wave on self
+Player A: Alomomola used Protect on Alomomola
+Player B: Gengar used Sludge Wave on Alomomola
 Turn 6:
 Player B: Gengar used Sludge Wave on Alomomola for 184 damage
-Player A: Alomomola used Wish on self
+Player A: Alomomola used Wish on Alomomola
 Player B: Gengar fainted
 Player B: Switched out Gengar for Terrakion
 Turn 7:
@@ -25,25 +26,27 @@ Player A: Switched out Alomomola for Tropius
 Player B: Terrakion used Quick Attack and healed for 82
 Turn 8:
 Player B: Switched out Terrakion for Carracosta
-Player A: Tropius used Leech Seed on self
+Player A: Tropius used Leech Seed on Carracosta
 Turn 9:
 Player B: Switched out Carracosta for Swellow
+Player A: Tropius used Substitute on Tropius
 Turn 10:
 Player B: Swellow used Quick Attack
-Player A: Tropius used Leech Seed on self
+Player A: Tropius used Leech Seed on Swellow
 Turn 11:
-Player A: Tropius used Protect on self
-Player B: Swellow used Facade on self
+Player A: Tropius used Protect on Tropius
+Player B: Swellow used Facade on Tropius
 Turn 12:
 Player B: Swellow used Facade and healed for 82
+Player A: Tropius used Substitute on Tropius
 Turn 13:
-Player A: Tropius used Protect on self
-Player B: Swellow used Quick Attack on self
+Player A: Tropius used Protect on Tropius
+Player B: Swellow used Quick Attack on Tropius
 Player B: Swellow fainted
 Player B: Switched out Swellow for Ledian
 Turn 14:
-Player A: Tropius used Leech Seed on self
+Player A: Tropius used Leech Seed on Ledian
 Turn 15:
-Player A: Tropius used Protect on self
-Player B: Ledian used Focus Blast on self
+Player A: Tropius used Protect on Tropius
+Player B: Ledian used Focus Blast on Tropius
 Turn 16:

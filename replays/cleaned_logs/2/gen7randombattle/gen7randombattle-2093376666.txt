@@ -3,13 +3,13 @@ Player A sent out Crustle
 Player B sent out Landorus
 Turn 1:
 Player A: Switched out Crustle for Latios
-Player B: Landorus used Calm Mind on self
+Player B: Landorus used Calm Mind on Landorus
 Turn 2:
-Player A: Latios used Calm Mind on self
-Player B: Landorus used Calm Mind on self
+Player A: Latios used Calm Mind on Latios
+Player B: Landorus used Calm Mind on Landorus
 Turn 3:
-Player A: Latios used Calm Mind on self
-Player B: Landorus used Rock Polish on self
+Player A: Latios used Calm Mind on Latios
+Player B: Landorus used Rock Polish on Landorus
 Turn 4:
 Player B: Landorus used Sludge Wave on Latios for 91 damage
 Player A: Latios used Psyshock on Landorus for 252 damage
@@ -20,13 +20,13 @@ Player B: Landorus fainted
 Player B: Switched out Landorus for Musharna
 Turn 6:
 Player A: Latios used Roost and healed for 130
-Player B: Musharna used Thunder Wave
+Player B: Musharna used Thunder Wave on Latios and they are now paralyzed
 Turn 7:
 Player A: Latios can't move because it is paralyzed
 Player B: Musharna used Psychic on Latios for 25 damage
 Turn 8:
 Player B: Switched out Musharna for Dustox
-Player A: Latios used Calm Mind on self
+Player A: Latios used Calm Mind on Latios
 Turn 9:
 Player B: Dustox used Bug Buzz on Latios for 54 damage (supereffective)
 Player A: Latios used Psyshock on Dustox for 265 damage (supereffective)
@@ -38,7 +38,7 @@ Player A: Latios fainted
 Player A: Switched out Latios for Gorebyss
 Turn 11:
 Player B: Switched out Marowak for Wishiwashi
-Player A: Gorebyss used Shell Smash on self
+Player A: Gorebyss used Shell Smash on Gorebyss
 Turn 12:
 Player A: Gorebyss used Hidden Power on Wishiwashi for 92 damage (supereffective)
 Player B: Wishiwashi used Hidden Power on Gorebyss for 148 damage (supereffective)

@@ -6,13 +6,13 @@ Player B: Switched out Spiritomb for Granbull
 Player A: Heracross used Knock Off on Granbull for 26 damage
 Turn 2:
 Player A: Switched out Heracross for Venomoth
-Player B: Granbull used Thunder Wave
+Player B: Granbull used Thunder Wave on Venomoth and they are now paralyzed
 Turn 3:
 Player B: Switched out Granbull for Arbok
 Player A: Venomoth used Sludge Bomb on Arbok for 88 damage
 Turn 4:
 Player A: Switched out Venomoth for Garchomp
-Player B: Arbok used Coil on self
+Player B: Arbok used Coil on Arbok
 Turn 5:
 Player A: Garchomp used Earthquake on Arbok for 158 damage (supereffective)
 Player B: Arbok used Earthquake on Garchomp and crit for 214 damage
@@ -26,7 +26,7 @@ Turn 7:
 Player B: Switched out Flygon for Spiritomb
 Player A: Porygon-Z used Ice Beam on Spiritomb for 123 damage
 Turn 8:
-Player B: Spiritomb used Sucker Punch on Porygon-Z for 114 damage
+Player B: Spiritomb used Sucker Punch on Porygon-Z for 141 damage
 Player A: Porygon-Z used Ice Beam on Spiritomb for 111 damage
 Player B: Spiritomb fainted
 Player B: Switched out Spiritomb for Flygon
@@ -45,7 +45,7 @@ Turn 12:
 Player B: Switched out Granbull for Barbaracle
 Player A: Venomoth used Sludge Bomb on Barbaracle for 84 damage
 Turn 13:
-Player B: Barbaracle used Shell Smash on self
+Player B: Barbaracle used Shell Smash on Barbaracle
 Player A: Venomoth used Sludge Bomb on Barbaracle for 94 damage
 Turn 14:
 Player B: Barbaracle used Razor Shell on Venomoth for 112 damage
@@ -60,10 +60,10 @@ Player A: Switched out Heracross for Purugly
 Player B: Switched out Barbaracle for Granbull
 Turn 16:
 Player A: Purugly used Fake Out on Granbull for 34 damage
-Player B: Granbull can't move because flinch
+Player B: Granbull can't move because it is flinch
 Turn 17:
 Player A: Purugly used Return on Granbull for 88 damage
-Player B: Granbull used Thunder Wave
+Player B: Granbull used Thunder Wave on Purugly and they are now paralyzed
 Turn 18:
 Player B: Switched out Granbull for Flygon
 Player A: Purugly used Return on Flygon for 91 damage
@@ -78,7 +78,7 @@ Turn 21:
 Player B: Switched out Flygon for Granbull
 Turn 22:
 Player B: Switched out Granbull for Flygon
-Player A: Blaziken used Swords Dance on self
+Player A: Blaziken used Swords Dance on Blaziken
 Turn 23:
 Player B: Switched out Flygon for Granbull
 Player A: Blaziken used High Jump Kick on Granbull for 80 damage

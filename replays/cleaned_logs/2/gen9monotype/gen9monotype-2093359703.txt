@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Gliscor
 Player B sent out Terrakion
 Turn 1:
-Player A: Gliscor used Protect on self
-Player B: Terrakion used Taunt on self
+Player A: Gliscor used Protect on Gliscor
+Player B: Terrakion used Taunt on Gliscor
 Turn 2:
 Player B: Switched out Terrakion for Gallade
 Player A: Gliscor used Earthquake on Gallade for 56 damage
 Turn 3:
 Player B: Gallade used Psycho Cut on Gliscor for 51 damage
-Player A: Gliscor used Earthquake on Gallade for 35 damage
+Player A: Gliscor used Earthquake on Gallade for 44 damage
 Player B: Gallade fainted
 Player B: Switched out Gallade for Quaquaval
 Turn 4:
@@ -23,24 +23,26 @@ Turn 6:
 Player B: Switched out Quaquaval for Iron Hands
 Player A: Zapdos used Discharge on Iron Hands for 6 damage
 Turn 7:
+Player A: Zapdos used Substitute on Zapdos
 Player B: Iron Hands used Ice Punch
 Turn 8:
 Player A: Switched out Zapdos for Articuno
 Player B: Iron Hands used Ice Punch on Articuno for 21 damage
 Turn 9:
+Player A: Articuno used Substitute on Articuno
 Player B: Iron Hands used Thunder Punch
 Turn 10:
-Player A: Articuno used Roost and healed for 45
+Player A: Articuno used Roost and healed for 21
 Player B: Iron Hands used Thunder Punch on Articuno for 33 damage
 Turn 11:
 Player A: Switched out Articuno for Gliscor
 Player B: Switched out Iron Hands for Terrakion
 Turn 12:
 Player B: Switched out Terrakion for Quaquaval
-Player A: Gliscor used Toxic
+Player A: Gliscor used Toxic on Quaquaval and they are now badly poisoned
 Turn 13:
-Player A: Gliscor used Protect on self
-Player B: Quaquaval used Aqua Step on self
+Player A: Gliscor used Protect on Gliscor
+Player B: Quaquaval used Aqua Step on Gliscor
 Turn 14:
 Player A: Switched out Gliscor for Articuno
 Player B: Quaquaval used Aqua Step on Articuno for 45 damage
@@ -51,7 +53,7 @@ Player B: Quaquaval fainted
 Player B: Switched out Quaquaval for Iron Hands
 Player A: Switched out Articuno for Dragonite
 Turn 16:
-Player A: Dragonite used Dragon Dance on self
+Player A: Dragonite used Dragon Dance on Dragonite
 Player B: Iron Hands used Ice Punch on Dragonite for 47 damage (supereffective)
 Turn 17:
 Player A: Dragonite used Earthquake on Iron Hands for 65 damage (supereffective)
@@ -63,12 +65,12 @@ Player A: Gliscor used Earthquake on Iron Hands for 29 damage (supereffective)
 Player B: Iron Hands fainted
 Player B: Switched out Iron Hands for Zamazenta
 Turn 19:
-Player A: Gliscor used Protect on self
-Player B: Zamazenta used Close Combat on self
+Player A: Gliscor used Protect on Gliscor
+Player B: Zamazenta used Close Combat on Gliscor
 Turn 20:
 Player B: Zamazenta used Close Combat on Gliscor and crit for 6 damage
-Player A: Gliscor used Toxic
+Player A: Gliscor used Toxic on Zamazenta and they are now badly poisoned
 Turn 21:
-Player A: Gliscor used Protect on self
-Player B: Zamazenta used Close Combat on self
+Player A: Gliscor used Protect on Gliscor
+Player B: Zamazenta used Close Combat on Gliscor
 Turn 22:

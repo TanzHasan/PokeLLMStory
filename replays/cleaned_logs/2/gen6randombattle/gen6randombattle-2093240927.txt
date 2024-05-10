@@ -6,7 +6,7 @@ Player A: Switched out Accelgor for Seviper
 Player B: Blaziken used High Jump Kick on Seviper for 85 damage
 Turn 2:
 Player B: Blaziken used Flare Blitz on Seviper for 151 damage
-Player A: Seviper used Glare
+Player A: Seviper used Glare on Blaziken and they are now paralyzed
 Turn 3:
 Player B: Switched out Blaziken for Maractus
 Player A: Seviper used Earthquake on Maractus for 60 damage
@@ -25,13 +25,13 @@ Player A: Accelgor used Energy Ball on Kabutops for 34 damage (supereffective)
 Player B: Kabutops fainted
 Player B: Switched out Kabutops for Muk
 Turn 7:
-Player A: Accelgor used Yawn on self
+Player A: Accelgor used Yawn on Muk
 Player B: Muk used Poison Jab on Accelgor for 65 damage
 Player A: Accelgor fainted
 Player A: Switched out Accelgor for Zebstrika
 Turn 8:
 Player A: Zebstrika used Wild Charge on Muk for 118 damage
-Player B: Muk used Haze on self
+Player B: Muk used Haze on Muk
 Turn 9:
 Player A: Zebstrika used Wild Charge on Muk for 89 damage
 Player B: Muk can't move because it is asleep
@@ -41,8 +41,8 @@ Player A: Zebstrika used Wild Charge on Chatot for 274 damage (supereffective)
 Player B: Muk fainted
 Player B: Switched out Muk for Blaziken
 Turn 11:
-Player A: Zebstrika used Wild Charge on Blaziken for 129 damage
-Player B: Blaziken used Knock Off on Zebstrika for 79 damage
+Player A: Zebstrika used Wild Charge on Blaziken for 179 damage
+Player B: Blaziken used Knock Off on Zebstrika for 237 damage
 Turn 12:
 Player A: Zebstrika used Wild Charge on Blaziken for 64 damage
 Player B: Blaziken fainted
@@ -55,7 +55,7 @@ Player A: Zebstrika fainted
 Player A: Switched out Zebstrika for Blissey
 Turn 14:
 Player B: Gogoat used Milk Drink and healed for 157
-Player A: Blissey used Toxic
+Player A: Blissey used Toxic on Gogoat and they are now badly poisoned
 Turn 15:
 Player B: Gogoat used Earthquake on Blissey for 246 damage
 Player A: Blissey used Seismic Toss on Gogoat for 106 damage
@@ -63,11 +63,11 @@ Turn 16:
 Player B: Gogoat used Milk Drink and healed for 106
 Player A: Blissey used Soft-Boiled and healed for 246
 Turn 17:
-Player B: Gogoat used Toxic
+Player B: Gogoat used Toxic on Blissey and they are now badly poisoned
 Player A: Blissey used Seismic Toss on Gogoat for 150 damage
 Turn 18:
 Player B: Gogoat used Milk Drink and healed for 116
-Player A: Blissey used Aromatherapy on self
+Player A: Blissey used Aromatherapy on Blissey
 Turn 19:
 Player B: Gogoat used Earthquake on Blissey for 262 damage
 Player A: Blissey used Seismic Toss on Gogoat for 172 damage

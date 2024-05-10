@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Garchomp
 Player B sent out Rotom-Wash
 Turn 1:
-Player B: Rotom-Wash used Trick on self
-Player A: Garchomp used Swords Dance on self
+Player B: Rotom-Wash used Trick on Garchomp
+Player A: Garchomp used Swords Dance on Garchomp
 Turn 2:
 Player A: Switched out Garchomp for Dragonite
 Player B: Switched out Rotom-Wash for Politoed
 Turn 3:
-Player A: Dragonite used Dragon Dance on self
-Player B: Politoed used Encore on self
+Player A: Dragonite used Dragon Dance on Dragonite
+Player B: Politoed used Encore on Dragonite
 Turn 4:
 Player A: Switched out Dragonite for Garchomp
 Player B: Switched out Politoed for Starmie
@@ -18,16 +18,16 @@ Player B: Switched out Starmie for Ferrothorn
 Player A: Garchomp used Dragon Claw on Ferrothorn for 10 damage
 Turn 6:
 Player A: Switched out Garchomp for Ferrothorn
-Player B: Ferrothorn used Stealth Rock on self
+Player B: Ferrothorn used Stealth Rock on Ferrothorn
 Turn 7:
 Player A: Switched out Ferrothorn for Mamoswine
 Player B: Ferrothorn used Thunder Wave but it had no effect on Mamoswine
 Turn 8:
-Player B: Ferrothorn used Protect on self
-Player A: Mamoswine used Icicle Crash on self
+Player B: Ferrothorn used Protect on Ferrothorn
+Player A: Mamoswine used Icicle Crash on Ferrothorn
 Turn 9:
 Player A: Mamoswine used Icicle Crash on Ferrothorn for 23 damage
-Player B: Ferrothorn used Leech Seed on self
+Player B: Ferrothorn used Leech Seed on Mamoswine
 Turn 10:
 Player A: Mamoswine used Earthquake on Ferrothorn for 14 damage
 Player B: Ferrothorn used Thunder Wave but it had no effect on Mamoswine
@@ -38,14 +38,14 @@ Player B: Switched out Ferrothorn for Latios
 Player A: Volcarona used Fiery Dance on Latios for 11 damage
 Turn 13:
 Player A: Switched out Volcarona for Garchomp
-Player B: Latios used Surf on Garchomp for 62 damage
+Player B: Latios used Surf on Garchomp for 74 damage
 Turn 14:
 Player B: Latios used Surf on Garchomp for 26 damage
 Player A: Garchomp fainted
 Player A: Switched out Garchomp for Cloyster
 Turn 15:
 Player B: Latios used Surf on Cloyster for 86 damage
-Player A: Cloyster used Shell Smash on self
+Player A: Cloyster used Shell Smash on Cloyster
 Turn 16:
 Player B: Switched out Latios for Scizor
 Player A: Cloyster used Icicle Spear on Scizor for 11 damage
@@ -57,7 +57,7 @@ Player B: Switched out Scizor for Ferrothorn
 Player A: Ferrothorn used Toxic but it had no effect on Ferrothorn
 Turn 19:
 Player A: Switched out Ferrothorn for Volcarona
-Player B: Ferrothorn used Thunder Wave
+Player B: Ferrothorn used Thunder Wave on Volcarona and they are now paralyzed
 Turn 20:
 Player B: Switched out Ferrothorn for Rotom-Wash
 Player A: Volcarona can't move because it is paralyzed
@@ -66,7 +66,7 @@ Player B: Rotom-Wash used Thunder on Volcarona for 100 damage
 Player A: Volcarona fainted
 Player A: Switched out Volcarona for Mamoswine
 Turn 22:
-Player B: Rotom-Wash used Trick on self
+Player B: Rotom-Wash used Trick on Mamoswine
 Player A: Mamoswine used Icicle Crash on Rotom-Wash for 31 damage
 Turn 23:
 Player B: Switched out Rotom-Wash for Ferrothorn

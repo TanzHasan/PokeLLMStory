@@ -9,8 +9,8 @@ Player A: Malamar used Knock Off on Gothitelle for 101 damage (supereffective)
 Player B: Gothitelle fainted
 Player B: Switched out Gothitelle for Spiritomb
 Turn 3:
-Player A: Malamar used Z-Happy Hour on self
-Player B: Spiritomb used Will-O-Wisp
+Player A: Malamar used Z-Happy Hour on Malamar
+Player B: Spiritomb used Will-O-Wisp on Malamar and they are now burned
 Turn 4:
 Player B: Switched out Spiritomb for Trevenant
 Player A: Malamar used Superpower but it had no effect on Trevenant
@@ -18,7 +18,7 @@ Turn 5:
 Player A: Malamar used Psycho Cut on Trevenant for 52 damage
 Player B: Trevenant used Rock Slide on Malamar for 95 damage
 Turn 6:
-Player A: Malamar used Knock Off on Trevenant for 144 damage (supereffective)
+Player A: Malamar used Knock Off on Trevenant for 173 damage (supereffective)
 Player B: Trevenant used Horn Leech on Malamar for 86 damage
 Player B: Trevenant used Horn Leech and healed for 35
 Turn 7:
@@ -87,7 +87,7 @@ Player A: Lapras used Freeze-Dry on Spiritomb for 54 damage
 Player B: Spiritomb used Foul Play on Lapras for -109 damage
 Turn 27:
 Player B: Switched out Spiritomb for Venomoth
-Player A: Lapras used Freeze-Dry on Venomoth for 78 damage
+Player A: Lapras used Freeze-Dry on Venomoth for 78 damage and they are now frozen
 Turn 28:
 Player B: Venomoth can't move because it is frozen
 Player A: Lapras used Freeze-Dry on Venomoth for 48 damage

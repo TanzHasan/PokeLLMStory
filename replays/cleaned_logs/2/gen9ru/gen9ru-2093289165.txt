@@ -2,18 +2,18 @@ Battle start:
 Player A sent out Enamorus-Therian
 Player B sent out Thwackey
 Turn 1:
-Player B: Thwackey used Taunt on self
-Player A: Enamorus-Therian can't move because move: Taunt
+Player B: Thwackey used Taunt on Enamorus-Therian
+Player A: Enamorus-Therian can't move because it is move: Taunt
 Turn 2:
 Player B: Thwackey used U-turn on Enamorus-Therian for 4 damage
 Player B: Switched out Thwackey for Sceptile
 Player A: Enamorus-Therian used Draining Kiss on Sceptile for 34 damage
 Player A: Enamorus-Therian used Draining Kiss and healed for 4
 Turn 3:
-Player B: Sceptile used Swords Dance on self
+Player B: Sceptile used Swords Dance on Sceptile
 Player A: Enamorus-Therian used Draining Kiss on Sceptile for 27 damage
 Turn 4:
-Player B: Sceptile used Swords Dance on self
+Player B: Sceptile used Swords Dance on Sceptile
 Player A: Enamorus-Therian used Draining Kiss on Sceptile for 29 damage
 Turn 5:
 Player B: Sceptile used Rock Slide on Enamorus-Therian but it missed
@@ -22,11 +22,11 @@ Player B: Sceptile fainted
 Player B: Switched out Sceptile for Basculegion
 Turn 6:
 Player B: Basculegion used Head Smash on Enamorus-Therian but it missed
-Player A: Enamorus-Therian used Agility on self
+Player A: Enamorus-Therian used Agility on Enamorus-Therian
 Turn 7:
-Player A: Enamorus-Therian used Calm Mind on self
+Player A: Enamorus-Therian used Calm Mind on Enamorus-Therian
 Player B: Basculegion used Head Smash on Enamorus-Therian for 81 damage
 Turn 8:
-Player A: Enamorus-Therian used Draining Kiss on Basculegion for 70 damage
+Player A: Enamorus-Therian used Draining Kiss on Basculegion for 100 damage
 Player A: Enamorus-Therian used Draining Kiss and healed for 80
 Player B: Basculegion fainted

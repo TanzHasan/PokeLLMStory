@@ -18,7 +18,7 @@ Turn 5:
 Player A: Switched out Fomantis for Frigibax
 Player B: Vullaby used Brave Bird on Frigibax for 65 damage
 Turn 6:
-Player A: Frigibax used Icicle Crash on Vullaby and crit for 57 damage (supereffective)
+Player A: Frigibax used Icicle Crash on Vullaby and crit for 79 damage (supereffective)
 Player B: Vullaby fainted
 Player B: Switched out Vullaby for Stunky
 Turn 7:
@@ -31,8 +31,8 @@ Player A: Charcadet used Flame Charge on Stunky for 14 damage
 Player B: Stunky fainted
 Player B: Switched out Stunky for Mienfoo
 Turn 9:
-Player B: Mienfoo used Fake Out on Charcadet for 21 damage
-Player A: Charcadet can't move because flinch
+Player B: Mienfoo used Fake Out on Charcadet for 43 damage
+Player A: Charcadet can't move because it is flinch
 Turn 10:
 Player A: Charcadet used Flare Blitz on Mienfoo for 47 damage
 Player A: Charcadet fainted
@@ -55,10 +55,10 @@ Player B: Switched out Grookey for Mienfoo
 Player A: Switched out Fomantis for Capsakid
 Turn 15:
 Player B: Mienfoo used Fake Out on Capsakid and crit for 21 damage
-Player A: Capsakid can't move because flinch
+Player A: Capsakid can't move because it is flinch
 Turn 16:
-Player A: Capsakid used Protect on self
-Player B: Mienfoo used U-turn on self
+Player A: Capsakid used Protect on Capsakid
+Player B: Mienfoo used U-turn on Capsakid
 Turn 17:
 Player A: Switched out Capsakid for Croagunk
 Player B: Mienfoo used U-turn on Croagunk for 9 damage
@@ -72,7 +72,7 @@ Player B: Switched out Growlithe-Hisui for Mienfoo
 Player A: Clauncher used Aqua Jet on Mienfoo for -33 damage
 Turn 20:
 Player B: Mienfoo used Fake Out on Clauncher for 12 damage
-Player A: Clauncher can't move because flinch
+Player A: Clauncher can't move because it is flinch
 Turn 21:
 Player B: Mienfoo used Knock Off on Clauncher for 29 damage
 Player A: Clauncher used Dragon Pulse on Mienfoo for 47 damage
@@ -89,7 +89,7 @@ Player B: Mienfoo fainted
 Player B: Switched out Mienfoo for Mienfoo
 Turn 24:
 Player B: Mienfoo used Fake Out on Capsakid for 13 damage
-Player A: Capsakid can't move because flinch
+Player A: Capsakid can't move because it is flinch
 Turn 25:
 Player B: Mienfoo used U-turn on Capsakid for 44 damage (supereffective)
 Player A: Capsakid fainted

@@ -8,7 +8,7 @@ Turn 2:
 Player B: Switched out Basculegion for Illumise
 Player A: Cyclizar used Knock Off on Illumise for 30 damage
 Turn 3:
-Player B: Illumise used Rain Dance on self
+Player B: Illumise used Rain Dance on Illumise
 Player A: Cyclizar used U-turn on Illumise for 19 damage
 Player A: Switched out Cyclizar for Muk-Alola
 Turn 4:
@@ -28,7 +28,7 @@ Turn 8:
 Player B: Switched out Kingdra for Illumise
 Player A: Muk-Alola used Poison Jab on Illumise for 36 damage
 Turn 9:
-Player B: Illumise used Rain Dance on self
+Player B: Illumise used Rain Dance on Illumise
 Player A: Muk-Alola used Poison Jab on Illumise for 15 damage
 Player B: Illumise fainted
 Player B: Switched out Illumise for Basculegion
@@ -38,7 +38,7 @@ Player B: Basculegion used Wave Crash on Cyclizar for 23 damage
 Player A: Muk-Alola fainted
 Player A: Switched out Muk-Alola for Gyarados
 Turn 11:
-Player A: Gyarados used Waterfall on Basculegion for 55 damage
+Player A: Gyarados used Waterfall on Basculegion for 78 damage
 Player B: Basculegion used Wave Crash on Gyarados for 68 damage
 Player A: Gyarados fainted
 Player A: Switched out Gyarados for Gardevoir
@@ -52,11 +52,11 @@ Player B: Floatzel used Wave Crash on Hippowdon for 100 damage (supereffective)
 Player A: Gardevoir fainted
 Player A: Switched out Gardevoir for Gardevoir
 Turn 14:
-Player A: Gardevoir used Moonblast on Floatzel for 84 damage
+Player A: Gardevoir used Moonblast on Floatzel for 100 damage
 Player B: Floatzel fainted
 Player B: Switched out Floatzel for Sableye
 Turn 15:
-Player B: Sableye used Rain Dance on self
+Player B: Sableye used Rain Dance on Sableye
 Player A: Gardevoir used Moonblast on Sableye for 100 damage (supereffective)
 Player B: Sableye fainted
 Player B: Switched out Sableye for Kingdra

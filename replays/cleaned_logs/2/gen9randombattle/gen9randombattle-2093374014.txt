@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Hoopa
 Player B sent out Perrserker
 Turn 1:
-Player A: Hoopa used Trick on self
+Player A: Hoopa used Trick on Perrserker
 Player B: Perrserker used U-turn on Hoopa for 83 damage
 Player B: Switched out Perrserker for Shiftry
 Turn 2:
@@ -12,24 +12,24 @@ Turn 3:
 Player B: Switched out Shiftry for Grimmsnarl
 Player A: Illumise used Roost and healed for 133
 Turn 4:
-Player B: Grimmsnarl used Parting Shot on self
+Player B: Grimmsnarl used Parting Shot on Illumise
 Player B: Switched out Grimmsnarl for Granbull
 Player A: Illumise used Bug Buzz on Granbull for 38 damage
 Turn 5:
 Player A: Illumise used Thunder Wave but it had no effect on Granbull
-Player B: Granbull used Thunder Wave
+Player B: Granbull used Thunder Wave on Illumise and they are now paralyzed
 Turn 6:
 Player A: Illumise can't move because it is paralyzed
 Player B: Granbull used Earthquake on Illumise and crit for 109 damage
 Turn 7:
 Player A: Illumise used Roost and healed for 133
-Player B: Granbull used Encore on self
+Player B: Granbull used Encore on Illumise
 Turn 8:
 Player B: Switched out Granbull for Perrserker
 Player A: Illumise can't move because it is paralyzed
 Turn 9:
 Player A: Illumise used Roost and healed for 7
-Player B: Perrserker used Stealth Rock on self
+Player B: Perrserker used Stealth Rock on Illumise
 Turn 10:
 Player B: Switched out Perrserker for Granbull
 Player A: Illumise can't move because it is paralyzed
@@ -41,7 +41,7 @@ Turn 14:
 Player B: Switched out Granbull for Grimmsnarl
 Player A: Illumise used Encore but it had no effect on Grimmsnarl
 Turn 15:
-Player B: Grimmsnarl used Taunt on self
+Player B: Grimmsnarl used Taunt on Illumise
 Player A: Illumise used Bug Buzz on Grimmsnarl for 72 damage
 Turn 16:
 Player B: Grimmsnarl used Spirit Break on Illumise for 103 damage
@@ -51,11 +51,11 @@ Player B: Grimmsnarl used Spirit Break on Illumise for 42 damage
 Player A: Illumise fainted
 Player A: Switched out Illumise for Ariados
 Turn 18:
-Player B: Grimmsnarl used Taunt on self
-Player A: Ariados can't move because move: Taunt
+Player B: Grimmsnarl used Taunt on Ariados
+Player A: Ariados can't move because it is move: Taunt
 Turn 19:
 Player B: Switched out Grimmsnarl for Granbull
-Player A: Ariados used Poison Jab on Granbull for -2 damage
+Player A: Ariados used Poison Jab on Granbull for -2 damage and they are now poisoned
 Turn 20:
 Player A: Switched out Ariados for Glaceon
 Player B: Granbull used Earthquake on Glaceon for 97 damage
@@ -68,24 +68,24 @@ Player A: Glaceon fainted
 Player A: Switched out Glaceon for Ariados
 Turn 23:
 Player B: Perrserker used Iron Head on Ariados for 168 damage
-Player A: Ariados used Sticky Web on self
+Player A: Ariados used Sticky Web on Perrserker
 Turn 24:
 Player B: Perrserker used Iron Head on Ariados for 116 damage
 Player A: Ariados fainted
 Player A: Switched out Ariados for Annihilape
 Turn 25:
 Player B: Switched out Perrserker for Granbull
-Player A: Annihilape used Bulk Up on self
+Player A: Annihilape used Bulk Up on Annihilape
 Turn 26:
 Player A: Annihilape used Drain Punch on Granbull for 213 damage
-Player B: Granbull used Thunder Wave
+Player B: Granbull used Thunder Wave on Annihilape and they are now paralyzed
 Turn 27:
 Player A: Annihilape used Drain Punch on Granbull for 53 damage
 Player B: Granbull fainted
 Player B: Switched out Granbull for Grimmsnarl
 Turn 28:
 Player B: Grimmsnarl used Spirit Break on Annihilape for 146 damage (supereffective)
-Player A: Annihilape used Taunt on self
+Player A: Annihilape used Taunt on Grimmsnarl
 Turn 29:
 Player B: Grimmsnarl used Spirit Break on Annihilape for 120 damage (supereffective)
 Player A: Annihilape used Drain Punch on Grimmsnarl for 190 damage
@@ -113,14 +113,14 @@ Player A: Hoopa fainted
 Player A: Switched out Hoopa for Chansey
 Turn 34:
 Player B: Switched out Perrserker for Shiftry
-Player A: Chansey used Thunder Wave
+Player A: Chansey used Thunder Wave on Shiftry and they are now paralyzed
 Turn 35:
-Player A: Chansey used Seismic Toss on Shiftry for 85 damage
+Player A: Chansey used Seismic Toss on Shiftry for 115 damage
 Player B: Shiftry used Knock Off on Chansey for 414 damage
 Turn 36:
 Player A: Chansey used Soft-Boiled and healed for 282
-Player B: Shiftry used Tailwind on self
+Player B: Shiftry used Tailwind on Shiftry
 Turn 37:
-Player A: Chansey used Seismic Toss on Shiftry for 85 damage
+Player A: Chansey used Seismic Toss on Shiftry for 115 damage
 Player B: Shiftry used Low Kick on Chansey for 432 damage (supereffective)
 Player A: Chansey fainted

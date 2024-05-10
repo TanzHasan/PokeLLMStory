@@ -7,7 +7,7 @@ Player B: Switched out Pikachu for Dusclops
 Player A: Dunsparce used Zen Headbutt on Dusclops for 9 damage
 Turn 2:
 Player A: Switched out Dunsparce for Servine
-Player B: Dusclops used Will-O-Wisp
+Player B: Dusclops used Will-O-Wisp on Servine and they are now burned
 Turn 3:
 Player A: Servine used Leaf Storm on Dusclops for 23 damage
 Player B: Dusclops used Night Shade on Servine for 44 damage
@@ -29,9 +29,9 @@ Player B: Drakloak fainted
 Player B: Switched out Drakloak for Cutiefly
 Turn 8:
 Player A: Switched out Vullaby for Metang
-Player B: Cutiefly used Sticky Web on self
+Player B: Cutiefly used Sticky Web on Metang
 Turn 9:
-Player B: Cutiefly used Stun Spore
+Player B: Cutiefly used Stun Spore on Metang and they are now paralyzed
 Player A: Metang used Meteor Mash on Cutiefly for 99 damage (supereffective)
 Turn 10:
 Player B: Cutiefly used U-turn on Metang for 8 damage
@@ -43,7 +43,7 @@ Player B: Switched out Quaxwell for Vigoroth
 Player A: Metang used Meteor Mash on Vigoroth for 25 damage
 Turn 12:
 Player A: Switched out Metang for Servine
-Player B: Vigoroth used Bulk Up on self
+Player B: Vigoroth used Bulk Up on Vigoroth
 Turn 13:
 Player A: Servine used Giga Drain on Vigoroth for 27 damage
 Player A: Servine used Giga Drain and healed for 7
@@ -64,7 +64,7 @@ Player B: Drakloak fainted
 Player B: Switched out Drakloak for Pikachu
 Turn 18:
 Player B: Pikachu used Fake Out on Servine for 32 damage
-Player A: Servine can't move because flinch
+Player A: Servine can't move because it is flinch
 Turn 19:
 Player A: Servine used Synthesis and healed for 44
 Player B: Pikachu used Volt Switch on Servine for 24 damage
@@ -76,7 +76,7 @@ Player B: Vigoroth fainted
 Player B: Switched out Vigoroth for Pikachu
 Turn 21:
 Player B: Pikachu used Fake Out on Servine for 20 damage
-Player A: Servine can't move because flinch
+Player A: Servine can't move because it is flinch
 Turn 22:
 Player A: Servine used Giga Drain on Pikachu for 100 damage
 Player A: Servine used Giga Drain and healed for 35

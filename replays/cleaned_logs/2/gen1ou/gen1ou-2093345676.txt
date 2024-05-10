@@ -3,7 +3,7 @@ Player A sent out Starmie
 Player B sent out Zapdos
 Turn 1:
 Player A: Starmie used Blizzard on Zapdos but it missed
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Starmie and they are now paralyzed
 Turn 2:
 Player A: Switched out Starmie for Exeggutor
 Player B: Zapdos used Thunderbolt on Exeggutor for 15 damage
@@ -14,7 +14,7 @@ Turn 4:
 Player A: Switched out Exeggutor for Zapdos
 Player B: Zapdos used Drill Peck on Zapdos for 13 damage
 Turn 5:
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Zapdos and they are now paralyzed
 Player A: Zapdos used Thunderbolt on Zapdos for 30 damage
 Turn 6:
 Player B: Zapdos used Thunderbolt on Zapdos for 31 damage
@@ -27,7 +27,7 @@ Player B: Zapdos used Thunderbolt on Zapdos and crit for 25 damage
 Player A: Zapdos fainted
 Player A: Switched out Zapdos for Chansey
 Turn 9:
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Chansey and they are now paralyzed
 Player A: Chansey used Ice Beam on Zapdos for 35 damage (supereffective)
 Turn 10:
 Player B: Zapdos used Drill Peck on Chansey for 36 damage
@@ -50,7 +50,7 @@ Player B: Tauros used Body Slam on Snorlax for 26 damage
 Player A: Snorlax used Body Slam on Tauros for 29 damage
 Turn 16:
 Player B: Tauros used Body Slam on Snorlax for 25 damage
-Player A: Snorlax used Reflect on self
+Player A: Snorlax used Reflect on Snorlax
 Turn 17:
 Player B: Tauros used Body Slam on Snorlax for 12 damage
 Player A: Snorlax used Rest and healed for 88
@@ -65,7 +65,7 @@ Player B: Switched out Exeggutor for Tauros
 Player A: Starmie can't move because it is paralyzed
 Turn 21:
 Player B: Tauros used Body Slam on Starmie for 36 damage
-Player A: Starmie used Thunder Wave
+Player A: Starmie used Thunder Wave on Tauros and they are now paralyzed
 Turn 22:
 Player B: Tauros can't move because it is paralyzed
 Player A: Starmie can't move because it is paralyzed
@@ -110,16 +110,16 @@ Player B: Chansey used Seismic Toss on Chansey for 14 damage
 Player A: Chansey can't move because it is paralyzed
 Turn 35:
 Player B: Chansey used Seismic Toss on Chansey for 14 damage
-Player A: Chansey used Ice Beam on Chansey for 11 damage
+Player A: Chansey used Ice Beam on Chansey for 11 damage and they are now frozen
 Turn 36:
 Player B: Switched out Chansey for Snorlax
 Player A: Chansey can't move because it is paralyzed
 Turn 37:
-Player B: Snorlax used Amnesia on self
+Player B: Snorlax used Amnesia on Snorlax
 Player A: Chansey can't move because it is paralyzed
 Turn 38:
-Player B: Snorlax used Amnesia on self
-Player A: Chansey used Thunder Wave
+Player B: Snorlax used Amnesia on Snorlax
+Player A: Chansey used Thunder Wave on Snorlax and they are now paralyzed
 Turn 39:
 Player B: Snorlax used Ice Beam on Chansey for 25 damage
 Player A: Chansey used Soft-Boiled and healed for 50
@@ -163,8 +163,8 @@ Player A: Chansey used Ice Beam on Exeggutor for 13 damage (supereffective)
 Player B: Exeggutor fainted
 Player B: Switched out Exeggutor for Slowbro
 Turn 52:
-Player B: Slowbro used Amnesia on self
-Player A: Chansey used Thunder Wave
+Player B: Slowbro used Amnesia on Slowbro
+Player A: Chansey used Thunder Wave on Slowbro and they are now paralyzed
 Turn 53:
 Player B: Slowbro used Surf on Chansey for 53 damage
 Player A: Chansey can't move because it is paralyzed

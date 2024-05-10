@@ -27,11 +27,11 @@ Turn 8:
 Player B: Switched out Dragonite for Landorus-Therian
 Player A: Arceus used Extreme Speed on Landorus-Therian for 19 damage
 Turn 9:
-Player A: Arceus used Swords Dance on self
-Player B: Landorus-Therian used Stealth Rock on self
+Player A: Arceus used Swords Dance on Arceus
+Player B: Landorus-Therian used Stealth Rock on Arceus
 Turn 10:
-Player A: Arceus used Swords Dance on self
-Player B: Landorus-Therian used Taunt on self
+Player A: Arceus used Swords Dance on Arceus
+Player B: Landorus-Therian used Taunt on Arceus
 Turn 11:
 Player A: Arceus used Extreme Speed on Landorus-Therian for 51 damage
 Player B: Landorus-Therian used Earthquake on Arceus for 37 damage
@@ -59,19 +59,19 @@ Player B: Dragonite used Extreme Speed on Arceus for 14 damage
 Player A: Arceus fainted
 Player A: Switched out Arceus for Landorus-Therian
 Turn 19:
-Player B: Dragonite used Dragon Dance on self
+Player B: Dragonite used Dragon Dance on Dragonite
 Player A: Landorus-Therian used U-turn on Dragonite for 13 damage
 Player A: Switched out Landorus-Therian for Necrozma-Dusk-Mane
 Turn 20:
 Player B: Dragonite used Fire Punch on Necrozma-Dusk-Mane for 24 damage (supereffective)
-Player A: Necrozma-Dusk-Mane used Dragon Dance on self
+Player A: Necrozma-Dusk-Mane used Dragon Dance on Necrozma-Dusk-Mane
 Turn 21:
 Player B: Dragonite used Fire Punch on Necrozma-Dusk-Mane for 25 damage (supereffective)
 Player A: Necrozma-Dusk-Mane used Knock Off on Dragonite for 6 damage
 Player B: Dragonite fainted
 Player B: Switched out Dragonite for Flutter Mane
 Turn 22:
-Player B: Flutter Mane used Thunderbolt on Necrozma-Dusk-Mane for 26 damage
+Player B: Flutter Mane used Thunderbolt on Necrozma-Dusk-Mane for 26 damage and they are now paralyzed
 Player A: Necrozma-Dusk-Mane used Moonlight and healed for 50
 Turn 23:
 Player B: Flutter Mane used Thunderbolt on Necrozma-Dusk-Mane for 28 damage
@@ -81,21 +81,23 @@ Player A: Switched out Necrozma-Dusk-Mane for Ting-Lu
 Player B: Flutter Mane used Thunderbolt but it had no effect on Ting-Lu
 Turn 25:
 Player B: Switched out Flutter Mane for Koraidon
-Player A: Ting-Lu used Whirlwind on self
+Player A: Ting-Lu used Whirlwind on Koraidon
+Player B: Flutter Mane got dragged out for Flutter Mane by opponent's move
 Turn 26:
-Player B: Koraidon used Moonblast on Ting-Lu for 9 damage
-Player A: Ting-Lu used Ruination on Koraidon for 49 damage
+Player B: Flutter Mane used Moonblast on Ting-Lu for 9 damage
+Player A: Ting-Lu used Ruination on Flutter Mane for 49 damage
 Turn 27:
-Player B: Switched out Koraidon for Koraidon
+Player B: Switched out Flutter Mane for Koraidon
 Player A: Ting-Lu used Ruination on Koraidon for 22 damage
 Turn 28:
-Player B: Koraidon used Swords Dance on self
-Player A: Ting-Lu used Spikes on self
+Player B: Koraidon used Swords Dance on Koraidon
+Player A: Ting-Lu used Spikes on Koraidon
 Turn 29:
-Player B: Koraidon used Swords Dance on self
-Player A: Ting-Lu used Whirlwind on self
+Player B: Koraidon used Swords Dance on Koraidon
+Player A: Ting-Lu used Whirlwind on Koraidon
+Player B: Koraidon got dragged out for Flutter Mane by opponent's move
 Turn 30:
-Player B: Switched out Koraidon for Koraidon
+Player B: Switched out Flutter Mane for Koraidon
 Player A: Ting-Lu used Ruination on Koraidon for 17 damage
 Turn 31:
 Player A: Switched out Ting-Lu for Kyogre
@@ -109,7 +111,7 @@ Player B: Koraidon fainted
 Player B: Switched out Koraidon for Koraidon
 Turn 33:
 Player B: Koraidon used Dragon Claw on Landorus-Therian for 64 damage
-Player A: Landorus-Therian used Earthquake on Koraidon for 1 damage (supereffective)
+Player A: Landorus-Therian used Earthquake on Koraidon for 18 damage (supereffective)
 Player B: Koraidon fainted
 Player B: Switched out Koraidon for Scovillain
 Turn 34:

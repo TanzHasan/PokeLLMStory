@@ -12,12 +12,12 @@ Player B: Switched out Starmie for Exeggutor
 Player A: Chansey used Thunderbolt on Exeggutor for 8 damage
 Turn 4:
 Player A: Switched out Chansey for Gengar
-Player B: Exeggutor used Sleep Powder
+Player B: Exeggutor used Sleep Powder on Gengar and they are now asleep
 Turn 5:
 Player A: Switched out Gengar for Exeggutor
 Player B: Exeggutor used Stun Spore on Exeggutor but it missed
 Turn 6:
-Player A: Exeggutor used Sleep Powder
+Player A: Exeggutor used Sleep Powder on Exeggutor and they are now asleep
 Player B: Exeggutor can't move because it is asleep
 Turn 7:
 Player A: Switched out Exeggutor for Starmie
@@ -27,7 +27,7 @@ Player B: Switched out Starmie for Chansey
 Player A: Switched out Starmie for Chansey
 Turn 9:
 Player A: Switched out Chansey for Snorlax
-Player B: Chansey used Thunder Wave
+Player B: Chansey used Thunder Wave on Snorlax and they are now paralyzed
 Turn 10:
 Player B: Chansey used Ice Beam on Snorlax for 20 damage
 Player A: Snorlax used Body Slam on Chansey for 41 damage
@@ -42,10 +42,10 @@ Player A: Switched out Snorlax for Gengar
 Player B: Snorlax used Body Slam but it had no effect on Gengar
 Turn 14:
 Player A: Switched out Gengar for Exeggutor
-Player B: Snorlax used Body Slam on Exeggutor for 30 damage
+Player B: Snorlax used Body Slam on Exeggutor for 30 damage and they are now paralyzed
 Turn 15:
 Player B: Snorlax used Body Slam on Exeggutor for 31 damage
-Player A: Exeggutor used Stun Spore
+Player A: Exeggutor used Stun Spore on Snorlax and they are now paralyzed
 Turn 16:
 Player B: Switched out Snorlax for Exeggutor
 Player A: Exeggutor used Explosion on Exeggutor for 76 damage
@@ -98,7 +98,7 @@ Player B: Switched out Rhydon for Chansey
 Player A: Starmie used Recover and healed for 49
 Turn 32:
 Player A: Starmie used Hydro Pump on Chansey for 20 damage
-Player B: Chansey used Thunderbolt on Starmie for 45 damage (supereffective)
+Player B: Chansey used Thunderbolt on Starmie for 45 damage and they are now paralyzed (supereffective)
 Turn 33:
 Player A: Switched out Starmie for Snorlax
 Player B: Chansey used Soft-Boiled and healed for 50
@@ -111,7 +111,7 @@ Turn 35:
 Player A: Switched out Snorlax for Chansey
 Player B: Starmie used Psychic on Chansey for 15 damage
 Turn 36:
-Player B: Starmie used Thunder Wave
+Player B: Starmie used Thunder Wave on Chansey and they are now paralyzed
 Player A: Chansey can't move because it is paralyzed
 Turn 37:
 Player B: Switched out Starmie for Snorlax
@@ -144,8 +144,8 @@ Turn 45:
 Player B: Switched out Tauros for Chansey
 Player A: Tauros used Hyper Beam on Chansey for 68 damage
 Turn 46:
-Player A: Tauros can't move because recharge
-Player B: Chansey used Thunder Wave
+Player A: Tauros can't move because it is recharge
+Player B: Chansey used Thunder Wave on Tauros and they are now paralyzed
 Turn 47:
 Player B: Switched out Chansey for Snorlax
 Player A: Switched out Tauros for Chansey

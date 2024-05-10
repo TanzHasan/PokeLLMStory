@@ -3,19 +3,19 @@ Player A sent out Hippowdon
 Player B sent out Ludicolo
 Turn 1:
 Player A: Switched out Hippowdon for Cradily
-Player B: Ludicolo used Rain Dance on self
+Player B: Ludicolo used Rain Dance on Ludicolo
 Turn 2:
 Player B: Switched out Ludicolo for Klefki
-Player A: Cradily used Stealth Rock on self
+Player A: Cradily used Stealth Rock on Klefki
 Turn 3:
 Player A: Switched out Cradily for Excadrill
-Player B: Klefki used Light Screen on self
+Player B: Klefki used Light Screen on Klefki
 Turn 4:
 Player B: Switched out Klefki for Ludicolo
-Player A: Excadrill used Swords Dance on self
+Player A: Excadrill used Swords Dance on Excadrill
 Turn 5:
 Player A: Switched out Excadrill for Cradily
-Player B: Ludicolo used Hydro Pump on self
+Player B: Ludicolo used Hydro Pump on Cradily
 Turn 6:
 Player B: Switched out Ludicolo for Clefable
 Player A: Cradily used Giga Drain on Clefable for 22 damage
@@ -23,10 +23,10 @@ Turn 7:
 Player A: Switched out Cradily for Hippowdon
 Player B: Clefable used Flamethrower on Hippowdon for 17 damage
 Turn 8:
-Player B: Clefable used Calm Mind on self
+Player B: Clefable used Calm Mind on Clefable
 Player A: Hippowdon used Earthquake on Clefable for 23 damage
 Turn 9:
-Player B: Clefable used Wish on self
+Player B: Clefable used Wish on Clefable
 Player A: Hippowdon used Earthquake on Clefable for 28 damage
 Turn 10:
 Player B: Switched out Clefable for Politoed
@@ -39,19 +39,19 @@ Player B: Switched out Politoed for Chansey
 Player A: Celebi used Giga Drain on Chansey for 19 damage
 Turn 13:
 Player A: Switched out Celebi for Gliscor
-Player B: Chansey used Toxic
+Player B: Chansey used Toxic on Gliscor and they are now badly poisoned
 Turn 14:
-Player A: Gliscor used Taunt on self
-Player B: Chansey can't move because move: Taunt
+Player A: Gliscor used Taunt on Chansey
+Player B: Chansey can't move because it is move: Taunt
 Turn 15:
 Player B: Switched out Chansey for Ludicolo
-Player A: Gliscor used Swords Dance on self
+Player A: Gliscor used Swords Dance on Gliscor
 Turn 16:
 Player A: Switched out Gliscor for Cradily
 Player B: Ludicolo used Ice Beam on Cradily for 45 damage (supereffective)
 Turn 17:
 Player B: Ludicolo used Ice Beam on Cradily for 40 damage (supereffective)
-Player A: Cradily used Giga Drain on Ludicolo for 27 damage
+Player A: Cradily used Giga Drain on Ludicolo for 71 damage
 Player A: Cradily used Giga Drain and healed for 10
 Turn 18:
 Player A: Switched out Cradily for Excadrill
@@ -63,7 +63,7 @@ Turn 20:
 Player A: Switched out Excadrill for Cradily
 Player B: Switched out Politoed for Chansey
 Turn 21:
-Player B: Chansey used Wish on self
+Player B: Chansey used Wish on Chansey
 Player A: Cradily used Recover and healed for 63
 Turn 22:
 Player B: Switched out Chansey for Clefable
@@ -76,13 +76,13 @@ Player A: Cradily fainted
 Player A: Switched out Cradily for Celebi
 Turn 24:
 Player B: Switched out Kabutops for Chansey
-Player A: Celebi used Thunder Wave
+Player A: Celebi used Thunder Wave on Chansey and they are now paralyzed
 Turn 25:
 Player A: Switched out Celebi for Hippowdon
-Player B: Chansey used Heal Bell on self
+Player B: Chansey used Heal Bell on Chansey
 Turn 26:
 Player A: Switched out Hippowdon for Excadrill
-Player B: Chansey used Wish on self
+Player B: Chansey used Wish on Chansey
 Turn 27:
 Player A: Excadrill used Earthquake on Chansey for 76 damage
 Player B: Chansey used Counter on Excadrill for 52 damage
@@ -92,45 +92,45 @@ Player A: Switched out Excadrill for Celebi
 Player B: Switched out Chansey for Klefki
 Turn 28:
 Player A: Switched out Celebi for Volcarona
-Player B: Klefki used Toxic
+Player B: Klefki used Toxic on Volcarona and they are now badly poisoned
 Turn 29:
-Player B: Klefki used Light Screen on self
-Player A: Volcarona used Quiver Dance on self
+Player B: Klefki used Light Screen on Klefki
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 30:
 Player B: Switched out Klefki for Politoed
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 31:
 Player A: Volcarona used Giga Drain on Politoed for 57 damage (supereffective)
 Player A: Volcarona used Giga Drain and healed for 0
 Player B: Politoed used Rest and healed for 91
 Turn 32:
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Player B: Politoed can't move because it is asleep
-Player B: Politoed used Sleep Talk on self
+Player B: Politoed used Sleep Talk on Politoed
 Player B: Politoed used Power-Up Punch on Volcarona for 6 damage
 Turn 33:
 Player A: Volcarona used Giga Drain on Politoed for 63 damage (supereffective)
 Player A: Volcarona used Giga Drain and healed for 6
 Player B: Politoed can't move because it is asleep
-Player B: Politoed used Sleep Talk on self
+Player B: Politoed used Sleep Talk on Politoed
 Player B: Politoed used Waterfall on Volcarona for 100 damage (supereffective)
 Player A: Volcarona fainted
 Player A: Switched out Volcarona for Celebi
 Turn 34:
 Player B: Switched out Politoed for Ludicolo
-Player A: Celebi used Thunder Wave
+Player A: Celebi used Thunder Wave on Ludicolo and they are now paralyzed
 Turn 35:
-Player A: Celebi used Giga Drain on Ludicolo for 19 damage
+Player A: Celebi used Giga Drain on Ludicolo for 29 damage
 Player B: Ludicolo fainted
 Player B: Switched out Ludicolo for Klefki
 Turn 36:
 Player A: Switched out Celebi for Hippowdon
 Player B: Klefki used Toxic on Hippowdon but it missed
 Turn 37:
-Player B: Klefki used Reflect on self
+Player B: Klefki used Reflect on Klefki
 Player A: Hippowdon used Earthquake on Klefki for 42 damage (supereffective)
 Turn 38:
-Player B: Klefki used Spikes on self
+Player B: Klefki used Spikes on Hippowdon
 Player A: Hippowdon used Earthquake on Klefki and crit for 58 damage (supereffective)
 Player B: Klefki fainted
 Player B: Switched out Klefki for Politoed
@@ -149,7 +149,7 @@ Player B: Switched out Politoed for Politoed
 Turn 42:
 Player A: Celebi used Giga Drain on Politoed for 59 damage (supereffective)
 Player B: Politoed can't move because it is asleep
-Player B: Politoed used Sleep Talk on self
+Player B: Politoed used Sleep Talk on Politoed
 Turn 43:
 Player A: Celebi used Giga Drain on Politoed for 41 damage (supereffective)
 Player B: Politoed fainted

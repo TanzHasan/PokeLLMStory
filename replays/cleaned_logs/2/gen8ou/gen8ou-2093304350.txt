@@ -2,8 +2,8 @@ Battle start:
 Player A sent out Landorus-Therian
 Player B sent out Clefable
 Turn 1:
-Player A: Landorus-Therian used Stealth Rock on self
-Player B: Clefable used Stealth Rock on self
+Player A: Landorus-Therian used Stealth Rock on Clefable
+Player B: Clefable used Stealth Rock on Landorus-Therian
 Turn 2:
 Player A: Landorus-Therian used U-turn on Clefable for 8 damage
 Player A: Switched out Landorus-Therian for Clefable
@@ -13,7 +13,7 @@ Player B: Switched out Clefable for Blissey
 Player A: Clefable used Knock Off on Blissey for 12 damage
 Turn 4:
 Player A: Switched out Clefable for Corviknight
-Player B: Blissey used Thunder Wave
+Player B: Blissey used Thunder Wave on Corviknight and they are now paralyzed
 Turn 5:
 Player B: Switched out Blissey for Ditto
 Player A: Corviknight used U-turn on Ditto for 15 damage
@@ -25,7 +25,7 @@ Player B: Ditto used U-turn on Clefable for 6 damage
 Player B: Switched out Ditto for Blissey
 Turn 7:
 Player A: Switched out Clefable for Corviknight
-Player B: Blissey used Teleport on self
+Player B: Blissey used Teleport on Blissey
 Player B: Switched out Blissey for Ferrothorn
 Turn 8:
 Player A: Switched out Corviknight for Urshifu-Rapid-Strike
@@ -35,11 +35,11 @@ Player B: Switched out Ferrothorn for Tornadus-Therian
 Player A: Urshifu-Rapid-Strike used Close Combat on Tornadus-Therian for 29 damage
 Turn 10:
 Player A: Switched out Urshifu-Rapid-Strike for Clefable
-Player B: Tornadus-Therian used Defog on self
+Player B: Tornadus-Therian used Defog on Clefable
 Turn 11:
 Player B: Tornadus-Therian used U-turn on Clefable for 5 damage
 Player B: Switched out Tornadus-Therian for Blissey
-Player A: Clefable used Stealth Rock on self
+Player A: Clefable used Stealth Rock on Blissey
 Turn 12:
 Player A: Clefable used Knock Off on Blissey for 22 damage
 Player B: Blissey used Seismic Toss on Clefable for 26 damage
@@ -62,13 +62,13 @@ Player A: Switched out Urshifu-Rapid-Strike for Clefable
 Player B: Ferrothorn used Power Whip on Clefable for 34 damage
 Turn 18:
 Player A: Clefable used Soft-Boiled and healed for 50
-Player B: Ferrothorn used Leech Seed on self
+Player B: Ferrothorn used Leech Seed on Clefable
 Turn 19:
 Player A: Clefable used Knock Off on Ferrothorn for -4 damage
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Clefable
 Turn 20:
 Player A: Clefable used Moonblast on Ferrothorn for 14 damage
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Clefable
 Turn 21:
 Player A: Clefable used Moonblast on Ferrothorn for 14 damage
 Player B: Ferrothorn used Power Whip on Clefable for 35 damage
@@ -77,10 +77,10 @@ Player A: Clefable used Soft-Boiled and healed for 50
 Player B: Ferrothorn used Power Whip on Clefable for 35 damage
 Turn 23:
 Player A: Switched out Clefable for Corviknight
-Player B: Ferrothorn used Power Whip on Corviknight for 6 damage
+Player B: Ferrothorn used Power Whip on Corviknight for 43 damage
 Turn 24:
 Player B: Switched out Ferrothorn for Ditto
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Ditto
 Turn 25:
 Player B: Ditto used Brave Bird on Corviknight for 12 damage
 Player A: Corviknight used Roost and healed for 50
@@ -90,7 +90,7 @@ Player A: Corviknight used U-turn on Tornadus-Therian for -23 damage
 Player A: Switched out Corviknight for Weavile
 Turn 27:
 Player B: Switched out Tornadus-Therian for Gastrodon
-Player A: Weavile used Swords Dance on self
+Player A: Weavile used Swords Dance on Weavile
 Turn 28:
 Player B: Switched out Gastrodon for Blissey
 Player A: Weavile used Triple Axel on Blissey for 35 damage
@@ -100,16 +100,16 @@ Player B: Blissey fainted
 Player B: Switched out Blissey for Ditto
 Turn 30:
 Player A: Switched out Weavile for Urshifu-Rapid-Strike
-Player B: Ditto used Knock Off on Urshifu-Rapid-Strike for 30 damage
+Player B: Ditto used Knock Off on Urshifu-Rapid-Strike for 42 damage
 Turn 31:
 Player B: Switched out Ditto for Gastrodon
-Player A: Urshifu-Rapid-Strike used Surging Strikes on self
+Player A: Urshifu-Rapid-Strike used Surging Strikes on Gastrodon
 Turn 32:
 Player A: Urshifu-Rapid-Strike used U-turn on Gastrodon for 29 damage
 Player A: Switched out Urshifu-Rapid-Strike for Clefable
-Player B: Gastrodon used Toxic
+Player B: Gastrodon used Toxic on Clefable and they are now badly poisoned
 Turn 33:
-Player A: Clefable used Stealth Rock on self
+Player A: Clefable used Stealth Rock on Gastrodon
 Player B: Gastrodon used Scald on Clefable for 30 damage
 Turn 34:
 Player A: Clefable used Soft-Boiled and healed for 50
@@ -133,27 +133,27 @@ Turn 40:
 Player A: Switched out Clefable for Landorus-Therian
 Player B: Gastrodon used Recover and healed for 42
 Turn 41:
-Player A: Landorus-Therian used Toxic
-Player B: Gastrodon used Scald on Landorus-Therian for 32 damage (supereffective)
+Player A: Landorus-Therian used Toxic on Gastrodon and they are now badly poisoned
+Player B: Gastrodon used Scald on Landorus-Therian for 48 damage and they are now burned (supereffective)
 Turn 42:
 Player B: Switched out Gastrodon for Ferrothorn
-Player A: Landorus-Therian used U-turn on Ferrothorn for 13 damage
+Player A: Landorus-Therian used U-turn on Ferrothorn for 29 damage
 Player A: Switched out Landorus-Therian for Clefable
 Turn 43:
 Player A: Clefable used Soft-Boiled and healed for 50
 Player B: Ferrothorn used Power Whip on Clefable for 34 damage
 Turn 44:
 Player A: Switched out Clefable for Corviknight
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Corviknight
 Turn 45:
 Player A: Corviknight used Brave Bird on Ferrothorn for 22 damage
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Corviknight
 Turn 46:
 Player A: Corviknight can't move because it is paralyzed
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Corviknight
 Turn 47:
 Player A: Corviknight can't move because it is paralyzed
-Player B: Ferrothorn used Leech Seed on self
+Player B: Ferrothorn used Leech Seed on Corviknight
 Turn 48:
 Player A: Switched out Corviknight for Clefable
 Player B: Ferrothorn used Knock Off on Clefable for 6 damage
@@ -199,7 +199,7 @@ Turn 61:
 Player B: Tornadus-Therian used Hurricane on Clefable for 6 damage
 Turn 62:
 Player A: Switched out Clefable for Landorus-Therian
-Player B: Tornadus-Therian used U-turn on Landorus-Therian for 4 damage
+Player B: Tornadus-Therian used U-turn on Landorus-Therian for 17 damage
 Player B: Switched out Tornadus-Therian for Ditto
 Turn 63:
 Player B: Ditto used U-turn on Landorus-Therian for 12 damage
@@ -207,8 +207,8 @@ Player B: Switched out Ditto for Tornadus-Therian
 Player A: Landorus-Therian used U-turn on Tornadus-Therian for -3 damage
 Player A: Switched out Landorus-Therian for Corviknight
 Turn 64:
-Player B: Tornadus-Therian used Hurricane on Corviknight for 30 damage
-Player A: Corviknight used Defog on self
+Player B: Tornadus-Therian used Hurricane on Corviknight for 49 damage
+Player A: Corviknight used Defog on Tornadus-Therian
 Turn 65:
 Player B: Tornadus-Therian used Hurricane on Corviknight for 19 damage
 Player A: Corviknight used Roost and healed for 50
@@ -221,7 +221,7 @@ Player A: Landorus-Therian fainted
 Player B: Switched out Tornadus-Therian for Clefable
 Player A: Switched out Landorus-Therian for Clefable
 Turn 68:
-Player B: Clefable used Stealth Rock on self
+Player B: Clefable used Stealth Rock on Clefable
 Player A: Clefable used Soft-Boiled and healed for 50
 Turn 69:
 Player B: Switched out Clefable for Tornadus-Therian
@@ -233,7 +233,7 @@ Player A: Switched out Clefable for Corviknight
 Player B: Tornadus-Therian used Hurricane on Corviknight but it missed
 Turn 72:
 Player B: Tornadus-Therian used Hurricane on Corviknight for 30 damage
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Tornadus-Therian
 Turn 73:
 Player B: Tornadus-Therian used Hurricane on Corviknight but it missed
 Player A: Corviknight can't move because it is paralyzed
@@ -246,10 +246,10 @@ Player A: Corviknight used U-turn on Tornadus-Therian for 7 damage
 Player A: Switched out Corviknight for Weavile
 Turn 76:
 Player B: Switched out Tornadus-Therian for Clefable
-Player A: Weavile used Swords Dance on self
+Player A: Weavile used Swords Dance on Weavile
 Turn 77:
 Player A: Weavile used Knock Off on Clefable for 39 damage
-Player B: Clefable used Knock Off on Weavile for 14 damage
+Player B: Clefable used Knock Off on Weavile for 30 damage
 Turn 78:
 Player A: Weavile used Triple Axel on Clefable for 8 damage
 Player B: Clefable fainted
@@ -263,7 +263,7 @@ Player B: Ditto used Triple Axel on Corviknight and crit for 21 damage
 Player A: Corviknight fainted
 Player A: Switched out Corviknight for Urshifu-Rapid-Strike
 Turn 81:
-Player A: Urshifu-Rapid-Strike used Aqua Jet on Ditto for 4 damage
+Player A: Urshifu-Rapid-Strike used Aqua Jet on Ditto for 100 damage
 Player B: Ditto fainted
 Player B: Switched out Ditto for Tornadus-Therian
 Turn 82:

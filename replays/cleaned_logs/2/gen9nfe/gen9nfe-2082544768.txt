@@ -2,10 +2,10 @@ Battle start:
 Player A sent out Charjabug
 Player B sent out Clefairy
 Turn 1:
-Player A: Charjabug used Sticky Web on self
-Player B: Clefairy used Stealth Rock on self
+Player A: Charjabug used Sticky Web on Clefairy
+Player B: Clefairy used Stealth Rock on Charjabug
 Turn 2:
-Player A: Charjabug used Thunder Wave
+Player A: Charjabug used Thunder Wave on Clefairy and they are now paralyzed
 Player B: Clefairy used Knock Off on Charjabug for 9 damage
 Turn 3:
 Player A: Charjabug used Skitter Smack on Clefairy for 11 damage
@@ -23,19 +23,20 @@ Turn 7:
 Player A: Switched out Dartrix for Morgrem
 Player B: Switched out Marshtomp for Clefairy
 Turn 8:
-Player A: Morgrem used Light Screen on self
+Player A: Morgrem used Light Screen on Morgrem
 Player B: Clefairy used Moonblast on Morgrem for 47 damage (supereffective)
 Turn 9:
-Player A: Morgrem used Reflect on self
+Player A: Morgrem used Reflect on Morgrem
 Player B: Clefairy can't move because it is paralyzed
 Turn 10:
-Player A: Morgrem used Parting Shot on self
+Player A: Morgrem used Parting Shot on Clefairy
 Player A: Switched out Morgrem for Wartortle
 Player B: Clefairy used Moonblast on Wartortle for 22 damage
 Turn 11:
 Player B: Switched out Clefairy for Gloom
+Player A: Wartortle used Substitute on Wartortle
 Turn 12:
-Player A: Wartortle used Shell Smash on self
+Player A: Wartortle used Shell Smash on Wartortle
 Player B: Gloom used Leech Seed on Wartortle but it missed
 Turn 13:
 Player A: Wartortle used Ice Beam on Gloom for 100 damage (supereffective)
@@ -49,27 +50,27 @@ Turn 15:
 Player A: Wartortle used Ice Beam on Sliggoo-Hisui for 33 damage
 Player B: Sliggoo-Hisui used Rest and healed for 33
 Turn 16:
-Player A: Wartortle used Shell Smash on self
+Player A: Wartortle used Shell Smash on Wartortle
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
 Turn 17:
 Player A: Wartortle used Ice Beam on Sliggoo-Hisui for 49 damage
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
-Player B: Sliggoo-Hisui used Curse on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+Player B: Sliggoo-Hisui used Curse on Sliggoo-Hisui
 Turn 18:
 Player A: Wartortle used Ice Beam on Sliggoo-Hisui for 42 damage
 Player B: Sliggoo-Hisui used Rest and healed for 91
 Turn 19:
-Player A: Wartortle used Shell Smash on self
+Player A: Wartortle used Shell Smash on Wartortle
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
-Player B: Sliggoo-Hisui used Iron Head on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+Player B: Sliggoo-Hisui used Iron Head on Wartortle
 Turn 20:
 Player A: Wartortle used Ice Beam on Sliggoo-Hisui for 57 damage
 Player B: Sliggoo-Hisui can't move because it is asleep
-Player B: Sliggoo-Hisui used Sleep Talk on self
-Player B: Sliggoo-Hisui used Curse on self
+Player B: Sliggoo-Hisui used Sleep Talk on Sliggoo-Hisui
+Player B: Sliggoo-Hisui used Curse on Sliggoo-Hisui
 Turn 21:
 Player A: Wartortle used Ice Beam on Sliggoo-Hisui for 43 damage
 Player B: Sliggoo-Hisui fainted
@@ -83,6 +84,7 @@ Player A: Wartortle used Surf on Marshtomp for 78 damage
 Player B: Marshtomp fainted
 Player B: Switched out Marshtomp for Clefairy
 Turn 24:
+Player A: Wartortle used Substitute on Wartortle
 Turn 25:
 Player A: Wartortle used Surf on Clefairy for 89 damage
 Player B: Clefairy fainted

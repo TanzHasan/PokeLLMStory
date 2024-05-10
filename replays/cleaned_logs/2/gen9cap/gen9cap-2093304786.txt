@@ -5,17 +5,18 @@ Turn 1:
 Player A: Miasmaw used U-turn on Astrolotl for 24 damage
 Player A: Switched out Miasmaw for Quagsire
 Player B: Astrolotl used Dragon Tail on Quagsire for 19 damage
+Player A: Miasmaw got dragged out for Miasmaw by opponent's move
 Turn 2:
-Player B: Astrolotl used Spikes on self
-Player A: Quagsire used Dragon Tail on Astrolotl for 76 damage (supereffective)
+Player B: Astrolotl used Spikes on Miasmaw
+Player A: Miasmaw used Dragon Tail on Astrolotl for 76 damage (supereffective)
 Player B: Astrolotl fainted
 Player B: Switched out Astrolotl for Plasmanta
 Turn 3:
-Player B: Plasmanta used Charge Beam on Quagsire for 12 damage
-Player A: Quagsire used U-turn on Plasmanta for 19 damage
-Player A: Switched out Quagsire for Aurumoth
+Player B: Plasmanta used Charge Beam on Miasmaw for 12 damage
+Player A: Miasmaw used U-turn on Plasmanta for 19 damage
+Player A: Switched out Miasmaw for Aurumoth
 Turn 4:
-Player A: Aurumoth used Dragon Dance on self
+Player A: Aurumoth used Dragon Dance on Aurumoth
 Player B: Plasmanta used Charge Beam on Aurumoth for 50 damage
 Turn 5:
 Player A: Aurumoth used Zen Headbutt on Plasmanta for 81 damage (supereffective)

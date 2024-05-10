@@ -2,17 +2,19 @@ Battle start:
 Player A sent out Muk-Alola
 Player B sent out Venusaur
 Turn 1:
-Player A: Muk-Alola used Parting Shot on self
+Player A: Muk-Alola used Parting Shot on Venusaur
 Player A: Switched out Muk-Alola for Charizard-Mega-Y
+Player B: Venusaur used Clangorous Soul on Venusaur
 Turn 2:
 Player B: Switched out Venusaur for Escavalier
+Player A: Charizard-Mega-Y used Clangorous Soul on Charizard-Mega-Y
 Turn 3:
 Player A: Charizard-Mega-Y used Aeroblast on Escavalier for 100 damage
 Player B: Escavalier fainted
 Player B: Switched out Escavalier for Miraidon
 Turn 4:
 Player A: Charizard-Mega-Y used Stored Power on Miraidon for 76 damage
-Player B: Miraidon used Electro Drift on Charizard-Mega-Y for 68 damage (supereffective)
+Player B: Miraidon used Electro Drift on Charizard-Mega-Y for 100 damage (supereffective)
 Player A: Charizard-Mega-Y fainted
 Player A: Switched out Charizard-Mega-Y for Buzzwole
 Turn 5:
@@ -20,10 +22,10 @@ Player B: Switched out Miraidon for Aegislash
 Player A: Buzzwole used Drain Punch but it had no effect on Aegislash
 Turn 6:
 Player A: Switched out Buzzwole for Alakazam-Mega
-Player B: Aegislash used Sticky Web on self
+Player B: Aegislash used Sticky Web on Alakazam-Mega
 Turn 7:
 Player A: Alakazam-Mega used Armor Cannon on Aegislash for 83 damage (supereffective)
-Player B: Aegislash used Stealth Rock on self
+Player B: Aegislash used Stealth Rock on Alakazam-Mega
 Turn 8:
 Player A: Alakazam-Mega used Armor Cannon on Aegislash for 17 damage (supereffective)
 Player B: Aegislash fainted
@@ -37,7 +39,7 @@ Player A: Alakazam-Mega fainted
 Player A: Switched out Alakazam-Mega for Blissey
 Turn 11:
 Player A: Blissey used Fake Out on Greninja for 8 damage
-Player B: Greninja can't move because flinch
+Player B: Greninja can't move because it is flinch
 Turn 12:
 Player B: Greninja used Surging Strikes on Blissey and crit for 27 damage
 Player A: Blissey used Final Gambit on Greninja for 12 damage
@@ -54,10 +56,10 @@ Player B: Palkia-Origin used Spacial Rend on Buzzwole and crit for 78 damage
 Player A: Buzzwole fainted
 Player A: Switched out Buzzwole for Muk-Alola
 Turn 15:
-Player A: Muk-Alola used Toxic
+Player A: Muk-Alola used Toxic on Palkia-Origin and they are now badly poisoned
 Player B: Palkia-Origin used Spacial Rend on Muk-Alola for 78 damage
 Turn 16:
-Player A: Muk-Alola used Parting Shot on self
+Player A: Muk-Alola used Parting Shot on Palkia-Origin
 Player A: Switched out Muk-Alola for Shuckle
 Player B: Palkia-Origin used Spacial Rend on Shuckle for 63 damage
 Turn 17:

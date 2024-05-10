@@ -5,40 +5,41 @@ Turn 1:
 Player A: Switched out Rillaboom for Hawlucha
 Turn 2:
 Player B: Switched out Gliscor for Raging Bolt
-Player A: Hawlucha used Swords Dance on self
+Player A: Hawlucha used Swords Dance on Hawlucha
 Turn 3:
 Player B: Raging Bolt used Thunderclap on Hawlucha for 100 damage (supereffective)
 Player A: Hawlucha fainted
 Player A: Switched out Hawlucha for Dragonite
 Turn 4:
-Player A: Dragonite used Encore on self
+Player A: Dragonite used Encore on Raging Bolt
 Turn 5:
 Player B: Switched out Raging Bolt for Gliscor
-Player A: Dragonite used Dragon Dance on self
+Player A: Dragonite used Dragon Dance on Dragonite
 Turn 6:
-Player A: Dragonite used Dragon Dance on self
-Player B: Gliscor used Toxic
+Player A: Dragonite used Dragon Dance on Dragonite
+Player B: Gliscor used Toxic on Dragonite and they are now badly poisoned
 Turn 7:
-Player A: Dragonite used Dragon Dance on self
-Player B: Gliscor used Toxic
+Player A: Dragonite used Dragon Dance on Dragonite
+Player B: Gliscor used Toxic on Dragonite and they are now badly poisoned
 Turn 8:
 Player B: Switched out Gliscor for Corviknight
 Player A: Dragonite used Extreme Speed on Corviknight for 21 damage
 Turn 9:
-Player A: Dragonite used Dragon Dance on self
+Player A: Dragonite used Dragon Dance on Dragonite
 Player B: Corviknight used Roost and healed for 21
 Turn 10:
-Player A: Dragonite used Encore on self
+Player A: Dragonite used Encore on Corviknight
 Turn 11:
 Player A: Switched out Dragonite for Iron Moth
 Turn 12:
 Player B: Switched out Corviknight for Slowking-Galar
+Player A: Iron Moth used Substitute on Iron Moth
 Turn 13:
 Player A: Iron Moth used Tera Blast on Slowking-Galar for 44 damage (supereffective)
-Player B: Slowking-Galar used Future Sight on self
+Player B: Slowking-Galar used Future Sight on Iron Moth
 Turn 14:
 Player A: Iron Moth used Fiery Dance on Slowking-Galar for 23 damage
-Player B: Slowking-Galar used Flamethrower on self
+Player B: Slowking-Galar used Flamethrower on Iron Moth
 Turn 15:
 Player B: Switched out Slowking-Galar for Gliscor
 Player A: Iron Moth used Fiery Dance on Gliscor for 48 damage
@@ -48,7 +49,7 @@ Player B: Gliscor fainted
 Player B: Switched out Gliscor for Primarina
 Turn 17:
 Player A: Iron Moth used Sludge Wave but it had no effect on Primarina
-Player B: Primarina used Psychic Noise on Iron Moth for 74 damage (supereffective)
+Player B: Primarina used Psychic Noise on Iron Moth for 99 damage (supereffective)
 Turn 18:
 Player B: Switched out Primarina for Slowking-Galar
 Player A: Iron Moth used Fiery Dance on Slowking-Galar for 13 damage
@@ -62,7 +63,7 @@ Player A: Iron Moth fainted
 Player A: Switched out Iron Moth for Dragonite
 Turn 21:
 Player A: Dragonite used Extreme Speed on Weavile for 58 damage
-Player B: Weavile used Ice Shard on Dragonite for 78 damage (supereffective)
+Player B: Weavile used Ice Shard on Dragonite for 100 damage (supereffective)
 Player A: Dragonite fainted
 Player A: Switched out Dragonite for Rillaboom
 Turn 22:
@@ -72,7 +73,7 @@ Player A: Switched out Rillaboom for Hatterene
 Turn 23:
 Player B: Corviknight used U-turn on Hatterene for 12 damage
 Player B: Switched out Corviknight for Primarina
-Player A: Hatterene used Calm Mind on self
+Player A: Hatterene used Calm Mind on Hatterene
 Turn 24:
 Player B: Primarina used Psychic Noise on Hatterene for 19 damage
 Player A: Hatterene used Mystical Fire on Primarina for 36 damage (supereffective)
@@ -89,7 +90,7 @@ Player B: Primarina used Psychic Noise on Hatterene for 19 damage
 Player A: Hatterene used Mystical Fire on Primarina for 36 damage (supereffective)
 Turn 28:
 Player B: Primarina used Moonblast on Hatterene for 23 damage
-Player A: Hatterene used Calm Mind on self
+Player A: Hatterene used Calm Mind on Hatterene
 Turn 29:
 Player B: Primarina used Psychic Noise on Hatterene for 14 damage
 Player A: Hatterene used Mystical Fire on Primarina for 25 damage (supereffective)

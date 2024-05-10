@@ -13,8 +13,8 @@ Player B: Switched out Serperior for Landorus-Therian
 Player A: Jirachi used U-turn on Landorus-Therian for 6 damage
 Player A: Switched out Jirachi for Landorus-Therian
 Turn 4:
-Player B: Landorus-Therian used Stealth Rock on self
-Player A: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Landorus-Therian
+Player A: Landorus-Therian used Stealth Rock on Landorus-Therian
 Turn 5:
 Player B: Switched out Landorus-Therian for Manaphy
 Player A: Landorus-Therian used U-turn on Manaphy for 34 damage
@@ -27,7 +27,7 @@ Player A: Switched out Manectric for Landorus-Therian
 Player B: Landorus-Therian used U-turn on Landorus-Therian for 16 damage
 Player B: Switched out Landorus-Therian for Serperior
 Turn 8:
-Player B: Serperior used Reflect on self
+Player B: Serperior used Reflect on Serperior
 Player A: Landorus-Therian used U-turn on Serperior for 35 damage (supereffective)
 Player A: Switched out Landorus-Therian for Jirachi
 Turn 9:
@@ -41,7 +41,7 @@ Player B: Landorus-Therian used Explosion on Landorus-Therian for 56 damage
 Player B: Landorus-Therian fainted
 Player B: Switched out Landorus-Therian for Gallade
 Turn 11:
-Player B: Gallade used Swords Dance on self
+Player B: Gallade used Swords Dance on Gallade
 Player A: Landorus-Therian used Earthquake on Gallade for 31 damage
 Turn 12:
 Player B: Gallade used Psycho Cut on Landorus-Therian for 28 damage
@@ -79,13 +79,13 @@ Turn 19:
 Player A: Switched out Manectric for Breloom
 Turn 20:
 Player B: Switched out Bisharp for Manaphy
-Player A: Breloom used Spore
+Player A: Breloom used Spore on Manaphy and they are now asleep
 Turn 21:
 Player B: Switched out Manaphy for Volcarona
 Player A: Switched out Breloom for Manectric-Mega
 Turn 22:
 Player A: Manectric used Thunderbolt on Volcarona for 76 damage
-Player B: Volcarona used Quiver Dance on self
+Player B: Volcarona used Quiver Dance on Volcarona
 Turn 23:
 Player B: Volcarona used Giga Drain on Manectric for 100 damage
 Player B: Volcarona used Giga Drain and healed for 22
@@ -93,5 +93,5 @@ Player A: Manectric fainted
 Player A: Switched out Manectric for Breloom
 Turn 24:
 Player A: Breloom used Mach Punch on Volcarona for 31 damage
-Player B: Volcarona used Flamethrower on Breloom for 78 damage (supereffective)
+Player B: Volcarona used Flamethrower on Breloom for 100 damage (supereffective)
 Player A: Breloom fainted

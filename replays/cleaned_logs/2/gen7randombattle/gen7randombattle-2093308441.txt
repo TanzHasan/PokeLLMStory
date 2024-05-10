@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Abomasnow
 Player B sent out Raichu
 Turn 1:
-Player B: Raichu used Nasty Plot on self
+Player B: Raichu used Nasty Plot on Raichu
 Player A: Abomasnow used Blizzard on Raichu for 121 damage
 Turn 2:
 Player B: Raichu used Focus Blast on Abomasnow for 283 damage (supereffective)
-Player A: Abomasnow used Blizzard on Raichu for 89 damage
+Player A: Abomasnow used Blizzard on Raichu for 128 damage
 Player B: Raichu fainted
 Player B: Switched out Raichu for Heatmor
 Turn 3:
@@ -15,36 +15,36 @@ Player A: Abomasnow fainted
 Player A: Switched out Abomasnow for Magcargo
 Turn 4:
 Player B: Heatmor used Superpower on Magcargo for 187 damage (supereffective)
-Player A: Magcargo used Shell Smash on self
+Player A: Magcargo used Shell Smash on Magcargo
 Turn 5:
 Player B: Heatmor used Sucker Punch on Magcargo for 52 damage
-Player A: Magcargo used Ancient Power on Heatmor for 176 damage (supereffective)
+Player A: Magcargo used Ancient Power on Heatmor for 299 damage (supereffective)
 Player B: Heatmor fainted
 Player B: Switched out Heatmor for Delcatty
 Turn 6:
 Player B: Delcatty used Fake Out on Magcargo for 16 damage
-Player A: Magcargo can't move because flinch
+Player A: Magcargo can't move because it is flinch
 Turn 7:
 Player B: Delcatty used Stomping Tantrum on Magcargo for 7 damage (supereffective)
 Player A: Magcargo fainted
 Player A: Switched out Magcargo for Mewtwo
 Turn 8:
-Player B: Delcatty used Thunder Wave
-Player A: Mewtwo used Bulk Up on self
+Player B: Delcatty used Thunder Wave on Mewtwo and they are now paralyzed
+Player A: Mewtwo used Bulk Up on Mewtwo
 Turn 9:
 Player B: Switched out Delcatty for Meloetta
 Player A: Mewtwo used Zen Headbutt on Meloetta for 95 damage
 Turn 10:
 Player B: Meloetta used Relic Song on Mewtwo for 122 damage
-Player A: Mewtwo used Drain Punch on Meloetta for 174 damage (supereffective)
+Player A: Mewtwo used Drain Punch on Meloetta for 203 damage (supereffective)
 Player A: Mewtwo used Drain Punch and healed for 87
 Player B: Meloetta fainted
 Player B: Switched out Meloetta for Zygarde-10%
 Turn 11:
-Player B: Zygarde-10% used Coil on self
+Player B: Zygarde-10% used Coil on Zygarde-10%
 Player A: Mewtwo can't move because it is paralyzed
 Turn 12:
-Player B: Zygarde-10% used Coil on self
+Player B: Zygarde-10% used Coil on Zygarde-10%
 Player A: Mewtwo used Drain Punch on Zygarde-10% for 94 damage
 Player A: Mewtwo used Drain Punch and healed for 35
 Turn 13:
@@ -62,9 +62,9 @@ Player B: Zygarde-10% fainted
 Player B: Switched out Zygarde-10% for Meganium
 Turn 16:
 Player A: Switched out Floette-Eternal for Giratina
-Player B: Meganium used Toxic
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
 Turn 17:
-Player B: Meganium used Leech Seed on self
+Player B: Meganium used Leech Seed on Giratina
 Player A: Giratina used Shadow Ball on Meganium for 67 damage
 Turn 18:
 Player B: Meganium used Giga Drain on Giratina for 122 damage
@@ -76,19 +76,19 @@ Player A: Giratina used Rest and healed for 245
 Turn 20:
 Player B: Meganium used Giga Drain on Giratina for 82 damage
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
+Player A: Giratina used Sleep Talk on Giratina
 Turn 21:
 Player B: Meganium used Giga Drain on Giratina for 55 damage
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
-Player A: Giratina used Shadow Ball on Meganium for 0 damage
+Player A: Giratina used Sleep Talk on Giratina
+Player A: Giratina used Shadow Ball on Meganium
 Turn 22:
 Player B: Meganium used Giga Drain on Giratina for 60 damage
 Player A: Giratina used Rest and healed for 197
 Turn 23:
 Player B: Switched out Meganium for Delcatty
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
+Player A: Giratina used Sleep Talk on Giratina
 Player A: Giratina used Shadow Ball but it had no effect on Delcatty
 Turn 24:
 Player B: Delcatty used Stomping Tantrum on Giratina for 88 damage
@@ -96,96 +96,104 @@ Player A: Giratina can't move because it is asleep
 Turn 25:
 Player B: Delcatty used Stomping Tantrum on Giratina for 45 damage
 Player A: Giratina used Dragon Tail on Delcatty for 82 damage
+Player B: Delcatty got dragged out for Meganium by opponent's move
 Turn 26:
-Player B: Delcatty used Toxic
-Player A: Giratina used Shadow Ball on Delcatty for 4 damage
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
+Player A: Giratina used Shadow Ball on Meganium for 4 damage
 Turn 27:
-Player B: Delcatty used Giga Drain on Giratina for 99 damage
-Player B: Delcatty used Giga Drain and healed for 64
+Player B: Meganium used Giga Drain on Giratina for 99 damage
+Player B: Meganium used Giga Drain and healed for 64
 Player A: Giratina used Rest and healed for 232
 Turn 28:
-Player B: Delcatty used Giga Drain on Giratina for 80 damage
+Player B: Meganium used Giga Drain on Giratina for 80 damage
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
+Player A: Giratina used Sleep Talk on Giratina
 Turn 29:
-Player B: Delcatty used Giga Drain on Giratina for 55 damage
+Player B: Meganium used Giga Drain on Giratina for 55 damage
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
+Player A: Giratina used Sleep Talk on Giratina
 Turn 30:
-Player A: Giratina used Shadow Ball on Delcatty for 64 damage
+Player A: Giratina used Shadow Ball on Meganium for 64 damage
 Turn 31:
-Player B: Delcatty used Toxic
-Player A: Giratina used Shadow Ball on Delcatty for 38 damage
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
+Player A: Giratina used Shadow Ball on Meganium for 38 damage
 Turn 32:
-Player B: Delcatty used Synthesis and healed for 102
+Player B: Meganium used Synthesis and healed for 102
 Player A: Giratina used Rest and healed for 135
 Turn 33:
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
-Player A: Giratina used Shadow Ball on Delcatty for 100 damage
+Player A: Giratina used Sleep Talk on Giratina
+Player A: Giratina used Shadow Ball on Meganium for 100 damage
 Turn 34:
-Player B: Delcatty used Synthesis and healed for 100
+Player B: Meganium used Synthesis and healed for 100
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
-Player A: Giratina used Dragon Tail on Delcatty for 43 damage
+Player A: Giratina used Sleep Talk on Giratina
+Player A: Giratina used Dragon Tail on Meganium for 43 damage
+Player B: Meganium got dragged out for Delcatty by opponent's move
 Turn 35:
 Player B: Delcatty used Fake Out but it had no effect on Giratina
 Player A: Giratina used Dragon Tail on Delcatty for 38 damage
+Player B: Delcatty got dragged out for Meganium by opponent's move
 Turn 36:
-Player B: Delcatty used Toxic
-Player A: Giratina used Shadow Ball on Delcatty for 17 damage
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
+Player A: Giratina used Shadow Ball on Meganium for 17 damage
 Turn 37:
-Player A: Giratina used Shadow Ball on Delcatty for -3 damage
+Player A: Giratina used Shadow Ball on Meganium for -3 damage
 Turn 38:
 Player A: Giratina used Rest and healed for 0
 Turn 39:
 Player A: Giratina can't move because it is asleep
 Turn 40:
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
-Player A: Giratina used Shadow Ball on Delcatty and crit for 42 damage
+Player A: Giratina used Sleep Talk on Giratina
+Player A: Giratina used Shadow Ball on Meganium and crit for 42 damage
 Turn 41:
-Player A: Giratina used Shadow Ball on Delcatty for -2 damage
+Player A: Giratina used Shadow Ball on Meganium for -2 damage
 Turn 42:
 Player A: Switched out Giratina for Floette-Eternal
-Player B: Delcatty used Toxic
+Player B: Meganium used Toxic on Floette-Eternal and they are now badly poisoned
 Turn 43:
-Player A: Floette-Eternal used Light of Ruin on Delcatty for 65 damage
-Player B: Delcatty used Leech Seed on self
+Player A: Floette-Eternal used Light of Ruin on Meganium for 65 damage
+Player B: Meganium used Leech Seed on Floette-Eternal
 Turn 44:
 Player A: Switched out Floette-Eternal for Giratina
-Player B: Delcatty used Synthesis and healed for 162
+Player B: Meganium used Synthesis and healed for 162
 Turn 45:
-Player B: Delcatty used Toxic
-Player A: Giratina used Shadow Ball on Delcatty for 58 damage
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
+Player A: Giratina used Shadow Ball on Meganium for 58 damage
 Turn 46:
-Player B: Delcatty used Leech Seed on self
-Player A: Giratina used Shadow Ball on Delcatty for 43 damage
+Player B: Meganium used Leech Seed on Giratina
+Player A: Giratina used Shadow Ball on Meganium for 43 damage
 Turn 47:
-Player B: Delcatty used Synthesis and healed for 101
-Player A: Giratina used Shadow Ball on Delcatty for 64 damage
+Player B: Meganium used Synthesis and healed for 101
+Player A: Giratina used Shadow Ball on Meganium for 64 damage
 Turn 48:
-Player B: Delcatty used Synthesis and healed for 64
+Player B: Meganium used Synthesis and healed for 64
 Player A: Giratina used Rest and healed for 0
 Turn 49:
-Player B: Switched out Delcatty for Delcatty
+Player B: Switched out Meganium for Delcatty
 Player A: Giratina can't move because it is asleep
 Turn 50:
 Player B: Delcatty used Stomping Tantrum on Giratina for 87 damage
 Player A: Giratina can't move because it is asleep
-Player A: Giratina used Sleep Talk on self
+Player A: Giratina used Sleep Talk on Giratina
 Player A: Giratina used Dragon Tail on Delcatty for 29 damage
+Player B: Delcatty got dragged out for Meganium by opponent's move
 Turn 51:
-Player A: Giratina used Dragon Tail on Delcatty for 42 damage
+Player A: Giratina used Dragon Tail on Meganium for 42 damage
+Player B: Meganium got dragged out for Delcatty by opponent's move
 Turn 52:
 Player B: Delcatty used Stomping Tantrum on Giratina for 68 damage
 Player A: Giratina used Dragon Tail on Delcatty for 34 damage
+Player B: Delcatty got dragged out for Meganium by opponent's move
 Turn 53:
-Player B: Delcatty used Toxic
-Player A: Giratina used Dragon Tail on Delcatty for 4 damage
+Player B: Meganium used Toxic on Giratina and they are now badly poisoned
+Player A: Giratina used Dragon Tail on Meganium for 4 damage
+Player B: Meganium got dragged out for Delcatty by opponent's move
 Turn 54:
 Player B: Delcatty used Stomping Tantrum on Giratina for 90 damage
 Player A: Giratina used Dragon Tail on Delcatty for 37 damage
+Player B: Delcatty got dragged out for Meganium by opponent's move
 Turn 55:
 Player A: Giratina used Rest and healed for 245
 Turn 56:

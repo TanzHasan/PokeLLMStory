@@ -7,7 +7,7 @@ Player B: Walking Wake fainted
 Player B: Switched out Walking Wake for Iron Valiant
 Turn 2:
 Player A: Switched out Darkrai for Clodsire
-Player B: Iron Valiant used Calm Mind on self
+Player B: Iron Valiant used Calm Mind on Iron Valiant
 Turn 3:
 Player B: Switched out Iron Valiant for Iron Treads
 Player A: Clodsire used Poison Jab but it had no effect on Iron Treads
@@ -33,10 +33,10 @@ Player A: Switched out Darkrai for Clodsire
 Player B: Iron Valiant used Shadow Ball on Clodsire for 18 damage
 Turn 10:
 Player B: Iron Valiant used Shadow Ball on Clodsire for 12 damage
-Player A: Clodsire used Earthquake on Iron Valiant for 35 damage
+Player A: Clodsire used Earthquake on Iron Valiant for 54 damage
 Turn 11:
 Player B: Iron Valiant used Shadow Ball on Clodsire for 23 damage
-Player A: Clodsire used Poison Jab on Iron Valiant for 36 damage (supereffective)
+Player A: Clodsire used Poison Jab on Iron Valiant for 46 damage (supereffective)
 Player B: Iron Valiant fainted
 Player B: Switched out Iron Valiant for Iron Leaves
 Turn 12:

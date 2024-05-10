@@ -9,14 +9,14 @@ Turn 2:
 Player A: Switched out Dragapult for Corviknight
 Player B: Melmetal used Thunder Punch on Corviknight for 38 damage (supereffective)
 Turn 3:
-Player A: Corviknight used Body Press on Melmetal for 25 damage (supereffective)
+Player A: Corviknight used Body Press on Melmetal for 41 damage (supereffective)
 Player B: Melmetal used Earthquake but it had no effect on Corviknight
 Turn 4:
 Player B: Switched out Melmetal for Rotom-Wash
 Player A: Corviknight used Body Press on Rotom-Wash for 20 damage
 Turn 5:
 Player A: Switched out Corviknight for Blissey
-Player B: Rotom-Wash used Pain Split on self
+Player B: Rotom-Wash used Pain Split on Blissey
 Turn 6:
 Player B: Rotom-Wash used Volt Switch on Blissey for 50 damage
 Player B: Switched out Rotom-Wash for Melmetal
@@ -27,7 +27,7 @@ Player A: Blissey used Counter on Melmetal for 59 damage
 Player B: Melmetal fainted
 Player B: Switched out Melmetal for Clefable
 Turn 8:
-Player B: Clefable used Stealth Rock on self
+Player B: Clefable used Stealth Rock on Blissey
 Player A: Blissey used Seismic Toss on Clefable for 25 damage
 Turn 9:
 Player A: Switched out Blissey for Diggersby
@@ -40,9 +40,9 @@ Player A: Switched out Diggersby for Blissey
 Player B: Switched out Rotom-Wash for Dragapult
 Turn 12:
 Player B: Switched out Dragapult for Rotom-Wash
-Player A: Blissey used Soft-Boiled and healed for 38
+Player A: Blissey used Soft-Boiled and healed for 21
 Turn 13:
-Player B: Rotom-Wash used Pain Split on self
+Player B: Rotom-Wash used Pain Split on Blissey
 Player A: Blissey used Toxic on Rotom-Wash but it missed
 Turn 14:
 Player B: Rotom-Wash used Volt Switch on Blissey for 45 damage
@@ -55,7 +55,7 @@ Turn 16:
 Player B: Heatran used Magma Storm on Blissey for 16 damage
 Player A: Blissey used Seismic Toss on Heatran for 20 damage
 Turn 17:
-Player B: Heatran used Taunt on self
+Player B: Heatran used Taunt on Blissey
 Player A: Blissey used Seismic Toss on Heatran for 20 damage
 Turn 18:
 Player B: Heatran used Magma Storm on Blissey for 41 damage
@@ -64,7 +64,7 @@ Turn 19:
 Player B: Switched out Heatran for Clefable
 Player A: Blissey used Seismic Toss on Clefable for 25 damage
 Turn 20:
-Player B: Clefable used Moonblast on Blissey for 2 damage
+Player B: Clefable used Moonblast on Blissey for 31 damage
 Player A: Blissey fainted
 Player A: Switched out Blissey for Diggersby
 Turn 21:
@@ -90,19 +90,19 @@ Player A: Switched out Dragapult for Corviknight
 Player B: Landorus-Therian used Earthquake but it had no effect on Corviknight
 Turn 27:
 Player B: Switched out Landorus-Therian for Clefable
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Clefable
 Turn 28:
 Player A: Corviknight used Roost and healed for 37
 Player B: Clefable used Soft-Boiled and healed for 49
 Turn 29:
 Player A: Switched out Corviknight for Chansey
-Player B: Clefable used Stealth Rock on self
+Player B: Clefable used Stealth Rock on Chansey
 Turn 30:
 Player B: Clefable used Knock Off on Chansey for 10 damage
 Player A: Chansey used Soft-Boiled and healed for 47
 Turn 31:
 Player B: Clefable used Moonblast on Chansey and crit for 22 damage
-Player A: Chansey used Toxic
+Player A: Chansey used Toxic on Clefable and they are now badly poisoned
 Turn 32:
 Player B: Switched out Clefable for Rotom-Wash
 Player A: Switched out Chansey for Ditto
@@ -150,7 +150,7 @@ Player A: Ditto used Soft-Boiled and healed for 47
 Player B: Clefable used Moonblast on Ditto for 40 damage
 Turn 46:
 Player B: Switched out Clefable for Landorus-Therian
-Player A: Ditto used Stealth Rock on self
+Player A: Ditto used Stealth Rock on Landorus-Therian
 Turn 47:
 Player A: Switched out Ditto for Corviknight
 Player B: Landorus-Therian used Earthquake but it had no effect on Corviknight
@@ -159,7 +159,7 @@ Player B: Switched out Landorus-Therian for Rotom-Wash
 Player A: Corviknight used Roost and healed for 1
 Turn 49:
 Player A: Switched out Corviknight for Dragapult
-Player B: Rotom-Wash used Pain Split on self
+Player B: Rotom-Wash used Pain Split on Dragapult
 Turn 50:
 Player A: Dragapult used Shadow Ball on Rotom-Wash for 57 damage
 Player B: Rotom-Wash used Volt Switch on Dragapult for 35 damage

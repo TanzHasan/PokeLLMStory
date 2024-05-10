@@ -12,7 +12,7 @@ Player B: Switched out Aerodactyl for Hypno
 Player A: Azumarill used Whirlpool on Hypno for 2 damage
 Turn 4:
 Player B: Hypno used Thunder Punch on Azumarill for 15 damage (supereffective)
-Player A: Azumarill used Perish Song on self
+Player A: Azumarill used Perish Song on Azumarill
 Turn 5:
 Player B: Hypno used Thunder Punch on Azumarill for 24 damage (supereffective)
 Player A: Azumarill used Rest and healed for 63
@@ -30,13 +30,14 @@ Player B: Aerodactyl used Earthquake on Azumarill for 18 damage
 Turn 9:
 Player B: Switched out Aerodactyl for Lanturn
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Player A: Azumarill used Rest and healed for 45
 Turn 10:
 Player A: Switched out Azumarill for Victreebel
 Player B: Lanturn used Thunderbolt on Victreebel for 20 damage
 Turn 11:
 Player B: Switched out Lanturn for Jumpluff
+Player A: Victreebel used Substitute on Victreebel
 Turn 12:
 Player B: Jumpluff used Hidden Power
 Player A: Victreebel used Sludge Bomb on Jumpluff for 97 damage (supereffective)
@@ -55,17 +56,17 @@ Player B: Aerodactyl used Earthquake on Azumarill for 21 damage
 Turn 16:
 Player B: Switched out Aerodactyl for Lanturn
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Player A: Azumarill used Whirlpool on Lanturn for 1 damage
 Turn 17:
 Player A: Switched out Azumarill for Victreebel
-Player B: Lanturn used Thunderbolt on Victreebel for 20 damage
+Player B: Lanturn used Thunderbolt on Victreebel for 45 damage
 Turn 18:
 Player A: Victreebel used Giga Drain on Lanturn for 46 damage (supereffective)
 Player A: Victreebel used Giga Drain and healed for 25
-Player B: Lanturn used Ice Beam on Victreebel for 44 damage (supereffective)
+Player B: Lanturn used Ice Beam on Victreebel for 44 damage and they are now frozen (supereffective)
 Turn 19:
-Player A: Victreebel used Sleep Powder
+Player A: Victreebel used Sleep Powder on Lanturn and they are now asleep
 Player B: Lanturn can't move because it is asleep
 Turn 20:
 Player B: Switched out Lanturn for Aerodactyl
@@ -77,18 +78,19 @@ Player B: Aerodactyl used Hidden Power on Azumarill for 12 damage
 Turn 22:
 Player B: Aerodactyl used Ancient Power on Azumarill for 17 damage
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Player A: Azumarill used Whirlpool on Aerodactyl and crit for 17 damage (supereffective)
 Turn 23:
 Player A: Azumarill used Rest and healed for 50
-Player B: Aerodactyl used Roar on self
+Player B: Aerodactyl used Roar on Azumarill
+Player A: Azumarill got dragged out for Victreebel by opponent's move
 Turn 24:
-Player A: Switched out Azumarill for Azumarill
+Player A: Switched out Victreebel for Azumarill
 Player B: Aerodactyl used Hidden Power on Azumarill for 25 damage
 Turn 25:
 Player B: Aerodactyl used Ancient Power on Azumarill for 15 damage
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Player A: Azumarill used Whirlpool on Aerodactyl for 9 damage (supereffective)
 Player B: Aerodactyl fainted
 Player B: Switched out Aerodactyl for Lanturn
@@ -108,17 +110,17 @@ Player B: Arcanine used Flamethrower on Azumarill for 12 damage
 Turn 30:
 Player B: Arcanine used Hidden Power on Azumarill for 25 damage (supereffective)
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Player A: Azumarill used Rest and healed for 77
 Turn 31:
 Player B: Arcanine used Hidden Power on Azumarill for 30 damage (supereffective)
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
-Player A: Azumarill used Perish Song on self
+Player A: Azumarill used Sleep Talk on Azumarill
+Player A: Azumarill used Perish Song on Azumarill
 Turn 32:
 Player B: Arcanine used Hidden Power on Azumarill and crit for 54 damage (supereffective)
 Player A: Azumarill can't move because it is asleep
-Player A: Azumarill used Sleep Talk on self
+Player A: Azumarill used Sleep Talk on Azumarill
 Turn 33:
 Player B: Arcanine used Hidden Power on Azumarill for 16 damage (supereffective)
 Player A: Azumarill fainted
@@ -132,7 +134,7 @@ Player B: Blissey fainted
 Player B: Switched out Blissey for Arcanine
 Turn 36:
 Player A: Dodrio used Double-Edge on Arcanine for 48 damage
-Player B: Arcanine used Flamethrower on Dodrio for 29 damage
+Player B: Arcanine used Flamethrower on Dodrio for 100 damage
 Player A: Dodrio fainted
 Player A: Switched out Dodrio for Alakazam
 Turn 37:

@@ -13,7 +13,7 @@ Player A: Lucario used Extreme Speed on Charizard for 23 damage
 Player B: Charizard fainted
 Player B: Switched out Charizard for Banette
 Turn 4:
-Player A: Lucario used Swords Dance on self
+Player A: Lucario used Swords Dance on Lucario
 Player B: Banette used Gunk Shot but it had no effect on Lucario
 Turn 5:
 Player A: Lucario used Meteor Mash on Banette for 100 damage

@@ -23,11 +23,11 @@ Player B: Meowscarada used U-turn on Great Tusk for 9 damage
 Player B: Switched out Meowscarada for Mismagius
 Player A: Great Tusk used Close Combat but it had no effect on Mismagius
 Turn 7:
-Player B: Mismagius used Skill Swap on self
+Player B: Mismagius used Skill Swap on Great Tusk
 Player A: Great Tusk used Knock Off but it had no effect on Mismagius
 Turn 8:
 Player A: Switched out Great Tusk for Garganacl
-Player B: Mismagius used Nasty Plot on self
+Player B: Mismagius used Nasty Plot on Mismagius
 Turn 9:
 Player B: Mismagius used Shadow Ball on Garganacl for 72 damage
 Player A: Garganacl used Salt Cure on Mismagius for 30 damage
@@ -50,8 +50,8 @@ Player B: Switched out Mismagius for Meowscarada
 Turn 14:
 Player A: Switched out Landorus-Therian for Garganacl
 Turn 15:
-Player A: Garganacl used Protect on self
-Player B: Meowscarada used Flower Trick on self
+Player A: Garganacl used Protect on Garganacl
+Player B: Meowscarada used Flower Trick on Garganacl
 Turn 16:
 Player B: Meowscarada used Flower Trick on Garganacl and crit for 28 damage (supereffective)
 Player A: Garganacl fainted
@@ -61,7 +61,7 @@ Player B: Meowscarada used U-turn on Great Tusk for 11 damage
 Player B: Switched out Meowscarada for Galvantula
 Player A: Great Tusk used Close Combat on Galvantula for 68 damage
 Turn 18:
-Player B: Galvantula used Sticky Web on self
+Player B: Galvantula used Sticky Web on Great Tusk
 Player A: Great Tusk used Close Combat on Galvantula for 32 damage
 Player B: Galvantula fainted
 Player B: Switched out Galvantula for Meowscarada
@@ -72,7 +72,7 @@ Player A: Great Tusk fainted
 Player A: Switched out Great Tusk for Deoxys-Speed
 Turn 20:
 Player B: Meowscarada used U-turn on Deoxys-Speed for 92 damage (supereffective)
-Player A: Deoxys-Speed used Nasty Plot on self
+Player A: Deoxys-Speed used Nasty Plot on Deoxys-Speed
 Turn 21:
 Player B: Meowscarada used Sucker Punch on Deoxys-Speed for 8 damage (supereffective)
 Player A: Deoxys-Speed fainted

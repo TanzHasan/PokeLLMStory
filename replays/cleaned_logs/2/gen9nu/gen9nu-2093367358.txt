@@ -11,7 +11,7 @@ Player A: Switched out Espeon for Swampert
 Player B: Overqwil used Barb Barrage on Swampert for 8 damage
 Turn 3:
 Player B: Switched out Overqwil for Tentacruel
-Player A: Swampert used Stealth Rock on self
+Player A: Swampert used Stealth Rock on Tentacruel
 Turn 4:
 Player B: Tentacruel used Giga Drain on Swampert for 47 damage (supereffective)
 Player B: Tentacruel used Giga Drain and healed for 32
@@ -56,18 +56,18 @@ Turn 15:
 Player B: Overqwil used Barb Barrage on Swampert for -9 damage
 Player A: Swampert used Knock Off on Overqwil for 20 damage
 Turn 16:
-Player B: Overqwil used Spikes on self
+Player B: Overqwil used Spikes on Swampert
 Player A: Swampert used Earthquake on Overqwil for 42 damage (supereffective)
 Turn 17:
 Player B: Overqwil used Liquidation on Swampert for -1 damage
 Player A: Swampert used Knock Off on Overqwil for 6 damage
 Turn 18:
-Player B: Overqwil used Barb Barrage on Swampert for 3 damage
+Player B: Overqwil used Barb Barrage on Swampert for 3 damage and they are now poisoned
 Player A: Swampert used Earthquake on Overqwil for 32 damage (supereffective)
 Player B: Overqwil fainted
 Player B: Switched out Overqwil for Tornadus
 Turn 19:
-Player B: Tornadus used Bulk Up on self
+Player B: Tornadus used Bulk Up on Tornadus
 Player A: Swampert used Knock Off on Tornadus for 46 damage
 Turn 20:
 Player B: Tornadus used Acrobatics on Swampert for 52 damage
@@ -79,7 +79,7 @@ Player B: Tornadus fainted
 Player A: Switched out Rotom-Heat for Tsareena
 Player B: Switched out Tornadus for Infernape
 Turn 22:
-Player B: Infernape used Swords Dance on self
+Player B: Infernape used Swords Dance on Infernape
 Player A: Tsareena used Rapid Spin on Infernape for 40 damage
 Turn 23:
 Player B: Infernape used Fire Punch on Tsareena for 100 damage (supereffective)

@@ -3,15 +3,15 @@ Player A sent out Sudowoodo
 Player B sent out Swalot
 Turn 1:
 Player B: Switched out Swalot for Furfrou-Diamond
-Player A: Sudowoodo used Stealth Rock on self
+Player A: Sudowoodo used Stealth Rock on Furfrou-Diamond
 Turn 2:
 Player A: Switched out Sudowoodo for Volbeat
-Player B: Furfrou-Diamond used Thunder Wave
+Player B: Furfrou-Diamond used Thunder Wave on Volbeat and they are now paralyzed
 Turn 3:
 Player B: Switched out Furfrou-Diamond for Swalot
 Player A: Volbeat can't move because it is paralyzed
 Turn 4:
-Player A: Volbeat used Thunder Wave
+Player A: Volbeat used Thunder Wave on Swalot and they are now paralyzed
 Player B: Swalot used Sludge Bomb on Volbeat for 84 damage
 Turn 5:
 Player A: Volbeat can't move because it is paralyzed
@@ -30,7 +30,7 @@ Player A: Volbeat can't move because it is paralyzed
 Player B: Swalot used Sludge Bomb on Volbeat for 77 damage
 Turn 10:
 Player A: Switched out Volbeat for Sudowoodo
-Player B: Swalot used Sludge Bomb on Sudowoodo for 47 damage
+Player B: Swalot used Sludge Bomb on Sudowoodo for 47 damage and they are now poisoned
 Turn 11:
 Player B: Switched out Swalot for Furfrou-Diamond
 Player A: Sudowoodo used Stone Edge on Furfrou-Diamond for 112 damage
@@ -40,7 +40,7 @@ Player B: Furfrou-Diamond used Return on Clefable for 109 damage
 Turn 13:
 Player B: Furfrou-Diamond used U-turn on Clefable for 9 damage
 Player B: Switched out Furfrou-Diamond for Swalot
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 14:
 Player A: Switched out Clefable for Meowstic
 Player B: Swalot used Sludge Bomb on Meowstic for 94 damage
@@ -48,7 +48,7 @@ Turn 15:
 Player B: Switched out Swalot for Reuniclus
 Player A: Meowstic used Psychic on Reuniclus for 47 damage
 Turn 16:
-Player A: Meowstic used Thunder Wave
+Player A: Meowstic used Thunder Wave on Reuniclus and they are now paralyzed
 Player B: Reuniclus used Shadow Ball on Meowstic for 166 damage (supereffective)
 Turn 17:
 Player A: Switched out Meowstic for Shiftry
@@ -77,7 +77,7 @@ Player A: Volbeat used U-turn on Seviper for 101 damage
 Player A: Switched out Volbeat for Sudowoodo
 Player B: Seviper used Flamethrower on Sudowoodo for 41 damage
 Turn 24:
-Player A: Sudowoodo used Sucker Punch on Seviper for 88 damage
+Player A: Sudowoodo used Sucker Punch on Seviper for 115 damage
 Player B: Seviper used Earthquake on Sudowoodo for 120 damage (supereffective)
 Player A: Sudowoodo fainted
 Player A: Switched out Sudowoodo for Shiftry
@@ -86,13 +86,13 @@ Player A: Shiftry used Sucker Punch on Seviper for 62 damage
 Player B: Seviper fainted
 Player B: Switched out Seviper for Furfrou-Diamond
 Turn 26:
-Player B: Furfrou-Diamond used U-turn on Shiftry for 264 damage (supereffective)
+Player B: Furfrou-Diamond used U-turn on Shiftry for 294 damage (supereffective)
 Player B: Switched out Furfrou-Diamond for Pinsir
 Player A: Shiftry used Knock Off on Pinsir for 167 damage
 Player A: Shiftry fainted
 Player A: Switched out Shiftry for Volbeat
 Turn 27:
-Player A: Volbeat used Thunder Wave
+Player A: Volbeat used Thunder Wave on Pinsir and they are now paralyzed
 Player B: Pinsir used Quick Attack on Volbeat for 12 damage (supereffective)
 Player A: Volbeat fainted
 Player A: Switched out Volbeat for Clefable
@@ -106,7 +106,7 @@ Player B: Pinsir fainted
 Player B: Switched out Pinsir for Furfrou-Diamond
 Turn 30:
 Player B: Furfrou-Diamond used Rest and healed for 112
-Player A: Clefable used Thunder Wave
+Player A: Clefable used Thunder Wave on Furfrou-Diamond and they are now paralyzed
 Turn 31:
 Player A: Clefable used Soft-Boiled and healed for 123
 Player B: Furfrou-Diamond can't move because it is paralyzed
@@ -132,11 +132,11 @@ Turn 38:
 Player A: Switched out Meowstic for Clefable
 Player B: Furfrou-Diamond can't move because it is asleep
 Turn 39:
-Player B: Furfrou-Diamond used Thunder Wave
+Player B: Furfrou-Diamond used Thunder Wave on Clefable and they are now paralyzed
 Player A: Clefable used Moonblast on Furfrou-Diamond for 82 damage
 Turn 40:
 Player B: Furfrou-Diamond used Rest and healed for 169
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 41:
 Player A: Switched out Clefable for Meowstic
 Player B: Furfrou-Diamond can't move because it is asleep
@@ -148,7 +148,7 @@ Player A: Switched out Meowstic for Clefable
 Player B: Furfrou-Diamond used Return on Clefable for 18 damage
 Turn 44:
 Player B: Furfrou-Diamond used Return on Clefable for 97 damage
-Player A: Clefable used Thunder Wave
+Player A: Clefable used Thunder Wave on Furfrou-Diamond and they are now paralyzed
 Turn 45:
 Player A: Clefable used Soft-Boiled and healed for 159
 Player B: Furfrou-Diamond used U-turn on Clefable for 29 damage
@@ -189,40 +189,40 @@ Player B: Reuniclus fainted
 Player B: Switched out Reuniclus for Castform
 Turn 57:
 Player B: Castform used Return on Clefable for 70 damage
-Player A: Clefable used Thunder Wave
+Player A: Clefable used Thunder Wave on Castform and they are now paralyzed
 Turn 58:
 Player A: Clefable used Soft-Boiled and healed for 159
 Player B: Castform used Return on Clefable for 142 damage
 Turn 59:
 Player A: Clefable used Soft-Boiled and healed for 147
-Player B: Castform used Thunder Wave
+Player B: Castform used Thunder Wave on Clefable and they are now paralyzed
 Turn 60:
 Player B: Castform used Return on Clefable for 142 damage
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 61:
 Player A: Clefable used Soft-Boiled and healed for 142
 Player B: Castform can't move because it is paralyzed
 Turn 62:
 Player A: Clefable used Moonblast on Castform for 91 damage
-Player B: Castform used Thunder Wave
+Player B: Castform used Thunder Wave on Clefable and they are now paralyzed
 Turn 63:
 Player B: Castform used Return on Clefable for 129 damage
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 64:
 Player A: Clefable used Soft-Boiled and healed for 129
 Player B: Castform can't move because it is paralyzed
 Turn 65:
 Player A: Clefable used Moonblast on Castform for 31 damage
-Player B: Castform used Thunder Wave
+Player B: Castform used Thunder Wave on Clefable and they are now paralyzed
 Turn 66:
 Player B: Castform used Return on Clefable for 139 damage
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 67:
 Player A: Clefable used Moonblast on Castform for 51 damage
-Player B: Castform used Thunder Wave
+Player B: Castform used Thunder Wave on Clefable and they are now paralyzed
 Turn 68:
 Player B: Castform can't move because it is paralyzed
-Player A: Clefable used Aromatherapy on self
+Player A: Clefable used Aromatherapy on Clefable
 Turn 69:
 Player A: Clefable used Moonblast on Castform for 52 damage
 Player B: Castform can't move because it is paralyzed
@@ -232,7 +232,7 @@ Player B: Castform fainted
 Player B: Switched out Castform for Furfrou-Diamond
 Turn 71:
 Player A: Clefable used Moonblast on Furfrou-Diamond for 127 damage
-Player B: Furfrou-Diamond used Thunder Wave
+Player B: Furfrou-Diamond used Thunder Wave on Clefable and they are now paralyzed
 Turn 72:
 Player B: Furfrou-Diamond can't move because it is paralyzed
 Player A: Clefable used Moonblast on Furfrou-Diamond for 51 damage

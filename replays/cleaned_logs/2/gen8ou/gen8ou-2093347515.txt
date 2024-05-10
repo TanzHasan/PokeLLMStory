@@ -3,27 +3,27 @@ Player A sent out Tapu Koko
 Player B sent out Tapu Fini
 Turn 1:
 Player A: Tapu Koko used Dazzling Gleam on Tapu Fini for 40 damage
-Player B: Tapu Fini used Trick on self
+Player B: Tapu Fini used Trick on Tapu Koko
 Turn 2:
 Player A: Switched out Tapu Koko for Melmetal
-Player B: Tapu Fini used Calm Mind on self
+Player B: Tapu Fini used Calm Mind on Tapu Fini
 Turn 3:
 Player B: Switched out Tapu Fini for Dragonite
 Player A: Melmetal used Earthquake but it had no effect on Dragonite
 Turn 4:
-Player B: Dragonite used Dragon Dance on self
+Player B: Dragonite used Dragon Dance on Dragonite
 Player A: Melmetal used Ice Punch on Dragonite for 48 damage (supereffective)
 Turn 5:
 Player B: Switched out Dragonite for Tapu Fini
 Player A: Melmetal used Ice Punch on Tapu Fini for 12 damage
 Turn 6:
 Player A: Switched out Melmetal for Tapu Koko
-Player B: Tapu Fini used Trick on self
+Player B: Tapu Fini used Trick on Tapu Koko
 Turn 7:
 Player A: Tapu Koko used Dazzling Gleam on Tapu Fini and crit for 48 damage
 Player B: Tapu Fini fainted
 Player B: Switched out Tapu Fini for Latias
 Turn 8:
 Player A: Tapu Koko used Dazzling Gleam on Latias for 87 damage (supereffective)
-Player B: Latias used Light Screen on self
+Player B: Latias used Light Screen on Latias
 Turn 9:

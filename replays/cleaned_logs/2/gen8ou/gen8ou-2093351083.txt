@@ -8,7 +8,7 @@ Player A: Weavile fainted
 Player A: Switched out Weavile for Ferrothorn
 Turn 2:
 Player B: Switched out Slowbro for Heatran
-Player A: Ferrothorn used Stealth Rock on self
+Player A: Ferrothorn used Stealth Rock on Heatran
 Turn 3:
 Player B: Heatran used Magma Storm on Ferrothorn for 100 damage (supereffective)
 Player A: Ferrothorn fainted
@@ -17,7 +17,7 @@ Turn 4:
 Player B: Switched out Heatran for Landorus-Therian
 Player A: Landorus-Therian used Knock Off on Landorus-Therian for 30 damage
 Turn 5:
-Player B: Landorus-Therian used Defog on self
+Player B: Landorus-Therian used Defog on Landorus-Therian
 Player A: Landorus-Therian used U-turn on Landorus-Therian for 7 damage
 Player A: Switched out Landorus-Therian for Dragonite
 Turn 6:
@@ -26,7 +26,7 @@ Player B: Landorus-Therian fainted
 Player B: Switched out Landorus-Therian for Umbreon
 Turn 7:
 Player A: Switched out Dragonite for Melmetal
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Turn 8:
 Player B: Switched out Umbreon for Slowbro
 Player A: Melmetal used Double Iron Bash on Slowbro for 11 damage
@@ -37,23 +37,23 @@ Turn 10:
 Player B: Switched out Slowbro for Umbreon
 Player A: Melmetal used Thunder Punch on Umbreon for 18 damage
 Turn 11:
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Player A: Melmetal used Double Iron Bash on Umbreon for 23 damage
 Turn 12:
 Player B: Umbreon used Foul Play on Melmetal for 30 damage
 Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
 Turn 13:
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
 Turn 14:
-Player B: Umbreon used Protect on self
-Player A: Melmetal used Ice Punch on self
+Player B: Umbreon used Protect on Umbreon
+Player A: Melmetal used Ice Punch on Umbreon
 Turn 15:
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Player A: Melmetal used Double Iron Bash on Umbreon for 22 damage
 Turn 16:
-Player B: Umbreon used Protect on self
-Player A: Melmetal used Double Iron Bash on self
+Player B: Umbreon used Protect on Umbreon
+Player A: Melmetal used Double Iron Bash on Umbreon
 Turn 17:
 Player B: Switched out Umbreon for Heatran
 Player A: Melmetal used Double Iron Bash on Heatran for 9 damage
@@ -69,7 +69,7 @@ Player A: Switched out Landorus-Therian for Tapu Koko
 Player B: Slowbro used Slack Off and healed for 50
 Turn 21:
 Player B: Switched out Slowbro for Heatran
-Player A: Tapu Koko used Calm Mind on self
+Player A: Tapu Koko used Calm Mind on Tapu Koko
 Turn 22:
 Player A: Tapu Koko used Thunderbolt on Heatran for 33 damage
 Player B: Heatran used Magma Storm on Tapu Koko for 43 damage
@@ -87,13 +87,13 @@ Player A: Landorus-Therian used U-turn on Slowbro for -6 damage (supereffective)
 Player A: Switched out Landorus-Therian for Melmetal
 Turn 26:
 Player A: Melmetal used Double Iron Bash on Slowbro for 12 damage
-Player B: Slowbro used Scald on Melmetal for 14 damage
+Player B: Slowbro used Scald on Melmetal for 14 damage and they are now burned
 Turn 27:
 Player A: Switched out Melmetal for Dragonite
 Player B: Slowbro used Slack Off and healed for 51
 Turn 28:
-Player A: Dragonite used Dragon Dance on self
-Player B: Slowbro used Teleport on self
+Player A: Dragonite used Dragon Dance on Dragonite
+Player B: Slowbro used Teleport on Slowbro
 Player B: Switched out Slowbro for Umbreon
 Turn 29:
 Player A: Dragonite used Ice Punch on Umbreon for -38 damage
@@ -108,13 +108,13 @@ Player A: Dragonite fainted
 Player A: Switched out Dragonite for Landorus-Therian
 Turn 32:
 Player A: Landorus-Therian used Earthquake on Umbreon for 22 damage
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Turn 33:
 Player B: Switched out Umbreon for Kartana
 Player A: Landorus-Therian used Earthquake on Kartana for 53 damage
 Turn 34:
 Player B: Kartana used Leaf Blade on Landorus-Therian for 59 damage
-Player A: Landorus-Therian used Earthquake on Kartana for 0 damage
+Player A: Landorus-Therian used Earthquake on Kartana
 Turn 35:
 Player B: Kartana used Leaf Blade on Landorus-Therian for 41 damage
 Player A: Landorus-Therian fainted

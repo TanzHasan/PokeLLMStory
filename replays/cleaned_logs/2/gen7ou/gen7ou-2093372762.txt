@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Gliscor
 Player B sent out Aggron
 Turn 1:
-Player A: Gliscor used Stealth Rock on self
+Player A: Gliscor used Stealth Rock on Aggron
 Player B: Aggron used Avalanche on Gliscor for 62 damage (supereffective)
 Turn 2:
 Player A: Gliscor used Earthquake on Aggron for 23 damage (supereffective)
@@ -15,16 +15,16 @@ Player B: Aggron fainted
 Player B: Switched out Aggron for Empoleon
 Turn 4:
 Player A: Switched out Volcarona for Haxorus
-Player B: Empoleon used Swords Dance on self
+Player B: Empoleon used Swords Dance on Empoleon
 Turn 5:
-Player A: Haxorus used Dragon Dance on self
+Player A: Haxorus used Dragon Dance on Haxorus
 Player B: Empoleon used Steel Wing on Haxorus for 79 damage
 Turn 6:
 Player B: Empoleon used Aqua Jet on Haxorus for 21 damage
 Player A: Haxorus fainted
 Player A: Switched out Haxorus for Bisharp
 Turn 7:
-Player A: Bisharp used Swords Dance on self
+Player A: Bisharp used Swords Dance on Bisharp
 Player B: Empoleon used Liquidation on Bisharp for 95 damage
 Turn 8:
 Player A: Bisharp used Sucker Punch and healed for 50
@@ -32,8 +32,8 @@ Player B: Empoleon used Aqua Jet on Bisharp for 5 damage
 Player A: Bisharp fainted
 Player A: Switched out Bisharp for Mimikyu
 Turn 9:
-Player B: Empoleon used Aqua Jet on Mimikyu for 0 damage
-Player A: Mimikyu used Swords Dance on self
+Player B: Empoleon used Aqua Jet on Mimikyu
+Player A: Mimikyu used Swords Dance on Mimikyu
 Turn 10:
 Player A: Mimikyu used Wood Hammer on Empoleon for 67 damage
 Player B: Empoleon fainted
@@ -44,7 +44,7 @@ Player B: Goodra fainted
 Player B: Switched out Goodra for Dusknoir
 Turn 12:
 Player A: Mimikyu used Shadow Sneak on Dusknoir for 92 damage (supereffective)
-Player B: Dusknoir used Shadow Sneak on Mimikyu for 38 damage (supereffective)
+Player B: Dusknoir used Shadow Sneak on Mimikyu for 100 damage (supereffective)
 Player A: Mimikyu fainted
 Player A: Switched out Mimikyu for Scizor
 Turn 13:
@@ -57,7 +57,7 @@ Player A: Scizor fainted
 Player A: Switched out Scizor for Volcarona
 Turn 15:
 Player B: Alakazam used Focus Blast on Volcarona but it missed
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 16:
 Player A: Volcarona used Flamethrower on Alakazam for 100 damage
 Player B: Alakazam fainted

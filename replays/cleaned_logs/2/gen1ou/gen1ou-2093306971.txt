@@ -3,7 +3,7 @@ Player A sent out Zapdos
 Player B sent out Starmie
 Turn 1:
 Player B: Switched out Starmie for Jolteon
-Player A: Zapdos used Thunder Wave
+Player A: Zapdos used Thunder Wave on Jolteon and they are now paralyzed
 Turn 2:
 Player A: Switched out Zapdos for Exeggutor
 Player B: Jolteon used Thunderbolt on Exeggutor for 12 damage
@@ -21,7 +21,7 @@ Player A: Switched out Exeggutor for Chansey
 Player B: Starmie used Blizzard on Chansey but it missed
 Turn 7:
 Player B: Switched out Starmie for Chansey
-Player A: Chansey used Thunder Wave
+Player A: Chansey used Thunder Wave on Chansey and they are now paralyzed
 Turn 8:
 Player A: Switched out Chansey for Zapdos
 Player B: Chansey used Ice Beam on Zapdos for 32 damage (supereffective)
@@ -56,7 +56,7 @@ Player B: Switched out Starmie for Chansey
 Player A: Chansey used Thunder Wave but it failed
 Turn 18:
 Player A: Switched out Chansey for Tauros
-Player B: Chansey used Ice Beam on Tauros for 28 damage
+Player B: Chansey used Ice Beam on Tauros for 28 damage and they are now frozen
 Turn 19:
 Player A: Switched out Tauros for Chansey
 Player B: Chansey used Sing on Chansey but it missed
@@ -91,10 +91,10 @@ Turn 29:
 Player A: Switched out Zapdos for Snorlax
 Player B: Jolteon can't move because it is asleep
 Turn 30:
-Player A: Snorlax used Amnesia on self
+Player A: Snorlax used Amnesia on Snorlax
 Turn 31:
-Player A: Snorlax used Amnesia on self
-Player B: Jolteon used Thunder Wave
+Player A: Snorlax used Amnesia on Snorlax
+Player B: Jolteon used Thunder Wave on Snorlax and they are now paralyzed
 Turn 32:
 Player B: Switched out Jolteon for Starmie
 Player A: Snorlax used Ice Beam on Starmie for 26 damage
@@ -123,7 +123,7 @@ Player B: Switched out Snorlax for Jolteon
 Player A: Zapdos used Thunderbolt on Jolteon for 19 damage
 Turn 39:
 Player B: Jolteon used Thunderbolt on Zapdos for 24 damage
-Player A: Zapdos used Thunder Wave
+Player A: Zapdos used Thunder Wave on Jolteon and they are now paralyzed
 Turn 40:
 Player A: Switched out Zapdos for Chansey
 Player B: Jolteon can't move because it is paralyzed
@@ -149,12 +149,12 @@ Player A: Switched out Zapdos for Slowbro
 Player B: Jolteon used Rest and healed for 67
 Turn 48:
 Player B: Switched out Jolteon for Zapdos
-Player A: Slowbro used Amnesia on self
+Player A: Slowbro used Amnesia on Slowbro
 Turn 49:
 Player B: Zapdos used Thunderbolt on Slowbro for 41 damage (supereffective)
-Player A: Slowbro used Thunder Wave
+Player A: Slowbro used Thunder Wave on Zapdos and they are now paralyzed
 Turn 50:
-Player A: Slowbro used Amnesia on self
+Player A: Slowbro used Amnesia on Slowbro
 Player B: Zapdos used Thunderbolt on Slowbro for 27 damage (supereffective)
 Turn 51:
 Player A: Slowbro used Surf on Zapdos for 65 damage
@@ -183,7 +183,7 @@ Turn 58:
 Player B: Jolteon can't move because it is asleep
 Player A: Zapdos used Drill Peck on Jolteon for 19 damage
 Turn 59:
-Player A: Zapdos used Thunder Wave
+Player A: Zapdos used Thunder Wave on Jolteon and they are now paralyzed
 Turn 60:
 Player A: Zapdos used Drill Peck on Jolteon and crit for 33 damage
 Player B: Jolteon used Rest and healed for 86
@@ -202,7 +202,7 @@ Player A: Switched out Chansey for Zapdos
 Player B: Chansey can't move because it is paralyzed
 Turn 66:
 Player B: Switched out Chansey for Jolteon
-Player A: Zapdos used Thunder Wave
+Player A: Zapdos used Thunder Wave on Jolteon and they are now paralyzed
 Turn 67:
 Player A: Switched out Zapdos for Chansey
 Player B: Jolteon used Thunderbolt on Chansey for 15 damage
@@ -211,12 +211,12 @@ Player B: Switched out Jolteon for Chansey
 Player A: Chansey used Seismic Toss on Chansey for 14 damage
 Turn 69:
 Player A: Chansey used Seismic Toss on Chansey for 14 damage
-Player B: Chansey used Sing
+Player B: Chansey used Sing on Chansey and they are now asleep
 Turn 70:
 Player A: Switched out Chansey for Slowbro
 Player B: Switched out Chansey for Jolteon
 Turn 71:
-Player A: Slowbro used Amnesia on self
+Player A: Slowbro used Amnesia on Slowbro
 Player B: Jolteon can't move because it is paralyzed
 Turn 72:
 Player A: Slowbro used Surf on Jolteon for 52 damage
@@ -225,7 +225,7 @@ Turn 73:
 Player B: Switched out Jolteon for Chansey
 Player A: Slowbro used Surf on Chansey for 28 damage
 Turn 74:
-Player A: Slowbro used Amnesia on self
+Player A: Slowbro used Amnesia on Slowbro
 Player B: Chansey can't move because it is paralyzed
 Turn 75:
 Player A: Slowbro used Surf on Chansey for 39 damage

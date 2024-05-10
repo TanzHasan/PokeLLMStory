@@ -2,12 +2,12 @@ Battle start:
 Player A sent out Slither Wing
 Player B sent out Great Tusk
 Turn 1:
-Player B: Great Tusk used Stealth Rock on self
+Player B: Great Tusk used Stealth Rock on Slither Wing
 Player A: Slither Wing used U-turn on Great Tusk for 21 damage
 Player A: Switched out Slither Wing for Corviknight
 Turn 2:
 Player B: Great Tusk used Knock Off on Corviknight for 19 damage
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Great Tusk
 Turn 3:
 Player B: Switched out Great Tusk for Corviknight
 Player A: Corviknight used U-turn on Corviknight for 1 damage
@@ -17,10 +17,10 @@ Player B: Switched out Corviknight for Manaphy
 Player A: Moltres used Brave Bird on Manaphy for 56 damage
 Turn 5:
 Player B: Switched out Manaphy for Corviknight
-Player A: Moltres used Will-O-Wisp
+Player A: Moltres used Will-O-Wisp on Corviknight and they are now burned
 Turn 6:
 Player A: Switched out Moltres for Corviknight
-Player B: Corviknight used U-turn on Corviknight for 1 damage
+Player B: Corviknight used U-turn on Corviknight for 17 damage
 Player B: Switched out Corviknight for Greninja
 Turn 7:
 Player A: Switched out Corviknight for Muk-Alola
@@ -50,13 +50,13 @@ Turn 14:
 Player A: Switched out Slither Wing for Corviknight
 Player B: Great Tusk used Knock Off on Corviknight and crit for 22 damage
 Turn 15:
-Player B: Great Tusk used Stealth Rock on self
+Player B: Great Tusk used Stealth Rock on Corviknight
 Player A: Corviknight used Brave Bird on Great Tusk for 15 damage (supereffective)
 Turn 16:
 Player B: Switched out Great Tusk for Manaphy
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Manaphy
 Turn 17:
-Player B: Manaphy used Scald on Corviknight for 29 damage
+Player B: Manaphy used Scald on Corviknight for 37 damage and they are now burned
 Player A: Corviknight used Roost and healed for 50
 Turn 18:
 Player B: Manaphy used Knock Off on Corviknight for 15 damage
@@ -94,7 +94,7 @@ Turn 27:
 Player A: Switched out Hippowdon for Gholdengo
 Player B: Manaphy used Knock Off on Gholdengo for 29 damage (supereffective)
 Turn 28:
-Player A: Gholdengo used Nasty Plot on self
+Player A: Gholdengo used Nasty Plot on Gholdengo
 Player B: Manaphy used U-turn on Gholdengo for 3 damage
 Player B: Switched out Manaphy for Greninja
 Turn 29:
@@ -107,7 +107,7 @@ Player B: Switched out Greninja for Manaphy
 Player A: Muk-Alola used Poison Fang on Manaphy for -37 damage
 Turn 31:
 Player B: Manaphy used Knock Off on Muk-Alola for 11 damage
-Player A: Muk-Alola used Poison Fang on Manaphy for 14 damage
+Player A: Muk-Alola used Poison Fang on Manaphy for 14 damage and they are now badly poisoned
 Turn 32:
 Player B: Manaphy used Scald on Muk-Alola for 18 damage
 Player A: Muk-Alola used Knock Off on Manaphy for 38 damage
@@ -125,13 +125,13 @@ Player A: Hippowdon used Earthquake on Manaphy for 9 damage
 Turn 36:
 Player B: Manaphy used U-turn on Hippowdon for -3 damage
 Player B: Switched out Manaphy for Dragonite
-Player A: Hippowdon used Rock Slide on Dragonite for 52 damage (supereffective)
+Player A: Hippowdon used Rock Slide on Dragonite for 61 damage (supereffective)
 Turn 37:
 Player B: Dragonite used Roost and healed for 50
 Player A: Hippowdon used Slack Off and healed for 39
 Turn 38:
 Player B: Dragonite used Earthquake on Hippowdon for 28 damage
-Player A: Hippowdon used Curse on self
+Player A: Hippowdon used Curse on Hippowdon
 Turn 39:
 Player B: Switched out Dragonite for Manaphy
 Player A: Hippowdon used Earthquake on Manaphy for 24 damage
@@ -142,9 +142,9 @@ Player A: Switched out Hippowdon for Muk-Alola
 Player B: Greninja used Hydro Pump on Muk-Alola for 1 damage
 Turn 41:
 Player A: Switched out Muk-Alola for Slither Wing
-Player B: Greninja used Hydro Pump on Slither Wing for 67 damage
+Player B: Greninja used Hydro Pump on Slither Wing for 99 damage
 Turn 42:
-Player A: Slither Wing used First Impression on Greninja for 51 damage (supereffective)
+Player A: Slither Wing used First Impression on Greninja for 100 damage (supereffective)
 Player B: Greninja fainted
 Player B: Switched out Greninja for Dragonite
 Turn 43:
@@ -154,9 +154,9 @@ Player A: Slither Wing fainted
 Player A: Switched out Slither Wing for Hippowdon
 Turn 44:
 Player B: Switched out Dragonite for Great Tusk
-Player A: Hippowdon used Curse on self
+Player A: Hippowdon used Curse on Hippowdon
 Turn 45:
-Player B: Great Tusk used Stealth Rock on self
+Player B: Great Tusk used Stealth Rock on Hippowdon
 Player A: Hippowdon used Earthquake on Great Tusk for 29 damage
 Turn 46:
 Player B: Great Tusk used Knock Off on Hippowdon for -13 damage
@@ -182,5 +182,5 @@ Player B: Zamazenta fainted
 Player B: Switched out Zamazenta for Dragonite
 Turn 52:
 Player B: Dragonite used Extreme Speed on Hippowdon for 27 damage
-Player A: Hippowdon used Rock Slide on Dragonite for 60 damage (supereffective)
+Player A: Hippowdon used Rock Slide on Dragonite for 89 damage (supereffective)
 Player B: Dragonite fainted

@@ -7,7 +7,7 @@ Player B: Mudbray used High Horsepower on Mienfoo for 57 damage
 Turn 2:
 Player A: Mienfoo used U-turn on Mudbray for 21 damage
 Player A: Switched out Mienfoo for Gastly
-Player B: Mudbray used Stealth Rock on self
+Player B: Mudbray used Stealth Rock on Gastly
 Turn 3:
 Player B: Switched out Mudbray for Stunky
 Player A: Gastly used Sludge Wave on Stunky for 30 damage

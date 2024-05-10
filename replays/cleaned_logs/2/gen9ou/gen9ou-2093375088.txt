@@ -5,13 +5,13 @@ Turn 1:
 Player A: Dragapult used Shadow Ball on Glimmora for 67 damage
 Player B: Glimmora used Mud Shot on Dragapult for 25 damage
 Turn 2:
-Player B: Glimmora used Stealth Rock on self
+Player B: Glimmora used Stealth Rock on Dragapult
 Player A: Dragapult used Shadow Ball on Glimmora for 33 damage
 Player B: Glimmora fainted
 Player B: Switched out Glimmora for Roaring Moon
 Turn 3:
 Player A: Switched out Dragapult for Zamazenta
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 4:
 Player B: Roaring Moon used Knock Off on Zamazenta for 26 damage
 Player A: Zamazenta used Body Press on Roaring Moon for 29 damage
@@ -38,8 +38,8 @@ Player A: Cinderace used Pyro Ball on Pecharunt for 20 damage
 Player B: Pecharunt fainted
 Player B: Switched out Pecharunt for Iron Valiant
 Turn 11:
-Player B: Iron Valiant used Swords Dance on self
-Player A: Cinderace used Court Change on self
+Player B: Iron Valiant used Swords Dance on Iron Valiant
+Player A: Cinderace used Court Change on Cinderace
 Turn 12:
 Player B: Iron Valiant used Knock Off on Cinderace for 47 damage
 Player A: Cinderace fainted
@@ -63,7 +63,7 @@ Player B: Kingambit used Sucker Punch on Dragapult for 75 damage (supereffective
 Player A: Dragapult fainted
 Player A: Switched out Dragapult for Latias
 Turn 17:
-Player A: Latias used Calm Mind on self
+Player A: Latias used Calm Mind on Latias
 Turn 18:
 Player B: Kingambit used Sucker Punch on Latias for 84 damage (supereffective)
 Player A: Latias used Thunderbolt on Kingambit for 45 damage

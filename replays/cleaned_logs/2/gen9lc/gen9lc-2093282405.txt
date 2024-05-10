@@ -32,7 +32,7 @@ Player A: Mudbray used High Horsepower on Mienfoo for 39 damage
 Player B: Mienfoo fainted
 Player B: Switched out Mienfoo for Tinkatink
 Turn 9:
-Player B: Tinkatink used Will-O-Wisp
+Player B: Tinkatink used Will-O-Wisp on Mudbray and they are now burned
 Player A: Mudbray used High Horsepower on Tinkatink but it missed
 Turn 10:
 Player B: Tinkatink used Hex on Mudbray for 59 damage
@@ -43,7 +43,7 @@ Player B: Switched out Tinkatink for Tinkatink
 Player A: Stunky used Knock Off on Tinkatink for 18 damage
 Turn 12:
 Player A: Stunky used Knock Off on Tinkatink and crit for 27 damage
-Player B: Tinkatink used Thunder Wave
+Player B: Tinkatink used Thunder Wave on Stunky and they are now paralyzed
 Turn 13:
 Player B: Tinkatink used Draining Kiss on Stunky for 30 damage
 Player B: Tinkatink used Draining Kiss and healed for 23
@@ -58,7 +58,7 @@ Turn 15:
 Player A: Switched out Stunky for Vullaby
 Player B: Stunky used Tera Blast on Vullaby for 39 damage
 Turn 16:
-Player B: Stunky used Will-O-Wisp
+Player B: Stunky used Will-O-Wisp on Vullaby and they are now burned
 Player A: Vullaby used Knock Off on Stunky for 50 damage (supereffective)
 Turn 17:
 Player B: Stunky used Tera Blast on Vullaby for 43 damage
@@ -69,7 +69,7 @@ Player B: Switched out Stunky for Stunky
 Player A: Vullaby used Knock Off on Stunky for -37 damage
 Turn 19:
 Player A: Vullaby used Brave Bird on Stunky for 43 damage
-Player B: Stunky used Gunk Shot on Vullaby for 35 damage
+Player B: Stunky used Gunk Shot on Vullaby for 53 damage
 Player A: Vullaby fainted
 Player A: Switched out Vullaby for Growlithe-Hisui
 Turn 20:

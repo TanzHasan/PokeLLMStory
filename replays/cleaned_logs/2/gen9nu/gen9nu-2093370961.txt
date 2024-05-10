@@ -19,7 +19,7 @@ Player A: Tauros-Paldea-Blaze used Raging Bull on Sylveon for 44 damage
 Player B: Sylveon fainted
 Player B: Switched out Sylveon for Swampert
 Turn 5:
-Player A: Tauros-Paldea-Blaze used Bulk Up on self
+Player A: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
 Player B: Swampert used Flip Turn on Tauros-Paldea-Blaze for 6 damage
 Player B: Switched out Swampert for Dragalge
 Turn 6:
@@ -30,14 +30,14 @@ Player A: Gligar used Knock Off on Dragalge for 19 damage
 Player B: Dragalge used Flip Turn on Gligar for 12 damage (supereffective)
 Player B: Switched out Dragalge for Mew
 Turn 8:
-Player B: Mew used Iron Defense on self
+Player B: Mew used Iron Defense on Mew
 Player A: Gligar used Knock Off on Mew for 17 damage (supereffective)
 Turn 9:
-Player B: Mew used Iron Defense on self
+Player B: Mew used Iron Defense on Mew
 Player A: Gligar used U-turn on Mew for 7 damage (supereffective)
 Player A: Switched out Gligar for Toxicroak
 Turn 10:
-Player A: Toxicroak used Sludge Bomb on Mew for 44 damage
+Player A: Toxicroak used Sludge Bomb on Mew for 44 damage and they are now poisoned
 Player B: Mew used Stored Power on Toxicroak for 100 damage (supereffective)
 Player A: Toxicroak fainted
 Player A: Switched out Toxicroak for Tatsugiri
@@ -47,13 +47,13 @@ Player B: Mew fainted
 Player B: Switched out Mew for Dragalge
 Turn 12:
 Player A: Switched out Tatsugiri for Gligar
-Player B: Dragalge used Toxic Spikes on self
+Player B: Dragalge used Toxic Spikes on Gligar
 Turn 13:
 Player A: Gligar used Earthquake on Dragalge for 63 damage (supereffective)
 Player B: Dragalge used Flip Turn on Gligar for 12 damage (supereffective)
 Player B: Switched out Dragalge for Umbreon
 Turn 14:
-Player A: Gligar used Stealth Rock on self
+Player A: Gligar used Stealth Rock on Umbreon
 Player B: Umbreon used Foul Play on Gligar for 17 damage
 Turn 15:
 Player A: Gligar used Knock Off on Umbreon for 7 damage
@@ -62,19 +62,19 @@ Player A: Gligar fainted
 Player A: Switched out Gligar for Tatsugiri
 Turn 16:
 Player A: Tatsugiri used Rapid Spin on Umbreon for 5 damage
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Turn 17:
 Player A: Switched out Tatsugiri for Tauros-Paldea-Blaze
 Player B: Umbreon used Foul Play on Tauros-Paldea-Blaze for 21 damage
 Turn 18:
-Player A: Tauros-Paldea-Blaze used Bulk Up on self
-Player B: Umbreon used Toxic
+Player A: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
+Player B: Umbreon used Toxic on Tauros-Paldea-Blaze and they are now badly poisoned
 Turn 19:
 Player A: Tauros-Paldea-Blaze used Body Press on Umbreon for 83 damage (supereffective)
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Turn 20:
-Player B: Umbreon used Protect on self
-Player A: Tauros-Paldea-Blaze used Bulk Up on self
+Player B: Umbreon used Protect on Umbreon
+Player A: Tauros-Paldea-Blaze used Bulk Up on Tauros-Paldea-Blaze
 Turn 21:
 Player B: Switched out Umbreon for Dragalge
 Player A: Tauros-Paldea-Blaze used Body Press on Dragalge for 18 damage
@@ -82,7 +82,7 @@ Player B: Umbreon fainted
 Player B: Switched out Umbreon for Umbreon
 Turn 22:
 Player A: Switched out Tauros-Paldea-Blaze for Tatsugiri
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Turn 23:
 Player A: Switched out Tatsugiri for Tauros-Paldea-Blaze
 Turn 24:
@@ -90,5 +90,5 @@ Player A: Tauros-Paldea-Blaze used Body Press on Umbreon for -74 damage
 Player B: Umbreon used Foul Play on Tauros-Paldea-Blaze for 55 damage
 Turn 25:
 Player A: Tauros-Paldea-Blaze used Raging Bull on Umbreon for 26 damage
-Player B: Umbreon used Wish on self
+Player B: Umbreon used Wish on Umbreon
 Player A: Tauros-Paldea-Blaze fainted

@@ -6,7 +6,7 @@ Player A: Galvantula used Thunder on Toxicroak for 136 damage
 Player B: Toxicroak used Gunk Shot on Galvantula for 220 damage
 Turn 2:
 Player B: Switched out Toxicroak for Tinkaton
-Player A: Galvantula used Sticky Web on self
+Player A: Galvantula used Sticky Web on Tinkaton
 Turn 3:
 Player A: Galvantula used Thunder on Tinkaton for 94 damage
 Player B: Tinkaton used Knock Off on Galvantula and crit for 29 damage
@@ -14,7 +14,7 @@ Player A: Galvantula fainted
 Player A: Switched out Galvantula for Gyarados
 Turn 4:
 Player B: Switched out Tinkaton for Mightyena
-Player A: Gyarados used Dragon Dance on self
+Player A: Gyarados used Dragon Dance on Gyarados
 Turn 5:
 Player A: Gyarados used Waterfall on Mightyena for 97 damage
 Player B: Mightyena used Throat Chop on Gyarados for 156 damage
@@ -26,24 +26,24 @@ Player B: Switched out Mightyena for Vespiquen
 Player A: Quaquaval used Close Combat on Vespiquen and crit for 51 damage
 Turn 8:
 Player A: Switched out Quaquaval for Scream Tail
-Player B: Vespiquen used Spikes on self
+Player B: Vespiquen used Spikes on Scream Tail
 Turn 9:
-Player A: Scream Tail used Thunder Wave
-Player B: Vespiquen used Toxic Spikes on self
+Player A: Scream Tail used Thunder Wave on Vespiquen and they are now paralyzed
+Player B: Vespiquen used Toxic Spikes on Scream Tail
 Turn 10:
-Player A: Scream Tail used Wish on self
-Player B: Vespiquen used Toxic Spikes on self
+Player A: Scream Tail used Wish on Scream Tail
+Player B: Vespiquen used Toxic Spikes on Scream Tail
 Turn 11:
 Player A: Switched out Scream Tail for Gyarados
 Player B: Vespiquen used Hurricane on Gyarados for 121 damage
 Turn 12:
 Player B: Switched out Vespiquen for Mightyena
-Player A: Gyarados used Dragon Dance on self
+Player A: Gyarados used Dragon Dance on Gyarados
 Turn 13:
-Player A: Gyarados used Waterfall on Mightyena and crit for 133 damage
-Player B: Mightyena can't move because flinch
+Player A: Gyarados used Waterfall on Mightyena and crit for 189 damage
+Player B: Mightyena can't move because it is flinch
 Turn 14:
-Player A: Gyarados used Dragon Dance on self
+Player A: Gyarados used Dragon Dance on Gyarados
 Turn 15:
 Player B: Mightyena used Sucker Punch on Gyarados for -21 damage
 Player B: Mightyena fainted
@@ -52,16 +52,16 @@ Turn 16:
 Player A: Switched out Gyarados for Scream Tail
 Player B: Switched out Ambipom for Tinkaton
 Turn 17:
-Player A: Scream Tail used Thunder Wave
+Player A: Scream Tail used Thunder Wave on Tinkaton and they are now paralyzed
 Player B: Tinkaton used Knock Off on Scream Tail for 89 damage
 Turn 18:
 Player B: Switched out Tinkaton for Vespiquen
-Player A: Scream Tail used Wish on self
+Player A: Scream Tail used Wish on Scream Tail
 Turn 19:
 Player A: Switched out Scream Tail for Gyarados
 Player B: Vespiquen can't move because it is paralyzed
 Turn 20:
-Player A: Gyarados used Dragon Dance on self
+Player A: Gyarados used Dragon Dance on Gyarados
 Player B: Vespiquen used Hurricane on Gyarados for -42 damage
 Turn 21:
 Player A: Gyarados used Temper Flare on Vespiquen for 136 damage (supereffective)
@@ -70,9 +70,9 @@ Player A: Gyarados fainted
 Player A: Switched out Gyarados for Quaquaval
 Turn 22:
 Player B: Switched out Vespiquen for Toxicroak
-Player A: Quaquaval used Knock Off on Toxicroak for 60 damage
+Player A: Quaquaval used Knock Off on Toxicroak for 87 damage
 Turn 23:
-Player A: Quaquaval used Roost and healed for 132
+Player A: Quaquaval used Roost and healed for 47
 Player B: Toxicroak used Close Combat on Quaquaval for 168 damage
 Turn 24:
 Player A: Quaquaval used Knock Off on Toxicroak for 54 damage
@@ -82,7 +82,7 @@ Turn 25:
 Player B: Switched out Ambipom for Vespiquen
 Player A: Quaquaval used Close Combat on Vespiquen for 52 damage
 Turn 26:
-Player A: Quaquaval used Roost and healed for 132
+Player A: Quaquaval used Roost and healed for 80
 Player B: Vespiquen used Hurricane on Quaquaval for 142 damage (supereffective)
 Player A: Quaquaval fainted
 Player A: Switched out Quaquaval for Shaymin
@@ -90,24 +90,27 @@ Turn 27:
 Player A: Shaymin used Air Slash on Vespiquen for 20 damage
 Player B: Vespiquen used Roost and healed for 148
 Turn 28:
-Player A: Shaymin used Leech Seed on self
+Player A: Shaymin used Leech Seed on Vespiquen
 Player B: Vespiquen used Roost and healed for 111
 Turn 29:
 Player B: Switched out Vespiquen for Tinkaton
+Player A: Shaymin used Substitute on Shaymin
 Turn 30:
-Player A: Shaymin used Leech Seed on self
+Player A: Shaymin used Leech Seed on Tinkaton
+Player B: Tinkaton used Gigaton Hammer on Shaymin
 Turn 31:
 Player B: Switched out Tinkaton for Smeargle
 Player A: Shaymin used Seed Flare on Smeargle but it missed
 Turn 32:
 Player A: Shaymin used Air Slash on Smeargle but it missed
-Player B: Smeargle used Whirlwind on self
+Player B: Smeargle used Whirlwind on Shaymin
+Player A: Shaymin got dragged out for Gallade by opponent's move
 Turn 33:
-Player A: Switched out Shaymin for Shaymin
-Player B: Smeargle used Sticky Web on self
+Player A: Switched out Gallade for Shaymin
+Player B: Smeargle used Sticky Web on Shaymin
 Turn 34:
 Player A: Shaymin used Seed Flare on Smeargle for 184 damage
-Player B: Smeargle used Ceaseless Edge on Shaymin and crit for -24 damage
+Player B: Smeargle used Ceaseless Edge on Shaymin and crit for 51 damage
 Turn 35:
 Player A: Shaymin used Air Slash on Smeargle for 64 damage
 Player B: Smeargle fainted
@@ -117,48 +120,49 @@ Player A: Shaymin used Seed Flare on Ambipom for 147 damage
 Player B: Ambipom used U-turn on Shaymin for 96 damage (supereffective)
 Player B: Switched out Ambipom for Vespiquen
 Turn 37:
+Player A: Shaymin used Substitute on Shaymin
 Player B: Vespiquen can't move because it is paralyzed
 Turn 38:
-Player A: Shaymin used Leech Seed on self
+Player A: Shaymin used Leech Seed on Vespiquen
 Player B: Vespiquen can't move because it is paralyzed
 Turn 39:
 Player A: Shaymin used Seed Flare on Vespiquen for 123 damage
-Player B: Vespiquen used Spikes on self
+Player B: Vespiquen used Spikes on Shaymin
 Turn 40:
 Player B: Switched out Vespiquen for Tinkaton
-Player A: Shaymin used Seed Flare on Tinkaton for 92 damage
+Player A: Shaymin used Seed Flare on Tinkaton for 173 damage
 Turn 41:
 Player A: Shaymin used Air Slash on Tinkaton for 7 damage
 Player B: Tinkaton fainted
 Player B: Switched out Tinkaton for Vespiquen
 Turn 42:
-Player A: Shaymin used Leech Seed on self
+Player A: Shaymin used Leech Seed on Vespiquen
 Player B: Vespiquen used Roost and healed for 111
 Turn 43:
 Player A: Switched out Shaymin for Scream Tail
 Player B: Vespiquen used Hurricane on Scream Tail but it missed
 Turn 44:
 Player B: Switched out Vespiquen for Ambipom
-Player A: Scream Tail used Wish on self
+Player A: Scream Tail used Wish on Scream Tail
 Turn 45:
 Player B: Ambipom used Double-Edge on Scream Tail for 237 damage
-Player A: Scream Tail used Dazzling Gleam on Ambipom for 53 damage
+Player A: Scream Tail used Dazzling Gleam on Ambipom for 116 damage
 Player B: Ambipom fainted
 Player B: Switched out Ambipom for Vespiquen
 Turn 46:
-Player A: Scream Tail used Wish on self
+Player A: Scream Tail used Wish on Scream Tail
 Player B: Vespiquen used Hurricane on Scream Tail for -45 damage
 Turn 47:
-Player A: Scream Tail used Protect on self
-Player B: Vespiquen used Toxic Spikes on self
+Player A: Scream Tail used Protect on Scream Tail
+Player B: Vespiquen used Toxic Spikes on Scream Tail
 Turn 48:
-Player A: Scream Tail used Wish on self
-Player B: Vespiquen used Toxic Spikes on self
+Player A: Scream Tail used Wish on Scream Tail
+Player B: Vespiquen used Toxic Spikes on Scream Tail
 Turn 49:
-Player A: Scream Tail used Protect on self
+Player A: Scream Tail used Protect on Scream Tail
 Player B: Vespiquen can't move because it is paralyzed
 Turn 50:
-Player A: Scream Tail used Wish on self
+Player A: Scream Tail used Wish on Scream Tail
 Turn 51:
 Player A: Scream Tail used Thunder Wave on Vespiquen but it missed
 Player B: Vespiquen used Roost and healed for 12

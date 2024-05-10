@@ -3,7 +3,7 @@ Player A sent out Tyranitar
 Player B sent out Incineroar
 Turn 1:
 Player A: Tyranitar used Stone Axe on Incineroar for 30 damage (supereffective)
-Player B: Incineroar used Parting Shot on self
+Player B: Incineroar used Parting Shot on Tyranitar
 Player B: Switched out Incineroar for Arcanine-Hisui
 Turn 2:
 Player A: Switched out Tyranitar for Toxapex
@@ -23,7 +23,7 @@ Turn 6:
 Player B: Switched out Landorus-Therian for Iron Hands
 Player A: Great Tusk used Rapid Spin on Iron Hands for 30 damage
 Turn 7:
-Player A: Great Tusk used Bulk Up on self
+Player A: Great Tusk used Bulk Up on Great Tusk
 Player B: Iron Hands used Ice Punch on Great Tusk for 60 damage (supereffective)
 Turn 8:
 Player B: Switched out Iron Hands for Landorus-Therian
@@ -33,10 +33,10 @@ Player A: Great Tusk used Shore Up and healed for 50
 Player B: Landorus-Therian used Dragon Ascent on Great Tusk for 21 damage
 Turn 10:
 Player B: Switched out Landorus-Therian for Dragonite
-Player A: Great Tusk used Bulk Up on self
+Player A: Great Tusk used Bulk Up on Great Tusk
 Turn 11:
 Player A: Great Tusk used Rapid Spin on Dragonite for 75 damage
-Player B: Dragonite used Dragon Dance on self
+Player B: Dragonite used Dragon Dance on Dragonite
 Turn 12:
 Player B: Dragonite used Extreme Speed on Great Tusk for 29 damage
 Player A: Great Tusk used Shore Up and healed for 50
@@ -58,7 +58,7 @@ Player B: Landorus-Therian fainted
 Player B: Switched out Landorus-Therian for Iron Hands
 Turn 17:
 Player A: Gholdengo used Shadow Ball on Iron Hands for 29 damage
-Player B: Iron Hands used Swords Dance on self
+Player B: Iron Hands used Swords Dance on Iron Hands
 Turn 18:
 Player A: Gholdengo used Shadow Ball on Iron Hands for 23 damage
 Player B: Iron Hands used Zing Zap on Gholdengo for 100 damage
@@ -73,10 +73,10 @@ Player A: Switched out Regieleki for Toxapex
 Player B: Arcanine-Hisui used Morning Sun and healed for -5
 Turn 21:
 Player B: Switched out Arcanine-Hisui for Calyrex-Ice
-Player A: Toxapex used Toxic
+Player A: Toxapex used Toxic on Calyrex-Ice and they are now badly poisoned
 Turn 22:
 Player A: Switched out Toxapex for Tyranitar-Mega
-Player B: Calyrex-Ice used Trick Room on self
+Player B: Calyrex-Ice used Trick Room on Calyrex-Ice
 Turn 23:
 Player B: Switched out Calyrex-Ice for Arcanine-Hisui
 Player A: Tyranitar used Ceaseless Edge on Arcanine-Hisui for 43 damage

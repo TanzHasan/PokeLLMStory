@@ -1,0 +1,85 @@
+Battle start:
+Player A sent out Palossand
+Player B sent out Scyther
+Turn 1:
+Player B: Scyther used Dual Wingbeat on Palossand for 16 damage
+Player A: Palossand used Stealth Rock on Scyther
+Turn 2:
+Player B: Scyther used Defog on Palossand
+Player A: Palossand used Shadow Ball on Scyther for 73 damage
+Turn 3:
+Player B: Scyther used U-turn on Palossand and crit for 15 damage
+Player B: Switched out Scyther for Qwilfish-Hisui
+Player A: Palossand used Stealth Rock on Qwilfish-Hisui
+Turn 4:
+Player B: Qwilfish-Hisui used Spikes on Palossand
+Player A: Palossand used Scorching Sands on Qwilfish-Hisui for 85 damage (supereffective)
+Turn 5:
+Player B: Switched out Qwilfish-Hisui for Whimsicott
+Player A: Palossand used Shore Up and healed for 48
+Turn 6:
+Player A: Switched out Palossand for Charizard
+Player B: Whimsicott used Moonblast on Charizard for 33 damage
+Turn 7:
+Player B: Switched out Whimsicott for Hitmonchan
+Player A: Charizard used Hurricane on Hitmonchan but it missed
+Turn 8:
+Player A: Charizard used Hurricane on Hitmonchan but it missed
+Player B: Hitmonchan used Knock Off on Charizard for 48 damage
+Turn 9:
+Player A: Charizard used Will-O-Wisp on Hitmonchan and they are now burned
+Player B: Hitmonchan used Rapid Spin on Charizard for 12 damage
+Turn 10:
+Player A: Switched out Charizard for Decidueye-Hisui
+Player B: Hitmonchan used Knock Off on Decidueye-Hisui and crit for 10 damage
+Turn 11:
+Player B: Switched out Hitmonchan for Whimsicott
+Player A: Decidueye-Hisui used Defog on Whimsicott
+Turn 12:
+Player A: Switched out Decidueye-Hisui for Snorlax
+Player B: Whimsicott used Moonblast on Snorlax for 24 damage
+Turn 13:
+Player B: Switched out Whimsicott for Qwilfish-Hisui
+Player A: Snorlax used Body Slam on Qwilfish-Hisui for 15 damage
+Player B: Whimsicott fainted
+Player B: Switched out Whimsicott for Hitmonchan
+Turn 14:
+Player A: Switched out Snorlax for Palossand
+Player B: Hitmonchan used Knock Off on Palossand for 19 damage (supereffective)
+Turn 15:
+Player B: Switched out Hitmonchan for Oricorio
+Player A: Palossand used Stealth Rock on Oricorio
+Turn 16:
+Player A: Switched out Palossand for Snorlax
+Player B: Oricorio used Quiver Dance on Oricorio
+Turn 17:
+Player B: Oricorio used Air Slash on Snorlax for 39 damage
+Player A: Snorlax used Body Slam on Oricorio for 52 damage and they are now paralyzed
+Turn 18:
+Player B: Oricorio used Air Slash on Snorlax but it missed
+Player A: Snorlax used Rest and healed for 63
+Turn 19:
+Player B: Oricorio used Roost and healed for 50
+Player A: Snorlax used Body Slam on Oricorio and crit for 72 damage
+Turn 20:
+Player B: Oricorio used Air Slash on Snorlax for 25 damage
+Player A: Snorlax used Curse on Snorlax
+Turn 21:
+Player B: Switched out Oricorio for Dudunsparce-Three-Segment
+Player A: Snorlax used Body Slam on Dudunsparce-Three-Segment for 41 damage and they are now paralyzed
+Turn 22:
+Player A: Snorlax used Body Slam on Dudunsparce-Three-Segment for 23 damage
+Player B: Dudunsparce-Three-Segment used Dragon Tail on Snorlax for 9 damage
+Player A: Snorlax got dragged out for Morpeko by opponent's move
+Turn 23:
+Player A: Morpeko used Aura Wheel on Dudunsparce-Three-Segment for 36 damage
+Player B: Dudunsparce-Three-Segment fainted
+Player B: Switched out Dudunsparce-Three-Segment for Hitmonchan
+Turn 24:
+Player B: Hitmonchan used Mach Punch on Morpeko for 49 damage (supereffective)
+Player A: Morpeko used Aura Wheel on Hitmonchan for 100 damage
+Player B: Hitmonchan fainted
+Player B: Switched out Hitmonchan for Whimsicott
+Turn 25:
+Player A: Morpeko used Aura Wheel on Whimsicott for 100 damage
+Player B: Whimsicott fainted

@@ -3,7 +3,7 @@ Player A sent out Tyranitar
 Player B sent out Palafin
 Turn 1:
 Player B: Palafin used Close Combat on Tyranitar for 94 damage (supereffective)
-Player A: Tyranitar used Earthquake on Palafin for 71 damage
+Player A: Tyranitar used Earthquake on Palafin for 87 damage
 Turn 2:
 Player B: Palafin used Jet Punch on Tyranitar for 6 damage (supereffective)
 Player A: Tyranitar fainted
@@ -11,25 +11,25 @@ Player B: Palafin fainted
 Player B: Switched out Palafin for Clodsire
 Player A: Switched out Tyranitar for Garchomp
 Turn 3:
-Player B: Clodsire used Protect on self
-Player A: Garchomp used Aerial Ace on self
+Player B: Clodsire used Protect on Clodsire
+Player A: Garchomp used Aerial Ace on Clodsire
 Turn 4:
 Player A: Garchomp used Aerial Ace on Clodsire for 15 damage
-Player B: Clodsire used Toxic
+Player B: Clodsire used Toxic on Garchomp and they are now badly poisoned
 Turn 5:
-Player B: Clodsire used Protect on self
-Player A: Garchomp used Earthquake on self
+Player B: Clodsire used Protect on Clodsire
+Player A: Garchomp used Earthquake on Clodsire
 Turn 6:
 Player B: Switched out Clodsire for Kilowattrel
 Player A: Garchomp used Dragon Pulse on Kilowattrel for 54 damage
 Turn 7:
 Player B: Kilowattrel used Air Slash on Garchomp for 70 damage
-Player A: Garchomp used Dragon Pulse on Kilowattrel for 36 damage
+Player A: Garchomp used Dragon Pulse on Kilowattrel for 46 damage
 Player B: Kilowattrel fainted
 Player B: Switched out Kilowattrel for Baxcalibur
 Turn 8:
 Player A: Garchomp used Fire Blast on Baxcalibur for 36 damage (supereffective)
-Player B: Baxcalibur used Dragon Dance on self
+Player B: Baxcalibur used Dragon Dance on Baxcalibur
 Player A: Garchomp fainted
 Player A: Switched out Garchomp for Rayquaza
 Turn 9:

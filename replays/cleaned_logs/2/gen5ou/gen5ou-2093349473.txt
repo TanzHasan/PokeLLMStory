@@ -12,8 +12,8 @@ Player A: Switched out Jirachi for Wobbuffet
 Turn 3:
 Player B: Switched out Magnezone for Gliscor
 Turn 4:
-Player B: Gliscor used Toxic
-Player A: Wobbuffet used Encore on self
+Player B: Gliscor used Toxic on Wobbuffet and they are now badly poisoned
+Player A: Wobbuffet used Encore on Gliscor
 Turn 5:
 Player B: Switched out Gliscor for Yanmega
 Player A: Switched out Wobbuffet for Zangoose
@@ -30,7 +30,7 @@ Player A: Switched out Typhlosion for Tentacruel
 Player B: Tentacruel used Scald on Tentacruel for 8 damage
 Turn 9:
 Player B: Switched out Tentacruel for Magnezone
-Player A: Tentacruel used Toxic Spikes on self
+Player A: Tentacruel used Toxic Spikes on Magnezone
 Turn 10:
 Player A: Switched out Tentacruel for Wobbuffet
 Player B: Magnezone used Thunderbolt on Wobbuffet for 46 damage
@@ -41,15 +41,15 @@ Player B: Magnezone fainted
 Player B: Switched out Magnezone for Gliscor
 Turn 12:
 Player B: Gliscor used Toxic but it failed
-Player A: Wobbuffet used Destiny Bond on self
+Player A: Wobbuffet used Destiny Bond on Wobbuffet
 Turn 13:
 Player B: Gliscor used Toxic but it failed
-Player A: Wobbuffet used Encore on self
+Player A: Wobbuffet used Encore on Gliscor
 Player A: Wobbuffet fainted
 Player A: Switched out Wobbuffet for Tentacruel
 Turn 14:
 Player B: Switched out Gliscor for Snorlax
-Player A: Tentacruel used Toxic Spikes on self
+Player A: Tentacruel used Toxic Spikes on Snorlax
 Turn 15:
 Player B: Switched out Snorlax for Gliscor
 Player A: Tentacruel used Surf on Gliscor for 66 damage (supereffective)
@@ -64,7 +64,7 @@ Player A: Tentacruel used Rest and healed for 79
 Turn 19:
 Player B: Gliscor used Earthquake on Tentacruel for 85 damage (supereffective)
 Player A: Tentacruel can't move because it is asleep
-Player A: Tentacruel used Sleep Talk on self
+Player A: Tentacruel used Sleep Talk on Tentacruel
 Turn 20:
 Player B: Gliscor used Earthquake on Tentacruel for 15 damage (supereffective)
 Player A: Tentacruel fainted

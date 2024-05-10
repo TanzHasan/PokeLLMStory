@@ -2,12 +2,12 @@ Battle start:
 Player A sent out Arbok
 Player B sent out Alcremie-Salted-Cream
 Turn 1:
-Player A: Arbok used Coil on self
-Player B: Alcremie-Salted-Cream used Acid Armor on self
+Player A: Arbok used Coil on Arbok
+Player B: Alcremie-Salted-Cream used Acid Armor on Alcremie-Salted-Cream
 Turn 2:
 Player A: Arbok used Knock Off on Alcremie-Salted-Cream for 31 damage
-Player B: Alcremie-Salted-Cream used Acid Armor on self
+Player B: Alcremie-Salted-Cream used Acid Armor on Alcremie-Salted-Cream
 Turn 3:
-Player A: Arbok used Coil on self
-Player B: Alcremie-Salted-Cream used Calm Mind on self
+Player A: Arbok used Coil on Arbok
+Player B: Alcremie-Salted-Cream used Calm Mind on Alcremie-Salted-Cream
 Turn 4:

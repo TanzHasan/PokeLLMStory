@@ -2,17 +2,17 @@ Battle start:
 Player A sent out Swoobat
 Player B sent out Dragonite
 Turn 1:
-Player A: Swoobat used Reflect on self
-Player B: Dragonite used Dragon Dance on self
+Player A: Swoobat used Reflect on Swoobat
+Player B: Dragonite used Dragon Dance on Dragonite
 Turn 2:
 Player A: Switched out Swoobat for Jellicent
-Player B: Dragonite used Dragon Dance on self
+Player B: Dragonite used Dragon Dance on Dragonite
 Turn 3:
 Player B: Switched out Dragonite for Blastoise
 Player A: Jellicent used Ice Beam on Blastoise for 8 damage
 Turn 4:
-Player B: Blastoise used Toxic
-Player A: Jellicent used Will-O-Wisp
+Player B: Blastoise used Toxic on Jellicent and they are now badly poisoned
+Player A: Jellicent used Will-O-Wisp on Blastoise and they are now burned
 Turn 5:
 Player B: Blastoise used Ice Beam on Jellicent for 13 damage
 Player A: Jellicent used Hex on Blastoise for 30 damage
@@ -30,17 +30,17 @@ Player A: Jolteon used Volt Switch on Snorlax for 16 damage
 Player A: Switched out Jolteon for Jellicent
 Player B: Snorlax used Body Slam but it had no effect on Jellicent
 Turn 10:
-Player A: Jellicent used Will-O-Wisp
-Player B: Snorlax used Curse on self
+Player A: Jellicent used Will-O-Wisp on Snorlax and they are now burned
+Player B: Snorlax used Curse on Snorlax
 Turn 11:
 Player A: Jellicent used Ice Beam on Snorlax for 9 damage
-Player B: Snorlax used Curse on self
+Player B: Snorlax used Curse on Snorlax
 Turn 12:
 Player A: Jellicent used Recover and healed for 0
 Player B: Snorlax used Body Slam but it had no effect on Jellicent
 Turn 13:
 Player A: Switched out Jellicent for Haxorus
-Player B: Snorlax used Curse on self
+Player B: Snorlax used Curse on Snorlax
 Turn 14:
 Player A: Haxorus used Brick Break on Snorlax for 37 damage (supereffective)
 Player B: Snorlax used Body Slam on Haxorus for 49 damage
@@ -54,11 +54,11 @@ Turn 17:
 Player A: Switched out Haxorus for Swoobat
 Player B: Snorlax can't move because it is asleep
 Turn 18:
-Player A: Swoobat used Reflect on self
+Player A: Swoobat used Reflect on Swoobat
 Player B: Snorlax used Body Slam on Swoobat for 21 damage
 Turn 19:
-Player A: Swoobat used Calm Mind on self
-Player B: Snorlax used Body Slam on Swoobat for 21 damage
+Player A: Swoobat used Calm Mind on Swoobat
+Player B: Snorlax used Body Slam on Swoobat for 21 damage and they are now paralyzed
 Turn 20:
 Player A: Swoobat can't move because it is paralyzed
 Player B: Snorlax used Body Slam on Swoobat for 24 damage
@@ -76,7 +76,7 @@ Player B: Snorlax used Earthquake on Houndoom for 100 damage (supereffective)
 Player A: Houndoom fainted
 Player A: Switched out Houndoom for Jolteon
 Turn 24:
-Player A: Jolteon used Thunder Wave
+Player A: Jolteon used Thunder Wave on Snorlax and they are now paralyzed
 Player B: Snorlax used Earthquake on Jolteon for 87 damage (supereffective)
 Turn 25:
 Player A: Jolteon used Discharge on Snorlax for 5 damage
@@ -84,23 +84,23 @@ Player B: Snorlax used Body Slam on Jolteon for 13 damage
 Player A: Jolteon fainted
 Player A: Switched out Jolteon for Excadrill
 Turn 26:
-Player A: Excadrill used Iron Defense on self
+Player A: Excadrill used Iron Defense on Excadrill
 Player B: Snorlax can't move because it is paralyzed
 Turn 27:
-Player A: Excadrill used Iron Defense on self
+Player A: Excadrill used Iron Defense on Excadrill
 Player B: Snorlax used Earthquake on Excadrill for 45 damage (supereffective)
 Turn 28:
 Player A: Excadrill used Earthquake on Snorlax for -2 damage
 Player B: Snorlax used Earthquake on Excadrill for 45 damage (supereffective)
 Turn 29:
 Player A: Excadrill used Iron Head on Snorlax for 9 damage
-Player B: Snorlax can't move because flinch
+Player B: Snorlax can't move because it is flinch
 Turn 30:
 Player A: Excadrill used Iron Head on Snorlax for 9 damage
-Player B: Snorlax can't move because flinch
+Player B: Snorlax can't move because it is flinch
 Turn 31:
 Player A: Excadrill used Iron Head on Snorlax for 9 damage
-Player B: Snorlax can't move because flinch
+Player B: Snorlax can't move because it is flinch
 Turn 32:
 Player A: Excadrill used Iron Head on Snorlax for 7 damage
 Player B: Snorlax can't move because it is paralyzed
@@ -108,7 +108,7 @@ Turn 33:
 Player A: Excadrill used Iron Head on Snorlax for 9 damage
 Player B: Snorlax used Rest and healed for 68
 Turn 34:
-Player A: Excadrill used Iron Defense on self
+Player A: Excadrill used Iron Defense on Excadrill
 Player B: Snorlax can't move because it is asleep
 Turn 35:
 Player A: Excadrill used Iron Head on Snorlax for 13 damage
@@ -124,7 +124,7 @@ Player B: Snorlax used Body Slam on Haxorus for 51 damage
 Player A: Haxorus fainted
 Player A: Switched out Haxorus for Jellicent
 Turn 38:
-Player A: Jellicent used Will-O-Wisp
+Player A: Jellicent used Will-O-Wisp on Snorlax and they are now burned
 Player B: Snorlax used Earthquake on Jellicent for 47 damage
 Turn 39:
 Player A: Jellicent used Recover and healed for 47

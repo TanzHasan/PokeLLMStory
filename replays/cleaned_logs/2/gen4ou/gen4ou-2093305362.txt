@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Uxie
 Player B sent out Nidoqueen
 Turn 1:
-Player A: Uxie used Stealth Rock on self
-Player B: Nidoqueen used Toxic Spikes on self
+Player A: Uxie used Stealth Rock on Nidoqueen
+Player B: Nidoqueen used Toxic Spikes on Uxie
 Turn 2:
 Player B: Switched out Nidoqueen for Magnezone
 Player A: Uxie used Psychic on Magnezone for 23 damage
 Turn 3:
-Player B: Magnezone used Magnet Rise on self
-Player A: Uxie used Yawn on self
+Player B: Magnezone used Magnet Rise on Magnezone
+Player A: Uxie used Yawn on Magnezone
 Turn 4:
 Player B: Switched out Magnezone for Latias
 Player A: Uxie used Psychic on Latias and crit for 35 damage
@@ -23,31 +23,31 @@ Player B: Latias fainted
 Player B: Switched out Latias for Gastrodon-East
 Turn 7:
 Player A: Switched out Scizor for Suicune
-Player B: Gastrodon-East used Curse on self
+Player B: Gastrodon-East used Curse on Gastrodon-East
 Turn 8:
-Player A: Suicune used Calm Mind on self
+Player A: Suicune used Calm Mind on Suicune
 Player B: Gastrodon-East used Earthquake on Suicune for 54 damage
 Turn 9:
 Player A: Suicune used Ice Beam on Gastrodon-East for 33 damage
-Player B: Gastrodon-East used Earthquake on Suicune for 24 damage
+Player B: Gastrodon-East used Earthquake on Suicune for 46 damage
 Player A: Suicune fainted
 Player A: Switched out Suicune for Lucario
 Turn 10:
-Player A: Lucario used Swords Dance on self
+Player A: Lucario used Swords Dance on Lucario
 Player B: Gastrodon-East used Earthquake on Lucario for 100 damage (supereffective)
 Player A: Lucario fainted
 Player A: Switched out Lucario for Dragonite
 Turn 11:
 Player A: Dragonite used Draco Meteor on Gastrodon-East for 42 damage
-Player B: Gastrodon-East used Waterfall on Dragonite for 20 damage
+Player B: Gastrodon-East used Waterfall on Dragonite for 29 damage
 Turn 12:
 Player B: Switched out Gastrodon-East for Jirachi
 Player A: Dragonite used Draco Meteor on Jirachi for 23 damage
 Turn 13:
-Player B: Jirachi used Psychic on Dragonite for 45 damage
+Player B: Jirachi used Psychic on Dragonite for 55 damage
 Player A: Dragonite used Earthquake on Jirachi for 37 damage (supereffective)
 Turn 14:
-Player B: Jirachi used Thunderbolt on Dragonite for 6 damage
+Player B: Jirachi used Thunderbolt on Dragonite for 16 damage
 Player A: Dragonite fainted
 Player A: Switched out Dragonite for Flygon
 Turn 15:
@@ -58,7 +58,7 @@ Turn 16:
 Player A: Switched out Flygon for Uxie
 Player B: Clefable used Ice Beam on Uxie for 13 damage
 Turn 17:
-Player A: Uxie used Yawn on self
+Player A: Uxie used Yawn on Clefable
 Player B: Clefable used Knock Off on Uxie for -2 damage (supereffective)
 Turn 18:
 Player B: Switched out Clefable for Magnezone

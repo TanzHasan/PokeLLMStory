@@ -2,17 +2,17 @@ Battle start:
 Player A sent out Toxapex
 Player B sent out Heatran
 Turn 1:
-Player B: Heatran used Stealth Rock on self
+Player B: Heatran used Stealth Rock on Toxapex
 Player A: Toxapex used Flip Turn on Heatran for 23 damage (supereffective)
 Player A: Switched out Toxapex for Tyranitar
 Turn 2:
-Player B: Heatran used Burning Bulwark on self
+Player B: Heatran used Burning Bulwark on Heatran
 Turn 3:
 Player B: Switched out Heatran for Excadrill
 Player A: Tyranitar used Stone Axe on Excadrill for 5 damage
 Turn 4:
 Player A: Switched out Tyranitar for Rotom-Wash
-Player B: Excadrill used Spikes on self
+Player B: Excadrill used Spikes on Rotom-Wash
 Turn 5:
 Player B: Switched out Excadrill for Hydrapple
 Player A: Rotom-Wash used Freeze-Dry on Hydrapple for 44 damage (supereffective)
@@ -20,8 +20,9 @@ Turn 6:
 Player A: Rotom-Wash used Volt Switch on Hydrapple for 3 damage
 Player A: Switched out Rotom-Wash for Toxapex
 Player B: Hydrapple used Dragon Tail on Toxapex for 34 damage
+Player A: Rotom-Wash got dragged out for Hydrapple by opponent's move
 Turn 7:
-Player A: Switched out Toxapex for Toxapex
+Player A: Switched out Hydrapple for Toxapex
 Player B: Hydrapple used Fickle Beam on Toxapex and crit for 40 damage
 Turn 8:
 Player B: Switched out Hydrapple for Heatran
@@ -41,7 +42,7 @@ Turn 12:
 Player B: Switched out Hydrapple for Heatran
 Player A: Tyranitar used Knock Off on Heatran for 25 damage
 Turn 13:
-Player B: Heatran used Doom Desire on self
+Player B: Heatran used Doom Desire on Tyranitar
 Player A: Tyranitar used Shore Up and healed for 38
 Turn 14:
 Player A: Switched out Tyranitar for Hydrapple
@@ -65,14 +66,14 @@ Player A: Rotom-Wash used Strength Sap and healed for 39
 Turn 19:
 Player A: Rotom-Wash used Volt Switch on Hydrapple for 2 damage
 Player A: Switched out Rotom-Wash for Landorus-Therian
-Player B: Hydrapple used Matcha Gotcha on Landorus-Therian for 45 damage
+Player B: Hydrapple used Matcha Gotcha on Landorus-Therian for 45 damage and they are now burned
 Player B: Hydrapple used Matcha Gotcha and healed for 15
 Turn 20:
 Player B: Switched out Hydrapple for Rotom-Wash
 Player A: Landorus-Therian used Shore Up and healed for 44
 Turn 21:
 Player A: Switched out Landorus-Therian for Toxapex
-Player B: Rotom-Wash used Nasty Plot on self
+Player B: Rotom-Wash used Nasty Plot on Rotom-Wash
 Turn 22:
 Player B: Rotom-Wash used Electro Drift on Toxapex for 26 damage (supereffective)
 Player A: Toxapex fainted

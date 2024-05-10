@@ -7,7 +7,7 @@ Player B: Switched out Meowscarada for Corviknight
 Player A: Metagross used Heavy Slam on Corviknight for 27 damage
 Turn 2:
 Player A: Metagross used Thunder Punch on Corviknight for 29 damage (supereffective)
-Player B: Corviknight used Iron Defense on self
+Player B: Corviknight used Iron Defense on Corviknight
 Turn 3:
 Player A: Switched out Metagross for Thundurus-Therian
 Player B: Corviknight used Roost and healed for 50
@@ -34,7 +34,7 @@ Player A: Samurott-Hisui used Ceaseless Edge on Corviknight for 19 damage
 Player B: Corviknight used Roost and healed for 50
 Turn 10:
 Player A: Switched out Samurott-Hisui for Thundurus-Therian
-Player B: Corviknight used Iron Defense on self
+Player B: Corviknight used Iron Defense on Corviknight
 Turn 11:
 Player B: Switched out Corviknight for Ho-Oh
 Player A: Thundurus-Therian used Thunderbolt on Ho-Oh for 59 damage (supereffective)
@@ -54,19 +54,19 @@ Player B: Switched out Baxcalibur for Corviknight
 Player A: Dragonite used Extreme Speed on Corviknight for 13 damage
 Turn 16:
 Player A: Switched out Dragonite for Hatterene
-Player B: Corviknight used Iron Defense on self
+Player B: Corviknight used Iron Defense on Corviknight
 Turn 17:
 Player B: Switched out Corviknight for Magearna
-Player A: Hatterene used Calm Mind on self
+Player A: Hatterene used Calm Mind on Hatterene
 Turn 18:
 Player A: Hatterene used Mystical Fire on Magearna for 78 damage (supereffective)
-Player B: Magearna used Calm Mind on self
+Player B: Magearna used Calm Mind on Magearna
 Turn 19:
 Player A: Hatterene used Mystical Fire on Magearna for 22 damage (supereffective)
 Player B: Magearna fainted
 Player B: Switched out Magearna for Baxcalibur
 Turn 20:
-Player B: Baxcalibur used Body Slam on Hatterene for 59 damage
+Player B: Baxcalibur used Body Slam on Hatterene for 59 damage and they are now paralyzed
 Player A: Hatterene can't move because it is paralyzed
 Turn 21:
 Player B: Baxcalibur used Body Slam on Hatterene for 41 damage

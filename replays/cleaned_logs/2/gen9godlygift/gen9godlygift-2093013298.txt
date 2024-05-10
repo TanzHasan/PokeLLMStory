@@ -3,13 +3,13 @@ Player A sent out Iron Treads
 Player B sent out Skarmory
 Turn 1:
 Player B: Switched out Skarmory for Alomomola
-Player A: Iron Treads used Stealth Rock on self
+Player A: Iron Treads used Stealth Rock on Alomomola
 Turn 2:
 Player A: Iron Treads used Earth Power on Alomomola for 21 damage
 Player B: Alomomola used Scald on Iron Treads for 37 damage (supereffective)
 Turn 3:
 Player A: Iron Treads used Earth Power on Alomomola for 22 damage
-Player B: Alomomola used Scald on Iron Treads for 39 damage (supereffective)
+Player B: Alomomola used Scald on Iron Treads for 39 damage and they are now burned (supereffective)
 Turn 4:
 Player A: Iron Treads used Earth Power on Alomomola for 19 damage
 Player B: Alomomola used Flip Turn on Iron Treads for 24 damage (supereffective)
@@ -18,7 +18,7 @@ Player B: Switched out Alomomola for Skarmory
 Player A: Switched out Iron Treads for Arceus
 Turn 5:
 Player B: Switched out Skarmory for Clodsire
-Player A: Arceus used Taunt on self
+Player A: Arceus used Taunt on Clodsire
 Turn 6:
 Player A: Arceus used Shadow Claw on Clodsire for 23 damage
 Player B: Clodsire used Poison Jab on Arceus for 7 damage
@@ -27,10 +27,10 @@ Player A: Arceus used Extreme Speed on Clodsire for 31 damage
 Player B: Clodsire used Poison Jab on Arceus for 9 damage
 Turn 8:
 Player B: Switched out Clodsire for Tornadus-Therian
-Player A: Arceus used Taunt on self
+Player A: Arceus used Taunt on Tornadus-Therian
 Turn 9:
 Player B: Tornadus-Therian used Knock Off on Arceus for 29 damage (supereffective)
-Player A: Arceus used Swords Dance on self
+Player A: Arceus used Swords Dance on Arceus
 Turn 10:
 Player B: Tornadus-Therian used Knock Off on Arceus for 20 damage (supereffective)
 Player A: Arceus used Shadow Claw on Tornadus-Therian for 93 damage
@@ -40,15 +40,15 @@ Player A: Arceus used Shadow Claw on Tornadus-Therian for 7 damage
 Player B: Tornadus-Therian fainted
 Player B: Switched out Tornadus-Therian for Skarmory
 Turn 12:
-Player A: Arceus used Taunt on self
-Player B: Skarmory can't move because move: Taunt
+Player A: Arceus used Taunt on Skarmory
+Player B: Skarmory can't move because it is move: Taunt
 Turn 13:
 Player A: Arceus used Shadow Claw on Skarmory for 59 damage
 Player A: Arceus fainted
 Player A: Switched out Arceus for Roaring Moon
 Turn 14:
 Player A: Roaring Moon used Knock Off on Skarmory for 35 damage
-Player B: Skarmory used Brave Bird on Roaring Moon for 27 damage
+Player B: Skarmory used Brave Bird on Roaring Moon for 43 damage
 Player B: Skarmory fainted
 Player B: Switched out Skarmory for Gholdengo
 Turn 15:
@@ -56,7 +56,7 @@ Player B: Gholdengo used Make It Rain on Roaring Moon for 57 damage
 Player A: Roaring Moon fainted
 Player A: Switched out Roaring Moon for Iron Hands
 Turn 16:
-Player B: Gholdengo used Nasty Plot on self
+Player B: Gholdengo used Nasty Plot on Gholdengo
 Player A: Iron Hands used Ice Punch on Gholdengo for 23 damage
 Turn 17:
 Player B: Gholdengo used Shadow Ball on Iron Hands for 35 damage
@@ -67,17 +67,17 @@ Player A: Iron Hands used Ice Punch on Gholdengo for 8 damage
 Player B: Gholdengo fainted
 Player B: Switched out Gholdengo for Arceus-Ghost
 Turn 19:
-Player B: Arceus-Ghost used Calm Mind on self
-Player A: Iron Hands used Thunder Punch on Arceus-Ghost for 40 damage
+Player B: Arceus-Ghost used Calm Mind on Arceus-Ghost
+Player A: Iron Hands used Thunder Punch on Arceus-Ghost for 40 damage and they are now paralyzed
 Turn 20:
 Player B: Arceus-Ghost used Recover and healed for 40
 Player A: Iron Hands used Thunder Punch on Arceus-Ghost for 26 damage
 Turn 21:
-Player B: Arceus-Ghost used Calm Mind on self
+Player B: Arceus-Ghost used Calm Mind on Arceus-Ghost
 Player A: Iron Hands used Thunder Punch on Arceus-Ghost for 29 damage
 Turn 22:
 Player B: Arceus-Ghost used Recover and healed for 50
-Player A: Iron Hands used Swords Dance on self
+Player A: Iron Hands used Swords Dance on Iron Hands
 Turn 23:
 Player B: Arceus-Ghost used Judgment on Iron Hands for 26 damage
 Player A: Iron Hands fainted

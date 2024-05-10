@@ -3,9 +3,9 @@ Player A sent out Omastar
 Player B sent out Drapion
 Turn 1:
 Player B: Drapion used Earthquake on Omastar for 122 damage (supereffective)
-Player A: Omastar used Shell Smash on self
+Player A: Omastar used Shell Smash on Omastar
 Turn 2:
-Player A: Omastar used Earth Power on Drapion for 225 damage (supereffective)
+Player A: Omastar used Earth Power on Drapion for 249 damage (supereffective)
 Player B: Drapion fainted
 Player B: Switched out Drapion for Starmie
 Turn 3:
@@ -15,10 +15,10 @@ Player A: Omastar fainted
 Player A: Switched out Omastar for Blastoise
 Turn 4:
 Player B: Starmie used Psyshock on Blastoise for 103 damage
-Player A: Blastoise used Toxic
+Player A: Blastoise used Toxic on Starmie and they are now badly poisoned
 Turn 5:
 Player B: Starmie used Scald on Blastoise for 32 damage
-Player A: Blastoise used Rapid Spin on Starmie for 10 damage
+Player A: Blastoise used Rapid Spin on Starmie for 93 damage
 Player B: Starmie fainted
 Player B: Switched out Starmie for Toxtricity
 Turn 6:
@@ -28,10 +28,10 @@ Player A: Blastoise fainted
 Player A: Switched out Blastoise for Dhelmise
 Turn 7:
 Player B: Switched out Toxtricity for Arcanine
-Player A: Dhelmise used Swords Dance on self
+Player A: Dhelmise used Swords Dance on Dhelmise
 Turn 8:
 Player B: Arcanine used Flare Blitz on Dhelmise for -16 damage (supereffective)
-Player A: Dhelmise used Max Phantasm on Arcanine for 200 damage
+Player A: Dhelmise used Max Phantasm on Arcanine for 282 damage
 Player B: Arcanine fainted
 Player B: Switched out Arcanine for Toxtricity
 Turn 9:
@@ -40,8 +40,8 @@ Player A: Dhelmise used Max Phantasm on Toxtricity for 175 damage
 Player B: Toxtricity fainted
 Player B: Switched out Toxtricity for Latias
 Turn 10:
-Player B: Latias used Max Guard on self
-Player A: Dhelmise used Max Steelspike on self
+Player B: Latias used Max Guard on Latias
+Player A: Dhelmise used Max Steelspike on Latias
 Turn 11:
 Player B: Latias used Max Mindstorm on Dhelmise for 169 damage
 Player A: Dhelmise fainted
@@ -51,17 +51,17 @@ Player B: Latias used Max Wyrmwind on Latios and crit for 250 damage (supereffec
 Player A: Latios fainted
 Player A: Switched out Latios for Dialga
 Turn 13:
-Player B: Latias used Calm Mind on self
+Player B: Latias used Calm Mind on Latias
 Player A: Dialga used Flash Cannon on Latias for 49 damage
 Turn 14:
-Player B: Latias used Calm Mind on self
+Player B: Latias used Calm Mind on Latias
 Player A: Dialga used Draco Meteor on Latias for 116 damage (supereffective)
 Turn 15:
 Player A: Switched out Dialga for Zacian-Crowned
 Player B: Latias used Roost and healed for 146
 Turn 16:
 Player B: Latias used Psychic on Zacian-Crowned for 104 damage
-Player A: Zacian-Crowned used Swords Dance on self
+Player A: Zacian-Crowned used Swords Dance on Zacian-Crowned
 Turn 17:
 Player B: Latias used Psychic on Zacian-Crowned for 104 damage
 Player A: Zacian-Crowned used Crunch on Latias and crit for 240 damage (supereffective)
@@ -72,10 +72,10 @@ Player B: Virizion used Leaf Blade on Zacian-Crowned for 6 damage
 Player A: Zacian-Crowned fainted
 Player A: Switched out Zacian-Crowned for Dialga
 Turn 19:
-Player B: Virizion used Swords Dance on self
+Player B: Virizion used Swords Dance on Virizion
 Player A: Dialga used Draco Meteor on Virizion for 127 damage
 Turn 20:
-Player B: Virizion used Swords Dance on self
+Player B: Virizion used Swords Dance on Virizion
 Player A: Dialga used Draco Meteor on Virizion for 63 damage
 Turn 21:
 Player B: Virizion used Close Combat on Dialga for 270 damage (supereffective)

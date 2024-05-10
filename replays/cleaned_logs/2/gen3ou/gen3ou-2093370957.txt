@@ -2,19 +2,21 @@ Battle start:
 Player A sent out Gardevoir
 Player B sent out Ninjask
 Turn 1:
-Player A: Gardevoir used Psychic on self
+Player B: Ninjask used Substitute on Ninjask
+Player A: Gardevoir used Psychic on Ninjask
 Turn 2:
-Player B: Ninjask used Protect on self
+Player B: Ninjask used Protect on Ninjask
 Player A: Gardevoir used Will-O-Wisp on Ninjask but it missed
 Turn 3:
 Player A: Switched out Gardevoir for Metagross
+Player B: Ninjask used Substitute on Ninjask
 Turn 4:
-Player B: Ninjask used Protect on self
-Player A: Metagross used Earthquake on self
+Player B: Ninjask used Protect on Ninjask
+Player A: Metagross used Earthquake on Ninjask
 Turn 5:
-Player B: Ninjask used Baton Pass on self
+Player B: Ninjask used Baton Pass on Ninjask
 Player B: Switched out Ninjask for Vaporeon
-Player A: Metagross used Agility on self
+Player A: Metagross used Agility on Metagross
 Turn 6:
 Player B: Vaporeon used Surf on Metagross for 37 damage
 Player A: Metagross used Meteor Mash on Vaporeon but it missed
@@ -26,15 +28,16 @@ Player B: Vaporeon used Surf on Metagross for 32 damage
 Player A: Metagross fainted
 Player A: Switched out Metagross for Swampert
 Turn 9:
-Player B: Vaporeon used Baton Pass on self
+Player B: Vaporeon used Baton Pass on Vaporeon
 Player B: Switched out Vaporeon for Ninjask
 Player A: Swampert used Earthquake but it had no effect on Ninjask
 Turn 10:
-Player B: Ninjask used Baton Pass on self
+Player B: Ninjask used Baton Pass on Ninjask
 Player B: Switched out Ninjask for Hariyama
-Player A: Swampert used Ice Beam on self
+Player A: Swampert used Ice Beam on Hariyama
 Turn 11:
-Player A: Swampert used Surf on self
+Player B: Hariyama used Belly Drum on Hariyama
+Player A: Swampert used Surf on Hariyama
 Turn 12:
 Player A: Switched out Swampert for Sceptile
 Player B: Hariyama used Brick Break on Sceptile for 100 damage

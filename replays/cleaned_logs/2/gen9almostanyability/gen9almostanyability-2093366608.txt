@@ -4,23 +4,23 @@ Player B sent out Galvantula
 Turn 1:
 Player A: Regieleki used Volt Switch on Galvantula for 69 damage
 Player A: Switched out Regieleki for Ceruledge
-Player B: Galvantula used Sticky Web on self
+Player B: Galvantula used Sticky Web on Ceruledge
 Turn 2:
 Player B: Galvantula used Volt Switch on Ceruledge for 36 damage
 Player B: Switched out Galvantula for Comfey
-Player A: Ceruledge used Bulk Up on self
+Player A: Ceruledge used Bulk Up on Ceruledge
 Turn 3:
-Player B: Comfey used Encore on self
-Player A: Ceruledge used Bulk Up on self
+Player B: Comfey used Encore on Ceruledge
+Player A: Ceruledge used Bulk Up on Ceruledge
 Turn 4:
 Player B: Switched out Comfey for Overqwil
 Player A: Switched out Ceruledge for Dragonite
 Turn 5:
-Player B: Overqwil used Toxic Spikes on self
-Player A: Dragonite used Dragon Dance on self
+Player B: Overqwil used Toxic Spikes on Dragonite
+Player A: Dragonite used Dragon Dance on Dragonite
 Turn 6:
-Player B: Overqwil used Barb Barrage on Dragonite for 27 damage
-Player A: Dragonite used Dragon Dance on self
+Player B: Overqwil used Barb Barrage on Dragonite for 27 damage and they are now poisoned
+Player A: Dragonite used Dragon Dance on Dragonite
 Turn 7:
 Player A: Dragonite used Extreme Speed on Overqwil for 100 damage
 Player B: Overqwil fainted
@@ -36,7 +36,7 @@ Player B: Brambleghast fainted
 Player B: Switched out Brambleghast for Ambipom
 Turn 10:
 Player B: Ambipom used Fake Out on Dragonite for 67 damage
-Player A: Dragonite can't move because flinch
+Player A: Dragonite can't move because it is flinch
 Player A: Dragonite fainted
 Player A: Switched out Dragonite for Regieleki
 Turn 11:

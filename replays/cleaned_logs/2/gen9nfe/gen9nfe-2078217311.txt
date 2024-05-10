@@ -14,7 +14,7 @@ Player A: Switched out Tinkatuff for Quaxwell
 Player B: Raboot used U-turn on Quaxwell for 20 damage
 Player B: Switched out Raboot for Gligar
 Turn 4:
-Player B: Gligar used Toxic
+Player B: Gligar used Toxic on Quaxwell and they are now badly poisoned
 Player A: Quaxwell used Rapid Spin on Gligar for 5 damage
 Turn 5:
 Player A: Quaxwell used Flip Turn on Gligar for 18 damage (supereffective)
@@ -22,7 +22,7 @@ Player A: Switched out Quaxwell for Frogadier
 Player B: Gligar used Knock Off on Frogadier for 44 damage
 Turn 6:
 Player B: Switched out Gligar for Quaxwell
-Player A: Frogadier used Toxic Spikes on self
+Player A: Frogadier used Toxic Spikes on Quaxwell
 Turn 7:
 Player A: Frogadier used U-turn on Quaxwell and crit for 9 damage
 Player A: Switched out Frogadier for Tinkatuff
@@ -32,8 +32,8 @@ Player B: Quaxwell used Flip Turn on Tinkatuff for 20 damage
 Player B: Switched out Quaxwell for Gligar
 Player A: Tinkatuff used Knock Off on Gligar for 8 damage
 Turn 9:
-Player B: Gligar used Stealth Rock on self
-Player A: Tinkatuff used Stealth Rock on self
+Player B: Gligar used Stealth Rock on Tinkatuff
+Player A: Tinkatuff used Stealth Rock on Gligar
 Turn 10:
 Player B: Gligar used Earthquake on Tinkatuff and crit for 56 damage (supereffective)
 Player A: Tinkatuff fainted
@@ -47,13 +47,13 @@ Turn 12:
 Player A: Switched out Quaxwell for Combusken
 Player B: Servine used Leaf Storm on Combusken for 43 damage
 Turn 13:
-Player A: Combusken used Protect on self
-Player B: Servine used Glare on self
+Player A: Combusken used Protect on Combusken
+Player B: Servine used Glare on Combusken
 Turn 14:
 Player A: Combusken used Fire Punch on Servine for 68 damage (supereffective)
-Player B: Servine used Glare
+Player B: Servine used Glare on Combusken and they are now paralyzed
 Turn 15:
-Player A: Combusken used Protect on self
+Player A: Combusken used Protect on Combusken
 Player B: Servine used Synthesis and healed for 50
 Turn 16:
 Player B: Switched out Servine for Quaxwell
@@ -67,13 +67,13 @@ Player B: Quaxwell fainted
 Player B: Switched out Quaxwell for Duosion
 Turn 19:
 Player A: Combusken used Fire Punch on Duosion for 24 damage
-Player B: Duosion used Acid Armor on self
+Player B: Duosion used Acid Armor on Duosion
 Turn 20:
 Player A: Combusken used Fire Punch on Duosion for 13 damage
-Player B: Duosion used Calm Mind on self
+Player B: Duosion used Calm Mind on Duosion
 Turn 21:
 Player A: Switched out Combusken for Frogadier
-Player B: Duosion used Calm Mind on self
+Player B: Duosion used Calm Mind on Duosion
 Turn 22:
 Player A: Frogadier used U-turn on Duosion for 13 damage (supereffective)
 Player A: Switched out Frogadier for Gligar

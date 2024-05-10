@@ -23,7 +23,7 @@ Player B: Ursaluna used Crunch on Hatterene for 23 damage
 Player A: Deoxys-Speed fainted
 Player A: Switched out Deoxys-Speed for Miasmaw
 Turn 6:
-Player A: Miasmaw used Swords Dance on self
+Player A: Miasmaw used Swords Dance on Miasmaw
 Player B: Ursaluna used Facade on Miasmaw for 100 damage
 Player A: Miasmaw fainted
 Player A: Switched out Miasmaw for Hawlucha

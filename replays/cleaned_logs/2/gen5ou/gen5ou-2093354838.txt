@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Scizor
 Player B sent out Liepard
 Turn 1:
-Player B: Liepard used Trick on self
+Player B: Liepard used Trick on Scizor
 Player A: Scizor used U-turn on Liepard for 100 damage (supereffective)
 Player B: Liepard fainted
 Player A: Switched out Scizor for Politoed
@@ -29,7 +29,7 @@ Player B: Ninetales used Will-O-Wisp on Politoed but it missed
 Player A: Politoed used Scald on Ninetales and crit for 99 damage (supereffective)
 Turn 8:
 Player A: Switched out Politoed for Starmie
-Player B: Ninetales used Will-O-Wisp
+Player B: Ninetales used Will-O-Wisp on Starmie and they are now burned
 Turn 9:
 Player A: Starmie used Thunder on Ninetales for 1 damage
 Player B: Ninetales fainted
@@ -47,5 +47,5 @@ Player A: Rotom-Wash fainted
 Player A: Switched out Rotom-Wash for Ferrothorn
 Turn 13:
 Player B: Yanmega used Hidden Power on Ferrothorn for 47 damage (supereffective)
-Player A: Ferrothorn used Thunder Wave
+Player A: Ferrothorn used Thunder Wave on Yanmega and they are now paralyzed
 Turn 14:

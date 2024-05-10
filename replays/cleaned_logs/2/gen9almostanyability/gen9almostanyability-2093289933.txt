@@ -2,28 +2,28 @@ Battle start:
 Player A sent out Excadrill
 Player B sent out Dudunsparce-Three-Segment
 Turn 1:
-Player A: Excadrill used Swords Dance on self
+Player A: Excadrill used Swords Dance on Excadrill
 Player B: Dudunsparce-Three-Segment used Lunge on Excadrill for 18 damage
 Turn 2:
 Player B: Switched out Dudunsparce-Three-Segment for Landorus-Therian
-Player A: Excadrill used Swords Dance on self
+Player A: Excadrill used Swords Dance on Excadrill
 Turn 3:
 Player B: Landorus-Therian used Earthquake on Excadrill for 82 damage (supereffective)
 Player A: Excadrill fainted
 Player A: Switched out Excadrill for Blastoise
 Turn 4:
 Player B: Landorus-Therian used Earthquake on Blastoise for 69 damage
-Player A: Blastoise used Shell Smash on self
+Player A: Blastoise used Shell Smash on Blastoise
 Turn 5:
 Player B: Landorus-Therian used Earthquake on Blastoise for 31 damage
 Player A: Blastoise fainted
 Player A: Switched out Blastoise for Chesnaught
 Turn 6:
 Player B: Landorus-Therian used Earthquake on Chesnaught for 32 damage
-Player A: Chesnaught used Bulk Up on self
+Player A: Chesnaught used Bulk Up on Chesnaught
 Turn 7:
 Player B: Switched out Landorus-Therian for Metagross
-Player A: Chesnaught used Bulk Up on self
+Player A: Chesnaught used Bulk Up on Chesnaught
 Turn 8:
 Player B: Metagross used Psychic Fangs on Chesnaught for 33 damage (supereffective)
 Player A: Chesnaught used Drain Punch on Metagross for 46 damage

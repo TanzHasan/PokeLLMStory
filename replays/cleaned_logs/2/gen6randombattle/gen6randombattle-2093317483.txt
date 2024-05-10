@@ -2,17 +2,17 @@ Battle start:
 Player A sent out Reuniclus
 Player B sent out Aromatisse
 Turn 1:
-Player B: Aromatisse used Calm Mind on self
+Player B: Aromatisse used Calm Mind on Aromatisse
 Player A: Reuniclus used Psyshock on Aromatisse for 160 damage
 Turn 2:
-Player B: Aromatisse used Protect on self
-Player A: Reuniclus used Psyshock on self
+Player B: Aromatisse used Protect on Aromatisse
+Player A: Reuniclus used Psyshock on Aromatisse
 Turn 3:
-Player B: Aromatisse used Wish on self
+Player B: Aromatisse used Wish on Aromatisse
 Player A: Reuniclus used Psyshock on Aromatisse for 102 damage
 Turn 4:
-Player B: Aromatisse used Protect on self
-Player A: Reuniclus used Shadow Ball on self
+Player B: Aromatisse used Protect on Aromatisse
+Player A: Reuniclus used Shadow Ball on Aromatisse
 Turn 5:
 Player B: Aromatisse used Moonblast on Reuniclus for 184 damage
 Player A: Reuniclus used Psyshock on Aromatisse for -105 damage
@@ -22,8 +22,9 @@ Player A: Reuniclus fainted
 Player A: Switched out Reuniclus for Toxicroak
 Turn 7:
 Player B: Switched out Aromatisse for Rotom-Wash
+Player A: Toxicroak used Substitute on Toxicroak
 Turn 8:
-Player B: Rotom-Wash used Volt Switch on self
+Player B: Rotom-Wash used Volt Switch on Toxicroak
 Player B: Switched out Rotom-Wash for Emboar
 Player A: Toxicroak used Gunk Shot on Emboar for 153 damage
 Turn 9:
@@ -31,15 +32,15 @@ Player A: Switched out Toxicroak for Uxie
 Player B: Emboar used Flare Blitz on Uxie for 195 damage
 Turn 10:
 Player B: Switched out Emboar for Blissey
-Player A: Uxie used Yawn on self
+Player A: Uxie used Yawn on Blissey
 Turn 11:
 Player A: Switched out Uxie for Toxicroak
-Player B: Blissey used Wish on self
+Player B: Blissey used Wish on Blissey
 Turn 12:
 Player B: Switched out Blissey for Noivern
-Player A: Toxicroak used Swords Dance on self
+Player A: Toxicroak used Swords Dance on Toxicroak
 Turn 13:
-Player B: Noivern used Hurricane on Toxicroak for 190 damage (supereffective)
+Player B: Noivern used Hurricane on Toxicroak for 253 damage (supereffective)
 Player A: Toxicroak fainted
 Player A: Switched out Toxicroak for Blastoise
 Turn 14:
@@ -47,19 +48,19 @@ Player B: Switched out Noivern for Blissey
 Player A: Blastoise used Scald on Blissey for 69 damage
 Turn 15:
 Player A: Switched out Blastoise for Spinda
-Player B: Blissey used Toxic
+Player B: Blissey used Toxic on Spinda and they are now badly poisoned
 Turn 16:
-Player B: Blissey used Protect on self
-Player A: Spinda used Superpower on self
+Player B: Blissey used Protect on Blissey
+Player A: Spinda used Superpower on Blissey
 Turn 17:
 Player A: Switched out Spinda for Uxie
 Player B: Switched out Blissey for Aromatisse
 Turn 18:
-Player A: Uxie used Heal Bell on self
+Player A: Uxie used Heal Bell on Uxie
 Player B: Aromatisse used Moonblast on Uxie for 37 damage
 Turn 19:
-Player A: Uxie used Yawn on self
-Player B: Aromatisse used Wish on self
+Player A: Uxie used Yawn on Aromatisse
+Player B: Aromatisse used Wish on Aromatisse
 Turn 20:
 Player B: Switched out Aromatisse for Rotom-Wash
 Player A: Uxie used U-turn on Rotom-Wash for 36 damage
@@ -67,22 +68,24 @@ Player A: Switched out Uxie for Sceptile
 Turn 21:
 Player B: Rotom-Wash used Volt Switch on Sceptile for 38 damage
 Player B: Switched out Rotom-Wash for Blissey
+Player A: Sceptile used Substitute on Sceptile
 Turn 22:
-Player A: Sceptile used Leech Seed on self
-Player B: Blissey used Seismic Toss on self
+Player A: Sceptile used Leech Seed on Blissey
+Player B: Blissey used Seismic Toss on Sceptile
 Turn 23:
 Player B: Switched out Blissey for Rotom-Wash
+Player A: Sceptile used Substitute on Sceptile
 Turn 24:
-Player B: Rotom-Wash used Volt Switch on self
+Player B: Rotom-Wash used Volt Switch on Sceptile
 Player B: Switched out Rotom-Wash for Blissey
 Player A: Sceptile used Giga Drain on Blissey for 67 damage
-Player A: Sceptile used Giga Drain and healed for 48
+Player A: Sceptile used Giga Drain and healed for 26
 Turn 25:
 Player A: Sceptile used Leech Seed on Blissey but it missed
-Player B: Blissey used Wish on self
+Player B: Blissey used Wish on Blissey
 Turn 26:
 Player B: Switched out Blissey for Noivern
-Player A: Sceptile used Leech Seed on self
+Player A: Sceptile used Leech Seed on Noivern
 Turn 27:
 Player A: Sceptile used Hidden Power on Noivern for 62 damage
 Player B: Noivern used Hurricane on Sceptile and crit for 228 damage (supereffective)
@@ -92,8 +95,8 @@ Turn 28:
 Player B: Switched out Noivern for Blissey
 Player A: Switched out Blastoise for Spinda
 Turn 29:
-Player B: Blissey used Protect on self
-Player A: Spinda used Superpower on self
+Player B: Blissey used Protect on Blissey
+Player A: Spinda used Superpower on Blissey
 Turn 30:
 Player B: Switched out Blissey for Noivern
 Player A: Spinda used Superpower on Noivern for 44 damage

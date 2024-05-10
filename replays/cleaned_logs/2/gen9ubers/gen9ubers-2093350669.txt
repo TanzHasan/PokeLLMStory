@@ -2,10 +2,10 @@ Battle start:
 Player A sent out Enamorus
 Player B sent out Avalugg
 Turn 1:
-Player A: Enamorus used Agility on self
-Player B: Avalugg used Rain Dance on self
+Player A: Enamorus used Agility on Enamorus
+Player B: Avalugg used Rain Dance on Avalugg
 Turn 2:
-Player A: Enamorus used Agility on self
+Player A: Enamorus used Agility on Enamorus
 Player B: Avalugg used Avalanche on Enamorus for 53 damage (supereffective)
 Turn 3:
 Player A: Enamorus used Moonblast on Avalugg for 99 damage
@@ -30,32 +30,32 @@ Player A: Incineroar used Knock Off on Blastoise for 38 damage
 Turn 8:
 Player B: Blastoise used Flip Turn on Incineroar for 33 damage (supereffective)
 Player B: Switched out Blastoise for Torterra
-Player A: Incineroar used Will-O-Wisp
+Player A: Incineroar used Will-O-Wisp on Torterra and they are now burned
 Turn 9:
-Player A: Incineroar used Parting Shot on self
+Player A: Incineroar used Parting Shot on Torterra
 Player A: Switched out Incineroar for Arboliva
 Player B: Torterra used Facade on Arboliva for 43 damage
 Turn 10:
 Player B: Torterra used Facade on Arboliva for 21 damage
-Player A: Arboliva used Giga Drain on Torterra for 75 damage (supereffective)
+Player A: Arboliva used Giga Drain on Torterra for 100 damage (supereffective)
 Player A: Arboliva used Giga Drain and healed for 40
 Player B: Torterra fainted
 Player B: Switched out Torterra for Fezandipiti
 Turn 11:
-Player B: Fezandipiti used Alluring Voice on Arboliva for 16 damage
+Player B: Fezandipiti used Alluring Voice on Arboliva for 16 damage and they are now badly poisoned
 Player A: Arboliva used Earth Power on Fezandipiti and crit for 85 damage (supereffective)
 Turn 12:
 Player B: Fezandipiti used Hex but it had no effect on Arboliva
 Player A: Arboliva used Giga Drain on Fezandipiti for 10 damage
 Player A: Arboliva used Giga Drain and healed for 10
 Turn 13:
-Player B: Fezandipiti used Light Screen on self
+Player B: Fezandipiti used Light Screen on Fezandipiti
 Player A: Arboliva used Earth Power on Fezandipiti for 5 damage (supereffective)
 Player B: Fezandipiti fainted
 Player B: Switched out Fezandipiti for Cresselia
 Turn 14:
 Player A: Switched out Arboliva for Incineroar
-Player B: Cresselia used Body Slam on Incineroar for 3 damage
+Player B: Cresselia used Body Slam on Incineroar for 3 damage and they are now paralyzed
 Turn 15:
 Player B: Cresselia used Dazzling Gleam on Incineroar for 8 damage
 Player A: Incineroar used Knock Off on Cresselia for 72 damage (supereffective)

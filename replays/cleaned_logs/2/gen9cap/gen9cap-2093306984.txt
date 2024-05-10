@@ -3,10 +3,10 @@ Player A sent out Chromera
 Player B sent out Ogerpon-Wellspring
 Turn 1:
 Player B: Ogerpon-Wellspring used Knock Off on Chromera for 12 damage
-Player A: Chromera used Reflect on self
+Player A: Chromera used Reflect on Chromera
 Turn 2:
-Player B: Ogerpon-Wellspring used Swords Dance on self
-Player A: Chromera used Light Screen on self
+Player B: Ogerpon-Wellspring used Swords Dance on Ogerpon-Wellspring
+Player A: Chromera used Light Screen on Chromera
 Turn 3:
 Player B: Ogerpon-Wellspring used Ivy Cudgel on Chromera for 41 damage
 Player A: Chromera used Boomburst on Ogerpon-Wellspring for 39 damage
@@ -15,26 +15,26 @@ Player A: Switched out Chromera for Plasmanta
 Player B: Ogerpon-Wellspring used Power Whip on Plasmanta for 40 damage
 Turn 5:
 Player B: Switched out Ogerpon-Wellspring for Landorus-Therian
-Player A: Plasmanta used Sludge Wave on Landorus-Therian for 25 damage
+Player A: Plasmanta used Sludge Wave on Landorus-Therian for 25 damage and they are now poisoned
 Turn 6:
 Player A: Switched out Plasmanta for Venomicon
-Player B: Landorus-Therian used Stealth Rock on self
+Player B: Landorus-Therian used Stealth Rock on Venomicon
 Turn 7:
-Player B: Landorus-Therian used Taunt on self
+Player B: Landorus-Therian used Taunt on Venomicon
 Player A: Venomicon used Knock Off on Landorus-Therian for 37 damage
 Turn 8:
-Player B: Landorus-Therian used Smack Down on Venomicon for 25 damage (supereffective)
+Player B: Landorus-Therian used Smack Down on Venomicon for 41 damage (supereffective)
 Player A: Venomicon used Sludge Bomb on Landorus-Therian for 31 damage
 Player B: Landorus-Therian fainted
 Player B: Switched out Landorus-Therian for Pecharunt
 Turn 9:
-Player B: Pecharunt used Nasty Plot on self
+Player B: Pecharunt used Nasty Plot on Pecharunt
 Player A: Venomicon used Knock Off on Pecharunt for 15 damage (supereffective)
 Turn 10:
 Player B: Pecharunt used Shadow Ball on Venomicon for 49 damage
 Player A: Venomicon used Roost and healed for 50
 Turn 11:
-Player B: Pecharunt used Nasty Plot on self
+Player B: Pecharunt used Nasty Plot on Pecharunt
 Player A: Venomicon used Roost and healed for 40
 Turn 12:
 Player B: Pecharunt used Shadow Ball on Venomicon for 75 damage
@@ -51,22 +51,22 @@ Player B: Pecharunt fainted
 Player B: Switched out Pecharunt for Hemogoblin
 Turn 15:
 Player A: Switched out Plasmanta for Chromera
-Player B: Hemogoblin used Bulk Up on self
+Player B: Hemogoblin used Bulk Up on Hemogoblin
 Turn 16:
 Player B: Hemogoblin used Extreme Speed on Chromera for 47 damage (supereffective)
 Player A: Chromera fainted
 Player A: Switched out Chromera for Venomicon
 Turn 17:
-Player B: Hemogoblin used Bulk Up on self
+Player B: Hemogoblin used Bulk Up on Hemogoblin
 Player A: Venomicon used Roost and healed for 50
 Turn 18:
-Player B: Hemogoblin used Bulk Up on self
+Player B: Hemogoblin used Bulk Up on Hemogoblin
 Player A: Venomicon used Knock Off on Hemogoblin for 7 damage
 Turn 19:
-Player B: Hemogoblin used Bulk Up on self
+Player B: Hemogoblin used Bulk Up on Hemogoblin
 Player A: Venomicon used Sludge Bomb on Hemogoblin for 20 damage
 Turn 20:
-Player B: Hemogoblin used Bulk Up on self
+Player B: Hemogoblin used Bulk Up on Hemogoblin
 Player A: Venomicon used Sludge Bomb on Hemogoblin for 21 damage
 Turn 21:
 Player B: Hemogoblin used Bitter Blade on Venomicon for 75 damage

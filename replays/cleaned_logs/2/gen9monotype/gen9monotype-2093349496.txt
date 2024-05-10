@@ -1,0 +1,129 @@
+Battle start:
+Player A sent out Breloom
+Player B sent out Dragalge
+Turn 1:
+Player A: Breloom used Spore on Dragalge and they are now asleep
+Player B: Dragalge can't move because it is asleep
+Turn 2:
+Player B: Switched out Dragalge for Hydrapple
+Player A: Breloom used Rock Tomb on Hydrapple for 18 damage
+Turn 3:
+Player A: Switched out Breloom for Okidogi
+Player B: Hydrapple used Dragon Tail on Okidogi for 12 damage
+Player A: Breloom got dragged out for Slither Wing by opponent's move
+Turn 4:
+Player B: Switched out Hydrapple for Garchomp
+Player A: Slither Wing used U-turn on Garchomp for 66 damage
+Player A: Switched out Slither Wing for Keldeo
+Turn 5:
+Player A: Keldeo used Surf on Garchomp and crit for 34 damage
+Player B: Garchomp fainted
+Player B: Switched out Garchomp for Hydrapple
+Turn 6:
+Player A: Switched out Keldeo for Okidogi
+Player B: Hydrapple used Fickle Beam on Okidogi for 55 damage
+Turn 7:
+Player A: Okidogi used Ice Punch on Hydrapple for 39 damage (supereffective)
+Player B: Hydrapple used Earth Power on Okidogi for 33 damage (supereffective)
+Player A: Okidogi fainted
+Player A: Switched out Okidogi for Slither Wing
+Turn 8:
+Player B: Switched out Hydrapple for Dragalge
+Player A: Slither Wing used U-turn on Dragalge for 35 damage
+Player A: Switched out Slither Wing for Keldeo
+Turn 9:
+Player A: Keldeo used Calm Mind on Keldeo
+Player B: Dragalge can't move because it is asleep
+Turn 10:
+Player A: Keldeo used Calm Mind on Keldeo
+Player B: Dragalge used Toxic Spikes on Keldeo
+Turn 11:
+Player A: Keldeo used Substitute on Keldeo
+Player B: Dragalge used Toxic Spikes on Keldeo
+Turn 12:
+Player A: Keldeo used Calm Mind on Keldeo
+Player B: Dragalge used Flip Turn on Keldeo
+Player B: Switched out Dragalge for Dragonite
+Turn 13:
+Player B: Dragonite used Extreme Speed on Keldeo
+Player A: Keldeo used Surf on Dragonite for 31 damage
+Turn 14:
+Player A: Keldeo used Surf on Dragonite for 58 damage
+Player B: Dragonite used Dragon Dance on Dragonite
+Turn 15:
+Player A: Keldeo used Vacuum Wave on Dragonite for 11 damage
+Player B: Dragonite fainted
+Player B: Switched out Dragonite for Dragalge
+Turn 16:
+Player A: Keldeo used Substitute on Keldeo
+Player B: Dragalge used Gunk Shot on Keldeo
+Turn 17:
+Player A: Keldeo used Substitute on Keldeo
+Player B: Dragalge used Gunk Shot on Keldeo
+Turn 18:
+Player A: Keldeo used Substitute on Keldeo
+Player B: Dragalge used Gunk Shot on Keldeo
+Turn 19:
+Player A: Keldeo used Substitute on Keldeo
+Player B: Dragalge used Gunk Shot on Keldeo but it missed
+Turn 20:
+Player A: Keldeo used Surf on Dragalge for 4 damage
+Player B: Dragalge used Gunk Shot on Keldeo
+Turn 21:
+Player A: Keldeo used Surf on Dragalge for 33 damage
+Player B: Dragalge used Gunk Shot on Keldeo for 100 damage
+Player A: Keldeo fainted
+Player A: Switched out Keldeo for Slither Wing
+Turn 22:
+Player B: Dragalge used Protect on Dragalge
+Player A: Slither Wing used Close Combat on Dragalge
+Turn 23:
+Player B: Dragalge used Protect on Dragalge
+Player A: Slither Wing used Close Combat on Dragalge
+Turn 24:
+Player A: Slither Wing used Close Combat on Dragalge for 28 damage
+Player B: Dragalge fainted
+Player B: Switched out Dragalge for Hydreigon
+Turn 25:
+Player A: Switched out Slither Wing for Scrafty
+Player B: Hydreigon used Earth Power on Scrafty for 21 damage
+Turn 26:
+Player B: Switched out Hydreigon for Hydrapple
+Player A: Scrafty used Knock Off on Hydrapple for -13 damage
+Turn 27:
+Player A: Scrafty used Bulk Up on Scrafty
+Player B: Hydrapple used Dragon Tail on Scrafty but it missed
+Turn 28:
+Player A: Scrafty used Drain Punch on Hydrapple for 24 damage
+Player A: Scrafty used Drain Punch and healed for -3
+Player B: Hydrapple used Dragon Tail on Scrafty for 10 damage
+Player A: Scrafty got dragged out for Slither Wing by opponent's move
+Turn 29:
+Player B: Switched out Hydrapple for Kyurem
+Player A: Slither Wing used U-turn on Kyurem for 62 damage
+Player A: Switched out Slither Wing for Cobalion
+Turn 30:
+Player A: Cobalion used Flash Cannon on Kyurem for 38 damage (supereffective)
+Player B: Kyurem fainted
+Player B: Switched out Kyurem for Hydrapple
+Turn 31:
+Player A: Switched out Cobalion for Scrafty
+Player B: Hydrapple used Earth Power on Scrafty for 19 damage
+Turn 32:
+Player A: Scrafty used Rest and healed for 53
+Player B: Hydrapple used Dragon Tail on Scrafty for 13 damage
+Player A: Scrafty got dragged out for Cobalion by opponent's move
+Turn 33:
+Player A: Cobalion used Volt Switch on Hydrapple for -28 damage
+Player A: Switched out Cobalion for Scrafty
+Player B: Hydrapple used Earth Power on Scrafty for 19 damage
+Turn 34:
+Player A: Scrafty can't move because it is asleep
+Player B: Hydrapple used Dragon Tail on Scrafty for 8 damage
+Player A: Scrafty got dragged out for Slither Wing by opponent's move
+Turn 35:
+Player A: Slither Wing used U-turn on Hydrapple for 60 damage (supereffective)
+Player B: Hydrapple fainted
+Player A: Switched out Slither Wing for Cobalion
+Player B: Switched out Hydrapple for Hydreigon
+Turn 36:

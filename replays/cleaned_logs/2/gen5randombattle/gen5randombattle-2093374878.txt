@@ -3,33 +3,35 @@ Player A sent out Meloetta
 Player B sent out Arceus-Water
 Turn 1:
 Player B: Switched out Arceus-Water for Regigigas
-Player A: Meloetta used Relic Song on Regigigas for 168 damage
+Player A: Meloetta used Relic Song on Regigigas for 168 damage and they are now asleep
 Turn 2:
 Player B: Switched out Regigigas for Cresselia
 Player A: Meloetta used Return on Cresselia for 136 damage
 Turn 3:
 Player A: Switched out Meloetta for Furret
+Player B: Cresselia used Substitute on Cresselia
 Turn 4:
 Player A: Furret used Shadow Claw
-Player B: Cresselia used Moonlight and healed for 172
+Player B: Cresselia used Moonlight and healed for 115
 Turn 5:
 Player A: Switched out Furret for Meloetta
 Player B: Switched out Cresselia for Regigigas
 Turn 6:
 Player A: Switched out Meloetta for Manectric
-Player B: Regigigas used Thunder Wave on self
+Player B: Regigigas used Thunder Wave on Manectric
 Turn 7:
 Player A: Manectric used Thunderbolt on Regigigas for -26 damage
+Player B: Regigigas used Substitute on Regigigas
 Turn 8:
-Player A: Manectric used Thunderbolt on self
+Player A: Manectric used Thunderbolt on Regigigas
 Player B: Regigigas used Earthquake on Manectric for 130 damage (supereffective)
 Turn 9:
-Player A: Manectric used Thunderbolt on Regigigas for 16 damage
+Player A: Manectric used Thunderbolt on Regigigas for 91 damage
 Player B: Regigigas fainted
 Player B: Switched out Regigigas for Cresselia
 Turn 10:
 Player A: Manectric used Thunderbolt on Cresselia for 174 damage
-Player B: Cresselia used Calm Mind on self
+Player B: Cresselia used Calm Mind on Cresselia
 Turn 11:
 Player A: Switched out Manectric for Furret
 Player B: Cresselia used Moonlight and healed for 172
@@ -40,32 +42,35 @@ Player B: Cresselia fainted
 Player B: Switched out Cresselia for Arceus-Water
 Turn 13:
 Player A: Furret used Double-Edge on Arceus-Water for 162 damage
-Player B: Arceus-Water used Judgment on Furret for 148 damage
+Player B: Arceus-Water used Judgment on Furret for 273 damage
 Turn 14:
 Player A: Switched out Furret for Ludicolo
 Player B: Switched out Arceus-Water for Cresselia
 Turn 15:
-Player A: Ludicolo used Rain Dance on self
+Player B: Cresselia used Substitute on Cresselia
+Player A: Ludicolo used Rain Dance on Ludicolo
 Turn 16:
-Player B: Cresselia used Calm Mind on self
+Player A: Ludicolo used Hydro Pump on Cresselia
+Player B: Cresselia used Calm Mind on Cresselia
 Turn 17:
 Player A: Switched out Ludicolo for Carracosta
 Player B: Cresselia used Psyshock on Carracosta for 72 damage
 Turn 18:
-Player A: Carracosta used Shell Smash on self
+Player B: Cresselia used Substitute on Cresselia
+Player A: Carracosta used Shell Smash on Carracosta
 Turn 19:
-Player A: Carracosta used Waterfall on self
+Player A: Carracosta used Waterfall on Cresselia
 Player B: Cresselia used Psyshock on Carracosta for 70 damage
 Turn 20:
 Player A: Carracosta used Stone Edge on Cresselia but it missed
 Player B: Cresselia used Psyshock on Carracosta for 66 damage
 Turn 21:
-Player A: Carracosta used Waterfall on Cresselia for 102 damage
+Player A: Carracosta used Waterfall on Cresselia for 174 damage
 Player B: Cresselia used Psyshock on Carracosta for 57 damage
 Player A: Carracosta fainted
 Player A: Switched out Carracosta for Furret
 Turn 22:
-Player A: Furret used Trick on self
+Player A: Furret used Trick on Cresselia
 Player B: Cresselia used Moonlight and healed for 172
 Turn 23:
 Player B: Switched out Cresselia for Arceus-Water
@@ -74,23 +79,24 @@ Player B: Cresselia fainted
 Player B: Switched out Cresselia for Golduck
 Turn 24:
 Player A: Furret used Double-Edge on Golduck for 142 damage
-Player B: Golduck used Scald on Furret for 3 damage
+Player B: Golduck used Scald on Furret for 33 damage
 Player A: Furret fainted
 Player A: Switched out Furret for Ludicolo
 Turn 25:
 Player B: Switched out Golduck for Cresselia
-Player A: Ludicolo used Rain Dance on self
+Player A: Ludicolo used Rain Dance on Ludicolo
 Turn 26:
 Player A: Ludicolo used Hydro Pump on Cresselia for 181 damage
-Player B: Cresselia used Calm Mind on self
+Player B: Cresselia used Calm Mind on Cresselia
 Turn 27:
 Player A: Ludicolo used Giga Drain on Cresselia for 56 damage
-Player B: Cresselia used Calm Mind on self
+Player A: Ludicolo used Giga Drain and healed for -26
+Player B: Cresselia used Calm Mind on Cresselia
 Turn 28:
 Player A: Ludicolo used Hydro Pump on Cresselia for 44 damage
 Player B: Cresselia fainted
 Player B: Switched out Cresselia for Arceus-Water
 Turn 29:
-Player A: Ludicolo used Giga Drain on Arceus-Water for 0 damage (supereffective)
-Player A: Ludicolo used Giga Drain and healed for 36
+Player A: Ludicolo used Giga Drain on Arceus-Water (supereffective)
+Player A: Ludicolo used Giga Drain and healed for 9
 Player B: Arceus-Water fainted

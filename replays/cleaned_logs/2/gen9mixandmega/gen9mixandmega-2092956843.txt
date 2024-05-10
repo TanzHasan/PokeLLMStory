@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Ampharos
 Player B sent out Reuniclus
 Turn 1:
-Player A: Ampharos used Thunder Wave
-Player B: Reuniclus used Calm Mind on self
+Player A: Ampharos used Thunder Wave on Reuniclus and they are now paralyzed
+Player B: Reuniclus used Calm Mind on Reuniclus
 Turn 2:
 Player A: Ampharos used Thunder on Reuniclus for 30 damage
 Player B: Reuniclus used Psychic on Ampharos for 84 damage
 Turn 3:
 Player A: Ampharos used Thunder on Reuniclus for 30 damage
-Player B: Reuniclus used Calm Mind on self
+Player B: Reuniclus used Calm Mind on Reuniclus
 Turn 4:
 Player A: Ampharos used Thunder on Reuniclus for 23 damage
 Player B: Reuniclus can't move because it is paralyzed
@@ -22,10 +22,10 @@ Player B: Reuniclus fainted
 Player B: Switched out Reuniclus for Ursaluna
 Turn 7:
 Player A: Ampharos used Thunder Wave but it had no effect on Ursaluna
-Player B: Ursaluna used Swords Dance on self
+Player B: Ursaluna used Swords Dance on Ursaluna
 Turn 8:
 Player A: Switched out Ampharos for Lucario
-Player B: Ursaluna used Swords Dance on self
+Player B: Ursaluna used Swords Dance on Ursaluna
 Turn 9:
 Player A: Lucario used Close Combat on Ursaluna for 56 damage (supereffective)
 Player B: Ursaluna used Drain Punch on Lucario for 100 damage (supereffective)
@@ -55,8 +55,9 @@ Player B: Switched out Enamorus-Therian for Cresselia
 Player A: Kommo-o used Flamethrower on Cresselia for 31 damage
 Turn 15:
 Player A: Kommo-o used Dragon Tail on Cresselia for 15 damage
+Player B: Cresselia got dragged out for Enamorus-Therian by opponent's move
 Turn 16:
-Player A: Kommo-o used Flash Cannon on Cresselia for 24 damage
-Player B: Cresselia used Draining Kiss on Kommo-o for 14 damage
-Player B: Cresselia used Draining Kiss and healed for 8
+Player A: Kommo-o used Flash Cannon on Enamorus-Therian for 24 damage
+Player B: Enamorus-Therian used Draining Kiss on Kommo-o for 14 damage
+Player B: Enamorus-Therian used Draining Kiss and healed for 8
 Player A: Kommo-o fainted

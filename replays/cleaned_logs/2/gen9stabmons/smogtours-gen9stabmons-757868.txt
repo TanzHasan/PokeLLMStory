@@ -3,7 +3,7 @@ Player A sent out Toxapex
 Player B sent out Kleavor
 Turn 1:
 Player B: Kleavor used Stone Axe on Toxapex for 37 damage
-Player A: Toxapex used Mortal Spin on Kleavor for 4 damage
+Player A: Toxapex used Mortal Spin on Kleavor for 4 damage and they are now poisoned
 Turn 2:
 Player B: Kleavor used Stone Axe on Toxapex for 34 damage
 Player A: Toxapex used Scald on Kleavor for 70 damage (supereffective)
@@ -17,14 +17,14 @@ Player B: Kleavor fainted
 Player B: Switched out Kleavor for Thundurus-Therian
 Turn 5:
 Player A: Switched out Gliscor for Tyranitar
-Player B: Thundurus-Therian used Nasty Plot on self
+Player B: Thundurus-Therian used Nasty Plot on Thundurus-Therian
 Turn 6:
 Player A: Tyranitar used Accelerock on Thundurus-Therian for 100 damage (supereffective)
 Player B: Thundurus-Therian fainted
 Player B: Switched out Thundurus-Therian for Bisharp
 Turn 7:
 Player A: Switched out Tyranitar for Gliscor
-Player B: Bisharp used Swords Dance on self
+Player B: Bisharp used Swords Dance on Bisharp
 Turn 8:
 Player A: Gliscor used Precipice Blades on Bisharp but it missed
 Player B: Bisharp used Wicked Blow on Gliscor and crit for 58 damage
@@ -51,18 +51,18 @@ Player B: Bisharp fainted
 Player B: Switched out Bisharp for Iron Valiant
 Turn 14:
 Player A: Switched out Tyranitar for Gholdengo
-Player B: Iron Valiant used Swords Dance on self
+Player B: Iron Valiant used Swords Dance on Iron Valiant
 Turn 15:
 Player B: Iron Valiant used Magical Torque on Gholdengo for 36 damage
 Player A: Gholdengo used Tachyon Cutter on Iron Valiant for 13 damage (supereffective)
 Player B: Iron Valiant fainted
 Player B: Switched out Iron Valiant for Meloetta
 Turn 16:
-Player B: Meloetta used Calm Mind on self
-Player A: Gholdengo used Nasty Plot on self
+Player B: Meloetta used Calm Mind on Meloetta
+Player A: Gholdengo used Nasty Plot on Gholdengo
 Turn 17:
-Player B: Meloetta used Calm Mind on self
-Player A: Gholdengo used Nasty Plot on self
+Player B: Meloetta used Calm Mind on Meloetta
+Player A: Gholdengo used Nasty Plot on Gholdengo
 Turn 18:
 Player B: Meloetta used Esper Wing on Gholdengo for 34 damage
 Player A: Gholdengo used Tachyon Cutter on Meloetta for 22 damage

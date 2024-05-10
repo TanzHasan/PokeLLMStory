@@ -8,22 +8,22 @@ Player A: Switched out Froakie for Wooper
 Player B: Switched out Litwick for Meowth
 Turn 2:
 Player B: Meowth used Fake Out on Wooper for 24 damage
-Player A: Wooper can't move because flinch
+Player A: Wooper can't move because it is flinch
 Turn 3:
 Player B: Meowth used Aerial Ace on Wooper for 19 damage
-Player A: Wooper used Stealth Rock on self
+Player A: Wooper used Stealth Rock on Meowth
 Turn 4:
 Player B: Meowth used Foul Play on Wooper for 13 damage
 Player A: Wooper used Counter on Meowth for 30 damage
 Turn 5:
 Player B: Meowth used Aerial Ace on Wooper for 24 damage
-Player A: Wooper used Spikes on self
+Player A: Wooper used Spikes on Meowth
 Turn 6:
 Player B: Meowth used Aerial Ace on Wooper for 20 damage
 Player A: Wooper fainted
 Player A: Switched out Wooper for Shroodle
 Turn 7:
-Player A: Shroodle used Parting Shot on self
+Player A: Shroodle used Parting Shot on Meowth
 Player A: Switched out Shroodle for Larvesta
 Player B: Meowth used Trailblaze on Larvesta for 86 damage (supereffective)
 Turn 8:
@@ -31,4 +31,4 @@ Player B: Meowth used Trailblaze on Larvesta for 14 damage (supereffective)
 Player A: Larvesta fainted
 Player A: Switched out Larvesta for Shroodle
 Turn 9:
-Player A: Shroodle used Parting Shot on self
+Player A: Shroodle used Parting Shot on Meowth

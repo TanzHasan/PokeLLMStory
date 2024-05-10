@@ -6,7 +6,7 @@ Player A: Switched out Landorus-Therian for Tapu Fini
 Player B: Celesteela used Meteor Beam on Tapu Fini for 44 damage
 Turn 2:
 Player B: Celesteela used Flash Cannon on Tapu Fini for 34 damage
-Player A: Tapu Fini used Calm Mind on self
+Player A: Tapu Fini used Calm Mind on Tapu Fini
 Turn 3:
 Player B: Celesteela used Flash Cannon on Tapu Fini for 22 damage
 Player A: Tapu Fini fainted

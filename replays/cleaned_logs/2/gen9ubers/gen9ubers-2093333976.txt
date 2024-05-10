@@ -4,19 +4,19 @@ Player B sent out Regieleki
 Turn 1:
 Player B: Regieleki used Explosion on Ninetales-Alola for 95 damage
 Player B: Regieleki fainted
-Player A: Ninetales-Alola used Aurora Veil on self
+Player A: Ninetales-Alola used Aurora Veil on Ninetales-Alola
 Player B: Switched out Regieleki for Magcargo
 Turn 2:
 Player A: Ninetales-Alola used Hypnosis on Magcargo but it missed
 Player B: Magcargo used Overheat on Ninetales-Alola but it missed
 Turn 3:
-Player A: Ninetales-Alola used Hypnosis
+Player A: Ninetales-Alola used Hypnosis on Magcargo and they are now asleep
 Player B: Magcargo can't move because it is asleep
 Turn 4:
 Player A: Switched out Ninetales-Alola for Baxcalibur
 Player B: Magcargo can't move because it is asleep
 Turn 5:
-Player A: Baxcalibur used Swords Dance on self
+Player A: Baxcalibur used Swords Dance on Baxcalibur
 Player B: Magcargo used Clear Smog on Baxcalibur for 6 damage
 Turn 6:
 Player A: Baxcalibur used Scale Shot on Magcargo for 13 damage

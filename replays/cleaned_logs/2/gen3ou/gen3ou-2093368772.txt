@@ -3,22 +3,22 @@ Player A sent out Stantler
 Player B sent out Zapdos
 Turn 1:
 Player B: Zapdos used Thunderbolt on Stantler for 68 damage
-Player A: Stantler used Confuse Ray on self
+Player A: Stantler used Confuse Ray on Zapdos
 Turn 2:
 Player B: Switched out Zapdos for Steelix
 Player A: Switched out Stantler for Jolteon
 Turn 3:
-Player A: Jolteon used Baton Pass on self
+Player A: Jolteon used Baton Pass on Jolteon
 Player A: Switched out Jolteon for Skarmory
 Player B: Steelix used Earthquake but it had no effect on Skarmory
 Turn 4:
 Player B: Switched out Steelix for Zapdos
-Player A: Skarmory used Spikes on self
+Player A: Skarmory used Spikes on Zapdos
 Turn 5:
 Player A: Switched out Skarmory for Jolteon
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Jolteon and they are now paralyzed
 Turn 6:
-Player B: Zapdos used Baton Pass on self
+Player B: Zapdos used Baton Pass on Zapdos
 Player B: Switched out Zapdos for Dugtrio
 Player A: Jolteon can't move because it is paralyzed
 Turn 7:
@@ -27,59 +27,64 @@ Player A: Jolteon fainted
 Player A: Switched out Jolteon for Skarmory
 Turn 8:
 Player B: Switched out Dugtrio for Zapdos
-Player A: Skarmory used Sand Attack on self
+Player A: Skarmory used Sand Attack on Zapdos
 Turn 9:
-Player B: Zapdos used Thunder Wave
-Player A: Skarmory used Sand Attack on self
+Player B: Zapdos used Thunder Wave on Skarmory and they are now paralyzed
+Player A: Skarmory used Sand Attack on Zapdos
 Turn 10:
 Player B: Zapdos used Thunderbolt on Skarmory for 93 damage (supereffective)
-Player A: Skarmory used Spikes on self
+Player A: Skarmory used Spikes on Zapdos
 Turn 11:
 Player B: Zapdos used Thunderbolt on Skarmory for 7 damage (supereffective)
 Player A: Skarmory fainted
 Player A: Switched out Skarmory for Umbreon
 Turn 12:
 Player B: Switched out Zapdos for Steelix
+Player A: Umbreon used Substitute on Umbreon
 Turn 13:
-Player A: Umbreon used Confuse Ray on self
-Player B: Steelix used Roar on self
+Player A: Umbreon used Confuse Ray on Steelix
+Player B: Steelix used Roar on Umbreon
+Player A: Umbreon got dragged out for Aerodactyl by opponent's move
 Turn 14:
-Player A: Switched out Umbreon for Stantler
+Player A: Switched out Aerodactyl for Stantler
 Player B: Steelix used Hidden Power on Stantler for 4 damage
 Turn 15:
 Player A: Stantler used Confuse Ray on Steelix for 3 damage
 Turn 16:
-Player A: Stantler used Reflect on self
+Player A: Stantler used Reflect on Stantler
 Player B: Steelix used Earthquake on Stantler for -1 damage
 Turn 17:
 Player B: Switched out Steelix for Zapdos
-Player A: Stantler used Sand Attack on self
+Player A: Stantler used Sand Attack on Zapdos
 Turn 18:
-Player B: Zapdos used Thunder Wave
-Player A: Stantler used Confuse Ray on self
+Player B: Zapdos used Thunder Wave on Stantler and they are now paralyzed
+Player A: Stantler used Confuse Ray on Zapdos
 Turn 19:
 Player B: Zapdos used Thunderbolt on Stantler for 29 damage
 Player A: Stantler fainted
 Player A: Switched out Stantler for Umbreon
 Turn 20:
 Player B: Switched out Zapdos for Steelix
+Player A: Umbreon used Substitute on Umbreon
 Turn 21:
 Player A: Umbreon used Confuse Ray on Steelix for 12 damage
 Turn 22:
-Player A: Umbreon used Baton Pass on self
+Player A: Umbreon used Baton Pass on Umbreon
 Player A: Switched out Umbreon for Smeargle
 Turn 23:
 Player A: Smeargle used Taunt on Steelix for -1 damage
 Turn 24:
-Player B: Steelix used Earthquake on self
+Player A: Smeargle used Belly Drum on Smeargle
+Player B: Steelix used Earthquake on Smeargle
 Turn 25:
-Player A: Smeargle used Spore
+Player A: Smeargle used Spore on Steelix and they are now asleep
 Player B: Steelix can't move because it is asleep
 Turn 26:
-Player A: Smeargle used Baton Pass on self
+Player A: Smeargle used Baton Pass on Smeargle
 Player A: Switched out Smeargle for Aerodactyl
 Player B: Steelix can't move because it is asleep
 Turn 27:
+Player A: Aerodactyl used Substitute on Aerodactyl
 Player B: Steelix can't move because it is asleep
 Turn 28:
 Player A: Aerodactyl used Earthquake on Steelix for 86 damage (supereffective)

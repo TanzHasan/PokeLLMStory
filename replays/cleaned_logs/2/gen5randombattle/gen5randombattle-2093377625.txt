@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Gastrodon
 Player B sent out Beautifly
 Turn 1:
-Player B: Beautifly used Quiver Dance on self
+Player B: Beautifly used Quiver Dance on Beautifly
 Player A: Gastrodon used Clear Smog on Beautifly for 29 damage
 Turn 2:
 Player B: Beautifly used Psychic on Gastrodon for 81 damage
-Player A: Gastrodon used Scald on Beautifly for 91 damage
+Player A: Gastrodon used Scald on Beautifly for 91 damage and they are now burned
 Turn 3:
 Player B: Beautifly used Psychic on Gastrodon for 67 damage
 Player A: Gastrodon used Clear Smog on Beautifly for 63 damage
@@ -22,16 +22,20 @@ Turn 6:
 Player A: Switched out Gastrodon for Klinklang
 Player B: Mandibuzz used Foul Play on Klinklang for 44 damage
 Turn 7:
+Player A: Klinklang used Substitute on Klinklang
+Player B: Mandibuzz used Brave Bird on Klinklang
 Turn 8:
-Player A: Klinklang used Shift Gear on self
-Player B: Mandibuzz used Foul Play on self
+Player A: Klinklang used Shift Gear on Klinklang
+Player B: Mandibuzz used Foul Play on Klinklang
 Turn 9:
 Player B: Switched out Mandibuzz for Delcatty
 Player A: Klinklang used Wild Charge on Delcatty for 114 damage
 Turn 10:
-Player B: Delcatty used Fake Out on Klinklang for 5 damage
-Player A: Klinklang can't move because flinch
+Player B: Delcatty used Fake Out on Klinklang for 50 damage
+Player A: Klinklang can't move because it is flinch
 Turn 11:
+Player A: Klinklang used Substitute on Klinklang
+Player B: Delcatty used Double-Edge on Klinklang
 Turn 12:
 Player A: Klinklang used Gear Grind on Delcatty for 64 damage
 Player B: Delcatty fainted

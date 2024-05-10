@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Politoed
 Player B sent out Kleavor
 Turn 1:
-Player B: Kleavor used Sticky Web on self
+Player B: Kleavor used Sticky Web on Politoed
 Player A: Politoed used Flip Turn on Kleavor for 56 damage (supereffective)
 Player A: Switched out Politoed for Pelipper
 Turn 2:
@@ -11,14 +11,14 @@ Player A: Pelipper fainted
 Player A: Switched out Pelipper for Regigigas
 Turn 3:
 Player B: Switched out Kleavor for Great Tusk
-Player A: Regigigas used Tidy Up on self
+Player A: Regigigas used Tidy Up on Regigigas
 Turn 4:
 Player B: Great Tusk used Close Combat on Regigigas for 100 damage (supereffective)
 Player A: Regigigas fainted
 Player A: Switched out Regigigas for Kingdra
 Turn 5:
 Player B: Switched out Great Tusk for Ogerpon-Wellspring
-Player A: Kingdra used Dragon Dance on self
+Player A: Kingdra used Dragon Dance on Kingdra
 Turn 6:
 Player A: Kingdra used Dragon Darts on Ogerpon-Wellspring for 38 damage
 Player B: Ogerpon-Wellspring fainted
@@ -42,14 +42,14 @@ Player A: Switched out Kingdra for Politoed
 Player B: Switched out Latios for Kleavor
 Turn 11:
 Player A: Switched out Politoed for Overqwil
-Player B: Kleavor used Sticky Web on self
+Player B: Kleavor used Sticky Web on Overqwil
 Turn 12:
 Player A: Overqwil used Wicked Blow on Kleavor and crit for 44 damage
 Player B: Kleavor fainted
 Player B: Switched out Kleavor for Mimikyu
 Turn 13:
-Player A: Overqwil used Mortal Spin on Mimikyu for 0 damage
-Player B: Mimikyu used Swords Dance on self
+Player A: Overqwil used Mortal Spin on Mimikyu and they are now poisoned
+Player B: Mimikyu used Swords Dance on Mimikyu
 Turn 14:
 Player A: Overqwil used Wicked Blow on Mimikyu and crit for 70 damage
 Player B: Mimikyu used Spirit Break on Overqwil for 72 damage
@@ -62,8 +62,8 @@ Player B: Mimikyu fainted
 Player B: Switched out Mimikyu for Latios
 Turn 16:
 Player A: Switched out Overqwil for Politoed
-Player B: Latios used Calm Mind on self
+Player B: Latios used Calm Mind on Latios
 Turn 17:
 Player B: Latios used Clanging Scales and healed for 25
-Player A: Politoed used Encore on self
+Player A: Politoed used Encore on Latios
 Turn 18:

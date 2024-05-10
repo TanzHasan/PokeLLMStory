@@ -9,10 +9,10 @@ Player A: Diggersby used Quick Attack on Hydreigon for 4 damage
 Player B: Hydreigon fainted
 Player B: Switched out Hydreigon for Pinsir
 Turn 3:
-Player B: Pinsir used Swords Dance on self
+Player B: Pinsir used Swords Dance on Pinsir
 Player A: Diggersby used Return on Pinsir for 97 damage
 Turn 4:
-Player B: Pinsir used Quick Attack on Diggersby for 2 damage
+Player B: Pinsir used Quick Attack on Diggersby for 32 damage
 Player A: Diggersby fainted
 Player A: Switched out Diggersby for Venomoth
 Turn 5:
@@ -25,19 +25,19 @@ Player A: Switched out Venomoth for Magneton
 Player B: Tornadus used U-turn on Magneton for 14 damage
 Player B: Switched out Tornadus for Quagsire
 Turn 7:
-Player A: Magneton used Toxic
+Player A: Magneton used Toxic on Quagsire and they are now badly poisoned
 Player B: Quagsire used Earthquake on Magneton for 86 damage (supereffective)
 Player A: Magneton fainted
 Player A: Switched out Magneton for Altaria
 Turn 8:
-Player A: Altaria used Agility on self
-Player B: Quagsire used Scald on Altaria for 10 damage
+Player A: Altaria used Agility on Altaria
+Player B: Quagsire used Scald on Altaria for 10 damage and they are now burned
 Turn 9:
 Player A: Altaria used Hidden Power on Quagsire for 84 damage (supereffective)
 Player B: Quagsire used Recover and healed for 50
 Turn 10:
 Player B: Switched out Quagsire for Tornadus
-Player A: Altaria used Hidden Power on Tornadus for 9 damage
+Player A: Altaria used Hidden Power on Tornadus for 18 damage
 Turn 11:
 Player A: Altaria used Return on Tornadus for 50 damage
 Player B: Tornadus used Hurricane on Altaria but it missed
@@ -48,20 +48,20 @@ Turn 13:
 Player A: Switched out Altaria for Cobalion
 Player B: Cresselia used Psyshock on Cobalion for 16 damage
 Turn 14:
-Player A: Cobalion used Stealth Rock on self
+Player A: Cobalion used Stealth Rock on Cresselia
 Player B: Cresselia used Psyshock on Cobalion for 17 damage
 Turn 15:
-Player A: Cobalion used Iron Head on Cresselia for 0 damage
+Player A: Cobalion used Iron Head on Cresselia
 Player B: Cresselia used Psyshock on Cobalion for 16 damage
 Turn 16:
 Player A: Cobalion used Iron Head on Cresselia for 10 damage
-Player B: Cresselia can't move because flinch
+Player B: Cresselia can't move because it is flinch
 Turn 17:
 Player A: Cobalion used Iron Head on Cresselia for 9 damage
-Player B: Cresselia can't move because flinch
+Player B: Cresselia can't move because it is flinch
 Turn 18:
 Player A: Cobalion used Iron Head on Cresselia for 9 damage
-Player B: Cresselia can't move because flinch
+Player B: Cresselia can't move because it is flinch
 Turn 19:
 Player A: Cobalion used Iron Head on Cresselia for 9 damage
 Player B: Cresselia used Psyshock on Cobalion for 15 damage
@@ -89,15 +89,15 @@ Player B: Cresselia used Psyshock on Cobalion and crit for 20 damage
 Player A: Cobalion fainted
 Player A: Switched out Cobalion for Venomoth
 Turn 27:
-Player A: Venomoth used Sleep Powder
+Player A: Venomoth used Sleep Powder on Cresselia and they are now asleep
 Player B: Cresselia can't move because it is asleep
 Turn 28:
 Player B: Switched out Cresselia for Gengar
-Player A: Venomoth used Quiver Dance on self
+Player A: Venomoth used Quiver Dance on Venomoth
 Turn 29:
 Player A: Venomoth used Giga Drain on Gengar for 62 damage
 Player A: Venomoth used Giga Drain and healed for 23
-Player B: Gengar used Trick on self
+Player B: Gengar used Trick on Venomoth
 Turn 30:
 Player A: Venomoth used Bug Buzz on Gengar for 38 damage
 Player B: Gengar fainted

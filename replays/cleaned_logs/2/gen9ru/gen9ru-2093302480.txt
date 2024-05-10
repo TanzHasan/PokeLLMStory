@@ -3,14 +3,14 @@ Player A sent out Diancie
 Player B sent out Conkeldurr
 Turn 1:
 Player B: Conkeldurr used Close Combat on Diancie for 42 damage
-Player A: Diancie used Stealth Rock on self
+Player A: Diancie used Stealth Rock on Conkeldurr
 Turn 2:
 Player B: Conkeldurr used Close Combat on Diancie and crit for 58 damage
 Player A: Diancie fainted
 Player A: Switched out Diancie for Exeggutor-Alola
 Turn 3:
 Player B: Switched out Conkeldurr for Cobalion
-Player A: Exeggutor-Alola used Trick Room on self
+Player A: Exeggutor-Alola used Trick Room on Exeggutor-Alola
 Turn 4:
 Player A: Exeggutor-Alola used Flamethrower on Cobalion for 77 damage (supereffective)
 Player B: Cobalion used Thunder Wave on Exeggutor-Alola but it missed
@@ -29,7 +29,7 @@ Player A: Rampardos used Rock Slide on Salamence for 100 damage (supereffective)
 Player B: Salamence fainted
 Player B: Switched out Salamence for Cinccino
 Turn 8:
-Player B: Cinccino used Tidy Up on self
+Player B: Cinccino used Tidy Up on Cinccino
 Player A: Rampardos used Rock Slide on Cinccino but it missed
 Turn 9:
 Player B: Cinccino used Rock Blast on Rampardos for 13 damage
@@ -42,7 +42,7 @@ Player A: Rampardos fainted
 Player A: Switched out Rampardos for Farigiraf
 Turn 11:
 Player B: Conkeldurr used Knock Off on Farigiraf for 61 damage
-Player A: Farigiraf used Trick Room on self
+Player A: Farigiraf used Trick Room on Farigiraf
 Turn 12:
 Player B: Conkeldurr used Mach Punch on Farigiraf for 39 damage
 Player A: Farigiraf fainted

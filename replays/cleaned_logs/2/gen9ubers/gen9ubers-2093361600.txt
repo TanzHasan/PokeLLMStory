@@ -2,12 +2,12 @@ Battle start:
 Player A sent out Grafaiai
 Player B sent out Gouging Fire
 Turn 1:
-Player A: Grafaiai used Parting Shot on self
+Player A: Grafaiai used Parting Shot on Gouging Fire
 Player A: Switched out Grafaiai for Iron Jugulis
-Player B: Gouging Fire used Dragon Dance on self
+Player B: Gouging Fire used Dragon Dance on Gouging Fire
 Turn 2:
 Player A: Iron Jugulis used Earth Power on Gouging Fire for 60 damage (supereffective)
-Player B: Gouging Fire used Dragon Dance on self
+Player B: Gouging Fire used Dragon Dance on Gouging Fire
 Turn 3:
 Player A: Iron Jugulis used Earth Power on Gouging Fire for 40 damage (supereffective)
 Player B: Gouging Fire fainted
@@ -16,16 +16,17 @@ Turn 4:
 Player A: Switched out Iron Jugulis for Serperior
 Player B: Terapagos used Rapid Spin on Serperior for 19 damage
 Turn 5:
-Player B: Terapagos used Calm Mind on self
-Player A: Serperior used Glare
+Player B: Terapagos used Calm Mind on Terapagos
+Player A: Serperior used Glare on Terapagos and they are now paralyzed
 Turn 6:
-Player B: Terapagos used Rapid Spin on self
+Player A: Serperior used Substitute on Serperior
+Player B: Terapagos used Rapid Spin on Serperior
 Turn 7:
-Player A: Serperior used Leech Seed on self
-Player B: Terapagos used Rapid Spin on self
+Player A: Serperior used Leech Seed on Terapagos
+Player B: Terapagos used Rapid Spin on Serperior
 Turn 8:
 Player A: Serperior used Leaf Storm on Terapagos for 13 damage
-Player B: Terapagos used Tera Starstorm on Serperior for 69 damage
+Player B: Terapagos used Tera Starstorm on Serperior for 81 damage
 Player A: Serperior fainted
 Player A: Switched out Serperior for Iron Valiant
 Turn 9:
@@ -34,24 +35,25 @@ Player B: Terapagos fainted
 Player B: Switched out Terapagos for Iron Boulder
 Turn 10:
 Player A: Switched out Iron Valiant for Grafaiai
+Player B: Iron Boulder used Substitute on Iron Boulder
 Turn 11:
-Player A: Grafaiai used Parting Shot on self
+Player A: Grafaiai used Parting Shot on Iron Boulder
 Player A: Switched out Grafaiai for Iron Moth
-Player B: Iron Boulder used Swords Dance on self
+Player B: Iron Boulder used Swords Dance on Iron Boulder
 Turn 12:
 Player B: Iron Boulder used Mighty Cleave on Iron Moth for 100 damage (supereffective)
 Player A: Iron Moth fainted
 Player A: Switched out Iron Moth for Grafaiai
 Turn 13:
-Player B: Iron Boulder used Swords Dance on self
+Player B: Iron Boulder used Swords Dance on Iron Boulder
 Player A: Grafaiai used Knock Off
 Turn 14:
-Player A: Grafaiai used Switcheroo on self
+Player A: Grafaiai used Switcheroo on Iron Boulder
 Player B: Iron Boulder used Psycho Cut on Grafaiai for 100 damage (supereffective)
 Player A: Grafaiai fainted
 Player A: Switched out Grafaiai for Iron Valiant
 Turn 15:
-Player A: Iron Valiant used Knock Off on Iron Boulder for 75 damage (supereffective)
+Player A: Iron Valiant used Knock Off on Iron Boulder for 100 damage (supereffective)
 Player B: Iron Boulder fainted
 Player B: Switched out Iron Boulder for Scizor
 Turn 16:

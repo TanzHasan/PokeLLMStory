@@ -2,31 +2,32 @@ Battle start:
 Player A sent out Slowking
 Player B sent out Mandibuzz
 Turn 1:
-Player B: Mandibuzz used Toxic
-Player A: Slowking used Thunder Wave
+Player B: Mandibuzz used Toxic on Slowking and they are now badly poisoned
+Player A: Slowking used Thunder Wave on Mandibuzz and they are now paralyzed
 Turn 2:
 Player B: Mandibuzz used Knock Off on Slowking for 50 damage (supereffective)
-Player A: Slowking used Chilly Reception on self
+Player A: Slowking used Chilly Reception on Slowking
 Player A: Switched out Slowking for Sandy Shocks
 Turn 3:
 Player B: Switched out Mandibuzz for Hippowdon
-Player A: Sandy Shocks used Stealth Rock on self
+Player A: Sandy Shocks used Stealth Rock on Hippowdon
 Turn 4:
 Player A: Switched out Sandy Shocks for Mandibuzz
-Player B: Hippowdon used Stealth Rock on self
+Player B: Hippowdon used Stealth Rock on Mandibuzz
 Turn 5:
-Player A: Mandibuzz used Toxic
-Player B: Hippowdon used Whirlwind on self
+Player A: Mandibuzz used Toxic on Hippowdon and they are now badly poisoned
+Player B: Hippowdon used Whirlwind on Mandibuzz
+Player A: Mandibuzz got dragged out for Slowking by opponent's move
 Turn 6:
-Player B: Hippowdon used Earthquake on Mandibuzz for 26 damage
-Player A: Mandibuzz used Chilly Reception on self
-Player A: Switched out Mandibuzz for Kommo-o
+Player B: Hippowdon used Earthquake on Slowking for 26 damage
+Player A: Slowking used Chilly Reception on Slowking
+Player A: Switched out Slowking for Kommo-o
 Turn 7:
 Player B: Switched out Hippowdon for Mandibuzz
-Player A: Kommo-o used Dragon Dance on self
+Player A: Kommo-o used Dragon Dance on Kommo-o
 Turn 8:
-Player A: Kommo-o used Dragon Dance on self
-Player B: Mandibuzz used Toxic
+Player A: Kommo-o used Dragon Dance on Kommo-o
+Player B: Mandibuzz used Toxic on Kommo-o and they are now badly poisoned
 Turn 9:
 Player A: Kommo-o used Thunder Punch on Mandibuzz for 79 damage (supereffective)
 Player B: Mandibuzz used Knock Off on Kommo-o for 30 damage
@@ -38,7 +39,7 @@ Turn 11:
 Player B: Switched out Hippowdon for Skeledirge
 Player A: Kommo-o used Drain Punch but it had no effect on Skeledirge
 Turn 12:
-Player A: Kommo-o used Thunder Punch on Skeledirge for 27 damage
+Player A: Kommo-o used Thunder Punch on Skeledirge for 27 damage and they are now paralyzed
 Player B: Skeledirge can't move because it is paralyzed
 Player A: Kommo-o fainted
 Player A: Switched out Kommo-o for Mandibuzz
@@ -70,7 +71,7 @@ Player B: Switched out Latios for Slowking
 Player A: Iron Moth used Dazzling Gleam on Slowking for 16 damage
 Turn 21:
 Player A: Iron Moth used Energy Ball on Slowking for 45 damage (supereffective)
-Player B: Slowking used Thunder Wave
+Player B: Slowking used Thunder Wave on Iron Moth and they are now paralyzed
 Turn 22:
 Player B: Switched out Slowking for Mandibuzz
 Player A: Iron Moth can't move because it is paralyzed
@@ -91,7 +92,7 @@ Player A: Switched out Iron Moth for Mandibuzz
 Player B: Skeledirge used Hex on Mandibuzz for 10 damage
 Turn 28:
 Player B: Switched out Skeledirge for Mandibuzz
-Player A: Mandibuzz used Defog on self
+Player A: Mandibuzz used Defog on Mandibuzz
 Turn 29:
 Player A: Mandibuzz used Foul Play on Mandibuzz for 7 damage
 Player B: Mandibuzz used Roost and healed for 50
@@ -103,7 +104,7 @@ Player B: Mandibuzz used Knock Off on Slowking for 4 damage (supereffective)
 Player A: Slowking used Slack Off and healed for 50
 Turn 32:
 Player B: Switched out Mandibuzz for Latios
-Player A: Slowking used Chilly Reception on self
+Player A: Slowking used Chilly Reception on Slowking
 Player A: Switched out Slowking for Mandibuzz
 Turn 33:
 Player B: Switched out Latios for Mandibuzz
@@ -115,7 +116,7 @@ Player B: Mandibuzz used Knock Off on Slowking for 37 damage (supereffective)
 Player A: Slowking used Scald on Mandibuzz for 25 damage
 Turn 36:
 Player A: Switched out Slowking for Mandibuzz
-Player B: Mandibuzz used Toxic
+Player B: Mandibuzz used Toxic on Mandibuzz and they are now badly poisoned
 Turn 37:
 Player A: Mandibuzz used Foul Play on Mandibuzz for 6 damage
 Player B: Mandibuzz used Knock Off on Mandibuzz for 13 damage

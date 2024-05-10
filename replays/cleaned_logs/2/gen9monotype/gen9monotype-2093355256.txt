@@ -14,34 +14,35 @@ Player B: Switched out Landorus for Clodsire
 Player A: Iron Valiant used Moonblast on Clodsire for 14 damage
 Turn 4:
 Player A: Iron Valiant used Knock Off on Clodsire for 25 damage
-Player B: Clodsire used Toxic
+Player B: Clodsire used Toxic on Iron Valiant and they are now badly poisoned
 Turn 5:
 Player A: Iron Valiant used Close Combat on Clodsire for 22 damage
 Player B: Clodsire used Recover and healed for 50
 Turn 6:
 Player A: Switched out Iron Valiant for Zamazenta
-Player B: Clodsire used Spikes on self
+Player B: Clodsire used Spikes on Zamazenta
 Turn 7:
+Player A: Zamazenta used Substitute on Zamazenta
 Turn 8:
 Player B: Switched out Clodsire for Quagsire
-Player A: Zamazenta used Iron Defense on self
+Player A: Zamazenta used Iron Defense on Zamazenta
 Turn 9:
 Player A: Zamazenta used Body Press on Quagsire for 22 damage
-Player B: Quagsire used Stealth Rock on self
+Player B: Quagsire used Stealth Rock on Zamazenta
 Turn 10:
 Player A: Switched out Zamazenta for Great Tusk
 Player B: Quagsire used Body Press on Great Tusk for 10 damage
 Turn 11:
 Player A: Great Tusk used Rapid Spin on Quagsire for -3 damage
-Player B: Quagsire used Toxic
+Player B: Quagsire used Toxic on Great Tusk and they are now badly poisoned
 Turn 12:
-Player A: Great Tusk used Stealth Rock on self
+Player A: Great Tusk used Stealth Rock on Quagsire
 Player B: Quagsire used Body Press on Great Tusk and crit for 23 damage
 Turn 13:
 Player A: Switched out Great Tusk for Sneasler
 Player B: Quagsire used Body Press on Sneasler for 17 damage
 Turn 14:
-Player A: Sneasler used Dire Claw on Quagsire for -5 damage
+Player A: Sneasler used Dire Claw on Quagsire for -5 damage and they are now asleep
 Player B: Quagsire can't move because it is asleep
 Turn 15:
 Player A: Switched out Sneasler for Iron Valiant
@@ -54,7 +55,7 @@ Player B: Switched out Quagsire for Clodsire
 Player A: Iron Valiant used Knock Off on Clodsire for 24 damage
 Turn 18:
 Player A: Switched out Iron Valiant for Great Tusk
-Player B: Clodsire used Spikes on self
+Player B: Clodsire used Spikes on Great Tusk
 Turn 19:
 Player A: Great Tusk used Rapid Spin on Clodsire for 14 damage
 Player B: Clodsire used Earthquake on Great Tusk for 30 damage
@@ -76,7 +77,7 @@ Player A: Sneasler used Close Combat on Iron Treads and crit for 100 damage (sup
 Player B: Iron Treads fainted
 Player B: Switched out Iron Treads for Landorus
 Turn 24:
-Player A: Sneasler used Close Combat on Landorus for 47 damage
+Player A: Sneasler used Close Combat on Landorus for 47 damage and they are now poisoned
 Player B: Landorus used Earth Power on Sneasler for 83 damage (supereffective)
 Player A: Sneasler fainted
 Player A: Switched out Sneasler for Iron Valiant

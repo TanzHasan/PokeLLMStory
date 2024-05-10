@@ -14,7 +14,7 @@ Player A: Switched out Mabosstiff for Weezing
 Player B: Hitmonchan used Rapid Spin on Weezing for 9 damage
 Turn 4:
 Player B: Switched out Hitmonchan for Porygon2
-Player A: Weezing used Will-O-Wisp
+Player A: Weezing used Will-O-Wisp on Porygon2 and they are now burned
 Turn 5:
 Player A: Switched out Weezing for Hitmonchan
 Player B: Porygon2 used Ice Beam on Hitmonchan and crit for 34 damage
@@ -31,10 +31,10 @@ Player A: Switched out Hitmonchan for Weezing
 Player B: Qwilfish-Hisui used Liquidation on Weezing for 27 damage
 Turn 9:
 Player B: Switched out Qwilfish-Hisui for Mismagius
-Player A: Weezing used Will-O-Wisp
+Player A: Weezing used Will-O-Wisp on Mismagius and they are now burned
 Turn 10:
 Player A: Switched out Weezing for Mabosstiff
-Player B: Mismagius used Calm Mind on self
+Player B: Mismagius used Calm Mind on Mismagius
 Turn 11:
 Player B: Switched out Mismagius for Qwilfish-Hisui
 Player A: Mabosstiff used Crunch on Qwilfish-Hisui and crit for 100 damage

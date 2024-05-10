@@ -2,10 +2,10 @@ Battle start:
 Player A sent out Golem
 Player B sent out Wyrdeer
 Turn 1:
-Player B: Wyrdeer used Agility on self
-Player A: Golem used Stealth Rock on self
+Player B: Wyrdeer used Agility on Wyrdeer
+Player A: Golem used Stealth Rock on Wyrdeer
 Turn 2:
-Player B: Wyrdeer used Calm Mind on self
+Player B: Wyrdeer used Calm Mind on Wyrdeer
 Player A: Golem used Stone Edge on Wyrdeer for 44 damage
 Turn 3:
 Player B: Wyrdeer used Stored Power on Golem for 99 damage
@@ -19,7 +19,7 @@ Player A: Switched out Golem for Rotom-Mow
 Turn 5:
 Player A: Rotom-Mow used Volt Switch on Oricorio for 91 damage (supereffective)
 Player A: Switched out Rotom-Mow for Bronzong
-Player B: Oricorio used Defog on self
+Player B: Oricorio used Defog on Bronzong
 Turn 6:
 Player B: Oricorio used Revelation Dance on Bronzong for 26 damage (supereffective)
 Player A: Bronzong used Iron Head on Oricorio for 9 damage
@@ -30,7 +30,7 @@ Player A: Switched out Bronzong for Shiftry
 Player B: Mismagius used Shadow Ball on Shiftry for 40 damage
 Turn 8:
 Player B: Switched out Mismagius for Hitmonchan
-Player A: Shiftry used Tailwind on self
+Player A: Shiftry used Tailwind on Shiftry
 Turn 9:
 Player A: Switched out Shiftry for Braviary-Hisui
 Player B: Hitmonchan used Close Combat on Braviary-Hisui for 15 damage
@@ -41,7 +41,7 @@ Turn 11:
 Player A: Braviary-Hisui used Psychic on Klawf for 66 damage
 Player B: Klawf used Knock Off on Braviary-Hisui for 49 damage (supereffective)
 Turn 12:
-Player B: Klawf used Stealth Rock on self
+Player B: Klawf used Stealth Rock on Braviary-Hisui
 Player A: Braviary-Hisui used Psychic on Klawf for 34 damage
 Player B: Klawf fainted
 Player B: Switched out Klawf for Hitmonchan
@@ -51,13 +51,13 @@ Player A: Braviary-Hisui fainted
 Player A: Switched out Braviary-Hisui for Bronzong
 Turn 14:
 Player B: Switched out Hitmonchan for Chimecho
-Player A: Bronzong used Iron Defense on self
+Player A: Bronzong used Iron Defense on Bronzong
 Turn 15:
-Player B: Chimecho used Calm Mind on self
+Player B: Chimecho used Calm Mind on Chimecho
 Player A: Bronzong used Iron Head on Chimecho for 23 damage
 Turn 16:
 Player A: Switched out Bronzong for Shiftry
-Player B: Chimecho used Calm Mind on self
+Player B: Chimecho used Calm Mind on Chimecho
 Turn 17:
 Player A: Shiftry used Knock Off on Chimecho for 77 damage (supereffective)
 Player B: Chimecho fainted

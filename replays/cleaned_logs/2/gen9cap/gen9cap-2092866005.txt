@@ -2,19 +2,19 @@ Battle start:
 Player A sent out Gliscor
 Player B sent out Crucibelle
 Turn 1:
-Player A: Gliscor used Protect on self
-Player B: Crucibelle used Trick on self
+Player A: Gliscor used Protect on Gliscor
+Player B: Crucibelle used Trick on Gliscor
 Turn 2:
-Player B: Crucibelle used Trick on self
+Player B: Crucibelle used Trick on Gliscor
 Player A: Gliscor used Earthquake on Crucibelle for 100 damage (supereffective)
 Player B: Crucibelle fainted
 Player B: Switched out Crucibelle for Gliscor
 Turn 3:
 Player A: Switched out Gliscor for Corviknight
-Player B: Gliscor used Swords Dance on self
+Player B: Gliscor used Swords Dance on Gliscor
 Turn 4:
 Player B: Gliscor used Facade on Corviknight for 16 damage
-Player A: Corviknight used Iron Defense on self
+Player A: Corviknight used Iron Defense on Corviknight
 Turn 5:
 Player B: Switched out Gliscor for Cresceidon
 Player A: Corviknight used Brave Bird on Cresceidon for 15 damage
@@ -25,7 +25,7 @@ Turn 7:
 Player B: Cresceidon used Scald on Garganacl for 32 damage (supereffective)
 Player A: Garganacl used Salt Cure on Cresceidon for 12 damage
 Turn 8:
-Player B: Cresceidon used Encore on self
+Player B: Cresceidon used Encore on Garganacl
 Player A: Garganacl used Salt Cure on Cresceidon for 38 damage
 Turn 9:
 Player A: Switched out Garganacl for Amoonguss
@@ -35,10 +35,10 @@ Player B: Switched out Cresceidon for Excadrill
 Player A: Amoonguss used Giga Drain on Excadrill for 29 damage
 Turn 11:
 Player A: Switched out Amoonguss for Corviknight
-Player B: Excadrill used Stealth Rock on self
+Player B: Excadrill used Stealth Rock on Corviknight
 Turn 12:
 Player B: Switched out Excadrill for Cresceidon
-Player A: Corviknight used Defog on self
+Player A: Corviknight used Defog on Cresceidon
 Turn 13:
 Player A: Switched out Corviknight for Garganacl
 Player B: Cresceidon used Recover and healed for 25
@@ -57,13 +57,13 @@ Player A: Switched out Corviknight for Amoonguss
 Player B: Raging Bolt used Thunderbolt on Amoonguss for 13 damage
 Turn 18:
 Player B: Switched out Raging Bolt for Gliscor
-Player A: Amoonguss used Sludge Bomb on Gliscor for 0 damage
+Player A: Amoonguss used Sludge Bomb on Gliscor
 Turn 19:
 Player A: Switched out Amoonguss for Gliscor
-Player B: Gliscor used Swords Dance on self
+Player B: Gliscor used Swords Dance on Gliscor
 Turn 20:
-Player A: Gliscor used Spikes on self
-Player B: Gliscor used Swords Dance on self
+Player A: Gliscor used Spikes on Gliscor
+Player B: Gliscor used Swords Dance on Gliscor
 Turn 21:
 Player A: Switched out Gliscor for Corviknight
 Player B: Switched out Gliscor for Excadrill
@@ -94,7 +94,7 @@ Player B: Gliscor used Facade on Amoonguss for 29 damage
 Player A: Amoonguss used Sludge Bomb on Gliscor for -9 damage
 Turn 30:
 Player A: Switched out Amoonguss for Corviknight
-Player B: Gliscor used Swords Dance on self
+Player B: Gliscor used Swords Dance on Gliscor
 Turn 31:
 Player B: Switched out Gliscor for Cresceidon
 Player A: Corviknight used Brave Bird on Cresceidon for 29 damage

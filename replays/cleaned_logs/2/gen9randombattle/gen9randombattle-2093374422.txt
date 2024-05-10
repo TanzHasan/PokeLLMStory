@@ -3,7 +3,7 @@ Player A sent out Minior
 Player B sent out Charizard
 Turn 1:
 Player B: Switched out Charizard for Vaporeon
-Player A: Minior used Shell Smash on self
+Player A: Minior used Shell Smash on Minior
 Turn 2:
 Player A: Minior used Acrobatics on Vaporeon for 196 damage
 Player B: Vaporeon used Scald on Minior for 182 damage (supereffective)

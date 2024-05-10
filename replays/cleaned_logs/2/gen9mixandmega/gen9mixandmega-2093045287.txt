@@ -20,7 +20,7 @@ Player B: Gligar used U-turn on Elekid for 47 damage
 Player B: Switched out Gligar for Mienfoo
 Turn 5:
 Player A: Elekid used Psychic on Mienfoo for 85 damage (supereffective)
-Player B: Mienfoo used Knock Off on Elekid for 43 damage
+Player B: Mienfoo used Knock Off on Elekid for 53 damage
 Player A: Elekid fainted
 Player A: Switched out Elekid for Vullaby
 Turn 6:
@@ -41,7 +41,7 @@ Player B: Arrokuda used Flip Turn on Vullaby for 31 damage
 Player B: Switched out Arrokuda for Sandshrew-Alola
 Player A: Vullaby used Brave Bird on Sandshrew-Alola for 27 damage
 Turn 10:
-Player B: Sandshrew-Alola used Ice Shard on Vullaby for 40 damage (supereffective)
+Player B: Sandshrew-Alola used Ice Shard on Vullaby for 48 damage (supereffective)
 Player A: Vullaby fainted
 Player A: Switched out Vullaby for Growlithe-Hisui
 Turn 11:

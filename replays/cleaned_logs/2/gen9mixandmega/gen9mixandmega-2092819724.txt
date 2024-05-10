@@ -12,7 +12,7 @@ Player B: Kyurem used Weather Ball on Blissey for 31 damage
 Player A: Blissey used Soft-Boiled and healed for 50
 Turn 4:
 Player B: Switched out Kyurem for Ceruledge
-Player A: Blissey used Calm Mind on self
+Player A: Blissey used Calm Mind on Blissey
 Turn 5:
 Player B: Ceruledge used Bitter Blade on Blissey for 37 damage
 Player A: Blissey used Alluring Voice on Ceruledge for 53 damage
@@ -21,7 +21,7 @@ Player B: Ceruledge used Bitter Blade on Blissey for 37 damage
 Player B: Ceruledge used Bitter Blade and healed for 40
 Player A: Blissey used Soft-Boiled and healed for 50
 Turn 7:
-Player B: Ceruledge used Bulk Up on self
+Player B: Ceruledge used Bulk Up on Ceruledge
 Player A: Blissey used Soft-Boiled and healed for 43
 Turn 8:
 Player A: Switched out Blissey for Clodsire
@@ -30,10 +30,10 @@ Player B: Ceruledge used Bitter Blade and healed for 5
 Player A: Blissey fainted
 Player A: Switched out Blissey for Palossand
 Turn 9:
-Player A: Palossand used Destiny Bond on self
-Player B: Ceruledge used Taunt on self
+Player A: Palossand used Destiny Bond on Palossand
+Player B: Ceruledge used Taunt on Palossand
 Turn 10:
-Player B: Ceruledge used Bulk Up on self
+Player B: Ceruledge used Bulk Up on Ceruledge
 Player A: Palossand used Poltergeist on Ceruledge for 11 damage
 Turn 11:
 Player A: Switched out Palossand for Latios

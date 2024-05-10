@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Lycanroc
 Player B sent out Kyurem
 Turn 1:
-Player A: Lycanroc used Stealth Rock on self
+Player A: Lycanroc used Stealth Rock on Kyurem
 Player B: Kyurem used Earth Power on Lycanroc and crit for 99 damage (supereffective)
 Turn 2:
 Player B: Switched out Kyurem for Skarmory
@@ -19,9 +19,9 @@ Player A: Switched out Meowscarada for Milotic
 Player B: Incineroar used Knock Off on Milotic for 44 damage
 Turn 5:
 Player A: Milotic used Recover and healed for 44
-Player B: Incineroar used Parting Shot on self
+Player B: Incineroar used Parting Shot on Milotic
 Player B: Switched out Incineroar for Kyurem
 Turn 6:
 Player B: Kyurem used Freeze-Dry on Milotic for 24 damage
-Player A: Milotic used Scald on Kyurem for 57 damage
+Player A: Milotic used Scald on Kyurem for 57 damage and they are now burned
 Turn 7:

@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Jumpluff
 Player B sent out Quagsire
 Turn 1:
-Player A: Jumpluff used Sleep Powder
+Player A: Jumpluff used Sleep Powder on Quagsire and they are now asleep
 Player B: Quagsire can't move because it is asleep
 Turn 2:
 Player B: Switched out Quagsire for Sandslash
@@ -10,7 +10,7 @@ Player A: Jumpluff used Acrobatics on Sandslash for 70 damage
 Turn 3:
 Player B: Sandslash used Stone Edge on Jumpluff for 168 damage (supereffective)
 Turn 4:
-Player A: Jumpluff used Sleep Powder on self
+Player A: Jumpluff used Sleep Powder on Sandslash
 Player B: Sandslash used Stone Edge on Jumpluff for 107 damage (supereffective)
 Player A: Jumpluff fainted
 Player A: Switched out Jumpluff for Suicune
@@ -18,26 +18,26 @@ Turn 5:
 Player B: Switched out Sandslash for Quagsire
 Player A: Suicune used Scald on Quagsire and crit for 129 damage
 Turn 6:
-Player A: Suicune used Calm Mind on self
+Player A: Suicune used Calm Mind on Suicune
 Player B: Quagsire can't move because it is asleep
 Turn 7:
-Player A: Suicune used Calm Mind on self
+Player A: Suicune used Calm Mind on Suicune
 Player B: Quagsire can't move because it is asleep
 Turn 8:
 Player A: Suicune used Ice Beam on Quagsire for 13 damage
-Player B: Quagsire used Toxic
+Player B: Quagsire used Toxic on Suicune and they are now badly poisoned
 Turn 9:
 Player A: Suicune used Scald on Quagsire for 69 damage
 Player B: Quagsire used Recover and healed for 155
 Turn 10:
-Player A: Suicune used Calm Mind on self
+Player A: Suicune used Calm Mind on Suicune
 Player B: Quagsire used Earthquake on Suicune for 145 damage
 Turn 11:
 Player A: Suicune used Rest and healed for 145
 Player B: Quagsire used Earthquake on Suicune and crit for 144 damage
 Turn 12:
 Player A: Suicune used Ice Beam on Quagsire for 16 damage
-Player B: Quagsire used Toxic
+Player B: Quagsire used Toxic on Suicune and they are now badly poisoned
 Turn 13:
 Player A: Suicune used Scald on Quagsire for 71 damage
 Player B: Quagsire used Scald on Suicune for 45 damage
@@ -48,7 +48,7 @@ Player A: Suicune fainted
 Player A: Switched out Suicune for Absol
 Turn 15:
 Player B: Switched out Quagsire for Virizion
-Player A: Absol used Swords Dance on self
+Player A: Absol used Swords Dance on Absol
 Turn 16:
 Player A: Absol used Play Rough on Virizion for 283 damage (supereffective)
 Player B: Virizion fainted
@@ -71,34 +71,34 @@ Player A: Floatzel used Waterfall on Quagsire and crit for 99 damage
 Player B: Sandslash fainted
 Player B: Switched out Sandslash for Wobbuffet
 Turn 21:
-Player A: Floatzel used Taunt on self
+Player A: Floatzel used Taunt on Wobbuffet
 Turn 22:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 23:
 Player B: Switched out Wobbuffet for Darkrai
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 24:
 Player A: Floatzel used Waterfall on Darkrai for 229 damage
 Player B: Darkrai fainted
 Player B: Switched out Darkrai for Wobbuffet
 Turn 25:
-Player A: Floatzel used Taunt on self
+Player A: Floatzel used Taunt on Wobbuffet
 Turn 26:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 27:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 28:
-Player A: Floatzel used Taunt on self
-Player B: Wobbuffet can't move because move: Taunt
+Player A: Floatzel used Taunt on Wobbuffet
+Player B: Wobbuffet can't move because it is move: Taunt
 Turn 29:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 30:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 31:
-Player A: Floatzel used Taunt on self
-Player B: Wobbuffet can't move because move: Taunt
+Player A: Floatzel used Taunt on Wobbuffet
+Player B: Wobbuffet can't move because it is move: Taunt
 Turn 32:
-Player A: Floatzel used Bulk Up on self
+Player A: Floatzel used Bulk Up on Floatzel
 Turn 33:
 Player A: Floatzel used Waterfall on Wobbuffet for 462 damage
 Player B: Wobbuffet fainted

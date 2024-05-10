@@ -13,7 +13,7 @@ Player B: Zapdos used U-turn on Iron Hands for 4 damage
 Player B: Switched out Zapdos for Rotom-Wash
 Player A: Iron Hands used Supercell Slam on Rotom-Wash for 82 damage
 Turn 4:
-Player B: Rotom-Wash used Will-O-Wisp
+Player B: Rotom-Wash used Will-O-Wisp on Iron Hands and they are now burned
 Player A: Iron Hands used Drain Punch on Rotom-Wash for 18 damage
 Player A: Iron Hands used Drain Punch and healed for 5
 Player B: Rotom-Wash fainted

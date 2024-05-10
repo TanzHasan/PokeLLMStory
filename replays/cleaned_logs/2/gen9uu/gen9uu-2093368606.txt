@@ -3,18 +3,18 @@ Player A sent out Ribombee
 Player B sent out Lokix
 Turn 1:
 Player B: Lokix used First Impression on Ribombee for 99 damage
-Player A: Ribombee used Sticky Web on self
+Player A: Ribombee used Sticky Web on Lokix
 Turn 2:
 Player B: Switched out Lokix for Excadrill
 Player A: Ribombee used Moonblast on Excadrill for 22 damage
 Turn 3:
-Player A: Ribombee used Stun Spore
+Player A: Ribombee used Stun Spore on Excadrill and they are now paralyzed
 Player B: Excadrill used Rapid Spin on Ribombee for 1 damage
 Player A: Ribombee fainted
 Player A: Switched out Ribombee for Hawlucha
 Turn 4:
 Player B: Switched out Excadrill for Toxapex
-Player A: Hawlucha used Swords Dance on self
+Player A: Hawlucha used Swords Dance on Hawlucha
 Turn 5:
 Player A: Switched out Hawlucha for Scizor
 Player B: Toxapex used Toxic but it had no effect on Scizor
@@ -45,14 +45,14 @@ Player B: Toxapex used Liquidation on Iron Moth for 33 damage (supereffective)
 Player A: Iron Moth fainted
 Player A: Switched out Iron Moth for Weezing-Galar
 Turn 13:
-Player A: Weezing-Galar used Will-O-Wisp
+Player A: Weezing-Galar used Will-O-Wisp on Toxapex and they are now burned
 Player B: Toxapex used Recover and healed for 43
 Turn 14:
 Player A: Weezing-Galar used Strange Steam on Toxapex for 17 damage
 Player B: Toxapex used Liquidation on Weezing-Galar for 8 damage
 Turn 15:
 Player B: Switched out Toxapex for Lokix
-Player A: Weezing-Galar used Sludge Bomb on Lokix for 49 damage
+Player A: Weezing-Galar used Sludge Bomb on Lokix for 49 damage and they are now poisoned
 Turn 16:
 Player B: Lokix used Knock Off on Weezing-Galar for 52 damage
 Player A: Weezing-Galar used Strange Steam on Lokix for 51 damage (supereffective)
@@ -72,7 +72,7 @@ Player B: Skeledirge used Torch Song on Weezing-Galar for 4 damage
 Player A: Weezing-Galar fainted
 Player A: Switched out Weezing-Galar for Donphan
 Turn 21:
-Player B: Skeledirge used Will-O-Wisp
+Player B: Skeledirge used Will-O-Wisp on Donphan and they are now burned
 Player A: Donphan used Earthquake on Skeledirge for 46 damage (supereffective)
 Turn 22:
 Player B: Skeledirge used Slack Off and healed for 50
@@ -105,15 +105,16 @@ Turn 30:
 Player A: Hawlucha used Acrobatics on Sinistcha for 88 damage (supereffective)
 Player B: Sinistcha used Strength Sap and healed for 88
 Turn 31:
-Player A: Hawlucha used Swords Dance on self
-Player B: Sinistcha used Strength Sap on self
+Player A: Hawlucha used Swords Dance on Hawlucha
+Player B: Sinistcha used Strength Sap on Hawlucha
 Turn 32:
 Player A: Hawlucha used Acrobatics on Sinistcha for 98 damage (supereffective)
+Player B: Sinistcha used Curse on Hawlucha
 Player B: Sinistcha fainted
 Player B: Switched out Sinistcha for Toxapex
 Turn 33:
-Player A: Hawlucha used Swords Dance on self
+Player A: Hawlucha used Swords Dance on Hawlucha
 Turn 34:
-Player A: Hawlucha used Swords Dance on self
-Player B: Toxapex used Haze on self
+Player A: Hawlucha used Swords Dance on Hawlucha
+Player B: Toxapex used Haze on Toxapex
 Turn 35:

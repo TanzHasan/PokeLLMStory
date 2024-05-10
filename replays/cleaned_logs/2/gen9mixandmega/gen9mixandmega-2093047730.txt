@@ -14,7 +14,7 @@ Turn 3:
 Player B: Switched out Quaxly for Pawniard
 Player A: Qwilfish-Hisui used Gunk Shot but it had no effect on Pawniard
 Turn 4:
-Player A: Qwilfish-Hisui used Spikes on self
+Player A: Qwilfish-Hisui used Spikes on Pawniard
 Player B: Pawniard used Iron Head on Qwilfish-Hisui for 43 damage
 Turn 5:
 Player A: Switched out Qwilfish-Hisui for Voltorb-Hisui

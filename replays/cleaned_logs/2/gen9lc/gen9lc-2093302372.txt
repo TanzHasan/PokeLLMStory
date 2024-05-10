@@ -5,17 +5,17 @@ Turn 1:
 Player A: Shroodle used Knock Off on Quaxly for 27 damage
 Player B: Quaxly used Rapid Spin on Shroodle for 28 damage
 Turn 2:
-Player A: Shroodle used Rain Dance on self
+Player A: Shroodle used Rain Dance on Shroodle
 Player B: Quaxly used Rapid Spin on Shroodle for 29 damage
 Turn 3:
 Player A: Switched out Shroodle for Tinkatink
 Player B: Quaxly used Rapid Spin on Tinkatink for 4 damage
 Turn 4:
 Player B: Quaxly used Liquidation on Tinkatink for 46 damage
-Player A: Tinkatink used Thunder Wave
+Player A: Tinkatink used Thunder Wave on Quaxly and they are now paralyzed
 Turn 5:
 Player B: Quaxly can't move because it is paralyzed
-Player A: Tinkatink used Stealth Rock on self
+Player A: Tinkatink used Stealth Rock on Quaxly
 Turn 6:
 Player B: Quaxly used Rapid Spin on Tinkatink for 4 damage
 Player A: Tinkatink used Knock Off on Quaxly for 27 damage
@@ -24,25 +24,25 @@ Player A: Switched out Tinkatink for Wingull
 Player B: Quaxly can't move because it is paralyzed
 Turn 8:
 Player B: Quaxly used Brave Bird on Wingull for 47 damage
-Player A: Wingull used Hurricane on Quaxly for 32 damage
+Player A: Wingull used Hurricane on Quaxly for 46 damage
 Player B: Quaxly fainted
 Player B: Switched out Quaxly for Mienfoo
 Turn 9:
 Player A: Switched out Wingull for Shroodle
 Player B: Mienfoo used Fake Out on Shroodle for 23 damage
 Turn 10:
-Player A: Shroodle used Copycat on self
+Player A: Shroodle used Copycat on Shroodle
 Player A: Shroodle used Fake Out on Mienfoo for 17 damage
-Player B: Mienfoo can't move because flinch
+Player B: Mienfoo can't move because it is flinch
 Turn 11:
-Player A: Shroodle used Rain Dance on self
+Player A: Shroodle used Rain Dance on Shroodle
 Player B: Mienfoo used U-turn on Shroodle for 20 damage
 Player A: Shroodle fainted
 Player B: Switched out Mienfoo for Stunky
 Player A: Switched out Shroodle for Tinkatink
 Turn 12:
 Player B: Switched out Stunky for Voltorb-Hisui
-Player A: Tinkatink used Stealth Rock on self
+Player A: Tinkatink used Stealth Rock on Voltorb-Hisui
 Turn 13:
 Player B: Voltorb-Hisui used Volt Switch on Tinkatink for 27 damage
 Player B: Switched out Voltorb-Hisui for Vullaby
@@ -66,14 +66,14 @@ Player A: Switched out Wattrel for Psyduck
 Turn 18:
 Player A: Switched out Psyduck for Riolu
 Turn 19:
-Player A: Riolu used Rain Dance on self
+Player A: Riolu used Rain Dance on Riolu
 Player B: Stunky used Gunk Shot on Riolu but it missed
 Turn 20:
 Player B: Switched out Stunky for Mienfoo
 Player A: Riolu used Close Combat on Mienfoo for 39 damage
 Turn 21:
 Player B: Mienfoo used Fake Out on Riolu for 28 damage
-Player A: Riolu can't move because flinch
+Player A: Riolu can't move because it is flinch
 Turn 22:
 Player B: Switched out Mienfoo for Gastly
 Player A: Riolu used Zen Headbutt on Gastly for 100 damage (supereffective)
@@ -81,14 +81,14 @@ Player B: Mienfoo fainted
 Player B: Switched out Mienfoo for Mienfoo
 Turn 23:
 Player B: Mienfoo used Fake Out on Riolu for 33 damage
-Player A: Riolu can't move because flinch
+Player A: Riolu can't move because it is flinch
 Turn 24:
-Player A: Riolu used Copycat on self
+Player A: Riolu used Copycat on Riolu
 Player B: Mienfoo used High Jump Kick on Riolu for 39 damage
 Player A: Riolu fainted
 Player A: Switched out Riolu for Psyduck
 Turn 25:
-Player A: Psyduck used Nasty Plot on self
+Player A: Psyduck used Nasty Plot on Psyduck
 Player B: Mienfoo used Knock Off on Psyduck for 28 damage
 Turn 26:
 Player A: Psyduck used Surf on Mienfoo for 44 damage

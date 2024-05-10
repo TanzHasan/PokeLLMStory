@@ -16,7 +16,7 @@ Player A: Switched out Palafin for Raichu
 Turn 3:
 Player A: Raichu used Fake Out on Noivern for 34 damage
 Player A: Switched out Raichu for Palafin-Hero
-Player B: Noivern can't move because flinch
+Player B: Noivern can't move because it is flinch
 Turn 4:
 Player A: Palafin used Jet Punch on Noivern for 52 damage
 Player A: Switched out Palafin for Raichu
@@ -28,7 +28,7 @@ Turn 5:
 Player B: Snorlax used Fake Out on Palafin for 30 damage
 Player B: Switched out Snorlax for Gholdengo
 Player B: Snorlax fainted
-Player A: Palafin can't move because flinch
+Player A: Palafin can't move because it is flinch
 Player B: Switched out Snorlax for Snorlax
 Turn 6:
 Player A: Palafin used Surging Strikes on Snorlax and crit for 30 damage

@@ -6,22 +6,22 @@ Player B: Switched out Dugtrio-Alola for Jirachi
 Player A: Landorus used Focus Blast on Jirachi for 130 damage
 Turn 2:
 Player B: Jirachi used Iron Head on Landorus for 91 damage
-Player A: Landorus can't move because flinch
+Player A: Landorus can't move because it is flinch
 Turn 3:
 Player B: Jirachi used Iron Head on Landorus for 82 damage
-Player A: Landorus can't move because flinch
+Player A: Landorus can't move because it is flinch
 Turn 4:
 Player B: Jirachi used Iron Head on Landorus for 84 damage
 Player A: Landorus fainted
 Player A: Switched out Landorus for Chesnaught
 Turn 5:
-Player B: Jirachi used Wish on self
+Player B: Jirachi used Wish on Jirachi
 Player A: Chesnaught used Trailblaze on Jirachi for -42 damage
 Turn 6:
 Player B: Switched out Jirachi for Dragalge
-Player A: Chesnaught used Iron Defense on self
+Player A: Chesnaught used Iron Defense on Chesnaught
 Turn 7:
-Player A: Chesnaught used Iron Defense on self
+Player A: Chesnaught used Iron Defense on Chesnaught
 Player B: Dragalge used Sludge Wave but it had no effect on Chesnaught
 Turn 8:
 Player A: Chesnaught used Trailblaze on Dragalge for 13 damage

@@ -5,7 +5,7 @@ Turn 1:
 Player B: Switched out Okidogi for Entei
 Player A: Sableye used Will-O-Wisp but it had no effect on Entei
 Turn 2:
-Player A: Sableye used Thunder Wave
+Player A: Sableye used Thunder Wave on Entei and they are now paralyzed
 Player B: Entei used Sacred Fire on Sableye for 100 damage
 Player A: Sableye fainted
 Player A: Switched out Sableye for Swampert
@@ -25,8 +25,8 @@ Player A: Jolteon used Volt Switch on Entei for 38 damage
 Player A: Switched out Jolteon for Swampert
 Player B: Entei can't move because it is paralyzed
 Turn 7:
-Player B: Entei used Sacred Fire on Swampert for 31 damage
-Player A: Swampert used Stealth Rock on self
+Player B: Entei used Sacred Fire on Swampert for 31 damage and they are now burned
+Player A: Swampert used Stealth Rock on Entei
 Turn 8:
 Player B: Entei can't move because it is paralyzed
 Player A: Swampert used Earthquake on Entei for 40 damage (supereffective)
@@ -36,22 +36,23 @@ Player A: Swampert used Earthquake on Entei and crit for 22 damage (supereffecti
 Player B: Entei fainted
 Player B: Switched out Entei for Okidogi
 Turn 10:
-Player B: Okidogi used Bulk Up on self
+Player B: Okidogi used Bulk Up on Okidogi
 Player A: Swampert used Earthquake on Okidogi for 25 damage (supereffective)
 Turn 11:
-Player B: Okidogi used Bulk Up on self
-Player A: Swampert used Roar on self
+Player B: Okidogi used Bulk Up on Okidogi
+Player A: Swampert used Roar on Okidogi
+Player B: Okidogi got dragged out for Torterra by opponent's move
 Turn 12:
-Player B: Okidogi used Bullet Seed on Swampert for 33 damage (supereffective)
+Player B: Torterra used Bullet Seed on Swampert for 33 damage (supereffective)
 Player A: Swampert fainted
 Player A: Switched out Swampert for Honchkrow
 Turn 13:
-Player B: Switched out Okidogi for Thundurus-Therian
+Player B: Switched out Torterra for Thundurus-Therian
 Player A: Honchkrow used Brave Bird on Thundurus-Therian and crit for 40 damage
-Player B: Okidogi fainted
-Player B: Switched out Okidogi for Azelf
+Player B: Torterra fainted
+Player B: Switched out Torterra for Azelf
 Turn 14:
-Player B: Azelf used Trick on self
+Player B: Azelf used Trick on Honchkrow
 Turn 15:
 Player B: Azelf used Dazzling Gleam on Honchkrow for 79 damage (supereffective)
 Player A: Honchkrow used Brave Bird on Azelf for 100 damage
@@ -70,10 +71,10 @@ Player B: Okidogi used Knock Off on Jolteon for 46 damage
 Turn 18:
 Player A: Jolteon used Volt Switch on Okidogi for 21 damage
 Player A: Switched out Jolteon for Hitmontop
-Player B: Okidogi used Poison Jab on Hitmontop for 15 damage
+Player B: Okidogi used Poison Jab on Hitmontop for 15 damage and they are now badly poisoned
 Turn 19:
 Player B: Switched out Okidogi for Torterra
-Player A: Hitmontop used Close Combat on Torterra for 51 damage
+Player A: Hitmontop used Close Combat on Torterra for 57 damage
 Turn 20:
 Player B: Torterra used Bullet Seed on Hitmontop for 18 damage
 Player A: Hitmontop fainted

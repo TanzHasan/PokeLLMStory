@@ -2,20 +2,20 @@ Battle start:
 Player A sent out Snorlax
 Player B sent out Exeggutor
 Turn 1:
-Player B: Exeggutor used Sleep Powder
+Player B: Exeggutor used Sleep Powder on Snorlax and they are now asleep
 Player A: Snorlax can't move because it is asleep
 Turn 2:
 Player B: Switched out Exeggutor for Cloyster
 Player A: Switched out Snorlax for Tyranitar
 Turn 3:
-Player B: Cloyster used Spikes on self
+Player B: Cloyster used Spikes on Tyranitar
 Player A: Tyranitar used Rock Slide on Cloyster for 46 damage (supereffective)
 Turn 4:
 Player B: Switched out Cloyster for Steelix
 Player A: Switched out Tyranitar for Cloyster
 Turn 5:
 Player B: Switched out Steelix for Gengar
-Player A: Cloyster used Spikes on self
+Player A: Cloyster used Spikes on Gengar
 Turn 6:
 Player A: Switched out Cloyster for Nidoking
 Player B: Gengar used Dynamic Punch on Nidoking but it missed
@@ -27,7 +27,7 @@ Player B: Zapdos used Hidden Power on Nidoking for 44 damage (supereffective)
 Player A: Nidoking used Ice Beam on Zapdos for 35 damage (supereffective)
 Turn 9:
 Player B: Zapdos used Hidden Power on Nidoking for 37 damage (supereffective)
-Player A: Nidoking used Lovely Kiss
+Player A: Nidoking used Lovely Kiss on Zapdos and they are now asleep
 Turn 10:
 Player B: Switched out Zapdos for Snorlax
 Player A: Switched out Nidoking for Gengar
@@ -36,7 +36,7 @@ Player A: Gengar used Dynamic Punch on Snorlax and crit for 69 damage (supereffe
 Player B: Snorlax used Earthquake on Gengar for 87 damage (supereffective)
 Turn 12:
 Player B: Switched out Snorlax for Exeggutor
-Player A: Gengar used Thunder on Exeggutor for 30 damage
+Player A: Gengar used Thunder on Exeggutor for 30 damage and they are now paralyzed
 Turn 13:
 Player A: Switched out Gengar for Snorlax
 Player B: Exeggutor can't move because it is paralyzed
@@ -55,15 +55,16 @@ Player A: Switched out Tyranitar for Zapdos
 Player B: Steelix used Earthquake but it had no effect on Zapdos
 Turn 18:
 Player A: Zapdos used Hidden Power on Steelix for 39 damage (supereffective)
-Player B: Steelix used Curse on self
+Player B: Steelix used Curse on Steelix
 Turn 19:
 Player B: Steelix used Earthquake but it had no effect on Zapdos
-Player A: Zapdos used Whirlwind on self
+Player A: Zapdos used Whirlwind on Steelix
+Player B: Steelix got dragged out for Gengar by opponent's move
 Turn 20:
-Player B: Steelix used Ice Punch on Zapdos for 38 damage (supereffective)
-Player A: Zapdos used Thunder on Steelix for 68 damage
+Player B: Gengar used Ice Punch on Zapdos for 38 damage (supereffective)
+Player A: Zapdos used Thunder on Gengar for 68 damage and they are now paralyzed
 Turn 21:
-Player B: Switched out Steelix for Exeggutor
+Player B: Switched out Gengar for Exeggutor
 Player A: Zapdos used Thunderbolt on Exeggutor for 32 damage
 Turn 22:
 Player A: Switched out Zapdos for Cloyster

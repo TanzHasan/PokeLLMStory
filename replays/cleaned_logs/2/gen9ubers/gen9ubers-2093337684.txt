@@ -17,13 +17,13 @@ Player A: Incineroar used Knock Off on Infernape for 30 damage
 Turn 5:
 Player B: Infernape used Drain Punch on Incineroar for 40 damage (supereffective)
 Player B: Infernape used Drain Punch and healed for 30
-Player A: Incineroar used Parting Shot on self
+Player A: Incineroar used Parting Shot on Infernape
 Player A: Switched out Incineroar for Munkidori
 Turn 6:
 Player B: Switched out Infernape for Torterra
-Player A: Munkidori used Psychic on Torterra for 44 damage
+Player A: Munkidori used Psychic on Torterra for 44 damage and they are now badly poisoned
 Turn 7:
-Player A: Munkidori used Parting Shot on self
+Player A: Munkidori used Parting Shot on Torterra
 Player A: Switched out Munkidori for Arboliva
 Player B: Torterra used Facade on Arboliva for 44 damage
 Turn 8:
@@ -52,7 +52,7 @@ Player A: Switched out Cinderace for Munkidori
 Player B: Blastoise used Liquidation on Munkidori for 62 damage
 Turn 14:
 Player A: Munkidori used Fake Out on Blastoise for 2 damage
-Player B: Blastoise can't move because flinch
+Player B: Blastoise can't move because it is flinch
 Turn 15:
 Player A: Munkidori used Sludge Wave on Blastoise for 38 damage
 Player B: Blastoise used Liquidation on Munkidori for 38 damage
@@ -63,12 +63,12 @@ Player B: Switched out Blastoise for Cresselia
 Player A: Lucario used Meteor Mash on Cresselia but it missed
 Turn 17:
 Player A: Switched out Lucario for Incineroar
-Player B: Cresselia used Future Sight on self
+Player B: Cresselia used Future Sight on Incineroar
 Turn 18:
-Player B: Cresselia used Reflect on self
+Player B: Cresselia used Reflect on Cresselia
 Player A: Incineroar used Knock Off on Cresselia for 37 damage (supereffective)
 Turn 19:
-Player B: Cresselia used Body Slam on Incineroar for -4 damage
+Player B: Cresselia used Body Slam on Incineroar for -4 damage and they are now paralyzed
 Player A: Incineroar used Knock Off on Cresselia for 23 damage (supereffective)
 Turn 20:
 Player B: Cresselia used Dazzling Gleam on Incineroar for 9 damage
@@ -80,14 +80,14 @@ Player B: Fezandipiti used Air Slash on Incineroar for 7 damage
 Player A: Incineroar can't move because it is paralyzed
 Turn 22:
 Player B: Fezandipiti used Alluring Voice on Incineroar for 16 damage
-Player A: Incineroar used Will-O-Wisp
+Player A: Incineroar used Will-O-Wisp on Fezandipiti and they are now burned
 Turn 23:
 Player B: Fezandipiti used Alluring Voice on Incineroar for 7 damage
 Player A: Incineroar fainted
 Player A: Switched out Incineroar for Cinderace
 Turn 24:
 Player A: Cinderace used Pyro Ball on Fezandipiti for 63 damage
-Player B: Fezandipiti used Light Screen on self
+Player B: Fezandipiti used Light Screen on Fezandipiti
 Turn 25:
 Player B: Switched out Fezandipiti for Blastoise
 Player A: Cinderace used Pyro Ball on Blastoise for 15 damage
@@ -100,7 +100,7 @@ Player A: Cinderace used Pyro Ball on Avalugg for 12 damage (supereffective)
 Player B: Avalugg fainted
 Player B: Switched out Avalugg for Torterra
 Turn 28:
-Player A: Cinderace used U-turn on Torterra for 21 damage
+Player A: Cinderace used U-turn on Torterra for 37 damage
 Player A: Switched out Cinderace for Lucario
 Player B: Torterra used Earthquake on Lucario for 100 damage (supereffective)
 Player A: Cinderace fainted

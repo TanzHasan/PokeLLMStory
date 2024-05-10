@@ -3,9 +3,9 @@ Player A sent out Kyurem
 Player B sent out Volcarona
 Turn 1:
 Player A: Kyurem used Earth Power on Volcarona for 36 damage
-Player B: Volcarona used Quiver Dance on self
+Player B: Volcarona used Quiver Dance on Volcarona
 Turn 2:
-Player B: Volcarona used Quiver Dance on self
+Player B: Volcarona used Quiver Dance on Volcarona
 Player A: Kyurem used Earth Power on Volcarona for 16 damage
 Turn 3:
 Player A: Switched out Kyurem for Clefable
@@ -26,13 +26,13 @@ Player B: Volcarona fainted
 Player B: Switched out Volcarona for Glimmora
 Turn 7:
 Player A: Switched out Hemogoblin for Equilibra
-Player B: Glimmora used Stealth Rock on self
+Player B: Glimmora used Stealth Rock on Equilibra
 Turn 8:
 Player B: Switched out Glimmora for Great Tusk
 Player A: Equilibra used Earth Power on Great Tusk for 59 damage
 Turn 9:
-Player A: Equilibra used Protect on self
-Player B: Great Tusk used Temper Flare on self
+Player A: Equilibra used Protect on Equilibra
+Player B: Great Tusk used Temper Flare on Equilibra
 Turn 10:
 Player A: Switched out Equilibra for Kyurem
 Player B: Great Tusk used Temper Flare on Kyurem for 31 damage
@@ -64,7 +64,7 @@ Player B: Glimmora fainted
 Player B: Switched out Glimmora for Raging Bolt
 Turn 17:
 Player A: Hemogoblin used Extreme Speed on Raging Bolt for 58 damage
-Player B: Raging Bolt used Calm Mind on self
+Player B: Raging Bolt used Calm Mind on Raging Bolt
 Turn 18:
 Player A: Hemogoblin used Extreme Speed on Raging Bolt for 42 damage
 Player B: Raging Bolt fainted

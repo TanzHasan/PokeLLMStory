@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Electrode
 Player B sent out Vaporeon
 Turn 1:
-Player A: Electrode used Thunder Wave
+Player A: Electrode used Thunder Wave on Vaporeon and they are now paralyzed
 Player B: Vaporeon used Surf on Electrode for 44 damage
 Turn 2:
 Player A: Electrode used Thunderbolt on Vaporeon for 42 damage (supereffective)
@@ -12,7 +12,7 @@ Player B: Switched out Vaporeon for Marowak
 Player A: Electrode used Thunderbolt but it had no effect on Marowak
 Turn 4:
 Player A: Electrode used Hidden Power on Marowak for 34 damage (supereffective)
-Player B: Marowak used Swords Dance on self
+Player B: Marowak used Swords Dance on Marowak
 Turn 5:
 Player A: Electrode used Explosion on Marowak and crit for 66 damage
 Player A: Electrode fainted
@@ -21,22 +21,23 @@ Player A: Switched out Electrode for Vileplume
 Player B: Switched out Marowak for Charmeleon
 Turn 6:
 Player A: Switched out Vileplume for Tentacruel
-Player B: Charmeleon used Sunny Day on self
+Player B: Charmeleon used Sunny Day on Charmeleon
 Turn 7:
-Player B: Charmeleon used Fire Blast on self
+Player A: Tentacruel used Substitute on Tentacruel
+Player B: Charmeleon used Fire Blast on Tentacruel
 Turn 8:
-Player A: Tentacruel used Swords Dance on self
-Player B: Charmeleon used Toxic on self
+Player A: Tentacruel used Swords Dance on Tentacruel
+Player B: Charmeleon used Toxic on Tentacruel
 Turn 9:
 Player B: Switched out Charmeleon for Vaporeon
-Player A: Tentacruel used Swords Dance on self
+Player A: Tentacruel used Swords Dance on Tentacruel
 Turn 10:
 Player A: Tentacruel used Sludge Bomb on Vaporeon for 58 damage
 Player B: Vaporeon fainted
 Player B: Switched out Vaporeon for Poliwrath
 Turn 11:
 Player A: Tentacruel used Sludge Bomb on Poliwrath for 65 damage
-Player B: Poliwrath used Lovely Kiss on self
+Player B: Poliwrath used Lovely Kiss on Tentacruel
 Turn 12:
 Player B: Switched out Poliwrath for Venusaur
 Player A: Tentacruel used Sludge Bomb on Venusaur for 78 damage
@@ -52,7 +53,7 @@ Player B: Piloswine fainted
 Player B: Switched out Piloswine for Charmeleon
 Turn 16:
 Player A: Tentacruel used Surf on Charmeleon for 86 damage (supereffective)
-Player B: Charmeleon used Hidden Power on Tentacruel for -9 damage
+Player B: Charmeleon used Hidden Power on Tentacruel for 15 damage
 Turn 17:
 Player B: Switched out Charmeleon for Poliwrath
 Player A: Tentacruel used Surf on Poliwrath for 7 damage

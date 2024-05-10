@@ -3,7 +3,7 @@ Player A sent out Darkrai
 Player B sent out Landorus-Therian
 Turn 1:
 Player B: Switched out Landorus-Therian for Iron Moth
-Player A: Darkrai used Ice Beam on Iron Moth for 18 damage
+Player A: Darkrai used Ice Beam on Iron Moth for 18 damage and they are now frozen
 Turn 2:
 Player A: Darkrai used Dark Pulse on Iron Moth for 44 damage
 Player B: Iron Moth can't move because it is frozen
@@ -36,23 +36,23 @@ Player B: Iron Treads fainted
 Player B: Switched out Iron Treads for Roaring Moon
 Turn 10:
 Player A: Switched out Rillaboom for Hawlucha
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 11:
-Player A: Hawlucha used Encore on self
-Player B: Roaring Moon used Dragon Dance on self
+Player A: Hawlucha used Encore on Roaring Moon
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 12:
 Player B: Switched out Roaring Moon for Landorus-Therian
 Player A: Hawlucha used Acrobatics on Landorus-Therian for 37 damage
 Turn 13:
-Player A: Hawlucha used Swords Dance on self
+Player A: Hawlucha used Swords Dance on Hawlucha
 Player B: Landorus-Therian used Psychic on Hawlucha for 100 damage (supereffective)
 Player A: Hawlucha fainted
 Player A: Switched out Hawlucha for Gouging Fire
 Turn 14:
 Player B: Landorus-Therian used Earth Power on Gouging Fire for 92 damage (supereffective)
-Player A: Gouging Fire used Dragon Dance on self
+Player A: Gouging Fire used Dragon Dance on Gouging Fire
 Turn 15:
-Player A: Gouging Fire used Breaking Swipe on Landorus-Therian for 40 damage
+Player A: Gouging Fire used Breaking Swipe on Landorus-Therian for 60 damage
 Player B: Landorus-Therian used Earth Power on Gouging Fire for 8 damage (supereffective)
 Player A: Gouging Fire fainted
 Player B: Landorus-Therian fainted
@@ -74,18 +74,18 @@ Player B: Heatran fainted
 Player B: Switched out Heatran for Roaring Moon
 Turn 19:
 Player B: Roaring Moon used Earthquake but it had no effect on Kingambit
-Player A: Kingambit used Swords Dance on self
+Player A: Kingambit used Swords Dance on Kingambit
 Turn 20:
 Player A: Kingambit used Sucker Punch on Roaring Moon for 80 damage
 Player B: Roaring Moon used Acrobatics on Kingambit for 62 damage
 Turn 21:
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 22:
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 23:
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 24:
-Player B: Roaring Moon used Dragon Dance on self
+Player B: Roaring Moon used Dragon Dance on Roaring Moon
 Turn 25:
 Player A: Kingambit used Sucker Punch on Roaring Moon for 20 damage
 Player B: Roaring Moon fainted

@@ -3,13 +3,13 @@ Player A sent out Tapu Fini
 Player B sent out Landorus-Therian
 Turn 1:
 Player B: Switched out Landorus-Therian for Ferrothorn
-Player A: Tapu Fini used Trick on self
+Player A: Tapu Fini used Trick on Ferrothorn
 Turn 2:
 Player A: Tapu Fini used Scald on Ferrothorn for 10 damage
-Player B: Ferrothorn used Spikes on self
+Player B: Ferrothorn used Spikes on Tapu Fini
 Turn 3:
 Player B: Switched out Ferrothorn for Bisharp
-Player A: Tapu Fini used Defog on self
+Player A: Tapu Fini used Defog on Bisharp
 Turn 4:
 Player A: Tapu Fini used Scald on Bisharp for 40 damage
 Player B: Bisharp used Iron Head on Tapu Fini for 80 damage

@@ -6,22 +6,22 @@ Player B: Switched out Lycanroc-Midnight for Tapu Fini
 Player A: Stoutland used Superpower on Tapu Fini for 39 damage
 Turn 2:
 Player A: Switched out Stoutland for Victreebel
-Player B: Tapu Fini used Calm Mind on self
+Player B: Tapu Fini used Calm Mind on Tapu Fini
 Turn 3:
 Player B: Switched out Tapu Fini for Seviper
-Player A: Victreebel used Sunny Day on self
+Player A: Victreebel used Sunny Day on Victreebel
 Turn 4:
 Player A: Victreebel used Weather Ball on Seviper for 216 damage
-Player B: Seviper used Poison Jab on Victreebel for 153 damage
+Player B: Seviper used Poison Jab on Victreebel for 182 damage
 Turn 5:
 Player B: Seviper used Sucker Punch on Victreebel for 84 damage
-Player A: Victreebel used Weather Ball on Seviper and crit for 9 damage
+Player A: Victreebel used Weather Ball on Seviper and crit for 65 damage
 Player B: Seviper fainted
 Player A: Victreebel fainted
 Player A: Switched out Victreebel for Flareon
 Player B: Switched out Seviper for Castform
 Turn 6:
-Player B: Castform used Thunder Wave
+Player B: Castform used Thunder Wave on Flareon and they are now paralyzed
 Player A: Flareon can't move because it is paralyzed
 Turn 7:
 Player B: Castform used Return on Flareon for 90 damage
@@ -41,7 +41,7 @@ Player A: Switched out Clawitzer for Cradily
 Player B: Tapu Fini used Moonblast on Cradily for 81 damage
 Turn 12:
 Player B: Switched out Tapu Fini for Castform
-Player A: Cradily used Toxic on self
+Player A: Cradily used Toxic on Castform
 Turn 13:
 Player A: Switched out Cradily for Stoutland
 Player B: Castform used Ice Beam on Stoutland for 61 damage
@@ -53,7 +53,7 @@ Player B: Switched out Tapu Fini for Lycanroc-Midnight
 Player A: Stoutland used Wild Charge on Lycanroc-Midnight for 79 damage
 Turn 16:
 Player A: Switched out Stoutland for Cradily
-Player B: Lycanroc-Midnight used Swords Dance on self
+Player B: Lycanroc-Midnight used Swords Dance on Lycanroc-Midnight
 Turn 17:
 Player B: Lycanroc-Midnight used Splintered Stormshards on Cradily for 214 damage
 Player A: Cradily fainted
@@ -70,7 +70,7 @@ Player A: Clawitzer used U-turn on Castform for -51 damage
 Player A: Switched out Clawitzer for Stoutland
 Turn 21:
 Player A: Stoutland used Wild Charge on Castform for 53 damage
-Player B: Castform used Return on Stoutland for 75 damage
+Player B: Castform used Return on Stoutland for 146 damage
 Turn 22:
 Player A: Switched out Stoutland for Clawitzer
 Player B: Castform used Return on Clawitzer for 78 damage

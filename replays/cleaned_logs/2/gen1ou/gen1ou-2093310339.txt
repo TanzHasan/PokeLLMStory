@@ -6,10 +6,10 @@ Player B: Switched out Alakazam for Chansey
 Player A: Gengar used Hypnosis on Chansey but it missed
 Turn 2:
 Player A: Gengar used Hypnosis on Chansey but it missed
-Player B: Chansey used Thunder Wave
+Player B: Chansey used Thunder Wave on Gengar and they are now paralyzed
 Turn 3:
 Player B: Chansey used Seismic Toss on Gengar for 30 damage
-Player A: Gengar used Hypnosis
+Player A: Gengar used Hypnosis on Chansey and they are now asleep
 Turn 4:
 Player B: Switched out Chansey for Alakazam
 Player A: Gengar used Explosion on Alakazam for 96 damage
@@ -19,14 +19,14 @@ Turn 5:
 Player B: Switched out Alakazam for Slowbro
 Player A: Alakazam used Psychic on Slowbro for 18 damage
 Turn 6:
-Player A: Alakazam used Thunder Wave
+Player A: Alakazam used Thunder Wave on Slowbro and they are now paralyzed
 Player B: Slowbro can't move because it is paralyzed
 Turn 7:
-Player A: Alakazam used Mimic on self
-Player B: Slowbro used Amnesia on self
+Player A: Alakazam used Mimic on Slowbro
+Player B: Slowbro used Amnesia on Slowbro
 Turn 8:
 Player A: Alakazam used Psychic on Slowbro for 10 damage
-Player B: Slowbro used Amnesia on self
+Player B: Slowbro used Amnesia on Slowbro
 Turn 9:
 Player A: Switched out Alakazam for Victreebel
 Player B: Slowbro can't move because it is paralyzed
@@ -42,16 +42,16 @@ Player A: Switched out Victreebel for Slowbro
 Player B: Alakazam used Psychic on Slowbro for 20 damage
 Turn 13:
 Player B: Alakazam used Seismic Toss on Slowbro for 26 damage
-Player A: Slowbro used Thunder Wave
+Player A: Slowbro used Thunder Wave on Alakazam and they are now paralyzed
 Turn 14:
-Player A: Slowbro used Amnesia on self
-Player B: Alakazam used Thunder Wave
+Player A: Slowbro used Amnesia on Slowbro
+Player B: Alakazam used Thunder Wave on Slowbro and they are now paralyzed
 Turn 15:
 Player B: Switched out Alakazam for Exeggutor
-Player A: Slowbro used Amnesia on self
+Player A: Slowbro used Amnesia on Slowbro
 Turn 16:
 Player B: Exeggutor used Sleep Powder but it failed
-Player A: Slowbro used Thunder Wave
+Player A: Slowbro used Thunder Wave on Exeggutor and they are now paralyzed
 Turn 17:
 Player B: Exeggutor can't move because it is paralyzed
 Player A: Slowbro can't move because it is paralyzed
@@ -68,7 +68,7 @@ Turn 20:
 Player A: Switched out Cloyster for Dragonite
 Player B: Chansey can't move because it is asleep
 Turn 21:
-Player A: Dragonite used Agility on self
+Player A: Dragonite used Agility on Dragonite
 Player B: Chansey can't move because it is asleep
 Turn 22:
 Player A: Dragonite used Surf on Chansey for 11 damage
@@ -89,7 +89,7 @@ Player A: Dragonite used Wrap on Snorlax for 4 damage
 Player B: Snorlax can't move because it is partially trapped
 Turn 28:
 Player A: Dragonite used Wrap on Snorlax but it missed
-Player B: Snorlax used Reflect on self
+Player B: Snorlax used Reflect on Snorlax
 Turn 29:
 Player A: Dragonite used Wrap on Snorlax for 1 damage
 Player B: Snorlax can't move because it is partially trapped
@@ -157,7 +157,7 @@ Turn 50:
 Player B: Switched out Snorlax for Tauros
 Player A: Dragonite used Wrap on Tauros but it missed
 Turn 51:
-Player A: Dragonite used Thunder Wave
+Player A: Dragonite used Thunder Wave on Tauros and they are now paralyzed
 Player B: Tauros can't move because it is paralyzed
 Turn 52:
 Player B: Switched out Tauros for Chansey
@@ -176,13 +176,13 @@ Player A: Dragonite used Wrap on Chansey for 6 damage
 Player B: Chansey can't move because it is partially trapped
 Turn 57:
 Player A: Dragonite used Wrap on Chansey but it missed
-Player B: Chansey used Thunder Wave
+Player B: Chansey used Thunder Wave on Dragonite and they are now paralyzed
 Turn 58:
 Player B: Chansey used Soft-Boiled and healed for 50
-Player A: Dragonite used Thunder Wave
+Player A: Dragonite used Thunder Wave on Chansey and they are now paralyzed
 Turn 59:
-Player A: Dragonite used Agility on self
-Player B: Chansey used Reflect on self
+Player A: Dragonite used Agility on Dragonite
+Player B: Chansey used Reflect on Chansey
 Turn 60:
 Player A: Dragonite used Wrap on Chansey and crit for 11 damage
 Player B: Chansey can't move because it is partially trapped
@@ -269,10 +269,10 @@ Turn 87:
 Player A: Victreebel used Razor Leaf on Snorlax and crit for 31 damage
 Turn 88:
 Player A: Victreebel used Sleep Powder on Snorlax but it missed
-Player B: Snorlax used Body Slam on Victreebel for 40 damage
+Player B: Snorlax used Body Slam on Victreebel for 40 damage and they are now paralyzed
 Turn 89:
 Player B: Snorlax used Body Slam on Victreebel for 39 damage
-Player A: Victreebel used Sleep Powder
+Player A: Victreebel used Sleep Powder on Snorlax and they are now asleep
 Turn 90:
 Player B: Snorlax can't move because it is asleep
 Player A: Victreebel used Razor Leaf on Snorlax and crit for 29 damage

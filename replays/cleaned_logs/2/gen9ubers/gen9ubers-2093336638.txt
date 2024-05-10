@@ -3,15 +3,15 @@ Player A sent out Amoonguss
 Player B sent out Gengar
 Turn 1:
 Player B: Gengar used Fire Punch on Amoonguss for 23 damage (supereffective)
-Player A: Amoonguss used Spore
+Player A: Amoonguss used Spore on Gengar and they are now asleep
 Turn 2:
 Player B: Switched out Gengar for Darkrai
 Player A: Amoonguss used Foul Play on Darkrai for 12 damage
 Turn 3:
-Player B: Darkrai used Trick on self
+Player B: Darkrai used Trick on Amoonguss
 Player A: Amoonguss used Clear Smog on Darkrai for 18 damage
 Turn 4:
-Player B: Darkrai used Dark Void
+Player B: Darkrai used Dark Void on Amoonguss and they are now asleep
 Player A: Amoonguss can't move because it is asleep
 Turn 5:
 Player B: Darkrai used Dream Eater on Amoonguss for 69 damage (supereffective)
@@ -20,12 +20,12 @@ Player A: Amoonguss can't move because it is asleep
 Player A: Amoonguss fainted
 Player A: Switched out Amoonguss for Magearna
 Turn 6:
-Player B: Darkrai used Dark Void
+Player B: Darkrai used Dark Void on Magearna and they are now asleep
 Player A: Magearna can't move because it is asleep
 Turn 7:
 Player B: Darkrai used Dream Eater on Magearna for 21 damage
 Player B: Darkrai used Dream Eater and healed for -38
-Player A: Magearna used Encore on self
+Player A: Magearna used Encore on Darkrai
 Turn 8:
 Player B: Switched out Darkrai for Gengar
 Player A: Magearna used Volt Switch on Gengar for 33 damage
@@ -89,10 +89,10 @@ Player A: Houndstone used Last Respects on Gardevoir for 75 damage (supereffecti
 Player B: Gardevoir fainted
 Player B: Switched out Gardevoir for Darkrai
 Turn 24:
-Player B: Darkrai used Dark Void
+Player B: Darkrai used Dark Void on Houndstone and they are now asleep
 Player A: Houndstone can't move because it is asleep
 Turn 25:
-Player B: Darkrai used Trick on self
+Player B: Darkrai used Trick on Houndstone
 Player A: Houndstone used Body Press on Darkrai for 49 damage (supereffective)
 Player B: Darkrai fainted
 Player B: Switched out Darkrai for Torterra

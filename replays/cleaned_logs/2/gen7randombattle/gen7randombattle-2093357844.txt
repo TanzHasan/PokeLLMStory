@@ -6,7 +6,7 @@ Player A: Switched out Venomoth for Torterra
 Player B: Switched out Palossand for Mightyena
 Turn 2:
 Player B: Mightyena used Crunch on Torterra for 121 damage
-Player A: Torterra used Rock Polish on self
+Player A: Torterra used Rock Polish on Torterra
 Turn 3:
 Player A: Torterra used Earthquake on Mightyena for 138 damage
 Player B: Mightyena used Crunch on Torterra for 104 damage
@@ -21,7 +21,7 @@ Player A: Torterra fainted
 Player A: Switched out Torterra for Scolipede
 Turn 6:
 Player B: Switched out Pheromosa for Alakazam
-Player A: Scolipede used Swords Dance on self
+Player A: Scolipede used Swords Dance on Scolipede
 Turn 7:
 Player A: Scolipede used Megahorn on Alakazam for 216 damage (supereffective)
 Player B: Alakazam fainted

@@ -5,28 +5,31 @@ Turn 1:
 Player A: Switched out Jumpluff for Tinkaton
 Player B: Switched out Terrakion for Minun
 Turn 2:
-Player B: Minun used Nasty Plot on self
-Player A: Tinkaton used Swords Dance on self
+Player B: Minun used Nasty Plot on Minun
+Player A: Tinkaton used Swords Dance on Tinkaton
 Turn 3:
-Player B: Minun used Encore on self
-Player A: Tinkaton used Swords Dance on self
+Player B: Minun used Encore on Tinkaton
+Player A: Tinkaton used Swords Dance on Tinkaton
 Turn 4:
 Player A: Switched out Tinkaton for Swalot
-Player B: Minun used Thunderbolt on Swalot for 234 damage
+Player B: Minun used Thunderbolt on Swalot for 234 damage and they are now paralyzed
 Turn 5:
 Player B: Minun used Thunderbolt on Swalot for 92 damage
 Player A: Swalot fainted
 Player A: Switched out Swalot for Sylveon
 Turn 6:
-Player B: Minun used Nasty Plot on self
-Player A: Sylveon used Hyper Voice on Minun for 135 damage
+Player B: Minun used Nasty Plot on Minun
+Player A: Sylveon used Hyper Voice on Minun for 161 damage
 Turn 7:
 Player B: Minun used Thunderbolt on Sylveon for 297 damage
 Player A: Sylveon fainted
 Player A: Switched out Sylveon for Jumpluff
 Turn 8:
+Player A: Jumpluff used Substitute on Jumpluff
+Player B: Minun used Thunderbolt on Jumpluff
 Turn 9:
-Player B: Minun used Alluring Voice on Jumpluff for 137 damage
+Player A: Jumpluff used Substitute on Jumpluff
+Player B: Minun used Alluring Voice on Jumpluff for 271 damage
 Player A: Jumpluff fainted
 Player A: Switched out Jumpluff for Pelipper
 Turn 10:
@@ -40,7 +43,7 @@ Player B: Minun fainted
 Player B: Switched out Minun for Ribombee
 Player A: Switched out Tinkaton for Iron Crown
 Turn 12:
-Player B: Ribombee used Stun Spore
+Player B: Ribombee used Stun Spore on Iron Crown and they are now paralyzed
 Player A: Iron Crown can't move because it is paralyzed
 Turn 13:
 Player B: Switched out Ribombee for Hippowdon

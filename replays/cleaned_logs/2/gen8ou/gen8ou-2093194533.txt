@@ -11,17 +11,17 @@ Player A: Switched out Corviknight for Dragapult
 Turn 3:
 Player A: Dragapult used U-turn on Mew for 29 damage (supereffective)
 Player A: Switched out Dragapult for Tapu Lele
-Player B: Mew used Stealth Rock on self
+Player B: Mew used Stealth Rock on Tapu Lele
 Turn 4:
-Player B: Mew used Spikes on self
+Player B: Mew used Spikes on Tapu Lele
 Player A: Tapu Lele used Moonblast on Mew for 46 damage
 Player B: Mew fainted
 Player B: Switched out Mew for Cinderace
 Turn 5:
 Player A: Switched out Tapu Lele for Dragapult
-Player B: Cinderace used Gunk Shot on Dragapult for 66 damage
+Player B: Cinderace used Gunk Shot on Dragapult for 66 damage and they are now poisoned
 Turn 6:
-Player B: Cinderace used Sucker Punch on self
+Player B: Cinderace used Sucker Punch on Dragapult
 Player A: Dragapult used Shadow Ball on Cinderace for 36 damage
 Turn 7:
 Player A: Dragapult used Shadow Ball on Cinderace for 31 damage
@@ -32,8 +32,8 @@ Turn 8:
 Player B: Switched out Cinderace for Garchomp
 Player A: Rotom-Wash used Volt Switch but it had no effect on Garchomp
 Turn 9:
-Player B: Garchomp used Swords Dance on self
-Player A: Rotom-Wash used Will-O-Wisp
+Player B: Garchomp used Swords Dance on Garchomp
+Player A: Rotom-Wash used Will-O-Wisp on Garchomp and they are now burned
 Turn 10:
 Player B: Garchomp used Scale Shot on Rotom-Wash for 11 damage
 Player A: Rotom-Wash fainted
@@ -60,8 +60,8 @@ Player B: Switched out Cinderace for Bisharp
 Player A: Switched out Hippowdon for Corviknight
 Turn 16:
 Player B: Switched out Bisharp for Tapu Fini
-Player A: Corviknight used Roost and healed for 38
+Player A: Corviknight used Roost and healed for 14
 Turn 17:
-Player B: Tapu Fini used Calm Mind on self
-Player A: Corviknight used Defog on self
+Player B: Tapu Fini used Calm Mind on Tapu Fini
+Player A: Corviknight used Defog on Tapu Fini
 Turn 18:

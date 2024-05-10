@@ -1,0 +1,143 @@
+Battle start:
+Player A sent out Glalie
+Player B sent out Skarmory
+Turn 1:
+Player B: Switched out Skarmory for Tyranitar
+Player A: Glalie used Taunt on Tyranitar
+Turn 2:
+Player A: Switched out Glalie for Swampert
+Player B: Tyranitar used Rock Slide on Swampert for 23 damage
+Turn 3:
+Player B: Switched out Tyranitar for Celebi
+Player A: Swampert used Hydro Pump on Celebi but it missed
+Turn 4:
+Player A: Switched out Swampert for Glalie
+Player B: Celebi used Swords Dance on Celebi
+Turn 5:
+Player A: Glalie used Spikes on Celebi
+Player B: Celebi used Baton Pass on Celebi
+Player B: Switched out Celebi for Tyranitar
+Turn 6:
+Player A: Glalie used Spikes on Tyranitar
+Player B: Tyranitar used Dragon Dance on Tyranitar
+Turn 7:
+Player B: Tyranitar used Rock Slide on Glalie for 100 damage (supereffective)
+Player A: Glalie fainted
+Player A: Switched out Glalie for Jolteon
+Turn 8:
+Player A: Jolteon used Thunderbolt on Tyranitar for 52 damage
+Player B: Tyranitar used Dragon Dance on Tyranitar
+Turn 9:
+Player A: Switched out Jolteon for Gengar
+Player B: Tyranitar used Earthquake but it had no effect on Gengar
+Turn 10:
+Player B: Tyranitar used Rock Slide on Gengar for 100 damage
+Player A: Gengar fainted
+Player A: Switched out Gengar for Swampert
+Turn 11:
+Player B: Tyranitar used Hyper Beam on Swampert for 77 damage
+Player A: Swampert fainted
+Player A: Switched out Swampert for Jolteon
+Turn 12:
+Player B: Tyranitar can't move because it is recharge
+Player A: Jolteon used Roar on Tyranitar
+Player B: Tyranitar got dragged out for Donphan by opponent's move
+Turn 13:
+Player A: Switched out Jolteon for Moltres
+Player B: Donphan used Rapid Spin on Moltres for 7 damage
+Turn 14:
+Player A: Moltres used Hidden Power on Donphan for 79 damage (supereffective)
+Player B: Donphan used Rock Slide on Moltres for 93 damage (supereffective)
+Player A: Moltres fainted
+Player A: Switched out Moltres for Jolteon
+Turn 15:
+Player A: Jolteon used Hidden Power on Donphan and crit for 21 damage (supereffective)
+Player B: Donphan fainted
+Player B: Switched out Donphan for Tyranitar
+Turn 16:
+Player A: Jolteon used Thunderbolt on Tyranitar and crit for 48 damage
+Player B: Tyranitar fainted
+Player B: Switched out Tyranitar for Celebi
+Turn 17:
+Player A: Jolteon used Hidden Power on Celebi for 40 damage (supereffective)
+Player B: Celebi used Leech Seed on Jolteon
+Turn 18:
+Player A: Jolteon used Hidden Power on Celebi for 26 damage (supereffective)
+Player B: Celebi used Recover and healed for 50
+Turn 19:
+Player B: Celebi used Swords Dance on Celebi
+Player A: Jolteon used Roar on Celebi
+Player B: Celebi got dragged out for Skarmory by opponent's move
+Turn 20:
+Player B: Switched out Skarmory for Celebi
+Player A: Jolteon used Thunderbolt on Celebi and crit for 27 damage and they are now paralyzed
+Turn 21:
+Player A: Switched out Jolteon for Tyranitar
+Player B: Switched out Celebi for Skarmory
+Turn 22:
+Player A: Tyranitar used Dragon Dance on Tyranitar
+Player B: Skarmory used Spikes on Tyranitar
+Turn 23:
+Player A: Tyranitar used Dragon Dance on Tyranitar
+Player B: Skarmory used Roar on Tyranitar
+Player A: Tyranitar got dragged out for Jolteon by opponent's move
+Turn 24:
+Player B: Switched out Skarmory for Celebi
+Player A: Jolteon used Thunderbolt on Celebi for 11 damage
+Turn 25:
+Player A: Jolteon used Hidden Power on Celebi for 38 damage (supereffective)
+Player B: Celebi used Recover and healed for 50
+Turn 26:
+Player A: Jolteon used Hidden Power on Celebi for 36 damage (supereffective)
+Player B: Celebi used Recover and healed for 50
+Turn 27:
+Player B: Switched out Celebi for Skarmory
+Player A: Jolteon used Hidden Power on Skarmory for 19 damage
+Turn 28:
+Player B: Switched out Skarmory for Celebi
+Player A: Jolteon used Thunderbolt on Celebi for 18 damage
+Turn 29:
+Player A: Jolteon used Thunderbolt on Celebi for 20 damage
+Player B: Celebi used Recover and healed for 50
+Turn 30:
+Player A: Jolteon used Hidden Power on Celebi for 37 damage (supereffective)
+Player B: Celebi used Leech Seed on Jolteon
+Turn 31:
+Player A: Jolteon used Thunderbolt on Celebi for 11 damage
+Player B: Celebi used Recover and healed for 50
+Turn 32:
+Player A: Jolteon used Hidden Power on Celebi and crit for 63 damage (supereffective)
+Player B: Celebi used Recover and healed for 50
+Turn 33:
+Player A: Jolteon used Hidden Power on Celebi for 30 damage (supereffective)
+Player B: Celebi used Recover and healed for 50
+Player A: Jolteon fainted
+Player A: Switched out Jolteon for Tyranitar
+Turn 34:
+Player B: Celebi used Leech Seed on Tyranitar
+Player A: Tyranitar used Dragon Dance on Tyranitar
+Turn 35:
+Player A: Tyranitar used Dragon Dance on Tyranitar
+Player B: Celebi used Baton Pass on Celebi
+Player B: Switched out Celebi for Skarmory
+Turn 36:
+Player A: Tyranitar used Rock Slide on Skarmory for 37 damage
+Player B: Skarmory used Taunt on Tyranitar
+Turn 37:
+Player B: Switched out Skarmory for Celebi
+Player A: Tyranitar used Rock Slide on Celebi for 48 damage
+Turn 38:
+Player B: Switched out Celebi for Skarmory
+Player A: Tyranitar used Rock Slide on Skarmory for 40 damage
+Turn 39:
+Player B: Switched out Skarmory for Celebi
+Player A: Tyranitar used Dragon Dance on Tyranitar
+Turn 40:
+Player A: Tyranitar used Rock Slide on Celebi for 45 damage
+Player B: Celebi fainted
+Player B: Switched out Celebi for Banette
+Turn 41:
+Player A: Tyranitar used Rock Slide on Banette for 100 damage
+Player B: Banette fainted
+Player B: Switched out Banette for Skarmory
+Player A: Tyranitar fainted

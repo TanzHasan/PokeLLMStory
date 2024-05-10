@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Pincurchin
 Player B sent out Scizor
 Turn 1:
-Player B: Scizor used Sticky Web on self
+Player B: Scizor used Sticky Web on Pincurchin
 Player A: Pincurchin used Rising Voltage on Scizor for 76 damage
 Turn 2:
 Player B: Scizor used Bug Buzz on Pincurchin and crit for 80 damage
@@ -40,7 +40,7 @@ Player A: Iron Jugulis fainted
 Player A: Switched out Iron Jugulis for Iron Jugulis
 Turn 10:
 Player A: Iron Jugulis used Sucker Punch on Iron Moth for -22 damage
-Player B: Iron Moth used Bitter Blade on Iron Jugulis for 29 damage
+Player B: Iron Moth used Bitter Blade on Iron Jugulis for 100 damage
 Player B: Iron Moth used Bitter Blade and healed for 15
 Player A: Iron Jugulis fainted
 Player A: Switched out Iron Jugulis for Iron Hands

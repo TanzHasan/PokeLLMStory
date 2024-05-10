@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Gliscor
 Player B sent out Absol
 Turn 1:
-Player A: Gliscor used Stealth Rock on self
+Player A: Gliscor used Stealth Rock on Absol
 Player B: Absol used Night Slash on Gliscor for 40 damage
 Turn 2:
 Player A: Switched out Gliscor for Furret
@@ -12,13 +12,13 @@ Player A: Switched out Furret for Gliscor
 Player B: Absol used Superpower on Gliscor for 24 damage
 Turn 4:
 Player B: Switched out Absol for Miltank
-Player A: Gliscor used Ice Fang on Miltank and crit for 45 damage
+Player A: Gliscor used Ice Fang on Miltank and crit for 45 damage and they are now frozen
 Turn 5:
 Player A: Switched out Gliscor for Furret
 Player B: Miltank can't move because it is frozen
 Turn 6:
 Player B: Switched out Miltank for Lucario
-Player A: Furret used Trick on self
+Player A: Furret used Trick on Lucario
 Turn 7:
 Player A: Switched out Furret for Dusknoir
 Player B: Lucario used Ice Punch on Dusknoir and crit for 39 damage
@@ -41,13 +41,13 @@ Player A: Switched out Furret for Dusknoir
 Player B: Miltank used Milk Drink and healed for 33
 Turn 13:
 Player B: Miltank used Return on Dusknoir for 33 damage
-Player A: Dusknoir used Pain Split on self
+Player A: Dusknoir used Pain Split on Miltank
 Turn 14:
-Player B: Miltank used Milk Drink and healed for 9
+Player B: Miltank used Milk Drink and healed for 0
 Player A: Dusknoir used Fire Punch on Miltank for 23 damage
 Turn 15:
 Player B: Miltank used Return on Dusknoir for -12 damage
-Player A: Dusknoir used Fire Punch on Miltank for 24 damage
+Player A: Dusknoir used Fire Punch on Miltank for 34 damage
 Turn 16:
 Player B: Miltank used Return on Dusknoir for 25 damage
 Player A: Dusknoir fainted
@@ -80,7 +80,7 @@ Turn 23:
 Player B: Miltank used Milk Drink and healed for 50
 Player A: Rotom-Fan used Discharge on Miltank for 68 damage
 Turn 24:
-Player B: Miltank used Return on Rotom-Fan for 61 damage
+Player B: Miltank used Return on Rotom-Fan for 100 damage
 Player A: Rotom-Fan fainted
 Player A: Switched out Rotom-Fan for Furret
 Turn 25:

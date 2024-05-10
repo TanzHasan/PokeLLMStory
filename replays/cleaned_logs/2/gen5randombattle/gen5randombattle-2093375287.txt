@@ -5,16 +5,16 @@ Turn 1:
 Player A: Switched out Phione for Togekiss
 Player B: Switched out Seismitoad for Porygon2
 Turn 2:
-Player A: Togekiss used Trick on self
-Player B: Porygon2 used Toxic
+Player A: Togekiss used Trick on Porygon2
+Player B: Porygon2 used Toxic on Togekiss and they are now badly poisoned
 Turn 3:
 Player B: Switched out Porygon2 for Dusclops
 Player A: Switched out Togekiss for Phione
 Turn 4:
-Player A: Phione used Rain Dance on self
+Player A: Phione used Rain Dance on Phione
 Player B: Dusclops used Seismic Toss on Phione for 85 damage
 Turn 5:
-Player A: Phione used Toxic
+Player A: Phione used Toxic on Dusclops and they are now badly poisoned
 Player B: Dusclops used Seismic Toss on Phione for 85 damage
 Turn 6:
 Player A: Phione used Scald on Dusclops for 78 damage
@@ -28,7 +28,7 @@ Player B: Dusclops fainted
 Player B: Switched out Dusclops for Seismitoad
 Turn 9:
 Player B: Seismitoad used Earthquake on Phione for 140 damage
-Player A: Phione used Toxic
+Player A: Phione used Toxic on Seismitoad and they are now badly poisoned
 Turn 10:
 Player A: Switched out Phione for Togekiss
 Player B: Seismitoad used Sludge Wave on Togekiss for 81 damage
@@ -38,7 +38,7 @@ Player A: Togekiss fainted
 Player A: Switched out Togekiss for Omastar
 Turn 12:
 Player B: Switched out Seismitoad for Politoed
-Player A: Omastar used Shell Smash on self
+Player A: Omastar used Shell Smash on Omastar
 Turn 13:
 Player A: Omastar used Hidden Power on Politoed for 174 damage (supereffective)
 Player B: Politoed used Hidden Power on Omastar for 224 damage (supereffective)
@@ -47,7 +47,7 @@ Player A: Omastar used Hidden Power on Politoed for 114 damage (supereffective)
 Player B: Politoed fainted
 Player B: Switched out Politoed for Seismitoad
 Turn 15:
-Player A: Omastar used Hidden Power on Seismitoad and crit for 236 damage (supereffective)
+Player A: Omastar used Hidden Power on Seismitoad and crit for 317 damage (supereffective)
 Player B: Seismitoad fainted
 Player B: Switched out Seismitoad for Porygon2
 Turn 16:

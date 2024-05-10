@@ -10,13 +10,13 @@ Player A: Switched out Charizard for Gliscor
 Player B: Lycanroc-Dusk used Stone Edge on Gliscor for 43 damage
 Turn 3:
 Player B: Switched out Lycanroc-Dusk for Swanna
-Player A: Gliscor used Toxic
+Player A: Gliscor used Toxic on Swanna and they are now badly poisoned
 Turn 4:
 Player A: Switched out Gliscor for Tapu Fini
 Player B: Swanna used Ice Beam on Tapu Fini for 6 damage
 Turn 5:
 Player A: Switched out Tapu Fini for Charizard-Mega-Y
-Player B: Swanna used Tailwind on self
+Player B: Swanna used Tailwind on Swanna
 Turn 6:
 Player B: Swanna used Surf on Charizard for 72 damage (supereffective)
 Player A: Charizard used Ancient Power on Swanna for 100 damage (supereffective)
@@ -41,7 +41,7 @@ Player B: Lycanroc-Dusk fainted
 Player B: Switched out Lycanroc-Dusk for Scizor
 Turn 11:
 Player A: Tapu Fini used Surf on Scizor for 30 damage
-Player B: Scizor used Swords Dance on self
+Player B: Scizor used Swords Dance on Scizor
 Turn 12:
 Player A: Tapu Fini used Surf on Scizor for 31 damage
 Player B: Scizor used Roost and healed for 50
@@ -58,11 +58,11 @@ Turn 16:
 Player A: Rotom-Wash used Hydro Pump on Scizor for 38 damage
 Player B: Scizor used Roost and healed for 50
 Turn 17:
-Player A: Rotom-Wash used Defog on self
+Player A: Rotom-Wash used Defog on Scizor
 Player B: Scizor used Roost and healed for 26
 Turn 18:
 Player A: Rotom-Wash used Hydro Pump on Scizor for 42 damage
-Player B: Scizor used Swords Dance on self
+Player B: Scizor used Swords Dance on Scizor
 Turn 19:
 Player A: Rotom-Wash used Hydro Pump on Scizor for 38 damage
 Player B: Scizor used Roost and healed for 50
@@ -74,7 +74,7 @@ Player A: Rotom-Wash used Hydro Pump on Scizor for 36 damage
 Player B: Scizor used Roost and healed for 50
 Turn 22:
 Player A: Rotom-Wash used Hydro Pump on Scizor for 39 damage
-Player B: Scizor used Swords Dance on self
+Player B: Scizor used Swords Dance on Scizor
 Turn 23:
 Player A: Rotom-Wash used Volt Switch on Scizor for 23 damage
 Player A: Switched out Rotom-Wash for Darmanitan

@@ -1,0 +1,116 @@
+Battle start:
+Player A sent out Milotic
+Player B sent out Skarmory
+Turn 1:
+Player A: Milotic used Scald on Skarmory for 26 damage
+Player B: Skarmory used Spikes on Milotic
+Turn 2:
+Player A: Milotic used Scald on Skarmory for 24 damage
+Player B: Skarmory used Spikes on Milotic
+Turn 3:
+Player A: Milotic used Scald on Skarmory for 28 damage
+Player B: Skarmory used Roost and healed for 50
+Turn 4:
+Player A: Milotic used Scald on Skarmory for 28 damage
+Player B: Skarmory used Spikes on Milotic
+Turn 5:
+Player A: Milotic used Scald on Skarmory for 27 damage
+Player B: Skarmory used Roost and healed for 50
+Turn 6:
+Player B: Switched out Skarmory for Slowking
+Player A: Milotic used Scald on Slowking for 11 damage
+Turn 7:
+Player A: Milotic used Flip Turn on Slowking for 3 damage
+Player A: Switched out Milotic for Pecharunt
+Player B: Slowking used Future Sight on Pecharunt
+Turn 8:
+Player A: Pecharunt used Malignant Chain on Slowking for 26 damage and they are now badly poisoned
+Player B: Slowking used Chilly Reception on Slowking
+Player B: Switched out Slowking for Urshifu
+Turn 9:
+Player A: Switched out Pecharunt for Milotic
+Player B: Urshifu used Wicked Blow on Milotic and crit for 100 damage
+Player A: Pecharunt fainted
+Player A: Switched out Pecharunt for Hatterene
+Turn 10:
+Player B: Urshifu used Wicked Blow on Hatterene and crit for 100 damage
+Player A: Hatterene fainted
+Player A: Switched out Hatterene for Pecharunt
+Turn 11:
+Player B: Urshifu used Wicked Blow on Pecharunt and crit for 60 damage
+Player A: Pecharunt used Malignant Chain on Urshifu for 43 damage and they are now badly poisoned
+Turn 12:
+Player B: Switched out Urshifu for Skarmory
+Player A: Pecharunt used Recover and healed for 56
+Turn 13:
+Player A: Pecharunt used Nasty Plot on Pecharunt
+Player B: Skarmory used Whirlwind on Pecharunt
+Player A: Pecharunt got dragged out for Zacian-Crowned by opponent's move
+Turn 14:
+Player A: Zacian-Crowned used Close Combat on Skarmory for 27 damage
+Player B: Skarmory used Roost and healed for 50
+Turn 15:
+Player A: Switched out Zacian-Crowned for Pecharunt
+Player B: Skarmory used Whirlwind on Pecharunt
+Player A: Zacian-Crowned got dragged out for Glastrier by opponent's move
+Turn 16:
+Player A: Glastrier used Swords Dance on Glastrier
+Player B: Skarmory used Brave Bird on Glastrier for 27 damage
+Turn 17:
+Player A: Glastrier used Icicle Crash on Skarmory for 47 damage
+Player B: Skarmory can't move because it is flinch
+Turn 18:
+Player A: Glastrier used Icicle Crash on Skarmory for 40 damage
+Player B: Skarmory can't move because it is flinch
+Turn 19:
+Player A: Glastrier used Icicle Crash on Skarmory for 3 damage
+Player B: Skarmory fainted
+Player B: Switched out Skarmory for Serperior
+Turn 20:
+Player B: Serperior used Leaf Storm on Glastrier but it missed
+Player A: Glastrier used Icicle Crash on Serperior for 100 damage (supereffective)
+Player B: Serperior fainted
+Player B: Switched out Serperior for Slowking
+Turn 21:
+Player A: Glastrier used High Horsepower on Slowking for 41 damage
+Player B: Slowking used Scald on Glastrier for 27 damage
+Turn 22:
+Player A: Glastrier used High Horsepower on Slowking for 19 damage
+Player B: Slowking fainted
+Player B: Switched out Slowking for Urshifu
+Turn 23:
+Player B: Urshifu used Sucker Punch on Glastrier for 46 damage
+Player A: Glastrier fainted
+Player A: Switched out Glastrier for Talonflame
+Turn 24:
+Player B: Switched out Urshifu for Eternatus
+Player A: Talonflame used Swords Dance on Talonflame
+Turn 25:
+Player A: Talonflame used Acrobatics on Eternatus for 86 damage
+Player B: Eternatus used Dynamax Cannon on Talonflame for 85 damage
+Turn 26:
+Player A: Talonflame used Acrobatics on Eternatus for 14 damage
+Player B: Eternatus fainted
+Player B: Switched out Eternatus for Urshifu
+Turn 27:
+Player B: Urshifu used Wicked Blow on Talonflame and crit for 15 damage
+Player A: Talonflame fainted
+Player A: Switched out Talonflame for Pecharunt
+Turn 28:
+Player B: Switched out Urshifu for Iron Treads
+Player A: Pecharunt used Recover and healed for 4
+Turn 29:
+Player A: Switched out Pecharunt for Zacian-Crowned
+Player B: Iron Treads used Knock Off on Zacian-Crowned for 74 damage
+Turn 30:
+Player A: Zacian-Crowned used Close Combat on Iron Treads and crit for 100 damage (supereffective)
+Player B: Iron Treads fainted
+Player B: Switched out Iron Treads for Urshifu
+Turn 31:
+Player B: Urshifu used Sucker Punch on Zacian-Crowned for 26 damage
+Player A: Zacian-Crowned fainted
+Player A: Switched out Zacian-Crowned for Pecharunt
+Turn 32:
+Player B: Urshifu used Sucker Punch on Pecharunt for 45 damage
+Player A: Pecharunt used Malignant Chain on Urshifu for 57 damage
+Player B: Urshifu fainted

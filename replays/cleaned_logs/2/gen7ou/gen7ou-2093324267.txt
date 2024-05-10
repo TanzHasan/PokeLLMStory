@@ -3,7 +3,7 @@ Player A sent out Gengar
 Player B sent out Diggersby
 Turn 1:
 Player A: Gengar used Sludge Wave on Diggersby for 43 damage
-Player B: Diggersby used Swords Dance on self
+Player B: Diggersby used Swords Dance on Diggersby
 Turn 2:
 Player A: Gengar used Sludge Wave on Diggersby for 45 damage
 Player B: Diggersby used Earthquake on Gengar for 100 damage (supereffective)
@@ -17,14 +17,14 @@ Turn 4:
 Player A: Switched out Pinsir for Quagsire
 Player B: Magneton used Electroweb but it had no effect on Quagsire
 Turn 5:
-Player B: Magneton used Toxic
+Player B: Magneton used Toxic on Quagsire and they are now badly poisoned
 Player A: Quagsire used Scald on Magneton for 21 damage
 Turn 6:
 Player B: Switched out Magneton for Altaria
-Player A: Quagsire used Toxic
+Player A: Quagsire used Toxic on Altaria and they are now badly poisoned
 Turn 7:
 Player A: Switched out Quagsire for Pinsir-Mega
-Player B: Altaria used Agility on self
+Player B: Altaria used Agility on Altaria
 Turn 8:
 Player A: Pinsir used Quick Attack on Altaria for 49 damage
 Player B: Altaria used Return on Pinsir and crit for 100 damage
@@ -44,7 +44,7 @@ Player A: Quagsire fainted
 Player A: Switched out Quagsire for Tornadus
 Turn 12:
 Player A: Tornadus used Heat Wave on Sylveon for 34 damage
-Player B: Sylveon used Hyper Voice on Tornadus for 91 damage
+Player B: Sylveon used Hyper Voice on Tornadus for 100 damage
 Player A: Tornadus fainted
 Player A: Switched out Tornadus for Cresselia
 Turn 13:
@@ -69,7 +69,7 @@ Player B: Sylveon fainted
 Player B: Switched out Sylveon for Venomoth
 Turn 19:
 Player A: Hydreigon used Surf on Venomoth for 50 damage
-Player B: Venomoth used Sleep Powder
+Player B: Venomoth used Sleep Powder on Hydreigon and they are now asleep
 Turn 20:
 Player A: Hydreigon can't move because it is asleep
 Player B: Venomoth used Bug Buzz on Hydreigon for 80 damage (supereffective)

@@ -2,16 +2,17 @@ Battle start:
 Player A sent out Urshifu-Rapid-Strike
 Player B sent out Grimmsnarl
 Turn 1:
-Player B: Grimmsnarl used Reflect on self
+Player B: Grimmsnarl used Reflect on Grimmsnarl
+Player A: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
 Turn 2:
-Player B: Grimmsnarl used Light Screen on self
-Player A: Urshifu-Rapid-Strike used Bulk Up on self
+Player B: Grimmsnarl used Light Screen on Grimmsnarl
+Player A: Urshifu-Rapid-Strike used Bulk Up on Urshifu-Rapid-Strike
 Turn 3:
-Player B: Grimmsnarl used Taunt on self
-Player A: Urshifu-Rapid-Strike can't move because move: Taunt
+Player B: Grimmsnarl used Taunt on Urshifu-Rapid-Strike
+Player A: Urshifu-Rapid-Strike can't move because it is move: Taunt
 Turn 4:
 Player A: Urshifu-Rapid-Strike used Max Knuckle on Grimmsnarl for 34 damage
-Player B: Grimmsnarl used Foul Play on Urshifu-Rapid-Strike for -9 damage
+Player B: Grimmsnarl used Foul Play on Urshifu-Rapid-Strike for 15 damage
 Turn 5:
 Player A: Urshifu-Rapid-Strike used Max Knuckle on Grimmsnarl for 48 damage
 Player B: Grimmsnarl used Foul Play on Urshifu-Rapid-Strike for 8 damage
@@ -20,27 +21,29 @@ Player A: Urshifu-Rapid-Strike used Max Geyser on Grimmsnarl for 18 damage
 Player B: Grimmsnarl fainted
 Player B: Switched out Grimmsnarl for Celesteela
 Turn 7:
+Player A: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
 Player B: Celesteela used Air Slash
 Turn 8:
+Player A: Urshifu-Rapid-Strike used Substitute on Urshifu-Rapid-Strike
 Player B: Celesteela used Air Slash
 Turn 9:
 Player A: Urshifu-Rapid-Strike used Surging Strikes on Celesteela and crit for 51 damage
 Player B: Celesteela fainted
 Player B: Switched out Celesteela for Seismitoad
 Turn 10:
-Player B: Seismitoad used Max Quake on Urshifu-Rapid-Strike and crit for 39 damage
+Player B: Seismitoad used Max Quake on Urshifu-Rapid-Strike and crit for 77 damage
 Player A: Urshifu-Rapid-Strike fainted
 Player A: Switched out Urshifu-Rapid-Strike for Aegislash
 Turn 11:
-Player A: Aegislash used King's Shield on self
+Player A: Aegislash used King's Shield on Aegislash
 Player B: Seismitoad used Max Quake on Aegislash for 33 damage (supereffective)
 Turn 12:
-Player A: Aegislash used Shadow Sneak on Seismitoad for 19 damage
-Player B: Seismitoad used Max Quake on Aegislash for 57 damage (supereffective)
+Player A: Aegislash used Shadow Sneak on Seismitoad for 28 damage
+Player B: Seismitoad used Max Quake on Aegislash for 67 damage (supereffective)
 Player A: Aegislash fainted
 Player A: Switched out Aegislash for Inteleon
 Turn 13:
-Player A: Inteleon used Focus Energy on self
+Player A: Inteleon used Focus Energy on Inteleon
 Player B: Seismitoad used Power Whip on Inteleon but it missed
 Turn 14:
 Player A: Inteleon used Snipe Shot on Seismitoad and crit for 72 damage

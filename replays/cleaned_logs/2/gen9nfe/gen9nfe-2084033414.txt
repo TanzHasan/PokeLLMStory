@@ -15,7 +15,7 @@ Player B: Switched out Pikachu for Dusclops
 Player A: Metang used Earthquake on Dusclops for 16 damage
 Turn 4:
 Player A: Switched out Metang for Servine
-Player B: Dusclops used Will-O-Wisp
+Player B: Dusclops used Will-O-Wisp on Servine and they are now burned
 Turn 5:
 Player A: Servine used Leaf Storm on Dusclops for 24 damage
 Player B: Dusclops used Night Shade on Servine for 44 damage
@@ -47,7 +47,7 @@ Player A: Servine used Giga Drain and healed for 66
 Player B: Cutiefly fainted
 Player B: Switched out Cutiefly for Cutiefly
 Turn 13:
-Player B: Cutiefly used Sticky Web on self
+Player B: Cutiefly used Sticky Web on Servine
 Player A: Servine used Giga Drain on Cutiefly for 99 damage
 Player A: Servine used Giga Drain and healed for 25
 Turn 14:
@@ -64,23 +64,23 @@ Player B: Pikachu used Volt Switch on Metang for 42 damage
 Player B: Switched out Pikachu for Vigoroth
 Player A: Metang used Earthquake on Vigoroth for 19 damage
 Turn 17:
-Player B: Vigoroth used Bulk Up on self
+Player B: Vigoroth used Bulk Up on Vigoroth
 Player A: Metang used Earthquake on Vigoroth for 14 damage
 Turn 18:
 Player B: Vigoroth used Slack Off and healed for 33
 Player A: Metang used Earthquake on Vigoroth for 12 damage
 Turn 19:
-Player B: Vigoroth used Bulk Up on self
+Player B: Vigoroth used Bulk Up on Vigoroth
 Player A: Metang used Meteor Mash on Vigoroth for 13 damage
 Turn 20:
-Player B: Vigoroth used Bulk Up on self
+Player B: Vigoroth used Bulk Up on Vigoroth
 Player A: Metang used Earthquake on Vigoroth for 8 damage
 Turn 21:
 Player A: Switched out Metang for Dunsparce
-Player B: Vigoroth used Bulk Up on self
+Player B: Vigoroth used Bulk Up on Vigoroth
 Turn 22:
 Player B: Vigoroth used Knock Off on Dunsparce for 57 damage
-Player A: Dunsparce used Glare
+Player A: Dunsparce used Glare on Vigoroth and they are now paralyzed
 Turn 23:
 Player B: Vigoroth used Slack Off and healed for 33
 Player A: Dunsparce used Zen Headbutt on Vigoroth for 4 damage
@@ -114,7 +114,7 @@ Player B: Vigoroth fainted
 Player B: Switched out Vigoroth for Pikachu
 Turn 32:
 Player B: Pikachu used Fake Out on Electabuzz for 24 damage
-Player A: Electabuzz can't move because flinch
+Player A: Electabuzz can't move because it is flinch
 Turn 33:
 Player B: Pikachu used Surf on Electabuzz for 53 damage
 Player A: Electabuzz used Focus Blast on Pikachu for 100 damage

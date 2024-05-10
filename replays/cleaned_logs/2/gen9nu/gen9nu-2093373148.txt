@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Sylveon
 Player B sent out Gligar
 Turn 1:
-Player B: Gligar used Stealth Rock on self
+Player B: Gligar used Stealth Rock on Sylveon
 Player A: Sylveon used Hyper Voice on Gligar for 66 damage
 Turn 2:
 Player B: Switched out Gligar for Weezing
@@ -12,7 +12,7 @@ Player A: Sylveon used Hyper Voice on Weezing for 4 damage
 Player B: Weezing fainted
 Player B: Switched out Weezing for Minior-Violet
 Turn 4:
-Player B: Minior-Violet used Shell Smash on self
+Player B: Minior-Violet used Shell Smash on Minior-Violet
 Player A: Sylveon used Hyper Voice on Minior-Violet for 99 damage
 Turn 5:
 Player B: Minior-Violet used Acrobatics on Sylveon for 100 damage

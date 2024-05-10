@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Cosmoem
 Player B sent out Quaquaval
 Turn 1:
-Player B: Quaquaval used Swords Dance on self
-Player A: Cosmoem used Bulk Up on self
+Player B: Quaquaval used Swords Dance on Quaquaval
+Player A: Cosmoem used Bulk Up on Cosmoem
 Turn 2:
-Player B: Quaquaval used Swords Dance on self
-Player A: Cosmoem used Bulk Up on self
+Player B: Quaquaval used Swords Dance on Quaquaval
+Player A: Cosmoem used Bulk Up on Cosmoem
 Turn 3:
 Player B: Quaquaval used Liquidation on Cosmoem for 37 damage
-Player A: Cosmoem used Bulk Up on self
+Player A: Cosmoem used Bulk Up on Cosmoem
 Turn 4:
 Player B: Quaquaval used Liquidation on Cosmoem for 34 damage
 Player A: Cosmoem used Astral Barrage on Quaquaval for 14 damage

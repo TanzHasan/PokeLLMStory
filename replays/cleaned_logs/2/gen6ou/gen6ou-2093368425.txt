@@ -2,31 +2,32 @@ Battle start:
 Player A sent out Serperior
 Player B sent out Smeargle
 Turn 1:
-Player A: Serperior used Taunt on self
-Player B: Smeargle can't move because move: Taunt
+Player A: Serperior used Taunt on Smeargle
+Player B: Smeargle can't move because it is move: Taunt
 Turn 2:
 Player B: Switched out Smeargle for Bisharp
-Player A: Serperior used Reflect on self
+Player A: Serperior used Reflect on Serperior
 Turn 3:
 Player A: Switched out Serperior for Gallade
 Player B: Bisharp used Knock Off on Gallade for 26 damage
 Turn 4:
 Player B: Switched out Bisharp for Clefable
-Player A: Gallade used Swords Dance on self
+Player A: Gallade used Swords Dance on Gallade
 Turn 5:
+Player A: Gallade used Substitute on Gallade
 Player B: Clefable used Moonblast
 Turn 6:
 Player A: Gallade used Drain Punch on Clefable for 16 damage
-Player A: Gallade used Drain Punch and healed for 10
+Player A: Gallade used Drain Punch and healed for -15
 Player B: Clefable used Moonblast on Gallade for 57 damage (supereffective)
 Turn 7:
 Player A: Gallade used Psycho Cut on Clefable for 26 damage
-Player B: Clefable used Wish on self
+Player B: Clefable used Wish on Clefable
 Turn 8:
 Player A: Switched out Gallade for Landorus-Therian
-Player B: Clefable used Calm Mind on self
+Player B: Clefable used Calm Mind on Clefable
 Turn 9:
-Player A: Landorus-Therian used Stealth Rock on self
+Player A: Landorus-Therian used Stealth Rock on Clefable
 Player B: Clefable used Moonblast on Landorus-Therian for 57 damage
 Turn 10:
 Player A: Switched out Landorus-Therian for Gallade-Mega
@@ -41,14 +42,15 @@ Player A: Switched out Bisharp for Landorus-Therian
 Player B: Gliscor used Earthquake but it had no effect on Landorus-Therian
 Turn 13:
 Player A: Switched out Landorus-Therian for Serperior
+Player B: Gliscor used Substitute on Gliscor
 Turn 14:
-Player A: Serperior used Taunt on self
-Player B: Gliscor can't move because move: Taunt
+Player A: Serperior used Taunt on Gliscor
+Player B: Gliscor can't move because it is move: Taunt
 Turn 15:
 Player B: Switched out Gliscor for Bisharp
 Player A: Serperior used Leaf Storm on Bisharp for 22 damage
 Turn 16:
-Player A: Serperior used Reflect on self
+Player A: Serperior used Reflect on Serperior
 Player B: Bisharp used Knock Off on Serperior for 27 damage
 Turn 17:
 Player A: Serperior used Leaf Storm on Bisharp for 33 damage
@@ -57,10 +59,10 @@ Turn 18:
 Player B: Switched out Bisharp for Clefable
 Player A: Serperior used Leaf Storm on Clefable for 3 damage
 Turn 19:
-Player A: Serperior used Taunt on self
+Player A: Serperior used Taunt on Clefable
 Player B: Clefable used Moonblast on Serperior for 29 damage
 Turn 20:
-Player A: Serperior used Light Screen on self
+Player A: Serperior used Light Screen on Serperior
 Player B: Clefable used Moonblast on Serperior for 16 damage
 Turn 21:
 Player A: Serperior used Leaf Storm on Clefable for 16 damage
@@ -69,9 +71,9 @@ Player A: Serperior fainted
 Player A: Switched out Serperior for Bisharp
 Turn 22:
 Player B: Switched out Clefable for Smeargle
-Player A: Bisharp used Swords Dance on self
+Player A: Bisharp used Swords Dance on Bisharp
 Turn 23:
-Player B: Smeargle used Spore
+Player B: Smeargle used Spore on Bisharp and they are now asleep
 Player A: Bisharp can't move because it is asleep
 Turn 24:
 Player B: Switched out Smeargle for Lopunny
@@ -83,9 +85,9 @@ Player A: Volcarona fainted
 Player A: Switched out Volcarona for Volcarona
 Turn 26:
 Player B: Lopunny used Frustration and healed for 25
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 27:
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Player B: Lopunny used Frustration on Volcarona for 29 damage
 Turn 28:
 Player A: Volcarona used Giga Drain on Lopunny for 100 damage
@@ -93,8 +95,8 @@ Player A: Volcarona used Giga Drain and healed for 28
 Player B: Lopunny fainted
 Player B: Switched out Lopunny for Clefable
 Turn 29:
-Player B: Clefable used Protect on self
-Player A: Volcarona used Flamethrower on self
+Player B: Clefable used Protect on Clefable
+Player A: Volcarona used Flamethrower on Clefable
 Turn 30:
 Player A: Volcarona used Flamethrower on Clefable for 39 damage
 Player B: Clefable fainted

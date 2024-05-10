@@ -1,0 +1,121 @@
+Battle start:
+Player A sent out Misdreavus
+Player B sent out Slowking
+Turn 1:
+Player A: Misdreavus used Thunderbolt on Slowking for 33 damage (supereffective)
+Player B: Slowking used Amnesia on Slowking
+Turn 2:
+Player A: Misdreavus used Thunderbolt on Slowking for 17 damage and they are now paralyzed (supereffective)
+Player B: Slowking used Surf on Misdreavus for 36 damage
+Turn 3:
+Player A: Misdreavus used Mean Look on Slowking
+Player B: Slowking used Rest and healed for 50
+Turn 4:
+Player A: Misdreavus used Perish Song on Misdreavus
+Player B: Slowking used Psychic on Misdreavus for 26 damage
+Turn 5:
+Player B: Slowking used Psychic on Misdreavus for 31 damage
+Turn 6:
+Player A: Misdreavus used Pain Split on Slowking
+Player B: Slowking used Psychic on Misdreavus for -19 damage
+Turn 7:
+Player A: Switched out Misdreavus for Feraligatr
+Player B: Slowking used Surf on Feraligatr for 16 damage
+Player B: Slowking fainted
+Player B: Switched out Slowking for Hitmonlee
+Turn 8:
+Player A: Switched out Feraligatr for Scyther
+Player B: Hitmonlee used Curse on Hitmonlee
+Turn 9:
+Player A: Scyther used Agility on Scyther
+Player B: Hitmonlee used Body Slam on Scyther for 37 damage and they are now paralyzed
+Turn 10:
+Player A: Scyther used Baton Pass on Scyther
+Player A: Switched out Scyther for Misdreavus
+Player B: Hitmonlee used Body Slam but it had no effect on Misdreavus
+Turn 11:
+Player B: Switched out Hitmonlee for Steelix
+Player A: Misdreavus used Pain Split on Steelix
+Turn 12:
+Player A: Misdreavus used Mean Look on Steelix
+Player B: Steelix used Roar on Misdreavus
+Player A: Misdreavus got dragged out for Machamp by opponent's move
+Turn 13:
+Player A: Machamp used Cross Chop on Steelix but it missed
+Player B: Steelix used Explosion on Machamp for 100 damage
+Player B: Steelix fainted
+Player A: Machamp fainted
+Player A: Switched out Machamp for Scyther
+Player B: Switched out Steelix for Starmie
+Turn 14:
+Player A: Switched out Scyther for Feraligatr
+Player B: Starmie used Thunderbolt on Feraligatr for 39 damage (supereffective)
+Turn 15:
+Player A: Switched out Feraligatr for Dugtrio
+Player B: Starmie used Thunderbolt but it had no effect on Dugtrio
+Turn 16:
+Player A: Dugtrio used Substitute on Dugtrio
+Player B: Starmie used Surf
+Turn 17:
+Player A: Dugtrio used Hidden Power on Starmie for 31 damage (supereffective)
+Player B: Starmie used Surf on Dugtrio for 100 damage (supereffective)
+Player A: Dugtrio fainted
+Player A: Switched out Dugtrio for Misdreavus
+Turn 18:
+Player B: Switched out Starmie for Hitmonlee
+Player A: Misdreavus used Thunderbolt on Hitmonlee and crit for 43 damage
+Turn 19:
+Player B: Hitmonlee used Rest and healed for 43
+Player A: Misdreavus used Mean Look on Hitmonlee
+Turn 20:
+Player B: Hitmonlee used Curse on Hitmonlee
+Player A: Misdreavus used Perish Song on Misdreavus
+Turn 21:
+Player A: Misdreavus used Thunderbolt on Hitmonlee for 20 damage
+Player B: Hitmonlee used Curse on Hitmonlee
+Turn 22:
+Player A: Misdreavus used Thunderbolt on Hitmonlee for 22 damage
+Player B: Hitmonlee used Curse on Hitmonlee
+Turn 23:
+Player A: Switched out Misdreavus for Feraligatr
+Player B: Hitmonlee used Body Slam on Feraligatr for 43 damage
+Player B: Hitmonlee fainted
+Player B: Switched out Hitmonlee for Starmie
+Turn 24:
+Player B: Starmie used Thunderbolt on Feraligatr and crit for 2 damage (supereffective)
+Player A: Feraligatr fainted
+Player A: Switched out Feraligatr for Misdreavus
+Turn 25:
+Player B: Starmie used Surf on Misdreavus for -36 damage
+Player A: Misdreavus used Mean Look on Starmie
+Turn 26:
+Player B: Starmie used Surf on Misdreavus for 30 damage
+Player A: Misdreavus used Pain Split on Starmie
+Turn 27:
+Player B: Starmie used Surf on Misdreavus for 13 damage
+Player A: Misdreavus used Thunderbolt on Starmie for 65 damage (supereffective)
+Turn 28:
+Player A: Switched out Misdreavus for Scyther
+Player B: Starmie used Surf on Scyther for 36 damage
+Turn 29:
+Player B: Starmie used Thunderbolt on Scyther for 27 damage (supereffective)
+Player A: Scyther fainted
+Player A: Switched out Scyther for Pikachu
+Turn 30:
+Player B: Starmie used Surf on Pikachu for 69 damage
+Player A: Pikachu used Thunderbolt on Starmie for 4 damage (supereffective)
+Player B: Starmie fainted
+Player B: Switched out Starmie for Aerodactyl
+Turn 31:
+Player B: Aerodactyl used Earthquake on Pikachu for 31 damage (supereffective)
+Player A: Pikachu fainted
+Player A: Switched out Pikachu for Misdreavus
+Turn 32:
+Player B: Aerodactyl used Substitute on Aerodactyl
+Player A: Misdreavus used Pain Split on Aerodactyl
+Turn 33:
+Player B: Aerodactyl used Earthquake on Misdreavus for 15 damage
+Player A: Misdreavus used Thunderbolt
+Turn 34:
+Player B: Aerodactyl used Earthquake on Misdreavus for 4 damage
+Player A: Misdreavus fainted

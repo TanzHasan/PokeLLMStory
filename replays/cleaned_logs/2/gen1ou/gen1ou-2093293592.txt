@@ -2,8 +2,8 @@ Battle start:
 Player A sent out Jynx
 Player B sent out Starmie
 Turn 1:
-Player B: Starmie used Thunder Wave
-Player A: Jynx used Lovely Kiss
+Player B: Starmie used Thunder Wave on Jynx and they are now paralyzed
+Player A: Jynx used Lovely Kiss on Starmie and they are now asleep
 Turn 2:
 Player B: Switched out Starmie for Snorlax
 Player A: Switched out Jynx for Tauros
@@ -14,7 +14,7 @@ Turn 4:
 Player A: Chansey used Soft-Boiled and healed for 40
 Player B: Snorlax used Body Slam on Chansey for 41 damage
 Turn 5:
-Player A: Chansey used Thunder Wave
+Player A: Chansey used Thunder Wave on Snorlax and they are now paralyzed
 Player B: Snorlax used Body Slam on Chansey for 41 damage
 Turn 6:
 Player B: Switched out Snorlax for Exeggutor
@@ -42,10 +42,10 @@ Player A: Switched out Jynx for Starmie
 Player B: Tauros used Body Slam on Starmie for 35 damage
 Turn 14:
 Player B: Switched out Tauros for Chansey
-Player A: Starmie used Thunder Wave
+Player A: Starmie used Thunder Wave on Chansey and they are now paralyzed
 Turn 15:
 Player A: Starmie used Recover and healed for 35
-Player B: Chansey used Sing
+Player B: Chansey used Sing on Starmie and they are now asleep
 Turn 16:
 Player A: Switched out Starmie for Snorlax
 Player B: Switched out Chansey for Snorlax
@@ -88,7 +88,7 @@ Player B: Starmie fainted
 Player B: Switched out Starmie for Chansey
 Turn 27:
 Player A: Tauros used Body Slam on Chansey for 36 damage
-Player B: Chansey used Thunder Wave
+Player B: Chansey used Thunder Wave on Tauros and they are now paralyzed
 Turn 28:
 Player B: Switched out Chansey for Zapdos
 Player A: Tauros can't move because it is paralyzed
@@ -134,7 +134,7 @@ Player A: Tauros fainted
 Player A: Switched out Tauros for Exeggutor
 Turn 42:
 Player B: Tauros used Hyper Beam on Exeggutor for 53 damage
-Player A: Exeggutor used Sleep Powder
+Player A: Exeggutor used Sleep Powder on Tauros and they are now asleep
 Turn 43:
 Player B: Switched out Tauros for Exeggutor
 Player A: Exeggutor used Mega Drain on Exeggutor for 6 damage

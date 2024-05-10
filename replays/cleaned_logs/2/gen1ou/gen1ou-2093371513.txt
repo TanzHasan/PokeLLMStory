@@ -3,7 +3,7 @@ Player A sent out Jynx
 Player B sent out Chansey
 Turn 1:
 Player B: Switched out Chansey for Electrode
-Player A: Jynx used Lovely Kiss
+Player A: Jynx used Lovely Kiss on Electrode and they are now asleep
 Turn 2:
 Player B: Switched out Electrode for Jynx
 Player A: Jynx used Blizzard on Jynx for 21 damage
@@ -12,28 +12,28 @@ Player B: Jynx used Lovely Kiss on Jynx but it missed
 Player A: Jynx used Psychic on Jynx for 15 damage
 Turn 4:
 Player A: Jynx used Psychic on Jynx and crit for 32 damage
-Player B: Jynx used Lovely Kiss
+Player B: Jynx used Lovely Kiss on Jynx and they are now asleep
 Turn 5:
 Player B: Switched out Jynx for Snorlax
 Player A: Jynx can't move because it is asleep
 Turn 6:
 Player A: Switched out Jynx for Snorlax
-Player B: Snorlax used Amnesia on self
+Player B: Snorlax used Amnesia on Snorlax
 Turn 7:
 Player A: Switched out Snorlax for Starmie
 Player B: Snorlax used Blizzard on Starmie for 21 damage
 Turn 8:
-Player A: Starmie used Thunder Wave
+Player A: Starmie used Thunder Wave on Snorlax and they are now paralyzed
 Player B: Snorlax can't move because it is paralyzed
 Turn 9:
 Player A: Switched out Starmie for Snorlax
 Player B: Snorlax used Body Slam on Snorlax for 27 damage
 Turn 10:
-Player A: Snorlax used Reflect on self
-Player B: Snorlax used Blizzard on Snorlax for 37 damage
+Player A: Snorlax used Reflect on Snorlax
+Player B: Snorlax used Blizzard on Snorlax for 37 damage and they are now frozen
 Turn 11:
 Player A: Switched out Snorlax for Starmie
-Player B: Snorlax used Amnesia on self
+Player B: Snorlax used Amnesia on Snorlax
 Turn 12:
 Player A: Starmie used Thunderbolt on Snorlax for 6 damage
 Player B: Snorlax used Body Slam on Starmie for 38 damage
@@ -42,7 +42,7 @@ Player A: Starmie used Recover and healed for 50
 Player B: Snorlax can't move because it is paralyzed
 Turn 14:
 Player A: Starmie used Thunderbolt on Snorlax for 6 damage
-Player B: Snorlax used Body Slam on Starmie for 39 damage
+Player B: Snorlax used Body Slam on Starmie for 39 damage and they are now paralyzed
 Turn 15:
 Player A: Starmie used Recover and healed for 48
 Player B: Snorlax can't move because it is paralyzed

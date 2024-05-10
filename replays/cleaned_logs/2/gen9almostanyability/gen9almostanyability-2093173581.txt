@@ -2,53 +2,53 @@ Battle start:
 Player A sent out Maushold-Four
 Player B sent out Maushold
 Turn 1:
-Player B: Maushold used Baby-Doll Eyes on self
-Player A: Maushold-Four used Tickle on self
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
+Player A: Maushold-Four used Tickle on Maushold
 Turn 2:
-Player B: Maushold used Baby-Doll Eyes on self
-Player A: Maushold-Four used Encore on self
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
+Player A: Maushold-Four used Encore on Maushold
 Turn 3:
-Player B: Maushold used Baby-Doll Eyes on self
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Player A: Maushold-Four used Low Sweep on Maushold for 9 damage (supereffective)
 Turn 4:
-Player A: Maushold-Four used Tickle on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Tickle on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 5:
-Player A: Maushold-Four used Tickle on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Tickle on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 6:
-Player A: Maushold-Four used Encore on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Encore on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 7:
-Player A: Maushold-Four used Tickle on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Tickle on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 8:
-Player A: Maushold-Four used Tickle on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Tickle on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 9:
-Player A: Maushold-Four used Encore on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Encore on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 10:
-Player A: Maushold-Four used Tickle on self
-Player B: Maushold used Baby-Doll Eyes on self
+Player A: Maushold-Four used Tickle on Maushold
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Turn 11:
-Player B: Maushold used Baby-Doll Eyes on self
+Player B: Maushold used Baby-Doll Eyes on Maushold-Four
 Player A: Maushold-Four used Low Sweep on Maushold for 5 damage (supereffective)
 Turn 12:
 Player A: Maushold-Four used Low Sweep on Maushold for 9 damage (supereffective)
 Player B: Maushold used Super Fang on Maushold-Four for 50 damage
 Turn 13:
-Player A: Maushold-Four used Encore on self
+Player A: Maushold-Four used Encore on Maushold
 Player B: Maushold used Super Fang on Maushold-Four for 25 damage
 Turn 14:
-Player A: Maushold-Four used Low Sweep on Maushold for 10 damage (supereffective)
+Player A: Maushold-Four used Low Sweep on Maushold for 37 damage (supereffective)
 Player B: Maushold used Super Fang on Maushold-Four but it missed
 Turn 15:
 Player A: Maushold-Four used Low Sweep on Maushold for 10 damage (supereffective)
 Player B: Maushold used Super Fang on Maushold-Four for 12 damage
 Turn 16:
-Player A: Maushold-Four used Encore on self
+Player A: Maushold-Four used Encore on Maushold
 Player B: Maushold used Super Fang on Maushold-Four for 6 damage
 Turn 17:
-Player A: Maushold-Four used Low Sweep on Maushold for 3 damage (supereffective)
+Player A: Maushold-Four used Low Sweep on Maushold for 30 damage (supereffective)
 Player B: Maushold fainted

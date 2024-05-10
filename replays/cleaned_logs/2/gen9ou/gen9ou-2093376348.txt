@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Iron Treads
 Player B sent out Great Tusk
 Turn 1:
-Player A: Iron Treads used Stealth Rock on self
+Player A: Iron Treads used Stealth Rock on Great Tusk
 Player B: Great Tusk used Rapid Spin on Iron Treads for 6 damage
 Turn 2:
 Player B: Great Tusk used Earthquake on Iron Treads for 74 damage (supereffective)
-Player A: Iron Treads used Stealth Rock on self
+Player A: Iron Treads used Stealth Rock on Great Tusk
 Turn 3:
 Player A: Switched out Iron Treads for Gholdengo
 Player B: Great Tusk used Knock Off on Gholdengo for 42 damage (supereffective)

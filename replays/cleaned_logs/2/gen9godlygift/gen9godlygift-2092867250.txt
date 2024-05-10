@@ -7,7 +7,7 @@ Player B: Primarina fainted
 Player B: Switched out Primarina for Gholdengo
 Turn 2:
 Player A: Eternatus used Flamethrower on Gholdengo for 88 damage (supereffective)
-Player B: Gholdengo used Nasty Plot on self
+Player B: Gholdengo used Nasty Plot on Gholdengo
 Turn 3:
 Player A: Eternatus used Flamethrower on Gholdengo for 12 damage (supereffective)
 Player B: Gholdengo fainted
@@ -17,13 +17,13 @@ Player A: Switched out Eternatus for Volcarona
 Player B: Zacian-Crowned used Sacred Sword on Volcarona for 21 damage
 Turn 5:
 Player B: Zacian-Crowned used Behemoth Blade on Volcarona for 38 damage
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 6:
 Player A: Volcarona used Morning Sun and healed for 50
 Player B: Zacian-Crowned used Fire Fang on Volcarona for 32 damage
 Turn 7:
 Player B: Switched out Zacian-Crowned for Walking Wake
-Player A: Volcarona used Quiver Dance on self
+Player A: Volcarona used Quiver Dance on Volcarona
 Turn 8:
 Player A: Volcarona used Tera Blast on Walking Wake for 100 damage (supereffective)
 Player B: Walking Wake fainted

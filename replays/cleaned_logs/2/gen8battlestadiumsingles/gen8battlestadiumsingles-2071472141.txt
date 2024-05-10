@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Landorus-Therian
 Player B sent out Nihilego
 Turn 1:
-Player B: Nihilego used Stealth Rock on self
+Player B: Nihilego used Stealth Rock on Landorus-Therian
 Player A: Landorus-Therian used Rock Slide on Nihilego for 46 damage
 Turn 2:
 Player B: Nihilego used Power Gem on Landorus-Therian for 39 damage
@@ -11,17 +11,17 @@ Player B: Nihilego fainted
 Player B: Switched out Nihilego for Naganadel
 Turn 3:
 Player B: Naganadel used Max Wyrmwind on Landorus-Therian for 38 damage
-Player A: Landorus-Therian used Max Airstream on Naganadel for 39 damage
+Player A: Landorus-Therian used Max Airstream on Naganadel for 43 damage
 Turn 4:
 Player A: Landorus-Therian used Max Quake on Naganadel for 57 damage (supereffective)
 Player B: Naganadel fainted
 Player B: Switched out Naganadel for Rillaboom
 Turn 5:
 Player A: Switched out Landorus-Therian for Porygon2
-Player B: Rillaboom used Swords Dance on self
+Player B: Rillaboom used Swords Dance on Rillaboom
 Turn 6:
 Player B: Rillaboom used Knock Off on Porygon2 for 50 damage
-Player A: Porygon2 used Ice Beam on Rillaboom for 61 damage (supereffective)
+Player A: Porygon2 used Ice Beam on Rillaboom for 61 damage and they are now frozen (supereffective)
 Turn 7:
 Player B: Rillaboom can't move because it is frozen
 Player A: Porygon2 used Ice Beam on Rillaboom for 39 damage (supereffective)

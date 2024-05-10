@@ -5,19 +5,19 @@ Turn 1:
 Player B: Switched out Great Tusk for Kingambit
 Player A: Ninetales-Alola used Moonblast on Kingambit for 37 damage
 Turn 2:
-Player A: Ninetales-Alola used Aurora Veil on self
+Player A: Ninetales-Alola used Aurora Veil on Ninetales-Alola
 Player B: Kingambit used Iron Head on Ninetales-Alola for 90 damage (supereffective)
 Turn 3:
-Player A: Ninetales-Alola used Encore on self
+Player A: Ninetales-Alola used Encore on Kingambit
 Player B: Kingambit used Iron Head on Ninetales-Alola for 10 damage (supereffective)
 Player A: Ninetales-Alola fainted
 Player A: Switched out Ninetales-Alola for Haxorus
 Turn 4:
 Player B: Switched out Kingambit for Zapdos
-Player A: Haxorus used Dragon Dance on self
+Player A: Haxorus used Dragon Dance on Haxorus
 Turn 5:
-Player A: Haxorus used Dragon Dance on self
-Player B: Zapdos used Discharge on Haxorus for 13 damage
+Player A: Haxorus used Dragon Dance on Haxorus
+Player B: Zapdos used Discharge on Haxorus for 13 damage and they are now paralyzed
 Turn 6:
 Player A: Haxorus can't move because it is paralyzed
 Player B: Zapdos used Volt Switch on Haxorus for 12 damage
@@ -48,10 +48,10 @@ Player A: Indeedee fainted
 Player A: Switched out Indeedee for Gallade
 Turn 13:
 Player B: Switched out Kingambit for Zapdos
-Player A: Gallade used Agility on self
+Player A: Gallade used Agility on Gallade
 Turn 14:
 Player A: Gallade used Psycho Cut on Zapdos for 88 damage
-Player B: Zapdos used Discharge on Gallade for 33 damage
+Player B: Zapdos used Discharge on Gallade for 42 damage
 Turn 15:
 Player B: Switched out Zapdos for Kingambit
 Player A: Gallade used Sacred Sword on Kingambit for 10 damage (supereffective)

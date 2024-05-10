@@ -5,16 +5,16 @@ Turn 1:
 Player B: Switched out Varoom for Hippopotas
 Player A: Munchlax used Earthquake on Hippopotas for 34 damage
 Turn 2:
-Player B: Hippopotas used Yawn on self
+Player B: Hippopotas used Yawn on Munchlax
 Player A: Munchlax used Body Slam on Hippopotas for 44 damage
 Turn 3:
 Player B: Hippopotas used Slack Off and healed for 52
-Player A: Munchlax used Body Slam on Hippopotas for 43 damage
+Player A: Munchlax used Body Slam on Hippopotas for 43 damage and they are now paralyzed
 Turn 4:
 Player A: Switched out Munchlax for Vullaby
 Player B: Hippopotas used Body Press on Vullaby for 21 damage
 Turn 5:
-Player A: Vullaby used Nasty Plot on self
+Player A: Vullaby used Nasty Plot on Vullaby
 Player B: Hippopotas used Body Press on Vullaby for 44 damage
 Turn 6:
 Player A: Vullaby used Dark Pulse on Hippopotas for 31 damage
@@ -22,7 +22,7 @@ Player B: Hippopotas fainted
 Player B: Switched out Hippopotas for Mienfoo
 Turn 7:
 Player B: Mienfoo used Fake Out on Vullaby for 30 damage
-Player A: Vullaby can't move because flinch
+Player A: Vullaby can't move because it is flinch
 Player A: Vullaby fainted
 Player A: Switched out Vullaby for Snubbull
 Turn 8:
@@ -37,14 +37,14 @@ Turn 10:
 Player B: Voltorb-Hisui used Thunderbolt on Snubbull for 41 damage
 Player A: Snubbull used Ice Punch on Voltorb-Hisui for 70 damage (supereffective)
 Turn 11:
-Player B: Voltorb-Hisui used Protect on self
-Player A: Snubbull used Ice Punch on self
+Player B: Voltorb-Hisui used Protect on Voltorb-Hisui
+Player A: Snubbull used Ice Punch on Voltorb-Hisui
 Turn 12:
 Player B: Switched out Voltorb-Hisui for Gimmighoul
 Player A: Snubbull used Ice Punch on Gimmighoul for 29 damage
 Turn 13:
 Player A: Snubbull used Earthquake on Gimmighoul for 37 damage
-Player B: Gimmighoul used Reflect on self
+Player B: Gimmighoul used Reflect on Gimmighoul
 Turn 14:
 Player A: Snubbull used Earthquake on Gimmighoul for 17 damage
 Player B: Gimmighoul used Shadow Ball on Snubbull for 40 damage
@@ -84,14 +84,14 @@ Turn 23:
 Player B: Switched out Mienfoo for Varoom
 Player A: Mienfoo used Drain Punch on Varoom for 28 damage
 Turn 24:
-Player A: Mienfoo used Bulk Up on self
+Player A: Mienfoo used Bulk Up on Mienfoo
 Player B: Varoom used Tera Blast on Mienfoo for 38 damage (supereffective)
 Turn 25:
-Player A: Mienfoo used Bulk Up on self
+Player A: Mienfoo used Bulk Up on Mienfoo
 Player B: Varoom used Toxic but it had no effect on Mienfoo
 Turn 26:
-Player A: Mienfoo used Agility on self
-Player B: Varoom used Haze on self
+Player A: Mienfoo used Agility on Mienfoo
+Player B: Varoom used Haze on Varoom
 Turn 27:
 Player A: Mienfoo used Knock Off on Varoom for 24 damage
 Player B: Varoom used Tera Blast on Mienfoo for 14 damage

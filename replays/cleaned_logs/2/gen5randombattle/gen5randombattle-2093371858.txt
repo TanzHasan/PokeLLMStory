@@ -6,33 +6,33 @@ Player B: Switched out Durant for Dragonair
 Player A: Switched out Jellicent for Honchkrow
 Turn 2:
 Player A: Switched out Honchkrow for Ferrothorn
-Player B: Dragonair used Dragon Dance on self
+Player B: Dragonair used Dragon Dance on Dragonair
 Turn 3:
 Player B: Switched out Dragonair for Durant
-Player A: Ferrothorn used Stealth Rock on self
+Player A: Ferrothorn used Stealth Rock on Durant
 Turn 4:
 Player B: Durant used Superpower on Ferrothorn for 235 damage (supereffective)
 Player A: Ferrothorn fainted
 Player A: Switched out Ferrothorn for Jellicent
 Turn 5:
 Player B: Switched out Durant for Dragonair
-Player A: Jellicent used Toxic
+Player A: Jellicent used Toxic on Dragonair and they are now badly poisoned
 Turn 6:
-Player B: Dragonair used Dragon Dance on self
+Player B: Dragonair used Dragon Dance on Dragonair
 Player A: Jellicent used Scald on Dragonair for 74 damage
 Turn 7:
-Player B: Dragonair used Dragon Dance on self
+Player B: Dragonair used Dragon Dance on Dragonair
 Player A: Jellicent used Shadow Ball on Dragonair for 84 damage
 Turn 8:
 Player B: Dragonair used Rest and healed for 158
 Turn 9:
 Player A: Switched out Jellicent for Articuno
 Player B: Dragonair can't move because it is asleep
-Player B: Dragonair used Sleep Talk on self
-Player B: Dragonair used Dragon Dance on self
+Player B: Dragonair used Sleep Talk on Dragonair
+Player B: Dragonair used Dragon Dance on Dragonair
 Turn 10:
 Player B: Dragonair can't move because it is asleep
-Player B: Dragonair used Sleep Talk on self
+Player B: Dragonair used Sleep Talk on Dragonair
 Player A: Articuno used Ice Beam on Dragonair for 156 damage (supereffective)
 Turn 11:
 Player B: Dragonair used Outrage on Articuno for 271 damage

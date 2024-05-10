@@ -2,8 +2,8 @@ Battle start:
 Player A sent out Tentacruel
 Player B sent out Yanmega
 Turn 1:
-Player B: Yanmega used Protect on self
-Player A: Tentacruel used Toxic Spikes on self
+Player B: Yanmega used Protect on Yanmega
+Player A: Tentacruel used Toxic Spikes on Yanmega
 Turn 2:
 Player B: Switched out Yanmega for Magnezone
 Player A: Tentacruel used Surf on Magnezone for 32 damage
@@ -21,14 +21,14 @@ Player B: Gliscor fainted
 Player B: Switched out Gliscor for Snorlax
 Turn 6:
 Player A: Switched out Jirachi for Zangoose
-Player B: Snorlax used Body Slam on Zangoose for 57 damage
+Player B: Snorlax used Body Slam on Zangoose for 57 damage and they are now paralyzed
 Turn 7:
 Player B: Snorlax used Body Slam on Zangoose for 43 damage
 Player A: Zangoose fainted
 Player A: Switched out Zangoose for Jirachi
 Turn 8:
 Player A: Jirachi used Iron Head on Snorlax for 45 damage
-Player B: Snorlax can't move because flinch
+Player B: Snorlax can't move because it is flinch
 Turn 9:
 Player A: Switched out Jirachi for Wobbuffet
 Player B: Snorlax used Rest and healed for 45
@@ -39,13 +39,13 @@ Player A: Switched out Wobbuffet for Tentacruel
 Player B: Yanmega used Bug Buzz on Tentacruel for 20 damage
 Turn 12:
 Player B: Yanmega used Ancient Power on Tentacruel for 11 damage
-Player A: Tentacruel used Surf on Yanmega for 43 damage
+Player A: Tentacruel used Surf on Yanmega for 62 damage
 Turn 13:
 Player B: Switched out Yanmega for Magnezone
-Player A: Tentacruel used Toxic Spikes on self
+Player A: Tentacruel used Toxic Spikes on Magnezone
 Turn 14:
 Player A: Switched out Tentacruel for Jirachi
-Player B: Magnezone used Thunderbolt on Jirachi for 77 damage
+Player B: Magnezone used Thunderbolt on Jirachi for 77 damage and they are now paralyzed
 Turn 15:
 Player B: Magnezone used Thunderbolt on Jirachi for 23 damage
 Player A: Jirachi fainted
@@ -57,17 +57,17 @@ Turn 17:
 Player A: Switched out Typhlosion for Tentacruel
 Player B: Tentacruel used Waterfall on Tentacruel for 5 damage
 Turn 18:
-Player B: Tentacruel used Knock Off on Tentacruel for 0 damage
-Player A: Tentacruel used Surf on Tentacruel for 0 damage
+Player B: Tentacruel used Knock Off on Tentacruel
+Player A: Tentacruel used Surf on Tentacruel
 Turn 19:
-Player B: Tentacruel used Swords Dance on self
-Player A: Tentacruel used Toxic Spikes on self
+Player B: Tentacruel used Swords Dance on Tentacruel
+Player A: Tentacruel used Toxic Spikes on Tentacruel
 Turn 20:
 Player B: Tentacruel used Knock Off on Tentacruel for 12 damage
-Player A: Tentacruel used Toxic Spikes on self
+Player A: Tentacruel used Toxic Spikes on Tentacruel
 Turn 21:
 Player B: Tentacruel used Waterfall on Tentacruel for 36 damage
-Player A: Tentacruel can't move because flinch
+Player A: Tentacruel can't move because it is flinch
 Turn 22:
 Player B: Tentacruel used Poison Jab on Tentacruel for 16 damage
 Player A: Tentacruel fainted
@@ -78,12 +78,12 @@ Turn 24:
 Player B: Tentacruel used Poison Jab and healed for 25
 Turn 25:
 Player B: Switched out Tentacruel for Snorlax
-Player A: Wobbuffet used Destiny Bond on self
+Player A: Wobbuffet used Destiny Bond on Wobbuffet
 Turn 26:
 Player B: Snorlax can't move because it is asleep
 Turn 27:
 Player B: Switched out Snorlax for Magnezone
-Player A: Wobbuffet used Destiny Bond on self
+Player A: Wobbuffet used Destiny Bond on Wobbuffet
 Player A: Wobbuffet fainted
 Player A: Switched out Wobbuffet for Typhlosion
 Turn 28:

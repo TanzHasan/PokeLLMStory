@@ -3,10 +3,10 @@ Player A sent out Deoxys-Speed
 Player B sent out Pincurchin
 Turn 1:
 Player A: Deoxys-Speed used Psycho Boost on Pincurchin for 90 damage
-Player B: Pincurchin used Thunder Wave
+Player B: Pincurchin used Thunder Wave on Deoxys-Speed and they are now paralyzed
 Turn 2:
 Player B: Switched out Pincurchin for Iron Jugulis
-Player A: Deoxys-Speed used Fire Punch on Iron Jugulis for 28 damage
+Player A: Deoxys-Speed used Fire Punch on Iron Jugulis for 28 damage and they are now burned
 Turn 3:
 Player A: Switched out Deoxys-Speed for Tyranitar
 Player B: Iron Jugulis used Meteor Beam on Tyranitar for 28 damage
@@ -14,7 +14,7 @@ Turn 4:
 Player B: Switched out Iron Jugulis for Iron Leaves
 Player A: Switched out Tyranitar for Deoxys-Speed
 Turn 5:
-Player B: Iron Leaves used Leaf Blade on Deoxys-Speed for 81 damage
+Player B: Iron Leaves used Leaf Blade on Deoxys-Speed for 100 damage
 Player A: Deoxys-Speed fainted
 Player A: Switched out Deoxys-Speed for Latios
 Turn 6:
@@ -44,7 +44,7 @@ Player B: Iron Moth used Energy Ball on Tyranitar for 50 damage (supereffective)
 Player A: Tyranitar fainted
 Player A: Switched out Tyranitar for Excadrill
 Turn 13:
-Player A: Excadrill used Rock Slide on Iron Moth for 91 damage (supereffective)
+Player A: Excadrill used Rock Slide on Iron Moth for 100 damage (supereffective)
 Player B: Iron Moth fainted
 Player B: Switched out Iron Moth for Hawlucha
 Turn 14:
@@ -52,14 +52,14 @@ Player B: Hawlucha used High Jump Kick on Excadrill for 89 damage (supereffectiv
 Player A: Excadrill fainted
 Player A: Switched out Excadrill for Mandibuzz
 Turn 15:
-Player B: Hawlucha used Taunt on self
-Player A: Mandibuzz can't move because move: Taunt
+Player B: Hawlucha used Taunt on Mandibuzz
+Player A: Mandibuzz can't move because it is move: Taunt
 Turn 16:
 Player B: Hawlucha used High Jump Kick on Mandibuzz for 32 damage
-Player A: Mandibuzz used Foul Play on Hawlucha for 22 damage
+Player A: Mandibuzz used Foul Play on Hawlucha for 50 damage
 Turn 17:
 Player B: Hawlucha used High Jump Kick on Mandibuzz for 33 damage
-Player A: Mandibuzz used Foul Play on Hawlucha for 19 damage
+Player A: Mandibuzz used Foul Play on Hawlucha for 42 damage
 Turn 18:
 Player B: Hawlucha used High Jump Kick on Mandibuzz for 25 damage
 Player A: Mandibuzz fainted

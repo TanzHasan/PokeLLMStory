@@ -3,14 +3,14 @@ Player A sent out Rotom-Frost
 Player B sent out Giratina
 Turn 1:
 Player B: Switched out Giratina for Heatran
-Player A: Rotom-Frost used Will-O-Wisp on self
+Player A: Rotom-Frost used Will-O-Wisp on Heatran
 Turn 2:
 Player A: Rotom-Frost used Volt Switch on Heatran for 79 damage
 Player A: Switched out Rotom-Frost for Carbink
-Player B: Heatran used Stealth Rock on self
+Player B: Heatran used Stealth Rock on Carbink
 Turn 3:
 Player B: Heatran used Flash Cannon on Carbink for 220 damage (supereffective)
-Player A: Carbink used Stealth Rock on self
+Player A: Carbink used Stealth Rock on Heatran
 Turn 4:
 Player B: Heatran used Flash Cannon on Carbink for 16 damage (supereffective)
 Player A: Carbink fainted
@@ -31,7 +31,7 @@ Player B: Toucannon used Boomburst on Rotom-Frost for 55 damage
 Player A: Rotom-Frost fainted
 Player A: Switched out Rotom-Frost for Frosmoth
 Turn 9:
-Player A: Frosmoth used Quiver Dance on self
+Player A: Frosmoth used Quiver Dance on Frosmoth
 Player B: Toucannon used Beak Blast on Frosmoth for 190 damage
 Turn 10:
 Player A: Frosmoth used Tera Blast on Toucannon for 284 damage (supereffective)
@@ -47,7 +47,7 @@ Player B: Hitmonlee used Close Combat on Frosmoth for 62 damage
 Player A: Frosmoth fainted
 Player A: Switched out Frosmoth for Flapple
 Turn 13:
-Player B: Hitmonlee used Swords Dance on self
+Player B: Hitmonlee used Swords Dance on Hitmonlee
 Player A: Flapple used Grav Apple on Hitmonlee for 131 damage
 Player B: Hitmonlee fainted
 Player B: Switched out Hitmonlee for Empoleon

@@ -12,13 +12,13 @@ Player A: Switched out Hitmontop for Gastrodon-East
 Player B: Talonflame used Air Slash on Gastrodon-East for 18 damage
 Turn 3:
 Player B: Switched out Talonflame for Whimsicott
-Player A: Gastrodon-East used Stealth Rock on self
+Player A: Gastrodon-East used Stealth Rock on Whimsicott
 Turn 4:
 Player A: Switched out Gastrodon-East for Arcanine
 Player B: Whimsicott used Moonblast on Arcanine for 19 damage
 Turn 5:
 Player B: Whimsicott used Stun Spore on Arcanine but it missed
-Player A: Arcanine used Will-O-Wisp
+Player A: Arcanine used Will-O-Wisp on Whimsicott and they are now burned
 Turn 6:
 Player A: Switched out Arcanine for Thundurus
 Player B: Whimsicott used Stun Spore on Thundurus but it missed
@@ -29,10 +29,10 @@ Player B: Whimsicott fainted
 Player B: Switched out Whimsicott for Talonflame
 Turn 8:
 Player A: Switched out Thundurus for Gastrodon-East
-Player B: Talonflame used Defog on self
+Player B: Talonflame used Defog on Gastrodon-East
 Turn 9:
 Player B: Switched out Talonflame for Shaymin
-Player A: Gastrodon-East used Stealth Rock on self
+Player A: Gastrodon-East used Stealth Rock on Shaymin
 Turn 10:
 Player A: Switched out Gastrodon-East for Arcanine
 Player B: Shaymin used Seed Flare on Arcanine for 27 damage
@@ -52,11 +52,11 @@ Player B: Talonflame used Air Slash on Thundurus for 7 damage
 Player A: Thundurus fainted
 Player A: Switched out Thundurus for Drednaw
 Turn 15:
-Player B: Talonflame used Defog on self
-Player A: Drednaw used Shell Smash on self
+Player B: Talonflame used Defog on Drednaw
+Player A: Drednaw used Shell Smash on Drednaw
 Turn 16:
 Player B: Talonflame used Air Slash on Drednaw for 31 damage
-Player A: Drednaw used Shell Smash on self
+Player A: Drednaw used Shell Smash on Drednaw
 Turn 17:
 Player B: Talonflame used Air Slash on Drednaw for 44 damage
 Player A: Drednaw used Liquidation on Talonflame for 100 damage (supereffective)
@@ -74,16 +74,16 @@ Player B: Mew fainted
 Player A: Switched out Mienshao for Gastrodon-East
 Player B: Switched out Mew for Minior
 Turn 20:
-Player B: Minior used Shell Smash on self
+Player B: Minior used Shell Smash on Minior
 Player A: Gastrodon-East used Clear Smog on Minior for 13 damage
 Turn 21:
-Player B: Minior used Shell Smash on self
+Player B: Minior used Shell Smash on Minior
 Player A: Gastrodon-East used Clear Smog on Minior for 22 damage
 Turn 22:
 Player B: Minior used Acrobatics on Gastrodon-East for 38 damage
 Player A: Gastrodon-East used Clear Smog on Minior for 15 damage
 Turn 23:
-Player B: Minior used Shell Smash on self
+Player B: Minior used Shell Smash on Minior
 Player A: Gastrodon-East used Clear Smog on Minior for 30 damage
 Turn 24:
 Player B: Minior used Acrobatics on Gastrodon-East for 44 damage
@@ -91,7 +91,7 @@ Player A: Gastrodon-East fainted
 Player A: Switched out Gastrodon-East for Hitmontop
 Turn 25:
 Player A: Hitmontop used Fake Out on Minior for 16 damage
-Player B: Minior can't move because flinch
+Player B: Minior can't move because it is flinch
 Turn 26:
 Player A: Hitmontop used Sucker Punch on Minior for 4 damage
 Player B: Minior fainted

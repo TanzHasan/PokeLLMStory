@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Eelektross
 Player B sent out Ogerpon
 Turn 1:
-Player B: Ogerpon used Swords Dance on self
-Player A: Eelektross used Coil on self
+Player B: Ogerpon used Swords Dance on Ogerpon
+Player A: Eelektross used Coil on Eelektross
 Turn 2:
 Player B: Ogerpon used Ivy Cudgel on Eelektross for 83 damage
-Player A: Eelektross used Knock Off on Ogerpon for 67 damage
+Player A: Eelektross used Knock Off on Ogerpon for 76 damage
 Turn 3:
 Player B: Ogerpon used Ivy Cudgel on Eelektross for 17 damage
 Player A: Eelektross fainted
@@ -17,18 +17,19 @@ Player B: Ogerpon fainted
 Player B: Switched out Ogerpon for Rotom-Wash
 Turn 5:
 Player B: Rotom-Wash used Hydro Pump on Donphan for 99 damage (supereffective)
-Player A: Donphan used Stealth Rock on self
+Player A: Donphan used Stealth Rock on Rotom-Wash
 Turn 6:
 Player B: Rotom-Wash used Hydro Pump on Donphan but it missed
 Player A: Donphan used Knock Off on Rotom-Wash for 29 damage
 Turn 7:
 Player A: Switched out Donphan for Tatsugiri-Droopy
-Player B: Rotom-Wash used Hydro Pump on self
+Player B: Rotom-Wash used Hydro Pump on Tatsugiri-Droopy
 Turn 8:
-Player B: Rotom-Wash used Volt Switch on self
+Player A: Tatsugiri-Droopy used Substitute on Tatsugiri-Droopy
+Player B: Rotom-Wash used Volt Switch on Tatsugiri-Droopy
 Player B: Switched out Rotom-Wash for Latios
 Turn 9:
-Player B: Latios used Luster Purge on Tatsugiri-Droopy for 76 damage
+Player B: Latios used Luster Purge on Tatsugiri-Droopy for 100 damage
 Player A: Tatsugiri-Droopy fainted
 Player A: Switched out Tatsugiri-Droopy for Donphan
 Turn 10:
@@ -46,7 +47,7 @@ Player A: Arbok used Scale Shot on Latios for 12 damage (supereffective)
 Player B: Latios fainted
 Player B: Switched out Latios for Tornadus-Therian
 Turn 13:
-Player A: Arbok used Poison Jab on Tornadus-Therian for 32 damage
+Player A: Arbok used Poison Jab on Tornadus-Therian for 32 damage and they are now poisoned
 Player B: Tornadus-Therian used Knock Off on Arbok for 4 damage
 Player A: Arbok fainted
 Player A: Switched out Arbok for Arcanine-Hisui

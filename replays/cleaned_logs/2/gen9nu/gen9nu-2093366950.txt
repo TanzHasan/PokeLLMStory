@@ -2,14 +2,14 @@ Battle start:
 Player A sent out Ninetales
 Player B sent out Overqwil
 Turn 1:
-Player A: Ninetales used Will-O-Wisp
-Player B: Overqwil used Barb Barrage on Ninetales for 28 damage
+Player A: Ninetales used Will-O-Wisp on Overqwil and they are now burned
+Player B: Overqwil used Barb Barrage on Ninetales for 28 damage and they are now poisoned
 Turn 2:
 Player A: Switched out Ninetales for Venusaur
 Player B: Switched out Overqwil for Slowbro-Galar
 Turn 3:
-Player A: Venusaur used Growth on self
-Player B: Slowbro-Galar used Trick Room on self
+Player A: Venusaur used Growth on Venusaur
+Player B: Slowbro-Galar used Trick Room on Slowbro-Galar
 Turn 4:
 Player B: Slowbro-Galar used Shell Side Arm on Venusaur and crit for 65 damage
 Player A: Venusaur used Earth Power on Slowbro-Galar for 100 damage (supereffective)
@@ -26,18 +26,18 @@ Turn 7:
 Player B: Switched out Dragalge for Quagsire
 Turn 8:
 Player A: Brute Bonnet used Crunch on Quagsire for 47 damage
-Player B: Quagsire used Toxic Spikes on self
+Player B: Quagsire used Toxic Spikes on Brute Bonnet
 Turn 9:
 Player A: Switched out Brute Bonnet for Ninetales
-Player B: Quagsire used Toxic Spikes on self
+Player B: Quagsire used Toxic Spikes on Ninetales
 Turn 10:
-Player A: Ninetales used Encore on self
+Player A: Ninetales used Encore on Quagsire
 Turn 11:
 Player A: Switched out Ninetales for Typhlosion-Hisui
 Player B: Switched out Quagsire for Lapras
 Turn 12:
 Player A: Typhlosion-Hisui used Eruption on Lapras for 67 damage
-Player B: Lapras used Rain Dance on self
+Player B: Lapras used Rain Dance on Lapras
 Turn 13:
 Player A: Typhlosion-Hisui used Focus Blast on Lapras but it missed
 Player B: Lapras used Rest and healed for 67
@@ -48,7 +48,7 @@ Player A: Typhlosion-Hisui fainted
 Player A: Switched out Typhlosion-Hisui for Typhlosion-Hisui
 Turn 15:
 Player A: Typhlosion-Hisui used Focus Blast on Lapras for 69 damage (supereffective)
-Player B: Lapras used Rain Dance on self
+Player B: Lapras used Rain Dance on Lapras
 Turn 16:
 Player B: Switched out Lapras for Overqwil
 Player A: Typhlosion-Hisui used Eruption on Overqwil for 61 damage
@@ -79,7 +79,7 @@ Player B: Overqwil fainted
 Player B: Switched out Overqwil for Kingdra
 Turn 24:
 Player A: Infernape used Close Combat on Kingdra for 59 damage
-Player B: Kingdra used Agility on self
+Player B: Kingdra used Agility on Kingdra
 Turn 25:
 Player A: Switched out Infernape for Espeon
 Player B: Kingdra used Surf on Espeon and crit for 34 damage

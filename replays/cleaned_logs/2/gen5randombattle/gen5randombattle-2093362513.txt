@@ -8,7 +8,7 @@ Player B: Tyranitar fainted
 Player B: Switched out Tyranitar for Reuniclus
 Turn 2:
 Player A: Switched out Conkeldurr for Stoutland
-Player B: Reuniclus used Calm Mind on self
+Player B: Reuniclus used Calm Mind on Reuniclus
 Turn 3:
 Player A: Stoutland used Crunch on Reuniclus for 194 damage (supereffective)
 Player B: Reuniclus used Psychic on Stoutland for 232 damage
@@ -21,7 +21,7 @@ Player B: Dusclops fainted
 Player B: Switched out Dusclops for Tyranitar
 Turn 6:
 Player A: Switched out Stoutland for Conkeldurr
-Player B: Tyranitar used Dragon Dance on self
+Player B: Tyranitar used Dragon Dance on Tyranitar
 Turn 7:
 Player A: Conkeldurr used Mach Punch on Tyranitar for 291 damage (supereffective)
 Player B: Tyranitar fainted
@@ -34,11 +34,11 @@ Turn 9:
 Player A: Switched out Conkeldurr for Gliscor
 Player B: Reuniclus used Recover and healed for 158
 Turn 10:
-Player A: Gliscor used Toxic
-Player B: Reuniclus used Calm Mind on self
+Player A: Gliscor used Toxic on Reuniclus and they are now badly poisoned
+Player B: Reuniclus used Calm Mind on Reuniclus
 Turn 11:
 Player A: Gliscor used Facade on Reuniclus and crit for 190 damage
-Player B: Reuniclus used Calm Mind on self
+Player B: Reuniclus used Calm Mind on Reuniclus
 Turn 12:
 Player A: Gliscor used Facade on Reuniclus for 89 damage
 Player B: Reuniclus fainted
@@ -47,5 +47,5 @@ Turn 13:
 Player A: Switched out Gliscor for Virizion
 Player B: Whiscash used Stone Edge on Virizion for 53 damage
 Turn 14:
-Player A: Virizion used Leaf Blade on Whiscash for 307 damage (supereffective)
+Player A: Virizion used Leaf Blade on Whiscash for 341 damage (supereffective)
 Player B: Whiscash fainted

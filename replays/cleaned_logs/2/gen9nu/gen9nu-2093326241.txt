@@ -2,7 +2,7 @@ Battle start:
 Player A sent out Mew
 Player B sent out Krookodile
 Turn 1:
-Player A: Mew used Stealth Rock on self
+Player A: Mew used Stealth Rock on Krookodile
 Player B: Krookodile used Knock Off on Mew for 86 damage (supereffective)
 Turn 2:
 Player A: Mew used Earth Power on Krookodile for 33 damage
@@ -11,7 +11,7 @@ Player A: Mew fainted
 Player A: Switched out Mew for Cloyster
 Turn 3:
 Player B: Krookodile used Knock Off on Cloyster for 37 damage
-Player A: Cloyster used Shell Smash on self
+Player A: Cloyster used Shell Smash on Cloyster
 Turn 4:
 Player B: Switched out Krookodile for Rotom-Heat
 Player A: Cloyster used Icicle Spear on Rotom-Heat and crit for 10 damage
@@ -21,17 +21,17 @@ Player B: Rotom-Heat used Overheat on Cloyster for 63 damage
 Player A: Cloyster fainted
 Player A: Switched out Cloyster for Thundurus
 Turn 6:
-Player A: Thundurus used Nasty Plot on self
-Player B: Rotom-Heat used Pain Split on self
+Player A: Thundurus used Nasty Plot on Thundurus
+Player B: Rotom-Heat used Pain Split on Thundurus
 Turn 7:
 Player B: Switched out Rotom-Heat for Mew
-Player A: Thundurus used Nasty Plot on self
+Player A: Thundurus used Nasty Plot on Thundurus
 Turn 8:
 Player A: Thundurus used Thunderbolt on Mew for 100 damage
 Player B: Mew fainted
 Player B: Switched out Mew for Munkidori
 Turn 9:
-Player B: Munkidori used U-turn on Thundurus for 33 damage
+Player B: Munkidori used U-turn on Thundurus for 33 damage and they are now badly poisoned
 Player B: Switched out Munkidori for Rotom-Heat
 Player A: Thundurus used Thunderbolt on Rotom-Heat for 49 damage
 Player B: Munkidori fainted
@@ -60,7 +60,7 @@ Player B: Cramorant fainted
 Player B: Switched out Cramorant for Munkidori
 Turn 16:
 Player A: Lucario used Extreme Speed on Munkidori for 75 damage
-Player B: Munkidori used Psychic on Lucario for 6 damage
+Player B: Munkidori used Psychic on Lucario for 31 damage
 Player A: Lucario fainted
 Player A: Switched out Lucario for Lycanroc-Dusk
 Turn 17:

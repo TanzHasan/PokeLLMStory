@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Exeggutor
 Player B sent out Alakazam
 Turn 1:
-Player B: Alakazam used Thunder Wave
+Player B: Alakazam used Thunder Wave on Exeggutor and they are now paralyzed
 Player A: Exeggutor used Sleep Powder on Alakazam but it missed
 Turn 2:
 Player B: Alakazam used Seismic Toss on Exeggutor for 25 damage
-Player A: Exeggutor used Sleep Powder
+Player A: Exeggutor used Sleep Powder on Alakazam and they are now asleep
 Turn 3:
 Player B: Switched out Alakazam for Snorlax
 Player A: Switched out Exeggutor for Snorlax
@@ -14,7 +14,7 @@ Turn 4:
 Player B: Snorlax used Body Slam on Snorlax for 24 damage
 Player A: Snorlax used Body Slam on Snorlax for 25 damage
 Turn 5:
-Player B: Snorlax used Reflect on self
+Player B: Snorlax used Reflect on Snorlax
 Player A: Snorlax used Self-Destruct on Snorlax for 37 damage
 Player A: Snorlax fainted
 Player A: Switched out Snorlax for Cloyster
@@ -51,7 +51,7 @@ Player B: Starmie fainted
 Player B: Switched out Starmie for Zapdos
 Turn 16:
 Player A: Switched out Gengar for Chansey
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Chansey and they are now paralyzed
 Turn 17:
 Player B: Zapdos used Drill Peck on Chansey for 32 damage
 Player A: Chansey can't move because it is paralyzed
@@ -98,7 +98,7 @@ Player B: Switched out Zapdos for Snorlax
 Player A: Tauros used Blizzard on Snorlax and crit for 36 damage
 Turn 30:
 Player A: Tauros used Blizzard on Snorlax and crit for 33 damage
-Player B: Snorlax used Reflect on self
+Player B: Snorlax used Reflect on Snorlax
 Turn 31:
 Player A: Tauros used Body Slam on Snorlax for 11 damage
 Player B: Snorlax fainted

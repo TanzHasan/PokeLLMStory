@@ -21,6 +21,7 @@ Player B: Blacephalon fainted
 Player B: Switched out Blacephalon for Azumarill
 Turn 6:
 Player A: Weavile used Triple Axel and healed for 25
+Player B: Azumarill used Belly Drum on Azumarill
 Turn 7:
 Player A: Switched out Weavile for Zapdos
 Player B: Azumarill used Knock Off on Zapdos for 100 damage
@@ -30,24 +31,24 @@ Turn 8:
 Player B: Switched out Azumarill for Excadrill
 Player A: Scizor used Bullet Punch on Excadrill for 18 damage
 Turn 9:
-Player B: Excadrill used Stealth Rock on self
+Player B: Excadrill used Stealth Rock on Scizor
 Player A: Scizor used U-turn on Excadrill for 22 damage
 Player A: Switched out Scizor for Landorus-Therian
 Turn 10:
 Player B: Switched out Excadrill for Ribombee
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Ribombee
 Turn 11:
-Player B: Ribombee used Sticky Web on self
-Player A: Landorus-Therian used Toxic
+Player B: Ribombee used Sticky Web on Landorus-Therian
+Player A: Landorus-Therian used Toxic on Ribombee and they are now badly poisoned
 Turn 12:
 Player B: Ribombee used Moonblast on Landorus-Therian for 32 damage
 Player A: Landorus-Therian used Earthquake on Ribombee for 52 damage
 Turn 13:
 Player B: Ribombee used Moonblast on Landorus-Therian for 24 damage
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Ribombee
 Turn 14:
 Player B: Ribombee used Moonblast on Landorus-Therian for 25 damage
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Ribombee
 Player B: Ribombee fainted
 Player B: Switched out Ribombee for Azumarill
 Turn 15:
@@ -55,7 +56,7 @@ Player A: Switched out Landorus-Therian for Toxapex
 Player B: Azumarill used Aqua Jet on Toxapex for -24 damage
 Turn 16:
 Player B: Azumarill used Knock Off on Toxapex for 18 damage
-Player A: Toxapex used Scald on Azumarill for 9 damage
+Player A: Toxapex used Scald on Azumarill for 59 damage
 Turn 17:
 Player B: Azumarill used Knock Off on Toxapex for 18 damage
 Player A: Toxapex used Recover and healed for 50
@@ -64,22 +65,22 @@ Player B: Switched out Azumarill for Excadrill
 Player A: Toxapex used Scald on Excadrill for 38 damage (supereffective)
 Turn 19:
 Player A: Switched out Toxapex for Landorus-Therian
-Player B: Excadrill used Stealth Rock on self
+Player B: Excadrill used Stealth Rock on Landorus-Therian
 Turn 20:
 Player B: Excadrill used Rock Tomb on Landorus-Therian for 2 damage
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Excadrill
 Turn 21:
-Player B: Excadrill used Stealth Rock on self
-Player A: Landorus-Therian used Defog on self
+Player B: Excadrill used Stealth Rock on Landorus-Therian
+Player A: Landorus-Therian used Defog on Excadrill
 Turn 22:
-Player B: Excadrill used Stealth Rock on self
-Player A: Landorus-Therian used Defog on self
+Player B: Excadrill used Stealth Rock on Landorus-Therian
+Player A: Landorus-Therian used Defog on Excadrill
 Turn 23:
 Player B: Excadrill used Rock Tomb on Landorus-Therian for -3 damage
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Excadrill
 Turn 24:
 Player B: Excadrill used Rock Tomb on Landorus-Therian for 8 damage
-Player A: Landorus-Therian used Defog on self
+Player A: Landorus-Therian used Defog on Excadrill
 Turn 25:
 Player B: Excadrill used Rock Tomb on Landorus-Therian for 8 damage
 Player A: Landorus-Therian used U-turn on Excadrill for 15 damage
@@ -95,10 +96,10 @@ Player A: Weavile fainted
 Player A: Switched out Weavile for Slowking-Galar
 Turn 28:
 Player B: Switched out Kommo-o for Azumarill
-Player A: Slowking-Galar used Future Sight on self
+Player A: Slowking-Galar used Future Sight on Azumarill
 Turn 29:
 Player A: Switched out Slowking-Galar for Toxapex
-Player B: Azumarill used Knock Off on Toxapex for 0 damage
+Player B: Azumarill used Knock Off on Toxapex
 Turn 30:
 Player A: Switched out Toxapex for Landorus-Therian
 Player B: Azumarill used Knock Off on Landorus-Therian for 4 damage
@@ -107,8 +108,9 @@ Player B: Azumarill fainted
 Player B: Switched out Azumarill for Kommo-o
 Player A: Switched out Toxapex for Slowking-Galar
 Turn 31:
-Player A: Slowking-Galar used Future Sight on self
+Player B: Kommo-o used Clangorous Soul on Kommo-o
+Player A: Slowking-Galar used Future Sight on Kommo-o
 Turn 32:
 Player B: Kommo-o used Clanging Scales on Slowking-Galar for 52 damage
-Player A: Slowking-Galar used Earthquake on Kommo-o for 13 damage
+Player A: Slowking-Galar used Earthquake on Kommo-o for 46 damage
 Player B: Kommo-o fainted

@@ -2,29 +2,30 @@ Battle start:
 Player A sent out Vaporeon
 Player B sent out Salamence
 Turn 1:
-Player B: Salamence used Dragon Dance on self
+Player B: Salamence used Dragon Dance on Salamence
+Player A: Vaporeon used Substitute on Vaporeon
 Turn 2:
-Player B: Salamence used Dragon Dance on self
+Player B: Salamence used Dragon Dance on Salamence
 Player A: Vaporeon used Ice Beam on Salamence for 100 damage (supereffective)
 Player B: Salamence fainted
 Player B: Switched out Salamence for Jirachi
 Turn 3:
-Player A: Vaporeon used Baton Pass on self
+Player A: Vaporeon used Baton Pass on Vaporeon
 Player A: Switched out Vaporeon for Smeargle
-Player B: Jirachi used Thunderbolt on self
+Player B: Jirachi used Thunderbolt on Smeargle
 Turn 4:
-Player A: Smeargle used Thunder Wave
+Player A: Smeargle used Thunder Wave on Jirachi and they are now paralyzed
 Player B: Jirachi can't move because it is paralyzed
 Turn 5:
 Player B: Switched out Jirachi for Claydol
-Player A: Smeargle used Spikes on self
+Player A: Smeargle used Spikes on Claydol
 Turn 6:
-Player A: Smeargle used Spore
+Player A: Smeargle used Spore on Claydol and they are now asleep
 Player B: Claydol can't move because it is asleep
 Turn 7:
-Player A: Smeargle used Spikes on self
+Player A: Smeargle used Spikes on Claydol
 Player B: Claydol can't move because it is asleep
 Turn 8:
-Player A: Smeargle used Spikes on self
+Player A: Smeargle used Spikes on Claydol
 Player B: Claydol can't move because it is asleep
 Turn 9:

@@ -5,20 +5,21 @@ Turn 1:
 Player B: Switched out Snorlax for Golem
 Player A: Snorlax used Body Slam on Golem for 12 damage
 Turn 2:
-Player A: Snorlax used Body Slam on Golem for 7 damage
-Player B: Golem used Roar on self
+Player A: Snorlax used Body Slam on Golem for 7 damage and they are now paralyzed
+Player B: Golem used Roar on Snorlax
+Player A: Snorlax got dragged out for Nidoking by opponent's move
 Turn 3:
-Player A: Switched out Snorlax for Zapdos
+Player A: Switched out Nidoking for Zapdos
 Player B: Switched out Golem for Snorlax
 Turn 4:
-Player A: Zapdos used Thunder on Snorlax for 30 damage
+Player A: Zapdos used Thunder on Snorlax for 30 damage and they are now paralyzed
 Player B: Snorlax used Double-Edge on Zapdos for 46 damage
 Turn 5:
 Player A: Switched out Zapdos for Cloyster
 Player B: Snorlax can't move because it is paralyzed
 Turn 6:
 Player B: Switched out Snorlax for Moltres
-Player A: Cloyster used Spikes on self
+Player A: Cloyster used Spikes on Moltres
 Turn 7:
 Player A: Switched out Cloyster for Tyranitar
 Player B: Moltres used Fire Blast on Tyranitar for 22 damage
@@ -46,13 +47,14 @@ Player B: Switched out Moltres for Golem
 Player A: Tyranitar used Rock Slide on Golem for 24 damage
 Turn 15:
 Player A: Switched out Tyranitar for Cloyster
-Player B: Golem used Roar on self
+Player B: Golem used Roar on Cloyster
+Player A: Tyranitar got dragged out for Snorlax by opponent's move
 Turn 16:
-Player A: Switched out Cloyster for Cloyster
+Player A: Switched out Snorlax for Cloyster
 Player B: Golem used Earthquake on Cloyster for 25 damage
 Turn 17:
 Player B: Switched out Golem for Snorlax
-Player A: Cloyster used Surf on Snorlax for 18 damage
+Player A: Cloyster used Surf on Snorlax for 27 damage
 Turn 18:
 Player A: Cloyster used Surf on Snorlax for 12 damage
 Player B: Snorlax used Rest and healed for 69
@@ -72,7 +74,7 @@ Turn 23:
 Player A: Nidoking used Earthquake on Snorlax for 20 damage
 Player B: Snorlax used Earthquake on Nidoking for 51 damage (supereffective)
 Turn 24:
-Player A: Nidoking used Lovely Kiss
+Player A: Nidoking used Lovely Kiss on Snorlax and they are now asleep
 Player B: Snorlax can't move because it is asleep
 Turn 25:
 Player B: Switched out Snorlax for Zapdos

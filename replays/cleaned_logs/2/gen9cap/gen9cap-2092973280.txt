@@ -28,7 +28,7 @@ Player A: Switched out Meowscarada for Heatran
 Player B: Kingambit used Kowtow Cleave on Heatran for 55 damage
 Turn 8:
 Player B: Switched out Kingambit for Pelipper
-Player A: Heatran used Stealth Rock on self
+Player A: Heatran used Stealth Rock on Pelipper
 Turn 9:
 Player A: Switched out Heatran for Tornadus-Therian
 Player B: Pelipper used Surf on Tornadus-Therian for 25 damage
@@ -36,11 +36,11 @@ Turn 10:
 Player B: Switched out Pelipper for Equilibra
 Player A: Tornadus-Therian used Bleakwind Storm on Equilibra for 2 damage
 Turn 11:
-Player A: Tornadus-Therian used Heat Wave on Equilibra for 17 damage (supereffective)
+Player A: Tornadus-Therian used Heat Wave on Equilibra for 17 damage and they are now burned (supereffective)
 Player B: Equilibra used Rapid Spin on Tornadus-Therian for 4 damage
 Turn 12:
 Player A: Tornadus-Therian used Knock Off on Equilibra for 18 damage
-Player B: Equilibra used Doom Desire on self
+Player B: Equilibra used Doom Desire on Tornadus-Therian
 Turn 13:
 Player B: Switched out Equilibra for Raging Bolt
 Player A: Tornadus-Therian used U-turn on Raging Bolt and crit for 11 damage
@@ -60,7 +60,7 @@ Player B: Raging Bolt used Thunderclap on Kyurem for 3 damage
 Player A: Kyurem fainted
 Player A: Switched out Kyurem for Heatran
 Turn 18:
-Player A: Heatran used Stealth Rock on self
+Player A: Heatran used Stealth Rock on Raging Bolt
 Player B: Raging Bolt used Thunder on Heatran for 45 damage
 Player A: Heatran fainted
 Player A: Switched out Heatran for Hemogoblin
@@ -69,10 +69,10 @@ Player B: Switched out Raging Bolt for Mollux
 Player A: Switched out Hemogoblin for Tornadus-Therian
 Turn 20:
 Player A: Tornadus-Therian used Knock Off on Mollux for 14 damage
-Player B: Mollux used Stealth Rock on self
+Player B: Mollux used Stealth Rock on Tornadus-Therian
 Turn 21:
 Player A: Tornadus-Therian used Bleakwind Storm on Mollux for 32 damage
-Player B: Mollux used Lava Plume on Tornadus-Therian for 19 damage
+Player B: Mollux used Lava Plume on Tornadus-Therian for 19 damage and they are now burned
 Turn 22:
 Player A: Tornadus-Therian used Bleakwind Storm on Mollux for 34 damage
 Player B: Mollux used Recover and healed for 50

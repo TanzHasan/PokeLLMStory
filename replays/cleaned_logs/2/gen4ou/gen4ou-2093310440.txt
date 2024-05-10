@@ -3,13 +3,13 @@ Player A sent out Absol
 Player B sent out Bronzong
 Turn 1:
 Player A: Absol used Night Slash on Bronzong for 32 damage
-Player B: Bronzong used Stealth Rock on self
+Player B: Bronzong used Stealth Rock on Absol
 Turn 2:
 Player B: Switched out Bronzong for Lucario
-Player A: Absol used Swords Dance on self
+Player A: Absol used Swords Dance on Absol
 Turn 3:
 Player B: Lucario used Close Combat on Absol for 99 damage (supereffective)
-Player A: Absol used Superpower on Lucario for 91 damage (supereffective)
+Player A: Absol used Superpower on Lucario for 100 damage (supereffective)
 Player B: Lucario fainted
 Player B: Switched out Lucario for Flygon
 Turn 4:
@@ -25,9 +25,9 @@ Player B: Tyranitar fainted
 Player B: Switched out Tyranitar for Bronzong
 Turn 6:
 Player A: Switched out Donphan for Aerodactyl
-Player B: Bronzong used Stealth Rock on self
+Player B: Bronzong used Stealth Rock on Aerodactyl
 Turn 7:
-Player A: Aerodactyl used Stealth Rock on self
+Player A: Aerodactyl used Stealth Rock on Bronzong
 Player B: Bronzong used Gyro Ball on Aerodactyl for 99 damage (supereffective)
 Turn 8:
 Player A: Switched out Aerodactyl for Slowbro
@@ -44,12 +44,12 @@ Player A: Switched out Donphan for Clefable
 Player B: Gengar used Shadow Ball but it had no effect on Clefable
 Turn 11:
 Player B: Gengar used Focus Blast on Clefable for 74 damage (supereffective)
-Player A: Clefable used Thunder Wave
+Player A: Clefable used Thunder Wave on Gengar and they are now paralyzed
 Turn 12:
 Player A: Clefable used Soft-Boiled and healed for 56
 Player B: Gengar can't move because it is paralyzed
 Turn 13:
-Player A: Clefable used Knock Off on Gengar for 25 damage (supereffective)
+Player A: Clefable used Knock Off on Gengar for 53 damage (supereffective)
 Player B: Gengar used Focus Blast on Clefable for 53 damage (supereffective)
 Turn 14:
 Player A: Clefable used Soft-Boiled and healed for 56
@@ -74,7 +74,7 @@ Player A: Donphan fainted
 Player A: Switched out Donphan for Clefable
 Turn 20:
 Player B: Kingdra used Surf on Clefable for 40 damage
-Player A: Clefable used Thunder Wave
+Player A: Clefable used Thunder Wave on Kingdra and they are now paralyzed
 Turn 21:
 Player A: Clefable used Soft-Boiled and healed for 55
 Player B: Kingdra used Surf on Clefable for 43 damage

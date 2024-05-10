@@ -3,22 +3,22 @@ Player A sent out Furfrou-Kabuki
 Player B sent out Durant
 Turn 1:
 Player A: Switched out Furfrou-Kabuki for Emolga
-Player B: Durant used Hone Claws on self
+Player B: Durant used Hone Claws on Durant
 Turn 2:
-Player A: Emolga used Thunderbolt on Durant for 147 damage
+Player A: Emolga used Thunderbolt on Durant for 147 damage and they are now paralyzed
 Player B: Durant can't move because it is paralyzed
 Turn 3:
 Player A: Emolga used Thunderbolt on Durant and crit for 82 damage
 Player B: Durant fainted
 Player B: Switched out Durant for Stantler
 Turn 4:
-Player A: Emolga used Toxic
+Player A: Emolga used Toxic on Stantler and they are now badly poisoned
 Player B: Stantler used Double-Edge on Emolga for 243 damage
 Player A: Emolga fainted
 Player A: Switched out Emolga for Doublade
 Turn 5:
 Player B: Switched out Stantler for Umbreon
-Player A: Doublade used Swords Dance on self
+Player A: Doublade used Swords Dance on Doublade
 Turn 6:
 Player A: Switched out Doublade for Articuno
 Player B: Umbreon used Foul Play on Articuno for 63 damage
@@ -27,13 +27,13 @@ Player A: Articuno used Freeze-Dry on Umbreon for 58 damage
 Player B: Umbreon used Toxic on Articuno but it missed
 Turn 8:
 Player A: Articuno used Freeze-Dry on Umbreon for 36 damage
-Player B: Umbreon used Toxic
+Player B: Umbreon used Toxic on Articuno and they are now badly poisoned
 Turn 9:
-Player A: Articuno used Toxic
+Player A: Articuno used Toxic on Umbreon and they are now badly poisoned
 Player B: Umbreon used Moonlight and healed for 94
 Turn 10:
 Player A: Articuno used Hurricane on Umbreon for 114 damage
-Player B: Umbreon used Heal Bell on self
+Player B: Umbreon used Heal Bell on Umbreon
 Turn 11:
 Player A: Articuno used Hurricane on Umbreon but it missed
 Player B: Umbreon used Moonlight and healed for 114
@@ -41,19 +41,20 @@ Turn 12:
 Player A: Articuno used Hurricane on Umbreon for 85 damage
 Player B: Umbreon used Foul Play on Articuno for 133 damage
 Turn 13:
-Player A: Articuno used Hurricane on Umbreon for 0 damage
+Player A: Articuno used Hurricane on Umbreon
 Player A: Articuno fainted
 Player A: Switched out Articuno for Furfrou-Kabuki
 Turn 14:
 Player B: Switched out Umbreon for Togedemaru
-Player A: Furfrou-Kabuki used Cotton Guard on self
+Player A: Furfrou-Kabuki used Cotton Guard on Furfrou-Kabuki
 Turn 15:
 Player A: Switched out Furfrou-Kabuki for Banette
 Player B: Togedemaru used Zing Zap on Banette for 100 damage
 Turn 16:
-Player B: Togedemaru used Spiky Shield on self
+Player B: Togedemaru used Spiky Shield on Togedemaru
+Player A: Banette used Knock Off on Togedemaru
 Turn 17:
-Player B: Togedemaru used U-turn on Banette for 27 damage
+Player B: Togedemaru used U-turn on Banette for 58 damage
 Player B: Switched out Togedemaru for Umbreon
 Player A: Banette used Knock Off on Umbreon for 28 damage
 Turn 18:
@@ -66,20 +67,20 @@ Player A: Greninja used Gunk Shot on Umbreon for 130 damage
 Player B: Umbreon used Toxic but it had no effect on Greninja
 Turn 20:
 Player B: Switched out Umbreon for Reuniclus
-Player A: Greninja used Gunk Shot on Reuniclus for 164 damage
+Player A: Greninja used Gunk Shot on Reuniclus for 164 damage and they are now poisoned
 Turn 21:
 Player A: Switched out Greninja for Furfrou-Kabuki
 Player B: Reuniclus used Psyshock on Furfrou-Kabuki for 90 damage
 Turn 22:
-Player A: Furfrou-Kabuki used Cotton Guard on self
-Player B: Reuniclus used Trick Room on self
+Player A: Furfrou-Kabuki used Cotton Guard on Furfrou-Kabuki
+Player B: Reuniclus used Trick Room on Reuniclus
 Turn 23:
 Player B: Reuniclus used Focus Blast on Furfrou-Kabuki for 179 damage (supereffective)
 Player A: Furfrou-Kabuki fainted
 Player A: Switched out Furfrou-Kabuki for Doublade
 Turn 24:
 Player B: Reuniclus used Shadow Ball on Doublade for 182 damage (supereffective)
-Player A: Doublade used Swords Dance on self
+Player A: Doublade used Swords Dance on Doublade
 Turn 25:
 Player A: Doublade used Shadow Sneak on Reuniclus for 169 damage (supereffective)
 Player B: Reuniclus fainted

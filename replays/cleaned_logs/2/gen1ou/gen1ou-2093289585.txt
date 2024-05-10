@@ -3,7 +3,7 @@ Player A sent out Starmie
 Player B sent out Alakazam
 Turn 1:
 Player A: Switched out Starmie for Chansey
-Player B: Alakazam used Thunder Wave
+Player B: Alakazam used Thunder Wave on Chansey and they are now paralyzed
 Turn 2:
 Player B: Alakazam used Psychic on Chansey for 16 damage
 Player A: Chansey can't move because it is paralyzed
@@ -26,8 +26,8 @@ Turn 8:
 Player A: Switched out Starmie for Exeggutor
 Player B: Alakazam used Psychic on Exeggutor for 14 damage
 Turn 9:
-Player B: Alakazam used Thunder Wave
-Player A: Exeggutor used Sleep Powder
+Player B: Alakazam used Thunder Wave on Exeggutor and they are now paralyzed
+Player A: Exeggutor used Sleep Powder on Alakazam and they are now asleep
 Turn 10:
 Player A: Switched out Exeggutor for Tauros
 Player B: Alakazam can't move because it is asleep
@@ -53,13 +53,13 @@ Player A: Switched out Tauros for Chansey
 Player B: Exeggutor used Psychic on Chansey for 16 damage
 Turn 17:
 Player B: Switched out Exeggutor for Snorlax
-Player A: Chansey used Thunder Wave
+Player A: Chansey used Thunder Wave on Snorlax and they are now paralyzed
 Turn 18:
 Player A: Switched out Chansey for Snorlax
 Player B: Snorlax can't move because it is paralyzed
 Turn 19:
 Player B: Switched out Snorlax for Gengar
-Player A: Snorlax used Reflect on self
+Player A: Snorlax used Reflect on Snorlax
 Turn 20:
 Player A: Switched out Snorlax for Chansey
 Player B: Gengar used Psychic on Chansey and crit for 23 damage
@@ -95,10 +95,10 @@ Player B: Zapdos used Thunderbolt on Zapdos for 30 damage
 Player A: Zapdos used Thunderbolt on Zapdos for 27 damage
 Turn 29:
 Player B: Zapdos used Thunderbolt on Zapdos for 27 damage
-Player A: Zapdos used Agility on self
+Player A: Zapdos used Agility on Zapdos
 Turn 30:
 Player A: Zapdos used Thunderbolt on Zapdos for 31 damage
-Player B: Zapdos used Thunder Wave
+Player B: Zapdos used Thunder Wave on Zapdos and they are now paralyzed
 Turn 31:
 Player B: Zapdos used Thunderbolt on Zapdos and crit for 43 damage
 Player A: Zapdos fainted

@@ -6,8 +6,8 @@ Player A: Switched out Lycanroc-Dusk for Sableye
 Player B: Zapdos-Galar used U-turn on Sableye for 30 damage
 Player B: Switched out Zapdos-Galar for Thundurus-Therian
 Turn 2:
-Player A: Sableye used Will-O-Wisp
-Player B: Thundurus-Therian used Nasty Plot on self
+Player A: Sableye used Will-O-Wisp on Thundurus-Therian and they are now burned
+Player B: Thundurus-Therian used Nasty Plot on Thundurus-Therian
 Turn 3:
 Player A: Switched out Sableye for Jolteon
 Player B: Thundurus-Therian used Sludge Wave on Jolteon for 85 damage
@@ -16,7 +16,7 @@ Player A: Switched out Jolteon for Swampert
 Player B: Thundurus-Therian used Sludge Wave on Swampert for 25 damage
 Turn 5:
 Player B: Thundurus-Therian used Tera Blast on Swampert for 70 damage
-Player A: Swampert used Stealth Rock on self
+Player A: Swampert used Stealth Rock on Thundurus-Therian
 Turn 6:
 Player B: Thundurus-Therian used Sludge Wave on Swampert for 5 damage
 Player A: Swampert fainted
@@ -33,7 +33,7 @@ Player A: Sableye used Foul Play on Conkeldurr for 20 damage
 Player B: Conkeldurr fainted
 Player B: Switched out Conkeldurr for Thundurus-Therian
 Turn 10:
-Player A: Sableye used Taunt on self
+Player A: Sableye used Taunt on Thundurus-Therian
 Player B: Thundurus-Therian used Thunderbolt on Sableye and crit for 9 damage
 Player A: Sableye fainted
 Player A: Switched out Sableye for Honchkrow
@@ -49,7 +49,7 @@ Player A: Switched out Jolteon for Hitmontop
 Player B: Moltres used Flamethrower on Hitmontop for 39 damage
 Turn 14:
 Player A: Switched out Hitmontop for Lycanroc-Dusk
-Player B: Moltres used Will-O-Wisp
+Player B: Moltres used Will-O-Wisp on Lycanroc-Dusk and they are now burned
 Turn 15:
 Player B: Switched out Moltres for Empoleon
 Player A: Lycanroc-Dusk used Close Combat on Empoleon for 78 damage (supereffective)

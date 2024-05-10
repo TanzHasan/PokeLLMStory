@@ -6,7 +6,7 @@ Player B: Switched out Tropius for Probopass
 Player A: Dodrio used Brave Bird on Probopass for 31 damage
 Turn 2:
 Player A: Switched out Dodrio for Carnivine
-Player B: Probopass used Thunder Wave
+Player B: Probopass used Thunder Wave on Carnivine and they are now paralyzed
 Turn 3:
 Player B: Probopass used Volt Switch on Carnivine for 23 damage
 Player B: Switched out Probopass for Reshiram
@@ -22,7 +22,7 @@ Player B: Reshiram used Flame Charge on Carnivine for 18 damage (supereffective)
 Player A: Carnivine fainted
 Player A: Switched out Carnivine for Dodrio
 Turn 7:
-Player B: Reshiram used Blue Flare on Dodrio for 202 damage
+Player B: Reshiram used Blue Flare on Dodrio for 236 damage
 Player A: Dodrio used Return on Reshiram for 175 damage
 Player A: Dodrio fainted
 Player A: Switched out Dodrio for Crawdaunt
@@ -34,14 +34,14 @@ Player A: Crawdaunt fainted
 Player B: Switched out Reshiram for Probopass
 Player A: Switched out Crawdaunt for Cloyster
 Turn 9:
-Player A: Cloyster used Shell Smash on self
-Player B: Probopass used Thunder Wave
+Player A: Cloyster used Shell Smash on Cloyster
+Player B: Probopass used Thunder Wave on Cloyster and they are now paralyzed
 Turn 10:
 Player B: Probopass used Power Gem on Cloyster and crit for 209 damage (supereffective)
 Player A: Cloyster fainted
 Player A: Switched out Cloyster for Pinsir
 Turn 11:
-Player A: Pinsir used Stealth Rock on self
+Player A: Pinsir used Stealth Rock on Probopass
 Player B: Probopass used Power Gem on Pinsir for 162 damage (supereffective)
 Turn 12:
 Player A: Pinsir used Earthquake on Probopass for 218 damage (supereffective)
@@ -49,15 +49,15 @@ Player B: Probopass fainted
 Player B: Switched out Probopass for Granbull
 Turn 13:
 Player A: Switched out Pinsir for Exeggutor
-Player B: Granbull used Thunder Wave
+Player B: Granbull used Thunder Wave on Exeggutor and they are now paralyzed
 Turn 14:
 Player B: Granbull used Crunch on Exeggutor for 146 damage (supereffective)
-Player A: Exeggutor used Leech Seed on self
+Player A: Exeggutor used Leech Seed on Granbull
 Turn 15:
 Player B: Switched out Granbull for Tropius
-Player A: Exeggutor used Substitute and healed for 77
+Player A: Exeggutor used Substitute and healed for 38
 Turn 16:
-Player B: Tropius used Substitute and healed for 82
+Player B: Tropius used Substitute and healed for -82
 Player A: Exeggutor used Psychic
 Turn 17:
 Player B: Tropius used Air Slash

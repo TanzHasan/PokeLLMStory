@@ -23,7 +23,7 @@ Player A: Scrafty used Drain Punch on Tyranitar for 72 damage (supereffective)
 Player A: Scrafty used Drain Punch and healed for 25
 Turn 7:
 Player B: Switched out Tyranitar for Iron Boulder
-Player A: Scrafty used Drain Punch on Iron Boulder for 31 damage
+Player A: Scrafty used Drain Punch on Iron Boulder for 37 damage
 Turn 8:
 Player A: Switched out Scrafty for Okidogi
 Player B: Iron Boulder used Close Combat on Okidogi for 14 damage
@@ -46,7 +46,7 @@ Turn 13:
 Player B: Switched out Iron Boulder for Coalossal
 Player A: Breloom used Mach Punch on Coalossal for 33 damage (supereffective)
 Turn 14:
-Player A: Breloom used Spore
+Player A: Breloom used Spore on Coalossal and they are now asleep
 Player B: Coalossal can't move because it is asleep
 Turn 15:
 Player B: Switched out Coalossal for Iron Boulder

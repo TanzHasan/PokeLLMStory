@@ -2,13 +2,13 @@ Battle start:
 Player A sent out Glimmora
 Player B sent out Garchomp
 Turn 1:
-Player B: Garchomp used Swords Dance on self
-Player A: Glimmora used Stealth Rock on self
+Player B: Garchomp used Swords Dance on Garchomp
+Player A: Glimmora used Stealth Rock on Garchomp
 Turn 2:
 Player A: Switched out Glimmora for Grimmsnarl
 Player B: Garchomp used Scale Shot but it had no effect on Grimmsnarl
 Turn 3:
-Player A: Grimmsnarl used Reflect on self
+Player A: Grimmsnarl used Reflect on Grimmsnarl
 Player B: Garchomp used Iron Head on Grimmsnarl for 55 damage (supereffective)
 Turn 4:
 Player B: Garchomp used Iron Head on Grimmsnarl and crit for 45 damage (supereffective)
@@ -27,19 +27,19 @@ Player B: Volcarona fainted
 Player B: Switched out Volcarona for Corviknight
 Turn 8:
 Player A: Inteleon used Snipe Shot on Corviknight and crit for 89 damage
-Player B: Corviknight used Defog on self
+Player B: Corviknight used Defog on Inteleon
 Turn 9:
 Player A: Switched out Inteleon for Glimmora
 Player B: Corviknight used Roost and healed for 56
 Turn 10:
 Player B: Switched out Corviknight for Raging Bolt
-Player A: Glimmora used Stealth Rock on self
+Player A: Glimmora used Stealth Rock on Raging Bolt
 Turn 11:
 Player A: Glimmora used Earth Power on Raging Bolt for 51 damage (supereffective)
-Player B: Raging Bolt used Calm Mind on self
+Player B: Raging Bolt used Calm Mind on Raging Bolt
 Turn 12:
 Player B: Raging Bolt used Thunderclap on Glimmora for 99 damage
-Player A: Glimmora used Mortal Spin on Raging Bolt for 4 damage
+Player A: Glimmora used Mortal Spin on Raging Bolt for 4 damage and they are now poisoned
 Turn 13:
 Player A: Glimmora used Energy Ball on Raging Bolt for 45 damage (supereffective)
 Player B: Raging Bolt fainted

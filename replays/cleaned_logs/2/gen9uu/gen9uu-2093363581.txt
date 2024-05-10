@@ -3,27 +3,27 @@ Player A sent out Deoxys-Speed
 Player B sent out Mandibuzz
 Turn 1:
 Player A: Deoxys-Speed used Ice Beam on Mandibuzz for 49 damage (supereffective)
-Player B: Mandibuzz used Knock Off on Deoxys-Speed for 75 damage (supereffective)
+Player B: Mandibuzz used Knock Off on Deoxys-Speed for 84 damage (supereffective)
 Turn 2:
 Player A: Switched out Deoxys-Speed for Tyranitar
 Player B: Mandibuzz used Roost and healed for 49
 Turn 3:
-Player B: Mandibuzz used Toxic
-Player A: Tyranitar used Stealth Rock on self
+Player B: Mandibuzz used Toxic on Tyranitar and they are now badly poisoned
+Player A: Tyranitar used Stealth Rock on Mandibuzz
 Turn 4:
-Player B: Mandibuzz used Defog on self
+Player B: Mandibuzz used Defog on Tyranitar
 Player A: Tyranitar used Knock Off on Mandibuzz for 11 damage
 Turn 5:
 Player B: Mandibuzz used Knock Off on Tyranitar for 26 damage
-Player A: Tyranitar used Thunder Wave
+Player A: Tyranitar used Thunder Wave on Mandibuzz and they are now paralyzed
 Turn 6:
-Player A: Tyranitar used Stealth Rock on self
+Player A: Tyranitar used Stealth Rock on Mandibuzz
 Player B: Mandibuzz used Knock Off on Tyranitar for 24 damage
 Turn 7:
 Player A: Switched out Tyranitar for Excadrill
-Player B: Mandibuzz used Defog on self
+Player B: Mandibuzz used Defog on Excadrill
 Turn 8:
-Player A: Excadrill used Swords Dance on self
+Player A: Excadrill used Swords Dance on Excadrill
 Player B: Mandibuzz used Knock Off on Excadrill for 30 damage
 Turn 9:
 Player B: Switched out Mandibuzz for Skeledirge
@@ -44,22 +44,23 @@ Turn 14:
 Player B: Switched out Mandibuzz for Hippowdon
 Player A: Excadrill used Iron Head on Hippowdon for 25 damage
 Turn 15:
-Player A: Excadrill used Swords Dance on self
-Player B: Hippowdon used Stealth Rock on self
+Player A: Excadrill used Swords Dance on Excadrill
+Player B: Hippowdon used Stealth Rock on Excadrill
 Turn 16:
 Player A: Excadrill used Earthquake on Hippowdon for 57 damage
-Player B: Hippowdon used Whirlwind on self
+Player B: Hippowdon used Whirlwind on Excadrill
+Player A: Excadrill got dragged out for Mandibuzz by opponent's move
 Turn 17:
-Player A: Excadrill used Defog on self
+Player A: Mandibuzz used Defog on Hippowdon
 Player B: Hippowdon used Slack Off and healed for 57
 Turn 18:
-Player A: Switched out Excadrill for Latios
-Player B: Hippowdon used Stealth Rock on self
+Player A: Switched out Mandibuzz for Latios
+Player B: Hippowdon used Stealth Rock on Latios
 Turn 19:
 Player B: Switched out Hippowdon for Slowking
 Player A: Latios used Surf on Slowking for 9 damage
 Turn 20:
 Player A: Latios used Draco Meteor on Slowking for 55 damage
-Player B: Slowking used Chilly Reception on self
+Player B: Slowking used Chilly Reception on Slowking
 Player B: Switched out Slowking for Mandibuzz
 Turn 21:

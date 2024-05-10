@@ -2,11 +2,11 @@ Battle start:
 Player A sent out Ribombee
 Player B sent out Volcanion
 Turn 1:
-Player A: Ribombee used Stun Spore
+Player A: Ribombee used Stun Spore on Volcanion and they are now paralyzed
 Player B: Volcanion used Flamethrower on Ribombee for 99 damage (supereffective)
 Turn 2:
 Player B: Switched out Volcanion for Ninetales-Alola
-Player A: Ribombee used Sticky Web on self
+Player A: Ribombee used Sticky Web on Ninetales-Alola
 Player A: Ribombee fainted
 Player A: Switched out Ribombee for Blacephalon
 Turn 3:
@@ -21,10 +21,10 @@ Player B: Tornadus-Therian used U-turn on Excadrill for 11 damage
 Player B: Switched out Tornadus-Therian for Corviknight
 Turn 6:
 Player A: Switched out Excadrill for Bisharp
-Player B: Corviknight used Defog on self
+Player B: Corviknight used Defog on Bisharp
 Turn 7:
 Player A: Bisharp used Knock Off on Corviknight for 85 damage
-Player B: Corviknight used Body Press on Bisharp for 78 damage (supereffective)
+Player B: Corviknight used Body Press on Bisharp for 100 damage (supereffective)
 Player A: Bisharp fainted
 Player A: Switched out Bisharp for Excadrill
 Turn 8:
@@ -32,7 +32,7 @@ Player A: Excadrill used Rock Tomb on Corviknight for 15 damage
 Player B: Corviknight fainted
 Player B: Switched out Corviknight for Landorus-Therian
 Turn 9:
-Player A: Excadrill used Stealth Rock on self
+Player A: Excadrill used Stealth Rock on Landorus-Therian
 Player B: Landorus-Therian used Earthquake on Excadrill for 89 damage (supereffective)
 Player A: Excadrill fainted
 Player A: Switched out Excadrill for Blacephalon
