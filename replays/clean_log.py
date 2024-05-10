@@ -11,13 +11,13 @@ def process_output(battle: Battle):
     }
 
     status = {
-        "frz": "it is frozen",
-        "slp": "it is asleep",
-        "par": "it is paralyzed",
-        "brn": "it is burned",
-        "psn": "it is poisoned",
-        "tox": "it is badly poisoned",
-        "partiallytrapped": "it is partially trapped",
+        "frz": "frozen",
+        "slp": "asleep",
+        "par": "paralyzed",
+        "brn": "burned",
+        "psn": "poisoned",
+        "tox": "badly poisoned",
+        "partiallytrapped": "partially trapped",
         "": "",
     }
 
@@ -47,6 +47,12 @@ def process_output(battle: Battle):
                         f"{source_player}: Switched out {source_pokemon} for {action.name}"
                     )
                     active_pokemon[action.source] = action.name
+                
+                case "drag":
+                    output.append(
+                        f"{source_player}: {source_pokemon} got dragged out for {action.name} by opponent's move"
+                    )
+                    active_pokemon[action.source] = action.name
 
                 case "move":
                     line = f"{source_player}: {source_pokemon} used {action.name}"
@@ -61,10 +67,11 @@ def process_output(battle: Battle):
 
                         match result:
                             case "hit":
-                                new_line = (
-                                    line
-                                    + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
-                                )
+                                new_line = f"{line} on {target_pokemon}"
+                                if damage:
+                                    new_line += f"{' and crit' if crit else ''} for {damage} damage"
+                                if target_status:
+                                    new_line += f" and they are now {status[target_status]}"
                                 if effectiveness:
                                     new_line += f" ({effectiveness})"
 
@@ -94,11 +101,14 @@ def process_output(battle: Battle):
                             output.append(new_line)
 
                     if not action.results:
-                        output.append(line + " on self")
+                        if action.targets:
+                            output.append(line + " on " + ", ".join(active_pokemon[target] for target in action.targets))
+                        else:
+                            output.append(line + " on self")
 
                 case "cant":
                     output.append(
-                        f"{source_player}: {source_pokemon} can't move because {status.get(action.name, action.name)}"
+                        f"{source_player}: {source_pokemon} can't move because it is {status.get(action.name, action.name)}"
                     )
 
                 case "faint":
@@ -135,12 +145,12 @@ def parse_args() -> Battle:
 
 def main():
     battle, write_debug_file = parse_args()
-    output = process_output(battle)
-    print(output)
-
     if write_debug_file:
         with open("output.txt", "w") as f:
             pprint(battle, f)
+    output = process_output(battle)
+    print(output)
+
 
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
 import re
-from replays.data_model import Battle, Turn, Action, ActionResult, Pokemon
+from data_model import Battle, Turn, Action, ActionResult, Pokemon
 from collections import defaultdict
 
 from copy import deepcopy
@@ -8,6 +8,7 @@ from copy import deepcopy
 regex_turn = re.compile(r"^\|turn\|(\d+)$")
 regex_move = re.compile(r"\|move\|(([^|]+): ([^|]+))\|([^|]+)\|(([^|]+): ([^|]+))?")
 regex_switch = re.compile(r"^\|switch\|((.+): ([^|]+))\|([^,|]+).*\|(\d+)\/(\d+)")
+regex_drag = re.compile(r"^\|drag\|((.+): ([^|]+))\|([^,|]+).*\|(\d+)\/(\d+)")
 regex_faint = re.compile(r"^\|faint\|(([^|]+): ([^|]+))$")
 regex_cant = re.compile(r"^\|cant\|(([^|]+): ([^|]+))\|([^|]+)")
 
@@ -31,7 +32,6 @@ def parse_log_file(file_path):
     # Maps [unit] to Pokemon object
     active_pokemon = {}
 
-    # print("a")
     battle = Battle()
     turns = []
 
@@ -59,41 +59,47 @@ def parse_log_file(file_path):
             # Check if the line represents a move
             match_move = regex_move.match(line)
             if match_move:
+                targets = []
+
                 source_unit = match_move.group(2)
                 source_player = source_unit[:-1]
                 source_nickname = match_move.group(3)
                 move = match_move.group(4)
                 target = match_move.group(5) or ""
                 target_unit = match_move.group(6) or ""
+                targets.append(target_unit)
                 target_player = target_unit[:-1] or ""
                 target_nickname = match_move.group(7) or ""
 
                 # Get results of the move
                 results = defaultdict(ActionResult)
                 line = file_contents[index].strip()
-                targets = []
                 while index < len(file_contents) and line.startswith("|-"):
                     # Damage
                     match_damage = regex_damage.match(line)
                     if match_damage:
                         target = match_damage.group(1)
                         target_unit = match_damage.group(2)
-                        if target_unit not in targets:
-                            targets.append(target_unit)
-                        target_player = target_unit[:-1]
-                        target_nickname = match_damage.group(3)
-                        if match_damage.group(4) == "0 fnt":
-                            # dead
-                            health = 0
-                        else:
-                            health = int(match_damage.group(5))
-                            max_hp = int(match_damage.group(6))
+                        if target_unit != source_unit:
+                            if target_unit not in targets:
+                                targets.append(target_unit)
+                            target_player = target_unit[:-1]
+                            target_nickname = match_damage.group(3)
+                            if match_damage.group(4) == "0 fnt":
+                                # dead
+                                health = 0
+                            else:
+                                health = int(match_damage.group(5))
+                                max_hp = int(match_damage.group(6))
 
-                        prev_health = known_pokemon[target_player][target_nickname].hp
+                            prev_health = known_pokemon[target_player][target_nickname].hp
 
-                        results[target_unit].result = "hit"
-                        results[target_unit].damage = prev_health - health
-                        known_pokemon[target_player][target_nickname].hp = health
+                            # bug: pokemon can be healed/damaged within same "move" due to status effects like burn or poison
+                            # need to modify data model to allow for multiple results per target
+                            if results[target_unit].result != "heal":
+                                results[target_unit].result = "hit"
+                            results[target_unit].damage = prev_health - health
+                            known_pokemon[target_player][target_nickname].hp = health
 
                     # Heal
                     match_heal = regex_heal.match(line)
@@ -128,6 +134,7 @@ def parse_log_file(file_path):
                         target_nickname = match_status.group(3)
                         status = match_status.group(4)
 
+                        results[target_unit].result = "hit"
                         results[target_unit].status = status
                         known_pokemon[target_player][target_nickname].status = status
 
@@ -202,8 +209,8 @@ def parse_log_file(file_path):
                 )
                 continue
 
-            # Check if the line represents a switch
-            match_switch = regex_switch.match(line)
+            # Check if the line represents a switch or drag
+            match_switch = regex_switch.match(line) or regex_drag.match(line)
             if match_switch:
                 target = match_switch.group(1)
                 unit = match_switch.group(2)
@@ -224,8 +231,9 @@ def parse_log_file(file_path):
                 active_pokemon[unit] = known_pokemon[player][nickname]
 
                 # Update turn
+                action = "switch" if regex_switch.match(line) else "drag"
                 current_turn.actions.append(
-                    Action(unit, "switch", pokemon_name, [unit], {})
+                    Action(unit, action, pokemon_name, [unit], {})
                 )
                 continue
 
