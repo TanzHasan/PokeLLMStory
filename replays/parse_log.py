@@ -289,7 +289,7 @@ def action_to_string(turn: Turn, action: Action, translation: dict, active_pokem
                 return f'{source_player}: {source_pokemon} switched out for {action.name}'
                 
             case "move":
-                line = f"{source_player}: {source_pokemon} used {action.name}"
+                line = f"{source_player}: {source_player}'s {source_pokemon} used {action.name}"
                 for target, action_result in action.results.items():
                     result = action_result.result
                     damage = action_result.damage
@@ -303,7 +303,7 @@ def action_to_string(turn: Turn, action: Action, translation: dict, active_pokem
                         case "hit":
                             new_line = (
                                 line
-                                + f" on {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
+                                + f" on {target_player}'s {target_pokemon}{' and crit' if crit else ''} for {damage} damage"
                             )
                             if effectiveness:
                                 new_line += f" ({effectiveness})"
